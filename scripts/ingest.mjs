@@ -199,8 +199,20 @@ const MATCH_COMPETITIONS = [
   { slug: "bra.copa_do_brazil", comp: COPA_DO_BRASIL, window: false },
 ];
 
+// Real club crest from ESPN's CDN (free, used for identification; the UI falls
+// back to a monogram if it ever fails to load).
+function teamLogo(espnTeam) {
+  const href =
+    espnTeam.logos?.find((l) => !/dark/i.test(l.href || ""))?.href ||
+    espnTeam.logos?.[0]?.href ||
+    espnTeam.logo;
+  const safe = safeUrl(href);
+  return safe !== "#" ? safe : undefined;
+}
+
 function teamRef(espnTeam) {
   const name = espnTeam.displayName || espnTeam.name || espnTeam.abbreviation;
+  const crest = teamLogo(espnTeam);
   const isPalmeiras =
     String(espnTeam.id) === PALMEIRAS_ESPN_ID || /palmeiras/i.test(name);
   if (isPalmeiras) {
@@ -208,10 +220,10 @@ function teamRef(espnTeam) {
       id: "palmeiras",
       name: "Palmeiras",
       nameKo: "파우메이라스",
-      crest: "/teams/palmeiras/crest.svg",
+      crest: crest || "/teams/palmeiras/crest.svg",
     };
   }
-  return { id: String(espnTeam.id), name, nameKo: teamKo(name) };
+  return { id: String(espnTeam.id), name, nameKo: teamKo(name), crest };
 }
 
 function mapStatus(state) {
@@ -380,6 +392,7 @@ async function ingestStandings() {
       teamId: ref.id,
       teamName: ref.name,
       teamNameKo: ref.nameKo,
+      crest: ref.crest,
       played: stat(e, ["gamesPlayed"]),
       won,
       drawn,

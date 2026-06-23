@@ -1,5 +1,6 @@
 import type { Standings } from "@/lib/domain/types";
 import { FormBadges } from "@/components/ui/FormBadges";
+import { Crest } from "@/components/ui/Crest";
 import { formatGoalDiff } from "@/lib/format/stats";
 
 /** League table with the tracked team highlighted + qualification-zone hints. */
@@ -69,10 +70,18 @@ export function StandingsTable({ standings }: { standings: Standings }) {
                 </span>
               </td>
               <td className="px-3 py-2">
-                {row.teamNameKo}
-                {row.isTracked ? (
-                  <span className="ml-1 text-[var(--pm-primary)]">●</span>
-                ) : null}
+                <span className="flex items-center gap-2">
+                  <Crest
+                    src={row.crest}
+                    alt={`${row.teamName} 엠블럼`}
+                    label={row.teamName}
+                    size={20}
+                  />
+                  <span>{row.teamNameKo}</span>
+                  {row.isTracked ? (
+                    <span className="text-[var(--pm-primary)]">●</span>
+                  ) : null}
+                </span>
               </td>
               <td className="px-2 py-2 text-center tabular-nums">
                 {row.played}

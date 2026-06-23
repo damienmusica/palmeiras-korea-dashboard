@@ -263,6 +263,8 @@ export interface StandingRow {
   teamId: string;
   teamName: string;
   teamNameKo: string;
+  /** Club crest URL (real logo), with monogram fallback in the UI. */
+  crest?: string;
   played: number;
   won: number;
   drawn: number;
