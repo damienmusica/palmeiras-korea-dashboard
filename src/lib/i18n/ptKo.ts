@@ -30,7 +30,7 @@ const CURATED_PEOPLE: Record<string, string> = {
   // GK
   aranha: "아라냐",
   carlosmiguel: "카를루스 미게우",
-  klima: "K. 리마",
+  klima: "카우안 리마",
   luizfelipe: "루이스 펠리피",
   marcelolomba: "마르셀루 롬바",
   // DF
@@ -41,7 +41,7 @@ const CURATED_PEOPLE: Record<string, string> = {
   ggomez: "구스타보 고메스",
   jefte: "제프테",
   khellven: "켈벤",
-  mkone: "M. 코네",
+  mkone: "모하메드 코네",
   murilo: "무릴루",
   jpiquerez: "조아킨 피케레스",
   // MF
@@ -54,10 +54,10 @@ const CURATED_PEOPLE: Record<string, string> = {
   emartinez: "에밀리아노 마르티네스",
   mauricio: "마우리시우",
   rafaelcoutinho: "하파엘 코우치뉴",
-  rsosa: "R. 소사",
+  rsosa: "라몬 소사",
   abdalqaderghareeb: "압드 알 카데르 가레브",
   // FW
-  jarias: "J. 아리아스",
+  jarias: "존 아리아스",
   eduardo: "에두아르두",
   erickmachado: "에리키 마샤두",
   felipeanderson: "펠리피 안데르송",

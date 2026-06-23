@@ -196,10 +196,10 @@ describe("playerInsight", () => {
     availability: "available",
   };
   it("uses editorial content for known players", () => {
-    const estevao: Player = { ...generic, id: "estevao" };
-    const i = playerInsight(estevao);
+    const lopez: Player = { ...generic, id: "flaco-lopez" };
+    const i = playerInsight(lopez);
     expect(i.source).toBe("editorial");
-    expect(i.whyCareKo).toContain("메시뉴");
+    expect(i.whyCareKo).toContain("플라코");
   });
   it("falls back to a position template for unknown players", () => {
     const i = playerInsight(generic);

@@ -8,7 +8,7 @@ describe("isSafeHttpUrl", () => {
   });
   it("accepts same-app relative paths", () => {
     expect(isSafeHttpUrl("/news")).toBe(true);
-    expect(isSafeHttpUrl("/squad/estevao")).toBe(true);
+    expect(isSafeHttpUrl("/squad/vitor-roque")).toBe(true);
   });
   it("rejects dangerous schemes", () => {
     expect(isSafeHttpUrl("javascript:alert(1)")).toBe(false);

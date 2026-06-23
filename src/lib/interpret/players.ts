@@ -65,18 +65,6 @@ const EDITORIAL: Record<string, Omit<PlayerInsight, "source">> = {
     whyCareKo:
       "꾸준히 성장 중인 영건으로, 득점과 도움을 고루 기록하는 멀티 자원입니다.",
   },
-  estevao: {
-    roleKo: "팀의 미래, 오른쪽 윙어",
-    styleKo:
-      "왼발 드리블로 안쪽으로 파고드는 ‘인사이드 포워드’. 가속과 결정력이 또래 최고 수준입니다.",
-    whyCareKo:
-      "‘메시뉴(작은 메시)’라 불리는 세계적 유망주입니다. 브라질 국가대표에도 발탁됐고, 이미 유럽 빅클럽 이적이 예정될 만큼 주목받는 재능입니다.",
-    narrativeKo: "지금 파우메이라스를 봐야 하는 가장 큰 이유 중 하나.",
-    archetypeKo:
-      "왼발잡이 인사이드 윙어 — ‘안쪽으로 접고 슈팅’하는 현대 윙어 유형.",
-    nameNoteKo:
-      "‘에스테벙’ (Estêvão) — 끝의 ‘-ão’은 콧소리 ‘-엉/-앙’에 가깝습니다.",
-  },
   "flaco-lopez": {
     roleKo: "최전방 중앙 공격수(타깃맨)",
     styleKo:

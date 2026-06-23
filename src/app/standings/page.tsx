@@ -1,11 +1,31 @@
 import type { Metadata } from "next";
-import { getStandings, getMatches } from "@/lib/adapters";
+import type { Player } from "@/lib/domain/types";
+import { getStandings, getMatches, getSquad } from "@/lib/adapters";
 import { StandingsTable } from "@/components/standings/StandingsTable";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 import { competitionContext } from "@/lib/interpret/competitions";
-import { recentForm } from "@/lib/format/stats";
+import { aggregateStats, recentForm } from "@/lib/format/stats";
 import { ACTIVE_TEAM_ID } from "@/lib/teams";
+
+interface Leader {
+  playerName: string;
+  playerNameKo: string;
+  value: number;
+}
+
+/** Current-season Palmeiras leaders for a stat, from the real squad snapshot. */
+function squadLeaders(players: Player[], key: "goals" | "assists"): Leader[] {
+  return players
+    .map((p) => ({
+      playerName: p.name,
+      playerNameKo: p.nameKo,
+      value: aggregateStats(p.stats)?.[key] ?? 0,
+    }))
+    .filter((r) => r.value > 0)
+    .sort((a, b) => b.value - a.value)
+    .slice(0, 5);
+}
 
 export const metadata: Metadata = {
   title: "순위·기록",
@@ -16,7 +36,11 @@ export const metadata: Metadata = {
 export const revalidate = 300;
 
 export default async function StandingsPage() {
-  const [res, matchesRes] = await Promise.all([getStandings(), getMatches()]);
+  const [res, matchesRes, squadRes] = await Promise.all([
+    getStandings(),
+    getMatches(),
+    getSquad(),
+  ]);
   // ESPN's standings feed carries no recent-form string, so derive the tracked
   // team's last-5 from the fixtures snapshot (others stay blank — honest, since
   // we don't have every club's match log).
@@ -29,6 +53,14 @@ export default async function StandingsPage() {
   };
   const ctx = competitionContext(s.competition.id);
   const tracked = s.table.find((r) => r.isTracked);
+
+  // Individual records: show the tracked team's CURRENT-season scorers/assisters
+  // from the real squad snapshot (ESPN), instead of a stale league-wide list.
+  const topScorers = squadLeaders(squadRes.data.players, "goals");
+  const topAssisters = squadLeaders(squadRes.data.players, "assists");
+  const recordsSeason =
+    squadRes.data.players.find((p) => p.stats?.length)?.stats?.[0]?.season ??
+    s.season;
 
   return (
     <div className="space-y-5">
@@ -60,23 +92,21 @@ export default async function StandingsPage() {
 
       <StandingsTable standings={s} />
 
-      {/* Top scorers / assisters */}
+      {/* Palmeiras current-season scorers / assisters (real squad data) */}
       <div className="flex items-baseline justify-between">
-        <h2 className="text-lg font-bold">개인 기록</h2>
-        {s.leadersSeason ? (
-          <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
-            {s.leadersSeason} 시즌 기준
-          </span>
-        ) : null}
+        <h2 className="text-lg font-bold">파우메이라스 개인 기록</h2>
+        <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
+          {recordsSeason} 시즌 · 세리이 A
+        </span>
       </div>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-        <LeaderCard title="⚽ 득점 순위" rows={s.topScorers} unit="골" />
-        <LeaderCard title="🅰️ 도움 순위" rows={s.topAssisters} unit="도움" />
+        <LeaderCard title="⚽ 팀 내 득점" rows={topScorers} unit="골" />
+        <LeaderCard title="🅰️ 팀 내 도움" rows={topAssisters} unit="도움" />
       </div>
       <p className="text-xs text-[var(--pm-muted)]">
         ※ 순위표는 위 배지의 출처·시점 기준입니다(소스 장애 시 시드 데이터로
-        자동 대체되며 그렇게 표기됩니다). 개인 기록은 무료 소스 한계로 과거
-        시즌일 수 있어 시즌을 명시했습니다. 정확한 실시간 기록은 공식 출처를
+        자동 대체되며 그렇게 표기됩니다). 개인 기록은 파우메이라스 선수단의 현재
+        시즌 리그(세리이 A) 출전 기준이며, 리그 전체 득점왕은 공식 출처를
         확인하세요.
       </p>
     </div>

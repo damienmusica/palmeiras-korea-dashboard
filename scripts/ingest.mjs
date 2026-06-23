@@ -408,56 +408,10 @@ async function ingestStandings() {
   });
   table.sort((a, b) => a.rank - b.rank);
 
-  // Top scorers / assisters: API-Football (free plan allows up to 2024). The
-  // names are stored raw; the app derives Korean deterministically. Reuse the
-  // previous snapshot's leaders if the API is unavailable (quota/no key).
-  const prevStandings = readData("standings.json");
-  let topScorers = prevStandings?.topScorers || [];
-  let topAssisters = prevStandings?.topAssisters || [];
-  let leadersSeason = prevStandings?.leadersSeason;
-  const key = process.env.API_FOOTBALL_KEY;
-  if (key) {
-    const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
-    const H = { headers: { "x-apisports-key": key } };
-    const SEASON = "2024"; // free-plan ceiling
-    const mapLeaders = (resp, metric) =>
-      (resp?.response || []).slice(0, 5).map((r) => ({
-        playerName: r.player?.name || "",
-        playerNameKo: r.player?.name || "", // app overrides via koreanName()
-        value:
-          (r.statistics || []).reduce(
-            (n, s) =>
-              n +
-              (metric === "assists"
-                ? s.goals?.assists || 0
-                : s.goals?.total || 0),
-            0,
-          ) || 0,
-      }));
-    try {
-      const sc = await getJson(
-        `https://${host}/players/topscorers?league=71&season=${SEASON}`,
-        H,
-      );
-      const as = await getJson(
-        `https://${host}/players/topassists?league=71&season=${SEASON}`,
-        H,
-      );
-      const scMapped = mapLeaders(sc, "goals");
-      const asMapped = mapLeaders(as, "assists");
-      if (scMapped.length) {
-        topScorers = scMapped;
-        leadersSeason = SEASON;
-      }
-      if (asMapped.length) {
-        topAssisters = asMapped;
-        leadersSeason = SEASON;
-      }
-    } catch (err) {
-      log("top scorers/assists fetch failed (keeping previous):", err.message);
-    }
-  }
-
+  // Individual scorer/assist records are shown on the standings page from the
+  // CURRENT-season squad snapshot (ESPN), so we no longer fetch a stale
+  // league-wide 2024 list from API-Football here (keeps the data honest +
+  // drops an API call). The fields are kept empty for schema compatibility.
   writeData("standings.json", {
     origin: "api",
     source: "ESPN (현재 시즌)",
@@ -465,13 +419,10 @@ async function ingestStandings() {
     season: String(data?.season?.year || new Date().getFullYear()),
     competition: BRASILEIRAO,
     table,
-    topScorers,
-    topAssisters,
-    leadersSeason,
+    topScorers: [],
+    topAssisters: [],
   });
-  log(
-    `wrote data/standings.json (${table.length} teams, ${topScorers.length} scorers)`,
-  );
+  log(`wrote data/standings.json (${table.length} teams)`);
 }
 
 // --- ESPN matches (free, current) -------------------------------------------

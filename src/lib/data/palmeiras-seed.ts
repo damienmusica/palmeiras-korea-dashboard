@@ -45,7 +45,7 @@ function opp(id: string, name: string, nameKo: string) {
 export const SEED_COACH: Coach = {
   id: "coach-abel",
   name: "Abel Ferreira",
-  nameKo: "아벨 페레이라",
+  nameKo: "아벨 페헤이라",
   nationality: "PT",
   nationalityKo: "포르투갈",
   birthDate: "1978-12-22",
@@ -406,32 +406,6 @@ export const SEED_PLAYERS: Player[] = [
     ],
   },
   // Forwards
-  {
-    id: "estevao",
-    name: "Estêvão",
-    nameKo: "에스테벙",
-    number: 41,
-    positionGroup: "FW",
-    position: "Ponta-direita",
-    positionKo: "오른쪽 윙어",
-    nationality: "BR",
-    nationalityKo: "브라질",
-    birthDate: "2007-04-24",
-    heightCm: 176,
-    foot: "left",
-    availability: "available",
-    bio: "'메시뉴'라 불리는 세계적 유망주 윙어. 드리블과 결정력이 뛰어나며 브라질 국가대표에도 발탁되었습니다.",
-    stats: [
-      {
-        season: "2026",
-        competition: "전체",
-        appearances: 24,
-        goals: 11,
-        assists: 7,
-        minutes: 2000,
-      },
-    ],
-  },
   {
     id: "felipe-anderson",
     name: "Felipe Anderson",
@@ -840,36 +814,36 @@ export const SEED_STANDINGS: Standings = {
       value: 12,
     },
     {
-      playerId: "estevao",
-      playerName: "Estêvão",
-      playerNameKo: "에스테벙",
-      value: 11,
-    },
-    {
       playerId: "vitor-roque",
       playerName: "Vitor Roque",
       playerNameKo: "비토르 호키",
       value: 9,
     },
+    {
+      playerId: "felipe-anderson",
+      playerName: "Felipe Anderson",
+      playerNameKo: "펠리피 안데르송",
+      value: 5,
+    },
   ],
   topAssisters: [
-    {
-      playerId: "estevao",
-      playerName: "Estêvão",
-      playerNameKo: "에스테벙",
-      value: 7,
-    },
-    {
-      playerId: "raphael-veiga",
-      playerName: "Raphael Veiga",
-      playerNameKo: "하파엘 베이가",
-      value: 6,
-    },
     {
       playerId: "felipe-anderson",
       playerName: "Felipe Anderson",
       playerNameKo: "펠리피 안데르송",
       value: 6,
+    },
+    {
+      playerId: "mauricio",
+      playerName: "Maurício",
+      playerNameKo: "마우리시우",
+      value: 5,
+    },
+    {
+      playerId: "piquerez",
+      playerName: "Joaquín Piquerez",
+      playerNameKo: "호아킨 피케레스",
+      value: 4,
     },
   ],
 };
@@ -881,9 +855,9 @@ export const SEED_NEWS: NewsItem[] = [
     id: "news-1",
     title: "Palmeiras vence Internacional e assume liderança do Brasileirão",
     summaryKo:
-      "파우메이라스가 홈에서 인테르나시오나우를 2-0으로 꺾고 브라질 세리이 A 단독 선두에 올랐습니다. 에스테벙과 플라코 로페스가 득점했습니다.",
+      "파우메이라스가 홈에서 인테르나시오나우를 2-0으로 꺾고 브라질 세리이 A 단독 선두에 올랐습니다. 플라코 로페스와 비토르 호키가 득점했습니다.",
     excerpt:
-      "Com gols de Estêvão e Flaco López, o Verdão venceu por 2 a 0 no Allianz Parque e assumiu a ponta da tabela.",
+      "Com gols de Flaco López e Vitor Roque, o Verdão venceu por 2 a 0 no Allianz Parque e assumiu a ponta da tabela.",
     url: "https://www.palmeiras.com.br/noticias",
     source: "palmeiras.com.br",
     language: "pt",
@@ -896,11 +870,11 @@ export const SEED_NEWS: NewsItem[] = [
   },
   {
     id: "news-2",
-    title: "Estêvão é convocado para a Seleção Brasileira",
+    title: "Vitor Roque é convocado para a Seleção Brasileira",
     summaryKo:
-      "파우메이라스의 영건 윙어 에스테벙이 브라질 국가대표팀에 소집되었습니다. 최근 빼어난 활약을 인정받은 결과입니다.",
+      "파우메이라스의 스트라이커 비토르 호키가 브라질 국가대표팀에 소집되었습니다. 최근 빼어난 활약을 인정받은 결과입니다.",
     excerpt:
-      "A joia do Palmeiras foi novamente chamada para defender a Seleção nas próximas partidas.",
+      "O atacante do Palmeiras foi chamado para defender a Seleção nas próximas partidas.",
     url: "https://ge.globo.com/",
     source: "ge.globo (esporte)",
     language: "pt",
@@ -908,14 +882,14 @@ export const SEED_NEWS: NewsItem[] = [
     tags: ["국가대표", "이적/소집"],
     reliability: "reliable",
     whyItMattersKo:
-      "팀의 미래 에스테벙이 이미 ‘세계가 인정하는’ 단계에 들어섰다는 신호입니다. 대표팀 차출은 곧 향후 유럽 이적과 몸값 상승으로 이어질 수 있어 팬에겐 자랑이자 아쉬움입니다.",
-    fanTakeKo: "지금 이 선수를 직접 볼 수 있다는 건 행운입니다.",
+      "주전 공격수의 대표팀 차출은 팀의 공격력이 그만큼 인정받았다는 신호입니다. 다만 A매치 기간 부상·피로 관리가 변수로 떠오를 수 있습니다.",
+    fanTakeKo: "팀 간판 공격수가 대표팀에 뽑히는 건 늘 자랑스럽죠.",
   },
   {
     id: "news-3",
     title: "Abel Ferreira elogia evolução do meio-campo",
     summaryKo:
-      "아벨 페레이라 감독이 리샤르드 리오스와 아니발 모레노가 이끄는 중원의 발전을 칭찬하며, 시즌 목표는 모든 대회 우승 경쟁이라고 밝혔습니다.",
+      "아벨 페헤이라 감독이 중원의 발전을 칭찬하며, 시즌 목표는 모든 대회 우승 경쟁이라고 밝혔습니다.",
     excerpt:
       "O técnico português destacou o equilíbrio do meio-campo e a ambição do elenco na temporada.",
     url: "https://www.youtube.com/@TVPalmeiras",
@@ -925,7 +899,7 @@ export const SEED_NEWS: NewsItem[] = [
     tags: ["감독", "인터뷰"],
     reliability: "official",
     whyItMattersKo:
-      "감독의 코멘트는 라인업과 전술 방향을 읽는 힌트입니다. 중원을 콕 집어 칭찬했다는 건 리오스-모레노 조합을 핵심으로 가져가겠다는 의미로 해석됩니다.",
+      "감독의 코멘트는 라인업과 전술 방향을 읽는 힌트입니다. 중원을 콕 집어 칭찬했다는 건 그 조합을 핵심으로 가져가겠다는 의미로 해석됩니다.",
     fanTakeKo: "중원이 단단해지면 빅매치도 두렵지 않죠.",
   },
   {
