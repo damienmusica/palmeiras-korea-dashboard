@@ -471,6 +471,31 @@ function mapEvent(e) {
   return item;
 }
 
+// Parse goal events from an ESPN match summary into domain MatchEvent[].
+function parseGoals(summary, homeName, awayName) {
+  const out = [];
+  for (const e of summary?.keyEvents || []) {
+    if (e.scoringPlay !== true) continue; // goals + scored penalties only
+    const t = e.type?.text || "";
+    const minute =
+      parseInt(String(e.clock?.displayValue || "").replace(/\D/g, ""), 10) || 0;
+    const teamName = e.team?.displayName || e.team?.abbreviation || "";
+    const team = normTeam(teamName) === normTeam(awayName) ? "away" : "home";
+    const people = (e.participants || e.athletesInvolved || [])
+      .map((a) => (a.athlete?.displayName || a.displayName || "").trim())
+      .filter(Boolean);
+    if (people.length === 0) continue;
+    out.push({
+      minute,
+      type: /penalty/i.test(t) ? "penalty" : "goal",
+      team,
+      player: people[0],
+      detail: people[1] || undefined,
+    });
+  }
+  return out.sort((a, b) => a.minute - b.minute);
+}
+
 async function ingestMatches() {
   log("fetching current fixtures/results from ESPN…");
   const events = [];
@@ -511,7 +536,36 @@ async function ingestMatches() {
     return;
   }
   items.sort((a, b) => a.kickoff.localeCompare(b.kickoff));
+
+  // Goal scorers for finished matches (ESPN summary). Cache-aware (reuse prior
+  // events) + bounded so we never hammer ESPN; steady-state runs fetch ~0-2.
+  const prevMatches = readData("matches.json");
+  const prevEvents = new Map(
+    (prevMatches?.items || []).map((m) => [m.id, m.events]),
+  );
+  let summaryCalls = 0;
+  for (const it of items) {
+    if (it.status !== "finished") continue;
+    const cached = prevEvents.get(it.id);
+    if (cached && cached.length) {
+      it.events = cached;
+      continue;
+    }
+    if (summaryCalls >= 14) continue; // cap ESPN calls per run
+    try {
+      const eid = it.id.replace("espn-", "");
+      const sum = await getJson(
+        `${ESPN_BASE}/site/v2/sports/soccer/bra.1/summary?event=${eid}`,
+      );
+      it.events = parseGoals(sum, it.home.name, it.away.name);
+      summaryCalls += 1;
+    } catch {
+      /* leave events undefined — UI shows a placeholder */
+    }
+  }
+
   const upcoming = items.filter((m) => m.status !== "finished").length;
+  const withGoals = items.filter((m) => m.events && m.events.length).length;
   writeData("matches.json", {
     origin: "api",
     source: "ESPN (현재 시즌)",
@@ -519,7 +573,7 @@ async function ingestMatches() {
     items,
   });
   log(
-    `wrote data/matches.json (${items.length} matches, ${upcoming} upcoming)`,
+    `wrote data/matches.json (${items.length} matches, ${upcoming} upcoming, ${withGoals} with goals)`,
   );
 }
 

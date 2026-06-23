@@ -141,6 +141,11 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
         ...m,
         home: { ...m.home, nameKo: koreanTeamName(m.home.name) },
         away: { ...m.away, nameKo: koreanTeamName(m.away.name) },
+        events: m.events?.map((e) => ({
+          ...e,
+          player: koreanName(e.player),
+          detail: e.detail ? koreanName(e.detail) : e.detail,
+        })),
       }));
       return { ...snapshot, data };
     }
