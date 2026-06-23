@@ -32,6 +32,7 @@ import {
   readStandingsSnapshot,
 } from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
+import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -82,10 +83,21 @@ function fallbackResult<T>(data: T, note: string): DataResult<T> {
 
 export async function getSquad(): Promise<DataResult<Squad>> {
   return cached(CACHE_KEYS.squad, async () => {
-    // Real current roster (API-Football) with Korean names — the live path.
+    // Real current roster (API-Football). Korean names are (re)derived
+    // deterministically here — never trusted from the pipeline/LLM — so the
+    // orthography is stable and correct regardless of how data was produced.
     const snapshot = readSquadSnapshot();
     if (snapshot && snapshot.data.players.length > 0) {
-      return snapshot;
+      const players = snapshot.data.players.map((p) => ({
+        ...p,
+        nameKo: koreanName(p.name),
+        nationalityKo: p.nationalityKo || "정보 없음",
+      }));
+      const coach = {
+        ...snapshot.data.coach,
+        nameKo: koreanName(snapshot.data.coach.name),
+      };
+      return { ...snapshot, data: { players, coach } };
     }
     // Fallback: seed roster with real photos merged by name, if available.
     const photos = readSquadPhotos();
@@ -112,7 +124,12 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
     // Precedence: current-season ESPN snapshot (free pipeline) → seed.
     const snapshot = readMatchesSnapshot();
     if (snapshot && snapshot.data.length > 0) {
-      return snapshot;
+      const data = snapshot.data.map((m) => ({
+        ...m,
+        home: { ...m.home, nameKo: koreanTeamName(m.home.name) },
+        away: { ...m.away, nameKo: koreanTeamName(m.away.name) },
+      }));
+      return { ...snapshot, data };
     }
     return seedResult<Match[]>(SEED_MATCHES);
   });
@@ -124,7 +141,11 @@ export async function getStandings(): Promise<DataResult<Standings>> {
   return cached(CACHE_KEYS.standings, async () => {
     const snapshot = readStandingsSnapshot();
     if (snapshot && snapshot.data.table.length > 0) {
-      return snapshot;
+      const table = snapshot.data.table.map((r) => ({
+        ...r,
+        teamNameKo: koreanTeamName(r.teamName),
+      }));
+      return { ...snapshot, data: { ...snapshot.data, table } };
     }
     return seedResult<Standings>(SEED_STANDINGS);
   });

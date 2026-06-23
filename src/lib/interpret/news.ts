@@ -6,6 +6,7 @@
 // =============================================================================
 
 import type { NewsItem, SourceReliability } from "@/lib/domain/types";
+import { normalizeKoreanTerms } from "@/lib/i18n/ptKo";
 
 interface ReliabilityMeta {
   labelKo: string;
@@ -90,17 +91,22 @@ export function classifyReliability(
  */
 export function enrichNews(item: NewsItem): NewsItem {
   const reliability = classifyReliability(item.source, item.reliability);
-  const whyItMattersKo =
+  // Normalize any LLM/MT Korean to canonical club/term spellings (deterministic;
+  // protects quality even if a weak free model wrote the text).
+  const summaryKo = normalizeKoreanTerms(item.summaryKo);
+  const whyItMattersKo = normalizeKoreanTerms(
     item.whyItMattersKo ??
-    "이 소식이 팀 분위기·라인업·일정에 영향을 줄 수 있어 팔로우할 가치가 있습니다. 정확한 사실은 원문에서 확인하세요.";
-  const fanTakeKo =
+      "이 소식이 팀 분위기·라인업·일정에 영향을 줄 수 있어 팔로우할 가치가 있습니다. 정확한 사실은 원문에서 확인하세요.",
+  );
+  const fanTakeKo = normalizeKoreanTerms(
     item.fanTakeKo ??
-    (reliability === "rumor"
-      ? "아직은 ‘설’ 단계 — 너무 들뜨지 말고 지켜봅시다."
-      : reliability === "official"
-        ? "공식 발표인 만큼 믿고 봐도 좋습니다."
-        : "흥미로운 소식, 흐름을 지켜볼 만합니다.");
-  return { ...item, reliability, whyItMattersKo, fanTakeKo };
+      (reliability === "rumor"
+        ? "아직은 ‘설’ 단계 — 너무 들뜨지 말고 지켜봅시다."
+        : reliability === "official"
+          ? "공식 발표인 만큼 믿고 봐도 좋습니다."
+          : "흥미로운 소식, 흐름을 지켜볼 만합니다."),
+  );
+  return { ...item, reliability, summaryKo, whyItMattersKo, fanTakeKo };
 }
 
 export function enrichNewsList(items: NewsItem[]): NewsItem[] {

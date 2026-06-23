@@ -18,7 +18,7 @@
 
 import { writeFileSync, mkdirSync, existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { llmEnrichNews, llmEnabled, llmTransliterateNames } from "./llm.mjs";
+import { llmEnrichNews, llmEnabled } from "./llm.mjs";
 
 const DATA_DIR = join(process.cwd(), "data");
 // Bias to the football club (the bare name "Palmeiras" also matches unrelated
@@ -591,20 +591,11 @@ async function ingestSquad() {
   }
   log(`fetched ${profileCalls} player profiles`);
 
-  // Transliterate only names without a usable cached Korean name (saves calls).
-  const needKo = roster
-    .map((p, i) => ({ p, i }))
-    .filter(({ p }) => {
-      const c = cachedById.get(String(p.id));
-      return !(c?.nameKo && c.nameKo !== c.name);
-    });
-  const koResults = await llmTransliterateNames(needKo.map(({ p }) => p.name));
-  const koByIndex = {};
-  needKo.forEach((entry, k) => {
-    if (koResults && koResults[k]) koByIndex[entry.i] = koResults[k];
-  });
-
-  const players = roster.map((p, idx) => {
+  // NOTE: Korean names are NOT generated here. The app derives them
+  // deterministically from `name` via src/lib/i18n/ptKo.ts (curated map + rule
+  // engine) — stable & correct regardless of any LLM. We store the raw name as
+  // a placeholder; the squad adapter overrides nameKo via koreanName().
+  const players = roster.map((p) => {
     const d = detail[p.id];
     const prof = profile[p.id];
     const cached = cachedById.get(String(p.id));
@@ -615,16 +606,10 @@ async function ingestSquad() {
     const birthDate =
       d?.player?.birth?.date || prof?.birth?.date || cached?.birthDate;
     const stats = aggStats(d);
-    const nameKo =
-      koByIndex[idx] ||
-      (cached?.nameKo && cached.nameKo !== cached.name
-        ? cached.nameKo
-        : null) ||
-      p.name;
     return {
       id: String(p.id),
       name: p.name,
-      nameKo,
+      nameKo: p.name,
       number: p.number ?? undefined,
       positionGroup: grp,
       position: p.position || POS_KO[grp],
@@ -665,11 +650,10 @@ async function ingestSquad() {
         (c.career || []).some((k) => k.team?.id === PALMEIRAS_API_ID && !k.end),
       ) || cj?.response?.[0];
     if (current) {
-      const cko = await llmTransliterateNames([current.name]);
       coach = {
         id: "coach",
         name: current.name,
-        nameKo: (cko && cko[0]) || current.name,
+        nameKo: current.name, // app overrides via koreanName()
         nationality: natCode(current.nationality),
         nationalityKo: natKo(current.nationality),
         birthDate: current.birth?.date || undefined,
@@ -685,7 +669,7 @@ async function ingestSquad() {
   const withStats = players.filter((p) => p.stats).length;
   writeData("squad.json", {
     origin: "api",
-    source: "API-Football 현재 스쿼드 + LLM 음역",
+    source: "API-Football 현재 스쿼드",
     fetchedAt: new Date().toISOString(),
     statsSeason: "2024",
     players,
