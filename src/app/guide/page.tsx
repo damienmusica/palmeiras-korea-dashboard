@@ -138,6 +138,49 @@ export default function GuidePage() {
         </ul>
       </section>
 
+      {/* 7.5 How to follow from Korea */}
+      <section aria-labelledby="watch-heading" className="space-y-3">
+        <h2 id="watch-heading" className="text-lg font-extrabold">
+          🇰🇷 한국에서 따라가는 법
+        </h2>
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+          <div className="pm-card space-y-1 p-4">
+            <h3 className="font-bold">⏰ 경기 시간 (한국 기준)</h3>
+            <p className="text-sm leading-relaxed">
+              브라질 경기는 현지 저녁에 열려 한국에선 보통{" "}
+              <b>주중 아침~오전, 주말 새벽~아침</b>입니다. 리베르타도레스는 한국
+              시간 이른 아침인 경우가 많아요. 이 앱의 일정·결과는 모두{" "}
+              <b>한국 시간(KST)과 브라질 시간을 함께</b> 표시합니다.
+            </p>
+          </div>
+          <div className="pm-card space-y-1 p-4">
+            <h3 className="font-bold">📺 중계는 어디서?</h3>
+            <p className="text-sm leading-relaxed">
+              브라질 리그·컵의 한국 정식 중계는 제한적입니다. 가장 현실적인
+              방법은 <b>공식 유튜브(TV Palmeiras)의 하이라이트</b>와 클럽 SNS,
+              그리고 <b>본 대시보드로 일정·결과·뉴스</b>를 챙기는 것입니다.
+              (확실하지 않은 비공식 스트림은 권장하지 않습니다.)
+            </p>
+          </div>
+          <div className="pm-card space-y-1 p-4">
+            <h3 className="font-bold">🔁 매일 1분 루틴</h3>
+            <p className="text-sm leading-relaxed">
+              아침에 홈의 <b>‘오늘의 5분 브리핑’</b> → 다음 경기·지난 결과 확인
+              → 뉴스 탭에서 <b>‘왜 중요한가’</b>만 훑어도 흐름을 놓치지
+              않습니다.
+            </p>
+          </div>
+          <div className="pm-card space-y-1 p-4">
+            <h3 className="font-bold">🧭 더 깊이 보고 싶다면</h3>
+            <p className="text-sm leading-relaxed">
+              실시간 스코어·상세 기록은 Sofascore·FotMob, 브라질 현지 소식은{" "}
+              <b>ge.globo</b>, 대륙대회는 <b>CONMEBOL</b> 공식을 함께 보세요. 이
+              앱은 그 위에서 <b>한국어 해설·맥락</b>을 더하는 역할입니다.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* 8. Official links */}
       <section aria-labelledby="links-heading" className="space-y-3">
         <h2 id="links-heading" className="text-lg font-extrabold">
