@@ -12,12 +12,14 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import type { DataResult, DataOrigin, NewsItem } from "@/lib/domain/types";
+import type { RosterEntry } from "@/lib/data/photos";
 
-interface RawSnapshot<T> {
+interface RawSnapshot {
   origin?: string;
   source?: string;
   fetchedAt?: string;
-  items?: T;
+  items?: unknown;
+  roster?: unknown;
 }
 
 const VALID_ORIGINS: DataOrigin[] = [
@@ -37,10 +39,10 @@ function snapshotDir(): string {
   return process.env.SNAPSHOT_DIR || join(process.cwd(), "data");
 }
 
-function readJson<T>(file: string): RawSnapshot<T> | null {
+function readJson(file: string): RawSnapshot | null {
   try {
     const raw = readFileSync(join(snapshotDir(), file), "utf8");
-    return JSON.parse(raw) as RawSnapshot<T>;
+    return JSON.parse(raw) as RawSnapshot;
   } catch {
     // Missing file or invalid JSON → no snapshot (adapters fall back to seed).
     return null;
@@ -59,16 +61,38 @@ function toOrigin(value: string | undefined): DataOrigin {
  * the news adapter enriches them (reliability + Korean interpretation).
  */
 export function readNewsSnapshot(): DataResult<NewsItem[]> | null {
-  const snap = readJson<NewsItem[]>("news.json");
+  const snap = readJson("news.json");
   if (!snap || !Array.isArray(snap.items) || snap.items.length === 0) {
     return null;
   }
   return {
-    data: snap.items,
+    data: snap.items as NewsItem[],
     origin: toOrigin(snap.origin),
     source: snap.source ?? "data/news.json",
     fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
     fellBack: false,
     note: "GitHub Actions 무료 파이프라인이 생성한 스냅샷",
+  };
+}
+
+export interface SquadPhotoSnapshot {
+  roster: RosterEntry[];
+  source: string;
+  fetchedAt: string;
+}
+
+/**
+ * Read the real-roster photo snapshot written by the API-Football ingest.
+ * Returns null when absent so the squad falls back to monogram avatars.
+ */
+export function readSquadPhotos(): SquadPhotoSnapshot | null {
+  const snap = readJson("squad-photos.json");
+  if (!snap || !Array.isArray(snap.roster) || snap.roster.length === 0) {
+    return null;
+  }
+  return {
+    roster: snap.roster as RosterEntry[],
+    source: snap.source ?? "API-Football",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
   };
 }

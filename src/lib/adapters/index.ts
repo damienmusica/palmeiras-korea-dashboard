@@ -24,7 +24,8 @@ import { cached } from "@/lib/adapters/cache";
 import { parseFeed } from "@/lib/adapters/rss";
 import { enrichNewsList } from "@/lib/interpret/news";
 import { isSafeHttpUrl } from "@/lib/security/url";
-import { readNewsSnapshot } from "@/lib/data/snapshot";
+import { readNewsSnapshot, readSquadPhotos } from "@/lib/data/snapshot";
+import { attachPhotos } from "@/lib/data/photos";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -67,11 +68,29 @@ function fallbackResult<T>(data: T, note: string): DataResult<T> {
 }
 
 // --- Squad -------------------------------------------------------------------
-// No free, license-clean public squad API is wired by default, so the squad is
-// served from seed data. (A live adapter would slot in here behind an env flag.)
+// The curated Korean squad (names + editorial insights) is the display source.
+// When the free pipeline has fetched the real API-Football roster, we merge in
+// real player photos by name (see src/lib/data/photos.ts) — current & real,
+// while keeping the Korean names/insights. Players who left the club simply keep
+// their monogram fallback.
 
 export async function getSquad(): Promise<DataResult<Squad>> {
-  return cached(CACHE_KEYS.squad, async () => seedResult<Squad>(SEED_SQUAD));
+  return cached(CACHE_KEYS.squad, async () => {
+    const photos = readSquadPhotos();
+    if (photos && photos.roster.length > 0) {
+      const players = attachPhotos(SEED_SQUAD.players, photos.roster);
+      const withPhotos = players.filter((p) => p.photo).length;
+      return {
+        data: { players, coach: SEED_SQUAD.coach },
+        origin: "seed",
+        source: `${SEED_SOURCE} + API-Football 사진`,
+        fetchedAt: nowIso(),
+        fellBack: false,
+        note: `명단·해설은 시드, 선수 사진 ${withPhotos}명은 API-Football 현재 스쿼드(실시간).`,
+      };
+    }
+    return seedResult<Squad>(SEED_SQUAD);
+  });
 }
 
 // --- Matches -----------------------------------------------------------------

@@ -170,19 +170,55 @@ async function ingestNews() {
   return true;
 }
 
-// --- sports (extension point — keyless run skips this) ----------------------
-// When API_FOOTBALL_KEY or THESPORTSDB_KEY is set, fetch + normalize fixtures /
-// standings / squad into data/matches.json etc. (same DataResult-style shape:
-// { origin, source, fetchedAt, ...payload }). Left intentionally unimplemented
-// for the keyless MVP so the app stays on clearly-labeled seed sports data.
+// --- sports: real squad photos from API-Football (free + current) -----------
+// The free API-Football plan blocks the current season for standings/fixtures,
+// BUT the squad endpoint returns the real, current roster *with photos*. So we
+// use the key for its highest-value, genuinely-current data: real player photos.
+// We write a name/number -> photo map; the app merges these onto the curated
+// Korean squad at read time (keeping Korean names + editorial insights).
+const PALMEIRAS_API_ID = 121;
+
 async function ingestSports() {
-  if (!process.env.API_FOOTBALL_KEY && !process.env.THESPORTSDB_KEY) {
-    log("no sports API key set — skipping sports (app uses labeled seed data)");
+  const key = process.env.API_FOOTBALL_KEY;
+  if (!key) {
+    log("no API_FOOTBALL_KEY — skipping sports (app uses labeled seed data)");
     return;
   }
-  log(
-    "sports key detected — sports ingest is a documented TODO (see docs/FREE-PIPELINE.md)",
+  const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
+  log("fetching real squad (photos) from API-Football…");
+  const res = await fetch(
+    `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
+    {
+      headers: { "x-apisports-key": key },
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    },
   );
+  const json = await res.json();
+  const players = json?.response?.[0]?.players ?? [];
+  if (players.length === 0) {
+    log("squad fetch returned no players:", JSON.stringify(json?.errors));
+    return;
+  }
+  // Write the raw roster (name/number/photo). The app does the name matching
+  // (full-name + initial-surname) in a single testable place: src/lib/data/photos.ts.
+  const roster = players
+    .map((p) => ({
+      name: p.name,
+      number: p.number ?? null,
+      photo: safeUrl(p.photo),
+    }))
+    .filter((p) => p.name && p.photo !== "#");
+  const snapshot = {
+    origin: "api",
+    source: "API-Football (현재 스쿼드 사진)",
+    fetchedAt: new Date().toISOString(),
+    roster,
+  };
+  writeFileSync(
+    join(DATA_DIR, "squad-photos.json"),
+    JSON.stringify(snapshot, null, 2) + "\n",
+  );
+  log(`wrote data/squad-photos.json (${roster.length} players with photos)`);
 }
 
 // --- main -------------------------------------------------------------------

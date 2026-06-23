@@ -12,6 +12,7 @@ import {
 } from "@/lib/format/stats";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 import { InsightBlock } from "@/components/ui/InsightBlock";
+import { Crest } from "@/components/ui/Crest";
 import { toKST } from "@/lib/format/datetime";
 import { ACTIVE_TEAM_ID } from "@/lib/teams";
 import { resultForTeam } from "@/lib/format/stats";
@@ -108,12 +109,29 @@ export default async function PlayerPage({
 
       {/* Header */}
       <header className="pm-card flex flex-wrap items-center gap-4 p-5">
-        <span
-          className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[var(--pm-primary)] text-2xl font-extrabold text-white"
-          aria-hidden="true"
-        >
-          {player.number ?? "–"}
-        </span>
+        <div className="relative shrink-0">
+          {player.photo ? (
+            <Crest
+              src={player.photo}
+              alt={`${player.name} 사진`}
+              label={player.nameKo}
+              size={72}
+              className="rounded-2xl bg-black/5"
+            />
+          ) : (
+            <span
+              className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[var(--pm-primary)] text-2xl font-extrabold text-white"
+              aria-hidden="true"
+            >
+              {player.number ?? "–"}
+            </span>
+          )}
+          {player.photo && player.number != null ? (
+            <span className="absolute -bottom-1 -right-1 flex h-6 min-w-[24px] items-center justify-center rounded-md bg-[var(--pm-primary)] px-1 text-xs font-bold text-white">
+              {player.number}
+            </span>
+          ) : null}
+        </div>
         <div className="min-w-0 flex-1">
           <h1 className="text-2xl font-extrabold">{player.nameKo}</h1>
           <p className="text-sm text-[var(--pm-muted)]">

@@ -6,6 +6,7 @@ import {
   aggregateStats,
 } from "@/lib/format/stats";
 import { playerInsight } from "@/lib/interpret/players";
+import { Crest } from "@/components/ui/Crest";
 
 const toneClass = {
   ok: "bg-emerald-100 text-emerald-800",
@@ -25,12 +26,29 @@ export function PlayerCard({ player }: { player: Player }) {
       className="pm-card group flex flex-col gap-3 p-4 transition-transform hover:-translate-y-0.5 hover:shadow-md focus-visible:-translate-y-0.5"
     >
       <div className="flex items-start gap-3">
-        <span
-          className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-[var(--pm-primary)] text-lg font-extrabold text-white"
-          aria-hidden="true"
-        >
-          {player.number ?? "–"}
-        </span>
+        <div className="relative shrink-0">
+          {player.photo ? (
+            <Crest
+              src={player.photo}
+              alt={`${player.name} 사진`}
+              label={player.nameKo}
+              size={48}
+              className="rounded-xl bg-black/5"
+            />
+          ) : (
+            <span
+              className="flex h-12 w-12 items-center justify-center rounded-xl bg-[var(--pm-primary)] text-lg font-extrabold text-white"
+              aria-hidden="true"
+            >
+              {player.number ?? "–"}
+            </span>
+          )}
+          {player.photo && player.number != null ? (
+            <span className="absolute -bottom-1 -right-1 flex h-5 min-w-[20px] items-center justify-center rounded-md bg-[var(--pm-primary)] px-1 text-[10px] font-bold text-white">
+              {player.number}
+            </span>
+          ) : null}
+        </div>
         <div className="min-w-0 flex-1">
           <h3 className="truncate text-base font-bold group-hover:text-[var(--pm-primary)]">
             {player.nameKo}
