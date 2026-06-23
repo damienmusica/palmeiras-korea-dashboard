@@ -17,10 +17,11 @@ export interface PlayerDossier {
   nationalityKo?: string;
   birthDate?: string;
   heightCm?: number;
-  // Editorial Korean context.
-  roleKo: string;
-  styleKo: string;
-  whyCareKo: string;
+  // Editorial Korean context (optional — fact-only entries omit these and the
+  // UI falls back to the position template for the narrative).
+  roleKo?: string;
+  styleKo?: string;
+  whyCareKo?: string;
   narrativeKo?: string;
   archetypeKo?: string;
   nameNoteKo?: string;
@@ -163,6 +164,8 @@ const DOSSIERS: Record<string, PlayerDossier> = {
   emartinez: {
     nationality: "UY",
     nationalityKo: "우루과이",
+    birthDate: "1999-08-17",
+    heightCm: 184,
     roleKo: "중원의 균형추 (수비형/중앙 미드필더)",
     styleKo: "안정적인 볼 배급과 압박, 공수 밸런스 유지가 강점입니다.",
     whyCareKo:
@@ -171,6 +174,8 @@ const DOSSIERS: Record<string, PlayerDossier> = {
   rsosa: {
     nationality: "PY",
     nationalityKo: "파라과이",
+    birthDate: "1999-08-31",
+    heightCm: 179,
     roleKo: "측면 윙어",
     styleKo: "빠른 스피드와 측면 돌파로 공격에 활력을 더합니다.",
     whyCareKo:
@@ -199,6 +204,32 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     styleKo: "풍부한 경험을 바탕으로 골문을 안정적으로 지킵니다.",
     whyCareKo: "경험 많은 골키퍼로 라커룸과 골문에 안정감을 더합니다.",
   },
+  // --- Facts researched/verified this build (API-Football profiles) ----------
+  marlonfreitas: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "1995-03-27",
+    heightCm: 185,
+    roleKo: "수비형/중앙 미드필더",
+    styleKo: "중원에서 볼을 회수하고 공수를 연결하는 활동량형 미드필더입니다.",
+    whyCareKo: "중원의 균형과 안정을 더해주는 자원입니다.",
+  },
+  abdalqaderghareeb: {
+    nationality: "SY",
+    nationalityKo: "시리아",
+    birthDate: "1995-05-01",
+    roleKo: "공격형 미드필더 / 윙어",
+    styleKo: "창의적인 패스와 측면·중앙을 오가는 움직임이 특징입니다.",
+    whyCareKo:
+      "시리아 국가대표급 공격 자원으로, 스쿼드에 색다른 옵션을 더합니다.",
+  },
+  jarias: {
+    // Fact-only (verified nationality/birthdate); narrative uses position template.
+    nationality: "CO",
+    nationalityKo: "콜롬비아",
+    birthDate: "1997-09-21",
+    heightCm: 170,
+  },
 };
 
 /** Look up a curated dossier by player name (normalized). */
@@ -206,12 +237,17 @@ export function getDossier(name: string): PlayerDossier | null {
   return DOSSIERS[normKey(name)] ?? null;
 }
 
+/** True when this dossier carries editorial narrative (not just facts). */
+export function hasEditorial(d: PlayerDossier): boolean {
+  return Boolean(d.roleKo && d.styleKo && d.whyCareKo);
+}
+
 /** Convert a dossier into a PlayerInsight (editorial source). */
 export function dossierInsight(d: PlayerDossier): PlayerInsight {
   return {
-    roleKo: d.roleKo,
-    styleKo: d.styleKo,
-    whyCareKo: d.whyCareKo,
+    roleKo: d.roleKo ?? "",
+    styleKo: d.styleKo ?? "",
+    whyCareKo: d.whyCareKo ?? "",
     narrativeKo: d.narrativeKo,
     archetypeKo: d.archetypeKo,
     nameNoteKo: d.nameNoteKo,

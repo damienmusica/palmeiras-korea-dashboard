@@ -6,7 +6,11 @@
 // =============================================================================
 
 import type { Player, PlayerInsight } from "@/lib/domain/types";
-import { getDossier, dossierInsight } from "@/lib/teams/palmeiras-dossier";
+import {
+  getDossier,
+  dossierInsight,
+  hasEditorial,
+} from "@/lib/teams/palmeiras-dossier";
 
 const EDITORIAL: Record<string, Omit<PlayerInsight, "source">> = {
   weverton: {
@@ -133,9 +137,10 @@ const POSITION_FALLBACK: Record<
 };
 
 export function playerInsight(player: Player): PlayerInsight {
-  // 1) Curated dossier keyed by real player name (live roster).
+  // 1) Curated dossier keyed by real player name (live roster) — only when it
+  //    carries editorial narrative (fact-only entries fall through to template).
   const dossier = getDossier(player.name);
-  if (dossier) return dossierInsight(dossier);
+  if (dossier && hasEditorial(dossier)) return dossierInsight(dossier);
   // 2) Editorial keyed by seed id (seed-fallback roster).
   const editorial = EDITORIAL[player.id];
   if (editorial) return { ...editorial, source: "editorial" };
