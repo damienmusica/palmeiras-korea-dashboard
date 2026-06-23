@@ -1,0 +1,108 @@
+// =============================================================================
+// News interpretation. Classifies a source's reliability so Korean fans know
+// how much to trust an item, and provides Korean labels. For live items that
+// arrive without editorial context, it adds a conservative, generic
+// "why it matters" / "fan take" so every card meets the product contract.
+// =============================================================================
+
+import type { NewsItem, SourceReliability } from "@/lib/domain/types";
+
+interface ReliabilityMeta {
+  labelKo: string;
+  descKo: string;
+  tone: "official" | "good" | "warn" | "neutral";
+}
+
+export const RELIABILITY_META: Record<SourceReliability, ReliabilityMeta> = {
+  official: {
+    labelKo: "공식",
+    descKo: "구단·연맹·대회 공식 채널 — 가장 신뢰할 수 있는 1차 출처",
+    tone: "official",
+  },
+  reliable: {
+    labelKo: "신뢰 매체",
+    descKo: "정평 있는 스포츠 매체의 보도",
+    tone: "good",
+  },
+  rumor: {
+    labelKo: "루머/추측",
+    descKo: "이적설 등 확인되지 않은 추측성 정보 — 주의해서 읽으세요",
+    tone: "warn",
+  },
+  aggregator: {
+    labelKo: "재가공/모음",
+    descKo: "원 출처를 재가공한 모음성 콘텐츠 — 원문 확인 권장",
+    tone: "neutral",
+  },
+  unknown: {
+    labelKo: "출처 미상",
+    descKo: "출처 신뢰도를 판별하기 어려움",
+    tone: "neutral",
+  },
+};
+
+/** Domain/source-name based reliability classification (best effort). */
+export function classifyReliability(
+  source: string,
+  explicit?: SourceReliability,
+): SourceReliability {
+  if (explicit) return explicit;
+  const s = source.toLowerCase();
+  if (
+    s.includes("palmeiras.com") ||
+    s.includes("cbf") ||
+    s.includes("conmebol") ||
+    s.includes("tv palmeiras") ||
+    s.includes("official")
+  ) {
+    return "official";
+  }
+  // Established Brazilian sports outlets. "ge" is globo esporte's brand name as
+  // surfaced by Google News, so match it exactly (substring "ge" would over-match).
+  const RELIABLE = [
+    "globo",
+    "espn",
+    "uol",
+    "lance",
+    "gazeta",
+    "placar",
+    "terra",
+    "band",
+    "trivela",
+    "goal",
+  ];
+  if (s === "ge" || RELIABLE.some((name) => s.includes(name))) {
+    return "reliable";
+  }
+  if (s.includes("rumor") || s.includes("mercado") || s.includes("transfer")) {
+    return "rumor";
+  }
+  if (s.includes("google") || s.includes("aggregat") || s.includes("feed")) {
+    return "aggregator";
+  }
+  return "unknown";
+}
+
+/**
+ * Ensure a news item carries reliability + Korean interpretation. Editorial
+ * fields already present are kept; otherwise conservative generics are added so
+ * the UI contract (왜 중요한가 / 팬 관점) always holds.
+ */
+export function enrichNews(item: NewsItem): NewsItem {
+  const reliability = classifyReliability(item.source, item.reliability);
+  const whyItMattersKo =
+    item.whyItMattersKo ??
+    "이 소식이 팀 분위기·라인업·일정에 영향을 줄 수 있어 팔로우할 가치가 있습니다. 정확한 사실은 원문에서 확인하세요.";
+  const fanTakeKo =
+    item.fanTakeKo ??
+    (reliability === "rumor"
+      ? "아직은 ‘설’ 단계 — 너무 들뜨지 말고 지켜봅시다."
+      : reliability === "official"
+        ? "공식 발표인 만큼 믿고 봐도 좋습니다."
+        : "흥미로운 소식, 흐름을 지켜볼 만합니다.");
+  return { ...item, reliability, whyItMattersKo, fanTakeKo };
+}
+
+export function enrichNewsList(items: NewsItem[]): NewsItem[] {
+  return items.map(enrichNews);
+}

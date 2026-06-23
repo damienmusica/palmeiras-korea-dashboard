@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="Palmeiras crest">
+  <defs>
+    <linearGradient id="pmGreen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a8a4f"/>
+      <stop offset="1" stop-color="#00532e"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 4 L112 22 V70 C112 104 90 126 60 136 C30 126 8 104 8 70 V22 Z"
+        fill="url(#pmGreen)" stroke="#ffffff" stroke-width="4"/>
+  <path d="M60 16 L100 30 V70 C100 96 84 114 60 123 C36 114 20 96 20 70 V30 Z"
+        fill="none" stroke="#ffffff" stroke-width="2" opacity="0.55"/>
+  <!-- palm tree -->
+  <g fill="#ffffff">
+    <rect x="57" y="70" width="6" height="34" rx="2"/>
+    <path d="M60 70 C60 70 44 64 34 70 C46 64 56 66 60 70 Z"/>
+    <path d="M60 68 C60 68 76 62 86 68 C74 62 64 64 60 68 Z"/>
+    <path d="M60 66 C60 66 50 50 40 46 C54 52 58 60 60 66 Z"/>
+    <path d="M60 66 C60 66 70 50 80 46 C66 52 62 60 60 66 Z"/>
+    <path d="M60 64 C60 64 58 44 60 36 C62 44 60 56 60 64 Z"/>
+    <circle cx="60" cy="40" r="5"/>
+  </g>
+  <text x="60" y="118" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="13" font-weight="700" fill="#ffffff" letter-spacing="2">SEP</text>
+</svg>
