@@ -50,6 +50,14 @@ export default async function StandingsPage() {
       <StandingsTable standings={s} />
 
       {/* Top scorers / assisters */}
+      <div className="flex items-baseline justify-between">
+        <h2 className="text-lg font-bold">개인 기록</h2>
+        {s.leadersSeason ? (
+          <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
+            {s.leadersSeason} 시즌 기준
+          </span>
+        ) : null}
+      </div>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         <LeaderCard title="⚽ 득점 순위" rows={s.topScorers} unit="골" />
         <LeaderCard title="🅰️ 도움 순위" rows={s.topAssisters} unit="도움" />

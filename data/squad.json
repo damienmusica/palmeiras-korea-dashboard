@@ -1,7 +1,7 @@
 {
   "origin": "api",
-  "source": "API-Football 현재 스쿼드 + LLM 음역",
-  "fetchedAt": "2026-06-23T18:02:25.017Z",
+  "source": "API-Football 현재 스쿼드",
+  "fetchedAt": "2026-06-23T20:19:15.287Z",
   "statsSeason": "2024",
   "players": [
     {
@@ -356,8 +356,10 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
+      "birthDate": "1996-01-01",
+      "heightCm": 178,
       "photo": "https://media.api-sports.io/football/players/899.png",
       "availability": "available"
     },

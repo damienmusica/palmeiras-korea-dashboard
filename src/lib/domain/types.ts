@@ -289,6 +289,8 @@ export interface Standings {
   table: StandingRow[];
   topScorers: StatLeader[];
   topAssisters: StatLeader[];
+  /** Season the scorer/assist leaders reflect (may differ from table season). */
+  leadersSeason?: string;
 }
 
 // --- News --------------------------------------------------------------------
