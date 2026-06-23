@@ -177,6 +177,27 @@ const BRASILEIRAO = {
   shortName: "Brasileirão",
   kind: "league",
 };
+const LIBERTADORES = {
+  id: "libertadores",
+  name: "CONMEBOL Libertadores",
+  nameKo: "코파 리베르타도레스 (남미 챔피언스리그)",
+  shortName: "Libertadores",
+  kind: "continental",
+};
+const COPA_DO_BRASIL = {
+  id: "copa-do-brasil",
+  name: "Copa do Brasil",
+  nameKo: "코파 두 브라질 (국내컵)",
+  shortName: "Copa do Brasil",
+  kind: "cup",
+};
+
+// Competitions to pull for Palmeiras (ESPN slug → domain CompetitionRef).
+const MATCH_COMPETITIONS = [
+  { slug: "bra.1", comp: BRASILEIRAO, window: true },
+  { slug: "conmebol.libertadores", comp: LIBERTADORES, window: false },
+  { slug: "bra.copa_do_brazil", comp: COPA_DO_BRASIL, window: false },
+];
 
 function teamRef(espnTeam) {
   const name = espnTeam.displayName || espnTeam.name || espnTeam.abbreviation;
@@ -441,7 +462,7 @@ async function ingestStandings() {
 
 // --- ESPN matches (free, current) -------------------------------------------
 
-function mapEvent(e) {
+function mapEvent(e, competition) {
   const comp = e.competitions?.[0];
   if (!comp) return null;
   const competitors = comp.competitors || [];
@@ -454,7 +475,7 @@ function mapEvent(e) {
   const status = mapStatus(comp.status?.type?.state);
   const item = {
     id: `espn-${e.id}`,
-    competition: BRASILEIRAO,
+    competition,
     kickoff: e.date,
     status,
     venue: homeRef.id === "palmeiras" ? "home" : "away",
@@ -497,39 +518,49 @@ function parseGoals(summary, homeName, awayName) {
 }
 
 async function ingestMatches() {
-  log("fetching current fixtures/results from ESPN…");
-  const events = [];
-  // Played + listed matches from the team schedule.
-  const sched = await getJson(
-    `${ESPN_BASE}/site/v2/sports/soccer/bra.1/teams/${PALMEIRAS_ESPN_ID}/schedule`,
-  );
-  events.push(...(sched?.events || []));
-  // Upcoming fixtures from the league scoreboard over a forward window
-  // (the schedule endpoint tends to omit not-yet-scheduled rounds).
-  try {
-    const fmt = (d) => d.toISOString().slice(0, 10).replace(/-/g, "");
-    const from = fmt(new Date(Date.now() - 7 * 86400000));
-    const to = fmt(new Date(Date.now() + 75 * 86400000));
-    const sb = await getJson(
-      `${ESPN_BASE}/site/v2/sports/soccer/bra.1/scoreboard?dates=${from}-${to}`,
-    );
-    for (const e of sb?.events || []) {
-      const has = (e.competitions?.[0]?.competitors || []).some(
-        (c) => String(c.team?.id) === PALMEIRAS_ESPN_ID,
+  log("fetching fixtures/results from ESPN (league + continental)…");
+  const raw = []; // { e, comp, slug }
+  for (const { slug, comp, window } of MATCH_COMPETITIONS) {
+    try {
+      const sch = await getJson(
+        `${ESPN_BASE}/site/v2/sports/soccer/${slug}/teams/${PALMEIRAS_ESPN_ID}/schedule`,
       );
-      if (has) events.push(e);
+      for (const e of sch?.events || []) raw.push({ e, comp, slug });
+    } catch (err) {
+      log(`${slug} schedule failed:`, err.message);
     }
-  } catch (err) {
-    log("scoreboard window fetch failed:", err.message);
+    // Forward scoreboard window (league only — the schedule omits unscheduled rounds).
+    if (window) {
+      try {
+        const fmt = (d) => d.toISOString().slice(0, 10).replace(/-/g, "");
+        const from = fmt(new Date(Date.now() - 7 * 86400000));
+        const to = fmt(new Date(Date.now() + 75 * 86400000));
+        const sb = await getJson(
+          `${ESPN_BASE}/site/v2/sports/soccer/${slug}/scoreboard?dates=${from}-${to}`,
+        );
+        for (const e of sb?.events || []) {
+          const has = (e.competitions?.[0]?.competitors || []).some(
+            (c) => String(c.team?.id) === PALMEIRAS_ESPN_ID,
+          );
+          if (has) raw.push({ e, comp, slug });
+        }
+      } catch (err) {
+        log(`${slug} scoreboard failed:`, err.message);
+      }
+    }
   }
 
   const seen = new Set();
   const items = [];
-  for (const e of events) {
+  const slugById = {};
+  for (const { e, comp, slug } of raw) {
     if (seen.has(e.id)) continue;
     seen.add(e.id);
-    const item = mapEvent(e);
-    if (item) items.push(item);
+    const item = mapEvent(e, comp);
+    if (item) {
+      items.push(item);
+      slugById[item.id] = slug;
+    }
   }
   if (items.length === 0) {
     log("ESPN matches empty — keeping existing/seed");
@@ -551,11 +582,12 @@ async function ingestMatches() {
       it.events = cached;
       continue;
     }
-    if (summaryCalls >= 14) continue; // cap ESPN calls per run
+    if (summaryCalls >= 16) continue; // cap ESPN calls per run
     try {
       const eid = it.id.replace("espn-", "");
+      const slug = slugById[it.id] || "bra.1";
       const sum = await getJson(
-        `${ESPN_BASE}/site/v2/sports/soccer/bra.1/summary?event=${eid}`,
+        `${ESPN_BASE}/site/v2/sports/soccer/${slug}/summary?event=${eid}`,
       );
       it.events = parseGoals(sum, it.home.name, it.away.name);
       summaryCalls += 1;

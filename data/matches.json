@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-06-23T20:28:13.039Z",
+  "fetchedAt": "2026-06-23T20:34:13.412Z",
   "items": [
     {
       "id": "espn-401840808",
@@ -522,6 +522,49 @@
       ]
     },
     {
+      "id": "espn-401865476",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-04-09T00:30Z",
+      "status": "finished",
+      "venue": "away",
+      "home": {
+        "id": "4815",
+        "name": "Atlético Junior",
+        "nameKo": "Atlético Junior"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "events": [
+        {
+          "minute": 10,
+          "type": "penalty",
+          "team": "home",
+          "player": "Teófilo Gutiérrez"
+        },
+        {
+          "minute": 56,
+          "type": "goal",
+          "team": "away",
+          "player": "Ramón Sosa",
+          "detail": "José Manuel López"
+        }
+      ]
+    },
+    {
       "id": "espn-401841069",
       "competition": {
         "id": "brasileirao",
@@ -550,6 +593,57 @@
         "away": 0
       },
       "events": []
+    },
+    {
+      "id": "espn-401865500",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-04-16T22:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "2673",
+        "name": "Sporting Cristal",
+        "nameKo": "Sporting Cristal"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "events": [
+        {
+          "minute": 27,
+          "type": "goal",
+          "team": "home",
+          "player": "Murilo",
+          "detail": "Allan Andrade"
+        },
+        {
+          "minute": 41,
+          "type": "goal",
+          "team": "away",
+          "player": "Juan Cruz González",
+          "detail": "Irven Ávila"
+        },
+        {
+          "minute": 80,
+          "type": "penalty",
+          "team": "home",
+          "player": "José Manuel López"
+        }
+      ]
     },
     {
       "id": "espn-401841084",
@@ -589,6 +683,56 @@
       ]
     },
     {
+      "id": "espn-401866339",
+      "competition": {
+        "id": "copa-do-brasil",
+        "name": "Copa do Brasil",
+        "nameKo": "코파 두 브라질 (국내컵)",
+        "shortName": "Copa do Brasil",
+        "kind": "cup"
+      },
+      "kickoff": "2026-04-23T22:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "round": "1st Leg",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "17713",
+        "name": "Jacuipense",
+        "nameKo": "Jacuipense"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "events": [
+        {
+          "minute": 9,
+          "type": "penalty",
+          "team": "home",
+          "player": "Ramón Sosa"
+        },
+        {
+          "minute": 55,
+          "type": "penalty",
+          "team": "home",
+          "player": "Ramón Sosa"
+        },
+        {
+          "minute": 459,
+          "type": "goal",
+          "team": "home",
+          "player": "Felipe Anderson"
+        }
+      ]
+    },
+    {
       "id": "espn-401841097",
       "competition": {
         "id": "brasileirao",
@@ -623,6 +767,50 @@
           "team": "away",
           "player": "José Manuel López",
           "detail": "Ramón Sosa"
+        }
+      ]
+    },
+    {
+      "id": "espn-401865503",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-04-30T00:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estadio ueno La Nueva Olla",
+      "home": {
+        "id": "2671",
+        "name": "Cerro Porteño",
+        "nameKo": "Cerro Porteño"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "events": [
+        {
+          "minute": 33,
+          "type": "goal",
+          "team": "away",
+          "player": "Jhon Arias",
+          "detail": "Allan Andrade"
+        },
+        {
+          "minute": 72,
+          "type": "goal",
+          "team": "home",
+          "player": "Carlos Miguel"
         }
       ]
     },
@@ -671,6 +859,50 @@
       ]
     },
     {
+      "id": "espn-401865530",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-05-05T22:00Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estadio Alejandro Villanueva",
+      "home": {
+        "id": "2673",
+        "name": "Sporting Cristal",
+        "nameKo": "Sporting Cristal"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "events": [
+        {
+          "minute": 32,
+          "type": "goal",
+          "team": "away",
+          "player": "José Manuel López",
+          "detail": "Jhon Arias"
+        },
+        {
+          "minute": 50,
+          "type": "goal",
+          "team": "away",
+          "player": "Ramón Sosa"
+        }
+      ]
+    },
+    {
       "id": "espn-401841110",
       "competition": {
         "id": "brasileirao",
@@ -697,7 +929,87 @@
       "score": {
         "home": 1,
         "away": 1
-      }
+      },
+      "events": [
+        {
+          "minute": 2,
+          "type": "goal",
+          "team": "home",
+          "player": "Alef Manga",
+          "detail": "Yago Pikachu"
+        },
+        {
+          "minute": 24,
+          "type": "goal",
+          "team": "away",
+          "player": "Ramón Sosa",
+          "detail": "Allan Andrade"
+        }
+      ]
+    },
+    {
+      "id": "espn-401866354",
+      "competition": {
+        "id": "copa-do-brasil",
+        "name": "Copa do Brasil",
+        "nameKo": "코파 두 브라질 (국내컵)",
+        "shortName": "Copa do Brasil",
+        "kind": "cup"
+      },
+      "kickoff": "2026-05-14T00:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estádio do Café",
+      "round": "2nd Leg - Palmeiras advance 7-1 on aggregate",
+      "home": {
+        "id": "17713",
+        "name": "Jacuipense",
+        "nameKo": "Jacuipense"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "events": [
+        {
+          "minute": 23,
+          "type": "goal",
+          "team": "away",
+          "player": "Maurício",
+          "detail": "Felipe Anderson"
+        },
+        {
+          "minute": 24,
+          "type": "goal",
+          "team": "away",
+          "player": "Daniel Costa"
+        },
+        {
+          "minute": 37,
+          "type": "goal",
+          "team": "away",
+          "player": "Erick Machado",
+          "detail": "Felipe Anderson"
+        },
+        {
+          "minute": 53,
+          "type": "penalty",
+          "team": "away",
+          "player": "Luighi Hanri"
+        },
+        {
+          "minute": 88,
+          "type": "goal",
+          "team": "home",
+          "player": "Vicente Ferreira"
+        }
+      ]
     },
     {
       "id": "espn-401841125",
@@ -726,7 +1038,60 @@
       "score": {
         "home": 1,
         "away": 1
-      }
+      },
+      "events": [
+        {
+          "minute": 11,
+          "type": "goal",
+          "team": "away",
+          "player": "Keny Arroyo",
+          "detail": "Christian"
+        },
+        {
+          "minute": 20,
+          "type": "goal",
+          "team": "home",
+          "player": "Felipe Anderson"
+        }
+      ]
+    },
+    {
+      "id": "espn-401865544",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-05-21T00:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "2671",
+        "name": "Cerro Porteño",
+        "nameKo": "Cerro Porteño"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "events": [
+        {
+          "minute": 48,
+          "type": "goal",
+          "team": "away",
+          "player": "Pablo Vegetti",
+          "detail": "Fabricio Domínguez"
+        }
+      ]
     },
     {
       "id": "espn-401841136",
@@ -755,7 +1120,95 @@
       "score": {
         "home": 0,
         "away": 3
-      }
+      },
+      "events": [
+        {
+          "minute": 38,
+          "type": "goal",
+          "team": "away",
+          "player": "José Manuel López",
+          "detail": "Allan Andrade"
+        },
+        {
+          "minute": 57,
+          "type": "goal",
+          "team": "away",
+          "player": "Allan Andrade"
+        },
+        {
+          "minute": 905,
+          "type": "goal",
+          "team": "away",
+          "player": "Paulinho",
+          "detail": "Jefté"
+        }
+      ]
+    },
+    {
+      "id": "espn-401865557",
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "kickoff": "2026-05-28T22:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "4815",
+        "name": "Atlético Junior",
+        "nameKo": "Atlético Junior"
+      },
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "events": [
+        {
+          "minute": 6,
+          "type": "goal",
+          "team": "home",
+          "player": "Jhon Arias",
+          "detail": "José Manuel López"
+        },
+        {
+          "minute": 36,
+          "type": "goal",
+          "team": "away",
+          "player": "Luis Muriel",
+          "detail": "Jermein Peña"
+        },
+        {
+          "minute": 40,
+          "type": "goal",
+          "team": "home",
+          "player": "Allan Andrade",
+          "detail": "José Manuel López"
+        },
+        {
+          "minute": 45,
+          "type": "goal",
+          "team": "home",
+          "player": "Jhon Arias",
+          "detail": "José Manuel López"
+        },
+        {
+          "minute": 51,
+          "type": "goal",
+          "team": "home",
+          "player": "Andreas Pereira",
+          "detail": "Murilo"
+        }
+      ]
     },
     {
       "id": "espn-401841140",
@@ -784,7 +1237,16 @@
       "score": {
         "home": 1,
         "away": 0
-      }
+      },
+      "events": [
+        {
+          "minute": 65,
+          "type": "goal",
+          "team": "home",
+          "player": "Paulinho",
+          "detail": "Felipe Anderson"
+        }
+      ]
     },
     {
       "id": "espn-401841152",

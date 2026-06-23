@@ -95,6 +95,19 @@ const CURATED_TEAMS: Record<string, string> = {
   riverplate: "리베르 플라테",
   bocajuniors: "보카 주니어스",
   bolivar: "볼리바르",
+  // Common CONMEBOL Libertadores / continental opponents
+  atleticojunior: "아틀레티코 후니오르",
+  junior: "후니오르",
+  sportingcristal: "스포르팅 크리스탈",
+  cerroporteno: "세로 포르테뇨",
+  nacional: "나시오날",
+  penarol: "페냐롤",
+  estudiantes: "에스투디안테스",
+  racingclub: "라싱 클루브",
+  cerrolargo: "세로 라르고",
+  bahiense: "바이아",
+  velez: "벨레스 사르스피엘드",
+  cesarvallejo: "세사르 바예호",
 };
 
 // --- Hangul composition ------------------------------------------------------
