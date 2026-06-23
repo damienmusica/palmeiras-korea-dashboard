@@ -45,7 +45,7 @@ export function SiteHeader({ team }: { team: TeamConfig }) {
 
         <nav
           aria-label="주요 메뉴"
-          className="ml-auto flex items-center gap-0.5 overflow-x-auto"
+          className="ml-auto hidden items-center gap-0.5 overflow-x-auto sm:flex"
         >
           {NAV.map((item) => {
             const active = isActive(item.href);
