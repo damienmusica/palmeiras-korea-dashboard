@@ -112,3 +112,35 @@ export function enrichNews(item: NewsItem): NewsItem {
 export function enrichNewsList(items: NewsItem[]): NewsItem[] {
   return items.map(enrichNews);
 }
+
+// --- Squad scope classification (deterministic) ------------------------------
+// The Google News feed mixes senior-team items with youth (Sub-15…Sub-23) and
+// women's-team (feminino) coverage. Korean newcomers want to filter to the
+// first team. Classification is purely title/summary keyword based — NO LLM —
+// so it is stable and testable.
+
+/** Which part of the club a news item is about. */
+export type NewsCategory = "senior" | "other";
+
+// Markers that put an item in "그 외" (youth / women / academy). Each is a clear,
+// unambiguous Portuguese/English signal that appears in the headline.
+const NON_SENIOR_MARKERS: RegExp[] = [
+  /\bsub[\s-]?(1[0-9]|2[0-3])\b/i, // Sub-17, Sub 20, Brasileiro Sub-15…
+  /\bu[\s-]?(1[0-9]|2[0-3])\b/i, // U-17, U20…
+  /\bfeminin[oa]s?\b/i, // feminino / feminina (women's team)
+  /\bda base\b/i, // "promessa da base" (academy)
+  /categorias?\s+de\s+base/i,
+  /crias da academia/i,
+];
+
+/**
+ * Classify a news item as senior-team ("1군") or other ("그 외": youth/women).
+ * Defaults to "senior" unless a clear youth/women marker is present, so general
+ * club news is never wrongly hidden.
+ */
+export function newsCategory(
+  item: Pick<NewsItem, "title" | "summaryKo" | "tags">,
+): NewsCategory {
+  const hay = `${item.title ?? ""} ${item.summaryKo ?? ""} ${(item.tags ?? []).join(" ")}`;
+  return NON_SENIOR_MARKERS.some((re) => re.test(hay)) ? "other" : "senior";
+}

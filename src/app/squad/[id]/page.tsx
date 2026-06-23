@@ -58,6 +58,22 @@ export default async function PlayerPage({
   const age = ageFromBirthDate(player.birthDate);
   const status = availabilityKo(player.availability);
   const agg = aggregateStats(player.stats);
+  const statsMeta = player.stats?.[0];
+  const statCells: { label: string; value: number }[] = agg
+    ? [
+        { label: "출전", value: agg.appearances },
+        { label: "골", value: agg.goals },
+        { label: "도움", value: agg.assists },
+        { label: "경고", value: agg.yellowCards ?? 0 },
+        { label: "퇴장", value: agg.redCards ?? 0 },
+        ...(player.positionGroup === "GK"
+          ? [
+              { label: "선방", value: agg.saves ?? 0 },
+              { label: "실점", value: agg.goalsConceded ?? 0 },
+            ]
+          : []),
+      ]
+    : [];
 
   // Recent matches the team played (player-level match logs aren't in seed, so
   // we show the team's recent fixtures as context, clearly framed).
@@ -239,9 +255,15 @@ export default async function PlayerPage({
 
       {/* Season stats */}
       <section aria-labelledby="stats-heading" className="space-y-2">
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between gap-2">
           <h2 id="stats-heading" className="text-lg font-bold">
             시즌 스탯
+            {statsMeta ? (
+              <span className="ml-2 align-middle text-xs font-normal text-[var(--pm-muted)]">
+                {statsMeta.season}
+                {statsMeta.competition ? ` · ${statsMeta.competition}` : ""}
+              </span>
+            ) : null}
           </h2>
           <FreshnessBadge
             origin={res.origin}
@@ -251,22 +273,16 @@ export default async function PlayerPage({
             note={res.note}
           />
         </div>
-        {agg ? (
-          <dl className="grid grid-cols-3 gap-3 sm:grid-cols-6">
-            <Stat label="출전" value={agg.appearances} />
-            <Stat label="골" value={agg.goals} />
-            <Stat label="도움" value={agg.assists} />
-            <Stat label="경고" value={agg.yellowCards ?? 0} />
-            <Stat label="퇴장" value={agg.redCards ?? 0} />
-            {player.positionGroup === "GK" ? (
-              <Stat label="클린시트" value={agg.cleanSheets ?? 0} />
-            ) : (
-              <Stat label="출전(분)" value={agg.minutes ?? 0} />
-            )}
+        {statCells.length > 0 ? (
+          <dl className="grid grid-cols-3 gap-3 sm:grid-cols-5">
+            {statCells.map((c) => (
+              <Stat key={c.label} label={c.label} value={c.value} />
+            ))}
           </dl>
         ) : (
           <p className="pm-card p-4 text-sm italic text-[var(--pm-muted)]">
-            이 선수의 시즌 스탯 정보가 제공되지 않습니다.
+            이 선수의 시즌 출전 기록이 아직 없습니다. (현재 시즌 1군 출전이
+            없거나, 공개 소스에서 기록을 제공하지 않습니다.)
           </p>
         )}
       </section>
@@ -299,8 +315,8 @@ export default async function PlayerPage({
           팀 최근 경기
         </h2>
         <p className="text-xs text-[var(--pm-muted)]">
-          ※ 개별 선수 출전 기록은 시드 데이터에 포함되어 있지 않아, 팀의 최근
-          경기 결과를 맥락으로 보여줍니다.
+          ※ 경기별 개별 출전 기록은 무료 공개 소스에서 제공되지 않아, 팀의 최근
+          경기 결과를 맥락으로 함께 보여줍니다.
         </p>
         <ul className="divide-y divide-black/5 overflow-hidden rounded-xl border border-black/5">
           {recent.map((m) => {

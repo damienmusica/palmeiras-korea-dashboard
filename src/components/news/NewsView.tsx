@@ -4,13 +4,18 @@ import { useMemo, useState } from "react";
 import type { DataResult, NewsItem } from "@/lib/domain/types";
 import { NewsCard } from "@/components/news/NewsCard";
 import { SearchInput } from "@/components/ui/SearchInput";
+import { FilterChips } from "@/components/ui/FilterChips";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { SkeletonCard } from "@/components/ui/Skeleton";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
+import { newsCategory } from "@/lib/interpret/news";
+
+type CategoryFilter = "ALL" | "senior" | "other";
 
 export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
   const [result, setResult] = useState<DataResult<NewsItem[]>>(initial);
   const [query, setQuery] = useState("");
+  const [category, setCategory] = useState<CategoryFilter>("ALL");
   const [status, setStatus] = useState<"idle" | "loading" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
 
@@ -29,17 +34,29 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
     }
   }
 
+  const counts = useMemo(() => {
+    let senior = 0;
+    for (const n of result.data) if (newsCategory(n) === "senior") senior += 1;
+    return {
+      ALL: result.data.length,
+      senior,
+      other: result.data.length - senior,
+    };
+  }, [result.data]);
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    if (!q) return result.data;
-    return result.data.filter(
-      (n) =>
+    return result.data.filter((n) => {
+      if (category !== "ALL" && newsCategory(n) !== category) return false;
+      if (!q) return true;
+      return (
         n.title.toLowerCase().includes(q) ||
         n.summaryKo.toLowerCase().includes(q) ||
         n.source.toLowerCase().includes(q) ||
-        (n.tags ?? []).some((t) => t.toLowerCase().includes(q)),
-    );
-  }, [result.data, query]);
+        (n.tags ?? []).some((t) => t.toLowerCase().includes(q))
+      );
+    });
+  }, [result.data, query, category]);
 
   return (
     <div className="space-y-4">
@@ -65,6 +82,17 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           {status === "loading" ? "불러오는 중…" : "새로고침"}
         </button>
       </div>
+
+      <FilterChips<CategoryFilter>
+        ariaLabel="뉴스 분류 필터"
+        value={category}
+        onChange={setCategory}
+        options={[
+          { value: "ALL", label: "전체보기", count: counts.ALL },
+          { value: "senior", label: "1군팀", count: counts.senior },
+          { value: "other", label: "그 외 (유스·여자팀)", count: counts.other },
+        ]}
+      />
 
       <div className="flex items-center justify-between">
         <p className="text-xs text-[var(--pm-muted)]">
@@ -108,16 +136,23 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           description={
             query
               ? "다른 검색어를 입력해 보세요."
-              : "라이브 뉴스 소스를 연결하거나 잠시 후 다시 시도해 주세요."
+              : category === "other"
+                ? "현재 유스·여자팀 관련 소식이 없습니다."
+                : category === "senior"
+                  ? "현재 1군팀 관련 소식이 없습니다."
+                  : "라이브 뉴스 소스를 연결하거나 잠시 후 다시 시도해 주세요."
           }
           action={
-            query ? (
+            query || category !== "ALL" ? (
               <button
                 type="button"
-                onClick={() => setQuery("")}
+                onClick={() => {
+                  setQuery("");
+                  setCategory("ALL");
+                }}
                 className="rounded-lg bg-[var(--pm-primary)] px-3 py-1.5 text-sm font-semibold text-white"
               >
-                검색 초기화
+                필터 초기화
               </button>
             ) : undefined
           }

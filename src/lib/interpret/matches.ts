@@ -82,7 +82,7 @@ export function matchInsight(match: Match, team: TeamConfig): MatchInsight {
       match.venue === "home"
         ? "홈 관중을 등에 업은 초반 강한 압박"
         : "원정에서의 수비 안정과 역습 타이밍",
-      "에스테벙·플라코 로페스 등 공격진의 골 결정력",
+      "파우메이라스 공격진의 골 결정력과 세트피스 상황",
     ];
   }
 

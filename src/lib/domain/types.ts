@@ -167,6 +167,8 @@ export interface PlayerSeasonStats {
   redCards?: number;
   minutes?: number;
   cleanSheets?: number; // GK
+  saves?: number; // GK
+  goalsConceded?: number; // GK
 }
 
 export interface Player {

@@ -14,18 +14,30 @@ import type {
 } from "@/lib/domain/types";
 import type { DashboardModel } from "@/lib/services/dashboard";
 import { matchInsight } from "@/lib/interpret/matches";
-import { playerInsight } from "@/lib/interpret/players";
+import { playerInsight, hasEditorialInsight } from "@/lib/interpret/players";
+import { newsCategory } from "@/lib/interpret/news";
 import { competitionContext } from "@/lib/interpret/competitions";
+import { aggregateStats } from "@/lib/format/stats";
 import { toKST } from "@/lib/format/datetime";
 
-/** Pick the most compelling "player to watch", biased to the next opponent. */
+/**
+ * Pick the most compelling "player to watch". Works against the LIVE roster
+ * (real numeric ids — the old seed-id lookup silently fell through to a backup
+ * keeper). Ranks outfielders by current-season goal contribution; if no stats
+ * are available, prefers a player with a curated editorial dossier.
+ */
 function pickPlayerToWatch(players: Player[]): Player | null {
-  const preferred = ["estevao", "flaco-lopez", "raphael-veiga", "vitor-roque"];
-  for (const id of preferred) {
-    const p = players.find((x) => x.id === id);
-    if (p) return p;
-  }
-  return players[0] ?? null;
+  if (players.length === 0) return null;
+  const outfield = players.filter((p) => p.positionGroup !== "GK");
+  const pool = outfield.length > 0 ? outfield : players;
+  const contribution = (p: Player) => {
+    const s = aggregateStats(p.stats);
+    return s ? s.goals * 3 + s.assists * 2 + (s.appearances || 0) * 0.05 : -1;
+  };
+  const ranked = [...pool].sort((a, b) => contribution(b) - contribution(a));
+  if (ranked[0] && contribution(ranked[0]) > 0) return ranked[0];
+  // No stats wired → surface a player we have real editorial context for.
+  return pool.find((p) => hasEditorialInsight(p)) ?? pool[0];
 }
 
 export function buildBriefing(
@@ -97,8 +109,9 @@ export function buildBriefing(
     });
   }
 
-  // 5) One current storyline (from latest meaningful news)
-  const storyline = news[0];
+  // 5) One current storyline — prefer the latest SENIOR-team news so the
+  //    flagship briefing isn't led by a youth/women's-team item.
+  const storyline = news.find((n) => newsCategory(n) === "senior") ?? news[0];
   if (storyline) {
     items.push({
       icon: "🧵",

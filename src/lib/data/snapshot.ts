@@ -25,6 +25,7 @@ interface RawSnapshot {
   origin?: string;
   source?: string;
   fetchedAt?: string;
+  statsSeason?: string;
   items?: unknown;
   roster?: unknown;
   table?: unknown;
@@ -130,13 +131,14 @@ export function readSquadSnapshot(): DataResult<Squad> | null {
   ) {
     return null;
   }
+  const season = snap.statsSeason ? `${snap.statsSeason} 시즌` : "현재 시즌";
   return {
     data: { players: snap.players, coach: snap.coach } as Squad,
     origin: toOrigin(snap.origin),
     source: snap.source ?? "data/squad.json",
     fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
     fellBack: false,
-    note: "현재 스쿼드 · 무료 파이프라인 스냅샷 (스탯은 2024 시즌)",
+    note: `현재 스쿼드 · 무료 파이프라인 스냅샷 (스탯은 ${season} 기준)`,
   };
 }
 

@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
-import { getStandings } from "@/lib/adapters";
+import { getStandings, getMatches } from "@/lib/adapters";
 import { StandingsTable } from "@/components/standings/StandingsTable";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 import { competitionContext } from "@/lib/interpret/competitions";
+import { recentForm } from "@/lib/format/stats";
+import { ACTIVE_TEAM_ID } from "@/lib/teams";
 
 export const metadata: Metadata = {
   title: "순위·기록",
@@ -14,8 +16,17 @@ export const metadata: Metadata = {
 export const revalidate = 300;
 
 export default async function StandingsPage() {
-  const res = await getStandings();
-  const s = res.data;
+  const [res, matchesRes] = await Promise.all([getStandings(), getMatches()]);
+  // ESPN's standings feed carries no recent-form string, so derive the tracked
+  // team's last-5 from the fixtures snapshot (others stay blank — honest, since
+  // we don't have every club's match log).
+  const trackedForm = recentForm(matchesRes.data, ACTIVE_TEAM_ID, 5);
+  const s = {
+    ...res.data,
+    table: res.data.table.map((r) =>
+      r.isTracked && r.form.length === 0 ? { ...r, form: trackedForm } : r,
+    ),
+  };
   const ctx = competitionContext(s.competition.id);
   const tracked = s.table.find((r) => r.isTracked);
 
@@ -63,8 +74,10 @@ export default async function StandingsPage() {
         <LeaderCard title="🅰️ 도움 순위" rows={s.topAssisters} unit="도움" />
       </div>
       <p className="text-xs text-[var(--pm-muted)]">
-        ※ 순위·기록은 라이브 소스를 연결하지 않으면 시드(mock) 데이터로
-        표시됩니다. 정확한 실시간 순위는 공식 출처를 확인하세요.
+        ※ 순위표는 위 배지의 출처·시점 기준입니다(소스 장애 시 시드 데이터로
+        자동 대체되며 그렇게 표기됩니다). 개인 기록은 무료 소스 한계로 과거
+        시즌일 수 있어 시즌을 명시했습니다. 정확한 실시간 기록은 공식 출처를
+        확인하세요.
       </p>
     </div>
   );

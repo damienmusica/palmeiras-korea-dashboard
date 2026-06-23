@@ -81,6 +81,8 @@ export function aggregateStats(
       redCards: (acc.redCards ?? 0) + (s.redCards ?? 0),
       minutes: (acc.minutes ?? 0) + (s.minutes ?? 0),
       cleanSheets: (acc.cleanSheets ?? 0) + (s.cleanSheets ?? 0),
+      saves: (acc.saves ?? 0) + (s.saves ?? 0),
+      goalsConceded: (acc.goalsConceded ?? 0) + (s.goalsConceded ?? 0),
     }),
     {
       season: "",
@@ -91,6 +93,8 @@ export function aggregateStats(
       redCards: 0,
       minutes: 0,
       cleanSheets: 0,
+      saves: 0,
+      goalsConceded: 0,
     },
   );
 }

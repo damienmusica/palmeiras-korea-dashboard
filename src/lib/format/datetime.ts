@@ -24,8 +24,14 @@ function isValidDate(d: Date): boolean {
 }
 
 /**
- * Format an ISO timestamp into a target timezone with Korean locale parts.
+ * Format an ISO timestamp into a target timezone with Korean parts.
  * Throws on invalid input so callers handle it explicitly.
+ *
+ * Built deterministically from numeric `formatToParts` values + a manual Korean
+ * AM/PM label, so the output is byte-identical on the Node server and the
+ * browser. Relying on Intl's localized day-period token caused a server/client
+ * hydration mismatch (Node ICU rendered "AM/PM", the browser "오전/오후"); we
+ * never emit that token now and compute the period ourselves.
  */
 export function formatInZone(
   iso: string,
@@ -37,32 +43,31 @@ export function formatInZone(
     throw new Error(`Invalid ISO timestamp: ${iso}`);
   }
 
-  const date = new Intl.DateTimeFormat(locale, {
-    timeZone,
-    month: "long",
-    day: "numeric",
-  }).format(d);
-
-  const time = new Intl.DateTimeFormat(locale, {
-    timeZone,
-    hour: "numeric",
-    minute: "2-digit",
-  }).format(d);
-
-  const weekday = new Intl.DateTimeFormat(locale, {
-    timeZone,
-    weekday: "short",
-  }).format(d);
-
-  const formatted = new Intl.DateTimeFormat(locale, {
+  const parts = new Intl.DateTimeFormat(locale, {
     timeZone,
     year: "numeric",
     month: "long",
     day: "numeric",
     weekday: "short",
-    hour: "numeric",
+    hour: "2-digit",
     minute: "2-digit",
-  }).format(d);
+    hourCycle: "h23",
+  }).formatToParts(d);
+  const get = (type: Intl.DateTimeFormatPartTypes) =>
+    parts.find((p) => p.type === type)?.value ?? "";
+
+  const year = get("year");
+  const month = get("month"); // e.g. "6월"
+  const day = get("day");
+  const weekday = get("weekday"); // e.g. "화"
+  const minute = get("minute"); // 2-digit
+  const hour23 = parseInt(get("hour"), 10) || 0;
+  const period = hour23 < 12 ? "오전" : "오후";
+  const hour12 = hour23 % 12 === 0 ? 12 : hour23 % 12;
+
+  const date = `${month} ${day}일`;
+  const time = `${period} ${hour12}:${minute}`;
+  const formatted = `${year}년 ${month} ${day}일 ${weekday} ${time}`;
 
   return { formatted, date, time, weekday, timeZone };
 }

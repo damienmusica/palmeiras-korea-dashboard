@@ -1,8 +1,8 @@
 {
   "origin": "api",
-  "source": "API-Football 현재 스쿼드",
-  "fetchedAt": "2026-06-23T22:17:39.762Z",
-  "statsSeason": "2024",
+  "source": "API-Football 현재 스쿼드 + ESPN 2026 시즌 스탯",
+  "fetchedAt": "2026-06-23T23:08:59.800Z",
+  "statsSeason": "2026",
   "players": [
     {
       "id": "464019",
@@ -20,14 +20,15 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
+          "season": "2026",
+          "competition": "브라질 세리이 A",
           "appearances": 0,
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0,
-          "minutes": 0
+          "saves": 0,
+          "goalsConceded": 0
         }
       ]
     },
@@ -44,7 +45,20 @@
       "birthDate": "1998-10-09",
       "heightCm": 204,
       "photo": "https://media.api-sports.io/football/players/10373.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 17,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 3,
+          "redCards": 0,
+          "saves": 51,
+          "goalsConceded": 13
+        }
+      ]
     },
     {
       "id": "580796",
@@ -54,10 +68,24 @@
       "positionGroup": "GK",
       "position": "Goalkeeper",
       "positionKo": "골키퍼",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/580796.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "saves": 0,
+          "goalsConceded": 0
+        }
+      ],
+      "birthDate": "2007-02-14"
     },
     {
       "id": "512533",
@@ -72,7 +100,18 @@
       "birthDate": "2007-03-01",
       "heightCm": 185,
       "photo": "https://media.api-sports.io/football/players/512533.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ]
     },
     {
       "id": "10372",
@@ -90,14 +129,15 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 52,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 1,
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
           "redCards": 0,
-          "minutes": 540
+          "saves": 3,
+          "goalsConceded": 0
         }
       ]
     },
@@ -117,14 +157,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 0,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 13,
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
-          "redCards": 0,
-          "minutes": 0
+          "redCards": 0
         }
       ]
     },
@@ -144,14 +183,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 0,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 2,
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
-          "redCards": 0,
-          "minutes": 0
+          "redCards": 0
         }
       ]
     },
@@ -168,7 +206,18 @@
       "birthDate": "1999-04-01",
       "heightCm": 190,
       "photo": "https://media.api-sports.io/football/players/10379.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 7,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ]
     },
     {
       "id": "306706",
@@ -186,14 +235,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 12,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 15,
           "goals": 0,
           "assists": 0,
-          "yellowCards": 1,
-          "redCards": 0,
-          "minutes": 815
+          "yellowCards": 3,
+          "redCards": 0
         }
       ]
     },
@@ -213,14 +261,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 45,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 16,
           "goals": 3,
-          "assists": 2,
-          "yellowCards": 11,
-          "redCards": 0,
-          "minutes": 3875
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
         }
       ]
     },
@@ -237,7 +284,18 @@
       "birthDate": "2003-12-21",
       "heightCm": 183,
       "photo": "https://media.api-sports.io/football/players/311384.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 7,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ]
     },
     {
       "id": "10125",
@@ -252,7 +310,18 @@
       "birthDate": "2001-02-25",
       "heightCm": 176,
       "photo": "https://media.api-sports.io/football/players/10125.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 13,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      ]
     },
     {
       "id": "646348",
@@ -265,7 +334,19 @@
       "nationality": "",
       "nationalityKo": "정보 없음",
       "photo": "https://media.api-sports.io/football/players/646348.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2007-10-20"
     },
     {
       "id": "10083",
@@ -283,14 +364,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 51,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 15,
           "goals": 1,
-          "assists": 0,
-          "yellowCards": 8,
-          "redCards": 1,
-          "minutes": 4081
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 1
         }
       ]
     },
@@ -310,14 +390,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 38,
-          "goals": 3,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 6,
+          "goals": 0,
           "assists": 1,
-          "yellowCards": 4,
-          "redCards": 0,
-          "minutes": 2902
+          "yellowCards": 0,
+          "redCards": 0
         }
       ]
     },
@@ -337,14 +416,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutes": 0
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 17,
+          "goals": 4,
+          "assists": 2,
+          "yellowCards": 3,
+          "redCards": 1
         }
       ]
     },
@@ -361,7 +439,18 @@
       "birthDate": "1996-01-01",
       "heightCm": 178,
       "photo": "https://media.api-sports.io/football/players/899.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 17,
+          "goals": 1,
+          "assists": 9,
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      ]
     },
     {
       "id": "575323",
@@ -371,10 +460,22 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/575323.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 4,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2005-07-10"
     },
     {
       "id": "21095",
@@ -392,14 +493,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 45,
-          "goals": 2,
-          "assists": 3,
-          "yellowCards": 4,
-          "redCards": 0,
-          "minutes": 3372
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 16,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0
         }
       ]
     },
@@ -411,10 +511,22 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/574837.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 3,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2008-02-02"
     },
     {
       "id": "9218",
@@ -424,10 +536,22 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/9218.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 17,
+          "goals": 2,
+          "assists": 1,
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "1995-03-27"
     },
     {
       "id": "153083",
@@ -437,10 +561,22 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "UY",
+      "nationalityKo": "우루과이",
       "photo": "https://media.api-sports.io/football/players/153083.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 6,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "1999-08-17"
     },
     {
       "id": "106485",
@@ -458,14 +594,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 33,
-          "goals": 7,
-          "assists": 5,
-          "yellowCards": 5,
-          "redCards": 0,
-          "minutes": 2131
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 15,
+          "goals": 1,
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 0
         }
       ]
     },
@@ -482,19 +617,7 @@
       "birthDate": "2006-03-24",
       "heightCm": 178,
       "photo": "https://media.api-sports.io/football/players/464021.png",
-      "availability": "available",
-      "stats": [
-        {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutes": 0
-        }
-      ]
+      "availability": "available"
     },
     {
       "id": "196298",
@@ -504,10 +627,22 @@
       "positionGroup": "MF",
       "position": "Midfielder",
       "positionKo": "미드필더",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "PY",
+      "nationalityKo": "파라과이",
       "photo": "https://media.api-sports.io/football/players/196298.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 15,
+          "goals": 2,
+          "assists": 1,
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "1999-08-31"
     },
     {
       "id": "172327",
@@ -530,10 +665,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "CO",
+      "nationalityKo": "콜롬비아",
       "photo": "https://media.api-sports.io/football/players/13708.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 13,
+          "goals": 3,
+          "assists": 0,
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "1997-09-21"
     },
     {
       "id": "570417",
@@ -543,10 +690,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/570417.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2009-12-07"
     },
     {
       "id": "512522",
@@ -556,10 +715,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/512522.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2007-01-21"
     },
     {
       "id": "2412",
@@ -569,10 +740,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/2412.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 13,
+          "goals": 1,
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "1993-04-15"
     },
     {
       "id": "516815",
@@ -582,10 +765,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/516815.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 2,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2006-09-15"
     },
     {
       "id": "295513",
@@ -603,14 +798,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 63,
-          "goals": 18,
-          "assists": 6,
-          "yellowCards": 10,
-          "redCards": 0,
-          "minutes": 3576
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 17,
+          "goals": 6,
+          "assists": 3,
+          "yellowCards": 2,
+          "redCards": 0
         }
       ]
     },
@@ -630,14 +824,13 @@
       "availability": "available",
       "stats": [
         {
-          "season": "2024",
-          "competition": "전체",
-          "appearances": 15,
-          "goals": 1,
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 7,
+          "goals": 0,
           "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutes": 28
+          "yellowCards": 2,
+          "redCards": 0
         }
       ]
     },
@@ -649,10 +842,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/987.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 5,
+          "goals": 2,
+          "assists": 0,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2000-07-15"
     },
     {
       "id": "340279",
@@ -662,10 +867,22 @@
       "positionGroup": "FW",
       "position": "Attacker",
       "positionKo": "공격수",
-      "nationality": "",
-      "nationalityKo": "정보 없음",
+      "nationality": "BR",
+      "nationalityKo": "브라질",
       "photo": "https://media.api-sports.io/football/players/340279.png",
-      "availability": "available"
+      "availability": "available",
+      "stats": [
+        {
+          "season": "2026",
+          "competition": "브라질 세리이 A",
+          "appearances": 7,
+          "goals": 3,
+          "assists": 0,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ],
+      "birthDate": "2005-02-28"
     }
   ],
   "coach": {

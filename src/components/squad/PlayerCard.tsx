@@ -79,11 +79,17 @@ export function PlayerCard({ player }: { player: Player }) {
       {agg ? (
         <div className="flex items-center justify-around border-t border-black/5 pt-2 text-center">
           <Mini label="출전" value={agg.appearances} />
-          <Mini label="골" value={agg.goals} />
-          <Mini label="도움" value={agg.assists} />
           {player.positionGroup === "GK" ? (
-            <Mini label="클린시트" value={agg.cleanSheets ?? 0} />
-          ) : null}
+            <>
+              <Mini label="선방" value={agg.saves ?? 0} />
+              <Mini label="실점" value={agg.goalsConceded ?? 0} />
+            </>
+          ) : (
+            <>
+              <Mini label="골" value={agg.goals} />
+              <Mini label="도움" value={agg.assists} />
+            </>
+          )}
         </div>
       ) : (
         <p className="border-t border-black/5 pt-2 text-center text-xs italic text-[var(--pm-muted)]">
