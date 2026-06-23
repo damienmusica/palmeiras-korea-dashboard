@@ -96,6 +96,75 @@ async function callBatch(titles) {
  * be null where a batch failed. Returns null only if the LLM is disabled.
  * Per-batch errors degrade gracefully (those items get null → MT fallback).
  */
+const TRANSLIT_SYSTEM = [
+  "당신은 브라질/남미/유럽 축구 선수·감독 이름을 한국어로 음역하는 전문가입니다.",
+  "입력은 이름(라틴 문자) JSON 배열입니다. 브라질 포르투갈어 발음 기준으로 음역하세요.",
+  "(예: Weverton→베베르통, Raphael Veiga→하파엘 베이가, Vitor Roque→비토르 호키)",
+  '출력은 같은 순서의 한글 문자열 배열로, {"items":["...","..."]} 형태의 JSON만. 설명 금지.',
+].join("\n");
+
+async function callTransliterate(names) {
+  const { key, base, model } = cfg();
+  const res = await fetch(`${base}/chat/completions`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${key}`,
+      "Content-Type": "application/json",
+    },
+    signal: AbortSignal.timeout(TIMEOUT_MS),
+    body: JSON.stringify({
+      model,
+      messages: [
+        { role: "system", content: TRANSLIT_SYSTEM },
+        { role: "user", content: JSON.stringify(names) },
+      ],
+      temperature: 0.2,
+      max_tokens: 8000,
+      response_format: { type: "json_object" },
+    }),
+  });
+  if (!res.ok) throw new Error(`LLM HTTP ${res.status}`);
+  const json = await res.json();
+  const items = extractItems(json?.choices?.[0]?.message?.content || "");
+  if (!Array.isArray(items)) throw new Error("LLM returned non-array");
+  // Coerce {ko}/{name}/{value} objects to strings if the model wrapped them.
+  return items.map((v) =>
+    typeof v === "string"
+      ? v
+      : v && typeof v === "object"
+        ? v.ko || v.korean || v.value || v.name || ""
+        : "",
+  );
+}
+
+/** Transliterate names to Korean. Returns array aligned to input (null = failed). */
+export async function llmTransliterateNames(names) {
+  if (!llmEnabled() || names.length === 0) return null;
+  const out = new Array(names.length).fill(null);
+  const chunkSize = 5;
+  for (let i = 0; i < names.length; i += chunkSize) {
+    const chunk = names.slice(i, i + chunkSize);
+    let ok = false;
+    for (let attempt = 0; attempt < 2 && !ok; attempt += 1) {
+      try {
+        const res = await callTransliterate(chunk);
+        for (let j = 0; j < chunk.length; j += 1) {
+          const v = res[j];
+          if (typeof v === "string" && v.trim()) out[i + j] = v.trim();
+        }
+        ok = true;
+      } catch (err) {
+        if (attempt === 1) {
+          console.log(
+            `[ingest] transliterate chunk ${i} failed (${err.message})`,
+          );
+        }
+      }
+    }
+  }
+  return out;
+}
+
 export async function llmEnrichNews(titles) {
   if (!llmEnabled() || titles.length === 0) return null;
   const out = new Array(titles.length).fill(null);

@@ -18,7 +18,7 @@
 
 import { writeFileSync, mkdirSync, existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { llmEnrichNews, llmEnabled } from "./llm.mjs";
+import { llmEnrichNews, llmEnabled, llmTransliterateNames } from "./llm.mjs";
 
 const DATA_DIR = join(process.cwd(), "data");
 // Bias to the football club (the bare name "Palmeiras" also matches unrelated
@@ -463,39 +463,237 @@ async function ingestMatches() {
   );
 }
 
-// --- API-Football squad photos (current roster) -----------------------------
+// --- API-Football full real squad (current roster + 2024 stats) -------------
 
-async function ingestSquadPhotos() {
+const POS_GROUP = {
+  Goalkeeper: "GK",
+  Defender: "DF",
+  Midfielder: "MF",
+  Attacker: "FW",
+};
+const POS_KO = { GK: "골키퍼", DF: "수비수", MF: "미드필더", FW: "공격수" };
+
+const NAT = {
+  Brazil: ["BR", "브라질"],
+  Argentina: ["AR", "아르헨티나"],
+  Uruguay: ["UY", "우루과이"],
+  Paraguay: ["PY", "파라과이"],
+  Colombia: ["CO", "콜롬비아"],
+  Chile: ["CL", "칠레"],
+  Venezuela: ["VE", "베네수엘라"],
+  Ecuador: ["EC", "에콰도르"],
+  Peru: ["PE", "페루"],
+  Portugal: ["PT", "포르투갈"],
+  Spain: ["ES", "스페인"],
+  France: ["FR", "프랑스"],
+  Mexico: ["MX", "멕시코"],
+};
+function natCode(n) {
+  return NAT[n]?.[0] || "";
+}
+function natKo(n) {
+  return NAT[n]?.[1] || n || "정보 없음";
+}
+
+function aggStats(detail) {
+  const blocks = detail?.statistics || [];
+  if (blocks.length === 0) return null;
+  let apps = 0,
+    goals = 0,
+    assists = 0,
+    yellow = 0,
+    red = 0,
+    minutes = 0;
+  for (const b of blocks) {
+    apps += b.games?.appearences || 0;
+    goals += b.goals?.total || 0;
+    assists += b.goals?.assists || 0;
+    yellow += b.cards?.yellow || 0;
+    red += b.cards?.red || 0;
+    minutes += b.games?.minutes || 0;
+  }
+  return {
+    season: "2024",
+    competition: "전체",
+    appearances: apps,
+    goals,
+    assists,
+    yellowCards: yellow,
+    redCards: red,
+    minutes,
+  };
+}
+
+async function ingestSquad() {
   const key = process.env.API_FOOTBALL_KEY;
   if (!key) {
-    log("no API_FOOTBALL_KEY — skipping squad photos");
+    log("no API_FOOTBALL_KEY — skipping squad (app uses seed)");
     return;
   }
   const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
-  log("fetching real squad photos from API-Football…");
-  const json = await getJson(
+  const H = { headers: { "x-apisports-key": key } };
+
+  log("fetching real current squad from API-Football…");
+  const sq = await getJson(
     `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
-    { headers: { "x-apisports-key": key } },
+    H,
   );
-  const players = json?.response?.[0]?.players ?? [];
-  if (players.length === 0) {
-    log("squad fetch empty:", JSON.stringify(json?.errors));
+  const roster = sq?.response?.[0]?.players ?? [];
+  if (roster.length === 0) {
+    log("squad empty:", JSON.stringify(sq?.errors));
     return;
   }
-  const roster = players
-    .map((p) => ({
-      name: p.name,
-      number: p.number ?? null,
-      photo: safeUrl(p.photo),
-    }))
-    .filter((p) => p.name && p.photo !== "#");
-  writeData("squad-photos.json", {
-    origin: "api",
-    source: "API-Football (현재 스쿼드 사진)",
-    fetchedAt: new Date().toISOString(),
-    roster,
+
+  // Detailed records (nationality, birthdate, height, 2024 stats) — paginated.
+  const detail = {};
+  try {
+    for (let page = 1; page <= 3; page += 1) {
+      const pj = await getJson(
+        `https://${host}/players?team=${PALMEIRAS_API_ID}&season=2024&page=${page}`,
+        H,
+      );
+      for (const r of pj?.response || []) detail[r.player.id] = r;
+      if (page >= (pj?.paging?.total || 1)) break;
+    }
+  } catch (err) {
+    log("player detail fetch partial:", err.message);
+  }
+
+  // Cache from the previous run: reuse bio + Korean names to bound API/LLM use.
+  const prevSquad = readData("squad.json");
+  const cachedById = new Map(
+    (prevSquad?.players || []).map((p) => [String(p.id), p]),
+  );
+
+  // For players whose nationality is still unknown, fetch their profile
+  // (1 call each). Bounded so the free quota is never blown; the cache means
+  // steady-state runs fetch ~0 profiles (squad rarely changes).
+  const profile = {};
+  let profileCalls = 0;
+  for (const p of roster) {
+    const known =
+      detail[p.id]?.player?.nationality ||
+      cachedById.get(String(p.id))?.nationality;
+    if (known || profileCalls >= 30) continue;
+    try {
+      const pj = await getJson(
+        `https://${host}/players/profiles?player=${p.id}`,
+        H,
+      );
+      const pl = pj?.response?.[0]?.player;
+      if (pl) {
+        profile[p.id] = pl;
+        profileCalls += 1;
+      }
+    } catch {
+      /* skip — stays unknown */
+    }
+  }
+  log(`fetched ${profileCalls} player profiles`);
+
+  // Transliterate only names without a usable cached Korean name (saves calls).
+  const needKo = roster
+    .map((p, i) => ({ p, i }))
+    .filter(({ p }) => {
+      const c = cachedById.get(String(p.id));
+      return !(c?.nameKo && c.nameKo !== c.name);
+    });
+  const koResults = await llmTransliterateNames(needKo.map(({ p }) => p.name));
+  const koByIndex = {};
+  needKo.forEach((entry, k) => {
+    if (koResults && koResults[k]) koByIndex[entry.i] = koResults[k];
   });
-  log(`wrote data/squad-photos.json (${roster.length} players)`);
+
+  const players = roster.map((p, idx) => {
+    const d = detail[p.id];
+    const prof = profile[p.id];
+    const cached = cachedById.get(String(p.id));
+    const grp = POS_GROUP[p.position] || "MF";
+    const nat = d?.player?.nationality || prof?.nationality || "";
+    const heightStr = d?.player?.height || prof?.height || "";
+    const height = parseInt(String(heightStr).replace(/\D/g, ""), 10);
+    const birthDate =
+      d?.player?.birth?.date || prof?.birth?.date || cached?.birthDate;
+    const stats = aggStats(d);
+    const nameKo =
+      koByIndex[idx] ||
+      (cached?.nameKo && cached.nameKo !== cached.name
+        ? cached.nameKo
+        : null) ||
+      p.name;
+    return {
+      id: String(p.id),
+      name: p.name,
+      nameKo,
+      number: p.number ?? undefined,
+      positionGroup: grp,
+      position: p.position || POS_KO[grp],
+      positionKo: POS_KO[grp],
+      nationality: natCode(nat) || cached?.nationality || "",
+      nationalityKo: nat ? natKo(nat) : cached?.nationalityKo || "정보 없음",
+      birthDate: birthDate || undefined,
+      heightCm:
+        Number.isFinite(height) && height > 0 ? height : cached?.heightCm,
+      photo: safeUrl(p.photo) !== "#" ? safeUrl(p.photo) : undefined,
+      availability: "available",
+      stats: stats ? [stats] : cached?.stats,
+    };
+  });
+
+  // Real current head coach. Fall back to cache, then to the known current
+  // coach (Abel Ferreira), so the UI never shows an empty placeholder.
+  let coach =
+    prevSquad?.coach && prevSquad.coach.name !== "정보 없음"
+      ? prevSquad.coach
+      : {
+          id: "coach",
+          name: "Abel Ferreira",
+          nameKo: "아벨 페레이라",
+          nationality: "PT",
+          nationalityKo: "포르투갈",
+          birthDate: "1978-12-22",
+          role: "Head Coach",
+          roleKo: "감독",
+        };
+  try {
+    const cj = await getJson(
+      `https://${host}/coachs?team=${PALMEIRAS_API_ID}`,
+      H,
+    );
+    const current =
+      (cj?.response || []).find((c) =>
+        (c.career || []).some((k) => k.team?.id === PALMEIRAS_API_ID && !k.end),
+      ) || cj?.response?.[0];
+    if (current) {
+      const cko = await llmTransliterateNames([current.name]);
+      coach = {
+        id: "coach",
+        name: current.name,
+        nameKo: (cko && cko[0]) || current.name,
+        nationality: natCode(current.nationality),
+        nationalityKo: natKo(current.nationality),
+        birthDate: current.birth?.date || undefined,
+        role: "Head Coach",
+        roleKo: "감독",
+      };
+    }
+  } catch (err) {
+    log("coach fetch failed:", err.message);
+  }
+
+  const withPhoto = players.filter((p) => p.photo).length;
+  const withStats = players.filter((p) => p.stats).length;
+  writeData("squad.json", {
+    origin: "api",
+    source: "API-Football 현재 스쿼드 + LLM 음역",
+    fetchedAt: new Date().toISOString(),
+    statsSeason: "2024",
+    players,
+    coach,
+  });
+  log(
+    `wrote data/squad.json (${players.length} players, ${withPhoto} photos, ${withStats} w/ 2024 stats, coach: ${coach.nameKo})`,
+  );
 }
 
 // --- main -------------------------------------------------------------------
@@ -514,7 +712,7 @@ async function main() {
   await step("news", ingestNews);
   await step("standings", ingestStandings);
   await step("matches", ingestMatches);
-  await step("squad-photos", ingestSquadPhotos);
+  await step("squad", ingestSquad);
   log("done");
 }
 

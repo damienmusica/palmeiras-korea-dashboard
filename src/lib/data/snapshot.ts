@@ -17,6 +17,7 @@ import type {
   NewsItem,
   Match,
   Standings,
+  Squad,
 } from "@/lib/domain/types";
 import type { RosterEntry } from "@/lib/data/photos";
 
@@ -27,6 +28,8 @@ interface RawSnapshot {
   items?: unknown;
   roster?: unknown;
   table?: unknown;
+  players?: unknown;
+  coach?: unknown;
 }
 
 const VALID_ORIGINS: DataOrigin[] = [
@@ -113,6 +116,27 @@ export function readStandingsSnapshot(): DataResult<Standings> | null {
     fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
     fellBack: false,
     note: "현재 시즌 · 무료 파이프라인 스냅샷",
+  };
+}
+
+/** Read the full real squad snapshot (API-Football roster + LLM Korean names). */
+export function readSquadSnapshot(): DataResult<Squad> | null {
+  const snap = readJson("squad.json");
+  if (
+    !snap ||
+    !Array.isArray(snap.players) ||
+    snap.players.length === 0 ||
+    !snap.coach
+  ) {
+    return null;
+  }
+  return {
+    data: { players: snap.players, coach: snap.coach } as Squad,
+    origin: toOrigin(snap.origin),
+    source: snap.source ?? "data/squad.json",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
+    fellBack: false,
+    note: "현재 스쿼드 · 무료 파이프라인 스냅샷 (스탯은 2024 시즌)",
   };
 }
 

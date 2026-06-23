@@ -27,6 +27,7 @@ import { isSafeHttpUrl } from "@/lib/security/url";
 import {
   readNewsSnapshot,
   readSquadPhotos,
+  readSquadSnapshot,
   readMatchesSnapshot,
   readStandingsSnapshot,
 } from "@/lib/data/snapshot";
@@ -81,6 +82,12 @@ function fallbackResult<T>(data: T, note: string): DataResult<T> {
 
 export async function getSquad(): Promise<DataResult<Squad>> {
   return cached(CACHE_KEYS.squad, async () => {
+    // Real current roster (API-Football) with Korean names — the live path.
+    const snapshot = readSquadSnapshot();
+    if (snapshot && snapshot.data.players.length > 0) {
+      return snapshot;
+    }
+    // Fallback: seed roster with real photos merged by name, if available.
     const photos = readSquadPhotos();
     if (photos && photos.roster.length > 0) {
       const players = attachPhotos(SEED_SQUAD.players, photos.roster);
@@ -91,7 +98,7 @@ export async function getSquad(): Promise<DataResult<Squad>> {
         source: `${SEED_SOURCE} + API-Football 사진`,
         fetchedAt: nowIso(),
         fellBack: false,
-        note: `명단·해설은 시드, 선수 사진 ${withPhotos}명은 API-Football 현재 스쿼드(실시간).`,
+        note: `명단·해설은 시드, 선수 사진 ${withPhotos}명은 API-Football(실시간).`,
       };
     }
     return seedResult<Squad>(SEED_SQUAD);
