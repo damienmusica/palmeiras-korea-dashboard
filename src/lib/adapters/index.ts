@@ -33,6 +33,7 @@ import {
 } from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
 import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
+import { getDossier } from "@/lib/teams/palmeiras-dossier";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -88,11 +89,22 @@ export async function getSquad(): Promise<DataResult<Squad>> {
     // orthography is stable and correct regardless of how data was produced.
     const snapshot = readSquadSnapshot();
     if (snapshot && snapshot.data.players.length > 0) {
-      const players = snapshot.data.players.map((p) => ({
-        ...p,
-        nameKo: koreanName(p.name),
-        nationalityKo: p.nationalityKo || "정보 없음",
-      }));
+      const players = snapshot.data.players.map((p) => {
+        const d = getDossier(p.name);
+        // Live API facts win; the curated dossier only fills gaps.
+        return {
+          ...p,
+          nameKo: koreanName(p.name),
+          nationality: p.nationality || d?.nationality || "",
+          nationalityKo:
+            p.nationalityKo && p.nationalityKo !== "정보 없음"
+              ? p.nationalityKo
+              : d?.nationalityKo || "정보 없음",
+          birthDate: p.birthDate || d?.birthDate,
+          heightCm: p.heightCm || d?.heightCm,
+          bio: p.bio || d?.bioKo,
+        };
+      });
       const coach = {
         ...snapshot.data.coach,
         nameKo: koreanName(snapshot.data.coach.name),

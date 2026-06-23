@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getPlayer, getSquad, getMatches } from "@/lib/adapters";
+import { getPlayer, getSquad, getMatches, getNews } from "@/lib/adapters";
 import { playerInsight } from "@/lib/interpret/players";
+import { NewsCard } from "@/components/news/NewsCard";
+import { relatedNews } from "@/lib/interpret/relate";
 import {
   ageFromBirthDate,
   availabilityKo,
@@ -64,6 +66,10 @@ export default async function PlayerPage({
     .filter((m) => m.status === "finished")
     .sort((a, b) => b.kickoff.localeCompare(a.kickoff))
     .slice(0, 5);
+
+  // Player-specific latest coverage (deterministic name match).
+  const newsRes = await getNews();
+  const playerNews = relatedNews(player, newsRes.data, 4);
 
   const facts: { label: string; value: string; unknown?: boolean }[] = [
     {
@@ -261,6 +267,28 @@ export default async function PlayerPage({
         ) : (
           <p className="pm-card p-4 text-sm italic text-[var(--pm-muted)]">
             이 선수의 시즌 스탯 정보가 제공되지 않습니다.
+          </p>
+        )}
+      </section>
+
+      {/* Player-specific related news */}
+      <section aria-labelledby="news-heading" className="space-y-2">
+        <h2 id="news-heading" className="text-lg font-bold">
+          관련 뉴스
+        </h2>
+        {playerNews.length > 0 ? (
+          <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
+            {playerNews.map((item) => (
+              <NewsCard key={item.id} item={item} />
+            ))}
+          </div>
+        ) : (
+          <p className="pm-card p-4 text-sm italic text-[var(--pm-muted)]">
+            이 선수를 직접 언급한 최신 뉴스가 아직 없습니다. 전체 뉴스는{" "}
+            <Link href="/news" className="text-[var(--pm-primary)] underline">
+              뉴스 페이지
+            </Link>
+            에서 확인하세요.
           </p>
         )}
       </section>

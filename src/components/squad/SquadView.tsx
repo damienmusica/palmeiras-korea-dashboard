@@ -18,6 +18,13 @@ const GROUP_LABEL: Record<PlayerPositionGroup, string> = {
 
 const ORDER: PlayerPositionGroup[] = ["GK", "DF", "MF", "FW"];
 
+const CHIP_LABEL: Record<PlayerPositionGroup, string> = {
+  GK: "골키퍼",
+  DF: "수비수",
+  MF: "미드필더",
+  FW: "공격수",
+};
+
 export function SquadView({
   players,
   coach,
@@ -75,7 +82,7 @@ export function SquadView({
             { value: "ALL", label: "전체", count: counts.ALL },
             ...ORDER.map((g) => ({
               value: g,
-              label: g,
+              label: CHIP_LABEL[g],
               count: counts[g],
             })),
           ]}

@@ -6,13 +6,19 @@
 // object/base/form targets, and restrict connect/img/script origins. The app
 // has no dangerouslySetInnerHTML and no user-generated markup, so the residual
 // 'unsafe-inline' risk is low; a nonce-based CSP is a documented future step.
+// Next's dev server (React Refresh) needs 'unsafe-eval'; production does not.
+const isDev = process.env.NODE_ENV !== "production";
+const scriptSrc = isDev
+  ? "script-src 'self' 'unsafe-inline' 'unsafe-eval'"
+  : "script-src 'self' 'unsafe-inline'";
+
 const ContentSecurityPolicy = [
   "default-src 'self'",
   "base-uri 'self'",
   "object-src 'none'",
   "frame-ancestors 'none'",
   "form-action 'self'",
-  "script-src 'self' 'unsafe-inline'",
+  scriptSrc,
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: https:",
   "font-src 'self' data:",
