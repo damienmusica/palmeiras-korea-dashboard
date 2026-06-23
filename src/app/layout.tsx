@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     title: "파우메이라스",
   },
   icons: {
-    icon: "/icon.svg",
-    apple: "/apple-icon.svg",
+    icon: "/teams/palmeiras/crest.png",
+    apple: "/teams/palmeiras/crest.png",
   },
   keywords: [
     "Palmeiras",

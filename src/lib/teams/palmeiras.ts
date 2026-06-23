@@ -53,7 +53,7 @@ export const PALMEIRAS: TeamConfig = {
     secondary: "#ffffff",
     accent: "#9fd5b7",
   },
-  crest: "/teams/palmeiras/crest.svg",
+  crest: "/teams/palmeiras/crest.png", // real club crest (ESPN), bundled locally
   stadium: {
     name: "Allianz Parque",
     nameKo: "알리안츠 파르키",

@@ -17,12 +17,11 @@ export default function manifest(): MetadataRoute.Manifest {
     lang: "ko",
     categories: ["sports"],
     icons: [
-      { src: "/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any" },
       {
-        src: "/icon-maskable.svg",
-        sizes: "any",
-        type: "image/svg+xml",
-        purpose: "maskable",
+        src: "/teams/palmeiras/crest.png",
+        sizes: "500x500",
+        type: "image/png",
+        purpose: "any",
       },
     ],
   };
