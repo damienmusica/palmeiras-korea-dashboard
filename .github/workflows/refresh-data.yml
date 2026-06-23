@@ -1,0 +1,61 @@
+name: Refresh data (free pipeline)
+
+# Free, keyless data refresh. Runs the ingest script on a schedule, then commits
+# any changed snapshot under data/. Committing triggers the host (Vercel /
+# Cloudflare Pages) to redeploy with fresh data — a $0 live pipeline, no DB.
+#
+# Notes:
+# - GitHub cron is best-effort; the minimum effective interval is ~5 min and runs
+#   can be delayed under load. 30 min is a good free cadence for news.
+# - Requires no secrets to run (Google News RSS is keyless). Optional sports API
+#   keys can be added as repo secrets and are passed through below.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+# Allow the job to push the updated snapshot back to the repo.
+permissions:
+  contents: write
+
+# Don't pile up overlapping refreshes.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run ingest
+        env:
+          # Optional — only used if set as repository secrets. The pipeline runs
+          # fully (news + ESPN standings/matches) even with none of these.
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }} # real squad photos
+          THESPORTSDB_KEY: ${{ secrets.THESPORTSDB_KEY }} # optional alt sports
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }} # KO summaries + "why it matters"
+          LLM_BASE_URL: https://api.cerebras.ai/v1
+          LLM_MODEL: zai-glm-4.7
+          NEWS_QUERY: 'Palmeiras (Verdão OR Brasileirão OR Libertadores OR "Abel Ferreira" OR futebol)'
+        run: node scripts/ingest.mjs
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore(data): refresh snapshot [skip ci]"
+            git push
+          else
+            echo "No data changes."
+          fi
