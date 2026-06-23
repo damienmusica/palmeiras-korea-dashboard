@@ -28,13 +28,26 @@ The committed JSON file **is the database**. No KV, no Postgres, no server.
 | `src/lib/adapters/index.ts` `getNews` | Precedence: **snapshot → request-time RSS (`NEWS_RSS_FEEDS`) → seed**. |
 | `.github/workflows/refresh-data.yml` | Cron + manual dispatch; runs ingest; commits changed `data/`. `permissions: contents: write`. |
 
-## What's free / keyless today
+## What's live today
 
-- **News**: Google News RSS (`q=Palmeiras&hl=pt-BR`) — keyless, effectively unlimited.
-- **Translation**: MyMemory API — free, keyless, best-effort PT→KO of the headline.
-  Failures fall back to the original title; translated items are tagged `자동번역`.
-- **Reliability**: classified by the app at read time (`enrichNews` → `classifyReliability`),
-  not frozen in the snapshot (single source of truth).
+| Data | Source | Key? | Currency |
+| --- | --- | --- | --- |
+| **News** | Google News RSS (football-biased query) | keyless | live |
+| **KO summary / 왜 중요한가 / 팬 한 줄** | LLM via `LLM_API_KEY` (Cerebras GLM-4.7), MyMemory fallback | free key | live |
+| **Standings** | **ESPN public JSON** (`soccer/bra.1/standings`) | keyless | **CURRENT season** |
+| **Matches** (fixtures+results) | **ESPN public JSON** (team schedule + scoreboard window) | keyless | **CURRENT season** |
+| **Squad photos** | API-Football current roster | free key | current |
+
+- ESPN breaks the API-Football free-tier season lock: standings + fixtures are the
+  **current** season, keyless. (API-Football free blocks the current season, so it's
+  used only for the squad photos.)
+- ESPN JSON is **unofficial/undocumented** → best-effort, with in-app seed fallback
+  if it changes/breaks. Team names are mapped to Korean in `scripts/ingest.mjs`.
+- News **reliability** is classified by the app at read time (`enrichNews` →
+  `classifyReliability`), not frozen in the snapshot.
+- LLM is **provider-agnostic** (OpenAI-compatible): swap Cerebras for OpenRouter
+  (DeepSeek V3) / Groq just by changing `LLM_BASE_URL` + `LLM_MODEL`. Calls are
+  **batched + URL-cached** (only new headlines hit the LLM) → free tiers suffice.
 
 ## Run it locally
 
@@ -55,20 +68,20 @@ DISABLE_MT=1 npm run ingest   # skip machine translation (faster / offline-ish)
 > GitHub cron is best-effort; minimum effective interval ~5 min, runs can be
 > delayed under load. 30 min is a good free cadence for news.
 
-## Next phase — sports data (matches / standings / squad)
+## Adapter precedence
 
-Currently sports uses clearly-labeled **seed** data. To make it live for free:
+- `getNews`      — news.json snapshot → request-time RSS → seed
+- `getStandings` — standings.json snapshot (ESPN) → seed
+- `getMatches`   — matches.json snapshot (ESPN) → seed
+- `getSquad`     — seed roster + real API-Football photos merged by name
 
-- Add `API_FOOTBALL_KEY` (free 100 req/day) or `THESPORTSDB_KEY` as a **GitHub
-  repository secret**. The workflow already passes them through as env.
-- Implement the `ingestSports()` extension point in `scripts/ingest.mjs`: fetch →
-  normalize into the domain `Match[]` / `Standings` / `Squad` shapes → write
-  `data/matches.json`, `data/standings.json`, `data/squad.json` with the same
-  `{ origin, source, fetchedAt, ... }` envelope.
-- Extend `src/lib/data/snapshot.ts` with `readMatchesSnapshot()` etc. and add the
-  snapshot precedence to `getMatches`/`getStandings`/`getSquad` (mirrors `getNews`).
-- 100 req/day is plenty if you fetch a few times/day and cache; do live-score
-  polling (during match windows only) from the client against a free endpoint.
+## Possible next steps
+
+- **Scorer/assist leaders**: ESPN standings doesn't include them (cards show a
+  graceful "데이터 없음"). A free leaders source could fill `topScorers`/`topAssisters`.
+- **Continental fixtures**: add Libertadores/Copa do Brasil ESPN slugs alongside
+  `bra.1` and map their `CompetitionRef`.
+- **Live scores**: poll ESPN scoreboard from the client only during match windows.
 
 ## Security notes baked in
 

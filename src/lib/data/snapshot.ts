@@ -11,7 +11,13 @@
 
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
-import type { DataResult, DataOrigin, NewsItem } from "@/lib/domain/types";
+import type {
+  DataResult,
+  DataOrigin,
+  NewsItem,
+  Match,
+  Standings,
+} from "@/lib/domain/types";
 import type { RosterEntry } from "@/lib/data/photos";
 
 interface RawSnapshot {
@@ -20,6 +26,7 @@ interface RawSnapshot {
   fetchedAt?: string;
   items?: unknown;
   roster?: unknown;
+  table?: unknown;
 }
 
 const VALID_ORIGINS: DataOrigin[] = [
@@ -72,6 +79,40 @@ export function readNewsSnapshot(): DataResult<NewsItem[]> | null {
     fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
     fellBack: false,
     note: "GitHub Actions 무료 파이프라인이 생성한 스냅샷",
+  };
+}
+
+/** Read the current-season matches snapshot (ESPN). */
+export function readMatchesSnapshot(): DataResult<Match[]> | null {
+  const snap = readJson("matches.json");
+  if (!snap || !Array.isArray(snap.items) || snap.items.length === 0) {
+    return null;
+  }
+  return {
+    data: snap.items as Match[],
+    origin: toOrigin(snap.origin),
+    source: snap.source ?? "data/matches.json",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
+    fellBack: false,
+    note: "현재 시즌 · 무료 파이프라인 스냅샷",
+  };
+}
+
+/** Read the current-season standings snapshot (ESPN). */
+export function readStandingsSnapshot(): DataResult<Standings> | null {
+  const snap = readJson("standings.json") as
+    | (RawSnapshot & { table?: unknown })
+    | null;
+  if (!snap || !Array.isArray(snap.table) || snap.table.length === 0) {
+    return null;
+  }
+  return {
+    data: snap as unknown as Standings,
+    origin: toOrigin(snap.origin),
+    source: snap.source ?? "data/standings.json",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
+    fellBack: false,
+    note: "현재 시즌 · 무료 파이프라인 스냅샷",
   };
 }
 

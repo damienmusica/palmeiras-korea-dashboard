@@ -69,13 +69,20 @@ npm run ingest       # refresh live data snapshot (data/news.json) — keyless
 
 ## 🆓 Live data, for $0 (no DB, no server)
 
-Real Palmeiras news stays fresh with a **free, keyless pipeline**: GitHub Actions
-runs `scripts/ingest.mjs` on a cron → fetches **Google News RSS** (+ best-effort
-free MyMemory PT→KO translation, tagged `자동번역`) → writes `data/news.json` →
-commits it → the host redeploys → the site reads the committed snapshot
-(`src/lib/data/snapshot.ts`). News precedence is **snapshot → request-time RSS →
-seed**, all clearly labeled with freshness badges. Sports data is the documented
-next step (add a free `API_FOOTBALL_KEY`/`THESPORTSDB_KEY` repo secret). Full
+A **free, keyless-first pipeline** keeps real data fresh: GitHub Actions runs
+`scripts/ingest.mjs` on a cron → writes `data/*.json` → commits → the host
+redeploys → the site reads the committed snapshots (`src/lib/data/snapshot.ts`),
+so there are **zero per-request API calls**. Live today:
+
+- **News** — Google News RSS (keyless), with Korean summary + "왜 중요한가" + fan-take
+  from a **free LLM** (Cerebras **GLM-4.7**, OpenAI-compatible/provider-swappable;
+  MyMemory fallback). Batched + URL-cached.
+- **Standings & Matches** — **ESPN public JSON** (keyless, **current 2026 season**).
+  This routes around API-Football's free-tier season lock.
+- **Squad photos** — real current roster photos from API-Football, merged onto the
+  curated Korean squad by name.
+
+Everything degrades to clearly-labeled seed data if a source is unreachable. Full
 design + deploy steps: **[docs/FREE-PIPELINE.md](docs/FREE-PIPELINE.md)**.
 Roadmap & backlog: **[docs/ROADMAP.md](docs/ROADMAP.md)**.
 

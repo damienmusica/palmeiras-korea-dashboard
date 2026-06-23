@@ -1,0 +1,729 @@
+{
+  "origin": "api",
+  "source": "ESPN (현재 시즌)",
+  "fetchedAt": "2026-06-23T17:37:35.620Z",
+  "items": [
+    {
+      "id": "espn-401840808",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-01-28T22:00Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Arena MRV",
+      "home": {
+        "id": "7632",
+        "name": "Atlético-MG",
+        "nameKo": "아틀레치쿠 미네이루"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "espn-401840983",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-02-05T00:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Arena Barueri",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "3457",
+        "name": "Vitória",
+        "nameKo": "비토리아"
+      },
+      "score": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401840997",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-02-13T00:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estadio Beira-Rio",
+      "home": {
+        "id": "1936",
+        "name": "Internacional",
+        "nameKo": "인테르나시오나우"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-401841004",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-02-26T00:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Arena Barueri",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "3445",
+        "name": "Fluminense",
+        "nameKo": "플루미넨시"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841012",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-03-12T22:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estádio São Januário",
+      "home": {
+        "id": "3454",
+        "name": "Vasco da Gama",
+        "nameKo": "바스쿠 다 가마"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841020",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-03-15T21:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "9169",
+        "name": "Mirassol",
+        "nameKo": "미라솔"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-401841032",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-03-18T22:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "6086",
+        "name": "Botafogo",
+        "nameKo": "보타포구"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841040",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-03-22T00:00Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estádio Cícero Pompeu de Toledo",
+      "home": {
+        "id": "2026",
+        "name": "São Paulo",
+        "nameKo": "상파울루"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841052",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-04-03T00:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Arena Barueri",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "6273",
+        "name": "Grêmio",
+        "nameKo": "그레미우"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841066",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-04-05T22:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Arena Fonte Nova",
+      "home": {
+        "id": "9967",
+        "name": "Bahia",
+        "nameKo": "바이아"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "espn-401841069",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-04-12T21:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Neo Química Arena",
+      "home": {
+        "id": "874",
+        "name": "Corinthians",
+        "nameKo": "코린치안스"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-401841084",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-04-19T21:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "3458",
+        "name": "Athletico Paranaense",
+        "nameKo": "아틀레치쿠 파라나엔시"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-401841097",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-04-26T21:30Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estádio Municipal Cicero de Souza Marques",
+      "home": {
+        "id": "6079",
+        "name": "Red Bull Bragantino",
+        "nameKo": "RB 브라간치누"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841102",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-05-02T21:30Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "2674",
+        "name": "Santos",
+        "nameKo": "산투스"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841110",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-05-10T19:00Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Mangueirão",
+      "home": {
+        "id": "4936",
+        "name": "Remo",
+        "nameKo": "헤모"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841125",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-05-17T00:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Arena Barueri",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "2022",
+        "name": "Cruzeiro",
+        "nameKo": "크루제이루"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "espn-401841136",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-05-24T00:00Z",
+      "status": "finished",
+      "venue": "away",
+      "stadium": "Estadio do Maracana",
+      "home": {
+        "id": "819",
+        "name": "Flamengo",
+        "nameKo": "플라멩구"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-401841140",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-05-31T19:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "9318",
+        "name": "Chapecoense",
+        "nameKo": "샤페코엔시"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-401841152",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-07-24T00:30Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Couto Pereira",
+      "home": {
+        "id": "3456",
+        "name": "Coritiba",
+        "nameKo": "코리치바"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      }
+    },
+    {
+      "id": "espn-401841164",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-07-26T22:30Z",
+      "status": "scheduled",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "7632",
+        "name": "Atlético-MG",
+        "nameKo": "아틀레치쿠 미네이루"
+      }
+    },
+    {
+      "id": "espn-401841172",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-07-30T00:30Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Estadio Manoel Barradas",
+      "home": {
+        "id": "3457",
+        "name": "Vitória",
+        "nameKo": "비토리아"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      }
+    },
+    {
+      "id": "espn-401841180",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-08-09T19:00Z",
+      "status": "scheduled",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "1936",
+        "name": "Internacional",
+        "nameKo": "인테르나시오나우"
+      }
+    },
+    {
+      "id": "espn-401841192",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-08-15T19:30Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Estadio do Maracana",
+      "home": {
+        "id": "3445",
+        "name": "Fluminense",
+        "nameKo": "플루미넨시"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      }
+    },
+    {
+      "id": "espn-401841203",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-08-23T19:00Z",
+      "status": "scheduled",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      },
+      "away": {
+        "id": "3454",
+        "name": "Vasco da Gama",
+        "nameKo": "바스쿠 다 가마"
+      }
+    },
+    {
+      "id": "espn-401841211",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-08-29T18:00Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Estadio Municipal José Maria de Campos Maia",
+      "home": {
+        "id": "9169",
+        "name": "Mirassol",
+        "nameKo": "미라솔"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      }
+    },
+    {
+      "id": "espn-401841221",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-09-05T18:00Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Joao Havelange Stadium",
+      "home": {
+        "id": "6086",
+        "name": "Botafogo",
+        "nameKo": "보타포구"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "/teams/palmeiras/crest.svg"
+      }
+    }
+  ]
+}

@@ -1,343 +1,319 @@
 {
   "origin": "rss",
-  "source": "news.google.com (Google News RSS)",
-  "fetchedAt": "2026-06-23T13:22:59.019Z",
+  "source": "Google News RSS + LLM(GLM-4.7) 요약",
+  "fetchedAt": "2026-06-23T17:37:34.119Z",
   "items": [
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0ZneTllNHhLTjVORGR2bXJrSjdLS2M1cXFlRWFzemEzaHJRdGNlU2FxSkF",
-      "title": "Palmeiras rescinde contrato de zagueiro devolvido por clube português - UOL",
-      "summaryKo": "Palmeiras, 포르투갈 클럽이 반환한 수비수 계약 해지 - UOL",
-      "excerpt": "Palmeiras rescinde contrato de zagueiro devolvido por clube português&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0ZneTllNHhLTjVORGR2bXJrSjdLS2M1cXFlRWFzemEzaHJRdGNlU2FxSkFGdFQ5cE9GVmlYWWF6RzBKN2pJX29teWp0RVZSY21hUWtic2VxdUxqakdwWEl3Q0ZadTJHeUV2eWhLMUx5cUk3eWJlZktablhma0phV25mN2pGRXhReFFKbXI4aFJoM0k1VkMxSGpfWjJqaVJNYnZUM1hmeU9NMDBaSVZIRnRxZ1IwVTVZWU00d19Md28yemZvVV92SXhrS0g3YlRuWW5hZnNUMmg?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-06-22T18:29:49.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTZSc3AyMmhOR3ppd094TGdkZ3dfemp3WGdESUhQbzU1dHNYV3hEXzNZZXR",
-      "title": "Trio inicia trabalhos no Palmeiras antes da data de reapresentação - ge",
-      "summaryKo": "트리오는 재제출 날짜 이전에 Palmeiras에서 작업을 시작합니다 - ge",
-      "excerpt": "Trio inicia trabalhos no Palmeiras antes da data de reapresentação&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTZSc3AyMmhOR3ppd094TGdkZ3dfemp3WGdESUhQbzU1dHNYV3hEXzNZZXRmS1BIVjIzSHplRTNvcUgxbUI2andvamMyc1k5dHNwMmNieWpQMDBLMUVLZWJXQklVNHppY2c2Rkc0SlVWamg5VjFmb2JvNGExUGQ1RkN1dFR2ZWFRYXJPdFc2eFVOcmxWVWh3VkdNVkdVeC1udjdQX0NWNlBheGJ3Ym5sRWNEMWs0emo1RXNISHh1VG1RM1hubWh6Z2dLMUlWdU0yZGfSAeABQVVfeXFMT3VmLXN1Z19VeEg0UE95QlVGT2pIakNkWFRNNnVWTkxDYjZEUGFzR2xFcnhRWVhxaGwtODE3S1lvNEpsZ0NkODhQanZhVVdoeXBjYXctblVaQ3R5dFNOUlVnTFlqeVlnWWpHX1hma0NaYnoyb1JORnZiMzFKZHYzVHFNb1pOeV9RbG9HR3NqMTF2dkxzZUpzVW83X28teVl0Uk9FUG1pWVFpaUVzdnJPOEo4azdkYzlpUmFrVzhUUlIzR0luNGlhbkViWjhKcDJNYWRjRVR6bGZxMDBmUVFwbkc?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-06-22T19:34:24.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNFNNZ25Ha2NNNDdNMFEwaEdteGxHU2IyNTljMDJSQnF3QXI2RnNjbEFjUFl",
-      "title": "Trio do Palmeiras retorna às atividades antes da reapresentação do elenco - Terra",
-      "summaryKo": "Trio do Palmeiras, 캐스트 재도입 전 활동 복귀 - Terra",
-      "excerpt": "Trio do Palmeiras retorna às atividades antes da reapresentação do elenco&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNFNNZ25Ha2NNNDdNMFEwaEdteGxHU2IyNTljMDJSQnF3QXI2RnNjbEFjUFlQT0Nya0RCOHFnNzVJQndCTGV6aE1RbFF2ZDZpeEFZa1VUajF3UUJXU1BYbENZVHV3cmxzZVdybXJpaGhnbm1jV2JVLTU2TGZqb0tSZDk1UGFrTUdBSnQ3MmQ4NTFrRXNoa2xoZzFMa2NFVEFjcDBmc25vVWlyWlpYSlUzbEFibUdPRF91bTBUQU9ydnU4Q2s3STkwX2syakY2OUltbEZwVXVMUWxxYk9IMUUyUXlBZ3luZVVkZjREUGI4SmlSbUc3eGc?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-06-22T20:29:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0oyMTd0SW80Ty1QMUNFbUFZNHZ5aHhZbXRwZlFWbUJ0MlZ1TlNxRWRMd2h",
-      "title": "Elenco do Palmeiras dá sequência à reapresentação após período de férias - Lance!",
-      "summaryKo": "파우메이라스 출연진은 휴가 후에도 재제출을 계속합니다 - 입찰!",
-      "excerpt": "Elenco do Palmeiras dá sequência à reapresentação após período de férias&nbsp;&nbsp;Lance!",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0oyMTd0SW80Ty1QMUNFbUFZNHZ5aHhZbXRwZlFWbUJ0MlZ1TlNxRWRMd2hNMnNRQm5ZTjJ0aXUtaVNmaEcxYTdrcjhoekF1bkNxdTEzT0hfZnFZZ0dyOXR0V3NaTTBxOXpLN1BkOWlqdXJ5LWUxMDRjUnRSNnpfX1VLWjlnMnJlclNaYUVYMHV2UFFzd0swZ3VBYnd6bk9IRk53MFhJNHo0TjBCbEdSYkxn?oc=5",
-      "source": "Lance!",
-      "language": "pt",
-      "publishedAt": "2026-06-22T19:40:26.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWdZMEkyR2NORV9aYWFBSWt0LVc3U3RTTFR1U0lUWXdMeE5TeDhwV2ZtUjl",
-      "title": "Fora do elenco argentino, Giay voltará ao Palmeiras após fase de grupos da Copa do Mundo; entenda - Terra",
-      "summaryKo": "아르헨티나 선수단 밖에서, 지아이는 월드컵 조별 예선을 마친 후 파우메이라스로 돌아갑니다. 이해 - 테라",
-      "excerpt": "Fora do elenco argentino, Giay voltará ao Palmeiras após fase de grupos da Copa do Mundo; entenda&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWdZMEkyR2NORV9aYWFBSWt0LVc3U3RTTFR1U0lUWXdMeE5TeDhwV2ZtUjlYMU9tQjVTelNHa2UxWjdENlVDcEppRDJHMUplNGRBTndrSjF2TnFSUnV0SC1sY2FUMGwxVEJleDA1amdaVC1TcFNFXzRYVkpWREpLVmh1dFBZeHpmc2R1dWRJUUxkWVZpUnhQUVIydUdtQS1wbFZkeWdWZGJrVFJDdGVoTm5JQklJb3o4TUdJbDNXcGhsY3JGa3B6djV3NTFrVmVOQ2tGY0tLeU1uVGdydjNrTDRNQ0ticmhSU0FJOWVUZjd5WFZFVWhNWGFfN09td1NYMUZvWEZKXzYyMV9DY1pVZE9KUQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-06-23T12:29:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbjRZTUY5dTRoa1U4RFJYUUlHR1V1MXdQXzZaeUlsZlJOYy1XOUZRYzdoWFZ",
-      "title": "Na Copa com a Argentina, Giay se reapresentará ao Palmeiras após o restante do elenco - ge",
-      "summaryKo": "아르헨티나와의 월드컵에서 Giay는 남은 선수단이 끝난 후 Palmeiras에 다시 소개할 것입니다.",
-      "excerpt": "Na Copa com a Argentina, Giay se reapresentará ao Palmeiras após o restante do elenco&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbjRZTUY5dTRoa1U4RFJYUUlHR1V1MXdQXzZaeUlsZlJOYy1XOUZRYzdoWFZ2dkJPMms5TGRKNDdxbjBaUEVDZG1DX3BFUE13STJ2TEFoRTNMa3pvQkY4YlFIMFQyZGMzZmV5TUpPZ3RDM2tucVNXZW5nZGRWbjhCSk15VjlxcU1ERnNBZGd0Wi1Uc2VMVU50Um40blNGR0xBdUtrWUd0NVMyZmU0VjRaXzZLellzaWMtR0VqclQwZ1lvRGlOdmxhY0ZDZXU3NUxvTElqUnQzX2xNR3pnelpWUGFjV2pnbjdOdVHSAfgBQVVfeXFMT3dPSURsdVE4S1Q2ZVJ0TUE0Qjd0elFfQzYzTEdfZ3lvMXdoQUhnWk5VcXY3cFFoS1BzRGliSkdwQ0VtQVhXT2ZoSmtnVnQtWWVZMFZQNDVsblMwOGtlT3RHNEl0SV9YSjBQRXdGZ1JhYlhxaUNFUDdES0dRUmZGMTd3TWphdVBVaVFMcmVGcDVPY3BmMExLbjdPVVczbi1Yb3VzNk4xRlk0d1dWZmUzUVJoYzF5a1pGTnBjNUJVSWZTLVJSTTB1ZzFLNXQ0Y1VQWFdPTXptbXNublp2d2tNbFF3OXA3RUJkaVNoZkduWmVGM2hQbldlUzE?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-06-23T07:01:09.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWm1jRWh5a2pzVWNZNFA3aGZYNUZSMk5TUDhMQjFSYm5zQllJRE5vcC1Pd0M",
-      "title": "Palmeiras define planejamento para Giay, convocado pela Argentina antes da Copa - Rádio Itatiaia",
-      "summaryKo": "Palmeiras는 월드컵 전에 아르헨티나에 의해 소환된 Giay에 대한 계획을 정의합니다 - Rádio Itatiaia",
-      "excerpt": "Palmeiras define planejamento para Giay, convocado pela Argentina antes da Copa&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWm1jRWh5a2pzVWNZNFA3aGZYNUZSMk5TUDhMQjFSYm5zQllJRE5vcC1Pd0M3U2VTb052WEtaN2tCNnZMaTVEdTZHanI4akxWOEJpQTUzQUphQXdYWVZpN3A1SHEta2daWEk3UjBVZ2NSZFNEQzZLcnhoYmUtZlp4MEREdVdMZEVDN1FTbnV4TEVSNVYzOVN2X2VOTG9meFJGNXhnRGxLdU44d3NpcXNlMWJFWFVVbnMxQ0l5bG1FdFRKT1RKdTZZb1RzcnRiNHFIQjhNbFpxY0VvTkhqQ0k1czN6TDNqbTFnV2pzYmV3Z2tSb3hEdGJ2akRWQnk?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-06-23T12:44:06.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFpicExNT2pxY3Z1R1VzN3d6dXNSQzZlRFBWYTVPODlkM0ZWUmxobUF1cEI",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFpicExNT2pxY3Z1R1VzN3d6dXNSQzZlRFBWYTVPODlkM0ZWUmxobUF1cEI",
       "title": "Veja quais atletas do Palmeiras estão vetados de trocar de clube - Lance!",
-      "summaryKo": "어떤 Palmeiras 선수가 클럽 전환이 금지되는지 확인하세요 - Lance!",
+      "summaryKo": "파우메이라스, 이적 금지 대상 선수 명단 공개",
       "excerpt": "Veja quais atletas do Palmeiras estão vetados de trocar de clube&nbsp;&nbsp;Lance!",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFpicExNT2pxY3Z1R1VzN3d6dXNSQzZlRFBWYTVPODlkM0ZWUmxobUF1cEIwTXNKX2N4TEQ1d09xXzNyT0lsb0RuRXR2ZlZFb1JYTFo5M0xqR2dpZEtxbzF4WXI4bFdrNXJMYUFrMXpwX2ZTQzVQX1NKRUNJRGpTMzhDaXhseHRWQUtCYldBaWpMSGplRklfanFDcVZpUjZjd1J4UjhUeWE0c3VhTEE?oc=5",
       "source": "Lance!",
       "language": "pt",
       "publishedAt": "2026-06-23T12:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "whyItMattersKo": "주전 선수들의 이적 시장 방어 여부를 확인하여 팀 전력 유지 계획을 파악할 수 있습니다.",
+      "fanTakeKo": "우리 에이스들은 절대 놓치지 않겠지, 안심이다!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWV2TWhaUkl2Vy1yYkNjUkRybm1UTkxOa2Y3NkpaTzRiTTBkS25rTnY3eHY",
-      "title": "Referência nacional, Palmeiras amplia captação de promessas no cenário mundial - Nosso Palestra",
-      "summaryKo": "국내 레퍼런스인 Palmeiras는 세계 무대에서 약속의 포착을 확대합니다 - Our Talk",
-      "excerpt": "Referência nacional, Palmeiras amplia captação de promessas no cenário mundial&nbsp;&nbsp;Nosso Palestra",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWV2TWhaUkl2Vy1yYkNjUkRybm1UTkxOa2Y3NkpaTzRiTTBkS25rTnY3eHY0azBrUUlZR1JhOGU5WWkxZy1tSHJTY3A4Qzc4NWYzZGdwRk1PcDVLdFJDMG9sWHhXa2hIZk5fVnhBSV90WTBMTXplZk1MMk9VTlRQSV9OaEJtNlk4clk0RUppbUdkYzkyWFdVWWFMeThnVE5QVHliSlY5Tkl6dmJDZnZQakRaLTJuTXc?oc=5",
-      "source": "Nosso Palestra",
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzAwWWdhbnNhMUx1ZTJCd0pEN0M0WE01djY2N2RzakxiaXQ1cmFfeXNPb3Z",
+      "title": "Em jogo inédito, Verdão recebe Brothers FC pela segunda rodada do Paulista F Sub-20 - SE Palmeiras",
+      "summaryKo": "파우메이라스 U-20, 상파울루 주니어 축구 2차전에서 브라더스 FC와 맞대결",
+      "excerpt": "Em jogo inédito, Verdão recebe Brothers FC pela segunda rodada do Paulista F Sub-20&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzAwWWdhbnNhMUx1ZTJCd0pEN0M0WE01djY2N2RzakxiaXQ1cmFfeXNPb3Z6SGNjSDVoM1R4VEl2TXlqT1dkSmdCRldMdU5BaUpSSVlrZG9rOUtCbGFVMWZGY205Y2lDN29iY2s5WUZhYTZBSXNvanUxel9sOHZYekRmdDlXaXdrTDU0YXYxNTE4UXR2MUc2NHVFNkhpQzlnZnBfZXFwc3FuT3UxN1lDTk5zN2FNRmVja2pDYk13?oc=5",
+      "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-23T09:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T22:32:48.000Z",
+      "whyItMattersKo": "미래의 에이스를 발굴할 유망주들의 성장 과정을 지켜볼 수 있습니다.",
+      "fanTakeKo": "유망주들의 경기력도 기대가 되네, 미래가 밝다!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlUeGRFODZhbHhsZGpCY19EUzZ4MkZMaDBTNHdQcGRJTnZpeVRXa0xpQkR",
-      "title": "Fortaleza x Palmeiras: veja datas e horários dos jogos pela Copa do Brasil - Diário do Nordeste",
-      "summaryKo": "Fortaleza x Palmeiras: Copa do Brasil - Diário do Nordeste 경기 날짜 및 시간 보기",
-      "excerpt": "Fortaleza x Palmeiras: veja datas e horários dos jogos pela Copa do Brasil&nbsp;&nbsp;Diário do Nordeste",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlUeGRFODZhbHhsZGpCY19EUzZ4MkZMaDBTNHdQcGRJTnZpeVRXa0xpQkRHMXowc1VrUDRXY2FmWXVKNlZiNWpRR0lxWkI0a3Z3VklXdzlLbldBb0xNaVlHWDdJTFJnQ3A1RnhubHZ3N1o3RHVGS3VtRTVBZmZZaGNrRWw2VEJWaG9JRlotX19SXzgwMFkwX0dBa25qTWtUX05OQ2NpNFZuR0JVMmtFYkJPbTZFMzJFUExXZmZXUjZ3VVQ3UkpYcGRoZ1pKSGM?oc=5",
-      "source": "Diário do Nordeste",
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVkNzUGFSM3RvNFBpakhVU2hoRGpFNlVCUUpXTXpLakJ3TTV5c0hkVEhKeTJ",
+      "title": "Palmeiras recebe emprestados de volta da Europa; veja a situação de cada um - UOL",
+      "summaryKo": "파우메이라스, 유럽 임대 복귀 선수들의 현황 점검",
+      "excerpt": "Palmeiras recebe emprestados de volta da Europa; veja a situação de cada um&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVkNzUGFSM3RvNFBpakhVU2hoRGpFNlVCUUpXTXpLakJ3TTV5c0hkVEhKeTJvcjZyeDBDcXNPRVAzRlRrZGtDc3c5anNyQ2w3LTVfaVlOUDdRaTFNOE1qYUZsbzhSbW50N252SkItUXdyTm1fMFliOVp6S1NTZkJDOHdIQWxSRXRzMzBsNkdfaDFpaDRQSmVZR2djUlBtZDlHelRhRllTT3N0T0RJVmNxSFV6TEp4aW9JVFEzNW9ERFFyLUN5a1ZoYzJTRDMxdTQ1M1pBRzdReEdQYy12ajh5djZ1ZUp4Y2x5OWZob0RGblIxOGZSMVFoOFpXWDQ5OEk?oc=5",
+      "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-06-22T22:59:42.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-23T08:32:01.000Z",
+      "whyItMattersKo": "복귀한 선수들이 1군에 합류할지 아니면 재임대를 갈지 전력 보강에 중요합니다.",
+      "fanTakeKo": "제대로 성장해서 돌아온 선수들이면 좋겠는데!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVFQLXZDUU5VTzFXelA3ZWlGV2ZuY2JBRGN1Y0pVRE9yOEJDa1ZwNlk1Nz",
-      "title": "Laudo médico descarta abuso sexual contra criança de 4 anos no Palmeiras - band.com.br",
-      "summaryKo": "의료 보고서는 Palmeiras의 4세 아동에 대한 성적 학대를 규정합니다 - band.com.br",
-      "excerpt": "Laudo médico descarta abuso sexual contra criança de 4 anos no Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVFQLXZDUU5VTzFXelA3ZWlGV2ZuY2JBRGN1Y0pVRE9yOEJDa1ZwNlk1NzhwSkQ2eEh6enQ3NE94QmotRjFlZmtPOTUwMHItYlVaWktaLXZhbDQ2RWdGXzBlRmQ0VVQwbU1RbVZNN0ZKdklGb3ViaGFLTTN6OW9yZ0M2OGlCekVRVklJaEpNMThwek1PTDVVX1BPYzRNMUh1ZGxtc01qMjVGN29USnUtVGpKWHJkME9XZldnY0ZRRjU4OWgwQTFETkR2eW8tZFNPbzBFOXZFX20?oc=5",
-      "source": "band.com.br",
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWdZMEkyR2NORV9aYWFBSWt0LVc3U3RTTFR1U0lUWXdMeE5TeDhwV2ZtUjl",
+      "title": "Fora do elenco argentino, Giay voltará ao Palmeiras após fase de grupos da Copa do Mundo; entenda - Terra",
+      "summaryKo": "아르헨티나 명단 제외된 가이, 월드컵 조별리그 후 파우메이라스 복귀",
+      "excerpt": "Fora do elenco argentino, Giay voltará ao Palmeiras após fase de grupos da Copa do Mundo; entenda&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWdZMEkyR2NORV9aYWFBSWt0LVc3U3RTTFR1U0lUWXdMeE5TeDhwV2ZtUjlYMU9tQjVTelNHa2UxWjdENlVDcEppRDJHMUplNGRBTndrSjF2TnFSUnV0SC1sY2FUMGwxVEJleDA1amdaVC1TcFNFXzRYVkpWREpLVmh1dFBZeHpmc2R1dWRJUUxkWVZpUnhQUVIydUdtQS1wbFZkeWdWZGJrVFJDdGVoTm5JQklJb3o4TUdJbDNXcGhsY3JGa3B6djV3NTFrVmVOQ2tGY0tLeU1uVGdydjNrTDRNQ0ticmhSU0FJOWVUZjd5WFZFVWhNWGFfN09td1NYMUZvWEZKXzYyMV9DY1pVZE9KUQ?oc=5",
+      "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-06-22T22:44:48.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-23T12:29:00.000Z",
+      "whyItMattersKo": "핵심 수비수인 가이의 빠른 복귀가 팀 수비력 안정화에 긍정적입니다.",
+      "fanTakeKo": "아쉽긴 하지만 빨리 팀으로 복귀해서 우리 수베를 지켜줘!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMif0FVX3lxTE5nck5mU1lWalAyRjViVksyZkpOUjFHajRFQ1huU0xPXzJxb1FELUxQZnlUd0",
-      "title": "Flaco López do Palmeiras tem marca curiosa na Copa do Mundo - NossoPalmeiras",
-      "summaryKo": "Flaco López do Palmeiras는 월드컵에서 호기심 많은 브랜드를 보유하고 있습니다 - NossoPalmeiras",
-      "excerpt": "Flaco López do Palmeiras tem marca curiosa na Copa do Mundo&nbsp;&nbsp;NossoPalmeiras",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nck5mU1lWalAyRjViVksyZkpOUjFHajRFQ1huU0xPXzJxb1FELUxQZnlUd094dDhFYl85STRnVFN1czQycERlRVFQbERCby1jb0FmUGNpYzFIcU80V2FSY2xnOE9icTNXSnp2Nk5sVDVONEpsTFpaTDk4WGVQWjg?oc=5",
-      "source": "NossoPalmeiras",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWUwYVVVRzB3WEk2emZXWi1XTndSU1p1bzlNZ1BjS3A0aTRJTjVwYUpzTkR",
+      "title": "Brasileirão Série A: veja tabela detalhada das rodadas 19 a 24 - GE",
+      "summaryKo": "브라질리랑 19~24라운드 상세 일정 및 순위표 공개",
+      "excerpt": "Brasileirão Série A: veja tabela detalhada das rodadas 19 a 24&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWUwYVVVRzB3WEk2emZXWi1XTndSU1p1bzlNZ1BjS3A0aTRJTjVwYUpzTkRWSVpreFJLM2M3b1dPQU5fczlvMWE1QTRTRm5YdkZnT3B6VTJZYkpORHZVRU9uQmJlOXVZY1JqSVc2dnh4eUkyTFVrUlpRLThnUFYwLVV5ejRZT3pSYy1jOEVjTHNkdjVZS1Q4dTZpZTIzakhjSHpxN2NGcEZKa0FDb2N3empEdHI1VGMzcm5BZnM1c3VMLVl0S1lvZmdnYl9tX0g3WUpCWNIB4wFBVV95cUxPNENXYTBaNUdTcVgwdEpTWld2TmdmbHBQQTI3N0tYNlFxbXhqZS1YbFlLQUVoR2RYOUY2WDFRSnFwQS13Y0w5a09MVzJCMnhlSFlMTjVuZ194VXM0bnR3dUVLdFFNVDlCX3hXU08zUGVpZ2ZlV1l6dGJpWC13OVJDUGpJQ1BTeFRIN2RYU1JVdnlsU0RVZFotNWtPWVFxcWFNQzRiNkdDU0xlWXhwNGp1NGwtRmROZ3BxWDZ5cjlOeVFyVXc3eVJwbUlsbm9xem8wUF8wbmlPZmp3Zk55RlVVeG1NSQ?oc=5",
+      "source": "GE",
       "language": "pt",
-      "publishedAt": "2026-06-22T19:41:03.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T22:54:24.000Z",
+      "whyItMattersKo": "남은 시즌의 승점 흐름을 파악하고 향후 중요한 경기 일정을 대비하는 데 중요하기 때문입니다.",
+      "fanTakeKo": "이번 일정만 잘 넘기면 상위권 확정인데, 경기가 너무 빡빡한 것 같아 걱정이야.",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUxhcGtPbEtoTTRkemdBYkc5dGFyWWdSWEw1OHFhYm10ZUFxWG1PU0t0RH",
-      "title": "Flaco López vira assunto em Argentina x Áustria: 'Tem que ser' - Lance!",
-      "summaryKo": "Flaco López는 아르헨티나 대 오스트리아의 주제가되었습니다: '그래야합니다' - Lance!",
-      "excerpt": "Flaco López vira assunto em Argentina x Áustria: 'Tem que ser'&nbsp;&nbsp;Lance!",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUxhcGtPbEtoTTRkemdBYkc5dGFyWWdSWEw1OHFhYm10ZUFxWG1PU0t0RHZHQUFwdlp1amJXZlhBQ1JOSmw4SUlwSUZNbU1XYTFUSFVRa1hQQmxsTTFMYUI2N2dJNWlpZkNlZHdZdnEyRWZsNVdlc3hBblZfN0E2aGFRcWttS0Z0V18tQ1dPdmNOMTJ2R0lFbWw2QnJJbmFib1pnY1VB?oc=5",
-      "source": "Lance!",
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aa2U2Wk1RWGJXMlhueWdoV3QxWlJ3T0ZqanpFYS1NN2V5SngweEZzM0NCOFp",
+      "title": "Saiba o calendário do Palmeiras no Brasileirão após o fim da Copa - Portal ABC do ABC",
+      "summaryKo": "코파 아메리카 종료 후 파우메이라스의 브라질리랑 일정 확인",
+      "excerpt": "Saiba o calendário do Palmeiras no Brasileirão após o fim da Copa&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aa2U2Wk1RWGJXMlhueWdoV3QxWlJ3T0ZqanpFYS1NN2V5SngweEZzM0NCOFpaOTAycnRBcUVlY0pIUmR6T2R5ZjRSUlQ1UC1XWWpTaUZ3S3htQ3BNN1cwZ2RLSVVmV0k?oc=5",
+      "source": "Portal ABC do ABC",
       "language": "pt",
-      "publishedAt": "2026-06-22T19:14:07.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-23T00:02:00.000Z",
+      "whyItMattersKo": "국가대표팀 선수들의 복귀 시점과 팀의 전력 보강을 위한 전략 수립에 필수적입니다.",
+      "fanTakeKo": "국대 차출 끝나고 제대로 전력이 모이면 우승 도전할 때가 왔네!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOXlyQ294ZEtnZTFRNnBaeWUyRjhYQWNrSWI3N3pnZXZwcXlXSjZqd3pvS3",
-      "title": "Palmeiras faz 'campanha', mas Flaco López segue sem jogar pela Argentina na Copa - Rádio Itatiaia",
-      "summaryKo": "파우메이라스는 '캠페인' 을 벌이지만, 플라코 로페스는 월드컵에서 아르헨티나를 위해 뛰지 않고 계속합니다 - Rádio Itatiaia",
-      "excerpt": "Palmeiras faz 'campanha', mas Flaco López segue sem jogar pela Argentina na Copa&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOXlyQ294ZEtnZTFRNnBaeWUyRjhYQWNrSWI3N3pnZXZwcXlXSjZqd3pvS3BBaVlYdzJmTUZTazFFSWlWUkY4eXBiNzFhci1pN1ZvVzlyc1NNcVZ3MXF5Y0hxYi1sWTNOV0ZjbzhwMWxsUFFaSE9ENTljbDh1dEJlaU9sZkdCdkVXbEprYVZTNXdOekR6OE1pTmxFZjBLXzF5ZENVRUdoMEVScHFCSDR6dVl0X01PWUdDU1BsSE1DZGJjM05VN2dJSTlxODd1S1BWa1BzbFV0d2xyYlRlX3I0MUl5djgwV2NvVS1TYmNrT0xQNzdaT1VnNW05dw?oc=5",
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWm1jRWh5a2pzVWNZNFA3aGZYNUZSMk5TUDhMQjFSYm5zQllJRE5vcC1Pd0M",
+      "title": "Palmeiras define planejamento para Giay, convocado pela Argentina antes da Copa - Rádio Itatiaia",
+      "summaryKo": "코파 아메리카 차출 전 아르헨티나 대표팀에 발탁된 기아이, 파우메이라스의 관리 계획 확정",
+      "excerpt": "Palmeiras define planejamento para Giay, convocado pela Argentina antes da Copa&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWm1jRWh5a2pzVWNZNFA3aGZYNUZSMk5TUDhMQjFSYm5zQllJRE5vcC1Pd0M3U2VTb052WEtaN2tCNnZMaTVEdTZHanI4akxWOEJpQTUzQUphQXdYWVZpN3A1SHEta2daWEk3UjBVZ2NSZFNEQzZLcnhoYmUtZlp4MEREdVdMZEVDN1FTbnV4TEVSNVYzOVN2X2VOTG9meFJGNXhnRGxLdU44d3NpcXNlMWJFWFVVbnMxQ0l5bG1FdFRKT1RKdTZZb1RzcnRiNHFIQjhNbFpxY0VvTkhqQ0k1czN6TDNqbTFnV2pzYmV3Z2tSb3hEdGJ2akRWQnk?oc=5",
       "source": "Rádio Itatiaia",
       "language": "pt",
-      "publishedAt": "2026-06-22T20:08:51.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-23T12:44:06.000Z",
+      "whyItMattersKo": "주전 선수의 부상 방지와 시즌 후반기의 최상의 컨디션 유지를 위해 팀의 세밀한 관리가 필요하기 때문입니다.",
+      "fanTakeKo": "기아이가 부상 없이 돌아와서 우리 수비를 든든하게 지켜주길 바랄 뿐이야.",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1hYX1FkeUt2Q3hFRVNiZjNJSWMxWS1QWGpiLUtOQ0xKMzFnaHZhWTd2bD",
-      "title": "Atlético-MG x Palmeiras: saiba onde assistir ao jogo pelo Brasileiro sub-17 - Gazeta Esportiva",
-      "summaryKo": "아틀레티코-MG x 파우메이라스: 브라질 U-17 경기 관람 장소 알기 - Gazeta Esportiva",
-      "excerpt": "Atlético-MG x Palmeiras: saiba onde assistir ao jogo pelo Brasileiro sub-17&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1hYX1FkeUt2Q3hFRVNiZjNJSWMxWS1QWGpiLUtOQ0xKMzFnaHZhWTd2bDcxTU83dEItUXdpM0xBSTlrRGFCSjI4aGRFU3d0SlJSdXd4T0ZMSzNqQ3BGNWlkQ3F3R0NMYWx2bkpoMzJTdTN6UENhMzZRWmxMb2lLdExQRndSUVhETDJPSTZ5ZFNUSnY1a2h6WjNKM25DLTFRaTAwMDhiWjViZGZkRk5mV3czMzVfblZKTUIxLU92Qms?oc=5",
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMilAFBVV95cUxQY21UcEdJSzVWQnhoYW9OVnFmUlJSejczTF9TUTNjU0JGOE82a1FGdmh0Z0h",
+      "title": "Trio do Palmeiras trabalha na Academia de Futebol e antecipa retorno em semana de reapresentação - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 3인방, 훈련장에서 조기 재활 훈련… 재집결 주간 복귀 가속화",
+      "excerpt": "Trio do Palmeiras trabalha na Academia de Futebol e antecipa retorno em semana de reapresentação&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY21UcEdJSzVWQnhoYW9OVnFmUlJSejczTF9TUTNjU0JGOE82a1FGdmh0Z0hnNWNBakpaNEZud1VLR2ZfWWhUVjZwZEphWURGejZZMXRjVWViRXJ2OGl0ZTFmU203MUJSY0pMS0hwMWlkc3h3V1U1dVZMQTFyTnY1Y3RhSENmUkZpaVB3WDl6b0xUSHNl0gGaAUFVX3lxTE9qMnJaUnR5VU1JSWZMY1pmQ1dQeFF2VGx4ZjM5Q0FjczA3NkJ3SG1LV0VKSkgydmxsSl9FVGhCWXJmUWhkeHhFcU1aTWZFRjdIRWZyYzJhSkVxWkNocnlCQllfbEJYTkhKekp6QzNFM0JlUm9tYkR3SUY1WTVwSEZvNVlwamN0OXltNUVaVFNmQlFaUExkeWE3Tmc?oc=5",
       "source": "Gazeta Esportiva",
       "language": "pt",
-      "publishedAt": "2026-06-23T01:12:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T19:57:00.000Z",
+      "whyItMattersKo": "부상 선수들의 빠른 복귀는 얇은 교체 자원을 보강하고 다음 경기의 전력 옵션을 넓혀줍니다.",
+      "fanTakeKo": "얘네들이 빨리 돌아오면 벤치가 훨씬 튼튼해질 텐데, 기대가 되네!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0N2WFZDblBNR1l6Y2dUVFVSaXVKLUFaNGkzWW5tbWZjRHhDeDZ1dDZWMX",
-      "title": "PALMEIRAS: Vitória por 6 a 2 sobre o Atlético-MG agita a torcida - Diário do Estado",
-      "summaryKo": "파우메이라스: 아틀레티코-MG에 대한 6-2 승리, 군중을 뒤흔들다 - 스테이트 데일리",
-      "excerpt": "PALMEIRAS: Vitória por 6 a 2 sobre o Atlético-MG agita a torcida&nbsp;&nbsp;Diário do Estado",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0N2WFZDblBNR1l6Y2dUVFVSaXVKLUFaNGkzWW5tbWZjRHhDeDZ1dDZWMXZMd2ctWmlzcFFtSmhhbzVNd2VjdFo5TS1sc3k0UDBMamh1T1NzaGdPWVhvY3BMVFhHNTRBRVlwY01mNmlyWWhBMDNxeDYxaG9WMzEwbFhLU2lKekJVckNBRWVqZG1LNTdlVmh5bzVWdzQ?oc=5",
-      "source": "Diário do Estado",
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlNwa2FJQXZOc2Y2bzJ2dnItRllYTnJhd3JwdS1WY3FCMEZwMElxd1ZSTDJ",
+      "title": "Palmeiras conhece calendário do Brasileirão após retorno da Copa - ABCD Jornal",
+      "summaryKo": "월드컵 휴식 후 파우메이라스, 브라질리앙 일정 공개",
+      "excerpt": "Palmeiras conhece calendário do Brasileirão após retorno da Copa&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlNwa2FJQXZOc2Y2bzJ2dnItRllYTnJhd3JwdS1WY3FCMEZwMElxd1ZSTDJHLXQ1R1hkcndVZWlZN3pTM19XQ3plZUhkb29HNUFBbTJnbGdLT1pyWkpQTzJET1VFWF9YYVdyaWJOYjVkSVJzMmVVRXZ3U09NSW9oYW1rQnNYU1ZxYXlJN2dMVXJGNWRMNUlXaEN6SXBDWlRCMkMxSQ?oc=5",
+      "source": "ABCD Jornal",
       "language": "pt",
-      "publishedAt": "2026-06-23T07:01:36.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-23T06:24:36.000Z",
+      "whyItMattersKo": "리그 재개 후 경기 일정을 미리 파악하여 선수단 관리와 전략 수립에 활용할 수 있기 때문입니다.",
+      "fanTakeKo": "휴식도 끝났으니 이제 리그 다시 시작이다, 파우메이라스!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3FJOUlsVXFvT2lQWncwbVE4UmNTZXBReDZkLUtlSmtBbEJrN0l3ZlZSMn",
-      "title": "Ao vivo: Atlético-MG x Palmeiras | Rodada 5 | Campeonato Brasileiro sub-17 - ge",
-      "summaryKo": "라이브: 아틀레티코-MG x 파우메이라스 | 5라운드 | 브라질 U-17 챔피언십 - GE",
-      "excerpt": "Ao vivo: Atlético-MG x Palmeiras | Rodada 5 | Campeonato Brasileiro sub-17&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3FJOUlsVXFvT2lQWncwbVE4UmNTZXBReDZkLUtlSmtBbEJrN0l3ZlZSMnRvR1FuNWRTVjFTSUM2Z3ZlQ2lDV0VHYzdkRDJzSTB2bmNRbFlFcTlFWTEwbzhXazRzX0xtUjhCNjJsT0FNajhtMUhxcVZWR0l0emhnWmpXNl9YOWc1NXE0Y3ozMENmYXlzdzQ3a3M5dUJ1ZzBiZ2RPWDFNanowRklVM2FoNzJR?oc=5",
-      "source": "ge",
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGZ2U1EzMFZGUE0wWEJfQkNpRmZ3S0hqeXAtbkZwNWNzSDEyOGhZT2JaZl9",
+      "title": "Conmebol define datas e horários das oitavas da Libertadores entre Palmeiras e Cerro Porteño - Lance!",
+      "summaryKo": "코파 리베르타도레스 16강, 파우메이라스 대 세로 포르테뇨 경기 일정 확정",
+      "excerpt": "Conmebol define datas e horários das oitavas da Libertadores entre Palmeiras e Cerro Porteño&nbsp;&nbsp;Lance!",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGZ2U1EzMFZGUE0wWEJfQkNpRmZ3S0hqeXAtbkZwNWNzSDEyOGhZT2JaZl9XZ055YV9FdWY2SXk1NlVxNzNzQTVWWkFzRjU4QWczd3ZXRldrMm9YTENXdHJQajdpQk9TallCQy1sSmltSHlEX1dyeDNpODFSVVN0ZTRtTk1YdGFzN1FaZU1lV05XcFprR3NVaU5fYklBRjVsYUFOcVEyOEY2bjh6b0V3ZG5OZDJZVFJHR014cnBDNTlOVlhTV0hLV0p3?oc=5",
+      "source": "Lance!",
       "language": "pt",
-      "publishedAt": "2026-06-23T02:49:18.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-03T07:00:00.000Z",
+      "whyItMattersKo": "16강 상대와의 경기 시간을 확정하여 맞춤형 훈련과 여행 계획을 세울 수 있기 때문입니다.",
+      "fanTakeKo": "16강 상대가 세로 포르테뇨라니, 조별리그보다 쉬워 보이는데 무조건 이기자!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMihAJBVV95cUxPc1dMYm90MlkzVHRqVnk0V1FlLVJvLXY0RE5aallZWVRvVWhBNjhvdGVuX3",
-      "title": "Trairagem entre ex-Palmeiras? Endrick dá caneta em Danilo no bobinho - MSN",
-      "summaryKo": "Trairagem entre ex-Palmeiras? Endrick이 Danilo에게 보비뉴를 주지 않음 - MSN",
-      "excerpt": "Trairagem entre ex-Palmeiras? Endrick dá caneta em Danilo no bobinho&nbsp;&nbsp;MSN",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc1dMYm90MlkzVHRqVnk0V1FlLVJvLXY0RE5aallZWVRvVWhBNjhvdGVuX3lWVWdxdzYwR1E5OTU5eFdiMWRLdHJXNTc3S0RpMEg0VVUyTUVyLVBGbU9ISjFEU3dZZ1pKamxkdnl1ZGV0d1lGQ3VlOExSaTRGTV9wY0Y4dzZEUzFKYURwQ3FxQjJvbng5d01MMXVqQmFuUVFwbW5jSUFfVUxpX2s4VGNhUWhaVDZlWElDUTRuSjAxYW5XVGN6LXVEaERuRG4tOFNYTWx0cUtiNDc5NkNMZkpicDFQRTFFbkpvOXlXX2E2RldkOTNxcWhScDYxbFpOVFRGdzhmNg?oc=5",
-      "source": "MSN",
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVV",
+      "title": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG - SE Palmeiras",
+      "summaryKo": "U-17 파우메이라스, 브라질리앙 전승 행진 이어가며 아틀레치쿠-MG 원정",
+      "excerpt": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVVRmQnNHZGl2QTlBaVNVUjdNdkZRczlGNVpLZVJDZ1BSdGx0Z1lxZ1JKRGFDb3d1aGNRTVYwNDQxX2RRV1R3bVNyY1VESi1hQmQ3ZkUxemk3SWJRbnlpZjVPZXA5OXItM3JGVHhV?oc=5",
+      "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-21T07:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T16:54:48.000Z",
+      "whyItMattersKo": "유소년 팀의 압도적인 성과가 클럽의 미래와 지속적인 성공을 보장하는 중요한 지표이기 때문입니다.",
+      "fanTakeKo": "유소년팀도 완벽하네, 미래의 에이스들이 자라나는구나!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYllNbzlzUDg2VFlaSUtiQjhCMEppREgyT2xnbVBuZEd5QmZoam1BTWVxZU",
-      "title": "Laudo do IML não identifica lesões em menina de 4 anos que teria sofrido estupro no clube do Palmeiras - G1",
-      "summaryKo": "IML 보고서는 파우메이라스 클럽 - G1에서 강간을 당했다고 주장하는 4세 소녀의 부상을 확인하지 않습니다.",
-      "excerpt": "Laudo do IML não identifica lesões em menina de 4 anos que teria sofrido estupro no clube do Palmeiras&nbsp;&nbsp;G1",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYllNbzlzUDg2VFlaSUtiQjhCMEppREgyT2xnbVBuZEd5QmZoam1BTWVxZUc5TXdYdjhCU0diVEtiN19mS1UwdjdMaEU5ckJCZGxGMkZvWTJVX3dqdndQOXJ5RlRJTmRLWEdFYXU2TExfTGJJQmV0dUdKNTgyN1dxR2JVNFpSX1BvdkI5cUY3RE5kNldDREZtU09xcTVRTXE5ZnFzdmpUM0lEcTlxcDlnUFdSYnAxcFFSV0hhdzB4WXRRa2VwQlk5MWxqTFZtRjRZeDY3QnZ0M0lhWTlvOUZqc1pfM2VRTm5DQWxHTjNiMkF4Y2fSAYICQVVfeXFMT0ZYMVowSHFqMWZMME1mcXZ6a0RFNnAxaW4zT2MxeF9jYmxhcUFtR3dIdm1BVjY1bC1TYjlkeFFFTjZyOEQyNTB3ajk3VkR5ZXJNZ2VWams4UVk4MVdXRmc2a2w4M1llTGtHcVJxNW9KdkZoaTdoZXQteHd1NU14LXRTTFNibFA3ODk1ZlNrX2ZXTGdJTzdKUEpKbmNaZkxFVXZ4RkFVMldxMVBBSm5aSXdMZXJsd2YzQVN1MEJfWnVBZGhPdWlLSVJXZmJ0Uzl0SnRyZWowTEpUaEtlRHJoNzkxWGtuNWhIblZ0NTNEeUR6ek5PZFBXOXQ5a1lxTC00a253?oc=5",
-      "source": "G1",
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ29hZGVqWHl6RW9QUDFNdmVtSWNrM2dBYlJqM0tQa0t3TWNva09qZFZZY0",
+      "title": "Palmeiras inicia semana de reapresentação com poucas pendências; saiba detalhes - GE",
+      "summaryKo": "파우메이라스, 재개 첫 주 부상자 없이 깨끗한 상태로 훈련 재개",
+      "excerpt": "Palmeiras inicia semana de reapresentação com poucas pendências; saiba detalhes&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ29hZGVqWHl6RW9QUDFNdmVtSWNrM2dBYlJqM0tQa0t3TWNva09qZFZZY0s2TTFHZTVsUDQ4X2RCaXZ2bjh0V3BfcmJNZ1ZUZWd2UkxEU0lKS05ScXVSbHFYRnRTOC1FZzNfay1UX2VadFlKeFAtV1VpLTNMbXlKWTdra0NOQ19WYjNZem5GY1pnS24wVlNvc1AtaFlnTlAtLU9kZDhTNTlxVnFUY25QMGFsVXotRlE3aE5BNWI2blRHYWVROXA0cUdpeEhfcE00UXRKY29nbngwODVCc09zdFlR0gHwAUFVX3lxTE13dkdMaTV6Si1OZnNXT0lpT1pPb05vcjhveWxqTXQ2TWl0MnlpM0lzRzdUQWJRTFZXVlA4a3hYYTVBQ0hrN080WnE1STNiVmM0S3k0TE1vVG5IeG8wdzZMOEluVWdVQTkwZFpRT29SMG1Vb21pNWxxUFVBTDZtcjFkeVJ6dng0YUFRZ3JUME1BcG5KQThSUkhoSmRKMUs1ZXU0RTZhd1ZhZG1hb2w2MlloT0tGVFZaQTdmX3dmb09PWWI0UEVDTkhDS3ZFVVBYSVM5SUlRQVRXTy1ZTWxxc0ZJV3gxUE5JcUJDZXJfeXNkSg?oc=5",
+      "source": "GE",
       "language": "pt",
-      "publishedAt": "2026-06-23T11:55:40.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T07:01:11.000Z",
+      "whyItMattersKo": "주전 선수들의 컨디션이 양호하여 시즌 재개 후 곧바로 최고의 퍼포먼스를 낼 수 있을 것으로 기대되기 때문입니다.",
+      "fanTakeKo": "부상자가 없다는 게 제일 좋은 소식이야, 우승 향해 달리자!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMitwFBVV95cUxPUS1DYmJWcmZ6M2pHMHJMcDRvSHc2U0ItMkx3d3VUS0xBX1pvc0I5d2hIYk",
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1VhV3A0R0kzel9FS29mbEFZWDh6aS1iX09ZR3JQSVUzLUdBQjJzSmt4OU",
+      "title": "Com calendário mais livre, Abel Ferreira ganha tempo raro para preparar o Palmeiras - Terra",
+      "summaryKo": "일정 여유로워진 아벨 페헤이라 감독, 파우메이라스 전술 훈련 시간 확보",
+      "excerpt": "Com calendário mais livre, Abel Ferreira ganha tempo raro para preparar o Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1VhV3A0R0kzel9FS29mbEFZWDh6aS1iX09ZR3JQSVUzLUdBQjJzSmt4OU5MV2c2QmdIak81Z2VwVHdUeXNEbDBTV3BhT0xWbFBvMWtQdDRHR25PNXh0ZGg0aFBjWEdQblNjVjBacDNqd3I4YWFzRFRKZ2xwSTl0cVRHSWs0VzVDeWFLeVJMb2tJTGJxUHpzLXhmZTlVTDN2M3lsSGxKSTB6SUVIZk50WVZzd1lLUmNuQ3Q3OTFXbEZzRGVZQ2MxUWx1RWptWmtzdG9YSTIzTEdtTTh3WGdDci1xdkZJTnE0cXJCLUltRFo1V0xUb0RWN2NxQk1qRVFaUmc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-06-22T12:44:00.000Z",
+      "whyItMattersKo": "빡빡했던 일정 덕분에 팀 전력 보강 및 전술 다듬기에 집중할 수 있는 중요한 시간이 생겼습니다.",
+      "fanTakeKo": "드디어 아벨 감독이 제대로 팀을 손봐줄 시간이 생겼네, 다음 경기가 기대된다!",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMitwFBVV95cUxPUS1DYmJWcmZ6M2pHMHJMcDRvSHc2U0ItMkx3d3VUS0xBX1pvc0I5d2hIYk",
       "title": "Palmeiras goleia América-MG e abre vantagem na liderança do Brasileiro Sub-20 - SE Palmeiras",
-      "summaryKo": "Palmeiras는 América-MG를 스래싱하고 브라질 U-20 - SE Palmeiras의 리더십에서 우위를 선점합니다.",
+      "summaryKo": "파우메이라스 U-20, 아메리카-MG 대파하고 브라질리랑 U-20 선두 도약",
       "excerpt": "Palmeiras goleia América-MG e abre vantagem na liderança do Brasileiro Sub-20&nbsp;&nbsp;SE Palmeiras",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUS1DYmJWcmZ6M2pHMHJMcDRvSHc2U0ItMkx3d3VUS0xBX1pvc0I5d2hIYkY5YnQxTldzRlQwemxkeE5YaTBJUHF0a0RyLTVkM1dyUEhLQUt4cVZ6a2c3TjdDWEpWSFZwbGlIdExuQnJBUzEzSWRpVjZYXzh2VXNwaTZNMmZBZ1piWlFHTHZWS1o5SWJHRHZhN09QZXpodUlFVDRjTlNUdzZZUzVEU3JuRE1DbnkyX3c?oc=5",
       "source": "SE Palmeiras",
       "language": "pt",
       "publishedAt": "2026-06-20T20:54:24.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "whyItMattersKo": "미래의 에이스들이 보여준 막강한 화력은 1군의 미래를 밝게 하는 긍정적인 신호입니다.",
+      "fanTakeKo": "유망주들이 이렇게 잘하니 1군 걱정은 덜 끝치겠네, 미래가 밝다!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-20-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HN05UaHNpMFd2N09yd1A5Q3dXaW05ZWFLdy1hQ0FZd1p4VktvOGdubzVHU1",
-      "title": "A disputa por Danilo ganhou força entre Flamengo e Palmeiras. Segundo o jornalista Jorge Nicola, o Flamengo apresentou a maior proposta: € 25 milhões fixos, com bônus que podem elevar o valor para € 35 milhões. O Palmeiras ofereceu € 22 milhões fixo - instagram.com",
-      "summaryKo": "다닐로에 대한 분쟁은 플라멩고와 파우메이라스 사이에 힘을 얻었습니다. 저널리스트 호르헤 니콜라 (Jorge Nicola) 에 따르면, 플라멩고는 가장 큰 제안을 제시했습니다: € 25,000,000 고정, € 35,000,000에 가치를 올릴 수있는 보너스와 함께. Palmeiras는 고정 2,200만 유로를 제공했습니다 - instagram.com",
-      "excerpt": "A disputa por Danilo ganhou força entre Flamengo e Palmeiras. Segundo o jornalista Jorge Nicola, o Flamengo apresentou a maior proposta: € 25 milhões fixos, com bônus que podem elevar o valor para € 35 milhões. O Palmeiras ofereceu € 22 mil",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HN05UaHNpMFd2N09yd1A5Q3dXaW05ZWFLdy1hQ0FZd1p4VktvOGdubzVHU1llbmwtdWhZVUhHNDFPNm5ud1dpVTYxUmkzdWFOd1E?oc=5",
-      "source": "instagram.com",
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0oyMTd0SW80Ty1QMUNFbUFZNHZ5aHhZbXRwZlFWbUJ0MlZ1TlNxRWRMd2",
+      "title": "Elenco do Palmeiras dá sequência à reapresentação após período de férias - Lance!",
+      "summaryKo": "파우메이라스 선수단, 휴가 후 복귀하여 훈련 재개",
+      "excerpt": "Elenco do Palmeiras dá sequência à reapresentação após período de férias&nbsp;&nbsp;Lance!",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0oyMTd0SW80Ty1QMUNFbUFZNHZ5aHhZbXRwZlFWbUJ0MlZ1TlNxRWRMd2hNMnNRQm5ZTjJ0aXUtaVNmaEcxYTdrcjhoekF1bkNxdTEzT0hfZnFZZ0dyOXR0V3NaTTBxOXpLN1BkOWlqdXJ5LWUxMDRjUnRSNnpfX1VLWjlnMnJlclNaYUVYMHV2UFFzd0swZ3VBYnd6bk9IRk53MFhJNHo0TjBCbEdSYkxn?oc=5",
+      "source": "Lance!",
       "language": "pt",
-      "publishedAt": "2026-06-21T22:23:46.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T19:40:26.000Z",
+      "whyItMattersKo": "새 시즌을 앞두고 선수들의 컨디션을 회복하고 팀워크를 다시 잡는 필수적인 과정입니다.",
+      "fanTakeKo": "다들 푹 쉬고 왔으니 이제 시즌 준비 시작이다, 화이팅!",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWFDTGdta0NrblJOX0VyMllWWVJzaUhOeHFYanFqU1MxRl9ISXlyTFB2TG",
-      "title": "Período de treinos durante Copa dará ao Palmeiras mais tempo de trabalho do que pré-temporada - Gazeta Esportiva",
-      "summaryKo": "월드컵 기간 동안 훈련 기간을 통해 Palmeiras는 프리시즌보다 더 많은 작업 시간을 갖게 됩니다 - Gazeta Esportiva",
-      "excerpt": "Período de treinos durante Copa dará ao Palmeiras mais tempo de trabalho do que pré-temporada&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWFDTGdta0NrblJOX0VyMllWWVJzaUhOeHFYanFqU1MxRl9ISXlyTFB2TGZOT2QwRzhQQm9ZR3BsQmxkUkxjb0hwYkgxaU9uQW5lTWlJMDcwUkFiWXFXNnEwTm5OVEo0SHgwV2VzOGJEU0k0Zk95M1VObWtUVWg0ZTZvMmdUNmZ0a1VxYjZseXlpN2hfdGJMTVFGcml1a1hV0gGmAUFVX3lxTE0wdWtHakhOYXV6NXRQQ1RmYlA0TFc1V0pRZDdnM2gxM3VFU3pSQTF6bXZOeVpGQ2tVeTBsc1Q2NlpsUmpqUm1xem5oN0RQVktBUTAxMmJYZkptUVdkZ0haRnNSTXRmQW1lMkFQczY1MVlSUmFmdHozTWNuZkxHdlJnay1DS2FIVGxtZGFWNEJXZHVlY1dLcUphN05VXzJtX2JFSDBYUkE?oc=5",
-      "source": "Gazeta Esportiva",
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOREtDd3pNRHNoUEV0VTluSnNrRkRfODhod2RjSEJySlREZ0kzcjFQRjVpR1",
+      "title": "“Tinha desistido”: ex-atacante do Palmeiras relembra período em que “caía na cachaça e balada” - GE",
+      "summaryKo": "\"포기했었다\": 파우메이라스 출신 전 공격수, 술과 파티에 빠졌던 과거 회고",
+      "excerpt": "“Tinha desistido”: ex-atacante do Palmeiras relembra período em que “caía na cachaça e balada”&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOREtDd3pNRHNoUEV0VTluSnNrRkRfODhod2RjSEJySlREZ0kzcjFQRjVpR1h1UC1SN3pxeFJfSEhUWDV4V3VaYmFFcDB0Wk5xbVVqbmEtZGIyd1hHWkdzVmhrbmZNV3pfS0FyR2k1ZkhDdWp5TUs2VkxXWGIweVY3dVZSMV9MOU9lenI3MlM5MldYT05tajlFOUtTR1BMejB3TTdCYmxaQ3FseHp1TWVNd3VqNmMyZTBBVkJKOTlWSXRIS25uZkpoU1ZhM2I2dGVVWWY2bUxLUGNwSGJpWVA40gHuAUFVX3lxTE5UQXdxSi14cTN2QUlob0pJYktTSFpvTHQ3Y2d1d1lubjVTcEFicWpCbXN1dHFiM2tXOE9vdU1EQUpjVDFPNm9nTFYxUXJHVlAtV2F0WWFWTDlkT2dyUGJDQm5xTG5udE9LZEMzbkIwTlU4OG1ieS1RcmdzZFB2T3NCUTRJRE9Fc3JYb3VueFZrUzJWVnBQUTBkYWNxd21hdndQdkQ0Ykg5RXVycFh4cE9DYVp2RjVMUmkwb0owZ0hDQldFTkdGQlk3VmNsTWk4aUNNZW8wQUE3RUlGbzJuZlUwOFVLc0ZxYlRvUTcyZFE?oc=5",
+      "source": "GE",
       "language": "pt",
-      "publishedAt": "2026-06-23T09:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-21T13:00:08.000Z",
+      "whyItMattersKo": "은퇴 선수의 솔직한 고백은 선수 생활의 어려움과 재기의 의미를 되새기게 합니다.",
+      "fanTakeKo": "그때 그 선수가 그런 고생을 했었나? 그래도 지금은 잘 지내길 바란다.",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMickFVX3lxTE1MTWI5d3BjSUNDdkl2Y2lCaXNoSlBxaHM2UjhYcGRWZnE4UkxQSzdjdmRzRW",
-      "title": "Sub-17 recebe Palmeiras pelo Brasileiro - Clube Atlético Mineiro",
-      "summaryKo": "17세 이하 선수, 브라질 대표 파우메이라스 영입 - Clube Atlético Mineiro",
-      "excerpt": "Sub-17 recebe Palmeiras pelo Brasileiro&nbsp;&nbsp;Clube Atlético Mineiro",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MTWI5d3BjSUNDdkl2Y2lCaXNoSlBxaHM2UjhYcGRWZnE4UkxQSzdjdmRzRWxfQU1OUEVtREwzMEo5RzZ3Ql9XWDhGaWFUVGxSZkhoRUhMaU5yY2JuOFQzQ0hobTdua2ZxR3NfZEcyaG0wdw?oc=5",
-      "source": "Clube Atlético Mineiro",
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2phc2pWMHkzaGtWTGRnS21ZcHFYRVg0ZFY1NGtBR1NOVVNHXy1qSUZSQT",
+      "title": "Sub-10 do Verdão goleia Santos na final e é campeão da Referência Cup - SE Palmeiras",
+      "summaryKo": "파우메이라스 U-10, 산투스 대파하고 '레퍼런스 컵' 우승",
+      "excerpt": "Sub-10 do Verdão goleia Santos na final e é campeão da Referência Cup&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2phc2pWMHkzaGtWTGRnS21ZcHFYRVg0ZFY1NGtBR1NOVVNHXy1qSUZSQTBib2NQbnE1NFU2TVpmT1FrSTNDeWhoMFdsQnNkTW1MTDdCdFdfTWFzRjRwcHpWTFVkVWhIWFZRSU9fc0duVG8zZlZjUGNzS21MVVlRMV9xcm5nUVdqaFVXR3JQb1UwUmNVamdaUWNOZTJTdjlLRkJ6MWdCeURyWVBs?oc=5",
+      "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-22T19:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T15:15:27.000Z",
+      "whyItMattersKo": "유소년 팀의 성장을 보여주며 라이벌 산투스를 꺾고 우승컵을 들어 올렸기 때문입니다.",
+      "fanTakeKo": "미래가 밝다! 산투스 깨부수니 기분이 좋네~",
+      "tags": ["뉴스", "AI요약"]
     },
     {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZZOVczUER0UnNXeEdKbnRLazNzS3JwUTZhOFJpOFc0YlZPNnhWR1BHWT",
-      "title": "Veja quanto Flamengo e Palmeiras ofereceram ao Botafogo pelo volante Danilo - Diário do Rio",
-      "summaryKo": "플라멩고와 팔메이라스가 다닐로 스티어링 휠을 위해 보타포고를 얼마나 제공했는지 확인하세요 - Diário do Rio",
-      "excerpt": "Veja quanto Flamengo e Palmeiras ofereceram ao Botafogo pelo volante Danilo&nbsp;&nbsp;Diário do Rio",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZZOVczUER0UnNXeEdKbnRLazNzS3JwUTZhOFJpOFc0YlZPNnhWR1BHWTJtMEJvc3pNSk1yQ3hSS0VzYnBfaGpGN3ZLcll5eGVDNE9yWGxmWFNCanhkemdLbURtXzFMR2NjTmNocEFaMmpCMzdGSHRrakV1TDhuRzVHZ0RnYXgzY2U0SDNIbzA1VUd6Y2c?oc=5",
-      "source": "Diário do Rio",
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTZSc3AyMmhOR3ppd094TGdkZ3dfemp3WGdESUhQbzU1dHNYV3hEXzNZZX",
+      "title": "Trio inicia trabalhos no Palmeiras antes da data de reapresentação - GE",
+      "summaryKo": "파우메이라스, 3인조 정규 복귀 전 미리 훈련 재개",
+      "excerpt": "Trio inicia trabalhos no Palmeiras antes da data de reapresentação&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTZSc3AyMmhOR3ppd094TGdkZ3dfemp3WGdESUhQbzU1dHNYV3hEXzNZZXRmS1BIVjIzSHplRTNvcUgxbUI2andvamMyc1k5dHNwMmNieWpQMDBLMUVLZWJXQklVNHppY2c2Rkc0SlVWamg5VjFmb2JvNGExUGQ1RkN1dFR2ZWFRYXJPdFc2eFVOcmxWVWh3VkdNVkdVeC1udjdQX0NWNlBheGJ3Ym5sRWNEMWs0emo1RXNISHh1VG1RM1hubWh6Z2dLMUlWdU0yZGfSAeABQVVfeXFMT3VmLXN1Z19VeEg0UE95QlVGT2pIakNkWFRNNnVWTkxDYjZEUGFzR2xFcnhRWVhxaGwtODE3S1lvNEpsZ0NkODhQanZhVVdoeXBjYXctblVaQ3R5dFNOUlVnTFlqeVlnWWpHX1hma0NaYnoyb1JORnZiMzFKZHYzVHFNb1pOeV9RbG9HR3NqMTF2dkxzZUpzVW83X28teVl0Uk9FUG1pWVFpaUVzdnJPOEo4azdkYzlpUmFrVzhUUlIzR0luNGlhbkViWjhKcDJNYWRjRVR6bGZxMDBmUVFwbkc?oc=5",
+      "source": "GE",
       "language": "pt",
-      "publishedAt": "2026-06-22T22:00:42.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
+      "publishedAt": "2026-06-22T19:34:24.000Z",
+      "whyItMattersKo": "선수들이 정규 일정보다 앞서 자발적으로 훈련에 합류하여 시즌 준비에 만전을 기하고 있기 때문입니다.",
+      "fanTakeKo": "프로 정신이다! 벌써부터 기대가 된다.",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMixAFBVV95cUxORzlBc1o5N1RTRDQ3cHVGN1o1cmY5LUxkUjNzSC05aDhUZmRMNWFZN0JOMD",
+      "title": "Com novo modelo de horários e jogos durante a Copa, CBF divulga tabela do Brasileirão - Lance!",
+      "summaryKo": "CBF, 대회 일정 조정 속 브라질리랑 시즌 일정 발표",
+      "excerpt": "Com novo modelo de horários e jogos durante a Copa, CBF divulga tabela do Brasileirão&nbsp;&nbsp;Lance!",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORzlBc1o5N1RTRDQ3cHVGN1o1cmY5LUxkUjNzSC05aDhUZmRMNWFZN0JOMDY4R1lkTnp5aGNocC1DUlpQYmpvcmZ3TFZ2V0JKbjBWOWl4cTVXN2FaZ3djYXdKYUNNUmxkMS1selBOVmhkR2dUMmllYXRxbTN0OXhkVEZ6WTBUUW9wWFllOXh2N0FUQUFaODFZNWpPZkRHRkkzNTlLSWwzbC1wd2dIOWhWX2pYS1gxak4tajhPODFWTG5WT3dr?oc=5",
+      "source": "Lance!",
+      "language": "pt",
+      "publishedAt": "2026-06-22T23:59:00.000Z",
+      "whyItMattersKo": "경기 시간 변화 등 새로운 시즌의 운영 방식이 확정되어 팀의 일정을 관리하는 데 중요하기 때문입니다.",
+      "fanTakeKo": "이제 경기 일정을 보니 시즌 시작이 실감난다.",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHg5NW4zZFRUMktUdVlEN0tfV2QwLXViSXpLdy1faUI1YmZKSHdLVVpZZl",
+      "title": "Palmeiras vence Sporting Cristal no Peru e assume liderança do grupo na Libertadores - SE Palmeiras",
+      "summaryKo": "파우메이라스, 페루서 스포르팅 크리스탈 격파하고 리버타도레스 조 1위 도약",
+      "excerpt": "Palmeiras vence Sporting Cristal no Peru e assume liderança do grupo na Libertadores&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHg5NW4zZFRUMktUdVlEN0tfV2QwLXViSXpLdy1faUI1YmZKSHdLVVpZZlJpZjZ3NVBJQ0l2eUNTNHUxSi16WFBudktLUDF2TUhWYVlKRm9PR0kxdDI0Z3o1ZVNYUnRjVWpOOEYwZ25kRXFSRnJfVkFsYjVCemMzQ3RRZmh1UjJWVHhRZlNrR0JjLUREaTF6ZXFTU2tLTC1EdVF1cTRVa3NDenUxTlFRRVdETFBVeUhmamdZT2Jvd08?oc=5",
+      "source": "SE Palmeiras",
+      "language": "pt",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "whyItMattersKo": "원정 경기에서 승리하며 대회 우승을 위해 조별리그에서 좋은 출발을 끊었기 때문입니다.",
+      "fanTakeKo": "원정 승리가 제맛이지! 리버타도레스 우승 향해 전진이다.",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-20-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajRPcDVkZjlsa00yTVZ2b21pWHdyR0dYQll1N0x3WnJkUEhfd3JpWUZ5Z3",
+      "title": "Abel Ferreira segue com desfalques e dúvidas no Palmeiras - Lance!",
+      "summaryKo": "아벨 페헤이라 감독, 파우메이라스 전력 누수와 선발 라인업 고민 지속",
+      "excerpt": "Abel Ferreira segue com desfalques e dúvidas no Palmeiras&nbsp;&nbsp;Lance!",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajRPcDVkZjlsa00yTVZ2b21pWHdyR0dYQll1N0x3WnJkUEhfd3JpWUZ5Z3dUTWN0bzRuRWtRRlV1WlFLenYxS3kwcVp2TWtpSlFwMklIT1ltVnlSeURZRWxaS2tlbVhJeWpzbU90V3RrYjNQZXJYNncyd3A3YmE5Q0JmQTNVYk5CN3U0WmZnZTRyQTRDd05RWjE5T2VSTmN0a05PR3diN2g0bDQ?oc=5",
+      "source": "Lance!",
+      "language": "pt",
+      "publishedAt": "2026-06-20T13:46:18.000Z",
+      "whyItMattersKo": "주요 선수들의 부상과 부진으로 인해 다음 경기의 선발 명단 구성이 더욱 어려워졌기 때문입니다.",
+      "fanTakeKo": "또 누가 부상이야? 우리 팀은 왜 이렇게 선수 관리가 힘든 거지!",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-21-https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkUzZHNlZVFFMDEwTlY0SmN1S3VOVG1PWHF4WWJ1aEVUSGh6U2J3TUlDYm",
+      "title": "Arthur quer aproveitar espaço para embalar no Palmeiras no segundo semestre - Lance!",
+      "summaryKo": "아서, 파우메이라스에서 후반기 도약을 노리며 기회 포착 의지 표명",
+      "excerpt": "Arthur quer aproveitar espaço para embalar no Palmeiras no segundo semestre&nbsp;&nbsp;Lance!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkUzZHNlZVFFMDEwTlY0SmN1S3VOVG1PWHF4WWJ1aEVUSGh6U2J3TUlDYmRTOGRJSFlmajJPTndraklQdGI2NUZ5c0FxQ1V3Nkt1T1M3NjkyelJiX0E5YUFqSjkxT2RFT0RTTWlFbzlBOS12VHNCOG9qSWlqR3BJZWwwVUhZNXVBR0U1bTF4Ulp4VGVBNWlGc2IxNUl6LVhkWERNYnlXSF9pZS1KUlBDYUx4OVE1QQ?oc=5",
+      "source": "Lance!",
+      "language": "pt",
+      "publishedAt": "2026-06-22T12:30:00.000Z",
+      "whyItMattersKo": "팀의 중원 경쟁이 치열한 상황에서 아서의 성장이 시즌 후반기의 전력 보강이 될 수 있기 때문입니다.",
+      "fanTakeKo": "아서가 제 몫을 해준다면 중앙 미진이 훨씬 탄탄해질 거야, 응원한다!",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-22-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVlFtUTkyY2MtUVc2VWUya0llNmwyalZaOWNjSGNXZ3AzT0Y4aGZIVU51WH",
+      "title": "Palmeiras divulga vídeo sobre recuperação de Piquerez e a disputa da Copa; assista - GE",
+      "summaryKo": "파우메이라스, 피케레스 복귀 현황과 대항전 대응 담은 영상 공개",
+      "excerpt": "Palmeiras divulga vídeo sobre recuperação de Piquerez e a disputa da Copa; assista&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVlFtUTkyY2MtUVc2VWUya0llNmwyalZaOWNjSGNXZ3AzT0Y4aGZIVU51WHFMNHByZl9LOXR4VlR0ZWI2OU0tcWh1VlE2QUdzdlNsQlptcWV0dDJjaWJmeE01a0M4N3ZYRjMyYkVsYm4zRV9Ba2FjTGpQMTBNT0stTURWMTA3WkZUSXMweXVDYlJxblppamRtd2hiWDBvTjdYeUtNRGM4REc0YktaSHpGdjZMY1dLWlpuSDNpTjJ5OHhfM3lMU3JVQnJRU2NZWWVGY3ozd1FhZ25NUkRQTVc4UXdGczFEUdIB9AFBVV95cUxPMVRqRjVycF9sb0dLN1dweE1CTjdFOVQ3UERvNk9zMmg4OS1ja0JsZkVtYThIam9lSE5Ja0FEVWpySXNPbURCXzZmMGZPUW1WakFlSjlNMmlNRVFkWGpBQVg4NFc3Z0lhVlhQUjNsdEFBd3IyUi1pd1ZIS2JsVHFxYWNpYWVYU2tab0RxVHJpcjctRUg2QVZVR1huYUZzYlYwelUxVkNrbTI0ZENoQ216MEd3Z1dLZnZIVl9xay1jYUNDc3pERDV0eWtpYmxlN0dadnpLNjdsaV9BVmx3YlpOOS0yT1JnSDB5cmRtb2Jlbm9vX182?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-06-22T15:21:21.000Z",
+      "whyItMattersKo": "핵심 수비수인 피케레스의 복귀 시점이 팀의 수비 안정화와 대항전 성적에 결정적인 영향을 미치기 때문입니다.",
+      "fanTakeKo": "피케레스 빨리 돌아오길! 왼쪽 풀백은 역시 그 사람이지.",
+      "tags": ["뉴스", "AI요약"]
+    },
+    {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMiswFBVV95cUxQajdpdFNjTFJ1dWVSNHpHN1ZBZ2t2MGVfSHhXQzY4NlA3RzdieldQRGp1bk",
+      "title": "Libertadores 2026: do que Palmeiras, Fluminense e Cruzeiro precisam para avançar - olympics.com",
+      "summaryKo": "리버타도레스 2026: 파우메이라스, 플루미넨스, 크루제이루의 조별리그 탈출 조건 분석",
+      "excerpt": "Libertadores 2026: do que Palmeiras, Fluminense e Cruzeiro precisam para avançar&nbsp;&nbsp;olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajdpdFNjTFJ1dWVSNHpHN1ZBZ2t2MGVfSHhXQzY4NlA3RzdieldQRGp1bk5JWVJSVXA5RUFzWG9QT1hUVC01c25GWFVLTnlmUkRtUm9PWkI1OW5Ob2dHQkgyMzdHRjcyajd1NGFza0FYak1XRXVtLTFmY2EwTGZ1d25PYVJpQVhhN3pKNnZ1SnQ4Rmdia2tVR2I1emRpUjVQcWE4V21KUTZ2M2FsbWlCSGhhaw?oc=5",
+      "source": "olympics.com",
+      "language": "pt",
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "whyItMattersKo": "남은 경기 결과에 따라 파우메이라스의 다음 라운드 진출 여부가 달라질 수 있어 전략적인 관리가 필요하기 때문입니다.",
+      "fanTakeKo": "우리는 무조건 1위로 가야지, 다른 팀들은 안 봐도 돼.",
+      "tags": ["뉴스", "AI요약"]
     }
   ]
 }

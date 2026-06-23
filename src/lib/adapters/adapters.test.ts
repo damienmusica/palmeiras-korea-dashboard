@@ -52,12 +52,15 @@ describe("adapters (no keys → labeled seed data)", () => {
     expect(missing.data).toBeNull();
   });
 
-  it("flags fallback when API key is present but mapping disabled", async () => {
-    process.env.API_FOOTBALL_KEY = "dummy";
-    cacheClear();
-    const res = await getMatches();
-    expect(res.fellBack).toBe(true);
-    expect(res.note).toBeTruthy();
+  it("returns seed matches/standings when no snapshot is present", async () => {
+    // With SNAPSHOT_DIR pointed at a non-existent dir, the ESPN snapshot is
+    // absent → adapters fall back to clearly-labeled seed data.
+    const m = await getMatches();
+    expect(m.origin).toBe("seed");
+    expect(m.data.length).toBeGreaterThan(0);
+    const s = await getStandings();
+    expect(s.origin).toBe("seed");
+    expect(s.data.table.length).toBeGreaterThan(0);
   });
 });
 

@@ -9,15 +9,18 @@ generic stats dashboard.
 - [x] **MVP** — interpretation-first dashboard (briefing, news, squad, player,
       fixtures, standings, guide) on labeled seed data.
 - [x] **Security + maintainability hardening** — see `SECURITY` section below.
-- [x] **Phase 2 (partial): free data pipeline** — keyless Google News → committed
-      snapshot → site (see `docs/FREE-PIPELINE.md`). **News is live & free now.**
-- [ ] **Phase 1 (sports live)** — wire `API_FOOTBALL_KEY` / `THESPORTSDB_KEY`
-      (free tiers) into `ingestSports()` for matches/standings/squad.
+- [x] **Phase 2: free data pipeline** — keyless sources → committed snapshot → site
+      (see `docs/FREE-PIPELINE.md`).
+- [x] **Phase 1: sports live (free)** — **ESPN public JSON** gives CURRENT-season
+      standings + fixtures/results, keyless (breaks API-Football's free season lock).
+      API-Football wired for real current squad photos.
+- [x] **Phase 3: interpretation upgrade** — free LLM (Cerebras **GLM-4.7**,
+      OpenAI-compatible, provider-swappable) for KO summaries + "왜 중요한가" + fan-take,
+      batched + URL-cached. MyMemory fallback when no key.
 - [ ] **PWA** — `manifest.json` + service worker + icons → installable iPhone app
       ($0), offline cache, iOS 16.4+ web push (goal/news alerts).
-- [ ] **Phase 3 (interpretation upgrade)** — optional free-tier LLM (Gemini Flash /
-      Cloudflare Workers AI / Groq) for better KO summaries + "why it matters",
-      heavily cached to stay within free limits. Keep editorial labeling.
+- [ ] **Scorer/assist leaders** + continental (Libertadores/Copa) fixtures from a
+      free source; live-score polling during match windows.
 - [ ] **App Store (optional, NOT free)** — Capacitor wrap. Requires Apple Developer
       Program **$99/yr**. Only if store presence/search is needed; PWA covers most.
 

@@ -74,6 +74,11 @@ function LeaderCard({
   return (
     <section className="pm-card p-4">
       <h2 className="mb-2 font-bold">{title}</h2>
+      {rows.length === 0 ? (
+        <p className="text-sm italic text-[var(--pm-muted)]">
+          현재 데이터 소스에서 득점·도움 순위를 제공하지 않습니다.
+        </p>
+      ) : null}
       <ol className="space-y-1.5">
         {rows.map((r, i) => (
           <li key={r.playerName} className="flex items-center gap-2 text-sm">

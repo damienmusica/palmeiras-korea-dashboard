@@ -24,7 +24,12 @@ import { cached } from "@/lib/adapters/cache";
 import { parseFeed } from "@/lib/adapters/rss";
 import { enrichNewsList } from "@/lib/interpret/news";
 import { isSafeHttpUrl } from "@/lib/security/url";
-import { readNewsSnapshot, readSquadPhotos } from "@/lib/data/snapshot";
+import {
+  readNewsSnapshot,
+  readSquadPhotos,
+  readMatchesSnapshot,
+  readStandingsSnapshot,
+} from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
@@ -97,25 +102,12 @@ export async function getSquad(): Promise<DataResult<Squad>> {
 
 export async function getMatches(): Promise<DataResult<Match[]>> {
   return cached(CACHE_KEYS.matches, async () => {
-    const key = process.env.API_FOOTBALL_KEY;
-    if (!key) {
-      return seedResult<Match[]>(SEED_MATCHES);
+    // Precedence: current-season ESPN snapshot (free pipeline) → seed.
+    const snapshot = readMatchesSnapshot();
+    if (snapshot && snapshot.data.length > 0) {
+      return snapshot;
     }
-    try {
-      // Live integration point. Kept conservative for the MVP: we validate the
-      // key exists but still return seed data unless a full mapping is enabled,
-      // so the app never depends on a paid call to render. Operators can extend
-      // this branch to map API-Football fixtures into the Match[] shape.
-      return fallbackResult<Match[]>(
-        SEED_MATCHES,
-        "API_FOOTBALL_KEY가 설정되었지만 라이브 매핑이 비활성화되어 시드 데이터를 표시합니다.",
-      );
-    } catch (err) {
-      return fallbackResult<Match[]>(
-        SEED_MATCHES,
-        `라이브 경기 데이터를 불러오지 못했습니다: ${(err as Error).message}`,
-      );
-    }
+    return seedResult<Match[]>(SEED_MATCHES);
   });
 }
 
@@ -123,14 +115,11 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
 
 export async function getStandings(): Promise<DataResult<Standings>> {
   return cached(CACHE_KEYS.standings, async () => {
-    const key = process.env.API_FOOTBALL_KEY;
-    if (!key) {
-      return seedResult<Standings>(SEED_STANDINGS);
+    const snapshot = readStandingsSnapshot();
+    if (snapshot && snapshot.data.table.length > 0) {
+      return snapshot;
     }
-    return fallbackResult<Standings>(
-      SEED_STANDINGS,
-      "API_FOOTBALL_KEY가 설정되었지만 라이브 매핑이 비활성화되어 시드 순위표를 표시합니다.",
-    );
+    return seedResult<Standings>(SEED_STANDINGS);
   });
 }
 
