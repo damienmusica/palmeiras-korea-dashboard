@@ -68,6 +68,20 @@ export default async function HomePage() {
         <QuickStats season={model.season} tracked={tracked} />
       </section>
 
+      {/* Live match takes priority — never let an in-progress game disappear */}
+      {model.liveMatch ? (
+        <section aria-labelledby="live-heading" className="space-y-3">
+          <h2
+            id="live-heading"
+            className="flex items-center gap-2 text-sm font-bold text-rose-600"
+          >
+            <span className="h-2 w-2 animate-pulse rounded-full bg-rose-600" />
+            지금 진행 중
+          </h2>
+          <MatchCard match={model.liveMatch} />
+        </section>
+      ) : null}
+
       {/* Next + last match */}
       <section aria-labelledby="matches-heading" className="space-y-3">
         <SectionHeading
@@ -126,6 +140,48 @@ export default async function HomePage() {
                 </p>
               ) : null}
             </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Discover the club's depth (history/legends/culture live in the guide) */}
+      <section aria-labelledby="discover-heading" className="space-y-3">
+        <SectionHeading
+          title="클럽 깊이 알기"
+          subtitle="처음이라면 여기서 — 110년 역사 · 레전드 · 응원 문화"
+        />
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+          {[
+            {
+              href: "/guide#history-heading",
+              icon: "📜",
+              title: "클럽의 역사",
+              desc: "Palestra Itália부터 아벨의 황금기까지 110년",
+            },
+            {
+              href: "/guide#legends-heading",
+              icon: "🏅",
+              title: "레전드 & 명예의 전당",
+              desc: "아데미르 다 기아·히바우두·엔드릭까지",
+            },
+            {
+              href: "/guide#culture-heading",
+              icon: "💚",
+              title: "응원 문화와 정체성",
+              desc: "Avanti Palestra · Porco · Mancha Verde",
+            },
+          ].map((c) => (
+            <Link
+              key={c.href}
+              href={c.href}
+              className="pm-card flex flex-col gap-1 p-4 transition-transform hover:-translate-y-0.5"
+            >
+              <span aria-hidden="true" className="text-2xl">
+                {c.icon}
+              </span>
+              <span className="font-bold">{c.title} →</span>
+              <span className="text-xs text-[var(--pm-muted)]">{c.desc}</span>
+            </Link>
           ))}
         </div>
       </section>

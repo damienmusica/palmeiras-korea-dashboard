@@ -150,6 +150,40 @@ export interface HistoryEra {
   bodyKo: string;
 }
 
+/**
+ * A living-culture topic a real fan cares about — anthem, mascot, torcida,
+ * stadium lore, identity. Told as a short story, not a dictionary line. All
+ * facts hand-researched and web-verified during the build phase.
+ */
+export interface CultureTopic {
+  /** Emoji marker for quick scanning. */
+  icon: string;
+  titleKo: string;
+  /** Optional original term / reading, e.g. "Avanti, Palestra! · 아반치 파레스트라". */
+  subtitleKo?: string;
+  bodyKo: string;
+  /** Optional quick-fact chips. */
+  tagsKo?: string[];
+}
+
+/** A single tactical principle. */
+export interface TacticalPrinciple {
+  titleKo: string;
+  bodyKo: string;
+}
+
+/** How the team actually plays — the manager's system, in plain Korean. */
+export interface TacticalProfile {
+  /** One-line summary of the manager's footballing identity. */
+  summaryKo: string;
+  /** Typical shapes, e.g. "4-2-3-1 / 4-4-2 (상대 따라 가변 3백)". */
+  baseFormationKo: string;
+  /** Core principles a fan should watch for. */
+  principlesKo: TacticalPrinciple[];
+  /** Optional caveat (e.g. formations rotate by squad/opponent). */
+  noteKo?: string;
+}
+
 /** A detailed honour line with the exact winning years. */
 export interface HonourLine {
   competitionKo: string;
@@ -194,6 +228,10 @@ export interface TeamConfig {
   history?: HistoryEra[];
   /** Detailed honours with exact winning years. */
   honours?: HonourLine[];
+  /** Living fan-culture topics (anthem, mascot, torcida, stadium lore). */
+  culture?: CultureTopic[];
+  /** How the team plays under the current manager. */
+  tactics?: TacticalProfile;
   /** Korean pronunciation / naming notes for the club. */
   nameNotes: string[];
   glossary: GlossaryEntry[];

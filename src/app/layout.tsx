@@ -8,13 +8,24 @@ import { getActiveTeam } from "@/lib/teams";
 
 const team = getActiveTeam();
 
+const SITE_URL = "https://palmeiras-korea-dashboard.vercel.app";
+const SITE_TITLE = "파우메이라스 코리아 대시보드 | Palmeiras Korea Dashboard";
+const SITE_DESCRIPTION =
+  "한국 팬을 위한 소시에다지 에스포르치바 파우메이라스(SE Palmeiras) 정보 대시보드 — 일정, 결과, 스쿼드, 순위, 뉴스, 팬 가이드를 한국 시간 기준으로 제공합니다.";
+const SOCIAL_IMAGE = {
+  url: "/teams/palmeiras/crest.png",
+  width: 500,
+  height: 500,
+  alt: "Sociedade Esportiva Palmeiras 엠블럼",
+};
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "파우메이라스 코리아 대시보드 | Palmeiras Korea Dashboard",
+    default: SITE_TITLE,
     template: "%s | 파우메이라스 코리아",
   },
-  description:
-    "한국 팬을 위한 소시에다지 에스포르치바 파우메이라스(SE Palmeiras) 정보 대시보드 — 일정, 결과, 스쿼드, 순위, 뉴스, 팬 가이드를 한국 시간 기준으로 제공합니다.",
+  description: SITE_DESCRIPTION,
   applicationName: "Palmeiras Korea Dashboard",
   appleWebApp: {
     capable: true,
@@ -33,6 +44,23 @@ export const metadata: Metadata = {
     "축구",
     "브라질",
   ],
+  // Social previews — the app is meant to be shared among Korean fans
+  // (KakaoTalk / X), so a proper card matters.
+  openGraph: {
+    type: "website",
+    locale: "ko_KR",
+    url: SITE_URL,
+    siteName: "파우메이라스 코리아 대시보드",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    images: [SOCIAL_IMAGE],
+  },
+  twitter: {
+    card: "summary",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    images: [SOCIAL_IMAGE.url],
+  },
 };
 
 export const viewport: Viewport = {

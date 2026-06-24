@@ -48,10 +48,15 @@ export function MatchCard({
   const kst = toKST(match.kickoff);
   const br = toBrazil(match.kickoff);
   const finished = match.status === "finished" && match.score;
+  const live = match.status === "live";
+  const showScore = (match.status === "finished" || live) && match.score;
   const tracked = ACTIVE_TEAM_ID;
   const homeTracked = match.home.id === tracked;
   const awayTracked = match.away.id === tracked;
   const insight = showInsight ? matchInsight(match, getActiveTeam()) : null;
+  const goals = (match.events ?? []).filter(
+    (e) => e.type === "goal" || e.type === "penalty",
+  );
 
   return (
     <article className="pm-card p-4">
@@ -63,7 +68,15 @@ export function MatchCard({
           <span className="text-[var(--pm-muted)]">
             {VENUE_KO[match.venue]} · {match.round ?? ""}
           </span>
-          {finished ? (
+          {live ? (
+            <span
+              className="pm-chip inline-flex items-center gap-1 bg-rose-600 font-bold text-white"
+              aria-label="진행 중"
+            >
+              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white" />
+              LIVE
+            </span>
+          ) : finished ? (
             <ResultPill match={match} />
           ) : (
             <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
@@ -82,8 +95,12 @@ export function MatchCard({
           align="start"
         />
         <div className="flex min-w-[64px] flex-col items-center">
-          {finished ? (
-            <span className="text-xl font-extrabold tabular-nums">
+          {showScore ? (
+            <span
+              className={`text-xl font-extrabold tabular-nums ${
+                live ? "text-rose-600" : ""
+              }`}
+            >
               {match.score!.home} : {match.score!.away}
             </span>
           ) : (
@@ -118,22 +135,40 @@ export function MatchCard({
         </p>
       ) : null}
 
-      {finished && (!match.events || match.events.length === 0) ? (
+      {(finished || live) && goals.length === 0 ? (
         <p className="mt-2 text-xs italic text-[var(--pm-muted)]">
-          경기 이벤트 상세 정보가 제공되지 않습니다.
+          {live
+            ? "득점 정보가 아직 없습니다."
+            : "경기 이벤트 상세 정보가 제공되지 않습니다."}
         </p>
       ) : null}
 
-      {match.events && match.events.length > 0 ? (
-        <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-[var(--pm-muted)]">
-          {match.events
-            .filter((e) => e.type === "goal" || e.type === "penalty")
-            .map((e, i) => (
-              <li key={i}>
+      {goals.length > 0 ? (
+        <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs">
+          {goals.map((e, i) => {
+            const scorerTeamId =
+              e.team === "home" ? match.home.id : match.away.id;
+            const byTracked = scorerTeamId === tracked;
+            return (
+              <li
+                key={i}
+                className={
+                  byTracked
+                    ? "font-semibold text-[var(--pm-primary)]"
+                    : "text-[var(--pm-muted)]"
+                }
+              >
                 ⚽ {e.minute}&apos; {e.player}
-                {e.team === "home" ? "" : ""}
+                {e.type === "penalty" ? " (PK)" : ""}
+                {e.detail ? (
+                  <span className="font-normal text-[var(--pm-muted)]">
+                    {" "}
+                    (도움 {e.detail})
+                  </span>
+                ) : null}
               </li>
-            ))}
+            );
+          })}
         </ul>
       ) : null}
 

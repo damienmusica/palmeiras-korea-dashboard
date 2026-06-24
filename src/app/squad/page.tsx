@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { getSquad } from "@/lib/adapters";
+import { getActiveTeam } from "@/lib/teams";
 import { SquadView } from "@/components/squad/SquadView";
+import { TacticsProfile } from "@/components/squad/TacticsProfile";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 
@@ -14,6 +16,7 @@ export const revalidate = 300;
 
 export default async function SquadPage() {
   const squad = await getSquad();
+  const team = getActiveTeam();
   return (
     <div className="space-y-4">
       <SectionHeading
@@ -29,6 +32,7 @@ export default async function SquadPage() {
           />
         }
       />
+      {team.tactics ? <TacticsProfile tactics={team.tactics} /> : null}
       <SquadView players={squad.data.players} coach={squad.data.coach} />
     </div>
   );
