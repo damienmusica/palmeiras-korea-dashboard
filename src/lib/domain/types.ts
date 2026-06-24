@@ -102,6 +102,27 @@ export interface RivalEntry {
   context: string;
 }
 
+/**
+ * A club legend / notable figure a newcomer should know. Covers both all-time
+ * icons and recent impactful players who moved on (kept as history, not deleted).
+ * All facts are hand-researched and verified during the build phase.
+ */
+export interface LegendEntry {
+  name: string;
+  nameKo: string;
+  /** Korean nickname, e.g. "오 디비누 (신성)". */
+  nicknameKo?: string;
+  /** Years at the club, e.g. "1961–1977". */
+  era: string;
+  positionKo: string;
+  /** "icon" = all-time great; "recent" = recent notable departure. */
+  group: "icon" | "recent";
+  /** Why this player matters, in Korean (verified facts). */
+  whyKo: string;
+  /** For recent departures: where they went, e.g. "레알 마드리드 (2024)". */
+  movedToKo?: string;
+}
+
 export interface StadiumInfo {
   name: string;
   nameKo: string;
@@ -119,6 +140,27 @@ export interface TrophySummary {
   count: number;
   /** Most recent winning year, when notable. */
   lastWon?: number;
+}
+
+/** One milestone era in the club's history (hand-researched, verified). */
+export interface HistoryEra {
+  /** Year or span, e.g. "1914", "1959–1974". */
+  period: string;
+  titleKo: string;
+  bodyKo: string;
+}
+
+/** A detailed honour line with the exact winning years. */
+export interface HonourLine {
+  competitionKo: string;
+  competition: string;
+  count: number;
+  /** Winning years, formatted, e.g. "1999, 2020, 2021". */
+  yearsKo: string;
+  /** Scope label: 대륙 / 전국 / 국내컵 / 주(州) / 국제. */
+  tierKo: string;
+  /** Optional caveat (e.g. disputed / nuance). */
+  noteKo?: string;
 }
 
 /** The single source of truth that makes the app multi-team-ready. */
@@ -146,6 +188,12 @@ export interface TeamConfig {
   officialLinks: OfficialLink[];
   trophies: TrophySummary[];
   rivals: RivalEntry[];
+  /** Club legends & notable recent departures (history a newcomer should know). */
+  legends?: LegendEntry[];
+  /** Milestone history timeline. */
+  history?: HistoryEra[];
+  /** Detailed honours with exact winning years. */
+  honours?: HonourLine[];
   /** Korean pronunciation / naming notes for the club. */
   nameNotes: string[];
   glossary: GlossaryEntry[];
@@ -167,6 +215,8 @@ export interface PlayerSeasonStats {
   redCards?: number;
   minutes?: number;
   cleanSheets?: number; // GK
+  saves?: number; // GK
+  goalsConceded?: number; // GK
 }
 
 export interface Player {

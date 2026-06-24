@@ -19,6 +19,7 @@
 import { writeFileSync, mkdirSync, existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { llmEnrichNews, llmEnabled } from "./llm.mjs";
+import { fetchEspnRoster, enrichSquadWithEspn } from "./espn-squad.mjs";
 
 const DATA_DIR = join(process.cwd(), "data");
 // Bias to the football club (the bare name "Palmeiras" also matches unrelated
@@ -407,56 +408,10 @@ async function ingestStandings() {
   });
   table.sort((a, b) => a.rank - b.rank);
 
-  // Top scorers / assisters: API-Football (free plan allows up to 2024). The
-  // names are stored raw; the app derives Korean deterministically. Reuse the
-  // previous snapshot's leaders if the API is unavailable (quota/no key).
-  const prevStandings = readData("standings.json");
-  let topScorers = prevStandings?.topScorers || [];
-  let topAssisters = prevStandings?.topAssisters || [];
-  let leadersSeason = prevStandings?.leadersSeason;
-  const key = process.env.API_FOOTBALL_KEY;
-  if (key) {
-    const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
-    const H = { headers: { "x-apisports-key": key } };
-    const SEASON = "2024"; // free-plan ceiling
-    const mapLeaders = (resp, metric) =>
-      (resp?.response || []).slice(0, 5).map((r) => ({
-        playerName: r.player?.name || "",
-        playerNameKo: r.player?.name || "", // app overrides via koreanName()
-        value:
-          (r.statistics || []).reduce(
-            (n, s) =>
-              n +
-              (metric === "assists"
-                ? s.goals?.assists || 0
-                : s.goals?.total || 0),
-            0,
-          ) || 0,
-      }));
-    try {
-      const sc = await getJson(
-        `https://${host}/players/topscorers?league=71&season=${SEASON}`,
-        H,
-      );
-      const as = await getJson(
-        `https://${host}/players/topassists?league=71&season=${SEASON}`,
-        H,
-      );
-      const scMapped = mapLeaders(sc, "goals");
-      const asMapped = mapLeaders(as, "assists");
-      if (scMapped.length) {
-        topScorers = scMapped;
-        leadersSeason = SEASON;
-      }
-      if (asMapped.length) {
-        topAssisters = asMapped;
-        leadersSeason = SEASON;
-      }
-    } catch (err) {
-      log("top scorers/assists fetch failed (keeping previous):", err.message);
-    }
-  }
-
+  // Individual scorer/assist records are shown on the standings page from the
+  // CURRENT-season squad snapshot (ESPN), so we no longer fetch a stale
+  // league-wide 2024 list from API-Football here (keeps the data honest +
+  // drops an API call). The fields are kept empty for schema compatibility.
   writeData("standings.json", {
     origin: "api",
     source: "ESPN (현재 시즌)",
@@ -464,13 +419,10 @@ async function ingestStandings() {
     season: String(data?.season?.year || new Date().getFullYear()),
     competition: BRASILEIRAO,
     table,
-    topScorers,
-    topAssisters,
-    leadersSeason,
+    topScorers: [],
+    topAssisters: [],
   });
-  log(
-    `wrote data/standings.json (${table.length} teams, ${topScorers.length} scorers)`,
-  );
+  log(`wrote data/standings.json (${table.length} teams)`);
 }
 
 // --- ESPN matches (free, current) -------------------------------------------
@@ -622,7 +574,7 @@ async function ingestMatches() {
   );
 }
 
-// --- API-Football full real squad (current roster + 2024 stats) -------------
+// --- Real squad (API-Football roster + ESPN current-season stats) -----------
 
 const POS_GROUP = {
   Goalkeeper: "GK",
@@ -683,10 +635,65 @@ function aggStats(detail) {
   };
 }
 
+/** Strip a previously-appended " + ESPN …" suffix to recover the base source. */
+function baseSourceOf(snap) {
+  return (snap?.source || "스쿼드 스냅샷").split(" + ESPN")[0];
+}
+
+/**
+ * Refresh current-season stats from the keyless ESPN roster, then write
+ * squad.json. Runs for both the API-Football path (key present) and the
+ * cached-roster path (no key), so the squad always shows the CURRENT season's
+ * appearances/goals/assists instead of API-Football's free-plan 2024 ceiling.
+ */
+async function enrichAndWriteSquad(players, coach, baseSource) {
+  let statsSeason = "2024";
+  let source = baseSource;
+  let outPlayers = players;
+  try {
+    const { athletes, season } = await fetchEspnRoster();
+    const r = enrichSquadWithEspn(players, athletes, season);
+    outPlayers = r.players;
+    statsSeason = season;
+    source = `${baseSource} + ESPN ${season} 시즌 스탯`;
+    log(
+      `ESPN stats: matched ${r.matched}/${outPlayers.length}, nat+${r.natFilled}, dob+${r.dobFilled}`,
+    );
+  } catch (err) {
+    log("ESPN stats enrichment failed (keeping existing stats):", err.message);
+  }
+  const withPhoto = outPlayers.filter((p) => p.photo).length;
+  const withStats = outPlayers.filter((p) => p.stats && p.stats.length).length;
+  writeData("squad.json", {
+    origin: "api",
+    source,
+    fetchedAt: new Date().toISOString(),
+    statsSeason,
+    players: outPlayers,
+    coach,
+  });
+  log(
+    `wrote data/squad.json (${outPlayers.length} players, ${withPhoto} photos, ${withStats} w/ ${statsSeason} stats, coach: ${coach.nameKo})`,
+  );
+}
+
 async function ingestSquad() {
   const key = process.env.API_FOOTBALL_KEY;
   if (!key) {
-    log("no API_FOOTBALL_KEY — skipping squad (app uses seed)");
+    // No API-Football key: keep the last roster snapshot but still refresh the
+    // current-season stats from the keyless ESPN source, so the squad stays
+    // current without any paid/keyed dependency.
+    const prevSquad = readData("squad.json");
+    if (!prevSquad?.players?.length || !prevSquad.coach) {
+      log("no API_FOOTBALL_KEY and no cached squad — skipping (app uses seed)");
+      return;
+    }
+    log("no API_FOOTBALL_KEY — refreshing ESPN current-season stats on cache");
+    await enrichAndWriteSquad(
+      prevSquad.players,
+      prevSquad.coach,
+      baseSourceOf(prevSquad),
+    );
     return;
   }
   const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
@@ -824,19 +831,7 @@ async function ingestSquad() {
     log("coach fetch failed:", err.message);
   }
 
-  const withPhoto = players.filter((p) => p.photo).length;
-  const withStats = players.filter((p) => p.stats).length;
-  writeData("squad.json", {
-    origin: "api",
-    source: "API-Football 현재 스쿼드",
-    fetchedAt: new Date().toISOString(),
-    statsSeason: "2024",
-    players,
-    coach,
-  });
-  log(
-    `wrote data/squad.json (${players.length} players, ${withPhoto} photos, ${withStats} w/ 2024 stats, coach: ${coach.nameKo})`,
-  );
+  await enrichAndWriteSquad(players, coach, "API-Football 스쿼드");
 }
 
 // --- main -------------------------------------------------------------------

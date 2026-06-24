@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { getActiveTeam } from "@/lib/teams";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { GlossaryView } from "@/components/guide/GlossaryView";
+import { LegendsView } from "@/components/guide/LegendsView";
+import { HistoryTimeline, HonoursList } from "@/components/guide/HistoryView";
 import { CompetitionPrimer } from "@/components/fixtures/CompetitionPrimer";
 
 export const metadata: Metadata = {
@@ -57,6 +59,34 @@ export default function GuidePage() {
         </div>
       </section>
 
+      {/* 2.5 Club history timeline */}
+      {team.history && team.history.length > 0 ? (
+        <section aria-labelledby="history-heading" className="space-y-3">
+          <h2 id="history-heading" className="text-lg font-extrabold">
+            📜 클럽의 역사 (한눈에 보는 110년)
+          </h2>
+          <p className="text-sm text-[var(--pm-muted)]">
+            창단부터 오늘까지, 파우메이라스를 이해하는 데 꼭 필요한 결정적
+            순간들입니다.
+          </p>
+          <HistoryTimeline history={team.history} />
+        </section>
+      ) : null}
+
+      {/* 2.6 Detailed honours */}
+      {team.honours && team.honours.length > 0 ? (
+        <section aria-labelledby="honours-heading" className="space-y-3">
+          <h2 id="honours-heading" className="text-lg font-extrabold">
+            🏆 우승 연혁 (연도별)
+          </h2>
+          <p className="text-sm text-[var(--pm-muted)]">
+            파우메이라스가 ‘남미를 대표하는 빅클럽’으로 불리는 이유 — 주요 공식
+            타이틀을 연도와 함께 정리했습니다.
+          </p>
+          <HonoursList honours={team.honours} />
+        </section>
+      ) : null}
+
       {/* 3. Stadium */}
       <section aria-labelledby="stadium-heading" className="space-y-3">
         <h2 id="stadium-heading" className="text-lg font-extrabold">
@@ -102,6 +132,20 @@ export default function GuidePage() {
           ))}
         </div>
       </section>
+
+      {/* 4.5 Legends & history */}
+      {team.legends && team.legends.length > 0 ? (
+        <section aria-labelledby="legends-heading" className="space-y-3">
+          <h2 id="legends-heading" className="text-lg font-extrabold">
+            🏅 레전드 & 명예의 전당
+          </h2>
+          <p className="text-sm text-[var(--pm-muted)]">
+            파우메이라스의 역사를 만든 인물들. 한 클럽을 이해하려면 지금의
+            스쿼드만큼 ‘누가 이 팀을 위대하게 만들었는가’도 알아야 합니다.
+          </p>
+          <LegendsView legends={team.legends} />
+        </section>
+      ) : null}
 
       {/* 5. Competition hierarchy */}
       <section aria-labelledby="comp-heading" className="space-y-3">

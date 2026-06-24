@@ -46,8 +46,8 @@ describe("adapters (no keys → labeled seed data)", () => {
   });
 
   it("getPlayer finds a known player and null for unknown", async () => {
-    const known = await getPlayer("estevao");
-    expect(known.data?.id).toBe("estevao");
+    const known = await getPlayer("vitor-roque");
+    expect(known.data?.id).toBe("vitor-roque");
     const missing = await getPlayer("does-not-exist");
     expect(missing.data).toBeNull();
   });

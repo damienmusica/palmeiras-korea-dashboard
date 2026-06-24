@@ -97,25 +97,32 @@ export function SquadView({
         >
           코칭스태프
         </h3>
-        <div className="pm-card flex items-center gap-3 p-4">
-          <span
-            className="flex h-12 w-12 items-center justify-center rounded-xl bg-[var(--pm-primary)] text-xl text-white"
-            aria-hidden="true"
-          >
-            🎯
-          </span>
-          <div>
-            <p className="font-bold">
-              {coach.nameKo}{" "}
-              <span className="text-sm font-normal text-[var(--pm-muted)]">
-                {coach.name}
-              </span>
-            </p>
-            <p className="text-xs text-[var(--pm-muted)]">
-              {coach.roleKo} · {coach.nationalityKo}
-              {coach.since ? ` · 부임 ${coach.since.slice(0, 4)}` : ""}
-            </p>
+        <div className="pm-card space-y-2 p-4">
+          <div className="flex items-center gap-3">
+            <span
+              className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-[var(--pm-primary)] text-xl text-white"
+              aria-hidden="true"
+            >
+              🎯
+            </span>
+            <div>
+              <p className="font-bold">
+                {coach.nameKo}{" "}
+                <span className="text-sm font-normal text-[var(--pm-muted)]">
+                  {coach.name}
+                </span>
+              </p>
+              <p className="text-xs text-[var(--pm-muted)]">
+                {coach.roleKo} · {coach.nationalityKo}
+                {coach.since ? ` · 부임 ${coach.since.slice(0, 4)}` : ""}
+              </p>
+            </div>
           </div>
+          {coach.bio ? (
+            <p className="text-sm leading-relaxed text-[var(--pm-ink)]">
+              {coach.bio}
+            </p>
+          ) : null}
         </div>
       </section>
 

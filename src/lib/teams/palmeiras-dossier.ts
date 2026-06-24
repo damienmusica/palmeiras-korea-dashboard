@@ -224,17 +224,166 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "시리아 국가대표급 공격 자원으로, 스쿼드에 색다른 옵션을 더합니다.",
   },
   jarias: {
-    // Fact-only (verified nationality/birthdate); narrative uses position template.
     nationality: "CO",
     nationalityKo: "콜롬비아",
     birthDate: "1997-09-21",
     heightCm: 170,
+    roleKo: "창의적인 윙어 / 공격형 미드필더",
+    styleKo:
+      "빠른 스피드와 탄탄한 체격, 영리한 의사결정으로 측면과 중앙을 오가며 찬스를 만듭니다.",
+    whyCareKo:
+      "플루미넨시의 2023 리베르타도레스 우승 주역이자 콜롬비아 국가대표. 2026년 울버햄프턴에서 약 €2,500만(구단 최고액급)에 영입된 즉시전력입니다.",
+    narrativeKo: "남미를 평정하고 유럽을 거쳐 합류한 검증된 공격 옵션.",
+    nameNoteKo:
+      "‘존 아리아스’ — Jhon은 영어 John의 콜롬비아식 표기로 ‘존’에 가깝습니다.",
+    bioKo:
+      "2021~2025년 플루미넨시에서 230경기 47골 55도움을 기록하며 2023년 코파 리베르타도레스 우승을 이끌었고, 울버햄프턴(잉글랜드)을 거쳐 2026년 파우메이라스에 합류했습니다. 콜롬비아 대표팀의 주축 공격수입니다.",
+  },
+  mauricio: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2001-06-22",
+    roleKo: "2선 침투형 공격형 미드필더",
+    styleKo:
+      "박스 안으로 적극 침투해 득점에 가담하고, 왼발 슈팅과 부지런한 오프더볼 움직임이 강점입니다.",
+    whyCareKo:
+      "2024년 인테르나시오나우에서 약 R$5천만(브라질 기록급 이적료)에 영입된 브라질 영건. 득점·도움을 고루 올리는 2선 자원입니다.",
+    narrativeKo:
+      "큰 이적료에 걸맞은 활약을 증명해가는 과정 — 연령별 대표팀에서 엔드릭과 호흡을 맞춘 또래입니다.",
+    bioKo:
+      "인테르나시오나우에서 176경기 25골 25도움을 기록하며 성장한 뒤 2024년 파우메이라스로 이적했습니다. 측면과 중앙 2선을 오가며 공격 포인트를 만들어내는 멀티 공격 자원입니다.",
+  },
+  jefte: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2003-12-21",
+    roleKo: "공격적인 왼쪽 풀백",
+    styleKo:
+      "스스로 ‘공격형 풀백’을 자처할 만큼 적극적인 오버래핑과 일대일 돌파, 측면 공간 침투가 강점입니다.",
+    whyCareKo:
+      "플루미넨시 유스 출신으로 키프로스(APOEL)·스코틀랜드(레인저스)를 거쳐 2025년 합류한 측면 자원. 주전 피케레스와 왼쪽을 두고 경쟁합니다.",
+    narrativeKo: "유럽을 거쳐 돌아온 젊은 풀백 — 피케레스의 대안이자 미래.",
+    bioKo:
+      "플루미넨시 U-20에서 두각을 나타냈으나 1군 데뷔 전 키프로스 APOEL로 이적해 리그 최우수 왼쪽 풀백에 선정됐고, 이후 스코틀랜드 레인저스에서 56경기를 뛰었습니다. 2025년 파우메이라스에 합류했습니다.",
+  },
+  allan: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2004-04-19",
+    roleKo: "다재다능한 2선·측면 공격수 (아카데미 산실)",
+    styleKo:
+      "왼발잡이로 측면 윙어·공격형 미드필더·전방을 두루 소화하는 다재다능함과 탈압박 능력이 돋보입니다.",
+    whyCareKo:
+      "산타카타리나 출신으로 15세부터 성장한 ‘크리아 다 아카데미아(아카데미 산실)’. 2025년 브라질 신인왕(보라 지 프라타)에 선정됐습니다.",
+    narrativeKo:
+      "차세대 거액 이적 후보로 꼽히는 파우메이라스 유스의 또 다른 보석.",
+    bioKo:
+      "플로리아노폴리스에서 태어나 15세에 파우메이라스 유스에 합류했습니다. 2025년 프로 첫 시즌부터 빠르게 자리잡으며 아벨 페헤이라의 핵심 옵션이 됐고, 엔드릭(2023)·에스테벙(2024)에 이어 3년 연속 아카데미 출신 신인왕 수상자가 됐습니다.",
+  },
+  lucasevangelista: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "1995-05-06",
+    roleKo: "박스 투 박스 중앙 미드필더",
+    styleKo:
+      "준수한 활동량과 패스 전개, 공수 연결 능력을 갖춘 중원의 살림꾼입니다.",
+    whyCareKo:
+      "상파울루 유스 출신으로 우디네세 등 유럽을 거쳐, 2025년 RB 브라간치누에서 영입된 경험 많은 미드필더입니다.",
+    bioKo:
+      "리메이라 출신으로 상파울루에서 프로에 데뷔한 뒤 우디네세(이탈리아)·낭트·기마랑이스·파나티나이코스 등 유럽을 두루 경험했습니다. RB 브라간치누에서 214경기를 뛴 뒤 2025년 파우메이라스에 합류했습니다.",
+  },
+  murilo: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "1997-03-27",
+    heightCm: 188,
+    roleKo: "왼발잡이 주전 센터백",
+    styleKo:
+      "왼발 빌드업과 제공권, 세트피스 득점력까지 갖춘 공격적인 수비수입니다.",
+    whyCareKo:
+      "크루제이루 유스 출신으로 러시아 로코모치바 모스크바를 거쳐 2022년 합류, 구스타보 고메스와 함께 수비의 핵을 이룹니다.",
+    narrativeKo:
+      "이적 당시 큰 주목을 받진 못했지만 주전으로 자리잡아 ‘아벨의 영입 성공작’으로 평가받습니다.",
+    bioKo:
+      "크루제이루에서 성장해 2019년 로코모치바 모스크바로 이적, 71경기를 뛰며 러시아컵 우승을 경험했습니다. 2022년 파우메이라스 합류 첫 시즌 구스타보 고메스와 함께 한 시즌 11골을 넣으며 클럽 센터백 최다 득점 기록에 이름을 올렸습니다.",
+  },
+  arthur: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2005-09-04",
+    heightCm: 177,
+    roleKo: "공격적인 왼쪽 풀백 (아카데미 산실)",
+    styleKo:
+      "좁은 공간에서의 탈압박과 정확한 패스·크로스가 강점인 기술적인 왼쪽 풀백입니다.",
+    whyCareKo:
+      "2017년 입단한 ‘크리아 다 아카데미아’. U-20 전국 2연패 등 유스를 휩쓸고 2026년 1군에 데뷔해 피케레스·제프테와 왼쪽을 두고 경쟁하는 미래 자원입니다.",
+    narrativeKo:
+      "보루시아 도르트문트·브렌트포드 등 유럽이 주시하는 차세대 풀백.",
+  },
+  luighihanri: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    roleKo: "유망한 영건 공격수 (아카데미 산실)",
+    styleKo:
+      "골문 앞 위치 선정과 침착한 마무리가 돋보이는 정통 골잡이 유형입니다.",
+    whyCareKo:
+      "2016년부터 유스를 거친 ‘크리아 다 아카데미아’로, 모든 연령별 카테고리에서 우승과 득점왕을 휩쓴 골잡이입니다. 2023년 U-17에서 22경기 21골을 몰아치며 아벨 페헤이라의 부름을 받아 1군에 합류했습니다.",
+    narrativeKo:
+      "바이아웃 8,000만 유로가 걸린 차세대 스트라이커 — 1군 정착이 다음 과제입니다.",
+  },
+  larson: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    roleKo: "활동량형 중앙 미드필더 (볼란치)",
+    styleKo:
+      "중원에서 볼을 회수하고 공수를 연결하는 부지런한 박스 투 박스 유형입니다.",
+    whyCareKo:
+      "펠로타스 출신으로 고이아스 U-20에서 두각을 나타내 2025년 합류한 ‘가성비 영입’. 2025년 U-20 전국 우승 멤버로, 아벨 페헤이라가 1군으로 끌어올려 2030년까지 계약했습니다.",
+    narrativeKo: "이름은 스웨덴의 전설 헨리크 라르손에서 따왔습니다.",
+  },
+  ramonriquelme: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2006-01-31",
+    heightCm: 182,
+    roleKo: "장신 영건 공격수 (아카데미 산실)",
+    styleKo: "큰 키와 오른발 마무리를 앞세운 정통 골잡이 유형입니다.",
+    whyCareKo:
+      "2017년 입단한 ‘크리아 다 아카데미아’로, U-20 전국 우승과 코피냐·U-20 리베르타도레스 득점왕을 휩쓴 골잡이입니다. 2025년 1군에 데뷔했고 바이아웃이 1억 유로로 책정될 만큼 기대받습니다.",
+    narrativeKo: "제니트 등 유럽이 주시하는 차세대 스트라이커.",
   },
 };
+
+// The live API roster sometimes uses an abbreviated first initial (e.g.
+// "G. Gómez") while a dossier may be keyed by the full name. Alias the
+// abbreviated normalized forms so the lookup still hits.
+DOSSIERS.ggomez = DOSSIERS.gustavogomez;
 
 /** Look up a curated dossier by player name (normalized). */
 export function getDossier(name: string): PlayerDossier | null {
   return DOSSIERS[normKey(name)] ?? null;
+}
+
+// --- Coach dossiers ----------------------------------------------------------
+
+export interface CoachDossier {
+  /** ISO date the coach took charge. */
+  since?: string;
+  /** Longer Korean context paragraph. */
+  bioKo: string;
+}
+
+const COACH_DOSSIERS: Record<string, CoachDossier> = {
+  abelferreira: {
+    since: "2020-11-03",
+    bioKo:
+      "포르투갈 출신 감독으로, 선수 시절 수비수로 뛴 뒤 스포르팅 유스·브라가·PAOK(그리스)를 거쳐 2020년 11월 파우메이라스에 부임했습니다. 부임 직후 코파 두 브라질(2020)과 리베르타도레스 2연패(2020·2021), 전국 리그 2연패(2022·2023)를 이끌며 클럽 역사상 한 번의 부임 기간 기준 최장수 감독이자, 주(州)·전국·대륙 타이틀을 모두 따낸 첫 감독이 됐습니다. 견고한 수비 조직과 빠른 전환, 강한 압박을 바탕으로 한 실리적 운영, 그리고 뜨거운 터치라인 매너로 유명합니다.",
+  },
+};
+
+/** Curated context for a coach (by normalized name). */
+export function getCoachDossier(name: string): CoachDossier | null {
+  return COACH_DOSSIERS[normKey(name)] ?? null;
 }
 
 /** True when this dossier carries editorial narrative (not just facts). */

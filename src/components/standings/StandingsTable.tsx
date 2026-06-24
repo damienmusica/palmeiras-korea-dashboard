@@ -99,7 +99,16 @@ export function StandingsTable({ standings }: { standings: Standings }) {
               </td>
               <td className="px-3 py-2">
                 <div className="flex justify-center">
-                  <FormBadges form={row.form} size="sm" />
+                  {row.form.length > 0 ? (
+                    <FormBadges form={row.form} size="sm" />
+                  ) : (
+                    <span
+                      className="text-xs text-[var(--pm-muted)]"
+                      title="최근 폼 데이터 미제공"
+                    >
+                      —
+                    </span>
+                  )}
                 </div>
               </td>
             </tr>

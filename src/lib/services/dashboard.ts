@@ -13,6 +13,7 @@ import type {
 } from "@/lib/domain/types";
 import { recentForm, summarizeSeason } from "@/lib/format/stats";
 import { dayOffsetInZone, KST_TIMEZONE } from "@/lib/format/datetime";
+import { newsCategory } from "@/lib/interpret/news";
 import { SEED_SEASON } from "@/lib/data/palmeiras-seed";
 
 export interface DashboardModel {
@@ -84,6 +85,8 @@ export function buildChangeLog(
   }
 
   for (const n of news) {
+    // Keep the flagship "what changed" focused on the senior team.
+    if (newsCategory(n) !== "senior") continue;
     const offset = dayOffsetInZone(n.publishedAt, KST_TIMEZONE, now);
     if (offset !== 0) continue;
     entries.push({

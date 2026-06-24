@@ -1,5 +1,10 @@
 import { describe, it, expect } from "vitest";
-import { classifyReliability, enrichNews, RELIABILITY_META } from "./news";
+import {
+  classifyReliability,
+  enrichNews,
+  newsCategory,
+  RELIABILITY_META,
+} from "./news";
 import { competitionContext, allCompetitionContexts } from "./competitions";
 import { matchInsight } from "./matches";
 import { playerInsight } from "./players";
@@ -59,6 +64,61 @@ describe("enrichNews", () => {
     expect(out.whyItMattersKo).toBe("EDITORIAL");
     expect(out.fanTakeKo).toBe("TAKE");
     expect(out.reliability).toBe("official");
+  });
+});
+
+describe("newsCategory", () => {
+  const item = (title: string, summaryKo = ""): NewsItem => ({
+    id: "x",
+    title,
+    summaryKo,
+    url: "https://example.com",
+    source: "src",
+    language: "pt",
+    publishedAt: "2026-06-20T00:00:00Z",
+  });
+
+  it("classifies youth (Sub-XX / U-XX) items as 'other'", () => {
+    expect(
+      newsCategory(
+        item("Palmeiras e Fluminense mantém 100% no Brasileirão Sub-17 - CBF"),
+      ),
+    ).toBe("other");
+    expect(newsCategory(item("Sub-20 do Verdão goleia América-MG"))).toBe(
+      "other",
+    );
+    expect(newsCategory(item("Verdão estreia na Copinha U-20"))).toBe("other");
+    // Korean summary signal also counts (live items summarise as "U17").
+    expect(
+      newsCategory(item("Verdão vence fora", "파우메이라스 U17 선두 유지")),
+    ).toBe("other");
+  });
+
+  it("classifies women's-team (feminino) items as 'other'", () => {
+    expect(
+      newsCategory(item("Palmeiras recebe Brothers FC pelo Paulista Feminino")),
+    ).toBe("other");
+  });
+
+  it("classifies academy ('da base') items as 'other'", () => {
+    expect(
+      newsCategory(item("Palmeiras rompe contrato com promessa da base")),
+    ).toBe("other");
+  });
+
+  it("classifies senior-team news as 'senior' by default", () => {
+    expect(
+      newsCategory(
+        item("Palmeiras mantém plano para a janela de transferências"),
+      ),
+    ).toBe("senior");
+    expect(
+      newsCategory(item("Abel Ferreira projeta sequência no Brasileirão")),
+    ).toBe("senior");
+    // Tricky words that merely start with "sub" must NOT be mistaken for youth.
+    expect(newsCategory(item("Palmeiras subiu para a liderança"))).toBe(
+      "senior",
+    );
   });
 });
 
@@ -136,10 +196,10 @@ describe("playerInsight", () => {
     availability: "available",
   };
   it("uses editorial content for known players", () => {
-    const estevao: Player = { ...generic, id: "estevao" };
-    const i = playerInsight(estevao);
+    const lopez: Player = { ...generic, id: "flaco-lopez" };
+    const i = playerInsight(lopez);
     expect(i.source).toBe("editorial");
-    expect(i.whyCareKo).toContain("메시뉴");
+    expect(i.whyCareKo).toContain("플라코");
   });
   it("falls back to a position template for unknown players", () => {
     const i = playerInsight(generic);
