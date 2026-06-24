@@ -17,12 +17,31 @@ import { newsCategory } from "@/lib/interpret/news";
 import { SEED_SEASON } from "@/lib/data/palmeiras-seed";
 
 export interface DashboardModel {
+  /** A match currently in progress (or just kicked off, feed lagging). */
+  liveMatch: Match | null;
   nextMatch: Match | null;
   lastResult: Match | null;
   recentMatches: Match[];
   form: ReturnType<typeof recentForm>;
   season: SeasonSummary;
   changeLog: ChangeLogEntry[];
+}
+
+/**
+ * A full match plus stoppage time comfortably fits in ~3h. A non-finished match
+ * whose kickoff falls inside this trailing window is treated as in-progress —
+ * this catches both an explicit "live" status and a "scheduled" match the feed
+ * hasn't flipped yet, so an in-progress game never silently disappears from the
+ * home view (it previously fell out of both the upcoming and finished buckets).
+ */
+const LIVE_WINDOW_MS = 3 * 60 * 60 * 1000;
+
+function isInProgress(m: Match, nowMs: number): boolean {
+  if (m.status === "live") return true;
+  if (m.status === "finished" || m.status === "postponed") return false;
+  const k = new Date(m.kickoff).getTime();
+  if (Number.isNaN(k)) return false;
+  return k <= nowMs && nowMs - k <= LIVE_WINDOW_MS;
 }
 
 export function buildDashboard(
@@ -37,13 +56,22 @@ export function buildDashboard(
     a.kickoff.localeCompare(b.kickoff),
   );
 
+  const liveMatch = sorted.find((m) => isInProgress(m, nowMs)) ?? null;
   const upcoming = sorted.filter(
-    (m) => m.status !== "finished" && new Date(m.kickoff).getTime() >= nowMs,
+    (m) =>
+      m.status !== "finished" &&
+      !isInProgress(m, nowMs) &&
+      new Date(m.kickoff).getTime() >= nowMs,
   );
   const finished = sorted.filter((m) => m.status === "finished");
 
   const nextMatch = upcoming[0] ?? null;
-  const lastResult = finished[finished.length - 1] ?? null;
+  // The "result" reading needs a score — pick the most recent finished match
+  // that actually has one (don't surface a finished-but-scoreless data glitch).
+  const lastResult =
+    [...finished].reverse().find((m) => m.score) ??
+    finished[finished.length - 1] ??
+    null;
   const recentMatches = finished.slice(-5).reverse();
 
   const form = recentForm(matches, teamId, 5);
@@ -51,7 +79,15 @@ export function buildDashboard(
 
   const changeLog = buildChangeLog(teamId, matches, news, standings, now);
 
-  return { nextMatch, lastResult, recentMatches, form, season, changeLog };
+  return {
+    liveMatch,
+    nextMatch,
+    lastResult,
+    recentMatches,
+    form,
+    season,
+    changeLog,
+  };
 }
 
 /** "What changed today" — items dated to the current KST day. */

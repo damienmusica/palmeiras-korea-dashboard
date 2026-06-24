@@ -68,6 +68,20 @@ export default async function HomePage() {
         <QuickStats season={model.season} tracked={tracked} />
       </section>
 
+      {/* Live match takes priority — never let an in-progress game disappear */}
+      {model.liveMatch ? (
+        <section aria-labelledby="live-heading" className="space-y-3">
+          <h2
+            id="live-heading"
+            className="flex items-center gap-2 text-sm font-bold text-rose-600"
+          >
+            <span className="h-2 w-2 animate-pulse rounded-full bg-rose-600" />
+            지금 진행 중
+          </h2>
+          <MatchCard match={model.liveMatch} />
+        </section>
+      ) : null}
+
       {/* Next + last match */}
       <section aria-labelledby="matches-heading" className="space-y-3">
         <SectionHeading
