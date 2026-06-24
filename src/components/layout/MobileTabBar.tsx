@@ -9,6 +9,7 @@ const TABS = [
   { href: "/squad", label: "스쿼드", icon: "👥" },
   { href: "/fixtures", label: "일정", icon: "🗓️" },
   { href: "/standings", label: "순위", icon: "📊" },
+  { href: "/guide", label: "가이드", icon: "📖" },
 ];
 
 /**
