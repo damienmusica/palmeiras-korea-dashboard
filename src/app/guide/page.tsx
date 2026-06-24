@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getActiveTeam } from "@/lib/teams";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { GlossaryView } from "@/components/guide/GlossaryView";
+import { CultureView } from "@/components/guide/CultureView";
 import { LegendsView } from "@/components/guide/LegendsView";
 import { HistoryTimeline, HonoursList } from "@/components/guide/HistoryView";
 import { CompetitionPrimer } from "@/components/fixtures/CompetitionPrimer";
@@ -132,6 +133,20 @@ export default function GuidePage() {
           ))}
         </div>
       </section>
+
+      {/* 4.3 Living fan culture (anthem, mascot, torcida, stadium lore) */}
+      {team.culture && team.culture.length > 0 ? (
+        <section aria-labelledby="culture-heading" className="space-y-3">
+          <h2 id="culture-heading" className="text-lg font-extrabold">
+            💚 응원 문화와 정체성 (깊이 보기)
+          </h2>
+          <p className="text-sm text-[var(--pm-muted)]">
+            오랜 팬이 ‘이건 알지’ 하는 디테일 — 응원의 외침, 마스코트의 유래,
+            토르시다, 구장의 100년 내력을 이야기로 풀었습니다.
+          </p>
+          <CultureView topics={team.culture} />
+        </section>
+      ) : null}
 
       {/* 4.5 Legends & history */}
       {team.legends && team.legends.length > 0 ? (

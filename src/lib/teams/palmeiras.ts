@@ -10,6 +10,10 @@ import {
   PALMEIRAS_HISTORY,
   PALMEIRAS_HONOURS,
 } from "@/lib/teams/palmeiras-history";
+import {
+  PALMEIRAS_CULTURE,
+  PALMEIRAS_TACTICS,
+} from "@/lib/teams/palmeiras-culture";
 
 export const BRASILEIRAO: CompetitionRef = {
   id: "brasileirao",
@@ -60,13 +64,13 @@ export const PALMEIRAS: TeamConfig = {
   },
   crest: "/teams/palmeiras/crest.png", // real club crest (ESPN), bundled locally
   stadium: {
-    name: "Allianz Parque",
-    nameKo: "알리안츠 파르키",
-    commonName: "Allianz Parque (Arena Palestra Itália)",
+    name: "Nubank Parque",
+    nameKo: "누방크 파르키",
+    commonName: "Nubank Parque (옛 Allianz Parque · Arena Palestra Itália)",
     capacity: 43713,
     city: "São Paulo",
     opened: 2014,
-    note: "상파울루 시 서부 아구아 브랑카 지역의 홈구장. 옛 파레스트라 이탈리아 경기장 자리에 2014년 재건축되었습니다. 콘서트와 다목적 아레나로도 쓰이며 팬들 사이에서는 여전히 '파레스트라'로 불립니다.",
+    note: "상파울루 시 서부 아구아 브랑카 지역의 홈구장. 옛 파레스트라 이탈리아 경기장(파르키 안타르치카 부지) 자리에 창단 100주년에 맞춰 2014년 재건축됐고, 포르투갈 건축가 토마스 타베이라가 설계했습니다. 개장명은 'Allianz Parque'였으나 2026년 5월 명명권이 바뀌며 'Nubank Parque'가 됐습니다. 콘서트도 여는 다목적 아레나이며, 팬들은 지금도 '파레스트라' 또는 '파르키'라고 부릅니다.",
   },
   competitions: [BRASILEIRAO, LIBERTADORES, COPA_DO_BRASIL, PAULISTA],
   officialLinks: [
@@ -157,6 +161,8 @@ export const PALMEIRAS: TeamConfig = {
   legends: PALMEIRAS_LEGENDS,
   history: PALMEIRAS_HISTORY,
   honours: PALMEIRAS_HONOURS,
+  culture: PALMEIRAS_CULTURE,
+  tactics: PALMEIRAS_TACTICS,
   nameNotes: [
     "파우메이라스(Palmeiras)는 포르투갈어로 '야자수들'을 뜻합니다. 브라질 현지 발음에 가깝게 '파우메이라스'로 표기했지만, 한국 언론에서는 영어식으로 '팔메이라스'라고 쓰는 경우도 많습니다 — 같은 팀입니다.",
     "애칭 'Verdão(베르덩)'은 '큰 초록'이라는 뜻으로, 팀의 상징색인 녹색에서 왔습니다.",
@@ -233,7 +239,15 @@ export const PALMEIRAS: TeamConfig = {
     {
       term: "Avanti Palestra",
       reading: "아반치 파레스트라",
-      meaning: "'전진하라 파레스트라'. 클럽 응원가의 상징적인 문구.",
+      meaning:
+        "'전진하라, 파레스트라'. 클럽 응원가가 아니라 '전쟁 구호(grito de guerra)'. avanti는 이탈리아어로 '전진', Palestra는 창단명에서 온 말. 아벨 페헤이라가 되살려 팬 전체로 퍼졌다.",
+      category: "chant",
+    },
+    {
+      term: "Alviverde Imponente",
+      reading: "아우비베르지 임포넨치",
+      meaning:
+        "'당당한 녹백'. 파우메이라스의 정식 클럽가(hino). 1949년 안토니우 세르지가 작곡했다.",
       category: "chant",
     },
   ],

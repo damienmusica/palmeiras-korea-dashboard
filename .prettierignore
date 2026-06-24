@@ -3,3 +3,8 @@ node_modules
 coverage
 package-lock.json
 *.md
+# Machine-generated data snapshots (written by the ingest pipeline via
+# JSON.stringify, not Prettier) — exclude from source formatting checks.
+data/
+.playwright-mcp/
+*.png
