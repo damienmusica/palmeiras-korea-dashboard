@@ -142,6 +142,27 @@ export interface TrophySummary {
   lastWon?: number;
 }
 
+/** One milestone era in the club's history (hand-researched, verified). */
+export interface HistoryEra {
+  /** Year or span, e.g. "1914", "1959–1974". */
+  period: string;
+  titleKo: string;
+  bodyKo: string;
+}
+
+/** A detailed honour line with the exact winning years. */
+export interface HonourLine {
+  competitionKo: string;
+  competition: string;
+  count: number;
+  /** Winning years, formatted, e.g. "1999, 2020, 2021". */
+  yearsKo: string;
+  /** Scope label: 대륙 / 전국 / 국내컵 / 주(州) / 국제. */
+  tierKo: string;
+  /** Optional caveat (e.g. disputed / nuance). */
+  noteKo?: string;
+}
+
 /** The single source of truth that makes the app multi-team-ready. */
 export interface TeamConfig {
   id: string;
@@ -169,6 +190,10 @@ export interface TeamConfig {
   rivals: RivalEntry[];
   /** Club legends & notable recent departures (history a newcomer should know). */
   legends?: LegendEntry[];
+  /** Milestone history timeline. */
+  history?: HistoryEra[];
+  /** Detailed honours with exact winning years. */
+  honours?: HonourLine[];
   /** Korean pronunciation / naming notes for the club. */
   nameNotes: string[];
   glossary: GlossaryEntry[];

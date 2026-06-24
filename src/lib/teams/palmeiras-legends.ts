@@ -34,6 +34,15 @@ export const PALMEIRAS_LEGENDS: LegendEntry[] = [
       "데뷔부터 은퇴까지 파우메이라스만 지킨 원클럽맨. 1999년 첫 리베르타도레스 우승의 수호신이자 2002년 브라질 월드컵 우승 멤버입니다. 세리이 B 강등 시기에도 팀을 떠나지 않은 충성심의 상징입니다.",
   },
   {
+    name: "Luís Pereira",
+    nameKo: "루이스 페레이라",
+    era: "1970–1975",
+    positionKo: "센터백",
+    group: "icon",
+    whyKo:
+      "‘아카데미아 2기’의 수비 핵으로, 흔히 클럽 역사상 최고의 수비수로 꼽힙니다. 큰 키와 기술, 정확한 빌드업 패스를 겸비해 ‘시대를 앞선 수비수’로 평가받았고 이후 스페인 아틀레티코 마드리드로 이적했습니다.",
+  },
+  {
     name: "Roberto Carlos",
     nameKo: "호베르투 카를루스",
     era: "1993–1995",
@@ -69,6 +78,25 @@ export const PALMEIRAS_LEGENDS: LegendEntry[] = [
     group: "icon",
     whyKo:
       "폭발적인 플레이와 결정적인 골로 1993·1994년 전국 리그 2연패를 이끈 1990년대의 대표 아이콘입니다.",
+  },
+  {
+    name: "César Sampaio",
+    nameKo: "세자르 삼파이우",
+    era: "1990년대",
+    positionKo: "수비형 미드필더",
+    group: "icon",
+    whyKo:
+      "파르말라트 시대 중원의 사령탑. 경기를 손에 쥐고 풀어가는 볼란치로 1993·1994년 전국 리그와 1999년 첫 리베르타도레스 우승의 핵심이었습니다.",
+  },
+  {
+    name: "Gabriel Jesus",
+    nameKo: "가브리에우 제주스",
+    era: "2015–2017",
+    positionKo: "공격수",
+    group: "icon",
+    movedToKo: "맨체스터 시티 (2017)",
+    whyKo:
+      "아카데미 산실의 상징. 2015년 코파 두 브라질과 신인상, 2016년 12골·올해의 선수(볼라 지 오루)로 22년 만의 전국 리그 우승을 견인한 뒤 2017년 1월 맨체스터 시티로 약 £2,700만에 이적했습니다. 엔드릭·에스테벙으로 이어지는 유스 황금기의 출발점입니다.",
   },
   // --- Recent notable departures (kept as history for newcomers) -------------
   {
