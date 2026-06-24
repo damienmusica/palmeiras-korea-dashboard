@@ -307,11 +307,83 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     bioKo:
       "크루제이루에서 성장해 2019년 로코모치바 모스크바로 이적, 71경기를 뛰며 러시아컵 우승을 경험했습니다. 2022년 파우메이라스 합류 첫 시즌 구스타보 고메스와 함께 한 시즌 11골을 넣으며 클럽 센터백 최다 득점 기록에 이름을 올렸습니다.",
   },
+  arthur: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2005-09-04",
+    heightCm: 177,
+    roleKo: "공격적인 왼쪽 풀백 (아카데미 산실)",
+    styleKo:
+      "좁은 공간에서의 탈압박과 정확한 패스·크로스가 강점인 기술적인 왼쪽 풀백입니다.",
+    whyCareKo:
+      "2017년 입단한 ‘크리아 다 아카데미아’. U-20 전국 2연패 등 유스를 휩쓸고 2026년 1군에 데뷔해 피케레스·제프테와 왼쪽을 두고 경쟁하는 미래 자원입니다.",
+    narrativeKo:
+      "보루시아 도르트문트·브렌트포드 등 유럽이 주시하는 차세대 풀백.",
+  },
+  luighihanri: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    roleKo: "유망한 영건 공격수 (아카데미 산실)",
+    styleKo:
+      "골문 앞 위치 선정과 침착한 마무리가 돋보이는 정통 골잡이 유형입니다.",
+    whyCareKo:
+      "2016년부터 유스를 거친 ‘크리아 다 아카데미아’로, 모든 연령별 카테고리에서 우승과 득점왕을 휩쓴 골잡이입니다. 2023년 U-17에서 22경기 21골을 몰아치며 아벨 페헤이라의 부름을 받아 1군에 합류했습니다.",
+    narrativeKo:
+      "바이아웃 8,000만 유로가 걸린 차세대 스트라이커 — 1군 정착이 다음 과제입니다.",
+  },
+  larson: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    roleKo: "활동량형 중앙 미드필더 (볼란치)",
+    styleKo:
+      "중원에서 볼을 회수하고 공수를 연결하는 부지런한 박스 투 박스 유형입니다.",
+    whyCareKo:
+      "펠로타스 출신으로 고이아스 U-20에서 두각을 나타내 2025년 합류한 ‘가성비 영입’. 2025년 U-20 전국 우승 멤버로, 아벨 페헤이라가 1군으로 끌어올려 2030년까지 계약했습니다.",
+    narrativeKo: "이름은 스웨덴의 전설 헨리크 라르손에서 따왔습니다.",
+  },
+  ramonriquelme: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2006-01-31",
+    heightCm: 182,
+    roleKo: "장신 영건 공격수 (아카데미 산실)",
+    styleKo: "큰 키와 오른발 마무리를 앞세운 정통 골잡이 유형입니다.",
+    whyCareKo:
+      "2017년 입단한 ‘크리아 다 아카데미아’로, U-20 전국 우승과 코피냐·U-20 리베르타도레스 득점왕을 휩쓴 골잡이입니다. 2025년 1군에 데뷔했고 바이아웃이 1억 유로로 책정될 만큼 기대받습니다.",
+    narrativeKo: "제니트 등 유럽이 주시하는 차세대 스트라이커.",
+  },
 };
+
+// The live API roster sometimes uses an abbreviated first initial (e.g.
+// "G. Gómez") while a dossier may be keyed by the full name. Alias the
+// abbreviated normalized forms so the lookup still hits.
+DOSSIERS.ggomez = DOSSIERS.gustavogomez;
 
 /** Look up a curated dossier by player name (normalized). */
 export function getDossier(name: string): PlayerDossier | null {
   return DOSSIERS[normKey(name)] ?? null;
+}
+
+// --- Coach dossiers ----------------------------------------------------------
+
+export interface CoachDossier {
+  /** ISO date the coach took charge. */
+  since?: string;
+  /** Longer Korean context paragraph. */
+  bioKo: string;
+}
+
+const COACH_DOSSIERS: Record<string, CoachDossier> = {
+  abelferreira: {
+    since: "2020-11-03",
+    bioKo:
+      "포르투갈 출신 감독으로, 선수 시절 수비수로 뛴 뒤 스포르팅 유스·브라가·PAOK(그리스)를 거쳐 2020년 11월 파우메이라스에 부임했습니다. 부임 직후 코파 두 브라질(2020)과 리베르타도레스 2연패(2020·2021), 전국 리그 2연패(2022·2023)를 이끌며 클럽 역사상 한 번의 부임 기간 기준 최장수 감독이자, 주(州)·전국·대륙 타이틀을 모두 따낸 첫 감독이 됐습니다. 견고한 수비 조직과 빠른 전환, 강한 압박을 바탕으로 한 실리적 운영, 그리고 뜨거운 터치라인 매너로 유명합니다.",
+  },
+};
+
+/** Curated context for a coach (by normalized name). */
+export function getCoachDossier(name: string): CoachDossier | null {
+  return COACH_DOSSIERS[normKey(name)] ?? null;
 }
 
 /** True when this dossier carries editorial narrative (not just facts). */

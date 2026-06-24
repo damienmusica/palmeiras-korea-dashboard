@@ -34,7 +34,7 @@ import {
 } from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
 import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
-import { getDossier } from "@/lib/teams/palmeiras-dossier";
+import { getDossier, getCoachDossier } from "@/lib/teams/palmeiras-dossier";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -106,9 +106,12 @@ export async function getSquad(): Promise<DataResult<Squad>> {
           bio: p.bio || d?.bioKo,
         };
       });
+      const cd = getCoachDossier(snapshot.data.coach.name);
       const coach = {
         ...snapshot.data.coach,
         nameKo: koreanName(snapshot.data.coach.name),
+        since: snapshot.data.coach.since || cd?.since,
+        bio: snapshot.data.coach.bio || cd?.bioKo,
       };
       return { ...snapshot, data: { players, coach } };
     }
