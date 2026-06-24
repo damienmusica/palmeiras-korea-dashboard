@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getActiveTeam } from "@/lib/teams";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { GlossaryView } from "@/components/guide/GlossaryView";
+import { LegendsView } from "@/components/guide/LegendsView";
 import { CompetitionPrimer } from "@/components/fixtures/CompetitionPrimer";
 
 export const metadata: Metadata = {
@@ -102,6 +103,20 @@ export default function GuidePage() {
           ))}
         </div>
       </section>
+
+      {/* 4.5 Legends & history */}
+      {team.legends && team.legends.length > 0 ? (
+        <section aria-labelledby="legends-heading" className="space-y-3">
+          <h2 id="legends-heading" className="text-lg font-extrabold">
+            🏅 레전드 & 명예의 전당
+          </h2>
+          <p className="text-sm text-[var(--pm-muted)]">
+            파우메이라스의 역사를 만든 인물들. 한 클럽을 이해하려면 지금의
+            스쿼드만큼 ‘누가 이 팀을 위대하게 만들었는가’도 알아야 합니다.
+          </p>
+          <LegendsView legends={team.legends} />
+        </section>
+      ) : null}
 
       {/* 5. Competition hierarchy */}
       <section aria-labelledby="comp-heading" className="space-y-3">

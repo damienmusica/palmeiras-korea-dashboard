@@ -5,6 +5,7 @@
 // =============================================================================
 
 import type { CompetitionRef, TeamConfig } from "@/lib/domain/types";
+import { PALMEIRAS_LEGENDS } from "@/lib/teams/palmeiras-legends";
 
 export const BRASILEIRAO: CompetitionRef = {
   id: "brasileirao",
@@ -149,6 +150,7 @@ export const PALMEIRAS: TeamConfig = {
         "펠레의 산투스와의 전통 더비. 1960~70년대 명승부가 많아 '그리움의 더비'라는 향수 어린 이름이 붙었습니다.",
     },
   ],
+  legends: PALMEIRAS_LEGENDS,
   nameNotes: [
     "파우메이라스(Palmeiras)는 포르투갈어로 '야자수들'을 뜻합니다. 브라질 현지 발음에 가깝게 '파우메이라스'로 표기했지만, 한국 언론에서는 영어식으로 '팔메이라스'라고 쓰는 경우도 많습니다 — 같은 팀입니다.",
     "애칭 'Verdão(베르덩)'은 '큰 초록'이라는 뜻으로, 팀의 상징색인 녹색에서 왔습니다.",
