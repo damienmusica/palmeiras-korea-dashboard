@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-25T22:39:52.606Z",
+  "fetchedAt": "2026-06-26T00:11:04.247Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g",
@@ -15,22 +15,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXB",
-      "title": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro - ge",
-      "summaryKo": "바스코 인수설, 레일라 경영진 합류 가능성",
-      "excerpt": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXBkdVUzWTAtMUZFUng0VG0zU2dhQkNDV1RjSUZoSkFpOWNzMVhkT3dLRkc2ZE1FUG1EdV9rU0JzRlRDQzgwZ09ZZVBTODhsTlVUMVlvZWxHYVotUGFfVWJpcGU3OXdhQ3pIWmFPTXk4dFdxZVNPeVg5UnJXOGl3OThUTkhRYjhxZGpRN2lOU0tFYWxJNUFEcWV4Nm8wSDN3aVVIbnFPWVptdDVBNkJRTTRNUmcwRm9lRXV5ck9jYWNSTmNSYkU2T1hLbHhCdDJBNNIBigJBVV95cUxNRE5hYnFYNDVZTFVZNTkyMjhYdXA0VnQ5SkxaOTFzQVkzSmFJQVJNY2xXeHEyZ1dXX0wtdGhsV1NPc2VPM1BBV2tBeUxMRUt1UThCSkJ6clgtdUZpZ2Z0RzVDTFdmbHFBZE1VUW5zb0FYMWVacjRQb083MlV6MkYyU1hKdGFucWRqRk5nMlRWckF5TzNfdWkwQzUxd0VqUGt3SURmaV9VOHN2b2ppcHpsLXhjVUh3eHlaNnV0aExhdE9KT1g2b2ZET0lDNWp4RHRpQjFSdGRRbmlEN0pwTWpZRVJHRGdoR3VwSjBpR2ExY05IdENHOTQ4S0tOQUc1eTRTVFVLbkpmcVNiQQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-06-25T21:47:07.000Z",
-      "whyItMattersKo": "전직 CEO가 라이벌 팀 경영진에 합류할 수 있어 이적 시장에 영향이 예상됩니다.",
-      "fanTakeKo": "레일라가 바스코라니, 충격이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     },
     {
@@ -60,6 +44,38 @@
       "publishedAt": "2026-06-25T18:19:55.000Z",
       "whyItMattersKo": "시즌 시작 전 선수들의 기본 체력과 컨디션을 점검하는 첫 단계입니다.",
       "fanTakeKo": "부상 없이 시즌 준비 잘 마쳤으면 좋겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2F",
+      "title": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique - GE",
+      "summaryKo": "파우메이라스, 바이에른서 콜롬비아 선수 영입",
+      "excerpt": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2FiRTNUalM2MUtCUEFfRDRtV2JJb2pubGU1S01Rd0ZKcjlFaDAzSi1ISTJCN25GRkNnTjluV0YwQUFCb2dPampjTUd5bjFyakFHSWhRUmR2TkN2bGhlT3ZSTjdEVFpQc3FIUVpSTGN5MkxCeklHZVhONTRLdjg4Y19RTno1R0FvVGNqNC13LUtZTnZqZEMwSWF0RGRMT1dSc194MGVxc0dSZDVEYlMweFlRYi1OeE1aczM5VWpwaE5yZnFVVm5lMkdIdzlaTDdhcmdMbUJmZjVZSnoyY9IBlgJBVV95cUxQWFlQR0dQNjdQZkRvUmtwNk1wMXgyLU43MmFCeUF0bjJHQnRxOW51ZEVzSTJaS3JnZXMxS0JZM2N3LXVadmFWcTQtVmtoSmdTeTRhblZMdGNDb0J3N1Jwb0NRUU9hUVlLWnI4MUxTMTIyRE9kdGt6cl9iQWNFcFNMTzlDUm51LXhoU0wwNGtGSi1ITXpIbnhhZFNnYjZJd29zUVRZWkJxb3prWFFXRlk0MDBnbjJxbkNNWXN6MFBmeDFOWnVRaVNxUHdwSUVuNHZaNDUxeUpTRHJHNkE3aHRWOFJ6emREeHNXNGNwRkxrUGZBN0o5NWhxNVkwRGY3LUJjc1pRSVRsU3k0LUZXTXJNMl9qdGh3dw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-06-25T17:33:03.000Z",
+      "whyItMattersKo": "유럽 명문 바이에른에서 뛰던 선수를 완전 영입하여 팀의 미래 전력을 확보했습니다.",
+      "fanTakeKo": "바이에른서 온 선수라 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtend",
+      "title": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação - Rádio Itatiaia",
+      "summaryKo": "아벨 없이 파우메이라스, 휴식 뒤 검사 및 재개",
+      "excerpt": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtendjSHRzNXpvbWoxREg4TEUta0dKSGN1X2N1LUZzUnhDUHNheDE4NUlzaG9tQmZrODM1SjNmOEd2XzZnQ2ZvUlR0UnMtM0NYZzlMcmFQLTdwd285WFR6bU1TaTEyckJZc1hub2NpSVpxVGlJNEJxXzJxUW5qdkFkWHQyNWFjNEc2eHF4WEY0SWNfM1dEeXk1T3p4TTZfUkp1Nmh3aVlwMU1meGFQWmNRQTNBWVN4RXV4LWFjZXFlZWNuRw?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-06-25T18:59:16.000Z",
+      "whyItMattersKo": "휴식 후 첫 모임이라 선수들의 컨디션 점검과 시즌 준비가 시작되었습니다.",
+      "fanTakeKo": "아벨 감독 없이도 알아서 잘하겠죠?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -112,64 +128,32 @@
       ]
     },
     {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGxnT1pwSktha01HVm4yWlpBRjk3MmtGcGItSllWRDJRQkRMMy10dHNvWXV",
-      "title": "Com Paulinho e sem Vitor Roque, Palmeiras faz primeiro treino em campo - Rádio Itatiaia",
-      "summaryKo": "파울리뉴는 참가, 비토르 호키는 불참",
-      "excerpt": "Com Paulinho e sem Vitor Roque, Palmeiras faz primeiro treino em campo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGxnT1pwSktha01HVm4yWlpBRjk3MmtGcGItSllWRDJRQkRMMy10dHNvWXVScEs1YVBVcmE2ckpiMWgzeEhPajRMZTlvZm11blNHM2dmU1ZMX0pqQVRIbmJVTDNSQ0tfV1JscFVhbTdoSzBjaEhtd01KTlV6cjNrZG1UVnNCdnR6QmlhQmlueHNJVnVTUGFhcmtwUkpTZ2dzeVJCRzlvdzQ0eTY0enBEdzhMQmwxWmlnSWs4dFdZRkRvZGJxeVdrcE5helV4M1lkLVd3ZGFpSFhTYThINjQ1bzdOVU90dmJhMEpVRFdTT3Q?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-06-25T21:46:15.000Z",
-      "whyItMattersKo": "주전 미드필더의 복귀는 긍정적이나, 공격수의 빈자리가 전력에 변수가 될 수 있습니다.",
-      "fanTakeKo": "호키는 어디 아픈가 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEJWbnNnY2dxTE9yT2YzRWdSMUxPck9KZFhHYnQzYVV0TUdtXzNQUnRfR1V",
-      "title": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos - CBF",
-      "summaryKo": "파우메이라스, 브라질레이렁 역대급 스타트",
-      "excerpt": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEJWbnNnY2dxTE9yT2YzRWdSMUxPck9KZFhHYnQzYVV0TUdtXzNQUnRfR1VyTFlMTktmVHVyQ3lISWVCRDNiRlBldTItMGtaVkJEUW9yRmtiVkR6Qmh3NjN4a3hldTRRazFuMzlUc2hMamo4ajd6dGFsZWhITlFMWm1fbGROcDNUcUZuRHg5ek5ZbzFfSjVPanFHVXJveDlmRlJxbGt6VDN5Ni1pNFA3eU5pX2Nrc1loODZmaHRxRjhIN01sUnFZZGxKUUhTSzlSNVV5dFhNVFpmOTctODZEZzFkcE03MFpQNEFjSUcyQWw2RERCMkRETlU4eDBlQnc?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-06-24T05:44:58.000Z",
-      "whyItMattersKo": "역대급 성적으로 브라질레이렁 우승 경쟁에서 앞서 나가는 기반을 마련했습니다.",
-      "fanTakeKo": "이대로만 가자 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2F",
-      "title": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique - GE",
-      "summaryKo": "파우메이라스, 바이에른서 콜롬비아 선수 영입",
-      "excerpt": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2FiRTNUalM2MUtCUEFfRDRtV2JJb2pubGU1S01Rd0ZKcjlFaDAzSi1ISTJCN25GRkNnTjluV0YwQUFCb2dPampjTUd5bjFyakFHSWhRUmR2TkN2bGhlT3ZSTjdEVFpQc3FIUVpSTGN5MkxCeklHZVhONTRLdjg4Y19RTno1R0FvVGNqNC13LUtZTnZqZEMwSWF0RGRMT1dSc194MGVxc0dSZDVEYlMweFlRYi1OeE1aczM5VWpwaE5yZnFVVm5lMkdIdzlaTDdhcmdMbUJmZjVZSnoyY9IBlgJBVV95cUxQWFlQR0dQNjdQZkRvUmtwNk1wMXgyLU43MmFCeUF0bjJHQnRxOW51ZEVzSTJaS3JnZXMxS0JZM2N3LXVadmFWcTQtVmtoSmdTeTRhblZMdGNDb0J3N1Jwb0NRUU9hUVlLWnI4MUxTMTIyRE9kdGt6cl9iQWNFcFNMTzlDUm51LXhoU0wwNGtGSi1ITXpIbnhhZFNnYjZJd29zUVRZWkJxb3prWFFXRlk0MDBnbjJxbkNNWXN6MFBmeDFOWnVRaVNxUHdwSUVuNHZaNDUxeUpTRHJHNkE3aHRWOFJ6emREeHNXNGNwRkxrUGZBN0o5NWhxNVkwRGY3LUJjc1pRSVRsU3k0LUZXTXJNMl9qdGh3dw?oc=5",
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXB",
+      "title": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro - ge",
+      "summaryKo": "바스코 인수설, 레일라 경영진 합류 가능성",
+      "excerpt": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXBkdVUzWTAtMUZFUng0VG0zU2dhQkNDV1RjSUZoSkFpOWNzMVhkT3dLRkc2ZE1FUG1EdV9rU0JzRlRDQzgwZ09ZZVBTODhsTlVUMVlvZWxHYVotUGFfVWJpcGU3OXdhQ3pIWmFPTXk4dFdxZVNPeVg5UnJXOGl3OThUTkhRYjhxZGpRN2lOU0tFYWxJNUFEcWV4Nm8wSDN3aVVIbnFPWVptdDVBNkJRTTRNUmcwRm9lRXV5ck9jYWNSTmNSYkU2T1hLbHhCdDJBNNIBigJBVV95cUxNRE5hYnFYNDVZTFVZNTkyMjhYdXA0VnQ5SkxaOTFzQVkzSmFJQVJNY2xXeHEyZ1dXX0wtdGhsV1NPc2VPM1BBV2tBeUxMRUt1UThCSkJ6clgtdUZpZ2Z0RzVDTFdmbHFBZE1VUW5zb0FYMWVacjRQb083MlV6MkYyU1hKdGFucWRqRk5nMlRWckF5TzNfdWkwQzUxd0VqUGt3SURmaV9VOHN2b2ppcHpsLXhjVUh3eHlaNnV0aExhdE9KT1g2b2ZET0lDNWp4RHRpQjFSdGRRbmlEN0pwTWpZRVJHRGdoR3VwSjBpR2ExY05IdENHOTQ4S0tOQUc1eTRTVFVLbkpmcVNiQQ?oc=5",
       "source": "ge",
       "language": "pt",
-      "publishedAt": "2026-06-25T17:33:03.000Z",
-      "whyItMattersKo": "유럽 명문 바이에른에서 뛰던 선수를 완전 영입하여 팀의 미래 전력을 확보했습니다.",
-      "fanTakeKo": "바이에른서 온 선수라 기대되네요!",
+      "publishedAt": "2026-06-25T21:47:07.000Z",
+      "whyItMattersKo": "전직 CEO가 라이벌 팀 경영진에 합류할 수 있어 이적 시장에 영향이 예상됩니다.",
+      "fanTakeKo": "레일라가 바스코라니, 충격이네요.",
       "tags": [
         "뉴스",
         "AI요약"
       ]
     },
     {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMingFBVV95cUxQUlNuaGNYZHZaRVNQNFEzY0hxNGlxZXg2dE83eS1YbzNaZ1lVYVRVMnMwWH",
-      "title": "Palmeiras exerce opção de compra de lateral do Bayern de Munique - LANCE!",
-      "summaryKo": "파우메이라스, 바이에른 풀백 완전 영입",
-      "excerpt": "Palmeiras exerce opção de compra de lateral do Bayern de Munique&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlNuaGNYZHZaRVNQNFEzY0hxNGlxZXg2dE83eS1YbzNaZ1lVYVRVMnMwWHZhaHpiYzFMTHE3R2dCdGl3OUlvLXpUZERTcGNJLVhWMzNlUG9KLUxBZWM5aFR1QWQ2OEY2aVY4TTBHbGVIMDg4aWpDTHF6WWVoUFVJb05FQ2V1VGp5cHJKU3BYV1JybjlreE11NTVLUVhRdw?oc=5",
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHZvYUNEZjliWGNaUmNUNHRYT203czFKVmVMaExPMndxVkVmWUpmV1k2TD",
+      "title": "Palmeiras repete 'plano' e inicia preparação sem Abel - LANCE!",
+      "summaryKo": "파우메이라스, 아벨 없이 훈련 시작하며 작전 점검",
+      "excerpt": "Palmeiras repete 'plano' e inicia preparação sem Abel&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHZvYUNEZjliWGNaUmNUNHRYT203czFKVmVMaExPMndxVkVmWUpmV1k2TDRacnRpU00wODBXVENKZ1FmRTA1ZDJVMXBzMUtlQ25nbjgtSW9GUms1NEVnOTNkaGtheU1HNzBoNXQ3eE9xaW5Ub1ZDc1czRGpFNGlBSGhlcVNfREdFdmVxNWZ2a3lKQVhQT3c?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-06-25T16:21:48.000Z",
-      "whyItMattersKo": "유럽 빅클럽 출신 풀백의 완전 영입으로 팀 수비 라인의 전력을 확실하게 보강했습니다.",
-      "fanTakeKo": "유럽 빅클럽 선수라니, 설렙니다!",
+      "publishedAt": "2026-06-25T12:27:44.000Z",
+      "whyItMattersKo": "감독 부재 중 팀이 자체적으로 전술과 체력을 다지는 중요한 시간입니다.",
+      "fanTakeKo": "아벨 감독 빨리 돌아왔으면 좋겠다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -190,16 +174,32 @@
       ]
     },
     {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHZvYUNEZjliWGNaUmNUNHRYT203czFKVmVMaExPMndxVkVmWUpmV1k2TD",
-      "title": "Palmeiras repete 'plano' e inicia preparação sem Abel - LANCE!",
-      "summaryKo": "파우메이라스, 아벨 없이 훈련 시작하며 작전 점검",
-      "excerpt": "Palmeiras repete 'plano' e inicia preparação sem Abel&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHZvYUNEZjliWGNaUmNUNHRYT203czFKVmVMaExPMndxVkVmWUpmV1k2TDRacnRpU00wODBXVENKZ1FmRTA1ZDJVMXBzMUtlQ25nbjgtSW9GUms1NEVnOTNkaGtheU1HNzBoNXQ3eE9xaW5Ub1ZDc1czRGpFNGlBSGhlcVNfREdFdmVxNWZ2a3lKQVhQT3c?oc=5",
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGxnT1pwSktha01HVm4yWlpBRjk3MmtGcGItSllWRDJRQkRMMy10dHNvWXV",
+      "title": "Com Paulinho e sem Vitor Roque, Palmeiras faz primeiro treino em campo - Rádio Itatiaia",
+      "summaryKo": "파울리뉴는 참가, 비토르 호키는 불참",
+      "excerpt": "Com Paulinho e sem Vitor Roque, Palmeiras faz primeiro treino em campo&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGxnT1pwSktha01HVm4yWlpBRjk3MmtGcGItSllWRDJRQkRMMy10dHNvWXVScEs1YVBVcmE2ckpiMWgzeEhPajRMZTlvZm11blNHM2dmU1ZMX0pqQVRIbmJVTDNSQ0tfV1JscFVhbTdoSzBjaEhtd01KTlV6cjNrZG1UVnNCdnR6QmlhQmlueHNJVnVTUGFhcmtwUkpTZ2dzeVJCRzlvdzQ0eTY0enBEdzhMQmwxWmlnSWs4dFdZRkRvZGJxeVdrcE5helV4M1lkLVd3ZGFpSFhTYThINjQ1bzdOVU90dmJhMEpVRFdTT3Q?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-06-25T21:46:15.000Z",
+      "whyItMattersKo": "주전 미드필더의 복귀는 긍정적이나, 공격수의 빈자리가 전력에 변수가 될 수 있습니다.",
+      "fanTakeKo": "호키는 어디 아픈가 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMingFBVV95cUxQUlNuaGNYZHZaRVNQNFEzY0hxNGlxZXg2dE83eS1YbzNaZ1lVYVRVMnMwWH",
+      "title": "Palmeiras exerce opção de compra de lateral do Bayern de Munique - LANCE!",
+      "summaryKo": "파우메이라스, 바이에른 풀백 완전 영입",
+      "excerpt": "Palmeiras exerce opção de compra de lateral do Bayern de Munique&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlNuaGNYZHZaRVNQNFEzY0hxNGlxZXg2dE83eS1YbzNaZ1lVYVRVMnMwWHZhaHpiYzFMTHE3R2dCdGl3OUlvLXpUZERTcGNJLVhWMzNlUG9KLUxBZWM5aFR1QWQ2OEY2aVY4TTBHbGVIMDg4aWpDTHF6WWVoUFVJb05FQ2V1VGp5cHJKU3BYV1JybjlreE11NTVLUVhRdw?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-06-25T12:27:44.000Z",
-      "whyItMattersKo": "감독 부재 중 팀이 자체적으로 전술과 체력을 다지는 중요한 시간입니다.",
-      "fanTakeKo": "아벨 감독 빨리 돌아왔으면 좋겠다.",
+      "publishedAt": "2026-06-25T16:21:48.000Z",
+      "whyItMattersKo": "유럽 빅클럽 출신 풀백의 완전 영입으로 팀 수비 라인의 전력을 확실하게 보강했습니다.",
+      "fanTakeKo": "유럽 빅클럽 선수라니, 설렙니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -238,19 +238,17 @@
       ]
     },
     {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk1ldGVXWHNib2FVd0tubDExc0U2d0Y3Nl82R3ZzSjNlc3AtaTlrOGcwMG",
-      "title": "Time treina com bola, e Roque segue cronograma no Palmeiras - LANCE!",
-      "summaryKo": "파우메이라스 훈련, 비토르 호키 복귀 준비",
-      "excerpt": "Time treina com bola, e Roque segue cronograma no Palmeiras&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk1ldGVXWHNib2FVd0tubDExc0U2d0Y3Nl82R3ZzSjNlc3AtaTlrOGcwMGJoV1JaemFKWjBKbi1pUzhRam9KSkdyUHNGYmdFaDJIOXkwQUdNaUtrSXFFa3BYSzZiWnlKR3FxM1F3Szk2OGxtdTBBbDVXV0RMZF9UbHZCRW5pWjVhdVhDNHBBMHpPLVlQWlNhZWNOOUo1QjR6WXg4QlNUV29SY05kbUI0UQ?oc=5",
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25",
+      "title": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário - LANCE!",
+      "summaryKo": "Palmeiras는 달력이 재개되기 거의 한 달 전에 준비해야 합니다. 입찰하세요!",
+      "excerpt": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25lUl9rOUpEV3NQdHZ0cUtjRVpUUzAwWmVNcjVrVGdMcFI5LTZmZkdSRlE5UHdvaGJOLU5QZ3phV25WV2VIX29iMzNtMUt1b0U2Yl9nTUUzVU9zMFNiT1g1Z0JlTmtRQzFZT0w2WXlFVHN2MmRjM2NERHVEamZEcHE4bTNOcF9UWU5pVktu?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-06-25T21:41:32.000Z",
-      "whyItMattersKo": "새 영입 비토르 호키의 복귀 일정을 확인해 공격진 강화 시기를 예측할 수 있습니다.",
-      "fanTakeKo": "호키 빨리 합류하길 바랍니다!",
+      "publishedAt": "2026-06-25T12:15:00.000Z",
       "tags": [
         "뉴스",
-        "AI요약"
+        "자동번역"
       ]
     },
     {
@@ -270,17 +268,19 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25",
-      "title": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário - LANCE!",
-      "summaryKo": "Palmeiras는 달력이 재개되기 거의 한 달 전에 준비해야 합니다. 입찰하세요!",
-      "excerpt": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25lUl9rOUpEV3NQdHZ0cUtjRVpUUzAwWmVNcjVrVGdMcFI5LTZmZkdSRlE5UHdvaGJOLU5QZ3phV25WV2VIX29iMzNtMUt1b0U2Yl9nTUUzVU9zMFNiT1g1Z0JlTmtRQzFZT0w2WXlFVHN2MmRjM2NERHVEamZEcHE4bTNOcF9UWU5pVktu?oc=5",
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk1ldGVXWHNib2FVd0tubDExc0U2d0Y3Nl82R3ZzSjNlc3AtaTlrOGcwMG",
+      "title": "Time treina com bola, e Roque segue cronograma no Palmeiras - LANCE!",
+      "summaryKo": "파우메이라스 훈련, 비토르 호키 복귀 준비",
+      "excerpt": "Time treina com bola, e Roque segue cronograma no Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk1ldGVXWHNib2FVd0tubDExc0U2d0Y3Nl82R3ZzSjNlc3AtaTlrOGcwMGJoV1JaemFKWjBKbi1pUzhRam9KSkdyUHNGYmdFaDJIOXkwQUdNaUtrSXFFa3BYSzZiWnlKR3FxM1F3Szk2OGxtdTBBbDVXV0RMZF9UbHZCRW5pWjVhdVhDNHBBMHpPLVlQWlNhZWNOOUo1QjR6WXg4QlNUV29SY05kbUI0UQ?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-06-25T12:15:00.000Z",
+      "publishedAt": "2026-06-25T21:41:32.000Z",
+      "whyItMattersKo": "새 영입 비토르 호키의 복귀 일정을 확인해 공격진 강화 시기를 예측할 수 있습니다.",
+      "fanTakeKo": "호키 빨리 합류하길 바랍니다!",
       "tags": [
         "뉴스",
-        "자동번역"
+        "AI요약"
       ]
     },
     {
@@ -316,6 +316,22 @@
       ]
     },
     {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEJWbnNnY2dxTE9yT2YzRWdSMUxPck9KZFhHYnQzYVV0TUdtXzNQUnRfR1V",
+      "title": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos - CBF",
+      "summaryKo": "파우메이라스, 브라질레이렁 역대급 스타트",
+      "excerpt": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEJWbnNnY2dxTE9yT2YzRWdSMUxPck9KZFhHYnQzYVV0TUdtXzNQUnRfR1VyTFlMTktmVHVyQ3lISWVCRDNiRlBldTItMGtaVkJEUW9yRmtiVkR6Qmh3NjN4a3hldTRRazFuMzlUc2hMamo4ajd6dGFsZWhITlFMWm1fbGROcDNUcUZuRHg5ek5ZbzFfSjVPanFHVXJveDlmRlJxbGt6VDN5Ni1pNFA3eU5pX2Nrc1loODZmaHRxRjhIN01sUnFZZGxKUUhTSzlSNVV5dFhNVFpmOTctODZEZzFkcE03MFpQNEFjSUcyQWw2RERCMkRETlU4eDBlQnc?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-06-24T05:44:58.000Z",
+      "whyItMattersKo": "역대급 성적으로 브라질레이렁 우승 경쟁에서 앞서 나가는 기반을 마련했습니다.",
+      "fanTakeKo": "이대로만 가자 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi6gFBVV95cUxORldiZEg3YlJocDNINU5QT1MxTG1PeGFGcjJ5bnJ3MGpPSXBaRkE4ajBKc1h",
       "title": "Palmeiras e Fluminense mantém 100% de aproveitamento no Brasileirão Sub-17 - CBF",
       "summaryKo": "파우메이라스, U-17 리그 무패 행진 이어가",
@@ -342,22 +358,6 @@
       "publishedAt": "2026-06-23T12:00:00.000Z",
       "whyItMattersKo": "팀의 핵심 선수들을 이적 시장에서 지키는 것이 시즌 중반 성적과 전력 유지에 필수적입니다.",
       "fanTakeKo": "핵심 선수들은 꼭 지켜줘야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHRQOTRLTktnMkhTS3pWbkg5QjFjcHpsS2k4NUlEQXdWLVoyeHctR1VRYlh",
-      "title": "Elenco do Palmeiras se reapresenta e inicia intertemporada; veja programação - LANCE!",
-      "summaryKo": "파우메이라스 팀 모여 휴식 끝, 새 시즌 준비 시작",
-      "excerpt": "Elenco do Palmeiras se reapresenta e inicia intertemporada; veja programação&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHRQOTRLTktnMkhTS3pWbkg5QjFjcHpsS2k4NUlEQXdWLVoyeHctR1VRYlhMUjRNUDhLTXhWdnY4cHF2NHlQc2hQTGJfYjN3eE1EOTNvQzFtMHRVN1llX1FzNDhteWdFaXE2LUR1QTM3QWp1dFpONEtSbGJJZDRwVkNQQTJQM3ZWYU5Fa3lYX0p0QnNGSDMwZDdLQmg5WlFqbl9lUlJMczY0bWM0UHB4X2h6cHVIUQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-06-24T23:54:49.000Z",
-      "whyItMattersKo": "선수들이 복귀해 팀 전력을 다시 점검하고 다음 시즌을 위한 컨디션을 조절합니다.",
-      "fanTakeKo": "다시 모인 선수들 보니 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
