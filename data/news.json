@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-26T11:45:27.122Z",
+  "fetchedAt": "2026-06-26T14:27:29.762Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVFfcndwak50UFVRbzI2eVhCZURMaC1WY1dXZjlpekZBa1VrU25LUUNWM3J",
@@ -14,22 +14,6 @@
       "publishedAt": "2026-06-26T06:00:00.000Z",
       "whyItMattersKo": "감독의 휴식은 다음 시즌 전술 준비와 컨디션 조절에 중요한 영향을 줍니다.",
       "fanTakeKo": "푹 쉬고 오세요, 감독님!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEdKZjBoMnpCRzJDdnp1TFZDcUVnRnhfSkE1aktLVnppZEthbGZldF9HR1R",
-      "title": "Aprovados? Como foram os reforços do Palmeiras no primeiro semestre de 2026 - ge",
-      "summaryKo": "파우메이라스, 2026년 상반기 영입 평가",
-      "excerpt": "Aprovados? Como foram os reforços do Palmeiras no primeiro semestre de 2026&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEdKZjBoMnpCRzJDdnp1TFZDcUVnRnhfSkE1aktLVnppZEthbGZldF9HR1RMMWdTNFRwUHBpNmp2Y0pyZS1NbzNSX3VEZ3hFMGtKRmZoNGhmM2s0UVMzV1R5emNtZklyMnd0bDRJbmdrYVF1YVBnRHEyMFNJUFNsSW5PS3lsTXhYLWJBSnBIeGNfenJpX0duZWpDY3dnMmtSRWhnQkl5ZnpvVUZKVXJLak84WXhfdlNSS3pEVnhFMXN3bG1tczAwNFZ3YnFnX0szS1N2UXVzRUpMS2hC0gHrAUFVX3lxTFBkVDFHcTZEYXI1YnFqaXV2cm40TjB4NnZrVlhPU0FDaVF1cEhtSGwyb0JFZWNZb2hkVWhRclV4SVl0Mjl3Z3J5cmpxUUNTaFlHMVVUYUsxd01kZHN0eWRGek1xVklfVXJRb05rRmhPbXVFMHRVLVBtSHNNR0lYRzVScm42cjFLUHNDa29FSG1WOExRamV2MEdnSmxlSjhCT1RlY0NITGs3LUZqLXVIQUtaQ3FZUDktTU1RdGk3djBEWlhlU2pWSkc5NTdaTllfQlB5VEpCZ0pDM2p6WHlrVHliZ2RVU0FLU0MtZGc?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-26T07:01:02.000Z",
-      "whyItMattersKo": "새 영입 선수들의 성과를 점검해 팀 전력과 시즌 목표 달성 가능성을 가늠합니다.",
-      "fanTakeKo": "이번 영입들은 제대로 성공했을까?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -52,6 +36,22 @@
       ]
     },
     {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEdKZjBoMnpCRzJDdnp1TFZDcUVnRnhfSkE1aktLVnppZEthbGZldF9HR1R",
+      "title": "Aprovados? Como foram os reforços do Palmeiras no primeiro semestre de 2026 - ge",
+      "summaryKo": "파우메이라스, 2026년 상반기 영입 평가",
+      "excerpt": "Aprovados? Como foram os reforços do Palmeiras no primeiro semestre de 2026&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEdKZjBoMnpCRzJDdnp1TFZDcUVnRnhfSkE1aktLVnppZEthbGZldF9HR1RMMWdTNFRwUHBpNmp2Y0pyZS1NbzNSX3VEZ3hFMGtKRmZoNGhmM2s0UVMzV1R5emNtZklyMnd0bDRJbmdrYVF1YVBnRHEyMFNJUFNsSW5PS3lsTXhYLWJBSnBIeGNfenJpX0duZWpDY3dnMmtSRWhnQkl5ZnpvVUZKVXJLak84WXhfdlNSS3pEVnhFMXN3bG1tczAwNFZ3YnFnX0szS1N2UXVzRUpMS2hC0gHrAUFVX3lxTFBkVDFHcTZEYXI1YnFqaXV2cm40TjB4NnZrVlhPU0FDaVF1cEhtSGwyb0JFZWNZb2hkVWhRclV4SVl0Mjl3Z3J5cmpxUUNTaFlHMVVUYUsxd01kZHN0eWRGek1xVklfVXJRb05rRmhPbXVFMHRVLVBtSHNNR0lYRzVScm42cjFLUHNDa29FSG1WOExRamV2MEdnSmxlSjhCT1RlY0NITGs3LUZqLXVIQUtaQ3FZUDktTU1RdGk3djBEWlhlU2pWSkc5NTdaTllfQlB5VEpCZ0pDM2p6WHlrVHliZ2RVU0FLU0MtZGc?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-06-26T07:01:02.000Z",
+      "whyItMattersKo": "새 영입 선수들의 성과를 점검해 팀 전력과 시즌 목표 달성 가능성을 가늠합니다.",
+      "fanTakeKo": "이번 영입들은 제대로 성공했을까?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2dUT3lOQk1PcW1WTWtoMm51UElzSFk1el9sTDloOWdxSWNWZDlEZjBHT1Z",
       "title": "Palmeiras se reapresenta e inicia intertemporada na Academia de Futebol - SE Palmeiras",
       "summaryKo": "파우메이라스는 축구 아카데미 - SE 파우메이라스에서 인터시즌을 다시 시작합니다.",
@@ -66,16 +66,32 @@
       ]
     },
     {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtend",
-      "title": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação - Rádio Itatiaia",
-      "summaryKo": "아벨 없이 파우메이라스, 휴식 뒤 검사 및 재개",
-      "excerpt": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtendjSHRzNXpvbWoxREg4TEUta0dKSGN1X2N1LUZzUnhDUHNheDE4NUlzaG9tQmZrODM1SjNmOEd2XzZnQ2ZvUlR0UnMtM0NYZzlMcmFQLTdwd285WFR6bU1TaTEyckJZc1hub2NpSVpxVGlJNEJxXzJxUW5qdkFkWHQyNWFjNEc2eHF4WEY0SWNfM1dEeXk1T3p4TTZfUkp1Nmh3aVlwMU1meGFQWmNRQTNBWVN4RXV4LWFjZXFlZWNuRw?oc=5",
-      "source": "Rádio Itatiaia",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckRkMEJwdExSeXBuVVh4aDd6elZzWDFtbUxEaEVQZzlDVWRIYXg4TUtyZ0h",
+      "title": "Veja quarteto da base do Palmeiras que ganhou mais espaço no primeiro semestre de 2026 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 유망주 4인방, 상반기 주전 경쟁 뛰어들다",
+      "excerpt": "Veja quarteto da base do Palmeiras que ganhou mais espaço no primeiro semestre de 2026&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckRkMEJwdExSeXBuVVh4aDd6elZzWDFtbUxEaEVQZzlDVWRIYXg4TUtyZ0h1Q3dsRlpwQndVMS1LamRIUXhGTzJNMWdETlJtT0NTdk1pSlZUTmJwak9kUjRGRDhjZzlEdHViNm5sd3BZSHo5Qmg5QWZWZ3pFQm1lMTNXYTZwVlpWcUwxT3FzZ0VwVzgzbnpaQ0pxN2ViOUplNGI0QnZwQk1qdjhJcVJtMWRrRVMwdDR0Z011aWlsaGxXUUhjc3N4azZWdUZ6dHkt0gHWAUFVX3lxTFBPSjdDemtJdVIzMlNSOFNIZl9IcWM2Q3lqcEJxZ1I0LUJnSnlhVEo4LVluUWdGRkwtWWcyWndrQ0x1VElqU3JSQ0dFWmZKTVF0azBUVTc2MjV0NlJqT2lrRnFQVFdiaFNOVkdjczNPUFBfR0c0V29DVm94U0NmT1ZWaU0zekVRYmw1YTRGWHBEUFh4bG0wQ3hRZlkwbzVON0ZzSWhuT1FrZ2hIQlpuYnk3b3NlcllHWURVczlZcDBKVmRrQnM2NFZqUGhtQ09KLVZRWWtTZ2c?oc=5",
+      "source": "Gazeta Esportiva",
       "language": "pt",
-      "publishedAt": "2026-06-25T18:59:16.000Z",
-      "whyItMattersKo": "휴식 후 첫 모임이라 선수들의 컨디션 점검과 시즌 준비가 시작되었습니다.",
-      "fanTakeKo": "아벨 감독 없이도 알아서 잘하겠죠?",
+      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "whyItMattersKo": "유망주들의 성장은 팀 전력 강화와 미래를 위한 든든한 발판이 되어줍니다.",
+      "fanTakeKo": "미래의 파우메이라스가 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTUs0ZVZaaGJrVnJORGV2T1ltTzFCcGQtM3J1cXJ0eDV1VVVla2JTTHdpYXZ",
+      "title": "Futebol em 2026: Palmeiras lidera Brasileirão, Vitória vence Copa do Nordeste e Bahia domina cenário estadual - Jornal Grande Bahia",
+      "summaryKo": "파우메이라스, 2026년 브라질레이렁 선두로 달리고 있다",
+      "excerpt": "Futebol em 2026: Palmeiras lidera Brasileirão, Vitória vence Copa do Nordeste e Bahia domina cenário estadual&nbsp;&nbsp;Jornal Grande Bahia",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTUs0ZVZaaGJrVnJORGV2T1ltTzFCcGQtM3J1cXJ0eDV1VVVla2JTTHdpYXZ4YUNDaURzYU9SRW85eGlDa0VmcTJnbGF6NjFNX1FWdnBRS2ptc3kzemxTQ00wcnlpWmVLemJKYnhuVUFhUEZPSjFjR3RDTi1lWmF4cjFrLWtvajlKbEFPZTQ0Q29WRzlncnVWZDJkU3pEc29rMjh3MnNCejB5QWY1U0VNXzRTMjdwTF9lbTZNWE1jOWlRWE1mVEEydFlZUUxlSG1xNlhtLUktdVpKZk5Xb2d0d3NZdw?oc=5",
+      "source": "Jornal Grande Bahia",
+      "language": "pt",
+      "publishedAt": "2026-06-26T13:20:21.000Z",
+      "whyItMattersKo": "선두 달리기는 우승 경쟁에서 가장 유리한 위치를 선점했다는 의미입니다.",
+      "fanTakeKo": "선두 지키고 우승까지 파이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -98,33 +114,35 @@
       ]
     },
     {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1BGSnpmUlNRZWNCUnFjcGdPN1FIem83NXVaeGtyUEkxUUNuUUNaanpYbG9",
-      "title": "Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20 - Gazeta Esportiva",
-      "summaryKo": "파우메이라스 U-20, 플루미넨스 꺾고 선두",
-      "excerpt": "Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1BGSnpmUlNRZWNCUnFjcGdPN1FIem83NXVaeGtyUEkxUUNuUUNaanpYbG9PM0RBZ2lyTG5fdVBZdkdwT1dvNmdHazRvWkxSYm12TnZTSy1maDFGYkFIQjJUdEZvTXFHbjdOUzZYdkkxQk9TellHMUlRMjRrNy1JLTBBRWhxS2wxMkdtb2o0RWVmcEF4LVpaRkNQUldWVWljOWVpUmhR0gGrAUFVX3lxTE9QNXQzbnoteV9LNDJzc2swOVlXckhHNGkyQ2pYNHlkUkE5VUQ1RWsxcjljLWMwTDhvcm5rR1ZodkV6djJsc3hxS3BnTmdmNERKOUFSTGdWcmdyYzg0MVNiXy1hbzBQNWtwNHY3UVpRREZkWlZFelp5OTVoU3NGWGMtMXpNbzdqa1NZei1ycnJraTh4QmhUMzVMb2JiOEVoZmsxekFvNGgyamlmZw?oc=5",
-      "source": "Gazeta Esportiva",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtend",
+      "title": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação - Rádio Itatiaia",
+      "summaryKo": "아벨 없이 파우메이라스, 휴식 뒤 검사 및 재개",
+      "excerpt": "Sem Abel Ferreira, elenco do Palmeiras faz exames em reapresentação&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDRDV0dFYm9uT1dZRjdHbURLaVE4OTUwSVFOTmlKV0Z6OUlPa3pXUWEtendjSHRzNXpvbWoxREg4TEUta0dKSGN1X2N1LUZzUnhDUHNheDE4NUlzaG9tQmZrODM1SjNmOEd2XzZnQ2ZvUlR0UnMtM0NYZzlMcmFQLTdwd285WFR6bU1TaTEyckJZc1hub2NpSVpxVGlJNEJxXzJxUW5qdkFkWHQyNWFjNEc2eHF4WEY0SWNfM1dEeXk1T3p4TTZfUkp1Nmh3aVlwMU1meGFQWmNRQTNBWVN4RXV4LWFjZXFlZWNuRw?oc=5",
+      "source": "Rádio Itatiaia",
       "language": "pt",
-      "publishedAt": "2026-06-25T19:56:00.000Z",
-      "whyItMattersKo": "유소년 팀이 플루미넨스를 이기고 브라질레이렁 U-20 선두를 확보하며 기세가 좋습니다.",
-      "fanTakeKo": "유소년팀도 잘 크고 있네요!",
+      "publishedAt": "2026-06-25T18:59:16.000Z",
+      "whyItMattersKo": "휴식 후 첫 모임이라 선수들의 컨디션 점검과 시즌 준비가 시작되었습니다.",
+      "fanTakeKo": "아벨 감독 없이도 알아서 잘하겠죠?",
       "tags": [
         "뉴스",
         "AI요약"
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g",
-      "title": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’ - SE Palmeiras",
-      "summaryKo": "Cast는 Palmeiras 복귀에 대한 시험과 골키퍼 Kaique의 코멘트를 수행합니다: ‘매우 감사합니다’ - SE Palmeiras",
-      "excerpt": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g0a3hLRksxWFJqQmRUTVdKS2ZTTEZ6bHpYWjB3Z2NKTGg4R2J0V0pyY3VYR1FVTjZIVmdUdHYyX0NGLUlITGlVRXpJdVFWSmV3anFPYUk5eHByTTdoS3NLV2VWXzdRUG10YUNZcFdybzFqZ1Bub3pDNFhfZ3Rvak02MUUxemRqeHItM0l2X2c?oc=5",
-      "source": "SE Palmeiras",
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTFlSmhsNjNDbG9kQTZMME10RlpDUHpzdWNQdjdwMDJTN0gyN1M2MHdZSU1",
+      "title": "Palmeiras integra goleiro pegador de pênalti e negocia empréstimo de Aranha - UOL",
+      "summaryKo": "파우메이라스, PK 전문 골키퍼 영입 및 아란냐 임대 추진",
+      "excerpt": "Palmeiras integra goleiro pegador de pênalti e negocia empréstimo de Aranha&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTFlSmhsNjNDbG9kQTZMME10RlpDUHpzdWNQdjdwMDJTN0gyN1M2MHdZSU10WWl5cmlHSlZ1azZZZHN2MVlveGVkck9IWjdUaGJSeV9tUURDcDZUaVpoZWVlMThfdlZyWlBycm8zeU93cEdFZUstcGlzRjM4aHdyeTJKM3o4WmdSZC1zMkJPYUhNTG45Wlg1OE1WQl9hc1hQQ01SYWFycWF6bExMWDdUakJ1dkxWa2tXdjVTUi1JTllTMVZ6ZGRsSmc0b0pjakoySjRYc3V5RzlURGJ3ZmNqWg?oc=5",
+      "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-06-25T15:46:40.000Z",
+      "publishedAt": "2026-06-25T17:25:13.000Z",
+      "whyItMattersKo": "PK 방어 능력이 뛰어난 골키퍼 영입은 승부처에서의 승리 확률을 높입니다.",
+      "fanTakeKo": "PK 막는 골키퍼라니 기대된다!",
       "tags": [
         "뉴스",
-        "자동번역"
+        "AI요약"
       ]
     },
     {
@@ -144,12 +162,28 @@
       ]
     },
     {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvRE",
+      "title": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista - SE Palmeiras",
+      "summaryKo": "파우메이라스 유소년, 수자노 원정 떠난다",
+      "excerpt": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvREwwczZUY0g0dkNGR2tNZXRUVFV3c0N3QTVBa3RyaVRJYU1nbndYUC0xSzdnN0M2ZWdoV3NNS2lsZ0JoTm5meDlDc2lFTFdzMldHWldGNWNIOWNqd1VuZlZoYV9UY0JaVnZXSElwZw?oc=5",
+      "source": "SE Palmeiras",
+      "language": "pt",
+      "publishedAt": "2026-06-24T17:27:42.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 상파울루 주장 리그 일정으로 유망주 성장을 점칠 수 있습니다.",
+      "fanTakeKo": "유망주들 활약 기대해 봅니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXB",
       "title": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro - ge",
       "summaryKo": "바스코 인수설, 레일라 경영진 합류 가능성",
       "excerpt": "José Lamacchia diz que filho tem acordo pela compra da SAF e cogita Leila em cargo no Vasco no futuro&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb21CbEdORlhySTRYaU5mT2RpdDVWZGZ5UHdlRkVnRzZOSURvWGJrQlNXTXBkdVUzWTAtMUZFUng0VG0zU2dhQkNDV1RjSUZoSkFpOWNzMVhkT3dLRkc2ZE1FUG1EdV9rU0JzRlRDQzgwZ09ZZVBTODhsTlVUMVlvZWxHYVotUGFfVWJpcGU3OXdhQ3pIWmFPTXk4dFdxZVNPeVg5UnJXOGl3OThUTkhRYjhxZGpRN2lOU0tFYWxJNUFEcWV4Nm8wSDN3aVVIbnFPWVptdDVBNkJRTTRNUmcwRm9lRXV5ck9jYWNSTmNSYkU2T1hLbHhCdDJBNNIBigJBVV95cUxNRE5hYnFYNDVZTFVZNTkyMjhYdXA0VnQ5SkxaOTFzQVkzSmFJQVJNY2xXeHEyZ1dXX0wtdGhsV1NPc2VPM1BBV2tBeUxMRUt1UThCSkJ6clgtdUZpZ2Z0RzVDTFdmbHFBZE1VUW5zb0FYMWVacjRQb083MlV6MkYyU1hKdGFucWRqRk5nMlRWckF5TzNfdWkwQzUxd0VqUGt3SURmaV9VOHN2b2ppcHpsLXhjVUh3eHlaNnV0aExhdE9KT1g2b2ZET0lDNWp4RHRpQjFSdGRRbmlEN0pwTWpZRVJHRGdoR3VwSjBpR2ExY05IdENHOTQ4S0tOQUc1eTRTVFVLbkpmcVNiQQ?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-06-25T21:47:07.000Z",
       "whyItMattersKo": "전직 CEO가 라이벌 팀 경영진에 합류할 수 있어 이적 시장에 영향이 예상됩니다.",
@@ -176,35 +210,17 @@
       ]
     },
     {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvRE",
-      "title": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista - SE Palmeiras",
-      "summaryKo": "파우메이라스 유소년, 수자노 원정 떠난다",
-      "excerpt": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvREwwczZUY0g0dkNGR2tNZXRUVFV3c0N3QTVBa3RyaVRJYU1nbndYUC0xSzdnN0M2ZWdoV3NNS2lsZ0JoTm5meDlDc2lFTFdzMldHWldGNWNIOWNqd1VuZlZoYV9UY0JaVnZXSElwZw?oc=5",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g",
+      "title": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’ - SE Palmeiras",
+      "summaryKo": "Cast는 Palmeiras 복귀에 대한 시험과 골키퍼 Kaique의 코멘트를 수행합니다: ‘매우 감사합니다’ - SE Palmeiras",
+      "excerpt": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g0a3hLRksxWFJqQmRUTVdKS2ZTTEZ6bHpYWjB3Z2NKTGg4R2J0V0pyY3VYR1FVTjZIVmdUdHYyX0NGLUlITGlVRXpJdVFWSmV3anFPYUk5eHByTTdoS3NLV2VWXzdRUG10YUNZcFdybzFqZ1Bub3pDNFhfZ3Rvak02MUUxemRqeHItM0l2X2c?oc=5",
       "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-24T17:27:42.000Z",
-      "whyItMattersKo": "미래의 주역들이 뛰는 상파울루 주장 리그 일정으로 유망주 성장을 점칠 수 있습니다.",
-      "fanTakeKo": "유망주들 활약 기대해 봅니다!",
+      "publishedAt": "2026-06-25T15:46:40.000Z",
       "tags": [
         "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2F",
-      "title": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique - GE",
-      "summaryKo": "파우메이라스, 바이에른서 콜롬비아 선수 영입",
-      "excerpt": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2FiRTNUalM2MUtCUEFfRDRtV2JJb2pubGU1S01Rd0ZKcjlFaDAzSi1ISTJCN25GRkNnTjluV0YwQUFCb2dPampjTUd5bjFyakFHSWhRUmR2TkN2bGhlT3ZSTjdEVFpQc3FIUVpSTGN5MkxCeklHZVhONTRLdjg4Y19RTno1R0FvVGNqNC13LUtZTnZqZEMwSWF0RGRMT1dSc194MGVxc0dSZDVEYlMweFlRYi1OeE1aczM5VWpwaE5yZnFVVm5lMkdIdzlaTDdhcmdMbUJmZjVZSnoyY9IBlgJBVV95cUxQWFlQR0dQNjdQZkRvUmtwNk1wMXgyLU43MmFCeUF0bjJHQnRxOW51ZEVzSTJaS3JnZXMxS0JZM2N3LXVadmFWcTQtVmtoSmdTeTRhblZMdGNDb0J3N1Jwb0NRUU9hUVlLWnI4MUxTMTIyRE9kdGt6cl9iQWNFcFNMTzlDUm51LXhoU0wwNGtGSi1ITXpIbnhhZFNnYjZJd29zUVRZWkJxb3prWFFXRlk0MDBnbjJxbkNNWXN6MFBmeDFOWnVRaVNxUHdwSUVuNHZaNDUxeUpTRHJHNkE3aHRWOFJ6emREeHNXNGNwRkxrUGZBN0o5NWhxNVkwRGY3LUJjc1pRSVRsU3k0LUZXTXJNMl9qdGh3dw?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-25T17:33:03.000Z",
-      "whyItMattersKo": "유럽 명문 바이에른에서 뛰던 선수를 완전 영입하여 팀의 미래 전력을 확보했습니다.",
-      "fanTakeKo": "바이에른서 온 선수라 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
+        "자동번역"
       ]
     },
     {
@@ -218,6 +234,22 @@
       "publishedAt": "2026-06-25T18:19:55.000Z",
       "whyItMattersKo": "시즌 준비를 위한 첫 단계로, 선수들의 현재 컨디션과 부상 여부를 확인합니다.",
       "fanTakeKo": "재집결했다, 시즌 준비 시작!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2F",
+      "title": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique - GE",
+      "summaryKo": "파우메이라스, 바이에른서 콜롬비아 선수 영입",
+      "excerpt": "Palmeiras anuncia contratação em definitivo de colombiana junto ao Bayern de Munique&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc3NweE80ZWN1aXRTZHhGSmRpT0NnVlpiMFh6Y2ZKUVFCYmtpU3ljc0JIU2FiRTNUalM2MUtCUEFfRDRtV2JJb2pubGU1S01Rd0ZKcjlFaDAzSi1ISTJCN25GRkNnTjluV0YwQUFCb2dPampjTUd5bjFyakFHSWhRUmR2TkN2bGhlT3ZSTjdEVFpQc3FIUVpSTGN5MkxCeklHZVhONTRLdjg4Y19RTno1R0FvVGNqNC13LUtZTnZqZEMwSWF0RGRMT1dSc194MGVxc0dSZDVEYlMweFlRYi1OeE1aczM5VWpwaE5yZnFVVm5lMkdIdzlaTDdhcmdMbUJmZjVZSnoyY9IBlgJBVV95cUxQWFlQR0dQNjdQZkRvUmtwNk1wMXgyLU43MmFCeUF0bjJHQnRxOW51ZEVzSTJaS3JnZXMxS0JZM2N3LXVadmFWcTQtVmtoSmdTeTRhblZMdGNDb0J3N1Jwb0NRUU9hUVlLWnI4MUxTMTIyRE9kdGt6cl9iQWNFcFNMTzlDUm51LXhoU0wwNGtGSi1ITXpIbnhhZFNnYjZJd29zUVRZWkJxb3prWFFXRlk0MDBnbjJxbkNNWXN6MFBmeDFOWnVRaVNxUHdwSUVuNHZaNDUxeUpTRHJHNkE3aHRWOFJ6emREeHNXNGNwRkxrUGZBN0o5NWhxNVkwRGY3LUJjc1pRSVRsU3k0LUZXTXJNMl9qdGh3dw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-06-25T17:33:03.000Z",
+      "whyItMattersKo": "유럽 명문 바이에른에서 뛰던 선수를 완전 영입하여 팀의 미래 전력을 확보했습니다.",
+      "fanTakeKo": "바이에른서 온 선수라 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -256,16 +288,16 @@
       ]
     },
     {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0lHd0VzWUx1Q3FQZF9iUzhWd2w2U0NxTF9vdmNkX0VDQW0zdl9IUnR3az",
-      "title": "Avanti e Palmeiras Pay: mais de 1,3 mil torcedores realizam tour exclusivo na Academia de Futebol - SE Palmeiras",
-      "summaryKo": "1,300명 팬, 파우메이라스 훈련장 특별 투어 참여",
-      "excerpt": "Avanti e Palmeiras Pay: mais de 1,3 mil torcedores realizam tour exclusivo na Academia de Futebol&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0lHd0VzWUx1Q3FQZF9iUzhWd2w2U0NxTF9vdmNkX0VDQW0zdl9IUnR3azNPS1hfWUtjbklGUktENVA4aUN0M3RhMHk1UWhOcHUyaFVhTVBtMlRXQ2I3Tjh1ZldNenZvVnZOQ25zWGJnZVlqZUpremN1SWoxSmxSMmtyak5DQXpaZmJWbjJSMFhuejRKVWxwOEYyTU9UY3VuN3cxUDJwRTRjekpDdmpVRU9RLWtKRGxWTk16UGI2QWlYRzg4dEF4YUhYeGUtbnc?oc=5",
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVV",
+      "title": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG - SE Palmeiras",
+      "summaryKo": "U-17팀, 승률 100%로 아틀레치쿠 원정 간다",
+      "excerpt": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVVRmQnNHZGl2QTlBaVNVUjdNdkZRczlGNVpLZVJDZ1BSdGx0Z1lxZ1JKRGFDb3d1aGNRTVYwNDQxX2RRV1R3bVNyY1VESi1hQmQ3ZkUxemk3SWJRbnlpZjVPZXA5OXItM3JGVHhV?oc=5",
       "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-24T14:10:10.000Z",
-      "whyItMattersKo": "팬들이 팀 시설을 직접 둘러보며 클럽에 대한 애정을 확인하는 행사입니다.",
-      "fanTakeKo": "나도 다음엔 훈련장 투어 가고 싶다!",
+      "publishedAt": "2026-06-22T16:54:48.000Z",
+      "whyItMattersKo": "유소년 팀의 완벽한 행진은 클럽의 미래 전력과 유스 시스템의 우수성을 보여주는 긍정적 신호입니다.",
+      "fanTakeKo": "유소년팀도 강하니까 든든하네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -277,7 +309,7 @@
       "summaryKo": "파우메이라스, 휴식 후 첫 훈련 소집",
       "excerpt": "Jogadores do Palmeiras fazem primeiro treino no gramado depois da reapresentação&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbEdRaE9uNVdCV2NWdDhqMTNmSC1aRVFhZUNVQ0Y4Q2V1YkY5TjFfaWJ3VEZ0M1pmZU1pdl8wTDFDSllRVjNyRkFzZlp5Ml9laUNVam1aSnhoMWc2WllrVEtKUDg0bzlXbEdXU1JfX1l6eDZ4TlBxUWtRZ3gyakFENVoweGFNYXg2aTVLdnFuaDBhX2xwS0txMG1oVThXQXV1QTNIbzdvQ1JZOXViTjJDaW1ZdUJZUFduVVNGa1lJbTNuOGtqaFNaaExfZ2REVE8yUWVHTWtYM3hTTWR1VGFFZ3NPZWzSAfMBQVVfeXFMT2hLSTZGYjBydXh5eHFRb3U3dVVuUURvZDVVczlwUm5EdlVBREZScTlzNzZ2b1NkSE5YVXhSQUtFc0JZU0RsOFYtSG5IMDVRVHhkVm00QlZOVjdMb1BhRGJPMzVLYl9Qb2hVX3prS1NrR3A5bnZkczQ4cE9WN1o5MDNJbE9aWVducTA4QnZvWWRSeExzeFMyOHNMUzlWNFBDTFRPeTJjOXNPWXhJOWpkNU1PbTlpMjU5OU9lRnNCcXdhRFhfMC1sX2tHb0YzN192Qk9LdEZmZDF6UlhGZVpTRGcxb0lOVVJYSHNHMTFacnNVNkww?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-06-25T21:59:37.000Z",
       "whyItMattersKo": "선수들이 휴식을 마치고 그라운드로 복귀하여 다음 경기를 위한 컨디션을 조절합니다.",
@@ -304,16 +336,16 @@
       ]
     },
     {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVV",
-      "title": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG - SE Palmeiras",
-      "summaryKo": "U-17팀, 승률 100%로 아틀레치쿠 원정 간다",
-      "excerpt": "100% no Brasileiro, Sub-17 do Verdão visita Atlético-MG&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMi1vSFZ2MjNDNWhhY0lvWUkzbXBNdm1wdk43cUJZOE5KRVpQOHFtVy1DVVRmQnNHZGl2QTlBaVNVUjdNdkZRczlGNVpLZVJDZ1BSdGx0Z1lxZ1JKRGFDb3d1aGNRTVYwNDQxX2RRV1R3bVNyY1VESi1hQmQ3ZkUxemk3SWJRbnlpZjVPZXA5OXItM3JGVHhV?oc=5",
-      "source": "SE Palmeiras",
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1BGSnpmUlNRZWNCUnFjcGdPN1FIem83NXVaeGtyUEkxUUNuUUNaanpYbG9",
+      "title": "Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 U-20, 플루미넨스 꺾고 선두",
+      "excerpt": "Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1BGSnpmUlNRZWNCUnFjcGdPN1FIem83NXVaeGtyUEkxUUNuUUNaanpYbG9PM0RBZ2lyTG5fdVBZdkdwT1dvNmdHazRvWkxSYm12TnZTSy1maDFGYkFIQjJUdEZvTXFHbjdOUzZYdkkxQk9TellHMUlRMjRrNy1JLTBBRWhxS2wxMkdtb2o0RWVmcEF4LVpaRkNQUldWVWljOWVpUmhR0gGrAUFVX3lxTE9QNXQzbnoteV9LNDJzc2swOVlXckhHNGkyQ2pYNHlkUkE5VUQ1RWsxcjljLWMwTDhvcm5rR1ZodkV6djJsc3hxS3BnTmdmNERKOUFSTGdWcmdyYzg0MVNiXy1hbzBQNWtwNHY3UVpRREZkWlZFelp5OTVoU3NGWGMtMXpNbzdqa1NZei1ycnJraTh4QmhUMzVMb2JiOEVoZmsxekFvNGgyamlmZw?oc=5",
+      "source": "Gazeta Esportiva",
       "language": "pt",
-      "publishedAt": "2026-06-22T16:54:48.000Z",
-      "whyItMattersKo": "유소년 팀의 완벽한 행진은 클럽의 미래 전력과 유스 시스템의 우수성을 보여주는 긍정적 신호입니다.",
-      "fanTakeKo": "유소년팀도 강하니까 든든하네요!",
+      "publishedAt": "2026-06-25T19:56:00.000Z",
+      "whyItMattersKo": "유소년 팀이 플루미넨스를 이기고 브라질레이렁 U-20 선두를 확보하며 기세가 좋습니다.",
+      "fanTakeKo": "유소년팀도 잘 크고 있네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -336,20 +368,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25",
-      "title": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário - LANCE!",
-      "summaryKo": "Palmeiras는 달력이 재개되기 거의 한 달 전에 준비해야 합니다. 입찰하세요!",
-      "excerpt": "Palmeiras ganha quase um mês para se preparar antes da retomada do calendário&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB3OU1YbnNOREwxLXQ4bjJwYjhqMGs0TEpQcXZIcXJ5dEJfTEFuWlVPT25lUl9rOUpEV3NQdHZ0cUtjRVpUUzAwWmVNcjVrVGdMcFI5LTZmZkdSRlE5UHdvaGJOLU5QZ3phV25WV2VIX29iMzNtMUt1b0U2Yl9nTUUzVU9zMFNiT1g1Z0JlTmtRQzFZT0w2WXlFVHN2MmRjM2NERHVEamZEcHE4bTNOcF9UWU5pVktu?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-06-25T12:15:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
       "id": "gnews-22-https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFpicExNT2pxY3Z1R1VzN3d6dXNSQzZlRFBWYTVPODlkM0ZWUmxobUF1cE",
       "title": "Veja quais atletas do Palmeiras estão vetados de trocar de clube - LANCE!",
       "summaryKo": "파우메이라스, 이적 금지 선수 명단 공개",
@@ -360,22 +378,6 @@
       "publishedAt": "2026-06-23T12:00:00.000Z",
       "whyItMattersKo": "팀의 핵심 선수들이 이적 시장에서 빠져나가지 못해 전력 유지에 유리합니다.",
       "fanTakeKo": "주전들은 꼭 지켜야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWNhYXVSeWUwM1FyU0Q4eE8zTFI4OEZjRFNmdGxqVXRZekxEWU5mV0kxQ2l",
-      "title": "Kaique retorna ao Palmeiras após empréstimo a clube de Portugal - Terra",
-      "summaryKo": "카이키, 포르투갈 임대 후 파우메이라스 복귀",
-      "excerpt": "Kaique retorna ao Palmeiras após empréstimo a clube de Portugal&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWNhYXVSeWUwM1FyU0Q4eE8zTFI4OEZjRFNmdGxqVXRZekxEWU5mV0kxQ2lBa091TG9xdVNJVUtiamJ2dzdZQlBsNGw2S0NDeWdJNFEwM3VrcEFrOVZCdzhVQzhGeTBpMmZSbHo5WVVhQWxqSTdkZzdDV1kxNUtDcmlpeHFXTGxuNVRmR3hLZHBKRWpTdVZMMWdDSlZUN1ZBN2RxcDA2R3E4RjBYT1VnSkp3dF96eW1TcWxiRHJWdWl2MnNDWlFuUXg1eEhZOC1FRHY3bFR4SEJBSU9qZXFnNkV5Y3FLcFVY?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-06-25T20:38:00.000Z",
-      "whyItMattersKo": "임대를 마친 선수가 복귀하여 다음 시즌 팀 전력 보강에 도움이 될 수 있습니다.",
-      "fanTakeKo": "돌아온 카이키, 잘 보여주길!",
       "tags": [
         "뉴스",
         "AI요약"
