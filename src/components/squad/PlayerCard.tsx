@@ -18,7 +18,8 @@ export function PlayerCard({ player }: { player: Player }) {
   const age = ageFromBirthDate(player.birthDate);
   const status = availabilityKo(player.availability);
   const agg = aggregateStats(player.stats);
-  const insight = playerInsight(player);
+  const unverified = player.confidence === "unverified";
+  const insight = unverified ? null : playerInsight(player);
 
   return (
     <Link
@@ -55,20 +56,35 @@ export function PlayerCard({ player }: { player: Player }) {
           </h3>
           <p className="truncate text-xs text-[var(--pm-muted)]">
             {player.name} · {player.positionKo}
+            {player.tierKo ? (
+              <span className="ml-1 rounded bg-sky-100 px-1 text-[10px] font-semibold text-sky-800">
+                {player.tierKo}
+              </span>
+            ) : null}
           </p>
         </div>
-        <span className={`pm-chip ${toneClass[status.tone]}`}>
-          {status.label}
+        <span
+          className={`pm-chip ${unverified ? toneClass.warn : toneClass[status.tone]}`}
+        >
+          {unverified ? "확인 필요" : status.label}
         </span>
       </div>
 
-      {/* one-line Korean interpretation */}
-      <p className="line-clamp-2 rounded-lg bg-[var(--pm-primary)]/[0.06] px-2 py-1.5 text-xs text-[var(--pm-ink)]">
-        <span className="font-bold text-[var(--pm-primary)]">
-          {insight.roleKo}
-        </span>{" "}
-        · {insight.styleKo}
-      </p>
+      {/* one-line Korean interpretation — suppressed for unverified rows so we
+          never auto-generate commentary on data we couldn't cross-verify. */}
+      {insight ? (
+        <p className="line-clamp-2 rounded-lg bg-[var(--pm-primary)]/[0.06] px-2 py-1.5 text-xs text-[var(--pm-ink)]">
+          <span className="font-bold text-[var(--pm-primary)]">
+            {insight.roleKo}
+          </span>{" "}
+          · {insight.styleKo}
+        </p>
+      ) : (
+        <p className="line-clamp-2 rounded-lg bg-rose-50 px-2 py-1.5 text-xs text-rose-800">
+          {player.integrityNoteKo ??
+            "1군 공식 기록에서 교차검증되지 않은 선수입니다."}
+        </p>
+      )}
 
       <dl className="grid grid-cols-3 gap-2 text-center text-xs">
         <Stat label="국적" value={player.nationalityKo} />

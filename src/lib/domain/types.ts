@@ -64,6 +64,18 @@ export type PlayerPositionGroup = "GK" | "DF" | "MF" | "FW";
 export type PreferredFoot = "left" | "right" | "both";
 export type PlayerAvailability = "available" | "injured" | "suspended" | "loan";
 
+/**
+ * Confidence that a roster entry is a real, current player — the result of
+ * cross-verifying the two free feeds (API-Football squad list ⟷ ESPN current
+ * roster/stats), a sanity rule, and a manual override layer. Stops a single
+ * feed's bad data (e.g. a mis-attributed phantom) from appearing as a real
+ * squad member. See src/lib/data/squad-integrity.ts.
+ *  - confirmed  : corroborated by ≥2 sources or a manual allowlist
+ *  - unverified : only one feed; shown with a "확인 필요" flag and NO auto-commentary
+ *  - rejected   : failed cross-check + sanity (or manually blocklisted) → hidden
+ */
+export type RosterConfidence = "confirmed" | "unverified" | "rejected";
+
 export interface CompetitionRef {
   /** Stable id used across adapters, e.g. "brasileirao". */
   id: string;
@@ -283,6 +295,12 @@ export interface Player {
   stats?: PlayerSeasonStats[];
   /** Short Korean bio/role description. */
   bio?: string;
+  /** Cross-verification result (see RosterConfidence). Absent ⇒ "confirmed". */
+  confidence?: RosterConfidence;
+  /** Korean note for a non-confirmed entry (e.g. "확인 필요" reason). */
+  integrityNoteKo?: string;
+  /** Honest tier label for an allowlisted edge case, e.g. "유스(Sub-20)". */
+  tierKo?: string;
 }
 
 export interface Coach {

@@ -54,7 +54,9 @@ export default async function PlayerPage({
   const player = res.data;
   if (!player) notFound();
 
-  const insight = playerInsight(player);
+  // Low-confidence rows get NO auto-generated commentary (data-integrity gate).
+  const unverified = player.confidence === "unverified";
+  const insight = unverified ? null : playerInsight(player);
   const age = ageFromBirthDate(player.birthDate);
   const status = availabilityKo(player.availability);
   const agg = aggregateStats(player.stats);
@@ -158,10 +160,17 @@ export default async function PlayerPage({
           <h1 className="text-2xl font-extrabold">{player.nameKo}</h1>
           <p className="text-sm text-[var(--pm-muted)]">
             {player.fullName ?? player.name} · {player.positionKo}
+            {player.tierKo ? (
+              <span className="ml-1.5 rounded bg-sky-100 px-1.5 py-0.5 text-xs font-semibold text-sky-800">
+                {player.tierKo}
+              </span>
+            ) : null}
           </p>
         </div>
-        <span className={`pm-chip ${toneClass[status.tone]}`}>
-          {status.label}
+        <span
+          className={`pm-chip ${unverified ? toneClass.warn : toneClass[status.tone]}`}
+        >
+          {unverified ? "확인 필요" : status.label}
         </span>
       </header>
 
@@ -192,66 +201,78 @@ export default async function PlayerPage({
         </dl>
       </section>
 
-      {/* Korean fan interpretation */}
-      <section aria-labelledby="insight-heading" className="space-y-2">
-        <div className="flex items-center justify-between">
-          <h2 id="insight-heading" className="text-lg font-bold">
-            한국 팬을 위한 해설
-          </h2>
-          <FreshnessBadge
-            origin="editorial"
-            source="에디토리얼 (수기 해설)"
-            fetchedAt={res.fetchedAt}
-          />
-        </div>
-        <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-          <InsightBlock icon="🎽" title="팀 내 역할" source={insight.source}>
-            {insight.roleKo}
-          </InsightBlock>
-          <InsightBlock icon="🎮" title="플레이 스타일" source={insight.source}>
-            {insight.styleKo}
-          </InsightBlock>
-          <InsightBlock
-            icon="❤️"
-            title="왜 주목해야 하나"
-            source={insight.source}
-          >
-            {insight.whyCareKo}
-          </InsightBlock>
-          {insight.narrativeKo ? (
+      {/* Korean fan interpretation — suppressed for unverified rows: we do not
+          auto-generate commentary on a player we could not cross-verify. */}
+      {insight ? (
+        <section aria-labelledby="insight-heading" className="space-y-2">
+          <div className="flex items-center justify-between">
+            <h2 id="insight-heading" className="text-lg font-bold">
+              한국 팬을 위한 해설
+            </h2>
+            <FreshnessBadge
+              origin="editorial"
+              source="에디토리얼 (수기 해설)"
+              fetchedAt={res.fetchedAt}
+            />
+          </div>
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+            <InsightBlock icon="🎽" title="팀 내 역할" source={insight.source}>
+              {insight.roleKo}
+            </InsightBlock>
             <InsightBlock
-              icon="🧵"
-              title="현재 내러티브"
+              icon="🎮"
+              title="플레이 스타일"
               source={insight.source}
             >
-              {insight.narrativeKo}
+              {insight.styleKo}
             </InsightBlock>
-          ) : null}
-          {insight.archetypeKo ? (
             <InsightBlock
-              icon="🔍"
-              title="비슷한 유형 (느슨한 비유)"
+              icon="❤️"
+              title="왜 주목해야 하나"
               source={insight.source}
-              tone="neutral"
             >
-              {insight.archetypeKo}
+              {insight.whyCareKo}
             </InsightBlock>
+            {insight.narrativeKo ? (
+              <InsightBlock
+                icon="🧵"
+                title="현재 내러티브"
+                source={insight.source}
+              >
+                {insight.narrativeKo}
+              </InsightBlock>
+            ) : null}
+            {insight.archetypeKo ? (
+              <InsightBlock
+                icon="🔍"
+                title="비슷한 유형 (느슨한 비유)"
+                source={insight.source}
+                tone="neutral"
+              >
+                {insight.archetypeKo}
+              </InsightBlock>
+            ) : null}
+            {insight.nameNoteKo ? (
+              <InsightBlock
+                icon="🗣️"
+                title="이름·발음 메모"
+                source={insight.source}
+                tone="neutral"
+              >
+                {insight.nameNoteKo}
+              </InsightBlock>
+            ) : null}
+          </div>
+          {player.bio ? (
+            <p className="pm-card p-4 text-sm leading-relaxed">{player.bio}</p>
           ) : null}
-          {insight.nameNoteKo ? (
-            <InsightBlock
-              icon="🗣️"
-              title="이름·발음 메모"
-              source={insight.source}
-              tone="neutral"
-            >
-              {insight.nameNoteKo}
-            </InsightBlock>
-          ) : null}
-        </div>
-        {player.bio ? (
-          <p className="pm-card p-4 text-sm leading-relaxed">{player.bio}</p>
-        ) : null}
-      </section>
+        </section>
+      ) : (
+        <InsightBlock icon="🔎" title="확인 필요" tone="warn">
+          {player.integrityNoteKo ??
+            "1군 공식 기록(ESPN)에서 교차검증되지 않은 선수입니다. 부정확한 정보를 보여주지 않기 위해 자동 해설을 생성하지 않았습니다."}
+        </InsightBlock>
+      )}
 
       {/* Season stats */}
       <section aria-labelledby="stats-heading" className="space-y-2">
