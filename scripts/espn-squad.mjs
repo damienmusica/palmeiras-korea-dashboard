@@ -58,6 +58,31 @@ function statVal(athlete, category, name) {
   return s ? Number(s.value) : undefined;
 }
 
+/**
+ * Validate the ESPN roster payload shape before we trust it. ESPN's JSON is
+ * unofficial/undocumented, so a silent schema drift (HTML error page, empty
+ * body, renamed fields) must FAIL LOUDLY rather than quietly producing an empty
+ * roster that would strip every player's stats. Throws on a malformed payload so
+ * the ingest keeps the last good snapshot instead.
+ */
+export function validateEspnRoster(j) {
+  if (!j || typeof j !== "object")
+    throw new Error("ESPN roster: not an object");
+  if (!Array.isArray(j.athletes)) {
+    throw new Error("ESPN roster: missing `athletes` array");
+  }
+  if (j.athletes.length === 0) {
+    throw new Error("ESPN roster: empty `athletes` (likely a transient error)");
+  }
+  const named = j.athletes.filter(
+    (a) => a && typeof a.displayName === "string" && a.displayName.length > 0,
+  );
+  if (named.length < j.athletes.length / 2) {
+    throw new Error("ESPN roster: too many athletes missing displayName");
+  }
+  return true;
+}
+
 /** Fetch the live ESPN roster + the season it reflects. Throws on failure. */
 export async function fetchEspnRoster() {
   const res = await fetch(
@@ -69,6 +94,7 @@ export async function fetchEspnRoster() {
   );
   if (!res.ok) throw new Error(`ESPN roster HTTP ${res.status}`);
   const j = await res.json();
+  validateEspnRoster(j);
   return {
     athletes: Array.isArray(j.athletes) ? j.athletes : [],
     season: String(j.season?.year || new Date().getFullYear()),
@@ -119,10 +145,15 @@ export function enrichSquadWithEspn(players, athletes, season) {
   let matched = 0;
   let natFilled = 0;
   let dobFilled = 0;
+  // Cross-check: API-Football players with NO ESPN corroboration. These are the
+  // single-feed entries the app-side integrity gate will flag/hide — logging
+  // them here gives the pipeline an early phantom-warning (perspective #1/#2).
+  const unmatched = [];
   const out = players.map((p) => {
     const a = matchAthlete(p, athletes);
     if (!a) {
       // No reliable ESPN match → drop any stale stats rather than mislabel them.
+      unmatched.push({ name: p.name, number: p.number ?? null });
       const { stats: _drop, ...rest } = p;
       void _drop;
       return rest;
@@ -159,5 +190,5 @@ export function enrichSquadWithEspn(players, athletes, season) {
 
     return { ...p, stats: [stat], nationality, nationalityKo, birthDate };
   });
-  return { players: out, matched, natFilled, dobFilled, season };
+  return { players: out, matched, natFilled, dobFilled, season, unmatched };
 }

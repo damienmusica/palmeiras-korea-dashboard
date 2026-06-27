@@ -6,7 +6,7 @@ import {
   RELIABILITY_META,
 } from "./news";
 import { competitionContext, allCompetitionContexts } from "./competitions";
-import { matchInsight } from "./matches";
+import { matchInsight, fixtureGapKo } from "./matches";
 import { playerInsight } from "./players";
 import { PALMEIRAS } from "@/lib/teams/palmeiras";
 import type { Match, NewsItem, Player } from "@/lib/domain/types";
@@ -180,6 +180,101 @@ describe("matchInsight", () => {
     expect(
       matchInsight(finishedMatch({}), PALMEIRAS).watchPointsKo.length,
     ).toBeGreaterThan(0);
+  });
+
+  it("gives Corinthians-specific derby watch points", () => {
+    const m = finishedMatch({
+      status: "scheduled",
+      score: undefined,
+      away: { id: "corinthians", name: "Corinthians", nameKo: "코린치안스" },
+    });
+    const wp = matchInsight(m, PALMEIRAS).watchPointsKo.join(" ");
+    expect(wp).toContain("데르비 파울리스타");
+    expect(wp).toMatch(/만샤 베르지|가비옹이스/);
+  });
+
+  it("detects the São Paulo derby even when the feed omits the 'FC' suffix", () => {
+    // ESPN reports "São Paulo" / "상파울루"; the rival is "São Paulo FC".
+    const m = finishedMatch({
+      status: "scheduled",
+      score: undefined,
+      away: { id: "saopaulo", name: "São Paulo", nameKo: "상파울루" },
+    });
+    const insight = matchInsight(m, PALMEIRAS);
+    expect(insight.rivalryKo).toBeTruthy();
+    expect(insight.watchPointsKo.join(" ")).toContain("쇼키-헤이");
+  });
+
+  it("gives Santos-specific derby watch points (different from Corinthians)", () => {
+    const cor = matchInsight(
+      finishedMatch({
+        status: "scheduled",
+        score: undefined,
+        away: { id: "corinthians", name: "Corinthians", nameKo: "코린치안스" },
+      }),
+      PALMEIRAS,
+    ).watchPointsKo.join(" ");
+    const san = matchInsight(
+      finishedMatch({
+        status: "scheduled",
+        score: undefined,
+        away: { id: "santos", name: "Santos FC", nameKo: "산투스 FC" },
+      }),
+      PALMEIRAS,
+    ).watchPointsKo.join(" ");
+    expect(san).toContain("사우다지");
+    expect(san).not.toEqual(cor);
+  });
+
+  it("frames a continental tie with knockout/away context", () => {
+    const m = finishedMatch({
+      status: "scheduled",
+      score: undefined,
+      venue: "away",
+      competition: {
+        id: "libertadores",
+        name: "CONMEBOL Libertadores",
+        nameKo: "코파 리베르타도레스",
+        shortName: "Libertadores",
+        kind: "continental",
+      },
+      away: { id: "bolivar", name: "Bolívar", nameKo: "볼리바르" },
+    });
+    const wp = matchInsight(m, PALMEIRAS).watchPointsKo.join(" ");
+    expect(wp).toContain("볼리바르");
+    expect(wp).toMatch(/합산|토너먼트/);
+  });
+
+  it("adds a big-match line for a notable non-derby league opponent", () => {
+    const m = finishedMatch({
+      status: "scheduled",
+      score: undefined,
+      away: { id: "flamengo", name: "Flamengo", nameKo: "플라멩구" },
+    });
+    const wp = matchInsight(m, PALMEIRAS).watchPointsKo.join(" ");
+    expect(wp).toContain("빅매치");
+    expect(wp).toContain("플라멩구");
+  });
+});
+
+describe("fixtureGapKo", () => {
+  it("returns null for a normal week-to-week gap", () => {
+    expect(
+      fixtureGapKo("2026-06-01T00:00:00Z", "2026-06-05T00:00:00Z"),
+    ).toBeNull();
+  });
+  it("flags a notable (A-match-sized) gap", () => {
+    const g = fixtureGapKo("2026-06-01T00:00:00Z", "2026-06-22T00:00:00Z");
+    expect(g?.days).toBe(21);
+    expect(g?.labelKo).toMatch(/공백|A매치/);
+  });
+  it("flags a major (tournament-sized) gap and mentions the World Cup", () => {
+    const g = fixtureGapKo("2026-06-01T00:00:00Z", "2026-07-20T00:00:00Z");
+    expect(g?.days).toBeGreaterThanOrEqual(35);
+    expect(g?.labelKo).toContain("월드컵");
+  });
+  it("returns null on invalid input", () => {
+    expect(fixtureGapKo("nope", "2026-07-20T00:00:00Z")).toBeNull();
   });
 });
 

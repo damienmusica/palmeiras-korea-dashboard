@@ -33,6 +33,7 @@ import {
   readStandingsSnapshot,
 } from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
+import { gateSquad } from "@/lib/data/squad-integrity";
 import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
 import { getDossier, getCoachDossier } from "@/lib/teams/palmeiras-dossier";
 
@@ -90,8 +91,23 @@ export async function getSquad(): Promise<DataResult<Squad>> {
     // orthography is stable and correct regardless of how data was produced.
     const snapshot = readSquadSnapshot();
     if (snapshot && snapshot.data.players.length > 0) {
-      const players = snapshot.data.players.map((p) => {
-        const d = getDossier(p.name);
+      // Data-integrity gate: cross-verify each entry (ESPN ⟷ API-Football),
+      // apply sanity rules + the manual override layer, and drop phantoms before
+      // anything reaches the UI. See src/lib/data/squad-integrity.ts.
+      const gated = gateSquad(snapshot.data.players);
+      if (gated.hidden.length > 0) {
+        console.warn(
+          "[squad-integrity] hid",
+          gated.hidden.length,
+          "low-confidence entr(y/ies):",
+          gated.hidden.map((h) => h.name).join(", "),
+        );
+      }
+      const players = gated.players.map((p) => {
+        // (4) Never auto-generate editorial for an unverified row — the curated
+        // dossier is only consulted for cross-verified players.
+        const verified = p.confidence !== "unverified";
+        const d = verified ? getDossier(p.name) : null;
         // Live API facts win; the curated dossier only fills gaps.
         return {
           ...p,
@@ -103,7 +119,7 @@ export async function getSquad(): Promise<DataResult<Squad>> {
               : d?.nationalityKo || "정보 없음",
           birthDate: p.birthDate || d?.birthDate,
           heightCm: p.heightCm || d?.heightCm,
-          bio: p.bio || d?.bioKo,
+          bio: verified ? p.bio || d?.bioKo : undefined,
         };
       });
       const cd = getCoachDossier(snapshot.data.coach.name);

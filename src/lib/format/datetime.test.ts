@@ -4,11 +4,33 @@ import {
   toKST,
   toBrazil,
   relativeTimeKo,
+  freshnessLevel,
   dayOffsetInZone,
   isTodayInZone,
   KST_TIMEZONE,
   BRAZIL_TIMEZONE,
 } from "./datetime";
+
+describe("freshnessLevel", () => {
+  const now = new Date("2026-06-28T12:00:00.000Z");
+  it("is fresh within the default window", () => {
+    expect(freshnessLevel("2026-06-28T11:40:00.000Z", undefined, now)).toBe(
+      "fresh",
+    ); // 20 min old
+  });
+  it("is stale past the default 75-min window", () => {
+    expect(freshnessLevel("2026-06-28T10:00:00.000Z", undefined, now)).toBe(
+      "stale",
+    ); // 120 min old
+  });
+  it("honours a tighter match-window threshold", () => {
+    // 20 min old: fresh by default, stale under a 15-min match-window threshold.
+    expect(freshnessLevel("2026-06-28T11:40:00.000Z", 15, now)).toBe("stale");
+  });
+  it("treats an invalid timestamp as stale", () => {
+    expect(freshnessLevel("not-a-date", undefined, now)).toBe("stale");
+  });
+});
 
 describe("formatInZone", () => {
   it("formats the same instant differently per timezone", () => {

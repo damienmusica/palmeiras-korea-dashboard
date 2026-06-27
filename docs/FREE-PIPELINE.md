@@ -55,7 +55,25 @@ The committed JSON file **is the database**. No KV, no Postgres, no server.
 npm run ingest      # regenerates data/news.json from live Google News
 npm run dev         # the site reads the snapshot
 DISABLE_MT=1 npm run ingest   # skip machine translation (faster / offline-ish)
+node scripts/ingest.mjs --live  # match-window mode (matches + standings only)
 ```
+
+## Live (match-window) refresh
+
+`--live` (or `INGEST_MODE=live`) is a **quota-thrifty** mode for near-real-time
+scores. It refreshes **only `matches.json` + `standings.json`** (news/squad don't
+change mid-match and squad needs the API key) and **self-limits to the match
+window**: it reads the last `matches.json`, and if `now` isn't within
+`kickoff − 20min … kickoff + 160min` of a Palmeiras game, it exits immediately
+having spent **zero** ESPN calls. So a 5-minute cron is safe — it only does work
+while a game is actually on. During a live match it attaches the live scoreline
+and re-fetches goals/scorers each tick (finished matches keep using the cache).
+
+To enable it, add a SECOND scheduled workflow on a ~5-minute cron that runs
+`node scripts/ingest.mjs --live` and commits changed `data/` (same shape as the
+30-min `refresh-data.yml`, just a tighter cron + the `--live` flag). **Keep the
+regular 30-min full run for news/squad.** (The `.github` workflow YAML is added
+by the repo owner — it is intentionally not committed by the assistant.)
 
 ## Deploy (all free tiers)
 
@@ -73,7 +91,10 @@ DISABLE_MT=1 npm run ingest   # skip machine translation (faster / offline-ish)
 - `getNews`      — news.json snapshot → request-time RSS → seed
 - `getStandings` — standings.json snapshot (ESPN) → seed
 - `getMatches`   — matches.json snapshot (ESPN) → seed
-- `getSquad`     — seed roster + real API-Football photos merged by name
+- `getSquad`     — squad.json (API-Football roster + ESPN stats) → seed; every
+  entry passes the **data-integrity gate** (`src/lib/data/squad-integrity.ts`):
+  cross-verify ESPN ⟷ API-Football, apply sanity rules + a manual allow/blocklist
+  (`src/lib/teams/palmeiras-roster-overrides.ts`), drop phantoms, flag unverified.
 
 ## Possible next steps
 
@@ -81,7 +102,8 @@ DISABLE_MT=1 npm run ingest   # skip machine translation (faster / offline-ish)
   graceful "데이터 없음"). A free leaders source could fill `topScorers`/`topAssisters`.
 - **Continental fixtures**: add Libertadores/Copa do Brasil ESPN slugs alongside
   `bra.1` and map their `CompetitionRef`.
-- **Live scores**: poll ESPN scoreboard from the client only during match windows.
+- **Live scores**: ✅ server-side via `--live` match-window mode (see above). A
+  future option is a client-side poll for sub-minute updates during a game.
 
 ## Security notes baked in
 
