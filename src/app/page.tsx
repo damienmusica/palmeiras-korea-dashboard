@@ -57,6 +57,7 @@ export default async function HomePage() {
               fetchedAt={standingsRes.fetchedAt}
               fellBack={standingsRes.fellBack}
               note={standingsRes.note}
+              staleAfterMin={model.liveMatch ? 15 : undefined}
             />
           }
         >
@@ -94,6 +95,7 @@ export default async function HomePage() {
               fetchedAt={matchesRes.fetchedAt}
               fellBack={matchesRes.fellBack}
               note={matchesRes.note}
+              staleAfterMin={model.liveMatch ? 15 : undefined}
             />
           }
         />

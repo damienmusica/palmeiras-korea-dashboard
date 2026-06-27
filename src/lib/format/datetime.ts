@@ -110,6 +110,30 @@ export function relativeTimeKo(iso: string, now: Date = new Date()): string {
   return future ? `${value}${scale.label} 후` : `${value}${scale.label} 전`;
 }
 
+export type FreshnessLevel = "fresh" | "stale";
+
+/**
+ * Whether a live-origin snapshot is too old to still be presented as "fresh".
+ * The free pipeline refreshes roughly every 30 min, so we tolerate a couple of
+ * missed cycles before flagging (default 75 min) to avoid false alarms from the
+ * ISR/revalidate lag. Pass a tighter `staleAfterMin` inside match windows, where
+ * a stalled feed matters within minutes. `now` is injectable for tests.
+ *
+ * This is what stops a 30-min snapshot from reading "방금 전 · 라이브" for hours
+ * after the GitHub Actions cron silently dies — once stale, the badge turns to a
+ * "갱신 지연" warning instead of looking falsely live.
+ */
+export function freshnessLevel(
+  iso: string,
+  staleAfterMin = 75,
+  now: Date = new Date(),
+): FreshnessLevel {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return "stale";
+  const minutes = (now.getTime() - d.getTime()) / 60000;
+  return minutes >= staleAfterMin ? "stale" : "fresh";
+}
+
 /**
  * Whole-day difference between an instant and `now`, evaluated in a timezone.
  * 0 = today, 1 = tomorrow, -1 = yesterday. Used for "what changed today".

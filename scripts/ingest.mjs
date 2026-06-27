@@ -451,7 +451,13 @@ function mapEvent(e, competition) {
   };
   const hs = Number(home.score?.value ?? home.score);
   const as = Number(away.score?.value ?? away.score);
-  if (status === "finished" && Number.isFinite(hs) && Number.isFinite(as)) {
+  // Attach the score for LIVE matches too, not just finished ones — otherwise an
+  // in-progress game shows no scoreline on the home "지금 진행 중" card.
+  if (
+    (status === "finished" || status === "live") &&
+    Number.isFinite(hs) &&
+    Number.isFinite(as)
+  ) {
     item.score = { home: hs, away: as };
   }
   return item;
@@ -541,9 +547,12 @@ async function ingestMatches() {
   );
   let summaryCalls = 0;
   for (const it of items) {
-    if (it.status !== "finished") continue;
+    const isLive = it.status === "live";
+    if (it.status !== "finished" && !isLive) continue;
     const cached = prevEvents.get(it.id);
-    if (cached && cached.length) {
+    // Finished matches never change → reuse cached events. A LIVE match changes
+    // every few minutes, so always re-fetch its goals/scorers (skip the cache).
+    if (!isLive && cached && cached.length) {
       it.events = cached;
       continue;
     }
@@ -659,6 +668,17 @@ async function enrichAndWriteSquad(players, coach, baseSource) {
     log(
       `ESPN stats: matched ${r.matched}/${outPlayers.length}, nat+${r.natFilled}, dob+${r.dobFilled}`,
     );
+    // Cross-check warning: players on API-Football but NOT corroborated by ESPN.
+    // The app-side integrity gate (src/lib/data/squad-integrity.ts) flags/hides
+    // these — surfacing them here makes a feed phantom visible in CI logs.
+    if (r.unmatched?.length) {
+      log(
+        `⚠ ESPN cross-check: ${r.unmatched.length} single-feed player(s) (review for phantoms):`,
+        r.unmatched
+          .map((u) => `${u.name}${u.number ? ` #${u.number}` : ""}`)
+          .join(", "),
+      );
+    }
   } catch (err) {
     log("ESPN stats enrichment failed (keeping existing stats):", err.message);
   }
@@ -844,9 +864,55 @@ async function step(name, fn) {
   }
 }
 
+// Live (match-window) mode — invoked as `node scripts/ingest.mjs --live`. Meant
+// to run on a tighter cron (~5 min) ONLY during games, refreshing just matches +
+// standings (news/squad don't change mid-match and squad needs the API key). It
+// self-limits to the match window below so a frequent cron spends ESPN quota
+// only while a Palmeiras game is actually on.
+const LIVE_MODE =
+  process.argv.includes("--live") || process.env.INGEST_MODE === "live";
+
+// Window around a kickoff during which live refreshes are worthwhile.
+const LIVE_PRE_MS = 20 * 60 * 1000; //  start 20 min before kickoff
+const LIVE_POST_MS = 160 * 60 * 1000; // through ~2.5 h after (full match + stoppage)
+
+/**
+ * The Palmeiras match whose window currently contains `now`, or null. Read from
+ * the last matches snapshot so the live cron needs no extra call to decide
+ * whether to do anything.
+ */
+function liveWindowMatch(now = Date.now()) {
+  const snap = readData("matches.json");
+  for (const m of snap?.items || []) {
+    const k = new Date(m.kickoff).getTime();
+    if (Number.isNaN(k)) continue;
+    if (now >= k - LIVE_PRE_MS && now <= k + LIVE_POST_MS) return m;
+  }
+  return null;
+}
+
 async function main() {
   loadEnvLocal();
   if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true });
+
+  if (LIVE_MODE) {
+    const m = liveWindowMatch();
+    if (!m) {
+      log(
+        "live mode: no Palmeiras match window right now — skipping (quota saved)",
+      );
+      return;
+    }
+    const label = `${m.home?.nameKo || m.home?.name} vs ${m.away?.nameKo || m.away?.name}`;
+    log(
+      `live mode: match window active (${label}) — refreshing standings + matches`,
+    );
+    await step("standings", ingestStandings);
+    await step("matches", ingestMatches);
+    log("done (live)");
+    return;
+  }
+
   await step("news", ingestNews);
   await step("standings", ingestStandings);
   await step("matches", ingestMatches);

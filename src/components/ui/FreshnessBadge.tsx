@@ -1,5 +1,5 @@
 import type { DataOrigin } from "@/lib/domain/types";
-import { relativeTimeKo } from "@/lib/format/datetime";
+import { relativeTimeKo, freshnessLevel } from "@/lib/format/datetime";
 
 interface Props {
   origin: DataOrigin;
@@ -7,6 +7,12 @@ interface Props {
   fetchedAt: string;
   fellBack?: boolean;
   note?: string;
+  /**
+   * Minutes after which a live-origin snapshot is flagged "갱신 지연". Defaults
+   * to 75 (tolerates ~2 missed 30-min cron cycles); pass a tighter value (e.g.
+   * 15) inside match windows where a stalled feed matters within minutes.
+   */
+  staleAfterMin?: number;
 }
 
 interface OriginMeta {
@@ -45,15 +51,35 @@ export function FreshnessBadge({
   fetchedAt,
   fellBack,
   note,
+  staleAfterMin,
 }: Props) {
   const meta = ORIGIN_META[origin] ?? ORIGIN_META.seed;
-  const labelKo = fellBack ? "소스 불가 · 시드 데이터" : meta.labelKo;
-  const tone = fellBack ? "warn" : meta.tone;
+
+  // A live-origin snapshot that hasn't refreshed in a while must NOT keep
+  // looking live — downgrade it to a "갱신 지연" warning so freshness stays
+  // honest if the cron stalls. Seed/editorial/manual content is timeless and
+  // exempt; an explicit fallback already warns on its own.
+  const isLiveOrigin = meta.tone === "live";
+  const stale =
+    isLiveOrigin &&
+    !fellBack &&
+    freshnessLevel(fetchedAt, staleAfterMin) === "stale";
+
+  const labelKo = fellBack
+    ? "소스 불가 · 시드 데이터"
+    : stale
+      ? "갱신 지연"
+      : meta.labelKo;
+  const tone = fellBack || stale ? "warn" : meta.tone;
+  const dot = stale ? "○" : meta.dot;
 
   const rel = relativeTimeKo(fetchedAt);
   const title = [
     `출처: ${source}`,
     `갱신: ${rel}`,
+    stale
+      ? "자동 갱신이 지연되고 있습니다 (데이터가 최신이 아닐 수 있음)"
+      : null,
     note ? `메모: ${note}` : null,
   ]
     .filter(Boolean)
@@ -61,7 +87,7 @@ export function FreshnessBadge({
 
   return (
     <span className={`pm-chip ${TONE_CLASS[tone]}`} title={title}>
-      <span aria-hidden="true">{meta.dot}</span>
+      <span aria-hidden="true">{dot}</span>
       <span>{labelKo}</span>
       {rel ? <span className="font-normal opacity-70">· {rel}</span> : null}
     </span>
