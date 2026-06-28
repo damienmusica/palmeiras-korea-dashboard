@@ -129,9 +129,48 @@ export default function GuidePage() {
                 </span>
               </div>
               <p className="mt-1 text-sm leading-relaxed">{r.context}</p>
+              {r.h2h ? (
+                <div className="mt-3 rounded-lg bg-black/[0.03] p-3">
+                  <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+                    <span className="text-xs font-bold text-[var(--pm-muted)]">
+                      통산 전적 · {r.h2h.played}경기
+                    </span>
+                    <span className="text-xs font-semibold text-[var(--pm-primary-text)]">
+                      {r.h2h.summaryKo}
+                    </span>
+                  </div>
+                  <div className="mt-1.5 flex items-center gap-1.5 text-sm font-bold tabular-nums">
+                    <span className="rounded bg-emerald-700 px-2 py-0.5 text-white">
+                      {r.h2h.won}승
+                    </span>
+                    <span className="rounded bg-gray-500 px-2 py-0.5 text-white">
+                      {r.h2h.drawn}무
+                    </span>
+                    <span className="rounded bg-rose-600 px-2 py-0.5 text-white">
+                      {r.h2h.lost}패
+                    </span>
+                    <span className="ml-1 text-xs font-normal text-[var(--pm-muted)]">
+                      (파우메이라스 기준)
+                    </span>
+                  </div>
+                  {r.h2h.noteKo ? (
+                    <p className="mt-1.5 text-xs leading-relaxed text-[var(--pm-muted)]">
+                      ⚖️ {r.h2h.noteKo}
+                    </p>
+                  ) : null}
+                  <p className="mt-1 text-[10px] text-[var(--pm-muted)]">
+                    출처: {r.h2h.sourceKo}
+                  </p>
+                </div>
+              ) : null}
             </div>
           ))}
         </div>
+        <p className="text-xs text-[var(--pm-muted)]">
+          ※ 통산 전적은 집계 기관과 포함 대회(친선·주 선수권 등)에 따라 경기
+          수가 소폭 다릅니다. 위 수치는 출처·기준일을 함께 표기했으며, 세 더비
+          모두에서 파우메이라스가 통산 우위라는 점은 모든 집계에서 일치합니다.
+        </p>
       </section>
 
       {/* 4.3 Living fan culture (anthem, mascot, torcida, stadium lore) */}

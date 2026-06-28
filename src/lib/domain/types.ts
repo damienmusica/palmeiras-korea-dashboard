@@ -104,6 +104,29 @@ export interface GlossaryEntry {
   category: "general" | "club" | "tactics" | "culture" | "chant";
 }
 
+/**
+ * All-time head-to-head record vs a rival, from the tracked team's perspective.
+ * Hand-researched + web-verified across multiple sources at build time. All-time
+ * tallies vary slightly by source / competition inclusion (and some derbies are
+ * officially disputed between the clubs), so every entry carries an explicit
+ * source + "as of" and, where relevant, a dispute note — no false precision.
+ */
+export interface RivalH2H {
+  /** Total matches in the cited tally. */
+  played: number;
+  /** Tracked-team wins. */
+  won: number;
+  drawn: number;
+  /** Tracked-team losses (= rival wins). */
+  lost: number;
+  /** Korean one-line read, e.g. "파우메이라스 근소 우세". */
+  summaryKo: string;
+  /** Provenance + as-of, e.g. "영문 위키피디아 Derby Paulista · 2026-04-12 기준". */
+  sourceKo: string;
+  /** Optional caveat (e.g. the clubs count differently). */
+  noteKo?: string;
+}
+
 export interface RivalEntry {
   name: string;
   nameKo: string;
@@ -112,6 +135,8 @@ export interface RivalEntry {
   derbyKo?: string;
   /** Korean context paragraph. */
   context: string;
+  /** All-time head-to-head record (verified). Omitted when not verifiable. */
+  h2h?: RivalH2H;
 }
 
 /**

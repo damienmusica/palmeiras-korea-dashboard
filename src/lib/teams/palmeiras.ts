@@ -140,6 +140,17 @@ export const PALMEIRAS: TeamConfig = {
       derbyKo: "데르비 파울리스타",
       context:
         "파우메이라스 최대 라이벌. 상파울루를 양분하는 두 거대 클럽의 더비로, 브라질에서 가장 뜨거운 라이벌전 중 하나입니다. 1933년 첫 경기 이후 100년 넘게 이어지고 있습니다.",
+      // All-time series (Palmeiras' view) cross-checked vs myFootballFacts
+      // (137-120-135) — Palmeiras' win/draw counts agree; only the rival-win
+      // total differs by which early-era matches are counted.
+      h2h: {
+        played: 390,
+        won: 137,
+        drawn: 120,
+        lost: 133,
+        summaryKo: "파우메이라스 근소 우세",
+        sourceKo: "영문 위키피디아 Derby Paulista · 2026-04-12 기준",
+      },
     },
     {
       name: "São Paulo FC",
@@ -148,6 +159,16 @@ export const PALMEIRAS: TeamConfig = {
       derbyKo: "쇼키-헤이 ('왕들의 충돌')",
       context:
         "상파울루를 대표하는 또 다른 명문과의 더비. 두 클럽 모두 풍부한 우승 역사를 가지고 있어 '왕들의 충돌'로 불립니다.",
+      h2h: {
+        played: 355,
+        won: 123,
+        drawn: 116,
+        lost: 116,
+        summaryKo: "파우메이라스 근소 우세",
+        sourceKo: "영문 위키피디아 Choque-Rei · 2026-03-21 기준",
+        noteKo:
+          "두 구단의 공식 집계가 서로 달라(포함 경기 차이) 통산 전적이 논쟁적입니다 — 상파울루 측은 거의 동률로 봅니다. 모든 집계에서 파우메이라스가 근소 우위.",
+      },
     },
     {
       name: "Santos FC",
@@ -156,6 +177,16 @@ export const PALMEIRAS: TeamConfig = {
       derbyKo: "클라시쿠 다 사우다지 ('그리움의 더비')",
       context:
         "펠레의 산투스와의 전통 더비. 1960~70년대 명승부가 많아 '그리움의 더비'라는 향수 어린 이름이 붙었습니다.",
+      // Cross-checked vs Goal.com/Imortais (356: 155-92-109) — same picture,
+      // a few more friendlies counted there.
+      h2h: {
+        played: 348,
+        won: 151,
+        drawn: 89,
+        lost: 108,
+        summaryKo: "파우메이라스 우세",
+        sourceKo: "영문 위키피디아 Clássico da Saudade · 2026-05-02 기준",
+      },
     },
   ],
   legends: PALMEIRAS_LEGENDS,
