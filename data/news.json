@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-28T18:45:36.629Z",
+  "fetchedAt": "2026-06-28T20:14:47.557Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYkw1TVhIdjl1SWpuYW52YjhMYUFsakphdnpSaUFXazdLQTBfNmlYd2FhX1E",
@@ -146,22 +146,6 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUx",
-      "title": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo - GE",
-      "summaryKo": "파우메이라스, 월드컵 휴식기 아벨 페헤이라 휴가 늘려",
-      "excerpt": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUxkclRUX1JrV1REN2d6Unc4N3hKME5rS0VrTzVyeW96N053TjBLVG5RVkZUeDFJUjdaQTJMVnNxUHlKTEt3bUNUWTVZc0NwdVNuWTU3QlRJTGtlU0t6TVcxdElYTEpHdEhuY201MnhfTXJFNnQxNDVYSEkyU003ejhCVWdXcEVYZ2dQclhET3AyQWJKa1hZYldQc3cyREJ2VUZFNTJkX0EwTDJ5b0pKcFVMUGRBSnNBZE5BU2k5bko5dEFTZGFuVFlp0gGDAkFVX3lxTE5CYm5MWXZPVHNKMWNrYkxlUWV5NmZKejRmbmx0dVZrRG92RGkxX2RwQ3VveTNpU1MyMTlHZUk2TXhpVHRpN0V6aUJUQWNUX3hVQjBaQnlaN043X1V6amtDMi1rNDFaMVRPZ3pMOE9GdURvRGcyZVpzMmdKcUVFcEN1VVRnVEtXSkFVelN5dlQ2ejE5dl9MVVdwT1pFUWdqa0taZUFnV0w0MHAtRFhJeDd6ZlV3bEZUd0F4NVJ0OUxjbzNvT21abXR1N0RLRkxFdnVvQjkzaUtlTkZlUGVFWmNsMEZkOHBuOWZiUWZVdnE5MVFNbWFXZHRrWFEtTVRETHpNSU0?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-27T07:01:01.000Z",
-      "whyItMattersKo": "감독의 충분한 휴식은 시즌 후반기 팀 전력과 전술 운영에 긍정적 영향을 줍니다.",
-      "fanTakeKo": "아벨 감독, 충분히 쉬고 오세요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-9-https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGZ2U1EzMFZGUE0wWEJfQkNpRmZ3S0hqeXAtbkZwNWNzSDEyOGhZT2JaZl9",
       "title": "Conmebol define datas e horários das oitavas da Libertadores entre Palmeiras e Cerro Porteño - LANCE!",
       "summaryKo": "파우메이라스, 리베르타도레스 16강 일정 확정",
@@ -172,6 +156,22 @@
       "publishedAt": "2026-06-03T07:00:00.000Z",
       "whyItMattersKo": "16강 상대와 일정이 확정돼 팀의 경기 준비와 전략 수립에 도움이 됩니다.",
       "fanTakeKo": "리베르타도레스 16강 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUx",
+      "title": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo - GE",
+      "summaryKo": "파우메이라스, 월드컵 휴식기 아벨 페헤이라 휴가 늘려",
+      "excerpt": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUxkclRUX1JrV1REN2d6Unc4N3hKME5rS0VrTzVyeW96N053TjBLVG5RVkZUeDFJUjdaQTJMVnNxUHlKTEt3bUNUWTVZc0NwdVNuWTU3QlRJTGtlU0t6TVcxdElYTEpHdEhuY201MnhfTXJFNnQxNDVYSEkyU003ejhCVWdXcEVYZ2dQclhET3AyQWJKa1hZYldQc3cyREJ2VUZFNTJkX0EwTDJ5b0pKcFVMUGRBSnNBZE5BU2k5bko5dEFTZGFuVFlp0gGDAkFVX3lxTE5CYm5MWXZPVHNKMWNrYkxlUWV5NmZKejRmbmx0dVZrRG92RGkxX2RwQ3VveTNpU1MyMTlHZUk2TXhpVHRpN0V6aUJUQWNUX3hVQjBaQnlaN043X1V6amtDMi1rNDFaMVRPZ3pMOE9GdURvRGcyZVpzMmdKcUVFcEN1VVRnVEtXSkFVelN5dlQ2ejE5dl9MVVdwT1pFUWdqa0taZUFnV0w0MHAtRFhJeDd6ZlV3bEZUd0F4NVJ0OUxjbzNvT21abXR1N0RLRkxFdnVvQjkzaUtlTkZlUGVFWmNsMEZkOHBuOWZiUWZVdnE5MVFNbWFXZHRrWFEtTVRETHpNSU0?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-06-27T07:01:01.000Z",
+      "whyItMattersKo": "감독의 충분한 휴식은 시즌 후반기 팀 전력과 전술 운영에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "아벨 감독, 충분히 쉬고 오세요!",
       "tags": [
         "뉴스",
         "AI요약"
