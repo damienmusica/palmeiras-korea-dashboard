@@ -79,7 +79,7 @@ export default async function HomePage() {
             <span className="h-2 w-2 animate-pulse rounded-full bg-rose-600" />
             지금 진행 중
           </h2>
-          <MatchCard match={model.liveMatch} />
+          <MatchCard match={model.liveMatch} linkToDetail />
         </section>
       ) : null}
 
@@ -118,7 +118,7 @@ export default async function HomePage() {
               ⏮️ 지난 결과
             </h3>
             {model.lastResult ? (
-              <MatchCard match={model.lastResult} />
+              <MatchCard match={model.lastResult} linkToDetail />
             ) : (
               <EmptyState title="최근 경기 기록이 없습니다" />
             )}

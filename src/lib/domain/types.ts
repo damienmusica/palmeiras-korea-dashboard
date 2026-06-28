@@ -350,14 +350,53 @@ export interface Match {
   };
   /** Optional per-match notable events (goals etc.), may be empty. */
   events?: MatchEvent[];
+  /** Optional starting lineups + bench + formation (finished/live matches). */
+  lineups?: MatchLineups;
 }
 
 export interface MatchEvent {
   minute: number;
+  /** Display clock, e.g. "45'", "90'+2'" — preserves stoppage time. */
+  clock?: string;
   type: "goal" | "yellow" | "red" | "sub" | "penalty";
   team: "home" | "away";
+  /** Primary player: scorer / carded player / the sub coming ON. */
   player: string;
+  /** Secondary: assister (goal) or the player going OFF (sub). */
   detail?: string;
+}
+
+/** Pitch line a starter belongs to, for the formation layout. */
+export type LineupLine = "GK" | "DEF" | "MID" | "FWD";
+
+export interface LineupPlayer {
+  name: string;
+  nameKo: string;
+  number?: number;
+  /** ESPN position abbreviation, e.g. "G", "CD-L", "CM", "LF". */
+  pos?: string;
+  /** Bucketed pitch line (derived from `pos`), used to lay out the formation. */
+  line: LineupLine;
+  starter: boolean;
+  /** ESPN formation slot (1..11 for starters), used to order within a line. */
+  formationPlace?: number;
+  /** Starter who was substituted off during the match. */
+  subbedOut?: boolean;
+  /** Bench player who came on during the match. */
+  subbedIn?: boolean;
+}
+
+export interface TeamLineup {
+  side: "home" | "away";
+  /** Formation string as reported by the source, e.g. "4-3-3". */
+  formation?: string;
+  starters: LineupPlayer[];
+  bench: LineupPlayer[];
+}
+
+export interface MatchLineups {
+  home: TeamLineup;
+  away: TeamLineup;
 }
 
 export type FormResult = "W" | "D" | "L";

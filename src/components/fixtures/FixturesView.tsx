@@ -50,7 +50,7 @@ function UpcomingGrid({
           ) : null}
           <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
             {seg.rows.map((m) => (
-              <MatchCard key={m.id} match={m} />
+              <MatchCard key={m.id} match={m} linkToDetail />
             ))}
           </div>
         </div>
@@ -188,7 +188,7 @@ export function FixturesView({ matches }: { matches: Match[] }) {
               </h2>
               <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
                 {finished.map((m) => (
-                  <MatchCard key={m.id} match={m} />
+                  <MatchCard key={m.id} match={m} linkToDetail />
                 ))}
               </div>
             </section>
@@ -199,7 +199,7 @@ export function FixturesView({ matches }: { matches: Match[] }) {
       ) : (
         <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           {filtered.map((m) => (
-            <MatchCard key={m.id} match={m} />
+            <MatchCard key={m.id} match={m} linkToDetail />
           ))}
         </div>
       )}

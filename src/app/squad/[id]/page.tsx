@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPlayer, getSquad, getMatches, getNews } from "@/lib/adapters";
 import { playerInsight } from "@/lib/interpret/players";
+import { getDossier, hasCareerFacts } from "@/lib/teams/palmeiras-dossier";
 import { NewsCard } from "@/components/news/NewsCard";
 import { relatedNews } from "@/lib/interpret/relate";
 import {
@@ -57,6 +58,36 @@ export default async function PlayerPage({
   // Low-confidence rows get NO auto-generated commentary (data-integrity gate).
   const unverified = player.confidence === "unverified";
   const insight = unverified ? null : playerInsight(player);
+  // Web-verified structured career facts (curated dossier). Suppressed for
+  // unverified rows, same as the editorial — we never attach a career/transfer
+  // history to a player we could not cross-verify (the Ghareeb gate principle).
+  const dossier = unverified ? null : getDossier(player.name);
+  const careerFacts = dossier && hasCareerFacts(dossier) ? dossier : null;
+  const careerRows: { icon: string; label: string; value: string }[] =
+    careerFacts
+      ? [
+          {
+            icon: "🧭",
+            label: "이전 커리어",
+            value: careerFacts.careerKo ?? "",
+          },
+          {
+            icon: "✍️",
+            label: "파우메이라스 합류",
+            value: careerFacts.transfersKo ?? "",
+          },
+          {
+            icon: "🌐",
+            label: "국가대표",
+            value: careerFacts.nationalTeamKo ?? "",
+          },
+          {
+            icon: "📄",
+            label: "계약 현황",
+            value: careerFacts.contractKo ?? "",
+          },
+        ].filter((r) => r.value)
+      : [];
   const age = ageFromBirthDate(player.birthDate);
   const status = availabilityKo(player.availability);
   const agg = aggregateStats(player.stats);
@@ -273,6 +304,41 @@ export default async function PlayerPage({
             "1군 공식 기록(ESPN)에서 교차검증되지 않은 선수입니다. 부정확한 정보를 보여주지 않기 위해 자동 해설을 생성하지 않았습니다."}
         </InsightBlock>
       )}
+
+      {/* Web-verified career & transfer facts (curated, multi-source). Shown
+          only for cross-verified players, complementing the prose bio above. */}
+      {careerRows.length > 0 ? (
+        <section aria-labelledby="career-heading" className="space-y-2">
+          <div className="flex items-center justify-between">
+            <h2 id="career-heading" className="text-lg font-bold">
+              커리어 & 이적
+            </h2>
+            <FreshnessBadge
+              origin="editorial"
+              source="에디토리얼 (다출처 웹검증)"
+              fetchedAt={res.fetchedAt}
+            />
+          </div>
+          <dl className="divide-y divide-black/5 overflow-hidden rounded-xl border border-black/5">
+            {careerRows.map((r) => (
+              <div
+                key={r.label}
+                className="grid grid-cols-1 gap-1 bg-[var(--pm-surface)] px-4 py-3 sm:grid-cols-[7.5rem_1fr] sm:gap-3"
+              >
+                <dt className="flex items-center gap-1.5 text-sm font-semibold text-[var(--pm-primary)]">
+                  <span aria-hidden="true">{r.icon}</span>
+                  {r.label}
+                </dt>
+                <dd className="text-sm leading-relaxed">{r.value}</dd>
+              </div>
+            ))}
+          </dl>
+          <p className="text-xs text-[var(--pm-muted)]">
+            ※ 커리어·이적료·계약 정보는 공개 자료를 다출처 교차검증해 수기로
+            반영했습니다. 검증되지 않은 시장가치 등은 표시하지 않습니다.
+          </p>
+        </section>
+      ) : null}
 
       {/* Season stats */}
       <section aria-labelledby="stats-heading" className="space-y-2">

@@ -16,8 +16,15 @@
 // JSON is unofficial/undocumented — used best-effort with seed fallback in-app.
 // =============================================================================
 
-import { writeFileSync, mkdirSync, existsSync, readFileSync } from "node:fs";
+import {
+  writeFileSync,
+  mkdirSync,
+  existsSync,
+  readFileSync,
+  realpathSync,
+} from "node:fs";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { llmEnrichNews, llmEnabled } from "./llm.mjs";
 import { fetchEspnRoster, enrichSquadWithEspn } from "./espn-squad.mjs";
 
@@ -463,29 +470,142 @@ function mapEvent(e, competition) {
   return item;
 }
 
-// Parse goal events from an ESPN match summary into domain MatchEvent[].
-function parseGoals(summary, homeName, awayName) {
+// Parse an ESPN clock ("45'", "90'+2'") into a sortable minute + display string.
+export function parseClock(e) {
+  const dv = String(e.clock?.displayValue || "").trim();
+  const m = dv.match(/(\d+)(?:'?\s*\+\s*(\d+))?/);
+  const base = m ? parseInt(m[1], 10) : 0;
+  const added = m && m[2] ? parseInt(m[2], 10) : 0;
+  return { minute: base + added, clock: dv || undefined };
+}
+
+// Parse ALL notable key events (goals, penalties, cards, subs) from an ESPN
+// match summary into domain MatchEvent[], minute-ordered. For subs, ESPN lists
+// the incoming player first and the outgoing player second.
+export function parseKeyEvents(summary, homeName, awayName) {
   const out = [];
   for (const e of summary?.keyEvents || []) {
-    if (e.scoringPlay !== true) continue; // goals + scored penalties only
     const t = e.type?.text || "";
-    const minute =
-      parseInt(String(e.clock?.displayValue || "").replace(/\D/g, ""), 10) || 0;
+    let type;
+    if (e.scoringPlay === true) {
+      type = /penalty/i.test(t) ? "penalty" : "goal";
+    } else if (/yellow/i.test(t)) {
+      type = "yellow";
+    } else if (/red/i.test(t)) {
+      type = "red";
+    } else if (/substitution/i.test(t)) {
+      type = "sub";
+    } else {
+      continue; // skip kickoff/halftime/full-time markers
+    }
+    const { minute, clock } = parseClock(e);
     const teamName = e.team?.displayName || e.team?.abbreviation || "";
     const team = normTeam(teamName) === normTeam(awayName) ? "away" : "home";
     const people = (e.participants || e.athletesInvolved || [])
       .map((a) => (a.athlete?.displayName || a.displayName || "").trim())
       .filter(Boolean);
-    if (people.length === 0) continue;
+    if (people.length === 0) continue; // need at least the primary player
     out.push({
       minute,
-      type: /penalty/i.test(t) ? "penalty" : "goal",
+      clock,
+      type,
       team,
+      // goal: detail = assister · sub: player = ON, detail = OFF · card: no detail
       player: people[0],
-      detail: people[1] || undefined,
+      detail: type === "red" || type === "yellow" ? undefined : people[1],
     });
   }
   return out.sort((a, b) => a.minute - b.minute);
+}
+
+// Bucket an ESPN position abbreviation into a pitch line for the formation view.
+export function lineForPos(pos) {
+  const p = (pos || "").toUpperCase();
+  if (!p || p === "SUB") return "MID"; // bench (line unused for layout)
+  if (/^G/.test(p)) return "GK";
+  if (/^(F|CF|ST|SS|LF|RF|LW|RW)/.test(p)) return "FWD";
+  if (/^(CB|CD|LB|RB|LWB|RWB|SW)/.test(p) || p === "D") return "DEF";
+  return "MID";
+}
+
+// Parse starting lineups + bench + formation from an ESPN summary `rosters`.
+// Returns undefined when not provided (so the UI shows an honest placeholder).
+//
+// ESPN quirk: a team's roster can carry a STRAY duplicate-name athlete row
+// (different id, `starter:true`, but NO formationPlace) alongside the real XI.
+// So the reliable "on the pitch from kickoff" signal is a formationPlace of
+// 1..11 — NOT the `starter` flag. ESPN marks the actual matchday bench with
+// position "SUB", which also cleanly excludes the stray row.
+export function parseLineups(summary) {
+  const rosters = summary?.rosters;
+  if (!Array.isArray(rosters) || rosters.length < 2) return undefined;
+  const slotOf = (p) => {
+    const n = Number(p.formationPlace);
+    return Number.isFinite(n) && n >= 1 && n <= 11 ? n : undefined;
+  };
+  const isSub = (p) =>
+    /sub/i.test(p.position?.abbreviation || p.position?.name || "");
+  const mk = (p, starter) => {
+    const name = (p.athlete?.displayName || "").trim();
+    const posAbbr = p.position?.abbreviation || p.position?.name || undefined;
+    return {
+      name,
+      nameKo: name, // adapter overrides via koreanName()
+      number: p.jersey != null ? Number(p.jersey) : undefined,
+      pos: posAbbr,
+      line: lineForPos(posAbbr),
+      starter,
+      formationPlace: slotOf(p),
+      subbedOut: (p.subbedOut?.didSub ?? p.subbedOut) === true,
+      subbedIn: (p.subbedIn?.didSub ?? p.subbedIn) === true,
+    };
+  };
+  const teamLineup = (r) => {
+    const named = (r.roster || []).filter((p) =>
+      (p.athlete?.displayName || "").trim(),
+    );
+    const hasSlots = named.some((p) => slotOf(p) !== undefined);
+    let starters;
+    if (hasSlots) {
+      // One player per formation slot (drops the slotless stray row).
+      const bySlot = new Map();
+      for (const p of named) {
+        const slot = slotOf(p);
+        if (slot === undefined) continue;
+        if (!bySlot.has(slot)) bySlot.set(slot, mk(p, true));
+      }
+      starters = [...bySlot.values()];
+    } else {
+      // Fallback (no slots provided): trust the starter flag, dedupe by id.
+      const seen = new Set();
+      starters = [];
+      for (const p of named) {
+        if (p.starter !== true) continue;
+        const id = String(p.athlete?.id ?? p.athlete?.displayName);
+        if (seen.has(id)) continue;
+        seen.add(id);
+        starters.push(mk(p, true));
+      }
+    }
+    // Bench = explicit substitutes only (excludes any stray duplicate row).
+    const bench = named
+      .filter((p) => slotOf(p) === undefined && isSub(p))
+      .map((p) => mk(p, false));
+    if (starters.length === 0) return null;
+    return {
+      side: r.homeAway === "away" ? "away" : "home",
+      formation: r.formation || undefined,
+      starters,
+      bench,
+    };
+  };
+  const home = rosters.find((r) => r.homeAway === "home");
+  const away = rosters.find((r) => r.homeAway === "away");
+  if (!home || !away) return undefined;
+  const hl = teamLineup(home);
+  const al = teamLineup(away);
+  if (!hl || !al) return undefined;
+  return { home: hl, away: al };
 }
 
 async function ingestMatches() {
@@ -539,39 +659,56 @@ async function ingestMatches() {
   }
   items.sort((a, b) => a.kickoff.localeCompare(b.kickoff));
 
-  // Goal scorers for finished matches (ESPN summary). Cache-aware (reuse prior
-  // events) + bounded so we never hammer ESPN; steady-state runs fetch ~0-2.
+  // Events + lineups for finished/live matches (one ESPN summary call each).
+  // Cache-aware (reuse prior events AND lineups) + bounded so we never hammer
+  // ESPN; steady-state runs fetch ~0-2. The per-run cap is configurable
+  // (MATCH_SUMMARY_CAP) so a one-time local backfill can enrich the whole
+  // season in a single run while CI stays bounded.
   const prevMatches = readData("matches.json");
   const prevEvents = new Map(
     (prevMatches?.items || []).map((m) => [m.id, m.events]),
   );
+  const prevLineups = new Map(
+    (prevMatches?.items || []).map((m) => [m.id, m.lineups]),
+  );
+  const SUMMARY_CAP = Number(process.env.MATCH_SUMMARY_CAP) || 16;
   let summaryCalls = 0;
   for (const it of items) {
     const isLive = it.status === "live";
     if (it.status !== "finished" && !isLive) continue;
-    const cached = prevEvents.get(it.id);
-    // Finished matches never change → reuse cached events. A LIVE match changes
-    // every few minutes, so always re-fetch its goals/scorers (skip the cache).
-    if (!isLive && cached && cached.length) {
-      it.events = cached;
+    const cachedEv = prevEvents.get(it.id);
+    const cachedLu = prevLineups.get(it.id);
+    // Finished matches never change → reuse cache ONCE both events AND lineups
+    // are present (so already-enriched matches stay cached, but matches still
+    // missing lineups get re-fetched a single time). LIVE matches change every
+    // few minutes → always re-fetch (skip the cache).
+    if (!isLive && cachedEv && cachedEv.length && cachedLu) {
+      it.events = cachedEv;
+      it.lineups = cachedLu;
       continue;
     }
-    if (summaryCalls >= 16) continue; // cap ESPN calls per run
+    if (summaryCalls >= SUMMARY_CAP) continue; // cap ESPN calls per run
     try {
       const eid = it.id.replace("espn-", "");
       const slug = slugById[it.id] || "bra.1";
       const sum = await getJson(
         `${ESPN_BASE}/site/v2/sports/soccer/${slug}/summary?event=${eid}`,
       );
-      it.events = parseGoals(sum, it.home.name, it.away.name);
+      it.events = parseKeyEvents(sum, it.home.name, it.away.name);
+      const lu = parseLineups(sum);
+      if (lu) it.lineups = lu;
+      else if (cachedLu) it.lineups = cachedLu;
       summaryCalls += 1;
     } catch {
-      /* leave events undefined — UI shows a placeholder */
+      // Keep whatever we had cached; UI shows a placeholder otherwise.
+      if (cachedEv) it.events = cachedEv;
+      if (cachedLu) it.lineups = cachedLu;
     }
   }
 
   const upcoming = items.filter((m) => m.status !== "finished").length;
   const withGoals = items.filter((m) => m.events && m.events.length).length;
+  const withLineups = items.filter((m) => m.lineups).length;
   writeData("matches.json", {
     origin: "api",
     source: "ESPN (현재 시즌)",
@@ -579,7 +716,7 @@ async function ingestMatches() {
     items,
   });
   log(
-    `wrote data/matches.json (${items.length} matches, ${upcoming} upcoming, ${withGoals} with goals)`,
+    `wrote data/matches.json (${items.length} matches, ${upcoming} upcoming, ${withGoals} with events, ${withLineups} with lineups)`,
   );
 }
 
@@ -913,11 +1050,34 @@ async function main() {
     return;
   }
 
-  await step("news", ingestNews);
-  await step("standings", ingestStandings);
-  await step("matches", ingestMatches);
-  await step("squad", ingestSquad);
+  // Optional targeted refresh: INGEST_ONLY="matches" (comma-separated) runs just
+  // those steps — handy for a thrifty one-off (e.g. backfilling match lineups)
+  // without spending quota on news/squad. Empty ⇒ run everything.
+  const only = (process.env.INGEST_ONLY || "")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  const should = (name) => only.length === 0 || only.includes(name);
+
+  if (should("news")) await step("news", ingestNews);
+  if (should("standings")) await step("standings", ingestStandings);
+  if (should("matches")) await step("matches", ingestMatches);
+  if (should("squad")) await step("squad", ingestSquad);
   log("done");
 }
 
-await main();
+// Run the pipeline only when executed directly (`node scripts/ingest.mjs`), so
+// the pure parser exports above can be imported by unit tests without kicking
+// off any network fetches.
+const invokedDirectly = (() => {
+  try {
+    return (
+      Boolean(process.argv[1]) &&
+      realpathSync(process.argv[1]) === fileURLToPath(import.meta.url)
+    );
+  } catch {
+    return false;
+  }
+})();
+
+if (invokedDirectly) await main();
