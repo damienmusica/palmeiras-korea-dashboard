@@ -18,6 +18,7 @@ import type {
   Match,
   Standings,
   Squad,
+  CompetitionsSnapshot,
 } from "@/lib/domain/types";
 import type { RosterEntry } from "@/lib/data/photos";
 
@@ -31,6 +32,8 @@ interface RawSnapshot {
   table?: unknown;
   players?: unknown;
   coach?: unknown;
+  campaigns?: unknown;
+  season?: string;
 }
 
 const VALID_ORIGINS: DataOrigin[] = [
@@ -117,6 +120,25 @@ export function readStandingsSnapshot(): DataResult<Standings> | null {
     fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
     fellBack: false,
     note: "현재 시즌 · 무료 파이프라인 스냅샷",
+  };
+}
+
+/** Read the continental/cup campaigns snapshot (ESPN — group + knockout). */
+export function readCompetitionsSnapshot(): DataResult<CompetitionsSnapshot> | null {
+  const snap = readJson("competitions.json");
+  if (!snap || !Array.isArray(snap.campaigns) || snap.campaigns.length === 0) {
+    return null;
+  }
+  return {
+    data: {
+      season: snap.season ?? String(new Date().getFullYear()),
+      campaigns: snap.campaigns as CompetitionsSnapshot["campaigns"],
+    },
+    origin: toOrigin(snap.origin),
+    source: snap.source ?? "data/competitions.json",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
+    fellBack: false,
+    note: "대륙·컵 대회 · 무료 파이프라인 스냅샷",
   };
 }
 

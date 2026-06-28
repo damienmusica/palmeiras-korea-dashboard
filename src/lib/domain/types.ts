@@ -440,6 +440,94 @@ export interface Standings {
   leadersSeason?: string;
 }
 
+// --- Continental / cup campaigns ---------------------------------------------
+// The league has a full table; the continental (Libertadores) and domestic-cup
+// (Copa do Brasil) competitions are group-stage + knockout / pure knockout, so
+// they need their own shape: a group mini-table when applicable, plus the
+// knockout tie(s) the tracked team is in. All sourced keylessly from ESPN.
+
+/** One team's row in a continental group mini-table. */
+export interface GroupStandingRow {
+  rank: number;
+  teamId: string;
+  teamName: string;
+  teamNameKo: string;
+  crest?: string;
+  played: number;
+  won: number;
+  drawn: number;
+  lost: number;
+  goalsFor: number;
+  goalsAgainst: number;
+  goalDifference: number;
+  points: number;
+  /** True when this is the tracked team. */
+  isTracked?: boolean;
+}
+
+/** A continental/cup group and the tracked team's standing in it. */
+export interface CampaignGroup {
+  /** Korean group label, e.g. "F조". */
+  nameKo: string;
+  table: GroupStandingRow[];
+  /** How many teams advance from the group (fixed competition rule). */
+  advanceCount?: number;
+  /** Korean note on the tracked team's outcome, e.g. "조 2위로 16강 진출". */
+  qualifiedKo?: string;
+}
+
+/** Result of a concluded knockout tie, from the tracked team's perspective. */
+export type TieResult = "advanced" | "eliminated" | "ongoing";
+
+/** One leg (or single match) of a knockout tie. */
+export interface CampaignLeg {
+  /** ISO 8601 UTC kickoff timestamp. */
+  kickoff: string;
+  /** Tracked team's venue for this leg. */
+  venue: Venue;
+  /** Korean leg label, e.g. "1차전" / "2차전" / "단판". */
+  legKo?: string;
+  status: MatchStatus;
+  /** Scoreline once played (home/away as listed by the source). */
+  score?: { home: number; away: number };
+  /** ESPN home/away orientation so the score maps to the right side. */
+  trackedHome?: boolean;
+  /** Match-detail link id (e.g. "espn-12345") when available. */
+  matchId?: string;
+}
+
+/** A knockout tie the tracked team played or is about to play. */
+export interface CampaignTie {
+  /** Korean round label, e.g. "16강", "8강", "결승". */
+  roundKo: string;
+  opponentId: string;
+  opponentName: string;
+  opponentNameKo: string;
+  opponentCrest?: string;
+  legs: CampaignLeg[];
+  result: TieResult;
+  /** Korean outcome note for a concluded tie, e.g. "7-1 합산 승 · 진출". */
+  outcomeKo?: string;
+}
+
+/** The tracked team's run in one continental/cup competition. */
+export interface CompetitionCampaign {
+  competition: CompetitionRef;
+  format: "group+knockout" | "knockout";
+  /** Group-stage standing (continental), when the team played a group. */
+  group?: CampaignGroup;
+  /** The current/next knockout tie the team is in. */
+  currentRound?: CampaignTie;
+  /** Concluded knockout ties so far (chronological). */
+  path?: CampaignTie[];
+}
+
+/** Snapshot of all of the tracked team's continental/cup campaigns. */
+export interface CompetitionsSnapshot {
+  season: string;
+  campaigns: CompetitionCampaign[];
+}
+
 // --- News --------------------------------------------------------------------
 
 export interface NewsItem {
