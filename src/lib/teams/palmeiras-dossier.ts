@@ -27,6 +27,18 @@ export interface PlayerDossier {
   nameNoteKo?: string;
   /** Longer history/context paragraph for the detail page. */
   bioKo?: string;
+  // --- Structured career facts (web-verified, multi-source, baked at build
+  // time per the deterministic-over-LLM principle). Each is OPTIONAL and is
+  // OMITTED entirely when it can't be verified — never a fabricated value
+  // (esp. market value, which has no free trustworthy source → never stored).
+  /** Pre-Palmeiras path: youth academy + previous senior clubs. */
+  careerKo?: string;
+  /** How they joined Palmeiras — year, origin club, and a VERIFIED fee only. */
+  transfersKo?: string;
+  /** National-team experience (senior/youth, major tournaments). */
+  nationalTeamKo?: string;
+  /** Contract status — expiry year when verifiable; else omitted. */
+  contractKo?: string;
 }
 
 const DOSSIERS: Record<string, PlayerDossier> = {
@@ -46,6 +58,13 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "‘비토르 호키’ — Roque의 R은 브라질식으로 ‘ㅎ’에 가깝게 발음합니다.",
     bioKo:
       "어린 나이에 아틀레치쿠 파라나엔시에서 폭발적인 활약으로 유럽 빅클럽들의 주목을 받았고, 바르셀로나로 이적했습니다. 출전 기회를 충분히 얻지 못한 뒤 브라질로 복귀해 다시 주전 스트라이커로 자리를 잡아가는 과정에 있습니다.",
+    careerKo:
+      "크루제이루 유스 → 아틀레치쿠 파라나엔시 → 바르셀로나(2024) → 레알 베티스(임대)",
+    transfersKo:
+      "2025년 2월 바르셀로나에서 완전 이적. 이적료 약 €2,550만(+옵션 €500만)으로, 바르셀로나가 재판매 지분을 일부 보유합니다.",
+    nationalTeamKo:
+      "브라질 연령별 대표를 거쳐 A대표팀에도 발탁된 차세대 공격수입니다.",
+    contractKo: "2029년까지 계약.",
   },
   felipeanderson: {
     nationality: "BR",
@@ -60,6 +79,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "유럽 커리어를 마치고 브라질로 돌아와 리더십과 클래스를 보여줍니다.",
     bioKo:
       "산투스에서 성장해 라치오로 이적, 이후 웨스트햄 등을 거치며 오랜 기간 유럽에서 활약했습니다. 자유계약으로 파우메이라스에 합류해 풍부한 경험을 더하고 있습니다.",
+    careerKo: "산투스 유스 → 라치오 → 웨스트햄 → 라치오",
+    transfersKo:
+      "2024년 7월 라치오와 계약이 만료된 뒤 자유계약(이적료 없음)으로 합류했습니다.",
+    nationalTeamKo:
+      "브라질 A대표팀 경력 보유 — 2018 러시아 월드컵 대표팀에도 포함됐습니다.",
+    contractKo: "2027년까지 계약.",
   },
   andreaspereira: {
     nationality: "BR",
@@ -73,6 +98,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     narrativeKo: "유럽에서 돌아와 팀의 공격 전개를 한 단계 끌어올린 영입.",
     bioKo:
       "벨기에에서 태어난 브라질 국적의 미드필더로, 맨유 아카데미에서 성장해 프리미어리그(풀럼) 등에서 뛰었습니다. 정확한 킥과 경기 조립 능력이 강점입니다.",
+    careerKo:
+      "맨체스터 유나이티드 유스 → (그라나다·발렌시아·라치오 임대) → 풀럼",
+    transfersKo:
+      "2025년 8월 풀럼에서 영입. 이적료 약 €1,000만(3년 분할)으로 등번호 8번을 받았습니다.",
+    nationalTeamKo: "브라질 A대표팀 경력을 보유한 미드필더입니다.",
+    contractKo: "2028년까지 계약.",
   },
   gustavogomez: {
     nationality: "PY",
@@ -88,6 +119,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     archetypeKo: "투지·리더십을 겸비한 정통 중앙 수비수.",
     bioKo:
       "라누스, AC 밀란, 보카 주니어스를 거쳐 파우메이라스에 정착해 주장을 맡고 있는 파라과이 국가대표 센터백입니다. 클럽 역사에 남을 수비 리더로 평가받습니다.",
+    careerKo:
+      "리베르타(파라과이) → 라누스(2014) → AC 밀란 → 보카 주니어스(임대)",
+    transfersKo: "2018년 AC 밀란에서 합류해 주전·주장으로 자리잡았습니다.",
+    nationalTeamKo:
+      "파라과이 A대표팀 주장. 코파 아메리카 4회(2016·2019·2021·2024) 참가, 2026 월드컵 본선 진출(2010년 이후 첫 진출)을 이끈 수비의 핵입니다.",
+    contractKo: "2027년까지 계약(연장).",
   },
   jpiquerez: {
     nationality: "UY",
@@ -101,11 +138,18 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     archetypeKo: "공수 양면을 책임지는 현대형 윙백.",
     bioKo:
       "우루과이 페냐롤에서 성장해 파우메이라스로 이적, 좌측 풀백을 굳건히 지키며 우루과이 대표팀에도 꾸준히 선발됩니다.",
+    careerKo: "리베르 플라테(우루과이) → 페냐롤(2020)",
+    transfersKo:
+      "2021년 7월 페냐롤에서 영입돼 좌측 풀백 주전으로 정착했습니다.",
+    nationalTeamKo:
+      "우루과이 A대표팀 — 2021년 9월 데뷔 이후 좌측 풀백 주전으로 꾸준히 선발됩니다.",
+    contractKo: "2030년까지 계약.",
   },
   jlopez: {
     nationality: "AR",
     nationalityKo: "아르헨티나",
-    birthDate: "2000-08-01",
+    birthDate: "2000-12-06",
+    heightCm: 190,
     roleKo: "최전방 중앙 공격수 (타깃맨)",
     styleKo:
       "큰 키를 활용한 제공권과 박스 안 위치 선정으로 득점을 만들어냅니다.",
@@ -116,19 +160,31 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "‘호세 로페스’ — 별명 Flaco는 스페인어로 ‘마른’이라는 뜻입니다.",
     bioKo:
       "아르헨티나 라누스에서 성장한 스트라이커로, 파우메이라스 이적 후 꾸준히 득점을 쌓으며 주전 공격수로 자리잡았습니다.",
+    careerKo: "라누스(아르헨티나) 유스·1군",
+    transfersKo: "2022년 7월 라누스에서 영입. 이적료 약 €950만.",
+    nationalTeamKo:
+      "아르헨티나 A대표팀에 발탁된 경력이 있는 장신(190cm) 스트라이커입니다.",
+    contractKo: "2029년까지 계약.",
   },
   paulinho: {
     nationality: "BR",
     nationalityKo: "브라질",
+    birthDate: "2000-07-15",
     roleKo: "측면·2선을 오가는 공격 자원",
     styleKo:
       "스피드와 드리블 돌파, 그리고 골 결정력을 겸비한 폭발적인 공격수입니다.",
     whyCareKo:
-      "아틀레치쿠 미네이루에서 좋은 활약을 보인 뒤 합류한 매치 위너 유형. 컨디션이 오르면 경기를 바꿉니다.",
+      "바이엘 레버쿠젠과 아틀레치쿠 미네이루를 거쳐 클럽 최고액(당시)에 영입된 매치 위너. 컨디션이 오르면 경기를 바꿉니다.",
     narrativeKo:
       "부상 관리가 관건이지만, 살아나면 가장 위협적인 공격 옵션 중 하나.",
     bioKo:
-      "브라질 무대에서 폭발적인 돌파와 득점으로 이름을 알린 공격수로, 파우메이라스의 측면·전방 공격에 다양성을 더합니다.",
+      "바스쿠 유스 출신으로 2018년 바이엘 레버쿠젠(독일)으로 이적했고, 아틀레치쿠 미네이루를 거쳐 2024년 말 파우메이라스에 합류했습니다. 폭발적인 돌파와 득점으로 측면·전방 공격에 다양성을 더합니다.",
+    careerKo: "바스쿠 유스 → 바이엘 레버쿠젠(2018) → 아틀레치쿠 미네이루",
+    transfersKo:
+      "2024년 12월 아틀레치쿠 미네이루에서 영입. 약 €1,800만(+선수 포함, 총 €2,500만 규모)으로 당시 클럽 최고액 영입.",
+    nationalTeamKo:
+      "브라질 U-23 — 2020 도쿄 올림픽 금메달(결승 결승골)의 주인공입니다.",
+    contractKo: "2029년까지 계약.",
   },
   brunofuchs: {
     nationality: "BR",
@@ -141,6 +197,11 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "아틀레치쿠 미네이루·유럽 무대를 경험한 센터백으로, 수비 로테이션의 핵심입니다.",
     bioKo:
       "상파울루 유스 출신으로 아틀레치쿠 미네이루, 러시아(CSKA 모스크바) 등을 거쳐 파우메이라스 수비진에 합류했습니다.",
+    careerKo: "상파울루 유스 → CSKA 모스크바(2020) → 아틀레치쿠 미네이루",
+    transfersKo:
+      "2025년 아틀레치쿠 미네이루에서 임대로 합류했습니다(완전 영입 옵션 포함).",
+    nationalTeamKo:
+      "브라질 U-23 — 2020 도쿄 올림픽 금메달 멤버로 활약했습니다.",
   },
   carlosmiguel: {
     nationality: "BR",
@@ -151,6 +212,10 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "코린치안스·노팅엄 포레스트를 거친 골키퍼로, 골문 경쟁에 깊이를 더합니다.",
     bioKo:
       "코린치안스에서 주목받은 뒤 잉글랜드(노팅엄 포레스트)를 거쳐 파우메이라스 골문 경쟁에 합류한 장신 골키퍼입니다.",
+    careerKo: "코린치안스 → 노팅엄 포레스트(2024)",
+    transfersKo:
+      "2025년 8월 노팅엄 포레스트에서 영입. 이적료 약 €400만(+옵션).",
+    contractKo: "2030년까지 계약.",
   },
   aranha: {
     nationality: "BR",
@@ -179,14 +244,26 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     roleKo: "측면 윙어",
     styleKo: "빠른 스피드와 측면 돌파로 공격에 활력을 더합니다.",
     whyCareKo:
-      "파라과이 국가대표급 윙어로, 잉글랜드 무대를 거쳐 합류한 측면 공격 자원입니다.",
+      "파라과이 국가대표 윙어로, 잉글랜드 무대를 거쳐 합류한 측면 공격 자원입니다.",
+    careerKo: "파라과이 무대 → 타예레스(아르헨티나) → 노팅엄 포레스트(2024)",
+    transfersKo:
+      "2025년 7월 노팅엄 포레스트에서 영입. 이적료 약 $1,400만(5년 계약).",
+    nationalTeamKo:
+      "파라과이 A대표팀 — 2026 월드컵 본선 명단에 포함된 측면 자원입니다.",
+    contractKo: "2030년까지 계약.",
   },
   agiay: {
     nationality: "AR",
     nationalityKo: "아르헨티나",
     roleKo: "젊은 오른쪽 풀백",
     styleKo: "공격 가담과 활동량이 좋은 유망한 풀백입니다.",
-    whyCareKo: "아르헨티나 출신의 어린 풀백으로 측면 수비의 미래 자원입니다.",
+    whyCareKo:
+      "산로렌소(아르헨티나)의 어린 주장 출신으로, 측면 수비를 책임지는 미래형 풀백입니다.",
+    careerKo: "산로렌소(아르헨티나) 유스·1군 (최연소 주장)",
+    transfersKo:
+      "2024년 7월 산로렌소에서 영입(지분 75%, 약 $750만). 2025년 9월 재계약하며 바이아웃 $1억이 책정됐습니다.",
+    nationalTeamKo: "아르헨티나 연령별 대표(U-20·U-23)를 거친 유망주입니다.",
+    contractKo: "2030년까지 계약.",
   },
   khellven: {
     nationality: "BR",
@@ -194,7 +271,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     roleKo: "오른쪽 풀백/윙백",
     styleKo: "활동량과 공격 가담이 좋은 측면 수비수입니다.",
     whyCareKo:
-      "아틀레치쿠 파라나엔시에서 성장해 합류한 측면 자원으로 오른쪽 경쟁을 더합니다.",
+      "아틀레치쿠 파라나엔시에서 성장하고 러시아(CSKA 모스크바)를 거쳐 합류한 즉시전력으로, 떠난 마이키의 자리를 메웁니다.",
+    careerKo:
+      "아틀레치쿠 파라나엔시(2019~, 코파 두 브라질·코파 수다메리카나 우승) → CSKA 모스크바(2023)",
+    transfersKo:
+      "2025년 8월 CSKA 모스크바에서 영입. 이적료 약 €500만(R$3,200만).",
+    contractKo: "2030년까지 계약.",
   },
   marcelolomba: {
     nationality: "BR",
@@ -212,7 +294,14 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     heightCm: 185,
     roleKo: "수비형/중앙 미드필더",
     styleKo: "중원에서 볼을 회수하고 공수를 연결하는 활동량형 미드필더입니다.",
-    whyCareKo: "중원의 균형과 안정을 더해주는 자원입니다.",
+    whyCareKo:
+      "보타포구 주장으로 2024년 리베르타도레스·전국 리그 우승을 이끈 베테랑. 아니발 모레나(→리베르 플라테) 이탈 후 중원을 보강하기 위해 영입했습니다.",
+    careerKo:
+      "아틀레치쿠 고이아니엔시 → 보타포구(2023, 주장·2024 리베르타도레스+전국 리그 우승)",
+    transfersKo: "2026년 1월 보타포구에서 영입. 이적료 약 €550만(3년 계약).",
+    bioKo:
+      "아틀레치쿠 고이아니엔시에서 성장해 2023년 보타포구에 합류, 주장으로 2024년 코파 리베르타도레스와 전국 리그 우승을 모두 들어올렸습니다. 2026년 1월 파우메이라스로 이적해 중원의 균형을 책임집니다.",
+    contractKo: "2028년까지 계약.",
   },
   abdalqaderghareeb: {
     nationality: "SY",
@@ -238,6 +327,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "‘존 아리아스’ — Jhon은 영어 John의 콜롬비아식 표기로 ‘존’에 가깝습니다.",
     bioKo:
       "2021~2025년 플루미넨시에서 230경기 47골 55도움을 기록하며 2023년 코파 리베르타도레스 우승을 이끌었고, 울버햄프턴(잉글랜드)을 거쳐 2026년 파우메이라스에 합류했습니다. 콜롬비아 대표팀의 주축 공격수입니다.",
+    careerKo:
+      "플루미넨시(2021~2025, 2023 리베르타도레스 우승) → 울버햄프턴(2025)",
+    transfersKo:
+      "2026년 2월 울버햄프턴에서 완전 이적. 이적료 약 €2,500만으로 구단 최고액급 영입입니다.",
+    nationalTeamKo: "콜롬비아 A대표팀의 주축 공격 자원입니다.",
+    contractKo: "2029년까지 계약.",
   },
   mauricio: {
     nationality: "BR",
@@ -252,6 +347,11 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "큰 이적료에 걸맞은 활약을 증명해가는 과정 — 연령별 대표팀에서 엔드릭과 호흡을 맞춘 또래입니다.",
     bioKo:
       "인테르나시오나우에서 176경기 25골 25도움을 기록하며 성장한 뒤 2024년 파우메이라스로 이적했습니다. 측면과 중앙 2선을 오가며 공격 포인트를 만들어내는 멀티 공격 자원입니다.",
+    careerKo: "인테르나시오나우 유스·1군",
+    transfersKo:
+      "2024년 7월 인테르나시오나우에서 영입. 이적료 약 €1,050만(브라질 기록급).",
+    nationalTeamKo: "브라질 U-23 대표를 거친 2선 자원입니다.",
+    contractKo: "2028년까지 계약.",
   },
   jefte: {
     nationality: "BR",
@@ -265,6 +365,11 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     narrativeKo: "유럽을 거쳐 돌아온 젊은 풀백 — 피케레스의 대안이자 미래.",
     bioKo:
       "플루미넨시 U-20에서 두각을 나타냈으나 1군 데뷔 전 키프로스 APOEL로 이적해 리그 최우수 왼쪽 풀백에 선정됐고, 이후 스코틀랜드 레인저스에서 56경기를 뛰었습니다. 2025년 파우메이라스에 합류했습니다.",
+    careerKo:
+      "플루미넨시 U-20 → APOEL(키프로스) → 레인저스(스코틀랜드, 2024, 리그 베스트 왼쪽 풀백)",
+    transfersKo:
+      "2025년 8월 레인저스에서 영입. 이적료 약 R$3,000만(£600만, 5년 계약).",
+    contractKo: "2030년까지 계약.",
   },
   allan: {
     nationality: "BR",
@@ -274,11 +379,16 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     styleKo:
       "왼발잡이로 측면 윙어·공격형 미드필더·전방을 두루 소화하는 다재다능함과 탈압박 능력이 돋보입니다.",
     whyCareKo:
-      "산타카타리나 출신으로 15세부터 성장한 ‘크리아 다 아카데미아(아카데미 산실)’. 2025년 브라질 신인왕(보라 지 프라타)에 선정됐습니다.",
+      "산타카타리나 출신으로 2019년부터 성장한 ‘크리아 다 아카데미아(아카데미 산실)’. 2025년 1군에 데뷔해 빠르게 아벨 페헤이라의 옵션으로 자리잡았습니다.",
     narrativeKo:
-      "차세대 거액 이적 후보로 꼽히는 파우메이라스 유스의 또 다른 보석.",
+      "유럽이 주목하는 차세대 보석 — 재계약 시 바이아웃이 약 €1억(R$6.3억)으로 책정될 만큼 기대받습니다.",
     bioKo:
-      "플로리아노폴리스에서 태어나 15세에 파우메이라스 유스에 합류했습니다. 2025년 프로 첫 시즌부터 빠르게 자리잡으며 아벨 페헤이라의 핵심 옵션이 됐고, 엔드릭(2023)·에스테벙(2024)에 이어 3년 연속 아카데미 출신 신인왕 수상자가 됐습니다.",
+      "플로리아노폴리스에서 태어나 2019년 파우메이라스 유스에 합류했습니다. U-20에서 전국 선수권·코파 상파울루(2023) 우승을 거치며 두 자릿수 득점을 올렸고, 2025년 1월 1군에 데뷔해 측면과 2선을 두루 소화하는 자원으로 성장하고 있습니다.",
+    careerKo:
+      "파우메이라스 유스(2019~) — U-20 전국 선수권·코파 상파울루(2023) 우승",
+    transfersKo: "유스에서 직속 승격한 홈그로운 자원(이적 없음).",
+    nationalTeamKo: "브라질 연령별(U-20) 대표를 거친 유망주입니다.",
+    contractKo: "2027년까지 계약(바이아웃 약 €1억).",
   },
   lucasevangelista: {
     nationality: "BR",
@@ -291,6 +401,10 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "상파울루 유스 출신으로 우디네세 등 유럽을 거쳐, 2025년 RB 브라간치누에서 영입된 경험 많은 미드필더입니다.",
     bioKo:
       "리메이라 출신으로 상파울루에서 프로에 데뷔한 뒤 우디네세(이탈리아)·낭트·기마랑이스·파나티나이코스 등 유럽을 두루 경험했습니다. RB 브라간치누에서 214경기를 뛴 뒤 2025년 파우메이라스에 합류했습니다.",
+    careerKo:
+      "상파울루 유스 → 우디네세·낭트·기마랑이스·파나티나이코스(유럽) → RB 브라간치누(2020, 214경기)",
+    transfersKo: "2025년 3월 RB 브라간치누에서 영입. 이적료 약 €400만.",
+    contractKo: "2027년까지 계약(2026년 1월 옵션 발동 연장).",
   },
   murilo: {
     nationality: "BR",
@@ -306,6 +420,12 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "이적 당시 큰 주목을 받진 못했지만 주전으로 자리잡아 ‘아벨의 영입 성공작’으로 평가받습니다.",
     bioKo:
       "크루제이루에서 성장해 2019년 로코모치바 모스크바로 이적, 71경기를 뛰며 러시아컵 우승을 경험했습니다. 2022년 파우메이라스 합류 첫 시즌 구스타보 고메스와 함께 한 시즌 11골을 넣으며 클럽 센터백 최다 득점 기록에 이름을 올렸습니다.",
+    careerKo:
+      "크루제이루 유스 → 로코모치바 모스크바(2019, 러시아 슈퍼컵·러시아컵 우승)",
+    transfersKo: "2022년 1월 로코모치바 모스크바에서 영입(2024년 재계약).",
+    nationalTeamKo:
+      "브라질 연령별 대표(U-20·U-23, 2019 툴롱 토너먼트 우승)를 거쳤습니다.",
+    contractKo: "2027년까지 계약.",
   },
   arthur: {
     nationality: "BR",
@@ -352,6 +472,23 @@ const DOSSIERS: Record<string, PlayerDossier> = {
       "2017년 입단한 ‘크리아 다 아카데미아’로, U-20 전국 우승과 코피냐·U-20 리베르타도레스 득점왕을 휩쓴 골잡이입니다. 2025년 1군에 데뷔했고 바이아웃이 1억 유로로 책정될 만큼 기대받습니다.",
     narrativeKo: "제니트 등 유럽이 주시하는 차세대 스트라이커.",
   },
+  // Allowlisted Sub-20 (see palmeiras-roster-overrides.ts) — real player, no
+  // senior stats. Honest youth dossier (no fabricated senior record).
+  rafaelcoutinho: {
+    nationality: "BR",
+    nationalityKo: "브라질",
+    birthDate: "2006-03-24",
+    roleKo: "유스(Sub-20) 주장 · 중앙 미드필더",
+    styleKo:
+      "경기를 조립하고 중원을 지휘하는 리더형 미드필더로, 또래에서 한 발 앞선 시야와 패스가 강점입니다.",
+    whyCareKo:
+      "바이아주 이타부나 출신의 ‘크리아 다 아카데미아’. 2006년생으로 Sub-20 주장을 맡아 유스 팀을 이끌며, 1군 등번호(55번)로 등록된 미래 자원입니다.",
+    narrativeKo:
+      "아직 1군 공식 출전 기록은 없지만, 유스를 이끄는 주장으로 다음 세대를 대표하는 이름입니다.",
+    careerKo: "파우메이라스 유스(Sub-20 주장)",
+    bioKo:
+      "바이아주 이타부나에서 태어난 중앙 미드필더로, 파우메이라스 Sub-20의 주장을 맡고 있습니다. 1군 등번호(55번)로 등록돼 있으나 아직 시니어 공식 경기 출전 기록은 없는, 교차검증된 유스 자원입니다.",
+  },
 };
 
 // The live API roster sometimes uses an abbreviated first initial (e.g.
@@ -389,6 +526,13 @@ export function getCoachDossier(name: string): CoachDossier | null {
 /** True when this dossier carries editorial narrative (not just facts). */
 export function hasEditorial(d: PlayerDossier): boolean {
   return Boolean(d.roleKo && d.styleKo && d.whyCareKo);
+}
+
+/** True when this dossier carries any web-verified structured career fact. */
+export function hasCareerFacts(d: PlayerDossier): boolean {
+  return Boolean(
+    d.careerKo || d.transfersKo || d.nationalTeamKo || d.contractKo,
+  );
 }
 
 /** Convert a dossier into a PlayerInsight (editorial source). */

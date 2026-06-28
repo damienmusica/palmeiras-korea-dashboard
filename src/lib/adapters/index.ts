@@ -14,6 +14,7 @@ import type {
   Squad,
   Standings,
   StatLeader,
+  TeamLineup,
 } from "@/lib/domain/types";
 import {
   SEED_MATCHES,
@@ -151,6 +152,14 @@ export async function getSquad(): Promise<DataResult<Squad>> {
 
 // --- Matches -----------------------------------------------------------------
 
+/** Re-derive Korean player names on a team lineup (deterministic, never trusted
+ *  from the pipeline). */
+function koLineup(l: TeamLineup): TeamLineup {
+  const ko = (arr: TeamLineup["starters"]) =>
+    arr.map((p) => ({ ...p, nameKo: koreanName(p.name) }));
+  return { ...l, starters: ko(l.starters), bench: ko(l.bench) };
+}
+
 export async function getMatches(): Promise<DataResult<Match[]>> {
   return cached(CACHE_KEYS.matches, async () => {
     // Precedence: current-season ESPN snapshot (free pipeline) → seed.
@@ -165,6 +174,11 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
           player: koreanName(e.player),
           detail: e.detail ? koreanName(e.detail) : e.detail,
         })),
+        // Korean names are (re)derived deterministically here too — never
+        // trusted from the pipeline — so lineup orthography stays correct.
+        lineups: m.lineups
+          ? { home: koLineup(m.lineups.home), away: koLineup(m.lineups.away) }
+          : undefined,
       }));
       return { ...snapshot, data };
     }

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Match } from "@/lib/domain/types";
 import { Crest } from "@/components/ui/Crest";
 import { InsightBlock } from "@/components/ui/InsightBlock";
@@ -41,9 +42,12 @@ function ResultPill({ match }: { match: Match }) {
 export function MatchCard({
   match,
   showInsight = true,
+  linkToDetail = false,
 }: {
   match: Match;
   showInsight?: boolean;
+  /** When true, append a link to the match detail (lineups + timeline) page. */
+  linkToDetail?: boolean;
 }) {
   const kst = toKST(match.kickoff);
   const br = toBrazil(match.kickoff);
@@ -57,6 +61,8 @@ export function MatchCard({
   const goals = (match.events ?? []).filter(
     (e) => e.type === "goal" || e.type === "penalty",
   );
+  // The detail page is only worth a link when there's lineup/timeline depth.
+  const hasDepth = Boolean(match.lineups || (match.events?.length ?? 0) > 0);
 
   return (
     <article className="pm-card p-4">
@@ -215,6 +221,15 @@ export function MatchCard({
             </InsightBlock>
           ) : null}
         </div>
+      ) : null}
+
+      {linkToDetail && hasDepth ? (
+        <Link
+          href={`/fixtures/${match.id}`}
+          className="mt-3 flex items-center justify-center gap-1 rounded-lg border border-[var(--pm-primary)]/30 bg-[var(--pm-primary)]/[0.05] py-2 text-sm font-semibold text-[var(--pm-primary)] hover:bg-[var(--pm-primary)]/10"
+        >
+          📋 라인업 · 경기 타임라인 보기 →
+        </Link>
       ) : null}
     </article>
   );
