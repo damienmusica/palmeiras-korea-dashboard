@@ -22,12 +22,12 @@ function describe(e: MatchEvent) {
     return (
       <>
         <span className="font-semibold">{e.player}</span>
-        <span className="font-bold text-emerald-600"> ▲</span>
+        <span className="font-bold text-[var(--pm-primary-text)]"> ▲</span>
         {e.detail ? (
           <span className="text-[var(--pm-muted)]">
             {" · "}
             {e.detail}
-            <span className="font-bold text-rose-600"> ▼</span>
+            <span className="font-bold text-[var(--pm-loss)]"> ▼</span>
           </span>
         ) : null}
       </>

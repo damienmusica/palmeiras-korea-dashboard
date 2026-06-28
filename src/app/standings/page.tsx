@@ -1,7 +1,13 @@
 import type { Metadata } from "next";
 import type { Player } from "@/lib/domain/types";
-import { getStandings, getMatches, getSquad } from "@/lib/adapters";
+import {
+  getStandings,
+  getMatches,
+  getSquad,
+  getCompetitions,
+} from "@/lib/adapters";
 import { StandingsTable } from "@/components/standings/StandingsTable";
+import { CampaignSection } from "@/components/standings/CampaignSection";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 import { competitionContext } from "@/lib/interpret/competitions";
@@ -36,10 +42,11 @@ export const metadata: Metadata = {
 export const revalidate = 300;
 
 export default async function StandingsPage() {
-  const [res, matchesRes, squadRes] = await Promise.all([
+  const [res, matchesRes, squadRes, compsRes] = await Promise.all([
     getStandings(),
     getMatches(),
     getSquad(),
+    getCompetitions(),
   ]);
   // ESPN's standings feed carries no recent-form string, so derive the tracked
   // team's last-5 from the fixtures snapshot (others stay blank — honest, since
@@ -79,7 +86,9 @@ export default async function StandingsPage() {
       />
 
       <div className="rounded-xl border border-[var(--pm-primary)]/20 bg-[var(--pm-primary)]/[0.06] p-3 text-sm">
-        <p className="font-bold text-[var(--pm-primary)]">{ctx.taglineKo}</p>
+        <p className="font-bold text-[var(--pm-primary-text)]">
+          {ctx.taglineKo}
+        </p>
         <p className="mt-1 leading-relaxed">{ctx.explainerKo}</p>
         {tracked ? (
           <p className="mt-2 font-semibold">
@@ -91,6 +100,11 @@ export default async function StandingsPage() {
       </div>
 
       <StandingsTable standings={s} />
+
+      {/* Continental (Libertadores) + domestic cup (Copa do Brasil) campaigns */}
+      {compsRes && compsRes.data.campaigns.length > 0 ? (
+        <CampaignSection campaigns={compsRes.data.campaigns} />
+      ) : null}
 
       {/* Palmeiras current-season scorers / assisters (real squad data) */}
       <div className="flex items-baseline justify-between">
@@ -142,7 +156,7 @@ function LeaderCard({
                 {r.playerName}
               </span>
             </span>
-            <span className="font-extrabold text-[var(--pm-primary)] tabular-nums">
+            <span className="font-extrabold text-[var(--pm-primary-text)] tabular-nums">
               {r.value}
               <span className="ml-0.5 text-xs font-normal text-[var(--pm-muted)]">
                 {unit}

@@ -70,7 +70,7 @@ export function GlossaryView({ entries }: { entries: GlossaryEntry[] }) {
           {filtered.map((e) => (
             <div key={e.term} className="pm-card flex flex-col gap-0.5 p-3">
               <dt className="flex items-baseline gap-2">
-                <span className="font-bold text-[var(--pm-primary)]">
+                <span className="font-bold text-[var(--pm-primary-text)]">
                   {e.term}
                 </span>
                 <span className="text-xs text-[var(--pm-muted)]">

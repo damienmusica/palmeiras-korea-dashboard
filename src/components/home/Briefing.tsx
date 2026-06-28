@@ -34,7 +34,7 @@ export function Briefing({ briefing }: { briefing: BriefingType }) {
         {briefing.items.map((item, i) => {
           const inner = (
             <div className="flex h-full flex-col gap-1 bg-[var(--pm-primary)] p-4 transition-colors hover:bg-[var(--pm-primary-dark)]">
-              <div className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-white/70">
+              <div className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-white/80">
                 <span aria-hidden="true">{item.icon}</span>
                 {item.label}
               </div>

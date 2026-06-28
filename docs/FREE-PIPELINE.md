@@ -110,3 +110,50 @@ by the repo owner — it is intentionally not committed by the assistant.)
 - Ingest sanitizes link URLs to http(s) only (mirrors `src/lib/security/url.ts`),
   with fetch timeout + 2MB response cap.
 - The app re-sanitizes any external href at render time (defense in depth).
+
+## Reliability safety net
+
+The ingest never throws (a flaky feed mustn't break the cron), so a single feed
+can fail *silently* for hours while the cron stays green with stale data. Three
+layers turn that silent rot into a loud, free alert. See the
+[maintenance runbook](./MAINTENANCE.md) for how to respond.
+
+| Layer | Catches | Where |
+| --- | --- | --- |
+| `npm run check` (`scripts/check-freshness.mjs`) | a feed silently failing → snapshot stale / empty / schema drift | CI step **right after ingest**; exits non-zero → red run → GitHub failure email |
+| read-side guard (`snapshot.ts` `hasFields`) | a present-but-malformed snapshot | runtime → app falls back to seed instead of rendering garbage |
+| **dead-man's-switch** (optional, free) | the cron **not running at all** | external monitor — the in-run check can't catch this |
+
+### Apply: add the check + heartbeat to the workflow
+
+The workflow file lives under `.github/` and is **owner-applied** (never in a
+code PR). Add a check step (and optional heartbeat) to
+`.github/workflows/refresh-data.yml`, after the existing "Commit updated
+snapshot" step:
+
+```yaml
+      # Fail loudly if any snapshot is stale/empty/malformed (silent feed rot).
+      - name: Check snapshot freshness
+        run: npm run check
+
+      # Optional dead-man's-switch: ping a free monitor on success. If these
+      # pings stop (cron disabled / quota / repo inactive), the monitor alerts
+      # you. Set HEALTHCHECK_URL as a repo secret (e.g. from healthchecks.io —
+      # free, no card; the ping URL is the only secret). The `|| true` keeps a
+      # missing/blocked monitor from failing the run.
+      - name: Heartbeat (dead-man's-switch)
+        if: ${{ success() && env.HEALTHCHECK_URL != '' }}
+        env:
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: curl -fsS -m 10 --retry 3 "$HEALTHCHECK_URL" || true
+```
+
+Notes:
+- `npm run check` needs `node_modules` only for nothing — it's dependency-free
+  (pure Node + `data/*.json`), so it runs even before `npm ci`. If you prefer,
+  run it with `node scripts/check-freshness.mjs`.
+- GitHub emails the repo owner automatically on a failed scheduled run — no extra
+  secret needed for that baseline alert. The heartbeat only adds "cron is fully
+  dead" detection.
+- Thresholds (per-feed `maxAgeMin`) live in `SNAPSHOT_POLICY` in
+  `scripts/check-freshness.mjs`; tune if the cron cadence changes.

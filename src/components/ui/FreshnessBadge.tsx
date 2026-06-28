@@ -89,7 +89,9 @@ export function FreshnessBadge({
     <span className={`pm-chip ${TONE_CLASS[tone]}`} title={title}>
       <span aria-hidden="true">{dot}</span>
       <span>{labelKo}</span>
-      {rel ? <span className="font-normal opacity-70">· {rel}</span> : null}
+      {/* No opacity dimming: on the warn (rose) tone it drops below WCAG-AA
+          (~3.85:1). The leading "·" already sets the timestamp apart. */}
+      {rel ? <span className="font-normal">· {rel}</span> : null}
     </span>
   );
 }

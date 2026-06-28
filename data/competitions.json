@@ -1,0 +1,175 @@
+{
+  "origin": "api",
+  "source": "ESPN (현재 시즌)",
+  "fetchedAt": "2026-06-28T15:30:34.600Z",
+  "season": "2026",
+  "campaigns": [
+    {
+      "competition": {
+        "id": "libertadores",
+        "name": "CONMEBOL Libertadores",
+        "nameKo": "코파 리베르타도레스 (남미 챔피언스리그)",
+        "shortName": "Libertadores",
+        "kind": "continental"
+      },
+      "format": "group+knockout",
+      "group": {
+        "nameKo": "F조",
+        "table": [
+          {
+            "rank": 1,
+            "teamId": "2671",
+            "teamName": "Cerro Porteño",
+            "teamNameKo": "Cerro Porteño",
+            "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
+            "played": 6,
+            "won": 4,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 2,
+            "goalDifference": 4,
+            "points": 13,
+            "isTracked": false
+          },
+          {
+            "rank": 2,
+            "teamId": "palmeiras",
+            "teamName": "Palmeiras",
+            "teamNameKo": "파우메이라스",
+            "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+            "played": 6,
+            "won": 3,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 10,
+            "goalsAgainst": 5,
+            "goalDifference": 5,
+            "points": 11,
+            "isTracked": true
+          },
+          {
+            "rank": 3,
+            "teamId": "2673",
+            "teamName": "Sporting Cristal",
+            "teamNameKo": "Sporting Cristal",
+            "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2673.png",
+            "played": 6,
+            "won": 2,
+            "drawn": 0,
+            "lost": 4,
+            "goalsFor": 6,
+            "goalsAgainst": 9,
+            "goalDifference": -3,
+            "points": 6,
+            "isTracked": false
+          },
+          {
+            "rank": 4,
+            "teamId": "4815",
+            "teamName": "Atlético Junior",
+            "teamNameKo": "Atlético Junior",
+            "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
+            "played": 6,
+            "won": 1,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 11,
+            "goalDifference": -6,
+            "points": 4,
+            "isTracked": false
+          }
+        ],
+        "advanceCount": 2,
+        "qualifiedKo": "조 2위로 토너먼트 진출"
+      },
+      "currentRound": {
+        "roundKo": "16강",
+        "opponentId": "2671",
+        "opponentName": "Cerro Porteño",
+        "opponentNameKo": "Cerro Porteño",
+        "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
+        "legs": [
+          {
+            "kickoff": "2026-08-12T22:00Z",
+            "venue": "home",
+            "legKo": "1차전",
+            "status": "scheduled",
+            "trackedHome": true,
+            "matchId": "espn-401874076"
+          },
+          {
+            "kickoff": "2026-08-19T22:00Z",
+            "venue": "away",
+            "legKo": "2차전",
+            "status": "scheduled",
+            "trackedHome": false,
+            "matchId": "espn-401874155"
+          }
+        ],
+        "result": "ongoing"
+      }
+    },
+    {
+      "competition": {
+        "id": "copa-do-brasil",
+        "name": "Copa do Brasil",
+        "nameKo": "코파 두 브라질 (국내컵)",
+        "shortName": "Copa do Brasil",
+        "kind": "cup"
+      },
+      "format": "knockout",
+      "currentRound": {
+        "roundKo": "16강",
+        "opponentId": "6272",
+        "opponentName": "Fortaleza",
+        "opponentNameKo": "포르탈레자",
+        "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+        "legs": [
+          {
+            "kickoff": "2026-08-02T19:00Z",
+            "venue": "home",
+            "legKo": "1차전",
+            "status": "scheduled",
+            "trackedHome": true,
+            "matchId": "espn-401873913"
+          },
+          {
+            "kickoff": "2026-08-06T00:30Z",
+            "venue": "away",
+            "legKo": "2차전",
+            "status": "scheduled",
+            "trackedHome": false,
+            "matchId": "espn-401874099"
+          }
+        ],
+        "result": "ongoing"
+      },
+      "path": [
+        {
+          "roundKo": "이전 라운드",
+          "opponentId": "17713",
+          "opponentName": "Jacuipense",
+          "opponentNameKo": "자쿠이펜시",
+          "legs": [
+            {
+              "kickoff": "2026-05-14T00:30Z",
+              "venue": "away",
+              "legKo": "2차전",
+              "status": "finished",
+              "trackedHome": false,
+              "matchId": "espn-401866354",
+              "score": {
+                "home": 1,
+                "away": 4
+              }
+            }
+          ],
+          "result": "advanced",
+          "outcomeKo": "합산 7-1 승 · 진출"
+        }
+      ]
+    }
+  ]
+}

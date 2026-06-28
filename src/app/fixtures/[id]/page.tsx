@@ -6,11 +6,18 @@ import { MatchCard } from "@/components/match/MatchCard";
 import { FormationPitch } from "@/components/match/FormationPitch";
 import { MatchTimeline } from "@/components/match/MatchTimeline";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { sportsEventJsonLd } from "@/lib/seo/structured";
 
 export async function generateStaticParams() {
   const res = await getMatches();
   return res.data.map((m) => ({ id: m.id }));
 }
+
+// Only the matches present in the snapshot are valid pages; any other id is a
+// real 404 (not a soft-404). The data cron commits → redeploy regenerates these
+// params, so new fixtures get pages on the same deploy that introduces them.
+export const dynamicParams = false;
 
 export async function generateMetadata({
   params,
@@ -21,9 +28,20 @@ export async function generateMetadata({
   const res = await getMatches();
   const m = res.data.find((x) => x.id === id);
   if (!m) return { title: "경기를 찾을 수 없음" };
+  const title = `${m.home.nameKo} vs ${m.away.nameKo} — 라인업·타임라인`;
+  const description = `${m.competition.nameKo} · 포메이션·선발 라인업·골/카드/교체 타임라인을 한국어로 정리했습니다.`;
+  const canonical = `/fixtures/${m.id}`;
   return {
-    title: `${m.home.nameKo} vs ${m.away.nameKo} — 라인업·타임라인`,
-    description: `${m.competition.nameKo} · 포메이션·선발 라인업·골/카드/교체 타임라인을 한국어로 정리했습니다.`,
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      type: "article",
+      url: canonical,
+      title,
+      description,
+    },
+    twitter: { card: "summary", title, description },
   };
 }
 
@@ -43,9 +61,10 @@ export default async function MatchDetailPage({
 
   return (
     <div className="space-y-5">
+      <JsonLd data={sportsEventJsonLd(match)} />
       <Link
         href="/fixtures"
-        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary)] hover:underline"
+        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"
       >
         ← 일정·결과로 돌아가기
       </Link>

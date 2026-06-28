@@ -15,6 +15,8 @@ import type {
   Standings,
   StatLeader,
   TeamLineup,
+  CompetitionsSnapshot,
+  CompetitionCampaign,
 } from "@/lib/domain/types";
 import {
   SEED_MATCHES,
@@ -32,6 +34,7 @@ import {
   readSquadSnapshot,
   readMatchesSnapshot,
   readStandingsSnapshot,
+  readCompetitionsSnapshot,
 } from "@/lib/data/snapshot";
 import { attachPhotos } from "@/lib/data/photos";
 import { gateSquad } from "@/lib/data/squad-integrity";
@@ -49,6 +52,7 @@ export const CACHE_KEYS = {
   squad: "squad:palmeiras",
   matches: "matches:palmeiras",
   standings: "standings:palmeiras",
+  competitions: "competitions:palmeiras",
   news: "news:palmeiras",
 } as const;
 
@@ -211,6 +215,54 @@ export async function getStandings(): Promise<DataResult<Standings>> {
       };
     }
     return seedResult<Standings>(SEED_STANDINGS);
+  });
+}
+
+// --- Continental / cup campaigns ---------------------------------------------
+// Libertadores group table + the knockout tie Palmeiras is in, and the Copa do
+// Brasil knockout run. Korean team names are (re)derived deterministically here
+// (never trusted from the pipeline) so orthography stays correct. There is no
+// seed fallback: when the snapshot is absent the section is simply omitted
+// (honest — we never fabricate a bracket).
+
+function koCampaign(c: CompetitionCampaign): CompetitionCampaign {
+  return {
+    ...c,
+    group: c.group
+      ? {
+          ...c.group,
+          table: c.group.table.map((r) => ({
+            ...r,
+            teamNameKo: koreanTeamName(r.teamName),
+          })),
+        }
+      : undefined,
+    currentRound: c.currentRound
+      ? {
+          ...c.currentRound,
+          opponentNameKo: koreanTeamName(c.currentRound.opponentName),
+        }
+      : undefined,
+    path: c.path?.map((t) => ({
+      ...t,
+      opponentNameKo: koreanTeamName(t.opponentName),
+    })),
+  };
+}
+
+export async function getCompetitions(): Promise<DataResult<CompetitionsSnapshot> | null> {
+  return cached(CACHE_KEYS.competitions, async () => {
+    const snapshot = readCompetitionsSnapshot();
+    if (snapshot && snapshot.data.campaigns.length > 0) {
+      return {
+        ...snapshot,
+        data: {
+          ...snapshot.data,
+          campaigns: snapshot.data.campaigns.map(koCampaign),
+        },
+      };
+    }
+    return null;
   });
 }
 

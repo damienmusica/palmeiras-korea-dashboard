@@ -56,7 +56,7 @@ export function QuickStats({
       {cells.map((c) => (
         <div key={c.label} className="pm-card p-3 text-center">
           <dt className="text-xs text-[var(--pm-muted)]">{c.label}</dt>
-          <dd className="mt-0.5 text-lg font-extrabold text-[var(--pm-primary)]">
+          <dd className="mt-0.5 text-lg font-extrabold text-[var(--pm-primary-text)]">
             {c.value}
           </dd>
           {c.sub ? (

@@ -19,11 +19,20 @@ import { Crest } from "@/components/ui/Crest";
 import { toKST } from "@/lib/format/datetime";
 import { ACTIVE_TEAM_ID } from "@/lib/teams";
 import { resultForTeam } from "@/lib/format/stats";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { athleteJsonLd } from "@/lib/seo/structured";
+import { Collapsible } from "@/components/ui/Collapsible";
+import { PlayerNav } from "@/components/squad/PlayerNav";
 
 export async function generateStaticParams() {
   const squad = await getSquad();
   return squad.data.players.map((p) => ({ id: p.id }));
 }
+
+// Only the integrity-gated squad ids are valid pages — a blocklisted phantom
+// (e.g. Ghareeb #47) or any unknown id is a real 404, not a soft-404. The data
+// cron commits → redeploy regenerates these params for roster changes.
+export const dynamicParams = false;
 
 export async function generateMetadata({
   params,
@@ -33,9 +42,21 @@ export async function generateMetadata({
   const { id } = await params;
   const res = await getPlayer(id);
   if (!res.data) return { title: "선수를 찾을 수 없음" };
+  const title = `${res.data.nameKo} (${res.data.name})`;
+  const description = `${res.data.nameKo} — ${res.data.positionKo}. 역할·스타일·주목 이유를 한국어로 설명합니다.`;
+  const canonical = `/squad/${res.data.id}`;
   return {
-    title: `${res.data.nameKo} (${res.data.name})`,
-    description: `${res.data.nameKo} — ${res.data.positionKo}. 역할·스타일·주목 이유를 한국어로 설명합니다.`,
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      type: "profile",
+      url: canonical,
+      title,
+      description,
+      images: res.data.photo ? [{ url: res.data.photo }] : undefined,
+    },
+    twitter: { card: "summary", title, description },
   };
 }
 
@@ -108,6 +129,19 @@ export default async function PlayerPage({
       ]
     : [];
 
+  // Prev/next in the squad order (GK→DF→MF→FW, same as the list) so a reader can
+  // move between players without bouncing back to the list and re-scrolling.
+  const squadRes = await getSquad();
+  const GROUP_RANK: Record<string, number> = { GK: 0, DF: 1, MF: 2, FW: 3 };
+  const ordered = [...squadRes.data.players].sort(
+    (a, b) =>
+      (GROUP_RANK[a.positionGroup] ?? 9) - (GROUP_RANK[b.positionGroup] ?? 9),
+  );
+  const myIdx = ordered.findIndex((p) => p.id === player.id);
+  const prevPlayer = myIdx > 0 ? ordered[myIdx - 1] : null;
+  const nextPlayer =
+    myIdx >= 0 && myIdx < ordered.length - 1 ? ordered[myIdx + 1] : null;
+
   // Recent matches the team played (player-level match logs aren't in seed, so
   // we show the team's recent fixtures as context, clearly framed).
   const matchesRes = await getMatches();
@@ -155,12 +189,21 @@ export default async function PlayerPage({
 
   return (
     <div className="space-y-5">
-      <Link
-        href="/squad"
-        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary)] hover:underline"
-      >
-        ← 스쿼드로 돌아가기
-      </Link>
+      {/* Athlete structured data — only for cross-verified players (the
+          unverified gate already suppressed editorial; keep machine data honest too). */}
+      {unverified ? null : <JsonLd data={athleteJsonLd(player)} />}
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <Link
+          href="/squad"
+          className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"
+        >
+          ← 스쿼드 목록
+        </Link>
+        <span className="text-xs text-[var(--pm-muted)]">
+          {myIdx >= 0 ? `${myIdx + 1} / ${ordered.length}` : ""}
+        </span>
+      </div>
+      <PlayerNav prev={prevPlayer} next={nextPlayer} />
 
       {/* Header */}
       <header className="pm-card flex flex-wrap items-center gap-4 p-5">
@@ -325,7 +368,7 @@ export default async function PlayerPage({
                 key={r.label}
                 className="grid grid-cols-1 gap-1 bg-[var(--pm-surface)] px-4 py-3 sm:grid-cols-[7.5rem_1fr] sm:gap-3"
               >
-                <dt className="flex items-center gap-1.5 text-sm font-semibold text-[var(--pm-primary)]">
+                <dt className="flex items-center gap-1.5 text-sm font-semibold text-[var(--pm-primary-text)]">
                   <span aria-hidden="true">{r.icon}</span>
                   {r.label}
                 </dt>
@@ -374,11 +417,20 @@ export default async function PlayerPage({
         )}
       </section>
 
-      {/* Player-specific related news */}
-      <section aria-labelledby="news-heading" className="space-y-2">
-        <h2 id="news-heading" className="text-lg font-bold">
-          관련 뉴스
-        </h2>
+      {/* Player-specific related news — secondary, collapsed by default to keep
+          the page scannable (progressive disclosure). */}
+      <Collapsible
+        className="border-t border-black/5 pt-3"
+        bodyClassName="mt-3"
+        summary={
+          <h2 className="text-lg font-bold">
+            관련 뉴스{" "}
+            <span className="text-sm font-normal text-[var(--pm-muted)]">
+              ({playerNews.length})
+            </span>
+          </h2>
+        }
+      >
         {playerNews.length > 0 ? (
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
             {playerNews.map((item) => (
@@ -388,19 +440,30 @@ export default async function PlayerPage({
         ) : (
           <p className="pm-card p-4 text-sm italic text-[var(--pm-muted)]">
             이 선수를 직접 언급한 최신 뉴스가 아직 없습니다. 전체 뉴스는{" "}
-            <Link href="/news" className="text-[var(--pm-primary)] underline">
+            <Link
+              href="/news"
+              className="text-[var(--pm-primary-text)] underline"
+            >
               뉴스 페이지
             </Link>
             에서 확인하세요.
           </p>
         )}
-      </section>
+      </Collapsible>
 
-      {/* Team recent matches as context */}
-      <section aria-labelledby="recent-heading" className="space-y-2">
-        <h2 id="recent-heading" className="text-lg font-bold">
-          팀 최근 경기
-        </h2>
+      {/* Team recent matches as context — secondary, collapsed by default. */}
+      <Collapsible
+        className="border-t border-black/5 pt-3"
+        bodyClassName="mt-3 space-y-2"
+        summary={
+          <h2 className="text-lg font-bold">
+            팀 최근 경기{" "}
+            <span className="text-sm font-normal text-[var(--pm-muted)]">
+              (맥락)
+            </span>
+          </h2>
+        }
+      >
         <p className="text-xs text-[var(--pm-muted)]">
           ※ 경기별 개별 출전 기록은 무료 공개 소스에서 제공되지 않아, 팀의 최근
           경기 결과를 맥락으로 함께 보여줍니다.
@@ -412,10 +475,10 @@ export default async function PlayerPage({
             const kst = toKST(m.kickoff);
             const rc =
               r === "W"
-                ? "text-emerald-600"
+                ? "text-[var(--pm-primary-text)]"
                 : r === "L"
-                  ? "text-rose-600"
-                  : "text-gray-500";
+                  ? "text-[var(--pm-loss)]"
+                  : "text-[var(--pm-muted)]";
             return (
               <li
                 key={m.id}
@@ -438,7 +501,14 @@ export default async function PlayerPage({
             );
           })}
         </ul>
-      </section>
+      </Collapsible>
+
+      {/* Keep exploring: prev/next at the bottom too, so you don't scroll back up. */}
+      <PlayerNav
+        prev={prevPlayer}
+        next={nextPlayer}
+        ariaLabel="선수 이동 (페이지 하단)"
+      />
     </div>
   );
 }
@@ -446,7 +516,7 @@ export default async function PlayerPage({
 function Stat({ label, value }: { label: string; value: number }) {
   return (
     <div className="pm-card p-3 text-center">
-      <p className="text-xl font-extrabold text-[var(--pm-primary)] tabular-nums">
+      <p className="text-xl font-extrabold text-[var(--pm-primary-text)] tabular-nums">
         {value}
       </p>
       <p className="text-xs text-[var(--pm-muted)]">{label}</p>

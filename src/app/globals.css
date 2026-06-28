@@ -7,7 +7,16 @@
     "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
   --pm-primary: #006437;
   --pm-primary-dark: #00532e;
-  --pm-accent: #9fd5b7;
+  /* Green used as TEXT/icon color. Same as --pm-primary in light mode, but a
+     lighter green in dark mode where #006437 on a dark surface fails WCAG-AA
+     (~2.4:1). Use this for green text; keep --pm-primary for fills/borders. */
+  --pm-primary-text: #006437;
+  /* Red used as TEXT/icon color (loss, sub-off). Adapts so it passes AA on both
+     the light and dark surface (rose-600 alone fails ~3.7:1 in dark mode). */
+  --pm-loss: #e11d48;
+  /* Mint CTA accent on the green briefing tiles — lightened just enough to clear
+     WCAG-AA on --pm-primary (#9fd5b7 was 4.4:1). */
+  --pm-accent: #aeddc6;
   --pm-bg: #f6f8f6;
   --pm-surface: #ffffff;
   --pm-ink: #14241b;
@@ -20,6 +29,9 @@
     --pm-surface: #131b16;
     --pm-ink: #e8efe9;
     --pm-muted: #9baba1;
+    /* ≥4.7:1 on the dark surface/bg (AA for normal text). */
+    --pm-primary-text: #34a873;
+    --pm-loss: #f43f5e;
   }
 }
 

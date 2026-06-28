@@ -20,12 +20,14 @@ export function CompetitionPrimer() {
       <div className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2">
         {contexts.map((c) => (
           <div key={c.id} className="rounded-xl bg-black/[0.03] p-3">
-            <p className="font-bold text-[var(--pm-primary)]">{c.nameKo}</p>
+            <p className="font-bold text-[var(--pm-primary-text)]">
+              {c.nameKo}
+            </p>
             <p className="text-xs font-semibold text-[var(--pm-muted)]">
               {c.taglineKo}
             </p>
             <p className="mt-1 text-sm leading-relaxed">{c.explainerKo}</p>
-            <p className="mt-1 text-xs font-semibold text-[var(--pm-primary)]">
+            <p className="mt-1 text-xs font-semibold text-[var(--pm-primary-text)]">
               ⭐ {c.stakesKo}
             </p>
           </div>

@@ -32,11 +32,16 @@ export function InsightBlock({
         ? "border-black/10 bg-black/[0.02]"
         : "border-[var(--pm-primary)]/30 bg-[var(--pm-primary)]/[0.06]";
 
+  // The title is a styled label, not a document heading: these blocks are dense,
+  // repeated annotations (several per match card) — promoting them to headings
+  // would both flood the heading outline and skip levels (h2 → h4). Left as an
+  // unnamed (generic) section so it adds no landmark noise; the bold <p> labels
+  // the content visually and for AT in reading order.
   return (
     <section className={`rounded-xl border p-3 ${toneClass}`}>
       <header className="mb-1 flex items-center gap-1.5">
         <span aria-hidden="true">{icon}</span>
-        <h4 className="text-sm font-bold">{title}</h4>
+        <p className="text-sm font-bold">{title}</p>
         {source ? (
           <span className="pm-chip ml-auto bg-black/5 text-[10px] text-[var(--pm-muted)]">
             ✎ {SOURCE_LABEL[source]}

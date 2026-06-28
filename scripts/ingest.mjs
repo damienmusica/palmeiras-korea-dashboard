@@ -161,6 +161,8 @@ const TEAM_KO = {
   remo: "헤모",
   mirassol: "미라솔",
   chapecoense: "샤페코엔시",
+  fortaleza: "포르탈레자",
+  jacuipense: "자쿠이펜시",
   riverplate: "리베르 플라테",
   boca: "보카 주니어스",
   bolivar: "볼리바르",
@@ -720,6 +722,319 @@ async function ingestMatches() {
   );
 }
 
+// --- ESPN continental / cup campaigns (free, current) -----------------------
+// The league has a full table (ingestStandings). The continental Libertadores
+// and the domestic Copa do Brasil are group+knockout / pure-knockout, so they
+// get their own snapshot: the tracked team's group mini-table (when applicable)
+// plus the knockout tie(s) it is in. Sourced keylessly from ESPN:
+//   • /standings           → group tables (Libertadores)
+//   • /scoreboard?dates=…  → current round name + the team's tie legs
+// Bounded to a handful of calls per run; the snapshot is cached otherwise.
+
+// Continental/cup competitions to track for Palmeiras (beyond the league).
+const CONTINENTAL_CAMPAIGNS = [
+  {
+    slug: "conmebol.libertadores",
+    comp: LIBERTADORES,
+    hasGroups: true,
+    advanceCount: 2, // top 2 of each group reach the Round of 16
+  },
+  { slug: "bra.copa_do_brazil", comp: COPA_DO_BRASIL, hasGroups: false },
+];
+
+// Map an ESPN round name OR per-event slug to a Korean knockout-round label.
+// Returns null for anything not cleanly known (caller shows an honest generic
+// label rather than guessing a wrong round number).
+export function roundKo(nameOrSlug) {
+  const k = String(nameOrSlug || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, "");
+  const MAP = {
+    final: "결승",
+    finalstage: "결승",
+    thirdplace: "3·4위전",
+    semifinals: "4강",
+    semifinal: "4강",
+    quarterfinals: "8강",
+    quarterfinal: "8강",
+    roundof16: "16강",
+    roundof32: "32강",
+    groupstage: "조별리그",
+    group: "조별리그",
+    knockoutroundplayoffs: "플레이오프",
+    playoffs: "플레이오프",
+    playoff: "플레이오프",
+  };
+  return MAP[k] || null;
+}
+
+// "Group F" → "F조".
+export function groupNameKo(name) {
+  const m = String(name || "").match(/group\s+([A-Z0-9]+)/i);
+  return m ? `${m[1].toUpperCase()}조` : name || "조별리그";
+}
+
+// Find the tracked team's group in an ESPN standings payload and build its
+// mini-table. Returns null when Palmeiras isn't in any group (off-season etc.).
+export function parsePalmeirasGroup(standings) {
+  const groups = standings?.children || [];
+  for (const g of groups) {
+    const entries = g.standings?.entries || [];
+    const inHere = entries.some(
+      (e) =>
+        String(e.team?.id) === PALMEIRAS_ESPN_ID ||
+        /palmeiras/i.test(e.team?.displayName || ""),
+    );
+    if (!inHere) continue;
+    const table = entries
+      .map((e, i) => {
+        const ref = teamRef(e.team);
+        const won = stat(e, ["wins"]);
+        const drawn = stat(e, ["ties"]);
+        const lost = stat(e, ["losses"]);
+        const gf = stat(e, ["pointsFor"]);
+        const ga = stat(e, ["pointsAgainst"]);
+        return {
+          rank: stat(e, ["rank"]) || i + 1,
+          teamId: ref.id,
+          teamName: ref.name,
+          teamNameKo: ref.nameKo,
+          crest: ref.crest,
+          played: stat(e, ["gamesPlayed"]),
+          won,
+          drawn,
+          lost,
+          goalsFor: gf,
+          goalsAgainst: ga,
+          goalDifference: stat(e, ["pointDifferential"]) || gf - ga,
+          points: stat(e, ["points"]),
+          isTracked: ref.id === "palmeiras",
+        };
+      })
+      .sort((a, b) => a.rank - b.rank);
+    if (table.length === 0) return null;
+    return { nameKo: groupNameKo(g.name), table };
+  }
+  return null;
+}
+
+// Korean leg label from an ESPN tie note ("1st Leg" / "2nd Leg - …").
+function legLabelKo(note, idx, total) {
+  if (/1st leg/i.test(note)) return "1차전";
+  if (/2nd leg/i.test(note)) return "2차전";
+  if (total <= 1) return "단판";
+  return `${idx + 1}차전`;
+}
+
+// Parse an ESPN aggregate/decider note into who advanced + a Korean outcome.
+// Handles "X advance N-M on aggregate", penalties, and away-goals phrasing.
+// Returns null while a tie is undecided (e.g. "Tied on aggregate").
+export function parseAggregateNote(note) {
+  const s = String(note || "");
+  const agg = s.match(
+    /([A-Za-zÀ-ÿ0-9 .'-]+?)\s+(?:advance|advances|win|wins)\b[^0-9]*?(\d+)\D+(\d+)\s+on aggregate/i,
+  );
+  if (agg) {
+    const trackedAdvanced = /palmeiras/i.test(agg[1]);
+    return {
+      trackedAdvanced,
+      outcomeKo: `합산 ${agg[2]}-${agg[3]} ${trackedAdvanced ? "승 · 진출" : "패 · 탈락"}`,
+    };
+  }
+  const pen = s.match(
+    /([A-Za-zÀ-ÿ0-9 .'-]+?)\s+(?:advance|advances|win|wins)\b[^.]*penalt/i,
+  );
+  if (pen) {
+    const trackedAdvanced = /palmeiras/i.test(pen[1]);
+    return {
+      trackedAdvanced,
+      outcomeKo: `승부차기 ${trackedAdvanced ? "승 · 진출" : "패 · 탈락"}`,
+    };
+  }
+  return null;
+}
+
+// Build a CampaignTie from the 1-2 ESPN scoreboard events that make up one tie
+// (same round, same opponent). `roundLabelKo` is the resolved Korean round name.
+export function buildCampaignTie(events, roundLabelKo) {
+  const sorted = [...events].sort((a, b) =>
+    String(a.date || "").localeCompare(String(b.date || "")),
+  );
+  let opponent = null;
+  let result = "ongoing";
+  let outcomeKo;
+  const legs = [];
+  sorted.forEach((e, idx) => {
+    const c = e.competitions?.[0];
+    const comps = c?.competitors || [];
+    const tracked = comps.find((x) => String(x.team?.id) === PALMEIRAS_ESPN_ID);
+    const opp = comps.find((x) => String(x.team?.id) !== PALMEIRAS_ESPN_ID);
+    if (!tracked || !opp) return;
+    if (!opponent) opponent = teamRef(opp.team);
+    const home = comps.find((x) => x.homeAway === "home");
+    const away = comps.find((x) => x.homeAway === "away");
+    const hs = Number(home?.score?.value ?? home?.score);
+    const as = Number(away?.score?.value ?? away?.score);
+    const status = mapStatus(c.status?.type?.state);
+    const note = (c.notes || []).map((n) => n.headline).join("; ");
+    const leg = {
+      kickoff: e.date,
+      venue: tracked.homeAway === "home" ? "home" : "away",
+      legKo: legLabelKo(note, idx, sorted.length),
+      status,
+      trackedHome: tracked.homeAway === "home",
+      matchId: `espn-${e.id}`,
+    };
+    if (
+      (status === "finished" || status === "live") &&
+      Number.isFinite(hs) &&
+      Number.isFinite(as)
+    ) {
+      leg.score = { home: hs, away: as };
+    }
+    legs.push(leg);
+    const decided = parseAggregateNote(note);
+    if (decided) {
+      result = decided.trackedAdvanced ? "advanced" : "eliminated";
+      outcomeKo = decided.outcomeKo;
+    }
+  });
+  if (!opponent || legs.length === 0) return null;
+  return {
+    roundKo: roundLabelKo,
+    opponentId: opponent.id,
+    opponentName: opponent.name,
+    opponentNameKo: opponent.nameKo,
+    opponentCrest: opponent.crest,
+    legs,
+    result,
+    outcomeKo,
+  };
+}
+
+// Group a competition's Palmeiras scoreboard events into knockout ties keyed by
+// (round, opponent), then split into the current round vs concluded past ties.
+function buildCampaignKnockout(sb) {
+  const cur = sb?.leagues?.[0]?.season?.type;
+  const currentType = cur ? String(cur.type ?? cur.id) : null;
+  const currentRoundKo =
+    roundKo(cur?.name) || roundKo(cur?.slug) || cur?.name || "토너먼트";
+
+  // Bucket Palmeiras events by per-event round, then by opponent within it.
+  // Group-stage games are excluded — they're shown as the group table, not as
+  // knockout ties (and a forward scoreboard window only catches some of them).
+  const byRound = new Map();
+  for (const e of sb?.events || []) {
+    const slug = e.season?.slug || "";
+    if (/group/i.test(slug) || roundKo(slug) === "조별리그") continue;
+    const c = e.competitions?.[0];
+    const comps = c?.competitors || [];
+    const tracked = comps.find((x) => String(x.team?.id) === PALMEIRAS_ESPN_ID);
+    const opp = comps.find((x) => String(x.team?.id) !== PALMEIRAS_ESPN_ID);
+    if (!tracked || !opp) continue;
+    const rtype = String(e.season?.type ?? "");
+    const key = `${rtype}|${opp.team?.id}`;
+    if (!byRound.has(key)) byRound.set(key, { rtype, slug, events: [] });
+    byRound.get(key).events.push(e);
+  }
+
+  let currentRound;
+  const path = [];
+  for (const { rtype, slug, events } of byRound.values()) {
+    const isCurrent = currentType && rtype === currentType;
+    const label = isCurrent ? currentRoundKo : roundKo(slug) || "이전 라운드";
+    const tie = buildCampaignTie(events, label);
+    if (!tie) continue;
+    if (isCurrent) currentRound = tie;
+    else path.push(tie);
+  }
+  // Past ties chronological by their first leg.
+  path.sort((a, b) =>
+    String(a.legs[0]?.kickoff || "").localeCompare(
+      String(b.legs[0]?.kickoff || ""),
+    ),
+  );
+  return { currentRound, path };
+}
+
+// Forward-looking scoreboard window (covers a tie's two legs around "now").
+function campaignWindow(now = Date.now()) {
+  const fmt = (ms) => new Date(ms).toISOString().slice(0, 10).replace(/-/g, "");
+  return `${fmt(now - 60 * 86400000)}-${fmt(now + 150 * 86400000)}`;
+}
+
+async function ingestCompetitions() {
+  log("fetching continental/cup campaigns from ESPN…");
+  const campaigns = [];
+  let season = String(new Date().getFullYear());
+  for (const { slug, comp, hasGroups, advanceCount } of CONTINENTAL_CAMPAIGNS) {
+    const campaign = {
+      competition: comp,
+      format: hasGroups ? "group+knockout" : "knockout",
+    };
+    // 1) Group mini-table (continental group stage).
+    if (hasGroups) {
+      try {
+        const st = await getJson(
+          `${ESPN_BASE}/v2/sports/soccer/${slug}/standings`,
+        );
+        if (st?.season?.year) season = String(st.season.year);
+        const group = parsePalmeirasGroup(st);
+        if (group) {
+          group.advanceCount = advanceCount;
+          const me = group.table.find((r) => r.isTracked);
+          if (me) {
+            const advanced = me.rank <= advanceCount;
+            group.qualifiedKo = advanced
+              ? `조 ${me.rank}위로 토너먼트 진출`
+              : `조 ${me.rank}위 · 토너먼트 진출 실패 (상위 ${advanceCount}팀)`;
+          }
+          campaign.group = group;
+        }
+      } catch (err) {
+        log(`${slug} standings failed:`, err.message);
+      }
+    }
+    // 2) Knockout: current round + concluded ties, from the scoreboard window.
+    try {
+      const sb = await getJson(
+        `${ESPN_BASE}/site/v2/sports/soccer/${slug}/scoreboard?dates=${campaignWindow()}`,
+      );
+      if (sb?.leagues?.[0]?.season?.year) {
+        season = String(sb.leagues[0].season.year);
+      }
+      const { currentRound, path } = buildCampaignKnockout(sb);
+      if (currentRound) campaign.currentRound = currentRound;
+      if (path.length) campaign.path = path;
+    } catch (err) {
+      log(`${slug} scoreboard failed:`, err.message);
+    }
+    // Only include a competition we actually have real data for.
+    if (campaign.group || campaign.currentRound || campaign.path?.length) {
+      campaigns.push(campaign);
+    }
+  }
+
+  if (campaigns.length === 0) {
+    log("no competition data — keeping existing/seed");
+    return;
+  }
+  writeData("competitions.json", {
+    origin: "api",
+    source: "ESPN (현재 시즌)",
+    fetchedAt: new Date().toISOString(),
+    season,
+    campaigns,
+  });
+  const summary = campaigns
+    .map(
+      (c) =>
+        `${c.competition.shortName}[${c.group ? "group" : ""}${c.currentRound ? "+R" : ""}${c.path?.length ? "+" + c.path.length + "past" : ""}]`,
+    )
+    .join(", ");
+  log(`wrote data/competitions.json (${campaigns.length}: ${summary})`);
+}
+
 // --- Real squad (API-Football roster + ESPN current-season stats) -----------
 
 const POS_GROUP = {
@@ -834,36 +1149,56 @@ async function enrichAndWriteSquad(players, coach, baseSource) {
   );
 }
 
+/**
+ * Keep squad.json fresh from the cached roster + keyless ESPN current-season
+ * stats. Used whenever API-Football is absent OR unavailable/empty, so the squad
+ * snapshot never silently goes stale (which is what froze it for 31 h: the keyed
+ * path returned early on an empty API-Football response and skipped this refresh).
+ * Returns true when it wrote a snapshot.
+ */
+async function refreshSquadFromCache(reason) {
+  const prevSquad = readData("squad.json");
+  if (!prevSquad?.players?.length || !prevSquad.coach) {
+    log(`${reason} and no cached squad — skipping (app uses seed)`);
+    return false;
+  }
+  log(`${reason} — refreshing ESPN current-season stats on cached squad`);
+  await enrichAndWriteSquad(
+    prevSquad.players,
+    prevSquad.coach,
+    baseSourceOf(prevSquad),
+  );
+  return true;
+}
+
 async function ingestSquad() {
   const key = process.env.API_FOOTBALL_KEY;
   if (!key) {
-    // No API-Football key: keep the last roster snapshot but still refresh the
-    // current-season stats from the keyless ESPN source, so the squad stays
-    // current without any paid/keyed dependency.
-    const prevSquad = readData("squad.json");
-    if (!prevSquad?.players?.length || !prevSquad.coach) {
-      log("no API_FOOTBALL_KEY and no cached squad — skipping (app uses seed)");
-      return;
-    }
-    log("no API_FOOTBALL_KEY — refreshing ESPN current-season stats on cache");
-    await enrichAndWriteSquad(
-      prevSquad.players,
-      prevSquad.coach,
-      baseSourceOf(prevSquad),
-    );
+    await refreshSquadFromCache("no API_FOOTBALL_KEY");
     return;
   }
   const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
   const H = { headers: { "x-apisports-key": key } };
 
   log("fetching real current squad from API-Football…");
-  const sq = await getJson(
-    `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
-    H,
-  );
-  const roster = sq?.response?.[0]?.players ?? [];
+  let roster = [];
+  try {
+    const sq = await getJson(
+      `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
+      H,
+    );
+    roster = sq?.response?.[0]?.players ?? [];
+    if (roster.length === 0) {
+      log("API-Football squad empty:", JSON.stringify(sq?.errors));
+    }
+  } catch (err) {
+    log("API-Football squad fetch failed:", err.message);
+  }
   if (roster.length === 0) {
-    log("squad empty:", JSON.stringify(sq?.errors));
+    // API-Football down / empty / out of quota → DON'T leave squad.json stale.
+    // Refresh current-season stats from the keyless ESPN source on the cached
+    // roster instead, so the snapshot's fetchedAt + stats stay current.
+    await refreshSquadFromCache("API-Football squad unavailable");
     return;
   }
 
@@ -1042,9 +1377,10 @@ async function main() {
     }
     const label = `${m.home?.nameKo || m.home?.name} vs ${m.away?.nameKo || m.away?.name}`;
     log(
-      `live mode: match window active (${label}) — refreshing standings + matches`,
+      `live mode: match window active (${label}) — refreshing standings + competitions + matches`,
     );
     await step("standings", ingestStandings);
+    await step("competitions", ingestCompetitions);
     await step("matches", ingestMatches);
     log("done (live)");
     return;
@@ -1061,6 +1397,7 @@ async function main() {
 
   if (should("news")) await step("news", ingestNews);
   if (should("standings")) await step("standings", ingestStandings);
+  if (should("competitions")) await step("competitions", ingestCompetitions);
   if (should("matches")) await step("matches", ingestMatches);
   if (should("squad")) await step("squad", ingestSquad);
   log("done");

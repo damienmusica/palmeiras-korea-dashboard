@@ -1,9 +1,11 @@
 import type { FormResult } from "@/lib/domain/types";
 import { formLabelKo, formTone } from "@/lib/format/stats";
 
+// White text on these fills clears WCAG-AA (emerald-700 5.5:1, gray-500 4.8:1,
+// rose-600 4.7:1); emerald-600/gray-400 would not.
 const toneClass: Record<ReturnType<typeof formTone>, string> = {
-  win: "bg-emerald-600 text-white",
-  draw: "bg-gray-400 text-white",
+  win: "bg-emerald-700 text-white",
+  draw: "bg-gray-500 text-white",
   loss: "bg-rose-600 text-white",
 };
 

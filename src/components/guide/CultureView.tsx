@@ -23,7 +23,7 @@ export function CultureView({ topics }: { topics: CultureTopic[] }) {
               {t.tagsKo.map((tag) => (
                 <span
                   key={tag}
-                  className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary)]"
+                  className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary-text)]"
                 >
                   {tag}
                 </span>

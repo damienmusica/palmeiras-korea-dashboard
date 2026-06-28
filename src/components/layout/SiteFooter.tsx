@@ -26,7 +26,7 @@ export function SiteFooter({ team }: { team: TeamConfig }) {
               href={l.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="font-medium text-[var(--pm-primary)] hover:underline"
+              className="font-medium text-[var(--pm-primary-text)] hover:underline"
             >
               {l.labelKo} ↗
             </a>

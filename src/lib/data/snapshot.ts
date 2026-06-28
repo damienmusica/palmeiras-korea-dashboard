@@ -18,6 +18,7 @@ import type {
   Match,
   Standings,
   Squad,
+  CompetitionsSnapshot,
 } from "@/lib/domain/types";
 import type { RosterEntry } from "@/lib/data/photos";
 
@@ -31,6 +32,8 @@ interface RawSnapshot {
   table?: unknown;
   players?: unknown;
   coach?: unknown;
+  campaigns?: unknown;
+  season?: string;
 }
 
 const VALID_ORIGINS: DataOrigin[] = [
@@ -67,13 +70,31 @@ function toOrigin(value: string | undefined): DataOrigin {
 }
 
 /**
+ * Conservative structural guard: is `row` an object carrying every essential
+ * identity field? Used so a present-but-malformed snapshot (a feed silently
+ * changing shape) is rejected → the adapter falls back to seed/last-good rather
+ * than rendering garbage. Deliberately checks only id-like fields to avoid
+ * false-rejecting otherwise-valid data.
+ */
+function hasFields(row: unknown, keys: string[]): boolean {
+  if (!row || typeof row !== "object") return false;
+  const r = row as Record<string, unknown>;
+  return keys.every((k) => r[k] !== undefined && r[k] !== null);
+}
+
+/**
  * Read the news snapshot written by the ingest pipeline. Returns a DataResult
  * envelope, or null when no usable snapshot exists. Items are returned as-is;
  * the news adapter enriches them (reliability + Korean interpretation).
  */
 export function readNewsSnapshot(): DataResult<NewsItem[]> | null {
   const snap = readJson("news.json");
-  if (!snap || !Array.isArray(snap.items) || snap.items.length === 0) {
+  if (
+    !snap ||
+    !Array.isArray(snap.items) ||
+    snap.items.length === 0 ||
+    !hasFields(snap.items[0], ["title", "url"])
+  ) {
     return null;
   }
   return {
@@ -89,7 +110,12 @@ export function readNewsSnapshot(): DataResult<NewsItem[]> | null {
 /** Read the current-season matches snapshot (ESPN). */
 export function readMatchesSnapshot(): DataResult<Match[]> | null {
   const snap = readJson("matches.json");
-  if (!snap || !Array.isArray(snap.items) || snap.items.length === 0) {
+  if (
+    !snap ||
+    !Array.isArray(snap.items) ||
+    snap.items.length === 0 ||
+    !hasFields(snap.items[0], ["id", "home", "away"])
+  ) {
     return null;
   }
   return {
@@ -107,7 +133,12 @@ export function readStandingsSnapshot(): DataResult<Standings> | null {
   const snap = readJson("standings.json") as
     | (RawSnapshot & { table?: unknown })
     | null;
-  if (!snap || !Array.isArray(snap.table) || snap.table.length === 0) {
+  if (
+    !snap ||
+    !Array.isArray(snap.table) ||
+    snap.table.length === 0 ||
+    !hasFields(snap.table[0], ["teamId", "rank"])
+  ) {
     return null;
   }
   return {
@@ -120,6 +151,30 @@ export function readStandingsSnapshot(): DataResult<Standings> | null {
   };
 }
 
+/** Read the continental/cup campaigns snapshot (ESPN — group + knockout). */
+export function readCompetitionsSnapshot(): DataResult<CompetitionsSnapshot> | null {
+  const snap = readJson("competitions.json");
+  if (
+    !snap ||
+    !Array.isArray(snap.campaigns) ||
+    snap.campaigns.length === 0 ||
+    !hasFields(snap.campaigns[0], ["competition"])
+  ) {
+    return null;
+  }
+  return {
+    data: {
+      season: snap.season ?? String(new Date().getFullYear()),
+      campaigns: snap.campaigns as CompetitionsSnapshot["campaigns"],
+    },
+    origin: toOrigin(snap.origin),
+    source: snap.source ?? "data/competitions.json",
+    fetchedAt: snap.fetchedAt ?? new Date(0).toISOString(),
+    fellBack: false,
+    note: "대륙·컵 대회 · 무료 파이프라인 스냅샷",
+  };
+}
+
 /** Read the full real squad snapshot (API-Football roster + LLM Korean names). */
 export function readSquadSnapshot(): DataResult<Squad> | null {
   const snap = readJson("squad.json");
@@ -127,7 +182,8 @@ export function readSquadSnapshot(): DataResult<Squad> | null {
     !snap ||
     !Array.isArray(snap.players) ||
     snap.players.length === 0 ||
-    !snap.coach
+    !snap.coach ||
+    !hasFields(snap.players[0], ["id", "name"])
   ) {
     return null;
   }
