@@ -20,7 +20,7 @@ export function TacticsProfile({ tactics }: { tactics: TacticalProfile }) {
         <p className="text-[11px] font-semibold text-[var(--pm-muted)]">
           기본 포메이션
         </p>
-        <p className="text-sm font-bold tabular-nums text-[var(--pm-primary)]">
+        <p className="text-sm font-bold tabular-nums text-[var(--pm-primary-text)]">
           {tactics.baseFormationKo}
         </p>
       </div>

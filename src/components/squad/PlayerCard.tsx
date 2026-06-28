@@ -51,7 +51,7 @@ export function PlayerCard({ player }: { player: Player }) {
           ) : null}
         </div>
         <div className="min-w-0 flex-1">
-          <h3 className="truncate text-base font-bold group-hover:text-[var(--pm-primary)]">
+          <h3 className="truncate text-base font-bold group-hover:text-[var(--pm-primary-text)]">
             {player.nameKo}
           </h3>
           <p className="truncate text-xs text-[var(--pm-muted)]">
@@ -74,7 +74,7 @@ export function PlayerCard({ player }: { player: Player }) {
           never auto-generate commentary on data we couldn't cross-verify. */}
       {insight ? (
         <p className="line-clamp-2 rounded-lg bg-[var(--pm-primary)]/[0.06] px-2 py-1.5 text-xs text-[var(--pm-ink)]">
-          <span className="font-bold text-[var(--pm-primary)]">
+          <span className="font-bold text-[var(--pm-primary-text)]">
             {insight.roleKo}
           </span>{" "}
           · {insight.styleKo}
@@ -128,7 +128,7 @@ function Stat({ label, value }: { label: string; value: string }) {
 function Mini({ label, value }: { label: string; value: number }) {
   return (
     <div>
-      <p className="text-base font-extrabold tabular-nums text-[var(--pm-primary)]">
+      <p className="text-base font-extrabold tabular-nums text-[var(--pm-primary-text)]">
         {value}
       </p>
       <p className="text-[10px] text-[var(--pm-muted)]">{label}</p>

@@ -86,7 +86,9 @@ export default async function StandingsPage() {
       />
 
       <div className="rounded-xl border border-[var(--pm-primary)]/20 bg-[var(--pm-primary)]/[0.06] p-3 text-sm">
-        <p className="font-bold text-[var(--pm-primary)]">{ctx.taglineKo}</p>
+        <p className="font-bold text-[var(--pm-primary-text)]">
+          {ctx.taglineKo}
+        </p>
         <p className="mt-1 leading-relaxed">{ctx.explainerKo}</p>
         {tracked ? (
           <p className="mt-2 font-semibold">
@@ -154,7 +156,7 @@ function LeaderCard({
                 {r.playerName}
               </span>
             </span>
-            <span className="font-extrabold text-[var(--pm-primary)] tabular-nums">
+            <span className="font-extrabold text-[var(--pm-primary-text)] tabular-nums">
               {r.value}
               <span className="ml-0.5 text-xs font-normal text-[var(--pm-muted)]">
                 {unit}

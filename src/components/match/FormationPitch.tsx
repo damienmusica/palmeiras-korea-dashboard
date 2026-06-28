@@ -62,12 +62,12 @@ export function FormationPitch({
       <div className="flex items-center justify-between gap-2">
         <h3 className="truncate text-sm font-bold">{title}</h3>
         {lineup.formation ? (
-          <span className="pm-chip bg-[var(--pm-primary)]/10 font-bold text-[var(--pm-primary)]">
+          <span className="pm-chip bg-[var(--pm-primary)]/10 font-bold text-[var(--pm-primary-text)]">
             {lineup.formation}
           </span>
         ) : null}
       </div>
-      <div className="flex min-h-[18rem] flex-col justify-between gap-2 rounded-xl bg-gradient-to-b from-emerald-700 to-emerald-600 px-2 py-5">
+      <div className="flex min-h-[18rem] flex-col justify-between gap-2 rounded-xl bg-gradient-to-b from-emerald-800 to-emerald-700 px-2 py-5">
         {rows.map((r) => (
           <div key={r.line} className="flex items-start justify-evenly gap-1">
             {r.players.map((p, i) => (

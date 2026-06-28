@@ -7,7 +7,7 @@ function LegendCard({ legend }: { legend: LegendEntry }) {
         <h4 className="font-bold">{legend.nameKo}</h4>
         <span className="text-xs text-[var(--pm-muted)]">{legend.name}</span>
         {legend.nicknameKo ? (
-          <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary)]">
+          <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary-text)]">
             {legend.nicknameKo}
           </span>
         ) : null}

@@ -157,7 +157,7 @@ export default async function PlayerPage({
     <div className="space-y-5">
       <Link
         href="/squad"
-        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary)] hover:underline"
+        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"
       >
         ← 스쿼드로 돌아가기
       </Link>
@@ -325,7 +325,7 @@ export default async function PlayerPage({
                 key={r.label}
                 className="grid grid-cols-1 gap-1 bg-[var(--pm-surface)] px-4 py-3 sm:grid-cols-[7.5rem_1fr] sm:gap-3"
               >
-                <dt className="flex items-center gap-1.5 text-sm font-semibold text-[var(--pm-primary)]">
+                <dt className="flex items-center gap-1.5 text-sm font-semibold text-[var(--pm-primary-text)]">
                   <span aria-hidden="true">{r.icon}</span>
                   {r.label}
                 </dt>
@@ -388,7 +388,10 @@ export default async function PlayerPage({
         ) : (
           <p className="pm-card p-4 text-sm italic text-[var(--pm-muted)]">
             이 선수를 직접 언급한 최신 뉴스가 아직 없습니다. 전체 뉴스는{" "}
-            <Link href="/news" className="text-[var(--pm-primary)] underline">
+            <Link
+              href="/news"
+              className="text-[var(--pm-primary-text)] underline"
+            >
               뉴스 페이지
             </Link>
             에서 확인하세요.
@@ -412,10 +415,10 @@ export default async function PlayerPage({
             const kst = toKST(m.kickoff);
             const rc =
               r === "W"
-                ? "text-emerald-600"
+                ? "text-[var(--pm-primary-text)]"
                 : r === "L"
-                  ? "text-rose-600"
-                  : "text-gray-500";
+                  ? "text-[var(--pm-loss)]"
+                  : "text-[var(--pm-muted)]";
             return (
               <li
                 key={m.id}
@@ -446,7 +449,7 @@ export default async function PlayerPage({
 function Stat({ label, value }: { label: string; value: number }) {
   return (
     <div className="pm-card p-3 text-center">
-      <p className="text-xl font-extrabold text-[var(--pm-primary)] tabular-nums">
+      <p className="text-xl font-extrabold text-[var(--pm-primary-text)] tabular-nums">
         {value}
       </p>
       <p className="text-xs text-[var(--pm-muted)]">{label}</p>

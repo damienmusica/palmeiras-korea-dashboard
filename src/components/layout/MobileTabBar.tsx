@@ -36,7 +36,9 @@ export function MobileTabBar() {
                 href={t.href}
                 aria-current={active ? "page" : undefined}
                 className={`flex flex-col items-center gap-0.5 py-2 text-[11px] font-semibold transition-colors ${
-                  active ? "text-[var(--pm-primary)]" : "text-[var(--pm-muted)]"
+                  active
+                    ? "text-[var(--pm-primary-text)]"
+                    : "text-[var(--pm-muted)]"
                 }`}
               >
                 <span className="text-lg leading-none" aria-hidden="true">

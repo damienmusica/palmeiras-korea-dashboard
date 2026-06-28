@@ -260,7 +260,10 @@ export default function GuidePage() {
                   {l.label}
                 </span>
               </span>
-              <span className="text-[var(--pm-primary)]" aria-hidden="true">
+              <span
+                className="text-[var(--pm-primary-text)]"
+                aria-hidden="true"
+              >
                 ↗
               </span>
             </a>

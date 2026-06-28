@@ -55,7 +55,9 @@ function CampaignCard({ campaign }: { campaign: CompetitionCampaign }) {
     <article className="pm-card flex flex-col gap-3 p-4">
       <header className="flex items-start justify-between gap-2">
         <div>
-          <h3 className="font-bold text-[var(--pm-primary)]">{comp.nameKo}</h3>
+          <h3 className="font-bold text-[var(--pm-primary-text)]">
+            {comp.nameKo}
+          </h3>
           <p className="text-xs text-[var(--pm-muted)]">{comp.name}</p>
         </div>
         <span className="pm-chip shrink-0 bg-black/5 text-[var(--pm-muted)]">
@@ -173,7 +175,7 @@ function GroupTable({ group }: { group: CampaignGroup }) {
                       <span className="truncate">{row.teamNameKo}</span>
                       {row.isTracked ? (
                         <span
-                          className="text-[var(--pm-primary)]"
+                          className="text-[var(--pm-primary-text)]"
                           aria-hidden="true"
                         >
                           ●
@@ -213,7 +215,7 @@ function GroupTable({ group }: { group: CampaignGroup }) {
           </span>
         ) : null}
         {group.qualifiedKo ? (
-          <span className="font-semibold text-[var(--pm-primary)]">
+          <span className="font-semibold text-[var(--pm-primary-text)]">
             📍 {group.qualifiedKo}
           </span>
         ) : null}
@@ -268,7 +270,7 @@ function CurrentTie({ tie }: { tie: CampaignTie }) {
           현재 · {tie.roundKo}
         </span>
         {tie.outcomeKo ? (
-          <span className="text-xs font-semibold text-[var(--pm-primary)]">
+          <span className="text-xs font-semibold text-[var(--pm-primary-text)]">
             {tie.outcomeKo}
           </span>
         ) : null}
@@ -308,7 +310,7 @@ function CurrentTie({ tie }: { tie: CampaignTie }) {
               <span
                 className={`pm-chip ${
                   leg.venue === "home"
-                    ? "bg-[var(--pm-primary)]/15 text-[var(--pm-primary)]"
+                    ? "bg-[var(--pm-primary)]/15 text-[var(--pm-primary-text)]"
                     : "bg-black/5 text-[var(--pm-muted)]"
                 }`}
               >

@@ -60,9 +60,9 @@ export function StandingsTable({ standings }: { standings: Standings }) {
                 <span
                   className={`inline-flex h-6 w-6 items-center justify-center rounded-md text-xs ${
                     row.rank <= 4
-                      ? "bg-emerald-600 text-white"
+                      ? "bg-emerald-700 text-white"
                       : row.rank <= 6
-                        ? "bg-sky-500 text-white"
+                        ? "bg-sky-700 text-white"
                         : "bg-black/5 text-[var(--pm-ink)]"
                   }`}
                 >
@@ -79,7 +79,7 @@ export function StandingsTable({ standings }: { standings: Standings }) {
                   />
                   <span>{row.teamNameKo}</span>
                   {row.isTracked ? (
-                    <span className="text-[var(--pm-primary)]">●</span>
+                    <span className="text-[var(--pm-primary-text)]">●</span>
                   ) : null}
                 </span>
               </td>
@@ -117,11 +117,11 @@ export function StandingsTable({ standings }: { standings: Standings }) {
       </table>
       <div className="flex flex-wrap gap-3 border-t border-black/5 px-3 py-2 text-xs text-[var(--pm-muted)]">
         <span>
-          <span className="mr-1 inline-block h-2.5 w-2.5 rounded bg-emerald-600 align-middle" />
+          <span className="mr-1 inline-block h-2.5 w-2.5 rounded bg-emerald-700 align-middle" />
           리베르타도레스권 (대략)
         </span>
         <span>
-          <span className="mr-1 inline-block h-2.5 w-2.5 rounded bg-sky-500 align-middle" />
+          <span className="mr-1 inline-block h-2.5 w-2.5 rounded bg-sky-700 align-middle" />
           상위권
         </span>
       </div>

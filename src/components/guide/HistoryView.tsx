@@ -51,7 +51,7 @@ export function HonoursList({ honours }: { honours: HonourLine[] }) {
               <span className="text-xs text-[var(--pm-muted)]">
                 {h.competition}
               </span>
-              <span className="ml-auto text-lg font-extrabold text-[var(--pm-primary)] tabular-nums">
+              <span className="ml-auto text-lg font-extrabold text-[var(--pm-primary-text)] tabular-nums">
                 {h.count}
                 <span className="ml-0.5 text-xs font-normal text-[var(--pm-muted)]">
                   회

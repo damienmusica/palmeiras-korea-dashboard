@@ -94,10 +94,23 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
         ]}
       />
 
-      <div className="flex items-center justify-between">
-        <p className="text-xs text-[var(--pm-muted)]">
-          {filtered.length}건 표시 {query ? `(검색: “${query}”)` : ""}
-        </p>
+      {/* Polite live region: announces load/error/result-count changes to
+          screen readers when the user refreshes or filters. */}
+      <p
+        role="status"
+        aria-live="polite"
+        className="flex items-center justify-between text-xs text-[var(--pm-muted)]"
+      >
+        <span>
+          {status === "loading"
+            ? "뉴스를 불러오는 중…"
+            : status === "error"
+              ? "뉴스를 불러오지 못했습니다."
+              : `${filtered.length}건 표시 ${query ? `(검색: “${query}”)` : ""}`}
+        </span>
+      </p>
+
+      <div className="flex items-center justify-end">
         <FreshnessBadge
           origin={result.origin}
           source={result.source}

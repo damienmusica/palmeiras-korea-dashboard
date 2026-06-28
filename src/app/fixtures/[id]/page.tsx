@@ -45,7 +45,7 @@ export default async function MatchDetailPage({
     <div className="space-y-5">
       <Link
         href="/fixtures"
-        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary)] hover:underline"
+        className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"
       >
         ← 일정·결과로 돌아가기
       </Link>

@@ -23,9 +23,10 @@ const STATUS_KO: Record<Match["status"], string> = {
 function ResultPill({ match }: { match: Match }) {
   const r = resultForTeam(match, ACTIVE_TEAM_ID);
   if (!r) return null;
+  // White-text chips: these fills clear WCAG-AA (emerald-600/gray-400 would not).
   const map = {
-    W: "bg-emerald-600",
-    D: "bg-gray-400",
+    W: "bg-emerald-700",
+    D: "bg-gray-500",
     L: "bg-rose-600",
   } as const;
   const label = { W: "승", D: "무", L: "패" }[r];
@@ -67,7 +68,7 @@ export function MatchCard({
   return (
     <article className="pm-card p-4">
       <div className="mb-2 flex items-center justify-between gap-2 text-xs">
-        <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary)]">
+        <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary-text)]">
           {match.competition.shortName}
         </span>
         <div className="flex items-center gap-1.5">
@@ -104,7 +105,7 @@ export function MatchCard({
           {showScore ? (
             <span
               className={`text-xl font-extrabold tabular-nums ${
-                live ? "text-rose-600" : ""
+                live ? "text-[var(--pm-loss)]" : ""
               }`}
             >
               {match.score!.home} : {match.score!.away}
@@ -124,7 +125,7 @@ export function MatchCard({
 
       <dl className="mt-3 grid grid-cols-2 gap-2 border-t border-black/5 pt-3 text-xs">
         <div>
-          <dt className="font-semibold text-[var(--pm-primary)]">
+          <dt className="font-semibold text-[var(--pm-primary-text)]">
             🇰🇷 한국 (KST)
           </dt>
           <dd className="text-[var(--pm-muted)]">{kst.formatted}</dd>
@@ -160,7 +161,7 @@ export function MatchCard({
                 key={i}
                 className={
                   byTracked
-                    ? "font-semibold text-[var(--pm-primary)]"
+                    ? "font-semibold text-[var(--pm-primary-text)]"
                     : "text-[var(--pm-muted)]"
                 }
               >
@@ -226,7 +227,7 @@ export function MatchCard({
       {linkToDetail && hasDepth ? (
         <Link
           href={`/fixtures/${match.id}`}
-          className="mt-3 flex items-center justify-center gap-1 rounded-lg border border-[var(--pm-primary)]/30 bg-[var(--pm-primary)]/[0.05] py-2 text-sm font-semibold text-[var(--pm-primary)] hover:bg-[var(--pm-primary)]/10"
+          className="mt-3 flex items-center justify-center gap-1 rounded-lg border border-[var(--pm-primary)]/30 bg-[var(--pm-primary)]/[0.05] py-2 text-sm font-semibold text-[var(--pm-primary-text)] hover:bg-[var(--pm-primary)]/10"
         >
           📋 라인업 · 경기 타임라인 보기 →
         </Link>
@@ -257,7 +258,7 @@ function TeamSide({
       <Crest src={crest} alt={`${label} 엠블럼`} label={label} size={32} />
       <span
         className={`text-sm font-bold ${
-          highlight ? "text-[var(--pm-primary)]" : ""
+          highlight ? "text-[var(--pm-primary-text)]" : ""
         }`}
       >
         {name}

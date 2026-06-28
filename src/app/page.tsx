@@ -69,12 +69,17 @@ export default async function HomePage() {
         <QuickStats season={model.season} tracked={tracked} />
       </section>
 
-      {/* Live match takes priority — never let an in-progress game disappear */}
+      {/* Live match takes priority — never let an in-progress game disappear.
+          aria-live so an updated scoreline is announced on refresh/revalidate. */}
       {model.liveMatch ? (
-        <section aria-labelledby="live-heading" className="space-y-3">
+        <section
+          aria-labelledby="live-heading"
+          aria-live="polite"
+          className="space-y-3"
+        >
           <h2
             id="live-heading"
-            className="flex items-center gap-2 text-sm font-bold text-rose-600"
+            className="flex items-center gap-2 text-sm font-bold text-[var(--pm-loss)]"
           >
             <span className="h-2 w-2 animate-pulse rounded-full bg-rose-600" />
             지금 진행 중
@@ -132,7 +137,7 @@ export default async function HomePage() {
         <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
           {team.trophies.map((t) => (
             <div key={t.competition} className="pm-card p-3 text-center">
-              <p className="text-2xl font-extrabold text-[var(--pm-primary)]">
+              <p className="text-2xl font-extrabold text-[var(--pm-primary-text)]">
                 {t.count}
               </p>
               <p className="text-xs font-semibold">{t.competitionKo}</p>

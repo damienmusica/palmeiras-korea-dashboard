@@ -27,7 +27,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
     <article className="pm-card flex flex-col gap-2 p-4">
       {/* metadata row: source / reliability / language / time */}
       <div className="flex flex-wrap items-center gap-1.5 text-xs">
-        <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary)]">
+        <span className="pm-chip bg-[var(--pm-primary)]/10 text-[var(--pm-primary-text)]">
           {item.source}
         </span>
         <span
@@ -61,7 +61,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
       {/* interpretation: why it matters */}
       {item.whyItMattersKo ? (
         <div className="rounded-lg bg-[var(--pm-primary)]/[0.06] p-2.5">
-          <p className="text-xs font-bold text-[var(--pm-primary)]">
+          <p className="text-xs font-bold text-[var(--pm-primary-text)]">
             왜 중요한가
           </p>
           <p className="mt-0.5 text-sm leading-relaxed">
@@ -94,7 +94,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
           href={safeUrl(item.url)}
           target="_blank"
           rel="noopener noreferrer"
-          className="shrink-0 text-sm font-semibold text-[var(--pm-primary)] hover:underline"
+          className="shrink-0 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"
         >
           원문 보기 ↗
         </a>
