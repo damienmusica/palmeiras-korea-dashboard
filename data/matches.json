@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-06-28T21:45:53.024Z",
+  "fetchedAt": "2026-06-28T21:55:29.701Z",
   "items": [
     {
       "id": "espn-401840808",
@@ -8909,7 +8909,7 @@
       "away": {
         "id": "17713",
         "name": "Jacuipense",
-        "nameKo": "Jacuipense"
+        "nameKo": "자쿠이펜시"
       },
       "score": {
         "home": 3,
@@ -12795,7 +12795,7 @@
       "home": {
         "id": "17713",
         "name": "Jacuipense",
-        "nameKo": "Jacuipense"
+        "nameKo": "자쿠이펜시"
       },
       "away": {
         "id": "palmeiras",
