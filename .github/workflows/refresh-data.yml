@@ -62,3 +62,7 @@ jobs:
           else
             echo "No data changes."
           fi
+
+      # 스냅샷이 stale/빈값/깨졌으면 워크플로를 실패시켜 알림(조용한 피드 장애 감지)
+      - name: Check snapshot freshness
+        run: node scripts/check-freshness.mjs
