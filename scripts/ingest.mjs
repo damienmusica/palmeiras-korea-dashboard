@@ -1149,36 +1149,56 @@ async function enrichAndWriteSquad(players, coach, baseSource) {
   );
 }
 
+/**
+ * Keep squad.json fresh from the cached roster + keyless ESPN current-season
+ * stats. Used whenever API-Football is absent OR unavailable/empty, so the squad
+ * snapshot never silently goes stale (which is what froze it for 31 h: the keyed
+ * path returned early on an empty API-Football response and skipped this refresh).
+ * Returns true when it wrote a snapshot.
+ */
+async function refreshSquadFromCache(reason) {
+  const prevSquad = readData("squad.json");
+  if (!prevSquad?.players?.length || !prevSquad.coach) {
+    log(`${reason} and no cached squad — skipping (app uses seed)`);
+    return false;
+  }
+  log(`${reason} — refreshing ESPN current-season stats on cached squad`);
+  await enrichAndWriteSquad(
+    prevSquad.players,
+    prevSquad.coach,
+    baseSourceOf(prevSquad),
+  );
+  return true;
+}
+
 async function ingestSquad() {
   const key = process.env.API_FOOTBALL_KEY;
   if (!key) {
-    // No API-Football key: keep the last roster snapshot but still refresh the
-    // current-season stats from the keyless ESPN source, so the squad stays
-    // current without any paid/keyed dependency.
-    const prevSquad = readData("squad.json");
-    if (!prevSquad?.players?.length || !prevSquad.coach) {
-      log("no API_FOOTBALL_KEY and no cached squad — skipping (app uses seed)");
-      return;
-    }
-    log("no API_FOOTBALL_KEY — refreshing ESPN current-season stats on cache");
-    await enrichAndWriteSquad(
-      prevSquad.players,
-      prevSquad.coach,
-      baseSourceOf(prevSquad),
-    );
+    await refreshSquadFromCache("no API_FOOTBALL_KEY");
     return;
   }
   const host = process.env.API_FOOTBALL_HOST || "v3.football.api-sports.io";
   const H = { headers: { "x-apisports-key": key } };
 
   log("fetching real current squad from API-Football…");
-  const sq = await getJson(
-    `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
-    H,
-  );
-  const roster = sq?.response?.[0]?.players ?? [];
+  let roster = [];
+  try {
+    const sq = await getJson(
+      `https://${host}/players/squads?team=${PALMEIRAS_API_ID}`,
+      H,
+    );
+    roster = sq?.response?.[0]?.players ?? [];
+    if (roster.length === 0) {
+      log("API-Football squad empty:", JSON.stringify(sq?.errors));
+    }
+  } catch (err) {
+    log("API-Football squad fetch failed:", err.message);
+  }
   if (roster.length === 0) {
-    log("squad empty:", JSON.stringify(sq?.errors));
+    // API-Football down / empty / out of quota → DON'T leave squad.json stale.
+    // Refresh current-season stats from the keyless ESPN source on the cached
+    // roster instead, so the snapshot's fetchedAt + stats stay current.
+    await refreshSquadFromCache("API-Football squad unavailable");
     return;
   }
 
