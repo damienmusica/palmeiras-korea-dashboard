@@ -10,6 +10,8 @@ import { FormBadges } from "@/components/ui/FormBadges";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { EmptyState } from "@/components/ui/EmptyState";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { sportsTeamJsonLd } from "@/lib/seo/structured";
 import Link from "next/link";
 
 // Revalidate the home view periodically; adapters also cache server-side.
@@ -40,6 +42,7 @@ export default async function HomePage() {
 
   return (
     <div className="space-y-6">
+      <JsonLd data={sportsTeamJsonLd(team)} />
       <ClubHero team={team} />
 
       {/* Flagship: 5-minute briefing */}

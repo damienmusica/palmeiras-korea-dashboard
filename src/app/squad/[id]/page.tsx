@@ -19,11 +19,18 @@ import { Crest } from "@/components/ui/Crest";
 import { toKST } from "@/lib/format/datetime";
 import { ACTIVE_TEAM_ID } from "@/lib/teams";
 import { resultForTeam } from "@/lib/format/stats";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { athleteJsonLd } from "@/lib/seo/structured";
 
 export async function generateStaticParams() {
   const squad = await getSquad();
   return squad.data.players.map((p) => ({ id: p.id }));
 }
+
+// Only the integrity-gated squad ids are valid pages — a blocklisted phantom
+// (e.g. Ghareeb #47) or any unknown id is a real 404, not a soft-404. The data
+// cron commits → redeploy regenerates these params for roster changes.
+export const dynamicParams = false;
 
 export async function generateMetadata({
   params,
@@ -33,9 +40,21 @@ export async function generateMetadata({
   const { id } = await params;
   const res = await getPlayer(id);
   if (!res.data) return { title: "선수를 찾을 수 없음" };
+  const title = `${res.data.nameKo} (${res.data.name})`;
+  const description = `${res.data.nameKo} — ${res.data.positionKo}. 역할·스타일·주목 이유를 한국어로 설명합니다.`;
+  const canonical = `/squad/${res.data.id}`;
   return {
-    title: `${res.data.nameKo} (${res.data.name})`,
-    description: `${res.data.nameKo} — ${res.data.positionKo}. 역할·스타일·주목 이유를 한국어로 설명합니다.`,
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      type: "profile",
+      url: canonical,
+      title,
+      description,
+      images: res.data.photo ? [{ url: res.data.photo }] : undefined,
+    },
+    twitter: { card: "summary", title, description },
   };
 }
 
@@ -155,6 +174,9 @@ export default async function PlayerPage({
 
   return (
     <div className="space-y-5">
+      {/* Athlete structured data — only for cross-verified players (the
+          unverified gate already suppressed editorial; keep machine data honest too). */}
+      {unverified ? null : <JsonLd data={athleteJsonLd(player)} />}
       <Link
         href="/squad"
         className="inline-flex items-center gap-1 text-sm font-semibold text-[var(--pm-primary-text)] hover:underline"

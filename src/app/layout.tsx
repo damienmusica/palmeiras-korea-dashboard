@@ -5,10 +5,10 @@ import { SiteFooter } from "@/components/layout/SiteFooter";
 import { MobileTabBar } from "@/components/layout/MobileTabBar";
 import { ServiceWorkerRegister } from "@/components/pwa/ServiceWorkerRegister";
 import { getActiveTeam } from "@/lib/teams";
+import { SITE_URL } from "@/lib/site";
 
 const team = getActiveTeam();
 
-const SITE_URL = "https://palmeiras-korea-dashboard.vercel.app";
 const SITE_TITLE = "파우메이라스 코리아 대시보드 | Palmeiras Korea Dashboard";
 const SITE_DESCRIPTION =
   "한국 팬을 위한 소시에다지 에스포르치바 파우메이라스(SE Palmeiras) 정보 대시보드 — 일정, 결과, 스쿼드, 순위, 뉴스, 팬 가이드를 한국 시간 기준으로 제공합니다.";
