@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-29T01:37:00.226Z",
+  "fetchedAt": "2026-06-29T06:50:30.002Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYkw1TVhIdjl1SWpuYW52YjhMYUFsakphdnpSaUFXazdLQTBfNmlYd2FhX1E",
@@ -68,6 +68,22 @@
       ]
     },
     {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUx",
+      "title": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo - GE",
+      "summaryKo": "파우메이라스, 월드컵 휴식기 아벨 페헤이라 휴가 늘려",
+      "excerpt": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUxkclRUX1JrV1REN2d6Unc4N3hKME5rS0VrTzVyeW96N053TjBLVG5RVkZUeDFJUjdaQTJMVnNxUHlKTEt3bUNUWTVZc0NwdVNuWTU3QlRJTGtlU0t6TVcxdElYTEpHdEhuY201MnhfTXJFNnQxNDVYSEkyU003ejhCVWdXcEVYZ2dQclhET3AyQWJKa1hZYldQc3cyREJ2VUZFNTJkX0EwTDJ5b0pKcFVMUGRBSnNBZE5BU2k5bko5dEFTZGFuVFlp0gGDAkFVX3lxTE5CYm5MWXZPVHNKMWNrYkxlUWV5NmZKejRmbmx0dVZrRG92RGkxX2RwQ3VveTNpU1MyMTlHZUk2TXhpVHRpN0V6aUJUQWNUX3hVQjBaQnlaN043X1V6amtDMi1rNDFaMVRPZ3pMOE9GdURvRGcyZVpzMmdKcUVFcEN1VVRnVEtXSkFVelN5dlQ2ejE5dl9MVVdwT1pFUWdqa0taZUFnV0w0MHAtRFhJeDd6ZlV3bEZUd0F4NVJ0OUxjbzNvT21abXR1N0RLRkxFdnVvQjkzaUtlTkZlUGVFWmNsMEZkOHBuOWZiUWZVdnE5MVFNbWFXZHRrWFEtTVRETHpNSU0?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-06-27T07:01:01.000Z",
+      "whyItMattersKo": "감독의 충분한 휴식은 시즌 후반기 팀 전력과 전술 운영에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "아벨 감독, 충분히 쉬고 오세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBycGN0Q1EwZllIeUdIcE1DZkluSnlXVURRQjJtTzNVeGM5UDJSNmdqUkdqd2g",
       "title": "Palmeiras atualiza situação de lesionados e segue intertemporada - Portal ABC do ABC",
       "summaryKo": "파우메이라스, 부상자 소식과 휴식기 지속",
@@ -78,38 +94,6 @@
       "publishedAt": "2026-06-28T20:36:00.000Z",
       "whyItMattersKo": "주요 선수들의 회복 여부가 새 시즌을 앞두고 팀 전력에 중요한 영향을 줍니다.",
       "fanTakeKo": "부상자들 빨리 씩씩하게 돌아오길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzBJX1ZDeWlGckZJc3JXNmkwTGdPSTlwR0lwdEJ4NF9pZklLcTIwWk4wV2w",
-      "title": "Palmeiras \"transforma\" atacante dispensado pelo Flamengo em artilheiro do Brasileirão sub-20 - GE",
-      "summaryKo": "파우메이라스, 플라멩구 방출 공격수를 득점왕으로",
-      "excerpt": "Palmeiras \"transforma\" atacante dispensado pelo Flamengo em artilheiro do Brasileirão sub-20&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzBJX1ZDeWlGckZJc3JXNmkwTGdPSTlwR0lwdEJ4NF9pZklLcTIwWk4wV2w1TkJDR1ZLUzc2TXpEZzBnR25UTFRBQkpyTnptRUpjNE0zeUJmTXNjdG13OWRKVWNubGVHVzFkWENCX1loSkVoUXVJZThvdER3aks2RXprenJhUkNCTlowX0gyQ2pKcngtVWh0dVYyNGlkMmVoM2UxMUI1eENBejh3eVVJaHpNWVlqX29nTzdhX29WaVpHZXZVWkRFR3FpZWVtUWVoN0VCc2hfb2w0Rmp4LUZodmRmWHY4djRiSi0yOVU3Tk04Z9IBgAJBVV95cUxOTkRLY3dYVmxwMDV1bURoa2hmR0xHREV1c2pVU2ZJeDE1dmx1WVhERkI3UzdENTlINWNsanVDUkl0MFZ0aVBRWnNHakZBdTBPZGpMbXBQOF9HeGgyaU1DZC0zcmtsNS1HRDhMWG44Tk9QMC1IUjM0R051SEp5aklVWF91d1FKLTRpVEpBNUdYb2dFeWVpZjBzc05tbVBGZVFoWWZBSVkydFg2MWVtSXFFOFpMLXBlMFZGMU5yVzRZNlFPbEJ4ZjhnRDNWWUxIeXV5ek5oaVE1am84ellRdmZiU2NNMUl2eFk4UjNpS2Y3OEVwZmt2SmxITExOTk9FMUJh?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-28T07:01:01.000Z",
-      "whyItMattersKo": "타 팀에서 방출된 선수를 육성해 득점왕으로 만든 유스 시스템의 저력입니다.",
-      "fanTakeKo": "유스 육성 진짜 대단하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF9FRVpvZ2dmRlhfV1dHcUFxY1B0bjhwRk5TTEMxbFZGdmx5QldrZWt5dzF",
-      "title": "Palmeiras dá sequência na intertemporada e Vitor Roque evolui - ABCD Jornal",
-      "summaryKo": "파우메이라스 휴식기 이어가고 비토르 호키 상승세",
-      "excerpt": "Palmeiras dá sequência na intertemporada e Vitor Roque evolui&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF9FRVpvZ2dmRlhfV1dHcUFxY1B0bjhwRk5TTEMxbFZGdmx5QldrZWt5dzFxeElHTjZVRnpxdXNsLUp5VHNobktRLVNOZXFQT1pTZ0NkbFJscEFYX0xtZGRuZy1TWmNRZzQtVHdSYnF0SjBtX29CSG1OZG0wOTdjd3NVeEdvSmZtWW9SaXNlLWtETGgyS3QyY0FoNmllY3RROW03S2daYXJoTE5qazBsMzlmOTBIQdIBuwFBVV95cUxQOUl5UFZoTEtlMTh3YUYzd2dpejNjWkFzOUt0cGduaFpLcFhubHctMHBnNU1kYm1OMUd6YXlESW1EZUZDMTlnaXljS1AzcmdyZzVVeWJZVkVQVW8zLW5LM0tPMEJfY3RpNFBMTXllMHJTeEt5RndyWTBPVWRORS1qMWlxY1RfakdTbTQtX0k1LVhTTURtdUoxM2g4NmJEbnFoekd4d2h6VmkzWjFZNlQwX09RbWQ1VjVFV0lB?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-06-28T20:45:14.000Z",
-      "whyItMattersKo": "비토르 호키의 컨디션 업그레이드는 팀 공격력 강화에 아주 긍정적인 신호입니다.",
-      "fanTakeKo": "호키 폼이 오르고 있다니 든든하네",
       "tags": [
         "뉴스",
         "AI요약"
@@ -132,6 +116,22 @@
       ]
     },
     {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMidEFVX3lxTE5zdjZyUGxiVWZ2WEl1QUpndWxZal9IWkhsNXktTHF2M3FJZDBwSEJWXzJObXp",
+      "title": "Paulista Sub-20 - Federação Paulista de Futebol",
+      "summaryKo": "파울리스타 U-20 대회 일정 및 결과",
+      "excerpt": "Paulista Sub-20&nbsp;&nbsp;Federação Paulista de Futebol",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zdjZyUGxiVWZ2WEl1QUpndWxZal9IWkhsNXktTHF2M3FJZDBwSEJWXzJObXppZ2llUGFxWTRYcExYY2Nzcm1kWW5lQ3hGTWhsc0NvWEFSYWdldmJCa0kwVXY5TThVMUpmODVkYTVRb2tQRWR1?oc=5",
+      "source": "Federação Paulista de Futebol",
+      "language": "pt",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "whyItMattersKo": "파우메이라스의 미래를 책임질 유망주들의 성장을 확인할 수 있는 자리입니다.",
+      "fanTakeKo": "우리 팀 미래를 위한 유망주들 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3REVEVaNXBPUG9DcEJNZEJMUGgydl8tMUNXUUk4azNBbXhkU2NCbnpVTWU",
       "title": "Elenco alviverde faz coletivo de 45 minutos na Academia de Futebol - SE Palmeiras",
       "summaryKo": "파우메이라스, 훈련장서 45분간 팀 훈련",
@@ -145,20 +145,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFZYNjhlY3hpNlUwVFdtUUxoTHZRMnN0T2UwaFdBR05mYm55YjB5VkYzcW9",
-      "title": "Palmeiras treina finalizações; Jefté faz exercícios de fisioterapia na Academia - GE",
-      "summaryKo": "파우메이라스는 훈련을 마칩니다. 제프테는 아카데미에서 물리치료 운동을 합니다 - GE",
-      "excerpt": "Palmeiras treina finalizações; Jefté faz exercícios de fisioterapia na Academia&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFZYNjhlY3hpNlUwVFdtUUxoTHZRMnN0T2UwaFdBR05mYm55YjB5VkYzcW9ZQ2tnWW1HWlQtY3paMnhLX1Y5WDhNMTNVeW04bUZjV0FnV2NaTjRWd052ZktxQzBlWTJMWUhTWDRFNkY5c0xZVVFmc1RnX2p1YTFnRjQ1T2pBakI1ZmxLbnBEdlJvd1B0RXNqLWdVd2lhUHJUbmlqV2lreEtIMG9wXy1ILS1VenBDYW9XWHdLT3J2RFVhUVdkVmp0SWprYlcyLV85ek96SmE2eDRZYWx4MXVGWDBR0gHwAUFVX3lxTE9idnljb0FWdEwtRUtKMkNLVEFmWWk2cXBWWi03QUw1SmsxUk5KZktIMTJlenRteU53c0I4cXBrVV9WT2dqcXl1Q1hQWndQTVZYRU5WS0xjc2NlR0tlWUhqX2xpYmtaU1ZPRjBUUU1XWGFMZWppVjdUTEZQYnpEa1JDZzhBbzB3U0JqNFN4S0NraERtZnFyLXA3REJzV1Vtd3M1UHJqcmZLeVo2SEpKZDZEMEM0TnpGR0dlQkNCbExDUGpwSjI0MERoQUJWdWdGQ2gxcjZfUWZkb1NHeXhjdnN6ai1iaENCQXgzYldnaVMwSA?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-28T17:14:54.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     },
     {
@@ -194,47 +180,33 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2dUT3lOQk1PcW1WTWtoMm51UElzSFk1el9sTDloOWdxSWNWZDlEZjBHT1Z",
-      "title": "Palmeiras se reapresenta e inicia intertemporada na Academia de Futebol - SE Palmeiras",
-      "summaryKo": "파우메이라스는 축구 아카데미 - SE 파우메이라스에서 인터시즌을 다시 시작합니다.",
-      "excerpt": "Palmeiras se reapresenta e inicia intertemporada na Academia de Futebol&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2dUT3lOQk1PcW1WTWtoMm51UElzSFk1el9sTDloOWdxSWNWZDlEZjBHT1ZfNkpQdEhMemZEdU14cTZQbTZNdlpTMnEtWjZhbVA5OVhhWk1HVkcxMnlZU1dQM0d3NFZkWi14SGRVaGpwYmFJVnRWSG9rcnBFd3NvYnhCUlpRTEEzMl96dEk1WHJmQzFLY1U0ck0xbU5ULUJGcHJkYUtJLVh1YlRuakRr?oc=5",
-      "source": "SE Palmeiras",
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFZYNjhlY3hpNlUwVFdtUUxoTHZRMnN0T2UwaFdBR05mYm55YjB5VkYzcW9",
+      "title": "Palmeiras treina finalizações; Jefté faz exercícios de fisioterapia na Academia - GE",
+      "summaryKo": "파우메이라스는 훈련을 마칩니다. 제프테는 아카데미에서 물리치료 운동을 합니다 - GE",
+      "excerpt": "Palmeiras treina finalizações; Jefté faz exercícios de fisioterapia na Academia&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFZYNjhlY3hpNlUwVFdtUUxoTHZRMnN0T2UwaFdBR05mYm55YjB5VkYzcW9ZQ2tnWW1HWlQtY3paMnhLX1Y5WDhNMTNVeW04bUZjV0FnV2NaTjRWd052ZktxQzBlWTJMWUhTWDRFNkY5c0xZVVFmc1RnX2p1YTFnRjQ1T2pBakI1ZmxLbnBEdlJvd1B0RXNqLWdVd2lhUHJUbmlqV2lreEtIMG9wXy1ILS1VenBDYW9XWHdLT3J2RFVhUVdkVmp0SWprYlcyLV85ek96SmE2eDRZYWx4MXVGWDBR0gHwAUFVX3lxTE9idnljb0FWdEwtRUtKMkNLVEFmWWk2cXBWWi03QUw1SmsxUk5KZktIMTJlenRteU53c0I4cXBrVV9WT2dqcXl1Q1hQWndQTVZYRU5WS0xjc2NlR0tlWUhqX2xpYmtaU1ZPRjBUUU1XWGFMZWppVjdUTEZQYnpEa1JDZzhBbzB3U0JqNFN4S0NraERtZnFyLXA3REJzV1Vtd3M1UHJqcmZLeVo2SEpKZDZEMEM0TnpGR0dlQkNCbExDUGpwSjI0MERoQUJWdWdGQ2gxcjZfUWZkb1NHeXhjdnN6ai1iaENCQXgzYldnaVMwSA?oc=5",
+      "source": "GE",
       "language": "pt",
-      "publishedAt": "2026-06-24T23:27:15.000Z",
+      "publishedAt": "2026-06-28T17:14:54.000Z",
       "tags": [
         "뉴스",
         "자동번역"
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUx",
-      "title": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo - GE",
-      "summaryKo": "파우메이라스, 월드컵 휴식기 아벨 페헤이라 휴가 늘려",
-      "excerpt": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUxkclRUX1JrV1REN2d6Unc4N3hKME5rS0VrTzVyeW96N053TjBLVG5RVkZUeDFJUjdaQTJMVnNxUHlKTEt3bUNUWTVZc0NwdVNuWTU3QlRJTGtlU0t6TVcxdElYTEpHdEhuY201MnhfTXJFNnQxNDVYSEkyU003ejhCVWdXcEVYZ2dQclhET3AyQWJKa1hZYldQc3cyREJ2VUZFNTJkX0EwTDJ5b0pKcFVMUGRBSnNBZE5BU2k5bko5dEFTZGFuVFlp0gGDAkFVX3lxTE5CYm5MWXZPVHNKMWNrYkxlUWV5NmZKejRmbmx0dVZrRG92RGkxX2RwQ3VveTNpU1MyMTlHZUk2TXhpVHRpN0V6aUJUQWNUX3hVQjBaQnlaN043X1V6amtDMi1rNDFaMVRPZ3pMOE9GdURvRGcyZVpzMmdKcUVFcEN1VVRnVEtXSkFVelN5dlQ2ejE5dl9MVVdwT1pFUWdqa0taZUFnV0w0MHAtRFhJeDd6ZlV3bEZUd0F4NVJ0OUxjbzNvT21abXR1N0RLRkxFdnVvQjkzaUtlTkZlUGVFWmNsMEZkOHBuOWZiUWZVdnE5MVFNbWFXZHRrWFEtTVRETHpNSU0?oc=5",
-      "source": "GE",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcktxU1IyVVVvOEJfMndXUzNsazJxY3gxZ3F5ZzRLaEZDeF9wWnNlT1BteHJ",
+      "title": "Por onde anda Abel Ferreira, que não se apresentou ao Palmeiras com o elenco - Terra",
+      "summaryKo": "아벨 감독, 팀 합류하지 않고 어디?",
+      "excerpt": "Por onde anda Abel Ferreira, que não se apresentou ao Palmeiras com o elenco&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcktxU1IyVVVvOEJfMndXUzNsazJxY3gxZ3F5ZzRLaEZDeF9wWnNlT1BteHJIeUJjby1DWElaWjdIa0xrZzRseFlDZk9aX18wdzZfWTJhaUZwcVdvQ3hoXzRvcVd6czQ4UU83UVFjQm5tYVhuZjJFM0cydXZKQUhzX2hwREVjOEdZWHJ5aW9TT1IwZEpOdmd3N3VXd1hIR290VURCM2ZFZnlXcTNwQ29BdzFlOFBOR2x4VVR4V285NUtvZUpXUklZRVRSeHBZUE9CRVJERlVRMjZvQlZOMDk4VE1qd2kySjVNbjFKeWRUVGRyQV93QjFsNw?oc=5",
+      "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-06-27T07:01:01.000Z",
-      "whyItMattersKo": "감독의 충분한 휴식은 시즌 후반기 팀 전력과 전술 운영에 긍정적 영향을 줍니다.",
-      "fanTakeKo": "아벨 감독, 충분히 쉬고 오세요!",
+      "publishedAt": "2026-06-27T19:07:00.000Z",
+      "whyItMattersKo": "감독의 부재는 훈련 지휘 공백을 의미하며, 선수단 관리 방식에 변화를 줄 수 있습니다.",
+      "fanTakeKo": "감독님 빨리 보고 싶네요.",
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUNUNkR2U3NwTFZfaDY0ZVZuT1AxS1RwX0d4WUY3NUJ2OF9QZ2Q2bHJCTF",
-      "title": "Destaque do Palmeiras ofusca Cristiano Ronaldo e Portugal na Copa - LANCE!",
-      "summaryKo": "월드컵에서 크리스티아누 호날두와 포르투갈을 뒤덮은 파메이라스의 하이라이트 - 입찰!",
-      "excerpt": "Destaque do Palmeiras ofusca Cristiano Ronaldo e Portugal na Copa&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUNUNkR2U3NwTFZfaDY0ZVZuT1AxS1RwX0d4WUY3NUJ2OF9QZ2Q2bHJCTFQ0VzQtRXBJaWV4djh1cGNSNEI0Ry1iTFVhbHFzOWhRTGRETGp1NHhrYmI0cjJXQ01XSEF6MFl3Q0dRN0JOeGZCNE1qSVZVOVR0U2I4WG5tZ0NsS2d5WTFnVVB2ZEZSanVQYzFreXNLVHptWDNidVlTa1BWdU4?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-06-28T10:20:56.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     },
     {
@@ -270,19 +242,17 @@
       ]
     },
     {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvRE",
-      "title": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista - SE Palmeiras",
-      "summaryKo": "파우메이라스 유소년, 수자노 원정 떠난다",
-      "excerpt": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvREwwczZUY0g0dkNGR2tNZXRUVFV3c0N3QTVBa3RyaVRJYU1nbndYUC0xSzdnN0M2ZWdoV3NNS2lsZ0JoTm5meDlDc2lFTFdzMldHWldGNWNIOWNqd1VuZlZoYV9UY0JaVnZXSElwZw?oc=5",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2dUT3lOQk1PcW1WTWtoMm51UElzSFk1el9sTDloOWdxSWNWZDlEZjBHT1Z",
+      "title": "Palmeiras se reapresenta e inicia intertemporada na Academia de Futebol - SE Palmeiras",
+      "summaryKo": "파우메이라스는 축구 아카데미 - SE 파우메이라스에서 인터시즌을 다시 시작합니다.",
+      "excerpt": "Palmeiras se reapresenta e inicia intertemporada na Academia de Futebol&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2dUT3lOQk1PcW1WTWtoMm51UElzSFk1el9sTDloOWdxSWNWZDlEZjBHT1ZfNkpQdEhMemZEdU14cTZQbTZNdlpTMnEtWjZhbVA5OVhhWk1HVkcxMnlZU1dQM0d3NFZkWi14SGRVaGpwYmFJVnRWSG9rcnBFd3NvYnhCUlpRTEEzMl96dEk1WHJmQzFLY1U0ck0xbU5ULUJGcHJkYUtJLVh1YlRuakRr?oc=5",
       "source": "SE Palmeiras",
       "language": "pt",
-      "publishedAt": "2026-06-24T17:27:42.000Z",
-      "whyItMattersKo": "미래의 주역들이 뛰는 상파울루 주장 리그 일정으로 유망주 성장을 점칠 수 있습니다.",
-      "fanTakeKo": "유망주들 활약 기대해 봅니다!",
+      "publishedAt": "2026-06-24T23:27:15.000Z",
       "tags": [
         "뉴스",
-        "AI요약"
+        "자동번역"
       ]
     },
     {
@@ -296,6 +266,22 @@
       "publishedAt": "2026-06-26T15:01:59.000Z",
       "whyItMattersKo": "이중 훈련으로 선수들의 체력을 보강하고 기술 훈련을 통해 경기력을 끌어올립니다.",
       "fanTakeKo": "열심히 훈련하는 모습이 뿌듯하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvRE",
+      "title": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista - SE Palmeiras",
+      "summaryKo": "파우메이라스 유소년, 수자노 원정 떠난다",
+      "excerpt": "Sub-15 e Sub-17 do Verdão visitam Suzano pelo Paulista&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpib0VfWHRRZlBwdHpSR1hpV0J4SmZDSWV3UHAwbEpSaEt2VTBKendvREwwczZUY0g0dkNGR2tNZXRUVFV3c0N3QTVBa3RyaVRJYU1nbndYUC0xSzdnN0M2ZWdoV3NNS2lsZ0JoTm5meDlDc2lFTFdzMldHWldGNWNIOWNqd1VuZlZoYV9UY0JaVnZXSElwZw?oc=5",
+      "source": "SE Palmeiras",
+      "language": "pt",
+      "publishedAt": "2026-06-24T17:27:42.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 상파울루 주장 리그 일정으로 유망주 성장을 점칠 수 있습니다.",
+      "fanTakeKo": "유망주들 활약 기대해 봅니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -318,22 +304,6 @@
       ]
     },
     {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcktxU1IyVVVvOEJfMndXUzNsazJxY3gxZ3F5ZzRLaEZDeF9wWnNlT1BteHJ",
-      "title": "Por onde anda Abel Ferreira, que não se apresentou ao Palmeiras com o elenco - Terra",
-      "summaryKo": "아벨 감독, 팀 합류하지 않고 어디?",
-      "excerpt": "Por onde anda Abel Ferreira, que não se apresentou ao Palmeiras com o elenco&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcktxU1IyVVVvOEJfMndXUzNsazJxY3gxZ3F5ZzRLaEZDeF9wWnNlT1BteHJIeUJjby1DWElaWjdIa0xrZzRseFlDZk9aX18wdzZfWTJhaUZwcVdvQ3hoXzRvcVd6czQ4UU83UVFjQm5tYVhuZjJFM0cydXZKQUhzX2hwREVjOEdZWHJ5aW9TT1IwZEpOdmd3N3VXd1hIR290VURCM2ZFZnlXcTNwQ29BdzFlOFBOR2x4VVR4V285NUtvZUpXUklZRVRSeHBZUE9CRVJERlVRMjZvQlZOMDk4VE1qd2kySjVNbjFKeWRUVGRyQV93QjFsNw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-06-27T19:07:00.000Z",
-      "whyItMattersKo": "감독의 부재는 훈련 지휘 공백을 의미하며, 선수단 관리 방식에 변화를 줄 수 있습니다.",
-      "fanTakeKo": "감독님 빨리 보고 싶네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-20-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdkNRXzJFTl9pSGpfd2tseVE4S2VfUWowZkJzMVozNk52aWhobnpYckRfSj",
       "title": "Palmeiras vence Fluminense e garante liderança no Brasileiro Sub-20 - SE Palmeiras",
       "summaryKo": "파우메이라스 유스, 플루미넨스 꺾고 선두 등극",
@@ -350,16 +320,16 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMidEFVX3lxTE5zdjZyUGxiVWZ2WEl1QUpndWxZal9IWkhsNXktTHF2M3FJZDBwSEJWXzJObXp",
-      "title": "Paulista Sub-20 - Federação Paulista de Futebol",
-      "summaryKo": "파울리스타 U-20 대회 일정 및 결과",
-      "excerpt": "Paulista Sub-20&nbsp;&nbsp;Federação Paulista de Futebol",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zdjZyUGxiVWZ2WEl1QUpndWxZal9IWkhsNXktTHF2M3FJZDBwSEJWXzJObXppZ2llUGFxWTRYcExYY2Nzcm1kWW5lQ3hGTWhsc0NvWEFSYWdldmJCa0kwVXY5TThVMUpmODVkYTVRb2tQRWR1?oc=5",
-      "source": "Federação Paulista de Futebol",
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF9FRVpvZ2dmRlhfV1dHcUFxY1B0bjhwRk5TTEMxbFZGdmx5QldrZWt5dzF",
+      "title": "Palmeiras dá sequência na intertemporada e Vitor Roque evolui - ABCD Jornal",
+      "summaryKo": "파우메이라스 휴식기 이어가고 비토르 호키 상승세",
+      "excerpt": "Palmeiras dá sequência na intertemporada e Vitor Roque evolui&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF9FRVpvZ2dmRlhfV1dHcUFxY1B0bjhwRk5TTEMxbFZGdmx5QldrZWt5dzFxeElHTjZVRnpxdXNsLUp5VHNobktRLVNOZXFQT1pTZ0NkbFJscEFYX0xtZGRuZy1TWmNRZzQtVHdSYnF0SjBtX29CSG1OZG0wOTdjd3NVeEdvSmZtWW9SaXNlLWtETGgyS3QyY0FoNmllY3RROW03S2daYXJoTE5qazBsMzlmOTBIQdIBuwFBVV95cUxQOUl5UFZoTEtlMTh3YUYzd2dpejNjWkFzOUt0cGduaFpLcFhubHctMHBnNU1kYm1OMUd6YXlESW1EZUZDMTlnaXljS1AzcmdyZzVVeWJZVkVQVW8zLW5LM0tPMEJfY3RpNFBMTXllMHJTeEt5RndyWTBPVWRORS1qMWlxY1RfakdTbTQtX0k1LVhTTURtdUoxM2g4NmJEbnFoekd4d2h6VmkzWjFZNlQwX09RbWQ1VjVFV0lB?oc=5",
+      "source": "ABCD Jornal",
       "language": "pt",
-      "publishedAt": "2026-06-27T10:00:00.000Z",
-      "whyItMattersKo": "파우메이라스의 미래를 책임질 유망주들의 성장을 확인할 수 있는 자리입니다.",
-      "fanTakeKo": "우리 팀 미래를 위한 유망주들 파이팅!",
+      "publishedAt": "2026-06-28T20:45:14.000Z",
+      "whyItMattersKo": "비토르 호키의 컨디션 업그레이드는 팀 공격력 강화에 아주 긍정적인 신호입니다.",
+      "fanTakeKo": "호키 폼이 오르고 있다니 든든하네",
       "tags": [
         "뉴스",
         "AI요약"
@@ -376,6 +346,38 @@
       "publishedAt": "2026-06-24T14:10:10.000Z",
       "whyItMattersKo": "팬들이 훈련장을 직접 보는 것은 구단과 팬의 유대감을 강화하는 긍정적 행사입니다.",
       "fanTakeKo": "우리 훈련장 보고 싶었는데 부럽네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzBJX1ZDeWlGckZJc3JXNmkwTGdPSTlwR0lwdEJ4NF9pZklLcTIwWk4wV2w",
+      "title": "Palmeiras \"transforma\" atacante dispensado pelo Flamengo em artilheiro do Brasileirão sub-20 - GE",
+      "summaryKo": "파우메이라스, 플라멩구 방출 공격수를 득점왕으로",
+      "excerpt": "Palmeiras \"transforma\" atacante dispensado pelo Flamengo em artilheiro do Brasileirão sub-20&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzBJX1ZDeWlGckZJc3JXNmkwTGdPSTlwR0lwdEJ4NF9pZklLcTIwWk4wV2w1TkJDR1ZLUzc2TXpEZzBnR25UTFRBQkpyTnptRUpjNE0zeUJmTXNjdG13OWRKVWNubGVHVzFkWENCX1loSkVoUXVJZThvdER3aks2RXprenJhUkNCTlowX0gyQ2pKcngtVWh0dVYyNGlkMmVoM2UxMUI1eENBejh3eVVJaHpNWVlqX29nTzdhX29WaVpHZXZVWkRFR3FpZWVtUWVoN0VCc2hfb2w0Rmp4LUZodmRmWHY4djRiSi0yOVU3Tk04Z9IBgAJBVV95cUxOTkRLY3dYVmxwMDV1bURoa2hmR0xHREV1c2pVU2ZJeDE1dmx1WVhERkI3UzdENTlINWNsanVDUkl0MFZ0aVBRWnNHakZBdTBPZGpMbXBQOF9HeGgyaU1DZC0zcmtsNS1HRDhMWG44Tk9QMC1IUjM0R051SEp5aklVWF91d1FKLTRpVEpBNUdYb2dFeWVpZjBzc05tbVBGZVFoWWZBSVkydFg2MWVtSXFFOFpMLXBlMFZGMU5yVzRZNlFPbEJ4ZjhnRDNWWUxIeXV5ek5oaVE1am84ellRdmZiU2NNMUl2eFk4UjNpS2Y3OEVwZmt2SmxITExOTk9FMUJh?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-06-28T07:01:01.000Z",
+      "whyItMattersKo": "타 팀에서 방출된 선수를 육성해 득점왕으로 만든 유스 시스템의 저력입니다.",
+      "fanTakeKo": "유스 육성 진짜 대단하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0",
+      "title": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’ - SE Palmeiras",
+      "summaryKo": "파우메이라스 선수단 검사, 카이케 복귀 인사",
+      "excerpt": "Elenco realiza exames e goleiro Kaique comenta retorno ao Palmeiras: ‘Muito grato’&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwZktCSXcyUEJmLWJTS3lVNHBoVHh3YkFONUxaN0tiYndBMFFFQ1kwc0g0a3hLRksxWFJqQmRUTVdKS2ZTTEZ6bHpYWjB3Z2NKTGg4R2J0V0pyY3VYR1FVTjZIVmdUdHYyX0NGLUlITGlVRXpJdVFWSmV3anFPYUk5eHByTTdoS3NLV2VWXzdRUG10YUNZcFdybzFqZ1Bub3pDNFhfZ3Rvak02MUUxemRqeHItM0l2X2c?oc=5",
+      "source": "SE Palmeiras",
+      "language": "pt",
+      "publishedAt": "2026-06-25T15:46:40.000Z",
+      "whyItMattersKo": "시즌 준비를 위한 검사와 골키퍼 카이케의 복귀로 팀 전력 보강에 힘이 실립니다.",
+      "fanTakeKo": "돌아온 카이케, 이번엔 제대로 보여줘!",
       "tags": [
         "뉴스",
         "AI요약"
