@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-06-28T23:03:37.749Z",
+  "fetchedAt": "2026-06-29T01:37:01.323Z",
   "items": [
     {
       "id": "espn-401840808",
@@ -16976,6 +16976,32 @@
         "name": "Palmeiras",
         "nameKo": "파우메이라스",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
+      }
+    },
+    {
+      "id": "espn-401841234",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-09-12T18:00Z",
+      "status": "scheduled",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
+      },
+      "away": {
+        "id": "2026",
+        "name": "São Paulo",
+        "nameKo": "상파울루",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png"
       }
     }
   ]
