@@ -9,8 +9,9 @@ interface Props {
   note?: string;
   /**
    * Minutes after which a live-origin snapshot is flagged "확인 지연". Defaults
-   * to 75 (tolerates ~2 missed 30-min cron cycles); pass a tighter value (e.g.
-   * 15) inside match windows where a stalled feed matters within minutes.
+   * to 180 (3 h) — GitHub throttles the 30-min cron to ~hourly, so only a
+   * genuinely-broken pipeline trips the warning; pass a tighter value (e.g. 15)
+   * inside match windows where a stalled feed matters within minutes.
    */
   staleAfterMin?: number;
   /**

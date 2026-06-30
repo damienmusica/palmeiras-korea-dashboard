@@ -26,12 +26,12 @@ export const RELIABILITY_META: Record<SourceReliability, ReliabilityMeta> = {
     tone: "good",
   },
   rumor: {
-    labelKo: "루머/추측",
+    labelKo: "루머·추측",
     descKo: "이적설 등 확인되지 않은 추측성 정보 — 주의해서 읽으세요",
     tone: "warn",
   },
   aggregator: {
-    labelKo: "재가공/모음",
+    labelKo: "재가공",
     descKo: "원 출처를 재가공한 모음성 콘텐츠 — 원문 확인 권장",
     tone: "neutral",
   },
@@ -43,6 +43,33 @@ export const RELIABILITY_META: Record<SourceReliability, ReliabilityMeta> = {
     tone: "neutral",
   },
 };
+
+// =============================================================================
+// Reliability is a LABEL, and a label only carries information when it
+// DIFFERENTIATES. In the live feed ~2/3 of items are established sports media
+// ("reliable"), so stamping every one of those with a "신뢰 매체" chip is pure
+// noise — it tells a Korean newcomer nothing. So "reliable" is the SILENT
+// baseline (no marker; the absence of a marker IS the signal), and we surface
+// ONLY the cases that actually differ: 공식(positive), 루머·추측(caution),
+// 재가공/기타 매체(unvouched). A one-time legend explains "no marker = normal".
+// =============================================================================
+
+/**
+ * Whether a reliability class is worth a per-card marker. "reliable" is the
+ * silent default; everything else differentiates and is surfaced.
+ */
+export function isNotableReliability(r: SourceReliability): boolean {
+  return r !== "reliable";
+}
+
+/** Display order for the news reliability legend (silent baseline first). */
+export const RELIABILITY_LEGEND_ORDER: SourceReliability[] = [
+  "reliable",
+  "official",
+  "rumor",
+  "aggregator",
+  "unknown",
+];
 
 /** Domain/source-name based reliability classification (best effort). */
 export function classifyReliability(

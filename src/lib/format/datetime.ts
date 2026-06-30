@@ -114,18 +114,21 @@ export type FreshnessLevel = "fresh" | "stale";
 
 /**
  * Whether a live-origin snapshot is too old to still be presented as "fresh".
- * The free pipeline refreshes roughly every 30 min, so we tolerate a couple of
- * missed cycles before flagging (default 75 min) to avoid false alarms from the
- * ISR/revalidate lag. Pass a tighter `staleAfterMin` inside match windows, where
- * a stalled feed matters within minutes. `now` is injectable for tests.
+ * The free pipeline is scheduled every 30 min, but GitHub throttles scheduled
+ * workflows under load to roughly hourly (and sometimes 1–2 h) — so the real
+ * healthy cadence is ~hourly, not 30 min. The default threshold is therefore
+ * 180 min (3 h): only a genuinely-broken pipeline (≈3 missed real cycles) trips
+ * the "확인 지연" warning, instead of a normal hourly delay false-alarming. Pass
+ * a tighter `staleAfterMin` inside match windows, where a stalled feed matters
+ * within minutes (the home live badge uses 15). `now` is injectable for tests.
  *
- * This is what stops a 30-min snapshot from reading "방금 전 · 라이브" for hours
+ * This is what stops a snapshot from reading "방금 전 · 라이브" for many hours
  * after the GitHub Actions cron silently dies — once stale, the badge turns to a
- * "갱신 지연" warning instead of looking falsely live.
+ * "확인 지연" warning instead of looking falsely live.
  */
 export function freshnessLevel(
   iso: string,
-  staleAfterMin = 75,
+  staleAfterMin = 180,
   now: Date = new Date(),
 ): FreshnessLevel {
   const d = new Date(iso);
