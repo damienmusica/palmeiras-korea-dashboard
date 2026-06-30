@@ -8,11 +8,18 @@ interface Props {
   fellBack?: boolean;
   note?: string;
   /**
-   * Minutes after which a live-origin snapshot is flagged "갱신 지연". Defaults
+   * Minutes after which a live-origin snapshot is flagged "확인 지연". Defaults
    * to 75 (tolerates ~2 missed 30-min cron cycles); pass a tighter value (e.g.
    * 15) inside match windows where a stalled feed matters within minutes.
    */
   staleAfterMin?: number;
+  /**
+   * Newest underlying CONTENT timestamp (e.g. the most recent article's
+   * publishedAt). `fetchedAt` only says when we last CHECKED the source — it
+   * advances every cron run even with no new content — so when this is provided
+   * the badge also shows "최신 …" to separate "checked" from "actually changed".
+   */
+  latestContentAt?: string;
 }
 
 interface OriginMeta {
@@ -52,11 +59,12 @@ export function FreshnessBadge({
   fellBack,
   note,
   staleAfterMin,
+  latestContentAt,
 }: Props) {
   const meta = ORIGIN_META[origin] ?? ORIGIN_META.seed;
 
-  // A live-origin snapshot that hasn't refreshed in a while must NOT keep
-  // looking live — downgrade it to a "갱신 지연" warning so freshness stays
+  // A live-origin snapshot that hasn't been re-checked in a while must NOT keep
+  // looking live — downgrade it to a "확인 지연" warning so freshness stays
   // honest if the cron stalls. Seed/editorial/manual content is timeless and
   // exempt; an explicit fallback already warns on its own.
   const isLiveOrigin = meta.tone === "live";
@@ -68,17 +76,21 @@ export function FreshnessBadge({
   const labelKo = fellBack
     ? "소스 불가 · 시드 데이터"
     : stale
-      ? "갱신 지연"
+      ? "확인 지연"
       : meta.labelKo;
   const tone = fellBack || stale ? "warn" : meta.tone;
   const dot = stale ? "○" : meta.dot;
 
-  const rel = relativeTimeKo(fetchedAt);
+  // `fetchedAt` = last time we CHECKED the source (advances every run even with
+  // no new content); `latestContentAt` = how new the content actually is.
+  const checkedRel = relativeTimeKo(fetchedAt);
+  const contentRel = latestContentAt ? relativeTimeKo(latestContentAt) : "";
   const title = [
     `출처: ${source}`,
-    `갱신: ${rel}`,
+    `마지막 확인: ${checkedRel} (데이터 변경이 아니라 수집 시도 시각)`,
+    contentRel ? `최신 콘텐츠: ${contentRel}` : null,
     stale
-      ? "자동 갱신이 지연되고 있습니다 (데이터가 최신이 아닐 수 있음)"
+      ? "자동 수집이 지연되고 있습니다 (데이터가 최신이 아닐 수 있음)"
       : null,
     note ? `메모: ${note}` : null,
   ]
@@ -90,8 +102,14 @@ export function FreshnessBadge({
       <span aria-hidden="true">{dot}</span>
       <span>{labelKo}</span>
       {/* No opacity dimming: on the warn (rose) tone it drops below WCAG-AA
-          (~3.85:1). The leading "·" already sets the timestamp apart. */}
-      {rel ? <span className="font-normal">· {rel}</span> : null}
+          (~3.85:1). The leading "·" already sets each part apart. "확인" is the
+          honest frame — it's a check time, not a content-changed time. */}
+      {checkedRel ? (
+        <span className="font-normal">· 확인 {checkedRel}</span>
+      ) : null}
+      {contentRel ? (
+        <span className="font-normal">· 최신 {contentRel}</span>
+      ) : null}
     </span>
   );
 }

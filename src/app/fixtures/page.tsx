@@ -31,7 +31,10 @@ export default async function FixturesPage() {
         }
       />
       <CompetitionPrimer />
-      <FixturesView matches={matchesRes.data} />
+      <FixturesView
+        matches={matchesRes.data}
+        nowIso={new Date().toISOString()}
+      />
     </div>
   );
 }

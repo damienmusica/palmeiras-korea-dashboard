@@ -9,6 +9,7 @@
 import type { Match, MatchInsight, TeamConfig } from "@/lib/domain/types";
 import { resultForTeam } from "@/lib/format/stats";
 import { competitionContext } from "@/lib/interpret/competitions";
+import { toKST } from "@/lib/format/datetime";
 
 /** Editorial overrides for specific seed fixtures (most context-rich). */
 const EDITORIAL: Record<string, Partial<MatchInsight>> = {
@@ -66,16 +67,20 @@ function opponentOf(match: Match, teamId: string) {
 }
 
 // --- Fixture-gap explainer ---------------------------------------------------
-// A newcomer sees a 7-week hole between fixtures (e.g. the 2026 World Cup break)
-// and wonders if the data is broken. Annotate abnormally long gaps with a
-// deterministic, honest explanation of *why such gaps happen* — without
-// asserting a specific cause we can't verify from the data.
+// A newcomer sees a long hole between fixtures and wonders if the data is broken.
+// We annotate abnormally long gaps to reassure them it's expected — but we must
+// NOT assert a specific cause we can't verify from two timestamps. A big gap is
+// just as often "the next rounds aren't scheduled in the feed yet" as a real
+// league pause, so the copy lists possibilities (hedged) instead of claiming one
+// (the old copy fabricated a definite "World Cup break", which is usually wrong).
 const GAP_NOTABLE_DAYS = 18; // beyond a normal league/cup cadence (~3-7 days)
-const GAP_MAJOR_DAYS = 35; // a major-tournament-sized break
+const GAP_MAJOR_DAYS = 35; // a season-break-sized hole
 
 /**
  * Korean explainer for the gap between two consecutive kickoffs, or null when
- * the gap is normal. `days` lets the UI also show the gap length.
+ * the gap is normal. `days` lets the UI also show the gap length. The label
+ * never states a verified cause — only hedged possibilities — because the gap
+ * length alone can't tell a real pause from not-yet-scheduled fixtures.
  */
 export function fixtureGapKo(
   prevIso: string,
@@ -88,8 +93,35 @@ export function fixtureGapKo(
   if (days < GAP_NOTABLE_DAYS) return null;
   const labelKo =
     days >= GAP_MAJOR_DAYS
-      ? `약 ${days}일간 경기가 없습니다 — 월드컵 등 메이저 국제 대회 기간에는 브라질 리그가 장기간 중단됩니다.`
-      : `약 ${days}일 일정 공백 — 보통 대표팀 A매치 기간이나 대회 일정 조정으로 생깁니다.`;
+      ? `약 ${days}일간 일정이 비어 있습니다. 시즌 휴식기나 대표팀 차출(메이저 대회 포함), 또는 다음 라운드 일정이 아직 확정되지 않아 생긴 공백일 수 있습니다.`
+      : `약 ${days}일간 일정이 비어 있습니다. 대표팀 A매치 휴식기나 대회 일정 조정, 또는 다음 일정이 아직 확정되지 않았기 때문일 수 있습니다.`;
+  return { days, labelKo };
+}
+
+/**
+ * Forward-looking heads-up for the wait until the NEXT fixture, measured from
+ * `nowIso` — NOT from the previous match. The days already elapsed must not be
+ * counted: a World-Cup break that is half over otherwise reads as a scary "53일
+ * 비어 있습니다" when the league actually resumes in ~3 weeks. This anchors the
+ * count to today and names the concrete resume date, and returns null when the
+ * next match is soon enough not to warrant a heads-up. Pure; `nowIso` injectable.
+ */
+export function nextFixtureWaitKo(
+  nowIso: string,
+  nextIso: string,
+): { days: number; labelKo: string } | null {
+  const now = new Date(nowIso).getTime();
+  const next = new Date(nextIso).getTime();
+  if (Number.isNaN(now) || Number.isNaN(next)) return null;
+  const days = Math.round((next - now) / 86_400_000);
+  if (days < GAP_NOTABLE_DAYS) return null; // football is imminent — no banner
+  let resumeKo: string;
+  try {
+    resumeKo = toKST(nextIso).date; // e.g. "7월 24일"
+  } catch {
+    return null;
+  }
+  const labelKo = `다음 경기까지 약 ${days}일 — ${resumeKo}에 일정이 재개됩니다. 그 사이는 리그 휴식기이거나 다음 일정이 아직 확정되지 않았기 때문일 수 있습니다.`;
   return { days, labelKo };
 }
 

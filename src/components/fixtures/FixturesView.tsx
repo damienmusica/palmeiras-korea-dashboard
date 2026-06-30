@@ -6,34 +6,32 @@ import { MatchCard } from "@/components/match/MatchCard";
 import { SearchInput } from "@/components/ui/SearchInput";
 import { FilterChips } from "@/components/ui/FilterChips";
 import { EmptyState } from "@/components/ui/EmptyState";
-import { fixtureGapKo } from "@/lib/interpret/matches";
+import { fixtureGapKo, nextFixtureWaitKo } from "@/lib/interpret/matches";
 
 type StatusFilter = "all" | "upcoming" | "finished";
 
 /**
  * Render upcoming fixtures with a deterministic divider whenever there's an
- * abnormally long gap between consecutive matches (e.g. a World Cup break), so
- * the empty stretch reads as "the league is paused", not "the data is broken".
+ * abnormally long gap between consecutive matches, so the empty stretch reads as
+ * "expected — schedule pause or not-yet-published rounds", not "data is broken".
+ * The divider copy never asserts a specific cause (see fixtureGapKo).
  */
-function UpcomingGrid({
-  items,
-  precedingKickoff,
-}: {
-  items: Match[];
-  /** Kickoff of the most recent finished match, so the gap BEFORE the first
-   *  upcoming fixture (e.g. the World Cup break) is annotated too. */
-  precedingKickoff?: string;
-}) {
+function UpcomingGrid({ items, nowIso }: { items: Match[]; nowIso: string }) {
   const segments = useMemo(() => {
     const segs: { gapBeforeKo?: string; rows: Match[] }[] = [];
     items.forEach((m, i) => {
-      const prevIso = i > 0 ? items[i - 1].kickoff : precedingKickoff;
-      const gap = prevIso ? fixtureGapKo(prevIso, m.kickoff) : null;
+      // First fixture: count the wait from TODAY (not from the last result), so
+      // already-elapsed break days aren't added in. Later fixtures: the gap
+      // between two upcoming kickoffs (a genuinely future calendar pause).
+      const gap =
+        i === 0
+          ? nextFixtureWaitKo(nowIso, m.kickoff)
+          : fixtureGapKo(items[i - 1].kickoff, m.kickoff);
       if (i === 0 || gap) segs.push({ gapBeforeKo: gap?.labelKo, rows: [m] });
       else segs[segs.length - 1].rows.push(m);
     });
     return segs;
-  }, [items, precedingKickoff]);
+  }, [items, nowIso]);
 
   return (
     <div className="space-y-4">
@@ -44,7 +42,7 @@ function UpcomingGrid({
               role="note"
               className="flex items-center gap-2 rounded-lg border border-dashed border-[var(--pm-primary)]/40 bg-[var(--pm-primary)]/[0.05] px-3 py-2 text-xs text-[var(--pm-ink)]"
             >
-              <span aria-hidden="true">🌍</span>
+              <span aria-hidden="true">📅</span>
               <span>{seg.gapBeforeKo}</span>
             </div>
           ) : null}
@@ -59,7 +57,15 @@ function UpcomingGrid({
   );
 }
 
-export function FixturesView({ matches }: { matches: Match[] }) {
+export function FixturesView({
+  matches,
+  nowIso,
+}: {
+  matches: Match[];
+  /** Request-time "now" from the server, so the wait-until-next-match banner
+   *  counts from today (not from the last result) and stays SSR-deterministic. */
+  nowIso: string;
+}) {
   const [query, setQuery] = useState("");
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
   const [comp, setComp] = useState<string>("all");
@@ -103,19 +109,6 @@ export function FixturesView({ matches }: { matches: Match[] }) {
   const finished = filtered
     .filter((m) => m.status === "finished")
     .sort((a, b) => b.kickoff.localeCompare(a.kickoff));
-
-  // Most recent finished match in the current competition scope — used to
-  // annotate the gap before the first upcoming fixture (e.g. a tournament break).
-  const lastFinishedKickoff = useMemo(() => {
-    const f = matches
-      .filter(
-        (m) =>
-          (comp === "all" || m.competition.id === comp) &&
-          m.status === "finished",
-      )
-      .sort((a, b) => b.kickoff.localeCompare(a.kickoff));
-    return f[0]?.kickoff;
-  }, [matches, comp]);
 
   return (
     <div className="space-y-4">
@@ -175,10 +168,7 @@ export function FixturesView({ matches }: { matches: Match[] }) {
               <h2 className="text-sm font-bold text-[var(--pm-muted)]">
                 ⏭️ 예정된 경기 ({upcoming.length})
               </h2>
-              <UpcomingGrid
-                items={upcoming}
-                precedingKickoff={lastFinishedKickoff}
-              />
+              <UpcomingGrid items={upcoming} nowIso={nowIso} />
             </section>
           ) : null}
           {finished.length > 0 ? (
@@ -195,7 +185,7 @@ export function FixturesView({ matches }: { matches: Match[] }) {
           ) : null}
         </div>
       ) : statusFilter === "upcoming" ? (
-        <UpcomingGrid items={filtered} precedingKickoff={lastFinishedKickoff} />
+        <UpcomingGrid items={filtered} nowIso={nowIso} />
       ) : (
         <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           {filtered.map((m) => (

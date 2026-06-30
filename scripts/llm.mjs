@@ -25,6 +25,19 @@ export function llmEnabled() {
   return Boolean(cfg().key);
 }
 
+/**
+ * Human-readable label for the configured model, for provenance/source strings.
+ * Derived from LLM_MODEL so the displayed source can never drift from the model
+ * actually used (e.g. "zai-glm-4.7" → "GLM-4.7").
+ */
+export function llmModelLabel() {
+  const m = cfg().model || "";
+  const known = /glm[-_ ]?([0-9.]+)/i.exec(m);
+  if (known) return `GLM-${known[1]}`;
+  // Fall back to the raw model id minus any vendor prefix ("zai-", "openai/").
+  return m.replace(/^[a-z0-9]+[/-]/i, "") || m || "LLM";
+}
+
 function extractItems(text) {
   if (!text) return null;
   const t = text
