@@ -448,21 +448,10 @@ export interface StandingRow {
   isTracked?: boolean;
 }
 
-export interface StatLeader {
-  playerId?: string;
-  playerName: string;
-  playerNameKo: string;
-  value: number;
-}
-
 export interface Standings {
   competition: CompetitionRef;
   season: string;
   table: StandingRow[];
-  topScorers: StatLeader[];
-  topAssisters: StatLeader[];
-  /** Season the scorer/assist leaders reflect (may differ from table season). */
-  leadersSeason?: string;
 }
 
 // --- Continental / cup campaigns ---------------------------------------------

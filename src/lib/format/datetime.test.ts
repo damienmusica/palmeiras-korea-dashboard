@@ -18,10 +18,16 @@ describe("freshnessLevel", () => {
       "fresh",
     ); // 20 min old
   });
-  it("is stale past the default 75-min window", () => {
+  it("tolerates a normal ~hourly cron delay (no false 'stale')", () => {
+    // 120 min old: a throttled-but-healthy GitHub cron, must NOT read stale.
     expect(freshnessLevel("2026-06-28T10:00:00.000Z", undefined, now)).toBe(
+      "fresh",
+    );
+  });
+  it("is stale past the default 180-min window (genuinely broken)", () => {
+    expect(freshnessLevel("2026-06-28T08:30:00.000Z", undefined, now)).toBe(
       "stale",
-    ); // 120 min old
+    ); // 210 min old
   });
   it("honours a tighter match-window threshold", () => {
     // 20 min old: fresh by default, stale under a 15-min match-window threshold.

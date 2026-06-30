@@ -8,6 +8,7 @@ import { FilterChips } from "@/components/ui/FilterChips";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { SkeletonCard } from "@/components/ui/Skeleton";
 import { FreshnessBadge } from "@/components/ui/FreshnessBadge";
+import { Collapsible } from "@/components/ui/Collapsible";
 import { newsCategory } from "@/lib/interpret/news";
 
 type CategoryFilter = "ALL" | "senior" | "other";
@@ -79,6 +80,8 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           type="button"
           onClick={refresh}
           disabled={status === "loading"}
+          aria-label="가장 최근 자동 수집본 다시 불러오기"
+          title="뉴스는 약 1시간마다 자동 수집됩니다. 이 버튼은 가장 최근 수집본을 다시 불러옵니다(요청 시점에 새로 수집하지 않습니다)."
           className="flex items-center justify-center gap-1.5 rounded-xl bg-[var(--pm-primary)] px-4 py-2 text-sm font-semibold text-white disabled:opacity-60"
         >
           <span
@@ -87,7 +90,7 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           >
             ↻
           </span>
-          {status === "loading" ? "불러오는 중…" : "새로고침"}
+          {status === "loading" ? "불러오는 중…" : "최신본 불러오기"}
         </button>
       </div>
 
@@ -118,7 +121,10 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
         </span>
       </p>
 
-      <div className="flex items-center justify-end">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <p className="text-xs text-[var(--pm-muted)]">
+          뉴스는 약 1시간마다 자동 수집됩니다.
+        </p>
         <FreshnessBadge
           origin={result.origin}
           source={result.source}
@@ -128,6 +134,58 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           latestContentAt={latestContentAt}
         />
       </div>
+
+      {/* One-time legend: with established media as the silent default, this
+          explains that "no marker = normal outlet" so the absence reads as
+          intentional, not missing — and explains the "AI 생성" caveat once
+          instead of repeating it on every card. Collapsed by default. */}
+      <Collapsible
+        className="rounded-xl border border-black/5 bg-black/[0.02] px-3 py-2"
+        summary={
+          <span className="text-xs font-semibold text-[var(--pm-muted)]">
+            ℹ︎ 표시 안내 (출처 신뢰도 · AI 해설)
+          </span>
+        }
+        bodyClassName="mt-2"
+      >
+        <ul className="space-y-1.5 text-xs leading-relaxed text-[var(--pm-muted)]">
+          <li>
+            <b>표시가 없는 기사</b> = 정평 있는 일반 스포츠 매체입니다(기본값).
+            대부분의 기사가 여기에 해당합니다.
+          </li>
+          <li>
+            <span className="pm-chip bg-emerald-100 text-emerald-800">
+              ✓ 공식
+            </span>{" "}
+            — 구단·연맹 등 공식 1차 출처.
+          </li>
+          <li>
+            <span className="pm-chip bg-amber-100 text-amber-800">
+              루머·추측
+            </span>{" "}
+            — 확인되지 않은 이적설 등. 단정하지 말고 지켜보세요.
+          </li>
+          <li>
+            <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
+              재가공
+            </span>{" "}
+            — 원 출처를 재가공한 모음성 콘텐츠. 원문 확인을 권장합니다.
+          </li>
+          <li>
+            <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
+              기타 매체
+            </span>{" "}
+            — 사전 분류되지 않은 매체. 보도 내용은 원문에서 확인하세요.
+          </li>
+          <li className="border-t border-black/5 pt-1.5">
+            <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
+              AI 생성
+            </span>{" "}
+            — ‘왜 중요한가’·‘팬 한 줄’은 AI가 자동 생성한 해설입니다. 부정확할
+            수 있으니 사실관계는 원문에서 확인하세요.
+          </li>
+        </ul>
+      </Collapsible>
 
       {status === "loading" ? (
         <div className="grid grid-cols-1 gap-3 md:grid-cols-2">

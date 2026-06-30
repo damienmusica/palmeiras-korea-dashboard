@@ -13,7 +13,6 @@ import type {
   NewsItem,
   Squad,
   Standings,
-  StatLeader,
   TeamLineup,
   CompetitionsSnapshot,
   CompetitionCampaign,
@@ -200,18 +199,9 @@ export async function getStandings(): Promise<DataResult<Standings>> {
         ...r,
         teamNameKo: koreanTeamName(r.teamName),
       }));
-      const koLeader = (l: StatLeader) => ({
-        ...l,
-        playerNameKo: koreanName(l.playerName),
-      });
       return {
         ...snapshot,
-        data: {
-          ...snapshot.data,
-          table,
-          topScorers: (snapshot.data.topScorers ?? []).map(koLeader),
-          topAssisters: (snapshot.data.topAssisters ?? []).map(koLeader),
-        },
+        data: { ...snapshot.data, table },
       };
     }
     return seedResult<Standings>(SEED_STANDINGS);

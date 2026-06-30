@@ -623,46 +623,6 @@ export const SEED_STANDINGS: Standings = {
       form: ["L", "D", "W", "L", "D"],
     },
   ],
-  topScorers: [
-    {
-      playerId: "flaco-lopez",
-      playerName: "Flaco López",
-      playerNameKo: "플라코 로페스",
-      value: 12,
-    },
-    {
-      playerId: "vitor-roque",
-      playerName: "Vitor Roque",
-      playerNameKo: "비토르 호키",
-      value: 9,
-    },
-    {
-      playerId: "felipe-anderson",
-      playerName: "Felipe Anderson",
-      playerNameKo: "펠리피 안데르송",
-      value: 5,
-    },
-  ],
-  topAssisters: [
-    {
-      playerId: "felipe-anderson",
-      playerName: "Felipe Anderson",
-      playerNameKo: "펠리피 안데르송",
-      value: 6,
-    },
-    {
-      playerId: "mauricio",
-      playerName: "Maurício",
-      playerNameKo: "마우리시우",
-      value: 5,
-    },
-    {
-      playerId: "piquerez",
-      playerName: "Joaquín Piquerez",
-      playerNameKo: "호아킨 피케레스",
-      value: 4,
-    },
-  ],
 };
 
 // --- News --------------------------------------------------------------------

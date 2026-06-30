@@ -483,9 +483,9 @@ async function ingestStandings() {
   table.sort((a, b) => a.rank - b.rank);
 
   // Individual scorer/assist records are shown on the standings page from the
-  // CURRENT-season squad snapshot (ESPN), so we no longer fetch a stale
-  // league-wide 2024 list from API-Football here (keeps the data honest +
-  // drops an API call). The fields are kept empty for schema compatibility.
+  // CURRENT-season squad snapshot (ESPN), so we don't fetch a stale league-wide
+  // 2024 list from API-Football here (keeps the data honest + drops an API
+  // call). The standings snapshot therefore carries only the table.
   writeData("standings.json", {
     origin: "api",
     source: "ESPN (현재 시즌)",
@@ -493,8 +493,6 @@ async function ingestStandings() {
     season: String(data?.season?.year || new Date().getFullYear()),
     competition: BRASILEIRAO,
     table,
-    topScorers: [],
-    topAssisters: [],
   });
   log(`wrote data/standings.json (${table.length} teams)`);
 }
