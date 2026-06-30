@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-06-30T00:15:41.692Z",
+  "fetchedAt": "2026-06-30T01:45:55.990Z",
   "items": [
     {
       "id": "espn-401840808",
@@ -19,7 +19,7 @@
       "home": {
         "id": "7632",
         "name": "Atlético-MG",
-        "nameKo": "아틀레치쿠 미네이루",
+        "nameKo": "Atlético-MG",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png"
       },
       "away": {
@@ -701,7 +701,7 @@
       "away": {
         "id": "3457",
         "name": "Vitória",
-        "nameKo": "비토리아",
+        "nameKo": "Vitória",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png"
       },
       "score": {
@@ -1390,7 +1390,7 @@
       "home": {
         "id": "1936",
         "name": "Internacional",
-        "nameKo": "인테르나시오나우",
+        "nameKo": "Internacional",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png"
       },
       "away": {
@@ -2052,7 +2052,7 @@
       "away": {
         "id": "3445",
         "name": "Fluminense",
-        "nameKo": "플루미넨시",
+        "nameKo": "Fluminense",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png"
       },
       "score": {
@@ -2608,7 +2608,7 @@
       "home": {
         "id": "3454",
         "name": "Vasco da Gama",
-        "nameKo": "바스쿠 다 가마",
+        "nameKo": "Vasco da Gama",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png"
       },
       "away": {
@@ -3268,7 +3268,7 @@
       "away": {
         "id": "9169",
         "name": "Mirassol",
-        "nameKo": "미라솔",
+        "nameKo": "Mirassol",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png"
       },
       "score": {
@@ -3916,7 +3916,7 @@
       "away": {
         "id": "6086",
         "name": "Botafogo",
-        "nameKo": "보타포구",
+        "nameKo": "Botafogo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png"
       },
       "score": {
@@ -4459,7 +4459,7 @@
       "home": {
         "id": "2026",
         "name": "São Paulo",
-        "nameKo": "상파울루",
+        "nameKo": "São Paulo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png"
       },
       "away": {
@@ -5020,7 +5020,7 @@
       "away": {
         "id": "6273",
         "name": "Grêmio",
-        "nameKo": "그레미우",
+        "nameKo": "Grêmio",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png"
       },
       "score": {
@@ -5670,7 +5670,7 @@
       "home": {
         "id": "9967",
         "name": "Bahia",
-        "nameKo": "바이아",
+        "nameKo": "Bahia",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png"
       },
       "away": {
@@ -7001,7 +7001,7 @@
       "home": {
         "id": "874",
         "name": "Corinthians",
-        "nameKo": "코린치안스",
+        "nameKo": "Corinthians",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png"
       },
       "away": {
@@ -8240,7 +8240,7 @@
       "away": {
         "id": "3458",
         "name": "Athletico Paranaense",
-        "nameKo": "아틀레치쿠 파라나엔시",
+        "nameKo": "Athletico Paranaense",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png"
       },
       "score": {
@@ -8909,7 +8909,7 @@
       "away": {
         "id": "17713",
         "name": "Jacuipense",
-        "nameKo": "자쿠이펜시"
+        "nameKo": "Jacuipense"
       },
       "score": {
         "home": 3,
@@ -9570,7 +9570,7 @@
       "home": {
         "id": "6079",
         "name": "Red Bull Bragantino",
-        "nameKo": "RB 브라간치누",
+        "nameKo": "Red Bull Bragantino",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png"
       },
       "away": {
@@ -10848,7 +10848,7 @@
       "away": {
         "id": "2674",
         "name": "Santos",
-        "nameKo": "산투스",
+        "nameKo": "Santos",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png"
       },
       "score": {
@@ -12138,7 +12138,7 @@
       "home": {
         "id": "4936",
         "name": "Remo",
-        "nameKo": "헤모",
+        "nameKo": "Remo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png"
       },
       "away": {
@@ -12795,7 +12795,7 @@
       "home": {
         "id": "17713",
         "name": "Jacuipense",
-        "nameKo": "자쿠이펜시"
+        "nameKo": "Jacuipense"
       },
       "away": {
         "id": "palmeiras",
@@ -13453,7 +13453,7 @@
       "away": {
         "id": "2022",
         "name": "Cruzeiro",
-        "nameKo": "크루제이루",
+        "nameKo": "Cruzeiro",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png"
       },
       "score": {
@@ -14746,7 +14746,7 @@
       "home": {
         "id": "819",
         "name": "Flamengo",
-        "nameKo": "플라멩구",
+        "nameKo": "Flamengo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png"
       },
       "away": {
@@ -16151,7 +16151,7 @@
       "away": {
         "id": "9318",
         "name": "Chapecoense",
-        "nameKo": "샤페코엔시",
+        "nameKo": "Chapecoense",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png"
       },
       "score": {
@@ -16786,7 +16786,7 @@
       "home": {
         "id": "3456",
         "name": "Coritiba",
-        "nameKo": "코리치바",
+        "nameKo": "Coritiba",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png"
       },
       "away": {
@@ -16818,7 +16818,7 @@
       "away": {
         "id": "7632",
         "name": "Atlético-MG",
-        "nameKo": "아틀레치쿠 미네이루",
+        "nameKo": "Atlético-MG",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png"
       }
     },
@@ -16838,7 +16838,7 @@
       "home": {
         "id": "3457",
         "name": "Vitória",
-        "nameKo": "비토리아",
+        "nameKo": "Vitória",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png"
       },
       "away": {
@@ -16870,7 +16870,7 @@
       "away": {
         "id": "1936",
         "name": "Internacional",
-        "nameKo": "인테르나시오나우",
+        "nameKo": "Internacional",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png"
       }
     },
@@ -16890,7 +16890,7 @@
       "home": {
         "id": "3445",
         "name": "Fluminense",
-        "nameKo": "플루미넨시",
+        "nameKo": "Fluminense",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png"
       },
       "away": {
@@ -16922,7 +16922,7 @@
       "away": {
         "id": "3454",
         "name": "Vasco da Gama",
-        "nameKo": "바스쿠 다 가마",
+        "nameKo": "Vasco da Gama",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png"
       }
     },
@@ -16942,7 +16942,7 @@
       "home": {
         "id": "9169",
         "name": "Mirassol",
-        "nameKo": "미라솔",
+        "nameKo": "Mirassol",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png"
       },
       "away": {
@@ -16968,7 +16968,7 @@
       "home": {
         "id": "6086",
         "name": "Botafogo",
-        "nameKo": "보타포구",
+        "nameKo": "Botafogo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png"
       },
       "away": {
@@ -17000,7 +17000,7 @@
       "away": {
         "id": "2026",
         "name": "São Paulo",
-        "nameKo": "상파울루",
+        "nameKo": "São Paulo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png"
       }
     }

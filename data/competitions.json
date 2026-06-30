@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-06-30T00:15:41.199Z",
+  "fetchedAt": "2026-06-30T01:45:55.624Z",
   "season": "2026",
   "campaigns": [
     {
@@ -124,7 +124,7 @@
         "roundKo": "16강",
         "opponentId": "6272",
         "opponentName": "Fortaleza",
-        "opponentNameKo": "포르탈레자",
+        "opponentNameKo": "Fortaleza",
         "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
         "legs": [
           {
@@ -151,7 +151,7 @@
           "roundKo": "이전 라운드",
           "opponentId": "17713",
           "opponentName": "Jacuipense",
-          "opponentNameKo": "자쿠이펜시",
+          "opponentNameKo": "Jacuipense",
           "legs": [
             {
               "kickoff": "2026-05-14T00:30Z",
