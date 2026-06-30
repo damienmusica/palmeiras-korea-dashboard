@@ -20,7 +20,12 @@ export function SiteHeader({ team }: { team: TeamConfig }) {
     href === "/" ? pathname === "/" : pathname.startsWith(href);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-black/5 bg-[var(--pm-surface)]/90 backdrop-blur supports-[backdrop-filter]:bg-[var(--pm-surface)]/70">
+    <header
+      className="sticky top-0 z-40 border-b border-black/5 bg-[var(--pm-surface)]/90 backdrop-blur supports-[backdrop-filter]:bg-[var(--pm-surface)]/70"
+      // With viewport-fit=cover, pad the sticky header below the notch/status
+      // bar so its content isn't clipped in standalone PWA / landscape.
+      style={{ paddingTop: "env(safe-area-inset-top)" }}
+    >
       <div className="mx-auto flex max-w-5xl items-center gap-3 px-4 py-3">
         <Link
           href="/"

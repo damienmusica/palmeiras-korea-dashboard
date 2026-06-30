@@ -18,11 +18,25 @@ describe("classifyReliability", () => {
   it("detects official and reliable sources by name", () => {
     expect(classifyReliability("palmeiras.com.br")).toBe("official");
     expect(classifyReliability("CONMEBOL.com")).toBe("official");
+    expect(classifyReliability("SE Palmeiras")).toBe("official"); // club feed
     expect(classifyReliability("ge.globo (esporte)")).toBe("reliable");
     expect(classifyReliability("ge")).toBe("reliable"); // globo esporte brand
     expect(classifyReliability("ESPN.com.br")).toBe("reliable");
   });
-  it("falls back to unknown", () => {
+  it("recognizes the major outlets the live feed actually returns", () => {
+    // These previously fell through to "기타 매체" and looked like a bug.
+    for (const src of [
+      "CNN Brasil",
+      "R7 Esportes",
+      "OneFootball",
+      "sportbuzz.com.br",
+      "Gazeta Esportiva",
+      "LANCE!",
+    ]) {
+      expect(classifyReliability(src)).toBe("reliable");
+    }
+  });
+  it("falls back to unknown for a genuinely unrecognized outlet", () => {
     expect(classifyReliability("some random blog")).toBe("unknown");
   });
   it("has metadata for every reliability level", () => {

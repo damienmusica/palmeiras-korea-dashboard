@@ -36,8 +36,10 @@ export const RELIABILITY_META: Record<SourceReliability, ReliabilityMeta> = {
     tone: "neutral",
   },
   unknown: {
-    labelKo: "출처 미상",
-    descKo: "출처 신뢰도를 판별하기 어려움",
+    // The source IS named (Google News always provides the outlet); we just
+    // haven't pre-classified its reliability — so "기타 매체", not "출처 미상".
+    labelKo: "기타 매체",
+    descKo: "사전 분류되지 않은 매체 — 보도 내용은 원문에서 확인하세요",
     tone: "neutral",
   },
 };
@@ -51,15 +53,18 @@ export function classifyReliability(
   const s = source.toLowerCase();
   if (
     s.includes("palmeiras.com") ||
+    s.includes("se palmeiras") || // official club feed name on Google News
+    s.includes("tv palmeiras") ||
     s.includes("cbf") ||
     s.includes("conmebol") ||
-    s.includes("tv palmeiras") ||
     s.includes("official")
   ) {
     return "official";
   }
-  // Established Brazilian sports outlets. "ge" is globo esporte's brand name as
-  // surfaced by Google News, so match it exactly (substring "ge" would over-match).
+  // Established Brazilian + international football outlets (as surfaced by Google
+  // News). "ge" is globo esporte's brand name, matched exactly (substring "ge"
+  // would over-match). Keep this list current with what the feed actually
+  // returns so legitimate outlets aren't shown as the generic "기타 매체".
   const RELIABLE = [
     "globo",
     "espn",
@@ -71,6 +76,27 @@ export function classifyReliability(
     "band",
     "trivela",
     "goal",
+    "cnn",
+    "r7",
+    "onefootball",
+    "sportbuzz",
+    "metrópoles",
+    "metropoles",
+    "estadão",
+    "estadao",
+    "folha",
+    "jovem pan",
+    "sportv",
+    "premiere",
+    "fotmob",
+    "transfermarkt",
+    "ogol",
+    "tnt sports",
+    "veja",
+    "a bola",
+    "o povo",
+    "noticias ao minuto",
+    "notícias ao minuto",
   ];
   if (s === "ge" || RELIABLE.some((name) => s.includes(name))) {
     return "reliable";
@@ -78,7 +104,12 @@ export function classifyReliability(
   if (s.includes("rumor") || s.includes("mercado") || s.includes("transfer")) {
     return "rumor";
   }
-  if (s.includes("google") || s.includes("aggregat") || s.includes("feed")) {
+  if (
+    s.includes("google") ||
+    s.includes("msn") || // republishes other outlets' stories
+    s.includes("aggregat") ||
+    s.includes("feed")
+  ) {
     return "aggregator";
   }
   return "unknown";

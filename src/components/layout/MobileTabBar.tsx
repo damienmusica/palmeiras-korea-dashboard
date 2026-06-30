@@ -25,7 +25,9 @@ export function MobileTabBar() {
     <nav
       aria-label="모바일 메뉴"
       className="fixed inset-x-0 bottom-0 z-50 border-t border-black/10 bg-[var(--pm-surface)]/95 backdrop-blur sm:hidden"
-      style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
+      // Clear the iPhone home indicator: use the safe-area inset, but keep a
+      // small base gap on devices without one so the row is never flush.
+      style={{ paddingBottom: "max(env(safe-area-inset-bottom), 0.5rem)" }}
     >
       <ul className="mx-auto flex max-w-5xl">
         {TABS.map((t) => {
@@ -35,7 +37,7 @@ export function MobileTabBar() {
               <Link
                 href={t.href}
                 aria-current={active ? "page" : undefined}
-                className={`flex flex-col items-center gap-0.5 py-2 text-[11px] font-semibold transition-colors ${
+                className={`flex min-h-[3.25rem] flex-col items-center justify-center gap-1 py-3 text-[11px] font-semibold transition-colors ${
                   active
                     ? "text-[var(--pm-primary-text)]"
                     : "text-[var(--pm-muted)]"
