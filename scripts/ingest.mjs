@@ -40,15 +40,16 @@ import {
   NEWS_FETCH_MAX,
   NEWS_RETENTION_DAYS,
   NEWS_ARCHIVE_MAX,
+  NEWS_EXTRA_FEEDS,
+  googleNewsRssUrl,
+  topSquadPlayerNames,
+  buildPlayerNewsQuery,
   natCode,
   natKo,
 } from "./pipeline-config.mjs";
 
 const DATA_DIR = join(process.cwd(), "data");
 const NEWS_QUERY = process.env.NEWS_QUERY ?? DEFAULT_NEWS_QUERY;
-const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search?q=${encodeURIComponent(
-  NEWS_QUERY,
-)}&hl=pt-BR&gl=BR&ceid=BR:pt-419`;
 const ENABLE_MT = process.env.DISABLE_MT !== "1";
 const FETCH_TIMEOUT_MS = 12000;
 const MAX_BYTES = 2_000_000;
@@ -198,19 +199,14 @@ function mapStatus(state) {
 
 // --- news ingest ------------------------------------------------------------
 
-async function ingestNews() {
-  log("fetching Google News RSS…");
-  const xml = await getText(GOOGLE_NEWS_RSS);
-  const blocks = [...xml.matchAll(/<item>[\s\S]*?<\/item>/gi)].map((m) => m[0]);
-  log(`found ${blocks.length} raw items`);
-
-  // Cache: reuse Korean fields for URLs we've already processed.
-  const prev = readData("news.json");
-  const prevByUrl = new Map((prev?.items || []).map((it) => [it.url, it]));
-
-  const parsed = [];
-  for (let i = 0; i < blocks.length && parsed.length < NEWS_FETCH_MAX; i += 1) {
-    const block = blocks[i];
+/** Parse RSS <item> blocks (Google News OR a generic feed) into news rows. The
+ *  per-item <source> (Google News) wins; otherwise the feed's name is used. */
+export function parseFeedItems(xml, fallbackSource) {
+  const blocks = [...String(xml).matchAll(/<item>[\s\S]*?<\/item>/gi)].map(
+    (m) => m[0],
+  );
+  const out = [];
+  for (const block of blocks) {
     const title = pick(block, ["title"]);
     if (!title) continue;
     const url = safeUrl(pick(block, ["link", "guid"]));
@@ -223,10 +219,93 @@ async function ingestNews() {
     const sourceMatch = block.match(/<source[^>]*>([\s\S]*?)<\/source>/i);
     const source = sourceMatch
       ? decodeEntities(sourceMatch[1])
-      : "news.google.com";
+      : fallbackSource;
     const description = pick(block, ["description"]) ?? "";
-    parsed.push({ title, url, publishedAt, source, description });
+    out.push({ title, url, publishedAt, source, description });
   }
+  return out;
+}
+
+/** Normalize a headline for cross-source dedup (same story, different outlet). */
+function normTitle(t) {
+  return String(t || "")
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9가-힣]+/g, " ")
+    .trim();
+}
+
+/** Dedup merged feed rows by URL then by normalized title, newest first. */
+export function dedupeParsed(items) {
+  const seenUrl = new Set();
+  const seenTitle = new Set();
+  const out = [];
+  const sorted = [...items].sort((a, b) =>
+    String(b.publishedAt).localeCompare(String(a.publishedAt)),
+  );
+  for (const it of sorted) {
+    const u = it.url && it.url !== "#" ? it.url : "";
+    const t = normTitle(it.title);
+    if ((u && seenUrl.has(u)) || (t && seenTitle.has(t))) continue;
+    if (u) seenUrl.add(u);
+    if (t) seenTitle.add(t);
+    out.push(it);
+  }
+  return out;
+}
+
+/** Build the ordered list of news sources: club Google News query + a
+ *  squad-derived player-anchored query + any operator-configured extra feeds. */
+function newsSources(squad) {
+  const sources = [
+    { name: "news.google.com", url: googleNewsRssUrl(NEWS_QUERY) },
+  ];
+  const playerQuery = buildPlayerNewsQuery(topSquadPlayerNames(squad));
+  if (playerQuery) {
+    sources.push({
+      name: "news.google.com",
+      url: googleNewsRssUrl(playerQuery),
+    });
+  }
+  for (const url of NEWS_EXTRA_FEEDS) {
+    let host = url;
+    try {
+      host = new URL(url).hostname;
+    } catch {
+      /* keep raw */
+    }
+    sources.push({ name: host, url });
+  }
+  return sources;
+}
+
+async function ingestNews() {
+  // Cache: reuse Korean fields for URLs we've already processed.
+  const prev = readData("news.json");
+  const prevByUrl = new Map((prev?.items || []).map((it) => [it.url, it]));
+
+  // Multi-source: club query + squad-derived player query (+ any extra feeds).
+  // Each source fails independently (never throws) so one bad feed can't break
+  // the run. Results are merged + de-duplicated across sources.
+  const squad = readData("squad.json");
+  const sources = newsSources(squad);
+  const collected = [];
+  for (const src of sources) {
+    try {
+      const xml = await getText(src.url);
+      const items = parseFeedItems(xml, src.name);
+      collected.push(...items);
+      log(`news source ok (${src.name}): ${items.length} items`);
+    } catch (err) {
+      log(`news source failed (${src.name}): ${err.message}`);
+    }
+  }
+  // Dedup across sources, then cap how many we ENRICH this run (bounds LLM/MT).
+  const parsed = dedupeParsed(collected).slice(0, NEWS_FETCH_MAX);
+  log(
+    `found ${collected.length} raw across ${sources.length} source(s) → ${parsed.length} unique`,
+  );
 
   // Which items are new (need enrichment)?
   const fresh = parsed.filter((p) => !prevByUrl.has(p.url));
