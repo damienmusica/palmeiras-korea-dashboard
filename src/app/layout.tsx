@@ -67,6 +67,10 @@ export const viewport: Viewport = {
   themeColor: "#006437",
   width: "device-width",
   initialScale: 1,
+  // Required for CSS env(safe-area-inset-*) to resolve to non-zero on notched
+  // iPhones — without it the bottom tab bar's safe-area padding is ignored and
+  // the buttons collide with the home indicator.
+  viewportFit: "cover",
 };
 
 export default function RootLayout({
@@ -81,7 +85,7 @@ export default function RootLayout({
           본문으로 건너뛰기
         </a>
         <SiteHeader team={team} />
-        <main id="main" className="mx-auto max-w-5xl px-4 py-6 pb-24 sm:pb-6">
+        <main id="main" className="mx-auto max-w-5xl px-4 py-6 pb-28 sm:pb-6">
           {children}
         </main>
         <SiteFooter team={team} />

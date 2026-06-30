@@ -3,7 +3,7 @@ import type { TeamConfig } from "@/lib/domain/types";
 export function SiteFooter({ team }: { team: TeamConfig }) {
   return (
     <footer className="mt-12 border-t border-black/5 bg-[var(--pm-surface)]">
-      <div className="mx-auto max-w-5xl space-y-3 px-4 py-8 pb-24 text-sm text-[var(--pm-muted)] sm:pb-8">
+      <div className="mx-auto max-w-5xl space-y-3 px-4 py-8 pb-28 text-sm text-[var(--pm-muted)] sm:pb-8">
         <p>
           <strong className="text-[var(--pm-ink)]">
             파우메이라스 코리아 대시보드
