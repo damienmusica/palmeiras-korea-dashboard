@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-30T06:32:30.917Z",
+  "fetchedAt": "2026-06-30T06:57:51.668Z",
   "items": [
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWm5NTU9hdzdtQmZjZW9mejJOMWdWQTBKUmRiUHNLdER2UHc5Q2ZMOEx4Y0Z",
+      "title": "Palmeiras na Copa? Torcedores do clube comemoram classificação do Paraguai - R7 Esportes",
+      "summaryKo": "파우메이라스 팬들, 파라과이 진출에 환호",
+      "excerpt": "Palmeiras na Copa? Torcedores do clube comemoram classificação do Paraguai&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWm5NTU9hdzdtQmZjZW9mejJOMWdWQTBKUmRiUHNLdER2UHc5Q2ZMOEx4Y0ZCVlNjOVdrRFY0emx1VkVIYUlHN295MjM3ZXZGMzVWclhsakk1MDNGTV9ST2ZuY19hRkY4TEZZd28tUHFBZG9scWJnSXNVWHQ4TlprRTktZ3RuNjhVMk9vXzhCazJLUFpyUFVoekVyUkJlVzFuMm5hOFB1M2RDOTE1d1M5X1JzX09fWTdWRG5JNEZxbFB5c2FHRmR5aA?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-06-30T05:34:14.000Z",
+      "whyItMattersKo": "소속팀 선수들이 국가대표팀에서 좋은 성적을 내 팬들의 기대감과 자부심이 높아졌습니다.",
+      "fanTakeKo": "덩달아 기분 좋네, 축하해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUtIemFqMmpDWC03NFB4Q2xyZ0J1ci1qVThYT3hwalAxRG16dGNzbGlQZkZ",
       "title": "Gustavo Gómez celebra classificação histórica do Paraguai: \"Sensação difícil de explicar\" - sportbuzz.com.br",
@@ -14,22 +30,6 @@
       "publishedAt": "2026-06-30T01:22:46.000Z",
       "whyItMattersKo": "파우메이라스 주장이 국가대표팀에서 큰 성과를 이뤄내며 팀의 위상과 자부심을 높였습니다.",
       "fanTakeKo": "주장님 대박, 자랑스럽습니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWm5NTU9hdzdtQmZjZW9mejJOMWdWQTBKUmRiUHNLdER2UHc5Q2ZMOEx4Y0Z",
-      "title": "Palmeiras na Copa? Torcedores do clube comemoram classificação do Paraguai - R7 Esportes",
-      "summaryKo": "파우메이라스 팬들, 파라과이 진출에 환호",
-      "excerpt": "Palmeiras na Copa? Torcedores do clube comemoram classificação do Paraguai&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWm5NTU9hdzdtQmZjZW9mejJOMWdWQTBKUmRiUHNLdER2UHc5Q2ZMOEx4Y0ZCVlNjOVdrRFY0emx1VkVIYUlHN295MjM3ZXZGMzVWclhsakk1MDNGTV9ST2ZuY19hRkY4TEZZd28tUHFBZG9scWJnSXNVWHQ4TlprRTktZ3RuNjhVMk9vXzhCazJLUFpyUFVoekVyUkJlVzFuMm5hOFB1M2RDOTE1d1M5X1JzX09fWTdWRG5JNEZxbFB5c2FHRmR5aA?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-06-30T00:50:00.000Z",
-      "whyItMattersKo": "소속팀 선수들이 국가대표팀에서 좋은 성적을 내 팬들의 기대감과 자부심이 높아졌습니다.",
-      "fanTakeKo": "덩달아 기분 좋네, 축하해!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -510,6 +510,54 @@
       "publishedAt": "2026-06-29T09:37:13.000Z",
       "whyItMattersKo": "유럽 팀의 구애로 핵심 미드필더가 이탈할 경우 팀 중원의 전력 공백이 우려됩니다.",
       "fanTakeKo": "핵심 선수라 놓치기 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-27-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXBRMW9iT2FrOWlSZHRYZ2J5SHhFRXJRZmh0czBsd3EtZUhWcGY5aW05SH",
+      "title": "O fortíssimo desabafo de Gustavo Gómez antes do jogo de sua vida pelo Paraguai - ESPN Brasil",
+      "summaryKo": "구스타보 고메스, 파라과이전 앞두고 솔직 토로",
+      "excerpt": "O fortíssimo desabafo de Gustavo Gómez antes do jogo de sua vida pelo Paraguai&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXBRMW9iT2FrOWlSZHRYZ2J5SHhFRXJRZmh0czBsd3EtZUhWcGY5aW05SHhkRnBZdXBENWMwU3FKRGpYbzgwMWFGbG9CWVpzRDRjSHNCeWpQRTdwRXM0UnZxWFJhdVNPY1FrLUo3czJMQThyZS1Bem83X0hFa0tJRndIQWF5TnJ1SXQyTnZxQ2FMbDNDeUtxdDd4QWx4emd1eERaSHMzZ1g5Q3MySzl5UFVVVmIyX09VYzVMTUFQSHRjamc?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "whyItMattersKo": "팀 주장이 국가대표 중요 경기 전 심경을 밝혀 팀 분위기와 결의를 보여줍니다.",
+      "fanTakeKo": "주장님의 각오가 느껴지네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-28-https://news.google.com/rss/articles/CBMivgFBVV95cUxONDE3NzNTcTdhOUFZTFRwaFBYb01maEJHZWtZd0JEQkRRbGZuWEJiQkd3SF",
+      "title": "'Para o Paraguai, tudo sempre foi mais difícil', diz Gómez antes de decisão - UOL",
+      "summaryKo": "고메스 \"파라과이, 늘 힘든 길 걸어왔다\"",
+      "excerpt": "'Para o Paraguai, tudo sempre foi mais difícil', diz Gómez antes de decisão&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDE3NzNTcTdhOUFZTFRwaFBYb01maEJHZWtZd0JEQkRRbGZuWEJiQkd3SFNNTXRVV1VJMTkxMGtoUER2bnhDRzJObUVuZWd4dkVMQnlBa2JvdElpUVpvTnAtVTFiX3I4N1dOV1RLUlRqM2ZEem1aQnczYkc1akRIVkhDNlBETk9ZM1l4Q2xqcTgyRUVsdE0zeW5qYVNKWlZZQkFwWEZKM2JNY1c4Z1FaVEJpTC1aNnZYWTdfQlB3?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-06-29T02:17:14.000Z",
+      "whyItMattersKo": "결정전을 앞두고 선수가 겪는 어려움을 언급하며 팀의 결속력을 다지는 부분입니다.",
+      "fanTakeKo": "파라과이의 투혼을 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBQWkQxUS1WQlBqSDFxdGZoeDY0d0JyNmFZUjdIQVNnaE9rTUZtelplOT",
+      "title": "Técnico do Paraguai diz por que Maurício, do Palmeiras, é reserva na Copa - UOL",
+      "summaryKo": "파라과이 감독, 마우리시우 벤치 이유 설명",
+      "excerpt": "Técnico do Paraguai diz por que Maurício, do Palmeiras, é reserva na Copa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBQWkQxUS1WQlBqSDFxdGZoeDY0d0JyNmFZUjdIQVNnaE9rTUZtelplOTRUNHBncTZZM2pid3M2ZC1mWnM0R3lFcWtyclcyazBCMk54VkZIeHQ2RWdtTEtJTksxMVhhVjdLcG1waFBMc2s1T0F4ME12Q3lROXVmTDRicDJmcmYwcU9ORDNIYkdLZ2piLXRWVi1Bdm92S3Rkc21JYmJVa0pjdw?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-06-29T01:08:21.000Z",
+      "whyItMattersKo": "소속팀 주전이 국가대표전에서 벤치인 이유를 알면 선수의 컨디션과 역할을 파악하기 좋습니다.",
+      "fanTakeKo": "마우리시우, 기회만 되면 뿅!",
       "tags": [
         "뉴스",
         "AI요약"
