@@ -34,7 +34,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
           className={`pm-chip ${RELIABILITY_TONE[relMeta.tone]}`}
           title={relMeta.descKo}
         >
-          🛈 {relMeta.labelKo}
+          {relMeta.labelKo}
         </span>
         <span className="pm-chip bg-black/5 text-[var(--pm-muted)]">
           원문: {LANG_KO[item.language]}
