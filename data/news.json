@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-06-30T14:22:32.749Z",
+  "fetchedAt": "2026-06-30T16:36:49.154Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWJzLTBGT25fOHF6VjBfQTdyTnZjajB0WXFQVEtVNXY4NjhyOFo5Q0Q4NE5",
+      "title": "Palmeiras vence Mello Dante e é campeão da Liga Paulista de Basquete Sub-11 - SE Palmeiras",
+      "summaryKo": "파우메이라스, 유소년 농구 리그 우승",
+      "excerpt": "Palmeiras vence Mello Dante e é campeão da Liga Paulista de Basquete Sub-11&nbsp;&nbsp;SE Palmeiras",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWJzLTBGT25fOHF6VjBfQTdyTnZjajB0WXFQVEtVNXY4NjhyOFo5Q0Q4NE5ReXhORGdSTDlvNDI4UE9XZE51am5CT21IT0Q5UHlNNmphT3dUN3FUN1dISFdVeGlzWHFNcVhpZzFBNUVYY1ZzSFRicW1fWmx0WDcxdzhUWTh1R3JxTGVyMlBHVk94U2lGdS1TaGpvMDM3M2V0bHhiS1ZIcWwxT3hPRXZva0o2ZlQ?oc=5",
+      "source": "SE Palmeiras",
+      "language": "pt",
+      "publishedAt": "2026-06-30T15:56:43.000Z",
+      "whyItMattersKo": "유소년 부문 우승은 클럽의 저변 확대와 미래 세대 육성에 긍정적인 신호입니다.",
+      "fanTakeKo": "축구뿐만 아니라 농구도 응원해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBiUHZacFlmeXhDeDNRS1Z6UDMzVHZNZklQRXVsUVFFdUZ6RTVHMFFzVkZ",
+      "title": "Gustavo Gómez, do Palmeiras, lidera ranking mundial de minutos - CNN Brasil",
+      "summaryKo": "구스타보 고메스, 세계 최다 출전 시간 1위",
+      "excerpt": "Gustavo Gómez, do Palmeiras, lidera ranking mundial de minutos&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBiUHZacFlmeXhDeDNRS1Z6UDMzVHZNZklQRXVsUVFFdUZ6RTVHMFFzVkZDNkpJS0VGaFE1MFdxR0ZLVm9aTnpPamRnOFd4VXpuWEtmN00zdERZTHhqYUxiUGFTVWo4M0pVd0FpbUhTTmdrSXFiM2VBX2p4MWtpSHRMTVpHekN2dDNXTzJPdmxvUGdUTlBlZVZaVndpSy1QYUJPZ203c2dOYjBfMjAtaUhVSVhsdFdJaTVYdGlB?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-06-30T14:38:35.000Z",
+      "whyItMattersKo": "주장의 맹활약은 팀 수비의 핵심이자 선수단의 정신적 지주임을 보여줍니다.",
+      "fanTakeKo": "우리 주장, 진짜 철인이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRUpkaXRvQ1RVYTU0eUk3LS1MbG8yNFJtM203bTltNHIydFVnRGtEN2Fpa3Z",
       "title": "Gustavo Gómez, do Palmeiras, lidera ranking mundial após classificação do Paraguai - Rádio Itatiaia",
@@ -921,38 +953,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOU",
-      "title": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo - ge",
-      "summaryKo": "파우메이라스, 아벨 페헤이라 감독 휴식 기간 연장",
-      "excerpt": "Palmeiras concede tempo maior de recesso a Abel Ferreira em paralisação para a Copa do Mundo&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjFzYUNFR2hDMGs5aUgyMWwxRFEyNXYwY0lBeDBVa0dYX3FGZGozMUlFOUxkclRUX1JrV1REN2d6Unc4N3hKME5rS0VrTzVyeW96N053TjBLVG5RVkZUeDFJUjdaQTJMVnNxUHlKTEt3bUNUWTVZc0NwdVNuWTU3QlRJTGtlU0t6TVcxdElYTEpHdEhuY201MnhfTXJFNnQxNDVYSEkyU003ejhCVWdXcEVYZ2dQclhET3AyQWJKa1hZYldQc3cyREJ2VUZFNTJkX0EwTDJ5b0pKcFVMUGRBSnNBZE5BU2k5bko5dEFTZGFuVFlp0gGDAkFVX3lxTE5CYm5MWXZPVHNKMWNrYkxlUWV5NmZKejRmbmx0dVZrRG92RGkxX2RwQ3VveTNpU1MyMTlHZUk2TXhpVHRpN0V6aUJUQWNUX3hVQjBaQnlaN043X1V6amtDMi1rNDFaMVRPZ3pMOE9GdURvRGcyZVpzMmdKcUVFcEN1VVRnVEtXSkFVelN5dlQ2ejE5dl9MVVdwT1pFUWdqa0taZUFnV0w0MHAtRFhJeDd6ZlV3bEZUd0F4NVJ0OUxjbzNvT21abXR1N0RLRkxFdnVvQjkzaUtlTkZlUGVFWmNsMEZkOHBuOWZiUWZVdnE5MVFNbWFXZHRrWFEtTVRETHpNSU0?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-06-27T07:01:01.000Z",
-      "whyItMattersKo": "감독의 컨디션 회복이 시즌 재개 후 팀의 성적과 전술 운용에 큰 영향을 줄 수 있습니다.",
-      "fanTakeKo": "감독님 충분히 쉬고 다시 힘차게!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMilAJBVV95cUxONjVCWi1UOUlxQUd4WDdzQUdlRFNvZXRZcG9HRVpaUzM0X3NiaVNEeGxkc3",
-      "title": "Palmeiras vence Cruzeiro, rival pela liderança, e abre vantagem no Brasileirão Sub-20 - CBF",
-      "summaryKo": "파우메이라스 U20, 크루제이루 꺾고 단독 선두",
-      "excerpt": "Palmeiras vence Cruzeiro, rival pela liderança, e abre vantagem no Brasileirão Sub-20&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONjVCWi1UOUlxQUd4WDdzQUdlRFNvZXRZcG9HRVpaUzM0X3NiaVNEeGxkc3ZtWmxnNGlDYkYtNHdjRWhTZUVpTmVSZ01XM0hZaC1DbHlZMjlYVDd2WVZ0MnFURGpqZWdiZHRXTTZFRVRRcndoSXRTSzNqb2R2LXQxYWFzMFFPZldyWGFwcXJCZGQ3RDVfNGRKcjIyV01JcmxNR09OaUVsOFRFMVpqbEhCNW1wY3QyOE05M0tONHB3OC01Zy00bEtWeXNkcEtmNHRHRW5ydlhIYmJGek1PZ1JVcEUtb0doUzU0SjZBTGV4VkxuQWpjZjhIWVV2S1VTNlZTMTZCT3VfczM0V0pNcmhJX2hndV8?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-06-26T19:12:56.000Z",
-      "whyItMattersKo": "라이벌 크루제이루를 제치고 승점 차를 벌려 U20 리그 선두 경쟁에서 유리해졌습니다.",
-      "fanTakeKo": "미래가 기대되는 우리 유소년들!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
