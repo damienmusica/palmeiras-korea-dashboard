@@ -45,7 +45,8 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }} # KO summaries + "why it matters"
           LLM_BASE_URL: https://api.cerebras.ai/v1
           LLM_MODEL: zai-glm-4.7
-          NEWS_QUERY: 'Palmeiras (Verdão OR Brasileirão OR Libertadores OR "Abel Ferreira" OR futebol)'
+          # NEWS_QUERY defaults to DEFAULT_NEWS_QUERY in scripts/pipeline-config.mjs
+          # (single source of truth). Set it here only to override that default.
         run: node scripts/ingest.mjs
 
       - name: Commit updated snapshot

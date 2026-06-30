@@ -11,28 +11,18 @@
 // Shared by scripts/ingest.mjs (CI pipeline) and a one-off local regen.
 // =============================================================================
 
-const ESPN_BASE = "https://site.api.espn.com/apis";
-const PALMEIRAS_ESPN_ID = "2029";
+import {
+  ESPN_BASE,
+  PALMEIRAS_ESPN_ID,
+  LEAGUE_SLUG,
+  NATIONALITY,
+} from "./pipeline-config.mjs";
+
 const TIMEOUT_MS = 12000;
 
-// ESPN citizenship string → [ISO code, Korean]. Used only to FILL gaps, never to
-// override a nationality the squad already has (ESPN occasionally mislabels).
-const CITIZENSHIP = {
-  Brazil: ["BR", "브라질"],
-  Argentina: ["AR", "아르헨티나"],
-  Uruguay: ["UY", "우루과이"],
-  Paraguay: ["PY", "파라과이"],
-  Colombia: ["CO", "콜롬비아"],
-  Chile: ["CL", "칠레"],
-  Venezuela: ["VE", "베네수엘라"],
-  Ecuador: ["EC", "에콰도르"],
-  Peru: ["PE", "페루"],
-  Bolivia: ["BO", "볼리비아"],
-  Portugal: ["PT", "포르투갈"],
-  Spain: ["ES", "스페인"],
-  France: ["FR", "프랑스"],
-  Mexico: ["MX", "멕시코"],
-};
+// Citizenship is filled from the shared NATIONALITY map (pipeline-config.mjs) —
+// used only to FILL gaps, never to override a nationality the squad already has
+// (ESPN occasionally mislabels).
 
 function norm(s) {
   return (s || "")
@@ -86,7 +76,7 @@ export function validateEspnRoster(j) {
 /** Fetch the live ESPN roster + the season it reflects. Throws on failure. */
 export async function fetchEspnRoster() {
   const res = await fetch(
-    `${ESPN_BASE}/site/v2/sports/soccer/bra.1/teams/${PALMEIRAS_ESPN_ID}/roster`,
+    `${ESPN_BASE}/site/v2/sports/soccer/${LEAGUE_SLUG}/teams/${PALMEIRAS_ESPN_ID}/roster`,
     {
       headers: { "User-Agent": "PalmeirasKoreaDashboard/1.0" },
       signal: AbortSignal.timeout(TIMEOUT_MS),
@@ -177,7 +167,7 @@ export function enrichSquadWithEspn(players, athletes, season) {
     }
 
     let { nationality, nationalityKo, birthDate } = p;
-    const cz = a.citizenship && CITIZENSHIP[a.citizenship];
+    const cz = a.citizenship && NATIONALITY[a.citizenship];
     if ((!nationalityKo || nationalityKo === "정보 없음") && cz) {
       nationality = nationality || cz[0];
       nationalityKo = cz[1];

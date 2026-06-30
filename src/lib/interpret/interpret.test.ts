@@ -6,7 +6,7 @@ import {
   RELIABILITY_META,
 } from "./news";
 import { competitionContext, allCompetitionContexts } from "./competitions";
-import { matchInsight, fixtureGapKo } from "./matches";
+import { matchInsight, fixtureGapKo, nextFixtureWaitKo } from "./matches";
 import { playerInsight } from "./players";
 import { PALMEIRAS } from "@/lib/teams/palmeiras";
 import type { Match, NewsItem, Player } from "@/lib/domain/types";
@@ -263,18 +263,52 @@ describe("fixtureGapKo", () => {
       fixtureGapKo("2026-06-01T00:00:00Z", "2026-06-05T00:00:00Z"),
     ).toBeNull();
   });
-  it("flags a notable (A-match-sized) gap", () => {
+  it("flags a notable (A-match-sized) gap with hedged copy", () => {
     const g = fixtureGapKo("2026-06-01T00:00:00Z", "2026-06-22T00:00:00Z");
     expect(g?.days).toBe(21);
-    expect(g?.labelKo).toMatch(/공백|A매치/);
+    expect(g?.labelKo).toContain("21");
+    // Hedged ("…수 있습니다"); never asserts a single verified cause.
+    expect(g?.labelKo).toMatch(/수 있습니다/);
+    expect(g?.labelKo).not.toMatch(/중단됩니다|때문입니다/);
   });
-  it("flags a major (tournament-sized) gap and mentions the World Cup", () => {
+  it("flags a major gap WITHOUT fabricating a definite cause", () => {
     const g = fixtureGapKo("2026-06-01T00:00:00Z", "2026-07-20T00:00:00Z");
     expect(g?.days).toBeGreaterThanOrEqual(35);
-    expect(g?.labelKo).toContain("월드컵");
+    // Must not claim a verified reason (e.g. the old "World Cup break").
+    expect(g?.labelKo).toMatch(/수 있습니다/);
+    expect(g?.labelKo).not.toMatch(
+      /월드컵 등 메이저 국제 대회 기간에는|중단됩니다/,
+    );
+    // Acknowledges the data-completeness possibility (not-yet-scheduled rounds).
+    expect(g?.labelKo).toMatch(/확정되지 않/);
   });
   it("returns null on invalid input", () => {
     expect(fixtureGapKo("nope", "2026-07-20T00:00:00Z")).toBeNull();
+  });
+});
+
+describe("nextFixtureWaitKo", () => {
+  it("counts the wait from TODAY, not from the last result", () => {
+    // The real bug: last match 2026-05-31, next 2026-07-24 — but viewed on
+    // 2026-06-29 the wait is ~25 days, NOT the 53-day finished→next span.
+    const g = nextFixtureWaitKo("2026-06-29T00:00:00Z", "2026-07-24T00:30:00Z");
+    expect(g?.days).toBe(25);
+    expect(g?.labelKo).toContain("25");
+    expect(g?.labelKo).not.toContain("53");
+    // Names the concrete resume date (KST) so "next month" reads unambiguously.
+    expect(g?.labelKo).toContain("7월 24일");
+    // Hedged; never asserts a verified cause.
+    expect(g?.labelKo).toMatch(/수 있습니다/);
+    expect(g?.labelKo).not.toMatch(/중단됩니다|월드컵 등/);
+  });
+  it("shows no banner when the next match is imminent", () => {
+    // Deep into a break: 3 days left → no scary 'long gap' note.
+    expect(
+      nextFixtureWaitKo("2026-07-21T00:00:00Z", "2026-07-24T00:30:00Z"),
+    ).toBeNull();
+  });
+  it("returns null on invalid input", () => {
+    expect(nextFixtureWaitKo("nope", "2026-07-24T00:00:00Z")).toBeNull();
   });
 });
 

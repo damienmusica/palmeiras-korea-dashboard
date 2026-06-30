@@ -25,25 +25,33 @@ import {
 } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { llmEnrichNews, llmEnabled } from "./llm.mjs";
+import { llmEnrichNews, llmEnabled, llmModelLabel } from "./llm.mjs";
 import { fetchEspnRoster, enrichSquadWithEspn } from "./espn-squad.mjs";
+import {
+  PALMEIRAS_API_ID,
+  PALMEIRAS_ESPN_ID,
+  ESPN_BASE,
+  LEAGUE_SLUG,
+  API_FOOTBALL_SEASON,
+  BRASILEIRAO,
+  MATCH_COMPETITIONS,
+  CONTINENTAL_CAMPAIGNS,
+  DEFAULT_NEWS_QUERY,
+  NEWS_FETCH_MAX,
+  NEWS_RETENTION_DAYS,
+  NEWS_ARCHIVE_MAX,
+  natCode,
+  natKo,
+} from "./pipeline-config.mjs";
 
 const DATA_DIR = join(process.cwd(), "data");
-// Bias to the football club (the bare name "Palmeiras" also matches unrelated
-// neighbourhoods/social clubs, which surfaced off-topic/sensitive stories).
-const NEWS_QUERY =
-  process.env.NEWS_QUERY ??
-  'Palmeiras (Verdão OR Brasileirão OR Libertadores OR "Abel Ferreira" OR futebol)';
+const NEWS_QUERY = process.env.NEWS_QUERY ?? DEFAULT_NEWS_QUERY;
 const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search?q=${encodeURIComponent(
   NEWS_QUERY,
 )}&hl=pt-BR&gl=BR&ceid=BR:pt-419`;
-const MAX_ITEMS = 24;
 const ENABLE_MT = process.env.DISABLE_MT !== "1";
 const FETCH_TIMEOUT_MS = 12000;
 const MAX_BYTES = 2_000_000;
-const PALMEIRAS_API_ID = 121; // API-Football
-const PALMEIRAS_ESPN_ID = "2029"; // ESPN
-const ESPN_BASE = "https://site.api.espn.com/apis";
 
 // --- helpers ----------------------------------------------------------------
 
@@ -136,37 +144,14 @@ function readData(file) {
   }
 }
 
-// --- Korean team names (Série A 2026 + common continental opponents) --------
-
-const TEAM_KO = {
-  palmeiras: "파우메이라스",
-  flamengo: "플라멩구",
-  fluminense: "플루미넨시",
-  athleticoparanaense: "아틀레치쿠 파라나엔시",
-  redbullbragantino: "RB 브라간치누",
-  bragantino: "RB 브라간치누",
-  bahia: "바이아",
-  coritiba: "코리치바",
-  saopaulo: "상파울루",
-  atleticomg: "아틀레치쿠 미네이루",
-  "atletico-mg": "아틀레치쿠 미네이루",
-  corinthians: "코린치안스",
-  cruzeiro: "크루제이루",
-  botafogo: "보타포구",
-  vitoria: "비토리아",
-  internacional: "인테르나시오나우",
-  santos: "산투스",
-  gremio: "그레미우",
-  vascodagama: "바스쿠 다 가마",
-  remo: "헤모",
-  mirassol: "미라솔",
-  chapecoense: "샤페코엔시",
-  fortaleza: "포르탈레자",
-  jacuipense: "자쿠이펜시",
-  riverplate: "리베르 플라테",
-  boca: "보카 주니어스",
-  bolivar: "볼리바르",
-};
+// --- Team name normalization ------------------------------------------------
+// Korean team NAMES are intentionally NOT mapped here: the app re-derives every
+// team's Korean name deterministically from the English name via
+// src/lib/i18n/ptKo.ts (koreanTeamName), and overrides whatever the snapshot
+// carries. So the pipeline stores the English name as the nameKo placeholder
+// (exactly as it already does for player names) instead of maintaining a second,
+// drift-prone transliteration map. `normTeam` is still needed to match an
+// event's team to home/away by name.
 
 function normTeam(name) {
   return (name || "")
@@ -175,39 +160,6 @@ function normTeam(name) {
     .toLowerCase()
     .replace(/[^a-z0-9]/g, "");
 }
-
-function teamKo(name) {
-  return TEAM_KO[normTeam(name)] || name;
-}
-
-const BRASILEIRAO = {
-  id: "brasileirao",
-  name: "Campeonato Brasileiro Série A",
-  nameKo: "브라질 세리이 A (전국 리그)",
-  shortName: "Brasileirão",
-  kind: "league",
-};
-const LIBERTADORES = {
-  id: "libertadores",
-  name: "CONMEBOL Libertadores",
-  nameKo: "코파 리베르타도레스 (남미 챔피언스리그)",
-  shortName: "Libertadores",
-  kind: "continental",
-};
-const COPA_DO_BRASIL = {
-  id: "copa-do-brasil",
-  name: "Copa do Brasil",
-  nameKo: "코파 두 브라질 (국내컵)",
-  shortName: "Copa do Brasil",
-  kind: "cup",
-};
-
-// Competitions to pull for Palmeiras (ESPN slug → domain CompetitionRef).
-const MATCH_COMPETITIONS = [
-  { slug: "bra.1", comp: BRASILEIRAO, window: true },
-  { slug: "conmebol.libertadores", comp: LIBERTADORES, window: false },
-  { slug: "bra.copa_do_brazil", comp: COPA_DO_BRASIL, window: false },
-];
 
 // Real club crest from ESPN's CDN (free, used for identification; the UI falls
 // back to a monogram if it ever fails to load).
@@ -233,7 +185,8 @@ function teamRef(espnTeam) {
       crest: crest || "/teams/palmeiras/crest.svg",
     };
   }
-  return { id: String(espnTeam.id), name, nameKo: teamKo(name), crest };
+  // nameKo is a placeholder; the app re-derives it via koreanTeamName(name).
+  return { id: String(espnTeam.id), name, nameKo: name, crest };
 }
 
 function mapStatus(state) {
@@ -256,7 +209,7 @@ async function ingestNews() {
   const prevByUrl = new Map((prev?.items || []).map((it) => [it.url, it]));
 
   const parsed = [];
-  for (let i = 0; i < blocks.length && parsed.length < MAX_ITEMS; i += 1) {
+  for (let i = 0; i < blocks.length && parsed.length < NEWS_FETCH_MAX; i += 1) {
     const block = blocks[i];
     const title = pick(block, ["title"]);
     if (!title) continue;
@@ -338,15 +291,46 @@ async function ingestNews() {
     log("no news items parsed; keeping existing snapshot");
     return;
   }
+
+  // Rolling archive: union this run's parse with the previously-stored items so
+  // articles that have aged out of the RSS window don't simply vanish, then
+  // expire anything past the retention window and cap the total (newest-first).
+  const archived = mergeNewsArchive(items, prev?.items || []);
+
   writeData("news.json", {
     origin: "rss",
     source: llmEnabled()
-      ? "Google News RSS + LLM(GLM-4.7) 요약"
+      ? `Google News RSS + LLM(${llmModelLabel()}) 요약`
       : "news.google.com (Google News RSS)",
     fetchedAt: new Date().toISOString(),
-    items,
+    items: archived,
   });
-  log(`wrote data/news.json (${items.length} items)`);
+  log(
+    `wrote data/news.json (${archived.length} items archived; ${items.length} from this fetch)`,
+  );
+}
+
+/**
+ * Merge a fresh RSS parse with the previously-stored archive into a bounded,
+ * de-duplicated, retention-windowed list (newest first). Pure + `now`-injectable
+ * for tests. Fresh entries win on URL collision (re-enriched/refreshed); previous
+ * entries still inside the retention window are kept so an article doesn't
+ * disappear the moment it falls out of Google News' recent window.
+ */
+export function mergeNewsArchive(fresh, previous, now = Date.now()) {
+  const byUrl = new Map();
+  for (const it of fresh) byUrl.set(it.url, it);
+  for (const old of previous) if (!byUrl.has(old.url)) byUrl.set(old.url, old);
+  const cutoff = now - NEWS_RETENTION_DAYS * 86400000;
+  return [...byUrl.values()]
+    .filter((it) => {
+      const t = new Date(it.publishedAt).getTime();
+      // Keep when within the window; also keep if the date is unparseable (don't
+      // silently drop an item just because its timestamp is malformed).
+      return Number.isFinite(t) ? t >= cutoff : true;
+    })
+    .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)))
+    .slice(0, NEWS_ARCHIVE_MAX);
 }
 
 // --- free MyMemory translation fallback (keyless) ---------------------------
@@ -383,7 +367,9 @@ function stat(entry, names) {
 
 async function ingestStandings() {
   log("fetching current standings from ESPN…");
-  const data = await getJson(`${ESPN_BASE}/v2/sports/soccer/bra.1/standings`);
+  const data = await getJson(
+    `${ESPN_BASE}/v2/sports/soccer/${LEAGUE_SLUG}/standings`,
+  );
   const entries =
     data?.children?.[0]?.standings?.entries || data?.standings?.entries || [];
   if (entries.length === 0) {
@@ -692,7 +678,7 @@ async function ingestMatches() {
     if (summaryCalls >= SUMMARY_CAP) continue; // cap ESPN calls per run
     try {
       const eid = it.id.replace("espn-", "");
-      const slug = slugById[it.id] || "bra.1";
+      const slug = slugById[it.id] || LEAGUE_SLUG;
       const sum = await getJson(
         `${ESPN_BASE}/site/v2/sports/soccer/${slug}/summary?event=${eid}`,
       );
@@ -730,17 +716,7 @@ async function ingestMatches() {
 //   • /standings           → group tables (Libertadores)
 //   • /scoreboard?dates=…  → current round name + the team's tie legs
 // Bounded to a handful of calls per run; the snapshot is cached otherwise.
-
-// Continental/cup competitions to track for Palmeiras (beyond the league).
-const CONTINENTAL_CAMPAIGNS = [
-  {
-    slug: "conmebol.libertadores",
-    comp: LIBERTADORES,
-    hasGroups: true,
-    advanceCount: 2, // top 2 of each group reach the Round of 16
-  },
-  { slug: "bra.copa_do_brazil", comp: COPA_DO_BRASIL, hasGroups: false },
-];
+// (CONTINENTAL_CAMPAIGNS is defined in pipeline-config.mjs.)
 
 // Map an ESPN round name OR per-event slug to a Korean knockout-round label.
 // Returns null for anything not cleanly known (caller shows an honest generic
@@ -1045,27 +1021,8 @@ const POS_GROUP = {
 };
 const POS_KO = { GK: "골키퍼", DF: "수비수", MF: "미드필더", FW: "공격수" };
 
-const NAT = {
-  Brazil: ["BR", "브라질"],
-  Argentina: ["AR", "아르헨티나"],
-  Uruguay: ["UY", "우루과이"],
-  Paraguay: ["PY", "파라과이"],
-  Colombia: ["CO", "콜롬비아"],
-  Chile: ["CL", "칠레"],
-  Venezuela: ["VE", "베네수엘라"],
-  Ecuador: ["EC", "에콰도르"],
-  Peru: ["PE", "페루"],
-  Portugal: ["PT", "포르투갈"],
-  Spain: ["ES", "스페인"],
-  France: ["FR", "프랑스"],
-  Mexico: ["MX", "멕시코"],
-};
-function natCode(n) {
-  return NAT[n]?.[0] || "";
-}
-function natKo(n) {
-  return NAT[n]?.[1] || n || "정보 없음";
-}
+// natCode/natKo + the NATIONALITY map live in pipeline-config.mjs (shared with
+// espn-squad.mjs so the two never drift, e.g. a missing "Bolivia").
 
 function aggStats(detail) {
   const blocks = detail?.statistics || [];
@@ -1085,7 +1042,7 @@ function aggStats(detail) {
     minutes += b.games?.minutes || 0;
   }
   return {
-    season: "2024",
+    season: API_FOOTBALL_SEASON,
     competition: "전체",
     appearances: apps,
     goals,
@@ -1108,7 +1065,9 @@ function baseSourceOf(snap) {
  * appearances/goals/assists instead of API-Football's free-plan 2024 ceiling.
  */
 async function enrichAndWriteSquad(players, coach, baseSource) {
-  let statsSeason = "2024";
+  // Default only used if ESPN enrichment below fails; the live path overwrites
+  // it with ESPN's actual current season.
+  let statsSeason = API_FOOTBALL_SEASON;
   let source = baseSource;
   let outPlayers = players;
   try {
@@ -1202,12 +1161,12 @@ async function ingestSquad() {
     return;
   }
 
-  // Detailed records (nationality, birthdate, height, 2024 stats) — paginated.
+  // Detailed records (nationality, birthdate, height, season stats) — paginated.
   const detail = {};
   try {
     for (let page = 1; page <= 3; page += 1) {
       const pj = await getJson(
-        `https://${host}/players?team=${PALMEIRAS_API_ID}&season=2024&page=${page}`,
+        `https://${host}/players?team=${PALMEIRAS_API_ID}&season=${API_FOOTBALL_SEASON}&page=${page}`,
         H,
       );
       for (const r of pj?.response || []) detail[r.player.id] = r;

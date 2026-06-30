@@ -44,6 +44,14 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
     };
   }, [result.data]);
 
+  // Newest article's publish time — lets the badge separate "확인"(checked) from
+  // "최신"(actual content), so a refresh with no new news can't look brand-new.
+  const latestContentAt = useMemo(() => {
+    let max = "";
+    for (const n of result.data) if (n.publishedAt > max) max = n.publishedAt;
+    return max || undefined;
+  }, [result.data]);
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return result.data.filter((n) => {
@@ -117,6 +125,7 @@ export function NewsView({ initial }: { initial: DataResult<NewsItem[]> }) {
           fetchedAt={result.fetchedAt}
           fellBack={result.fellBack}
           note={result.note}
+          latestContentAt={latestContentAt}
         />
       </div>
 

@@ -56,7 +56,7 @@ GitHub Actions 크론(`.github/workflows/refresh-data.yml`, ~30분)이:
 | 가짜/오귀속 선수 출현(피드 오류) | 증거와 함께 allow/blocklist 갱신 | `teams/palmeiras-roster-overrides.ts` (게이트: `data/squad-integrity.ts`) |
 | 더비 치를 때마다 | H2H 통산 전적 숫자 갱신(출처·기준일 함께) | `teams/palmeiras.ts` `rivals[].h2h` |
 | 감독 교체 | 감독 이름·약력 | `ptKo.ts`, `teams/palmeiras-dossier.ts`(getCoachDossier) |
-| 시즌 전환(연 1회) | 새 시즌 대회 slug/season 문자열, 월드컵 등 일정 공백 설명 | `scripts/ingest.mjs`, `interpret/competitions.ts` |
+| 시즌 전환(연 1회) | 새 시즌 대회 slug·`API_FOOTBALL_SEASON`·대회 ref(파이프라인 단일 출처), 월드컵 등 일정 공백 설명 | `scripts/pipeline-config.mjs`, `interpret/competitions.ts` |
 | 구장·트로피 변동 | 구장명/우승 연혁 | `teams/palmeiras.ts`, `teams/palmeiras-history.ts` |
 
 **검증 루프(코드 변경 시):** `npm run format:check && npm run lint && npm run
