@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-01T17:28:46.306Z",
+  "fetchedAt": "2026-07-01T19:20:21.404Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXhLRzNTZkwzN25lR0FHMGp1V0xrblQxX294bC0yeFJTejkyUDliRHEwczl",
+      "title": "Europeu renomado retorna ao Palmeiras e já está treinando o time - Diario de Pernambuco",
+      "summaryKo": "유럽 출신 유명 감독, 파우메이라스 복귀해 훈련 지휘",
+      "excerpt": "Europeu renomado retorna ao Palmeiras e já está treinando o time&nbsp;&nbsp;Diario de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXhLRzNTZkwzN25lR0FHMGp1V0xrblQxX294bC0yeFJTejkyUDliRHEwczlGbWx6RDdVcDFUcmh1d2UtQlRsVzRpTXM0Yzgyb2g2aTlNZ21yZTRkR1N2bXVFbW9EN1RwUnY2dEpZbm5yRHBZR1FLYTZkWEQ4WGdra1pFVjgtbDNfS1Y5VGVOMXVJOFByS2J1Um9vQjZQLThiaFpua294d1dwdw?oc=5",
+      "source": "Diario de Pernambuco",
+      "language": "pt",
+      "publishedAt": "2026-07-01T17:33:40.000Z",
+      "whyItMattersKo": "감독 복귀로 팀 전술과 분위기를 정비하고 다음 경기 준비를 본격화할 수 있습니다.",
+      "fanTakeKo": "든든한 사령탑이 돌아왔네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnVQSXJZUWhmNjN6NDJSLXN0TDhyZTNBdDItYnBaMmxmeHU2U2JTSjZPN0V",
+      "title": "Palmeiras segue preparação com retornos de Abel, Giay e Marlon Freitas - Jogada 10",
+      "summaryKo": "아벨 감독과 선수들, 파우메이라스 훈련에 복귀",
+      "excerpt": "Palmeiras segue preparação com retornos de Abel, Giay e Marlon Freitas&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnVQSXJZUWhmNjN6NDJSLXN0TDhyZTNBdDItYnBaMmxmeHU2U2JTSjZPN0V0ZmRsNmxMOXVrZ1FOamQyTkFJWmtsVWFFTVc3endnbmo3dEdLajhmVGdqS0R3OF9YcG9VVFpaUzF3YVlHQVZBMi10OGRhNUFXMmNmOURxZGhiaF91Z1RSZUhER0JOLWFPZ2t3WnRB0gGfAUFVX3lxTE5Ec29JbklyUklvLXNtc1A5VXQ2Ym5OU0kyUEN6TWFlalIwbmxyZUlIRE1qanYxTUU3X1k0eXFHaVZDa0ZUTXVDRXd3QktneTJkdmo1ZU1MQ2tBcGtlSjJzNjRNVmdQS28tXzh6dTNvc01BNS1Pek1jU3NxT2hJbzU1MDNSaFJDUTBwMl83TFhBMExfSVFZVHFJeHpSUjRLUQ?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-01T17:23:53.000Z",
+      "whyItMattersKo": "아벨 감독과 주요 선수들이 복귀해 팀 전력 보강과 전술 점검에 큰 도움이 됩니다.",
+      "fanTakeKo": "전력이 풀충전되는 기분이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVjNHTU5aSjVUNndaYTJtZ2xIMHFHX0ctNkM1d3NVZ0kyQ1JQbzJjbDUwdWE",
       "title": "Abel Ferreira, Giay e Marlon Freitas retornam ao Palmeiras; saiba como foi a atividade - O TEMPO",
@@ -929,36 +961,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMivgFBVV95cUxOeENMVnFRb0d4UllMdFV3cGIyQzBjakpiOGJRdlh6czlQbldsYTNzd3BabV",
-      "title": "Com Brasil e Paraguai, Brasileirão já tem 13 jogadores nas oitavas da Copa - ParaibaOnline",
-      "summaryKo": "브라질레이렁 소속 13명, 코파 16강 진출",
-      "excerpt": "Com Brasil e Paraguai, Brasileirão já tem 13 jogadores nas oitavas da Copa&nbsp;&nbsp;ParaibaOnline",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeENMVnFRb0d4UllMdFV3cGIyQzBjakpiOGJRdlh6czlQbldsYTNzd3BabV9kVHJHSWlVckQ2VzBudnBLLVZ3VHlFc0lEX045NWMtUkFlbi1GcFFYcjQ4OUJoLTljcFJxRzFVRzQ4VlhUN1JlZUZNRmg2TXA0VFNQZFdUZ2xfcDRsSWR1RXVqNkhsVjZfSVlFRWpwVkw4WmoxWThtTnNhYWZVTExsbWNEdEdYM01PYmlTaUpEVXlR?oc=5",
-      "source": "ParaibaOnline",
-      "language": "pt",
-      "publishedAt": "2026-06-30T11:01:58.000Z",
-      "whyItMattersKo": "리그 선수들의 국제 대회 활약은 브라질레이렁의 위상과 팀 분위기를 높여줍니다.",
-      "fanTakeKo": "리그 선수들 활약이 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdU9jVnRtcE81UHYzbElFak5HcE5JRk93akZBczBRNkN2M1cyaGVyOW1kY3d",
-      "title": "Após negociar goleiro com time português, Palmeiras pode vender meia por mais de R$ 100 milhões - Diário da Região",
-      "summaryKo": "포르투갈 팀과 골키퍼와 협상한 후, Palmeiras는 1억 달러 이상에 절반을 팔 수 있습니다 - Diário da Região",
-      "excerpt": "Após negociar goleiro com time português, Palmeiras pode vender meia por mais de R$ 100 milhões&nbsp;&nbsp;Diário da Região",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdU9jVnRtcE81UHYzbElFak5HcE5JRk93akZBczBRNkN2M1cyaGVyOW1kY3djNFdLdm40a3k4di1VbUFLaW5vbHZ6TDRvTlplWHNabGUxN3NRNEZUQnFnTXZacU5GRU1QSWM4a1U2WXVGQklwRzRxeWotUXEwUnNRTmM3WmpZSEFoNVVrU0lydU1VSzVsNGVnNHpnNkZpbmROdkNxYklDYVlFOG9laFJ0U2RRUDl3amwtMUxnWk9kMU1fSWdlam5UR3pBWUREd051?oc=5",
-      "source": "Diário da Região",
-      "language": "pt",
-      "publishedAt": "2026-06-30T10:58:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
