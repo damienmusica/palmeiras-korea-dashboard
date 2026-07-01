@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-01T08:58:49.392Z",
+  "fetchedAt": "2026-07-01T12:14:52.233Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlpEbWFMTU92WWdXSXNUSTlBVHo4dnI1eGgxMXhGOUNwdzBOTGM1ZUZadHF",
+      "title": "Felipe Anderson celebra marca importante pelo Palmeiras e projeta sequência - LANCE!",
+      "summaryKo": "펠리페 안데르손, 파우메이라스서 중요한 기록 세워",
+      "excerpt": "Felipe Anderson celebra marca importante pelo Palmeiras e projeta sequência&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlpEbWFMTU92WWdXSXNUSTlBVHo4dnI1eGgxMXhGOUNwdzBOTGM1ZUZadHFnN0pEam1qam1jcTc5TllDTXdNVGljZ29RZGRQQjFHUmZWeTdEUUpPNWo4VlhSbTJhRnpyUG91TGEtTVI4X0dVSkRQb3BsZjJMdUtwNy1jX3h6d2pqZWtzODNtei05VlFQTDFldlozRjJkX3ZvNVVlejJQWTM3QzRLcFc1bll1VWt6Zw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-01T09:45:00.000Z",
+      "whyItMattersKo": "주전 공격수의 기록 달성은 팀 공격력과 선수 컨디션이 최고조라는 긍정적 신호입니다.",
+      "fanTakeKo": "안데르손, 앞으로도 이 모습 부탁해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFg5THNYZER2WHhfYWNKWXBMdmFQc0F1U0xrOUhyOWJYbzdfODZLSm9ZMlB",
+      "title": "Retomada do Brasileirão e estreia do Nubank Parque: veja agenda de jogos do Palmeiras em julho - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 7월 리그 재개와 새 홈구장 데뷔",
+      "excerpt": "Retomada do Brasileirão e estreia do Nubank Parque: veja agenda de jogos do Palmeiras em julho&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFg5THNYZER2WHhfYWNKWXBMdmFQc0F1U0xrOUhyOWJYbzdfODZLSm9ZMlBRWGFXZXZEeTJZSDZxYmkwVlFXRXV0RDJPQzVqa09yWnlzU09KS3o3akxBVHpRbWxmbWtGSXJkemlXYV9tdjl3SnJRQUtxYUlHU2dmd2tvRTVTUFU3TF9vaHRieTNnczFEd2dSZWMteVhmRFFrZEZrUGtpRkRQR29pRVZyOTYzSXZWbVJRR1pPdDZwZTQyb0hzdDJ1bVF1UEVkTWFsUmZmZFZhaFdUUdIB3wFBVV95cUxPcmk1U1ZaZUN5Y1FiOC1vWGp3R19BT05hZEZfWDFZN3JJZjJVenRfbnhwcTNOcjM3cGwwVXlOTnM2UFdvbWRaUi1xTG41YXJaRTRlcUxIOVlPWHZXMjh3b011c092dy1TSDZ5VFhuNUxHcGprSEdsV2lHbXd1V2JRV1NWMnJmVWhtM3VIdUJsd1lFSFdLUFdLbUcxb2NnelJfQi1URDFvZktPbUt2eHg5TUVNcUowbl9RTmtSRTlXNGR6WlZTcURBYktZNkI2RnFzamk5cjFVOXNlcFAyMldj?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-01T09:00:00.000Z",
+      "whyItMattersKo": "리그 재개와 새 홈구장 첫 경기 일정을 통해 팀의 하반기 흐름을 파악할 수 있습니다.",
+      "fanTakeKo": "새 홈구장 첫 경기가 너무 기대돼!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXRSc1dGR1BhWnM3NGFSeHlnRmFTSnBIN0ZvYURUQlp2QjJjMW1ORVdleWR",
+      "title": "Gustavo Gómez, do Palmeiras, é o jogador da Copa do Mundo com mais minutos em campo no ano - ge",
+      "summaryKo": "구스타보 고메스, 월드컵 선수 중 올해 최다 출전",
+      "excerpt": "Gustavo Gómez, do Palmeiras, é o jogador da Copa do Mundo com mais minutos em campo no ano&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXRSc1dGR1BhWnM3NGFSeHlnRmFTSnBIN0ZvYURUQlp2QjJjMW1ORVdleWRFNFVpcWNaWmVidzFGOExOWlptc0JkQ0lwZzFrQVlLb3paUFp1T2RhMUc1Q1dNRS13Rl9BUzZEN3R1QWRJa0d1TWxjTFpnRUtwSmt6RnphbXBpZXByLTd6TnFxT1JXQjVNcU9tMDFEMmc0ZmNlVnczZDhqV1BidzJfVVlHX2xZd2JsTDN6ZHU4YXYzRmtUSk5tMTBqSmJRQUJtZGJsT0ROMDh3Z0I4UGEza0tHcjJXR2wwNFZTckpXWEJFSdIB_gFBVV95cUxPeE8tWGtvWjFnc3FOVGJoYndKZXNtNUduYlE0VGs5Sk9yOWhqdGNYVlc5aGdBTkVnbTFHRFNDTzhXMFRqMTF2OXp2dmtnTHdKdUgzeC1nX2hIeE9KemItUHNQM19vQW9aempLYV93bmtBY2Y0R2VXUGZBcnNrLVVOaFVYemFzWklYUGFSSm1vaFJmaklPdnJzZXozMktnaXlBbEhZZDVQV1hHSXpzZF92aml1eEk4ZmFuOTNLWEhRRFdBSktiRFFHWk1qTk5ER21uOU01OUFndDBuN2pOVktfNENmSDJWdVZKcERQWE9lWEg4V1o2QVEtcmhNNHlPUQ?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-01T07:00:12.000Z",
+      "whyItMattersKo": "주장의 압도적인 출전 시간은 팀 수비의 핵심 역할과 팀을 이끄는 리더십을 보여줍니다.",
+      "fanTakeKo": "우리 주장, 진짜 철인이네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxPODdEX2YxdXJPOVF4UURFd2V1NEN6WHBDSENQSlBWTkRlM1ZvVGZHN3lTcWJ",
       "title": "Gustavo Gómez vai voltar 'valorizado' ao Palmeiras pós-Copa - Futebol Interior",
@@ -110,6 +158,22 @@
       "publishedAt": "2026-06-30T23:23:16.000Z",
       "whyItMattersKo": "감독의 복귀는 시즌 준비와 팀 전술 방향 설정의 중요한 시작점이 됩니다.",
       "fanTakeKo": "아벨 감독, 빨리 보고 싶네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zdlktN2MzekNSM0p0NlZwWVcxeXMtWlpYNkZuTTRYUzd4cUF1MTZQMzVyVTN",
+      "title": "Quando o Abel vai voltar? @dudacabreira fala sobre o final das férias do treinador e revela quando o treinador do Palmeiras deve voltar para assumir sua função no clube. #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "아벨 감독, 휴가 끝나고 언제 복귀할까?",
+      "excerpt": "Quando o Abel vai voltar? @dudacabreira fala sobre o final das férias do treinador e revela quando o treinador do Palmeiras deve voltar para assumir sua função no clube. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zdlktN2MzekNSM0p0NlZwWVcxeXMtWlpYNkZuTTRYUzd4cUF1MTZQMzVyVTNEaWlYZ2o2aEs2bjRFTHhQUllWQlp5QkIzaE8tMmc?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-06-30T23:17:34.000Z",
+      "whyItMattersKo": "감독 복귀 시점은 팀의 전력 복귀와 하반기 시즌을 위한 전술 준비를 의미합니다.",
+      "fanTakeKo": "아벨 감독, 빨리 돌아와 주세요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -890,70 +954,6 @@
       "publishedAt": "2026-06-30T00:22:24.000Z",
       "whyItMattersKo": "국가대표팀의 좋은 성과는 선수들의 자신감을 높여 리그 복귀 후에도 긍정적입니다.",
       "fanTakeKo": "파라과이 승리에 기여했네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiVkFVX3lxTE53bXdld29yTXdJM2ZGVDFyR3dBSXNSYWh1N1NudFlSZ0Y3QzNMTl9uajNiemh",
-      "title": "Palmeoras aguarda o retorno dos eliminados na Copa do Mundo e @dudacabreira fala sobre o processo de adaptação. #palmeiras #palmeirasonline - instagram.com",
-      "summaryKo": "파우메이라스, 월드컵 탈락 선수 복귀 대기",
-      "excerpt": "Palmeoras aguarda o retorno dos eliminados na Copa do Mundo e @dudacabreira fala sobre o processo de adaptação. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53bXdld29yTXdJM2ZGVDFyR3dBSXNSYWh1N1NudFlSZ0Y3QzNMTl9uajNiemhKTl8zTktKbXRiNUVaR0QwcVczYnlZTGswZ0FlUjdSbjZ3?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-06-30T00:03:38.000Z",
-      "whyItMattersKo": "국가대표 선수들이 복귀하면 팀 전력 보강과 전술 점검에 도움이 됩니다.",
-      "fanTakeKo": "선수들 빨리 팀으로 돌아왔으면!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmwxOGFhcVNCNWtNRFQ0aGo1WTdpZ1dqVHZLdk5kdG5qR0dTdEg3MmxmV1l",
-      "title": "Paraguai elimina Alemanha com gols de palmeirenses nos pênaltis e avança - UOL",
-      "summaryKo": "파우메이라스 선수들, 승부차기 골로 독일 격파",
-      "excerpt": "Paraguai elimina Alemanha com gols de palmeirenses nos pênaltis e avança&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmwxOGFhcVNCNWtNRFQ0aGo1WTdpZ1dqVHZLdk5kdG5qR0dTdEg3MmxmV1lMOVJ2emUwelFpUlFwS2lIZmhaVWpOZXF4amxoeW1pd21MOVl1ejFtdjY1ZHhkYjVfenZJRGhPcXh2YVJ4M2w0RFVZNEVtemFQaktTZDBzenBGbWp4akVYQzBpclZaUWpZV2h2Qlk5Z0VRbnFkcVM1a0N2MFE0WUYzMXpXZDQ2VERsaEE0c2c?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-06-29T23:29:29.000Z",
-      "whyItMattersKo": "파우메이라스 선수들이 승부차기에서 팀을 승리로 이끌며 선수단의 멘탈을 자랑했습니다.",
-      "fanTakeKo": "우리 선수들 덕분에 승리다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wQVZxMGRvX3BzQVI3QldjMmRqaGszcW40OXVlQXVGbFFxdy1YZ0VPNHFnem",
-      "title": "🔥 Maurício e Gustavo Gomez acabaram de fazer gol de pênalti no Neuer na Copa do Mundo! #Palmeiras #PalmeirasOnline - instagram.com",
-      "summaryKo": "마우리시우와 고메스, 월드컵서 노이어 상대 PK 성공",
-      "excerpt": "🔥 Maurício e Gustavo Gomez acabaram de fazer gol de pênalti no Neuer na Copa do Mundo! #Palmeiras #PalmeirasOnline&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wQVZxMGRvX3BzQVI3QldjMmRqaGszcW40OXVlQXVGbFFxdy1YZ0VPNHFnemtaOUJGdmpRR09Id0RPMjdrZi02dW1mTENSN3poM3c?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-06-29T23:23:18.000Z",
-      "whyItMattersKo": "국가대표팀에서의 활약은 선수 개인의 기량과 자신감을 보여주는 중요한 지표입니다.",
-      "fanTakeKo": "노이어를 꺾다니 대단해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkNxQUpPYk9ITXhmOFVsNzN2bmNza0RpUlkxT1lFWkZUbjJWbWI0VWtFTFB",
-      "title": "Palmeiras faz treino técnico-tático na Academia de Futebol - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 전술 훈련으로 다져진다",
-      "excerpt": "Palmeiras faz treino técnico-tático na Academia de Futebol&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkNxQUpPYk9ITXhmOFVsNzN2bmNza0RpUlkxT1lFWkZUbjJWbWI0VWtFTFBYdVVTQ1UwMG84Q3dBdklvUWp0b0J6NXloNHVLVDg5WkFnQmE4R0pDSmxsS05XNkxOUnljZkNpZVBoRXl5RUJCOEZwUk5rQnlCZ0VyX0FsRm1hSkRJdWxDOFd5ZS1yNEVjQWhVUGpwQUZLak0xN0VPenRicEVPQk55ckHSAbMBQVVfeXFMTkZJejlZZkZHYVIwdC1SeUt4S2Q3RklscVpjWlZMQldMaFZlQ2FSWm9NUFZnV3pUbUNlVEpwbXlmWHZqV0ZqMUVuLXNtZDlUQTBISXNyaTZxbkxVNWk2QVg0SFFUVUtlSWpubVFTRGNlWlB1cnFwQW51MUZHRnM1bmRwUnlWbmtfZm03bDJ3SXVzTzlmcmd0VDVCRkRUTlN3WEJfVnhVbHgzejBtRzdtY2ZGZGM?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-06-29T23:14:00.000Z",
-      "whyItMattersKo": "전술 훈련은 선수들의 호흡을 맞추고 다음 경기 승리를 위한 준비 과정입니다.",
-      "fanTakeKo": "묵묵히 준비하는 모습이 멋지네요.",
       "tags": [
         "뉴스",
         "AI요약"
