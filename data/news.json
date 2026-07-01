@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-01T21:07:07.410Z",
+  "fetchedAt": "2026-07-01T21:44:28.077Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFFjWlNtbGdldmNEMTBqUVNxSTJtYmRWNTBlVS1mNFBpdXQzN0JEdklPWEx",
+      "title": "Palmeiras goleia em jogo-treino com dois gols de Paulinho - Terra",
+      "summaryKo": "파울리뉴 2골, 파우메이라스 연습전 대승",
+      "excerpt": "Palmeiras goleia em jogo-treino com dois gols de Paulinho&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFFjWlNtbGdldmNEMTBqUVNxSTJtYmRWNTBlVS1mNFBpdXQzN0JEdklPWExkQThRU1Z6elBKUjJhQUM4OFprY0F2dURoTklocUtYbzdnY05EWm1yaGQzMDdxV2txZ3d5dlVkal9WUUpjdUhfWFdXLWNDTnhBS3VDMnpVMXZlS2UzZ2VwZjdNUElwdnZjdkhneVBFelRfcjVaVzhERnBfZVktWS1rdE5qOEZqdHUyQnlZUnF2VFh0ZFhrUHlFaHoxX3hNUnVvd0xlN0wyYjNiNEl0RW5QRndLSw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-01T21:22:00.000Z",
+      "whyItMattersKo": "주전 공격수의 득점감은 연습경기에서도 팀 전체의 사기를 북돋아 중요합니다.",
+      "fanTakeKo": "파울리뉴 득력 폭발이 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWXctVTN2MXh3bEg0MGVPbE5JWUpTdmtQd0cwVFF3aGVpdXc3SGpQbTBlNjk",
+      "title": "Brasileirão Sub-20 A: Conheça os classificados para a segunda fase - CBF",
+      "summaryKo": "브라질레이렁 U20, 2라운드 진출팀 확정",
+      "excerpt": "Brasileirão Sub-20 A: Conheça os classificados para a segunda fase&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWXctVTN2MXh3bEg0MGVPbE5JWUpTdmtQd0cwVFF3aGVpdXc3SGpQbTBlNjk2LWxQTkc5ZXVuVEd1cWY4cVU5MkdNN0RXc0FVSVVHYzhVZEFTaWY0QTFXR1VvbkRoc3lCSXJtRUVYVy1YMDNvTUxXVlJQcm00VDFsVi1BWFR2aENoQTVlclFpbWliTzE5RG5GTWFyWWVyVlFpY1FjRXJrc290bDhIOFdNZUN4OEFXbS1wblVHejJNTG9fZ3ZrOEsxU3BKM1p3eFdsZWVDLWpTMktBMW10NVpZ?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-01T21:18:00.000Z",
+      "whyItMattersKo": "유망주들이 펼치는 성적은 클럽의 미래 전력을 가늠하는 중요한 척도가 됩니다.",
+      "fanTakeKo": "미래 전력이 든든해서 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYTU1cklrUGlCTjNOQURGRUVQOGJoTWpKVGNjNXNJTEpYa2hNSHZDQWVDYzB",
       "title": "Palmeiras perde para o Cuiabá e enfrenta o Corinthians no Brasileiro Sub-20 - Terra",
@@ -14,6 +46,22 @@
       "publishedAt": "2026-07-01T20:37:00.000Z",
       "whyItMattersKo": "청소년팀의 패배 후 최대 라이벌과의 맞대결을 앞두고 팀 분위기 조절이 중요합니다.",
       "fanTakeKo": "청소년팀도 라이벌전은 긴장되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUZabG1NNkRvMHZkdHloZkxkZ1BISmN3WWptUG44STd4NmhfMjlMT3VNX3Z",
+      "title": "Cuiabá fecha Brasileiro Sub-20 com vitória sobre o Palmeiras e permanência na elite - ge",
+      "summaryKo": "파우메이라스, U20 최종전 쿠이아바에 패배",
+      "excerpt": "Cuiabá fecha Brasileiro Sub-20 com vitória sobre o Palmeiras e permanência na elite&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUZabG1NNkRvMHZkdHloZkxkZ1BISmN3WWptUG44STd4NmhfMjlMT3VNX3ZqV1hBMkRZcFdnc2w1elVOR01aTTBKdW15bnF3elJvQVF6WURFb0ZsNmxwOGdaRWRBelpPNzFRc3M4ZlNnT284UGd4cllSb0hnVEVDb1V2bjdvTGNqUzl1bUZ1bzd3bHFkMEs3SmdDWDlZNlo2NjM3QzUybWh5MXNCcVJjME1Da0FVb0NnUTNfbHVJNGxhYTdFekJVY0Y1aG5ZVEdvVWhrV0VUQmo3NWpLd3VnQ1RoTkg1eWo40gH3AUFVX3lxTFBWQzFzbHJUeTZwcEJvSTlBN0RFYmxKendtZjVJdzRuQl9rQk9lM0VOeEpsZzloX2lfSlRGVWp4T1hvNzFMZEgtRFZQaHJWaFEyQjlFa0x4bmVjTkVTbURFWjFocVViTjRIU2t6Vngzb2xBNnlIWEZQUEx4TXdBd05aU1NmbU5Db0o1Yzl4M3VWakpteURScGtnMzZ5bEh2cC1YdktNMkNUUTVUaUZrU2Z5emprb1lhQi1wbmxvaVhtUFBSRFBpaU1aUXBMcW5rTFN0WGhSS3lFSmFkU1JoazE4RUlEbDI3Y0ZnY3pYVldZc3Z3NUdKRms?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-01T20:29:48.000Z",
+      "whyItMattersKo": "최종전 패배로 아쉬움이 남지만, 유망주들의 경험은 다음 시즌을 위해 소중합니다.",
+      "fanTakeKo": "아쉽지만 경험은 쌓았겠죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -89,7 +137,7 @@
       "summaryKo": "파울리뉴 2골로 파우메이라스 연습전 승리",
       "excerpt": "Com dois gols de Paulinho, Palmeiras goleira o Mauaense em jogo-treino na Academia de Futebol&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOckpFSXJLV2FPanIzVThPMUZtTHRkUmNRaXFteG5WRmI3R1A4Tmk0UDc4d3FiZmFGTk5LN09walFzZEk0ZkVEY3JxcGhJWkxpeXluZTFXVzMzaWM2Y25uNFlOMFJKQ1A3bEdWNlA0Zlp1ODI3OWR0SVJFbGs1NnFLQWdLejhUaG5kUnZTWlBOOElwRDRBUXdjZ19oRHJVbFFBQXk2TDR6WjBaaHM4cjBPSF9mTlpST3Nya0REZU9yY1BtVFNabk1SOTBnYTBQaVIzbkl2Um5DaXRubF9NWGRSeFI3Uzc0ZmI3cHFMWUVxVjM1c3ph0gGDAkFVX3lxTFB2aFBRVkg4bC1peW5pQ1VpSG55cHNoT0dqd0M4WFFPNHotSHd2OTQ0VzlCcVJpMmFxSWJfY0dXYVg4MFhkWGNPUDVzdmV0dmt3aXVjcGMySldVZTR3MmVNRkVVNm9CSWV0OVFqWnpERi1zRVJEdlFYaVlJaC0tdWdPLTBOLXhlMGdyeTloSmh1dGRTakhMNjdkbHBNazZSa2p4QjhLczNzY1Q5SjFVbVJ6WHJad1pIR3JHamw4Q25nQ282NFc5RXVYQ1pLQk0tWGZhUzl5ZWlhVEtmWmgxVzRMd0xHdmNUOHFEQVFXZHhBWnFDZGl1aFVWZW5obnFJOE1qVlU?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-01T19:51:29.000Z",
       "whyItMattersKo": "연습전 대승으로 주전들의 득점감과 컨디션 회복이 긍정적으로 확인되었습니다.",
@@ -313,7 +361,7 @@
       "summaryKo": "아벨·가이·말롱 프레이타스, 훈련 복귀",
       "excerpt": "Treino do Palmeiras: Abel Ferreira, Giay e Marlon Freitas voltam&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMV81ZTg5OW1pclROTTJBZ1dzMDNJWHpEeTk5YmJXT0EwTjRHcnRtcGVqUFM4VllVeEhoOWVVZC1yaTZsTjZBWDJzZzVPekFQV3lSd2hNZkJXWXJHa3VHcUhZaWRXbDNIdHRCVmJpZHg5WFFkMmZLOUFJMldHQU1laW1ESkoxc0xYdGJXYjlJUnpya1BIZnhxYXJySC10UnJESWRpd080a09qc2VURHRQUHptcVNnT1A1SXVaM1JnMGU3Q25PMl84QVBYQnbSAdsBQVVfeXFMT2o4b3ZkNlgxZ2lDTU1HdDNCOGJ2d2U0Q3RaNzBPSzJUWjhZM0gycHctNHhST3hfLUh6em83VkVNWHNwNDFJVUlBVkJkMVlLSXRiODRBNWJBaFp1aXJZZ2pvVjB6aDBZLVhaeE5zeFlRUHNOTHoxTlZpMGJ2Zk5CVzNqUFNQSDRvbHNSMjBVaVNDVzNGNGlIMTVIR3hUclpyTmszRXp0RG55MEs4a2lCZVdFYWZ0R0NmVW1IckFrbGFwZmYxUlI3TmpXR25pbXNVRk1TMkszZmhXLUxr?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-01T15:14:45.000Z",
       "whyItMattersKo": "주요 선수와 감독이 동시에 훈련장에 복귀하여 팀 전력 회복과 전술 구축에 유리합니다.",
@@ -409,7 +457,7 @@
       "summaryKo": "구스타보 고메스, 월드컵 선수 중 올해 최다 출전",
       "excerpt": "Gustavo Gómez, do Palmeiras, é o jogador da Copa do Mundo com mais minutos em campo no ano&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXRSc1dGR1BhWnM3NGFSeHlnRmFTSnBIN0ZvYURUQlp2QjJjMW1ORVdleWRFNFVpcWNaWmVidzFGOExOWlptc0JkQ0lwZzFrQVlLb3paUFp1T2RhMUc1Q1dNRS13Rl9BUzZEN3R1QWRJa0d1TWxjTFpnRUtwSmt6RnphbXBpZXByLTd6TnFxT1JXQjVNcU9tMDFEMmc0ZmNlVnczZDhqV1BidzJfVVlHX2xZd2JsTDN6ZHU4YXYzRmtUSk5tMTBqSmJRQUJtZGJsT0ROMDh3Z0I4UGEza0tHcjJXR2wwNFZTckpXWEJFSdIB_gFBVV95cUxPeE8tWGtvWjFnc3FOVGJoYndKZXNtNUduYlE0VGs5Sk9yOWhqdGNYVlc5aGdBTkVnbTFHRFNDTzhXMFRqMTF2OXp2dmtnTHdKdUgzeC1nX2hIeE9KemItUHNQM19vQW9aempLYV93bmtBY2Y0R2VXUGZBcnNrLVVOaFVYemFzWklYUGFSSm1vaFJmaklPdnJzZXozMktnaXlBbEhZZDVQV1hHSXpzZF92aml1eEk4ZmFuOTNLWEhRRFdBSktiRFFHWk1qTk5ER21uOU01OUFndDBuN2pOVktfNENmSDJWdVZKcERQWE9lWEg4V1o2QVEtcmhNNHlPUQ?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-01T07:00:12.000Z",
       "whyItMattersKo": "주장의 압도적인 출전 시간은 팀 수비의 핵심 역할과 팀을 이끄는 리더십을 보여줍니다.",
@@ -910,54 +958,6 @@
       "publishedAt": "2026-06-30T18:27:13.000Z",
       "whyItMattersKo": "클럽의 역사와 전설을 담은 영화를 보며 팬으로서 문화를 즐길 수 있는 기회입니다.",
       "fanTakeKo": "팀 역사 영화라 반가워요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHllamFqZ2dLdDBqUWNiTHZWRWZZYm9tUUlYZVcyLVFTWW9PbUNZeS1sWXZ",
-      "title": "Garantido na liderança, Palmeiras recebe Cuiabá na última rodada do Brasileiro Sub-20 - SE Palmeiras",
-      "summaryKo": "파우메이라스, U-20 선두 확정하고 쿠이아바전",
-      "excerpt": "Garantido na liderança, Palmeiras recebe Cuiabá na última rodada do Brasileiro Sub-20&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHllamFqZ2dLdDBqUWNiTHZWRWZZYm9tUUlYZVcyLVFTWW9PbUNZeS1sWXZXSzF3eXdWb2FsaUhpQ2VMLU95dlZwcDNiMTU1T0lXMUNpam96NHVDaFBOQ3RJZkpER18wNG9ZX25iUkhmYm9OYVJWODFCUzczbEd3WFR2WEFoZlhJcUpZSUdrTjhwSlVkeVhGcEZJa0lhUFJrWlhEZkVKQ2tnZ2dtZUZtdHRGWTZqQ0Vhclg2LUt1QUE?oc=5",
-      "source": "SE Palmeiras",
-      "language": "pt",
-      "publishedAt": "2026-06-30T18:11:14.000Z",
-      "whyItMattersKo": "이미 선두를 확정한 만큼 선수단 관리와 경기력 유지에 집중하는 마지막 경기입니다.",
-      "fanTakeKo": "U-20도 선두라 자랑스럽네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEpwZWlyQVR0aGd2cEUyVUlIQ2lGcmpZdjlhWllFczlhN2FqVm5yV1lPYl",
-      "title": "Atacante da base do Palmeiras vive temporada de destaque com gols e conquistas - Nosso Palestra",
-      "summaryKo": "파우메이라스 유소년 공격수, 골과 우승으로 맹활약",
-      "excerpt": "Atacante da base do Palmeiras vive temporada de destaque com gols e conquistas&nbsp;&nbsp;Nosso Palestra",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEpwZWlyQVR0aGd2cEUyVUlIQ2lGcmpZdjlhWllFczlhN2FqVm5yV1lPYlozX0pxOEpoSEU1dHcwNjBvd1RqQlJYUTVpR0hyOFphcGlRVkN1SjFRbF90cF9iQW9kdDIzMDVPaGRpN2JoLVV6ODZjQzNkNVVaNTlnUGF6Y0NVbVRtRW5zTm5jOWc4azktS3ZJYzZ5aWpoVUdhY0xVVEZJNmc1ak9EdXJhT0JVMl9ONDdaa3V6MkI3V2NVSkROUlhIcHNsRFQzajRZZUE?oc=5",
-      "source": "Nosso Palestra",
-      "language": "pt",
-      "publishedAt": "2026-06-30T18:00:00.000Z",
-      "whyItMattersKo": "유망주의 성장은 팀의 미래 전력 보강과 1군 경쟁력 강화에 긍정적인 신호입니다.",
-      "fanTakeKo": "미래가 기대되는 유망주네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdG0yQ0tPN2xkUFVETkw1RldSZEk0bTI1aHQ2d2E2ekt3eElpVXRfMXpuV0l",
-      "title": "Clube europeu sinaliza com mais de R$ 100 milhões por Mauricio, do Palmeiras; veja os detalhes - ESPN Brasil",
-      "summaryKo": "유럽 구단, 파우메이라스 마우리시오에 거액 제안설",
-      "excerpt": "Clube europeu sinaliza com mais de R$ 100 milhões por Mauricio, do Palmeiras; veja os detalhes&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdG0yQ0tPN2xkUFVETkw1RldSZEk0bTI1aHQ2d2E2ekt3eElpVXRfMXpuV0lTR3NiN0RielRlQnVpT3duUVFlVmpMQnhLWXZScmNuZDVEUFA3QVNhdThSUml4OEhyb20wRnlRQkxYdW5GUl9sT3dSa29tR1FXX29lb2g4ZzJRV1IxV2VDd1hyZTMwT2E4UXBEOGlrc2FjRU9RZ2todDNuZXNwR1BZdjktcERCaGpySDF4NlNMYzlINk42cFQ5RXI0REtCMHdONk9Vb3VOdFd1TU96dw?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-06-30T17:58:00.000Z",
-      "whyItMattersKo": "거액의 이적 제안이 들어오면 팀 전력 공백과 이적료 수익을 놓고 고민이 필요합니다.",
-      "fanTakeKo": "마우리시오는 꼭 지켜야 하는 선수인데...",
       "tags": [
         "뉴스",
         "AI요약"
