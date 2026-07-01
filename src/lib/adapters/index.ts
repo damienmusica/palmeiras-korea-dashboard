@@ -39,6 +39,7 @@ import { attachPhotos } from "@/lib/data/photos";
 import { gateSquad } from "@/lib/data/squad-integrity";
 import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
 import { getDossier, getCoachDossier } from "@/lib/teams/palmeiras-dossier";
+import { displayStadiumName } from "@/lib/teams/stadium-naming";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -170,6 +171,9 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
     if (snapshot && snapshot.data.length > 0) {
       const data = snapshot.data.map((m) => ({
         ...m,
+        // The ESPN feed still emits "Allianz Parque"; the arena is officially
+        // Nubank Parque since 2026-05-04. Deterministic, kickoff-aware rename.
+        stadium: displayStadiumName(m.stadium, m.kickoff),
         home: { ...m.home, nameKo: koreanTeamName(m.home.name) },
         away: { ...m.away, nameKo: koreanTeamName(m.away.name) },
         events: m.events?.map((e) => ({
@@ -185,7 +189,12 @@ export async function getMatches(): Promise<DataResult<Match[]>> {
       }));
       return { ...snapshot, data };
     }
-    return seedResult<Match[]>(SEED_MATCHES);
+    return seedResult<Match[]>(
+      SEED_MATCHES.map((m) => ({
+        ...m,
+        stadium: displayStadiumName(m.stadium, m.kickoff),
+      })),
+    );
   });
 }
 
