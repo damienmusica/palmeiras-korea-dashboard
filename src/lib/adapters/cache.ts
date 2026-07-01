@@ -34,8 +34,9 @@ export function cacheSet<T>(key: string, value: T, now = Date.now()): void {
 }
 
 /**
- * Memoize an async producer by key. On producer error, returns a stale cached
- * value if present (so a transient upstream failure doesn't blank the UI).
+ * Memoize an async producer by key. A producer error propagates to the caller
+ * (adapters catch internally and fall back to the seed) — there is no stale
+ * cache to serve, because expired entries are deleted on read.
  */
 export async function cached<T>(
   key: string,

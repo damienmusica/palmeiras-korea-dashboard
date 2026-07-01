@@ -7,8 +7,12 @@ export function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      // Data is built from typed domain models, not user input.
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      // Escape "<" so a feed-derived string (e.g. an opponent name) containing
+      // "</script>" can never terminate the block early. JSON parsers treat
+      // < identically, so the structured data is unchanged.
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify(data).replace(/</g, "\\u003c"),
+      }}
     />
   );
 }
