@@ -40,6 +40,7 @@ import { gateSquad } from "@/lib/data/squad-integrity";
 import { koreanName, koreanTeamName } from "@/lib/i18n/ptKo";
 import { getDossier, getCoachDossier } from "@/lib/teams/palmeiras-dossier";
 import { displayStadiumName } from "@/lib/teams/stadium-naming";
+import { availabilityOverride } from "@/lib/teams/palmeiras-availability-overrides";
 
 const SEED_SOURCE = "Seed 데이터 (mock)";
 
@@ -113,6 +114,10 @@ export async function getSquad(): Promise<DataResult<Squad>> {
         // dossier is only consulted for cross-verified players.
         const verified = p.confidence !== "unverified";
         const d = verified ? getDossier(p.name) : null;
+        // The ingest has no injury/suspension feed and defaults every player
+        // to "available" — override with the evidence-cited manual list when
+        // a status is actually confirmed (see palmeiras-availability-overrides.ts).
+        const avail = availabilityOverride(p.name);
         // Live API facts win; the curated dossier only fills gaps.
         return {
           ...p,
@@ -125,6 +130,8 @@ export async function getSquad(): Promise<DataResult<Squad>> {
           birthDate: p.birthDate || d?.birthDate,
           heightCm: p.heightCm || d?.heightCm,
           bio: verified ? p.bio || d?.bioKo : undefined,
+          availability: avail?.status ?? p.availability,
+          statusNote: avail?.statusNoteKo ?? p.statusNote,
         };
       });
       const cd = getCoachDossier(snapshot.data.coach.name);
