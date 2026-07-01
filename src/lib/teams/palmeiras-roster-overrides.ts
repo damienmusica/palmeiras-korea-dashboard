@@ -63,6 +63,18 @@ export const ROSTER_ALLOWLIST: RosterAllow[] = [
     evidence:
       "Web-verified: Rafael Barbosa Coutinho, b. 2006-03-24 (Itabuna/BA), Sub-20 captain, leading the youth side in 2026 (21 games). ESPN player id 382963 ('Meio campista do Palmeiras'). Absent from ESPN senior bra.1 roster (which lists #55 = Isaac). Verified 2026-06-28.",
   },
+  // Confirmed 2026 summer signing who can only be FIELDED from 2026-07-20
+  // (post-World Cup window) — the free feeds may add him before he has any
+  // Palmeiras stats, which would otherwise look like a phantom to the gate.
+  // Keyed under every name form the feeds are likely to use.
+  ...["Alexander Barboza", "A. Barboza", "Barboza"].map((name) => ({
+    key: normKey(name),
+    name,
+    reasonKo:
+      "실존 선수 — 2026-05-22 구단이 영입을 공식 발표한 아르헨티나 센터백(2028년 12월까지 계약). 등록 규정상 2026-07-20부터 출전 가능해, 합류 직후에는 파우메이라스 스탯이 없는 상태로 피드에 등재될 수 있습니다.",
+    evidence:
+      "Official club announcement 2026-05-22, widely reported (Metrópoles, CNN Brasil, Terra, Band: ~R$20M from Botafogo in 4 installments, contract to Dec 2028 + 1-yr option, eligible from Jul 20). Alexander Nahuel Barboza Ullúa, b. 1995-03-16, 193cm CB, ex-Botafogo (2024 Libertadores + Brasileirão winner). Verified 2026-07-02.",
+  })),
 ];
 
 const blockByKey = new Map(ROSTER_BLOCKLIST.map((o) => [o.key, o]));

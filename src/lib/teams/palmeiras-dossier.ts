@@ -489,12 +489,61 @@ const DOSSIERS: Record<string, PlayerDossier> = {
     bioKo:
       "바이아주 이타부나에서 태어난 중앙 미드필더로, 파우메이라스 Sub-20의 주장을 맡고 있습니다. 1군 등번호(55번)로 등록돼 있으나 아직 시니어 공식 경기 출전 기록은 없는, 교차검증된 유스 자원입니다.",
   },
+  // Real Sub-20 defender carried on the senior list with a first-team number.
+  // The feed row lacks his nationality — fact gap-fill + honest youth framing
+  // (no fabricated senior record). Verified 2026-07-02: Sofascore (2479177,
+  // Côte d'Ivoire, b. 2007-10-20, 193cm, #44, contract to 2028-10-19, U-20
+  // Brasileirão 13 apps + U-20 Libertadores 3) + playmakerstats 3494250.
+  ziemohamedkone: {
+    nationality: "CI",
+    nationalityKo: "코트디부아르",
+    birthDate: "2007-10-20",
+    heightCm: 193,
+    roleKo: "유스(Sub-20) 센터백",
+    styleKo:
+      "193cm의 큰 체격을 앞세운 왼발 센터백으로, U-20 무대에서 경험을 쌓고 있는 유형입니다.",
+    whyCareKo:
+      "코트디부아르 출신 2007년생 수비 유망주로, 1군 등번호 44번을 달고 있는 미래 자원입니다.",
+    narrativeKo:
+      "아직 1군 공식 출전 기록은 없지만, U-20 브라질레이렁과 U-20 리베르타도레스에서 뛰며 성장 중입니다.",
+    careerKo: "파우메이라스 유스(Sub-20)",
+    contractKo: "2028년 10월까지 계약.",
+  },
+  // Signing announced 2026-05-22 by the club; can only be fielded from the
+  // post-World Cup window (2026-07-20), so the free feeds may list him late —
+  // pre-baked so the dossier is ready the moment the roster picks him up.
+  // Verified 2026-07-02 (multi-source): metropoles/CNN Brasil/Terra/band
+  // (announcement, ~R$20M in 4 installments, contract to Dec 2028 + 1-yr
+  // option, plays from Jul 20), Wikipedia/Transfermarkt (b. 1995-03-16,
+  // Villa Celina/Buenos Aires, 193cm, River Plate youth → Defensa y Justicia
+  // → Independiente → Libertad → Botafogo 2024).
+  alexanderbarboza: {
+    nationality: "AR",
+    nationalityKo: "아르헨티나",
+    birthDate: "1995-03-16",
+    heightCm: 193,
+    roleKo: "센터백 (2026년 여름 영입)",
+    styleKo:
+      "공중볼 장악과 강한 대인 방어가 특징인 193cm 센터백으로, 거친 경합을 마다하지 않는 파이터형입니다.",
+    whyCareKo:
+      "보타포구의 2024년 리베르타도레스·브라질레이렁 동시 우승 멤버였던 아르헨티나 센터백. 2026년 5월 파우메이라스가 영입을 공식 발표했습니다.",
+    narrativeKo:
+      "월드컵 휴식기가 끝나는 7월 20일부터 출전 가능한 뒷선 보강 카드 — 우승 경험을 수비진에 더합니다.",
+    careerKo:
+      "리베르 플라테 유스 → 데펜사 이 후스티시아 → 인데펜디엔테 → 리베르타드(파라과이) → 보타포구(2024) → 파우메이라스(2026)",
+    transfersKo:
+      "2026년 5월 22일 보타포구에서 이적 공식 발표 — 이적료 약 R$ 2,000만(4회 분할). 등록 규정상 2026년 7월 20일부터 출전 가능합니다.",
+    contractKo: "2028년 12월까지 계약 (1년 연장 옵션).",
+  },
 };
 
 // The live API roster sometimes uses an abbreviated first initial (e.g.
 // "G. Gómez") while a dossier may be keyed by the full name. Alias the
 // abbreviated normalized forms so the lookup still hits.
 DOSSIERS.ggomez = DOSSIERS.gustavogomez;
+DOSSIERS.mkone = DOSSIERS.ziemohamedkone; // feed lists him as "M. Kone"
+DOSSIERS.abarboza = DOSSIERS.alexanderbarboza;
+DOSSIERS.barboza = DOSSIERS.alexanderbarboza; // Botafogo-era feeds used "Barboza"
 
 /** Look up a curated dossier by player name (normalized). */
 export function getDossier(name: string): PlayerDossier | null {
