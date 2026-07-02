@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-02T13:17:20.107Z",
+  "fetchedAt": "2026-07-02T15:41:15.977Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0NHY0RpNkxjaHRrb3otTVhNVVB3dFlwTHowUTlvZUNMUXN6YzZ1ZzBWSmN",
+      "title": "Palmeiras perde pontos e agora vai decidir vaga no Campeonato Brasileiro com o Corinthians - Diario de Pernambuco",
+      "summaryKo": "파우메이라스, 코린치안스와 순위 두고 승부",
+      "excerpt": "Palmeiras perde pontos e agora vai decidir vaga no Campeonato Brasileiro com o Corinthians&nbsp;&nbsp;Diario de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0NHY0RpNkxjaHRrb3otTVhNVVB3dFlwTHowUTlvZUNMUXN6YzZ1ZzBWSmNMdmhMeUE2RlhZT3d1MDlqdW5zYlRPWndrX05yNHhLY0lmMUI5NHRia05NekItV1JEbUQwWHZudHhRRHBJM0IydXF2VHlhR0ZPdVp6cHpzMUJHUjFjTjFZclRDTzh2WEZzdnFzeFdNZVo5RVhqN0hwbWQxc1p4TGp3Z2tYMlM1Mm1UWXp5VnFtbFJJSUVPc1REUE5NQjFDQWM?oc=5",
+      "source": "Diario de Pernambuco",
+      "language": "pt",
+      "publishedAt": "2026-07-02T15:30:00.000Z",
+      "whyItMattersKo": "승점을 잃어 다음 시즌 국제 대항전 진출권이 더비 결과에 달렸습니다.",
+      "fanTakeKo": "더비로 갈 수밖에 없네요, 긴장돼요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0psUGI5ZHNNODBkN3RQZTZOVjNyVDhER1MyR1N1cTk1dEpTUm55QUxqSll",
+      "title": "Projeto Comunidade na Academia: Verdão recebe Projeto Meninas em Campo no CT da Base - palmeiras.com.br",
+      "summaryKo": "파우메이라스, 여자 축구 지원 행사 성황리 개최",
+      "excerpt": "Projeto Comunidade na Academia: Verdão recebe Projeto Meninas em Campo no CT da Base&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0psUGI5ZHNNODBkN3RQZTZOVjNyVDhER1MyR1N1cTk1dEpTUm55QUxqSllINGExR1VySVFuXzMzZUtnWlRvZmR6R2tuSXJJZnFrWjZIN3dld0M3al9HTHFRVm1wUTZQV1M1ZG53Q0lNMk83bFZsQnlaRkZWOHFpTWV1QkF0RWVfZXZXN09xUHBRX0JXQmNucUdid051eTZIZGV1eFB2bWZxM1pYRGJhNjJ5Z1ktRHFTWmNaMFpyVQ?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-02T15:23:58.000Z",
+      "whyItMattersKo": "구단이 지역 사회와 소통하며 여자 축구 저변 확대에 앞장서는 모습입니다.",
+      "fanTakeKo": "멋진 행사네요, 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzBwc0U2VVFLU09TWlluMVVOSVY2YWJvaV85SzN4RkxUYlc5bllSLW5fLVl",
+      "title": "Palmeiras define a venda de Maurício para o futebol italiano por R$ 100 milhões, após a Copa do Mundo - Diário do Comércio",
+      "summaryKo": "파우메이라스, 마우리시오 이탈리아 이적 확정",
+      "excerpt": "Palmeiras define a venda de Maurício para o futebol italiano por R$ 100 milhões, após a Copa do Mundo&nbsp;&nbsp;Diário do Comércio",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzBwc0U2VVFLU09TWlluMVVOSVY2YWJvaV85SzN4RkxUYlc5bllSLW5fLVlpanh0OWktZ0t4WWlqdVJqTk50N0N5bUR6N01ueEthNG9qQ3dNWngwZGVxeVlheGsxNnZGZ1kwVjFFMmc4V2luR0l1X3dDZ0ZsbHRKSXlPeDVuNEJoOHBESjdMeHB1S3B2cHkyZE4xOGdpUHU3aTZQMnRKd2lKekFmQnh3SzdmaWhVSUdNTnZMOTNBVG9QOVlETGZFRDFub3EwUXJCbnc?oc=5",
+      "source": "Diário do Comércio",
+      "language": "pt",
+      "publishedAt": "2026-07-02T14:18:42.000Z",
+      "whyItMattersKo": "월드컵 뒤 이탈리아 이적이 확정되어 팀에 막대한 이적료가 들어올 예정입니다.",
+      "fanTakeKo": "아쉽지만 이적료는 기분 좋네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkIzTzR3OHlzS24yclVZV2Q4WUU4TFF1ei1FTnZfMVU4REpVdWEySFk0MG9",
+      "title": "Cuiabá vence o Palmeiras no Brasileirão Sub-20 e garante permanência na elite da categoria para 2027 - Só Notícias",
+      "summaryKo": "파우메이라스 U-20, 쿠이아바에 안타깝게 패배",
+      "excerpt": "Cuiabá vence o Palmeiras no Brasileirão Sub-20 e garante permanência na elite da categoria para 2027&nbsp;&nbsp;Só Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkIzTzR3OHlzS24yclVZV2Q4WUU4TFF1ei1FTnZfMVU4REpVdWEySFk0MG9JRW5jaHdZSmszd1lPUVN1MkpKRnIxN3dNMWI4bHpiNk0yZGtzX2x2WFdTVzBSVEl5WmtnT0VUdW9nZmdQVXVvZ0FwdHFkbl9fc3cwN3VYMXVqdnl2Y185eW1XSktvVWtydWNLS3BzMjhmM2MtVzQ0M0NyTWdtR3ZwRkE5R1dETEdieEtlLUp1WWdXNEhwNHd0VjV5QlpYeEZXSVFleERwbXp6Zw?oc=5",
+      "source": "Só Notícias",
+      "language": "pt",
+      "publishedAt": "2026-07-02T13:51:06.000Z",
+      "whyItMattersKo": "유스팀이 패배하며 상대 팀은 2027년 U-20 최상위 리그 잔류를 확정했습니다.",
+      "fanTakeKo": "유스팀도 이렇게 힘들다니...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1QxdUpsU09UeW95WkVvSDdva19LZTlDam1QV0VhdTRkS3l3blEyTTYxeEZ",
       "title": "Palmeiras perde chance de fazer história no Brasileirão sub-20 com derrota na última rodada - GE",
@@ -475,7 +539,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0hlcThOU3FYOWpuZVBKM1ByMFNpNG41VGRWbGR2M3hCUVRXNzFwTnZhdV9VdGhpNlV5WUs1YlpiTzVFODBmYXcweVlkazZrVGhOcEk5bzVwdzFBV1dPYXd2TmxJaEFZNFJnRjZCd2NoZnc5U0NCOEZRN1dFbGxtR1BxcXhzQUo3RzF3MDJLU0cwaGFoRWFlMHV3ekdBazZhTkhWc3UzeEtKalJrRkViNFFHV0xwV0haU0NIcjdETTVfbklLTFBqbkFVd3FNanNielYtVTVSVVrSAd4BQVVfeXFMTzNRVldBZXczTzNVSVpxaktLSWwzNG44ejR2THIyU2U0N0NFLWlWU1EtNjZnSWVvYzYwUzRWbXQ5LUNBUHdmOERIRkdjd0s2cVpBcDNjN3I3RU9QaGdwZEtmVnpwRTdxTVlnR1Y5OTltMk9XdzZsaXNJM1ZnM2d3emtpV25UX1I1N3UwVXNaRlhFb21hTGl4Ykl6VjhYX1ctczFVemZXV0x1bEZMRG1RZlI1SVVmMlJlNl9pVmVqNXZLYUtmR25QSG52Vk5NYWVIakdqTkRDVEZMQmV5c2Z3?oc=5",
       "source": "Estadão",
       "language": "pt",
-      "publishedAt": "2026-07-01T19:46:00.000Z",
+      "publishedAt": "2026-07-01T19:50:18.000Z",
       "whyItMattersKo": "구단주의 이목이 다른 곳으로 향하지 않았다는 점에서 팬들에게 안도감입니다.",
       "fanTakeKo": "우리 구단주만 쳐다봐 주세요!",
       "tags": [
@@ -894,70 +958,6 @@
       "publishedAt": "2026-07-01T01:44:35.000Z",
       "whyItMattersKo": "주요 공격수의 복귀는 앞으로의 공격 옵션과 득점력에 큰 보탬이 됩니다.",
       "fanTakeKo": "호키 빨리 그라운드 보고 싶어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGtET3diVllvNEVVRWxucHZnS3daNjhkVnFTU1I5UmlVc2d0bTNyT0VHQXp",
-      "title": "👀 A vingança foi feita? A Seleção do Paraguai, com ajuda de Gustavo Gómez e Maurício, atletas do Palmeiras, eliminou a Alemanha na segunda fase da Copa do Mundo. Assim, os atletas do Verdão \"vingaram\" o Alviverde Imponente com a eliminação do ti - facebook.com",
-      "summaryKo": "파우메이라스 선수들, 독일전 복수 성공?",
-      "excerpt": "👀 A vingança foi feita? A Seleção do Paraguai, com ajuda de Gustavo Gómez e Maurício, atletas do Palmeiras, eliminou a Alemanha na segunda fase da Copa do Mundo. Assim, os atletas do Verdão \"vingaram\" o Alviverde Imponente com a eliminação",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGtET3diVllvNEVVRWxucHZnS3daNjhkVnFTU1I5UmlVc2d0bTNyT0VHQXpEc240U2VKZkFILTVIZ3BlbU15SEIyVVZJWi1UTVYwNkg5N2kzYXJmYkRoYjluMGRzSFdqNnhjTGNkN0FqcjZzSXhJd2FwVHR5MmJOMFlCYjlNVE5RVHlZa3gtWDB5UUtOX2ZNbmF0ZEU4WFlUTGpOVnlPVWZYU1hFMU1CRHhkMUc4NmRBby15anFXVk16MDBWZVF1NUtIN3dqZnhvYk9pOXJDOVhiTkd2eVNNeXFGM1d2UnBDZGVfWkFPc2gtM1laN3VDLUFERHU0amtJ?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-07-01T01:25:09.000Z",
-      "whyItMattersKo": "국가대표팀에서의 활약은 선수 개인의 자신감과 팀 분위기를 높여줍니다.",
-      "fanTakeKo": "우리 선수들 국대에서도 대박이네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWTVjLVBSNnRSNUpjN3hYZHRRRmxIM2F6MUZVbk1tRzlDY0lMbXlLSGozbHV",
-      "title": "Felipe Anderson celebra marca no Palmeiras e destaca resiliência: “Tenho muitas coisas para conquistar” - Gazeta Esportiva",
-      "summaryKo": "펠리페 안데르송, 파우메이라스서 더 많은 성과 원해",
-      "excerpt": "Felipe Anderson celebra marca no Palmeiras e destaca resiliência: “Tenho muitas coisas para conquistar”&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWTVjLVBSNnRSNUpjN3hYZHRRRmxIM2F6MUZVbk1tRzlDY0lMbXlLSGozbHVZM3doZnllU1prWTdPRkdpQ01fV0xxRHlRRURwbWtudzNiNkgxNzRyeEJ0bUg5ZG0xeHlNWFdVVzhTTkdyWFBvUFMxVHdQM1dpRThZUmpMRkVsVmhEdm50N0FqeXByc1JBUGw4NDRYc3M1cW4tU1BqS0Z5a3UyS1h1Vkt0Mi1qd1lCQy1sRmppVHVsaldERFFJNmg4ckZSN1BVMFEwSGRMWVpzaTMzUllCakNub2hBONIB6AFBVV95cUxNMWFBdGZZSFQyRHB0Vm5mTDBwcXhnTEJxQ1NDQzhvVDRkeWpXS2FhT0E0Z1ZKbkdhUVh5OWJEWXlTRFFxT2NuLXZBdFVmZTZVX0E5Ukw5RjBpSlBVOTBZdkhYd01rT1pUV3prclhFb244UjFfZWNWekJ0TXFuX0xkUXF4aGNOYm16cWhUY3RVQkQyWmJZZkt6ZmwwU1NweWRQSGQ0VnE0dEhxUXp2Vmhkb3ktV0liZjloajRESkhIc3VlYVAwSV8xRjl2cFRUcGZaOTNYUkJkOFFPWFNVRVh4cVl0TVJ0LWtB?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-01T00:08:00.000Z",
-      "whyItMattersKo": "주축 선수의 높은 의지와 팀 안정화는 시즌 성적에 긍정적인 영향을 줍니다.",
-      "fanTakeKo": "안데르송, 더 많은 활약 기대해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGhnaThHakhXLUI4R2JzQk1XX0lfamxVeVlza05RWkZLZUJkcDJYOEpUby1",
-      "title": "Palmeiras não quer perder atleta e tem negociação encaminhada com destaque da Copa do Mundo - jornalcruzeiro.com.br",
-      "summaryKo": "파우메이라스, 월드컵 주목 선수 영입 추진",
-      "excerpt": "Palmeiras não quer perder atleta e tem negociação encaminhada com destaque da Copa do Mundo&nbsp;&nbsp;jornalcruzeiro.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGhnaThHakhXLUI4R2JzQk1XX0lfamxVeVlza05RWkZLZUJkcDJYOEpUby1ld21ZNENwampDaDJrSEpsR29pQ19LVVhoVnJDMWUzaXByQl84Y2VQN0VhRmo3d09tM3hwYlBNZlFsRnVMVGNOMGVpNVpncFVzcTZHYTJvUURjSHY3ZkFjR2FVZ1JUVHpEMDZSaDJxZE55Q3pRYlp3ZzNnMzU5T25zWlBMRkQ1MklLbFdpVlNnVWx0X1djbS1zX1BqWkdUMF9sS3hvV05J?oc=5",
-      "source": "jornalcruzeiro.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-01T00:00:00.000Z",
-      "whyItMattersKo": "월드컵에서 주목받은 선수 영입은 팀 전력 보강과 팬들의 기대감을 높입니다.",
-      "fanTakeKo": "대박 영입, 꼭 성사되길 바라요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSk5mdl9wOF9iUFNzUzZXaWNXclltSHlNU25leHNlVm9SSGdHMm95emtVTTg",
-      "title": "Palmeiras Online. . Quando o Abel vai voltar? @dudacabreira fala sobre o final das férias do treinador e revela quando o treinador do Palmeiras deve voltar para assumir sua função no clube. - facebook.com",
-      "summaryKo": "아벨 감독, 휴가 끝나고 복귀 일정 공개",
-      "excerpt": "Palmeiras Online. . Quando o Abel vai voltar? @dudacabreira fala sobre o final das férias do treinador e revela quando o treinador do Palmeiras deve voltar para assumir sua função no clube.&nbsp;&nbsp;facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSk5mdl9wOF9iUFNzUzZXaWNXclltSHlNU25leHNlVm9SSGdHMm95emtVTTg3ZHE0X1lUSGpaWFNjVjFoTDhUdVR1dmZzQTRRajJ2NEF0TjI4VjVNYWpyTHBDaENfbGpmRGhqb2EyQ3RzcE5MNXRiNkRWZ1dZY2ZaQlVkNlhxQ3JwbXk4RFdFZDBTQU04SzlkSG91b0JmbHNYZVVoMHJaS1RJallyQWprSXBnenJHUUJtQWFwSHVkbHAwXzJab3NmUkEySTZxRDhQVWxaZ2NES1hoVFNxTTI2MFJfdUc?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-06-30T23:23:16.000Z",
-      "whyItMattersKo": "감독의 복귀는 시즌 준비와 팀 전술 방향 설정의 중요한 시작점이 됩니다.",
-      "fanTakeKo": "아벨 감독, 빨리 보고 싶네요!",
       "tags": [
         "뉴스",
         "AI요약"
