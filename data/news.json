@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-01T22:47:17.885Z",
+  "fetchedAt": "2026-07-02T00:08:49.846Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkl0V0wtYTVBdDk4R090WlVCVTgyMGJWX0V2cFVIOU5OLXV3bm9QNVN3Tmx",
+      "title": "Palmeiras analisa Danilo na Copa e tenta economizar o máximo póssivel - ABCD Jornal",
+      "summaryKo": "파우메이라스, 코파서 다닐로 분석하며 절약 시도",
+      "excerpt": "Palmeiras analisa Danilo na Copa e tenta economizar o máximo póssivel&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkl0V0wtYTVBdDk4R090WlVCVTgyMGJWX0V2cFVIOU5OLXV3bm9QNVN3Tmx1em5ZaW9CTDlEdlNIaUNURGhPMDdnUHFiVVdOR2Z4ZV9tYXhRWGFEQUdKSTVsVHh3R0hJa1ZaUFY5V2NLQl9zcTN4MHFoZGhqUTVJNFhPb2wzQ2VZekpkT1l0NVJkVHpxOFZHTkxHVFhCcmNYOGZPUGcydlRhdzZIT3RfNjlXbVM2VTBfUTBoQUZ6ZVjSAcYBQVVfeXFMTlZMTGswS1ZOamVwNWZBSkFNODJXZThNUUxCdml3NTBnc0YxTjZwb185R1psRzVBNkVEenBOd1F2NDBUeEFqNnpKLVF5MXZ2NkRKYy1iVUc4ZlloZlMxdEtXdUFabGpmV1ZnbFNxc2JBTk5hMURQQXJoVy1zMUFCY1h0MXR6Z3UxRF95RjhqVHRIdVEtUVBmeHR3SnoyVWdzcFY5LW9Ja0N4LUtZU3dJeTQ2aU0yMU5fLTlHTlk5SjhGSzVXQ2x3?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-01T23:34:38.000Z",
+      "whyItMattersKo": "다닐로의 국제무대 활약이 이적료나 협상에 영향을 줘 팀 자금에 중요합니다.",
+      "fanTakeKo": "다닐로 잘 지내길 바라며 팀 자금도 챙기자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijwFBVV95cUxORXZNQllkaXdXZDIzTmxjamx5MG5YTjlNelc4WjhEcWEyU3FiSHBWZE1pX2Q",
+      "title": "Palmeiras massacra rival paulista em jogo-treino - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 연습전서 상파울루 라이벌 대파",
+      "excerpt": "Palmeiras massacra rival paulista em jogo-treino&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXZNQllkaXdXZDIzTmxjamx5MG5YTjlNelc4WjhEcWEyU3FiSHBWZE1pX2QwRElsd203WDJNWldaWHZydmhhY0k2SkhxMXl2RXZNbklCNktpUjg5Rk1jRVpaR1ZaM19MY3JkTG1zVkZxUHBKOWlIWEktaFMxU2dSd0Q3elJEYVdjc2dzSklFUQ?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-01T23:01:05.000Z",
+      "whyItMattersKo": "연습전 압승은 선수들의 득점감과 팀 전체의 사기를 크게 높여줍니다.",
+      "fanTakeKo": "연습전이라도 대승은 정말 기분 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiakFVX3lxTE95RU83U0FrWHNYdjBIc0E1cWNFZkh4WENEa0dtRjRLaVc4SzJna2hTMDREZTZ",
+      "title": "Palmeiras faz 6 a 0 no Mauaense em jogo-treino - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 연습전서 마우아엔세에 6대 0 대승",
+      "excerpt": "Palmeiras faz 6 a 0 no Mauaense em jogo-treino&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95RU83U0FrWHNYdjBIc0E1cWNFZkh4WENEa0dtRjRLaVc4SzJna2hTMDREZTZDYTZTR1hWTVJDcGRrQ0dqMXhDdldpMDZIT1dwaVZrRTM1bWRfVEVoZTIwR3dENWJjYVFpTnc?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-01T22:49:00.000Z",
+      "whyItMattersKo": "대승은 공격 조직력이 잘 맞물리고 있다는 긍정적인 신호입니다.",
+      "fanTakeKo": "6골 폭발! 득력이 장난 아니네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1VBbEJ6Q2tpMzI2ZTBRUGJyYU93VXMzbVM3ZFl5MWU5R3pIbm03bmhwWHd",
       "title": "Maurício, do Palmeiras e da Seleção Paraguaia, entra no radar da Atalanta - CNN Brasil",
@@ -270,6 +318,22 @@
       "publishedAt": "2026-07-01T19:00:00.000Z",
       "whyItMattersKo": "아벨 페헤이라 감독과 핵심 선수들의 복귀는 다음 경기 전력 강화와 팀 분위기에 중요합니다.",
       "fanTakeKo": "다들 건강하게 돌아와서 다행이네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVJ2ZkFScGxmaXVoN1F0ZXI3anFFNFRqNFFEN0Z0ZGZDMzJOVl96NWNvTW",
+      "title": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20 - CBF",
+      "summaryKo": "파우메이라스, 브라질레이렁 여자 U20 2차전",
+      "excerpt": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVJ2ZkFScGxmaXVoN1F0ZXI3anFFNFRqNFFEN0Z0ZGZDMzJOVl96NWNvTWFyTXJHd19YeVNtZkw2c0hXZkwzdUZwZDRGS08xSWtnS3R4TFlKLUJJTG1WNW40TlFOUGRkdDJxNHJDSVF2YVdJRE9IMzY5RTl2dllKaDM5R3pJdzN2RjFzMDMtZktJb1RMaVp5Yi1kNlRfNGVXRTVJV3hvTjJpR1Y3dUhOSjdZdjJpUWhtSUJnUjQ0THFmdGpNZFdMc1dQSnJZdDJrdkJzNmFuOGxscTAwLUpGcGFMWlNDeGNERHFLTTl3?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-01T18:11:44.000Z",
+      "whyItMattersKo": "유소년 여자 리그 경기는 팀의 미래 핵심 선수들을 점검하는 자리입니다.",
+      "fanTakeKo": "미래의 에이스들을 응원합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -894,70 +958,6 @@
       "publishedAt": "2026-06-30T21:09:55.000Z",
       "whyItMattersKo": "주력 선수의 시즌 중 휴식기 소감은 팀 분위기와 컨디션을 보여줍니다.",
       "fanTakeKo": "안데르손의 컨디션 최고가 되길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGI5b0QyUnMxdFlHZ1FuczZISzhtSXBrMldHQTNaUjFhcDFmTHlZV3l4M1",
-      "title": "Maurício entra na mira da MLS e Palmeiras diz que não quer vender - Bolavip Brasil",
-      "summaryKo": "파우메이라스, 마우리시오 MLS 이적 거절",
-      "excerpt": "Maurício entra na mira da MLS e Palmeiras diz que não quer vender&nbsp;&nbsp;Bolavip Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGI5b0QyUnMxdFlHZ1FuczZISzhtSXBrMldHQTNaUjFhcDFmTHlZV3l4M1ZMV053Mk1QTzNibWFKbkEtc2p5ejJYYl9TTGM5TjM0NTVTWFNHeERmck1JZ1JJTzk4dThNTV84LVoxUFp5UC00bFloczBjWTFnaWNsZUVvcHk?oc=5",
-      "source": "Bolavip Brasil",
-      "language": "pt",
-      "publishedAt": "2026-06-30T20:56:54.000Z",
-      "whyItMattersKo": "핵심 선수의 잔류 의사를 밝혀 팀 전력 유지와 팬들에게 안정감을 줍니다.",
-      "fanTakeKo": "마우리시오 잔류 정말 다행이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTBRcmh0ZUZwQ242YkxGc1FacXozRlE4OXM1NUxlMVlkclJxVWhWQ3M5QjV",
-      "title": "Verdão bate Athletico-PR e chega à sexta vitória em seis jogos no Brasileiro Sub-17 - SE Palmeiras",
-      "summaryKo": "파우메이라스 U17, 6전 전승 행진 이어가",
-      "excerpt": "Verdão bate Athletico-PR e chega à sexta vitória em seis jogos no Brasileiro Sub-17&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTBRcmh0ZUZwQ242YkxGc1FacXozRlE4OXM1NUxlMVlkclJxVWhWQ3M5QjV5azR6UW9IeEFKVGpCTEN4SDhNSk1HZW05eTZnREpRZElJbFpiZWFWbmRoRzR1TGtnYWNLdWNRVl9iRWN4cUFlQ05hTHJwd3dpNm5SRFRlRG9RbDVGRW40Vl9mdG9EOGhuSWcyNW9WVUN1X1dTdjAyU3FwZFRrVDI4Zzl3Z3lCNVJialJzZEpaSWhQTQ?oc=5",
-      "source": "SE Palmeiras",
-      "language": "pt",
-      "publishedAt": "2026-06-30T20:53:33.000Z",
-      "whyItMattersKo": "유망주들이 리그에서 완벽한 기세를 보이며 미래의 에이스 가능성을 입증했습니다.",
-      "fanTakeKo": "미래 파우메이라스가 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2hmM0hNX0FiUGFzdXdDY2VuMnVhMl9PWUdYUk9ZMmcwSHVpQVk2VWJ1Wkd",
-      "title": "Palmeiras vence duas vezes na quarta rodada do Paulista de Futebol de Mesa - SE Palmeiras",
-      "summaryKo": "파우메이라스, 테이블 축구 대회 2승 질주",
-      "excerpt": "Palmeiras vence duas vezes na quarta rodada do Paulista de Futebol de Mesa&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2hmM0hNX0FiUGFzdXdDY2VuMnVhMl9PWUdYUk9ZMmcwSHVpQVk2VWJ1WkdRQlhaaXIzNHI5M0l3MnU1eFlKOEZQTTd1YzIyT2FFeDZIbHpxTjdNS1p5YmRXcVFVVHZWaFN1VGNEX240OHZ5TkRCRHZGUGQ0eHp3U3lTR0NoYXQtZHZ1c2RRaGNfRGtmNWpVb3JsWGRmT2pQa2NzUmFDOGNfaDhKb1hfeTZNOA?oc=5",
-      "source": "SE Palmeiras",
-      "language": "pt",
-      "publishedAt": "2026-06-30T20:34:35.000Z",
-      "whyItMattersKo": "팀의 이름을 건 다른 종목 대회에서도 좋은 성과를 내며 팬들에게 즐거움을 줍니다.",
-      "fanTakeKo": "테이블 축구도 이겨야 진짜죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRXZUcWhTVUlBNzFjaUpjT0VxSG9nRlMtbGhKalhrcE1iTnVlcTQzX0ZwS0",
-      "title": "Times da MLS entram na briga com a Atalanta por Mauricio, do Palmeiras - Somos Fanáticos",
-      "summaryKo": "MLS, 파우메이라스 마우리시오 영입전 합류",
-      "excerpt": "Times da MLS entram na briga com a Atalanta por Mauricio, do Palmeiras&nbsp;&nbsp;Somos Fanáticos",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRXZUcWhTVUlBNzFjaUpjT0VxSG9nRlMtbGhKalhrcE1iTnVlcTQzX0ZwS0Jjem5uWkMzWURrNDZyeUF1SW1TRFYwOW05WjlnMl9GREEzNmVKWjlub2t6S00xYnplRmF5NnVod1lRNnR3ZEtaTzNqcFItdUNzNkdwcUFDSGpHRlVLRWpIMkhUUHBWRzBlTlA0VVNuVk9ncUZoSElCY1AzTkd0SGk1Q0dWeWZldnVzMGh0THhkSWVlUWFZY1ZxZFZiS1NlMENiOFlIMThoTTZFcEs?oc=5",
-      "source": "Somos Fanáticos",
-      "language": "pt",
-      "publishedAt": "2026-06-30T19:55:47.000Z",
-      "whyItMattersKo": "유럽과 미국 리그가 동시에 관심을 보여 선수의 이적 가능성과 가치가 커지고 있습니다.",
-      "fanTakeKo": "마우리시오는 꼭 남았으면 좋겠다.",
       "tags": [
         "뉴스",
         "AI요약"
