@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-03T21:08:22.291Z",
+  "fetchedAt": "2026-07-03T22:33:40.153Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT185TXVqRm96MWg2THRZODVxV2JvQ0pNY09lT0pWTDVPMjJvSUpLTjJEWGt",
+      "title": "Palmeiras trabalha em dois períodos e confirma jogo-treino - Terra",
+      "summaryKo": "파우메이라스, 이중 훈련 후 연습전 확정",
+      "excerpt": "Palmeiras trabalha em dois períodos e confirma jogo-treino&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT185TXVqRm96MWg2THRZODVxV2JvQ0pNY09lT0pWTDVPMjJvSUpLTjJEWGtvNWM2aXd2Z2wyQm9YcThOREFMRzBxRmhZeHR6OXBOR0RXZUtpZHZQUE1rZDRMX25oS3BsQjJUaDczNkgwdHpxaHVrbHJwSHVXWHh6U3FuWTd5QTBKWGxDZkhiVTJYSmVoX1Y5S2JZZFlzdkNYUURHU1NQY1JMTjE5VkdjSWtTUGdnRDdNeF8wM3Ytc0ZhLW1hSVFfSk9va1BKWnQ1SkROSExVWm5abzZnRXE3UHJ3?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-03T22:25:00.000Z",
+      "whyItMattersKo": "훈련 강도를 높이고 실전 감각을 점검하기 위한 일정입니다.",
+      "fanTakeKo": "훈련량 늘린 것만 봐도 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi6wFBVV95cUxON0xETF9yZG13Yk5FeTRkaFNXRjRRZUk5T1VJTFA3QmtQcS1nRWVicGdmaFo",
+      "title": "Coritiba x Palmeiras: CBF altera data e horário do duelo pelo Brasileirão - Rádio Itatiaia",
+      "summaryKo": "코리치바전, 브라질레이렁 시간 바뀌네",
+      "excerpt": "Coritiba x Palmeiras: CBF altera data e horário do duelo pelo Brasileirão&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxON0xETF9yZG13Yk5FeTRkaFNXRjRRZUk5T1VJTFA3QmtQcS1nRWVicGdmaFo4aGJsdzRuQWhvcU9DTHBIdl9lWl9DT29mendsS1pqQVc0UU51UlNSSVJNaElZZEVUNEhQeFZ2bVlrRGp3UDRuaVFSQkFMMFM2WWtoWkJrU3B3X3BGSHJHZC1UTmdkMTdEXy05YzkwYkdpNVBZeElwSVlmcFM2NERJUGhrZ1FzYTZaTE5aQmh4WHlscFUxWGdxWkJHQnk4UFhSUnhmanRtMS1sWHFadHYwZVU4MjFIZE1WYVp0aG9j?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-03T22:06:04.000Z",
+      "whyItMattersKo": "경기 일정이 바뀌면서 선수 컨디션 조절과 전략에 변화가 생겼습니다.",
+      "fanTakeKo": "일정 자주 바뀌면 팬도 힘드네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjFpcGVyT1Q3S2ptaWprY3ZrMTNUeFJ0ZWNjZGc4VTZJOWhFaWVTMjVqSS1",
+      "title": "Abel Ferreira ganha desfalque para os próximos jogos do Palmeiras - Terra",
+      "summaryKo": "아벨 페헤이라, 다음 경기 주전 이탈 발생",
+      "excerpt": "Abel Ferreira ganha desfalque para os próximos jogos do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjFpcGVyT1Q3S2ptaWprY3ZrMTNUeFJ0ZWNjZGc4VTZJOWhFaWVTMjVqSS1DNGNrVnVtRlQ2b0ZnRTBFaDJNQUtHVGtoY2htWnVIV3dMZVUxMFZqQU9DdDFlQU1zd094WXc1WmVJYUNrLTIyZkxtRzI0OHJDTGM2Vm1ZdUVPalZWdjBDNlBHM0FmM3J3OW1WMW9Cd05tbmF1aWxvSnVNU1pzR2s3YjhQLWVYejhYbWw1TkhqTDBaZTNBODg5dkdjeVFiekFPSVFIOUVqMW1EcTQtMU1zOTMxMHNSOUtuUjRBMmNV?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-03T21:33:00.000Z",
+      "whyItMattersKo": "주전 선수의 공백은 팀 전력과 전술 운용에 큰 변수로 작용할 수 있습니다.",
+      "fanTakeKo": "주전 빠지는 건 언제나 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3F0Um03NTZVWENGelZtNnlJdzMtdTh2SUw2WlRweTFvalRsZndyU1E3WVB",
+      "title": "Palmeiras trabalha em dois períodos nesta sexta e confirma jogo-treino contra o Primavera - GE",
+      "summaryKo": "파우메이라스, 금요일 프리마베라전 확정",
+      "excerpt": "Palmeiras trabalha em dois períodos nesta sexta e confirma jogo-treino contra o Primavera&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3F0Um03NTZVWENGelZtNnlJdzMtdTh2SUw2WlRweTFvalRsZndyU1E3WVBoaFhpdGxrR0VwS2pKa2UzaEdIV2ppbGQ2SWo3Mnhic3pTX1RnZ2t4Q1FlYlpWc3pYSTJkelpfVmhQVGFQeXI1RkFkY1RBYS0wc0tFc1F4UDNJaG9uM0JmYXJVelY0V1dsaWtLcmpWU3NrMko4SUZJaEFQLVluR1ptMGo4VFBYTTRHTjFuSGZrYllubkpETkRWSzJvaUFjU0VQdW0tWWZMSk9oR1ZSLWtvN05nWmF6b2puYUI3UURPdHRGV0PSAf8BQVVfeXFMTU9KTml4YWxjUzFQZ1E0aHFvMHZVaFpCVkhCaHEtVzhwQVhfY1FtX1hMQlNLaGF1cWd6ejRfSS10YjBiTmZqdWM3eF90SGR3TklKdlJQdUdmX1A0QURpRkhlR1VuRUd5Nk9YeTVzNVJ6S19rajJIZnZDMzRFaDdzMWF4SXVBTWlER3JFYmlDQ25xSmZSdGFhQnRpSnlWYlJlWFNzYUpLenUtQWFXN0NMbk4ya0s2UGQ3OWxLYW0ySzBlc0JNQll1N0lvWEJtLTR2SVkzZDNnM1Rla0lrQVRuRWpibUFCdXhVUlZhVDdjTTdhN2xDZndsR2ZCd3YwMWo4?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T21:31:38.000Z",
+      "whyItMattersKo": "주말 경기를 앞두고 실전 감각을 끌어올리기 위한 연습전입니다.",
+      "fanTakeKo": "실전 감각 미리 끌어올려라 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkQwUTF5cExuOUlMcGNPOWxfVk5URmtFaFEyTkFBNGoxU2lYY1VORkl3MW0",
+      "title": "STJD volta atrás e Abel Ferreira ganha reforço no Palmeiras - Terra",
+      "summaryKo": "징계 번복, 아벨 페헤이라 전력 보강 기대",
+      "excerpt": "STJD volta atrás e Abel Ferreira ganha reforço no Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkQwUTF5cExuOUlMcGNPOWxfVk5URmtFaFEyTkFBNGoxU2lYY1VORkl3MW0wWGVET3BKYXNXWl9zOXhsOF9hMFg5NFRzNjNYTFZfQmt1MTJYU0FUYW5YLWVva2FYZTZ2NVplTEN2R1Jqa3loaGJiakZhVkNHcmpiM1lnR09sR005emJIMk1sbERZS2R5YW0yU0pXVzcxR1o3LWJUVG1HSlZLNkU1bjRTY3pnRExaSTNJTF83X2tTZC1TeWlfM1FGVmxWTnhTVl9lNGNBMWtNSDNEemJRWlVaQzBjYw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-03T21:22:00.000Z",
+      "whyItMattersKo": "선수의 징계가 풀려 아벨 페헤이라 감독이 선수 기용에 더 많은 선택지를 갖게 됐습니다.",
+      "fanTakeKo": "주전 선수 복귀라니 정말 다행이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUVjTnZoZ0s4b01tc3N3MXhreWtWRDI0ZHpuWWU0S1RhLUZEc2h2c1VhNml",
       "title": "Verdão treina em dois períodos antes de segundo jogo-treino da intertemporada - palmeiras.com.br",
@@ -144,20 +224,6 @@
       ]
     },
     {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQ",
-      "title": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge - GE",
-      "summaryKo": "Alexander Barboza는 Palmeiras를 위해 데뷔 할 수 있습니다. Allan은 여전히 정지 상태입니다 | Ge - GE",
-      "excerpt": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQweEwybGZGWTlmWGYwWnhCSk9VNU00UFgxbDlNQWVOY0pRX3RSYV90WkczOFI0ci00amEyVlV4UFk5bjZhY1NBazE4Z05Ob0RLNTFuSzZjb1RjazR0ZjB0bzE0dTZwOGR1M25MTHRoYmQ3ZlRTOENwck9TdGMwY0VzTGprUUdsbEFtUVdFVkh2RjA0WkNTcXd4blF3bkpqWHRKanI4Z2ZtTm5lT1YzWWdGRnd4aVVlcmtTRzQ?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-03T15:25:46.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQ",
       "title": "STJD reduz pena, e Barboza pode estrear pelo Palmeiras; suspensão de Allan é mantida - GE",
       "summaryKo": "바르보자 데뷔 가능, 알란 징계는 유지",
@@ -171,6 +237,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQ",
+      "title": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge - GE",
+      "summaryKo": "Alexander Barboza는 Palmeiras를 위해 데뷔 할 수 있습니다. Allan은 여전히 정지 상태입니다 | Ge - GE",
+      "excerpt": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQweEwybGZGWTlmWGYwWnhCSk9VNU00UFgxbDlNQWVOY0pRX3RSYV90WkczOFI0ci00amEyVlV4UFk5bjZhY1NBazE4Z05Ob0RLNTFuSzZjb1RjazR0ZjB0bzE0dTZwOGR1M25MTHRoYmQ3ZlRTOENwck9TdGMwY0VzTGprUUdsbEFtUVdFVkh2RjA0WkNTcXd4blF3bkpqWHRKanI4Z2ZtTm5lT1YzWWdGRnd4aVVlcmtTRzQ?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T15:25:46.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -216,6 +296,22 @@
       "publishedAt": "2026-07-03T13:16:00.000Z",
       "whyItMattersKo": "주전 미드필더의 이적 제안이 들어왔으니 팀 전력 변화 가능성이 생겼습니다.",
       "fanTakeKo": "다닐로는 절대 팔면 안 돼!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmd0T1dQZVJFT3VPbnZvWHV3TVFJZUpmRGw0NFVJdjd6dXNwclhBZWdrem",
+      "title": "Crise: veja quanto o Fortaleza busca receber com a venda do mando contra o Palmeiras - GE",
+      "summaryKo": "포르탈레자, 파우메이라스전 홈 권리 팝니다",
+      "excerpt": "Crise: veja quanto o Fortaleza busca receber com a venda do mando contra o Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmd0T1dQZVJFT3VPbnZvWHV3TVFJZUpmRGw0NFVJdjd6dXNwclhBZWdremZ0aU5SMThvN0hka3IwRmZ6QUdCc1hNVFIwZ1dZR0k2a2g5OHlIYUxwSGFKaTQwMUlibGx6TloweVZCTlNIY2JQNUNIMVBGTUFkSjVYVnJwMW94V0VMaHBUbG9maDBlbjg1SkZQSHZsYkZYS1BtX01oc2czcmt2WkZ6R3VMVU1NVm9HTW41YzBJcXh6aUozOVRlOGFUM1MtdkxVaWYxRXhNOHUtc09uMXpTZWRUa2F1c21qcFNFTHNPQTNQbnFEUi04bDVIZFR4WTNRelUyZEFz0gGSAkFVX3lxTE1pbnMzWDNFZV85UWgtckF3aFJJMHhWUkU2MTEzN29aRXpSSC15RklGT2huUjBDSm12bEVaMXFSb2VsdkM1UHNTbDNkYnZUM3VnU2pOTUh4Z1psblhzYzNfUHVoMFNRQU5VcENNN1FscWJyaVVJVVlpdzQ0MWVuLUVCVG16OFkxc1o2MkVqa3VEVmotT2tPbjB0bnZZX2ZGSm52Sjl6NmZXVk5xQWRidmFkU2lZZV9nbkZCWWZocmFRQUJya0c4YU5uS3BIU1czWmZiMzNJNG80YzM3QjJiRnBPckstM0YyaW1PT3c0MUN5TDIybE9uVzdIeTVvM0h2dFdrSTZoLXpjaTdZWHY0eEdJeEE?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T12:55:02.000Z",
+      "whyItMattersKo": "상대팀의 재정난으로 홈 경기 권리가 팔려 경기 진행에 변화가 생길 수 있습니다.",
+      "fanTakeKo": "상팀 재정 상황이 많이 힘들가 보네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -854,100 +950,6 @@
       "publishedAt": "2026-07-02T13:02:11.000Z",
       "whyItMattersKo": "클럽의 미래를 책임질 유망주들이 중요한 타이틀을 놓쳐 아쉬움이 남습니다.",
       "fanTakeKo": "아쉽다, 다음엔 꼭 가져오자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJWWXRBZnRoQkF1d2dFSmJ4RU9KNklEdVF0ZnFuNDdfMTBlTlgyMUF3UG",
-      "title": "Palmeiras encaminha contratação de atacante e São Paulo negocia chegada de zagueiro do Porto - jornalcruzeiro.com.br",
-      "summaryKo": "Palmeiras는 스트라이커의 고용을 전달하고 상파울루는 포르투에서 수비수의 도착을 협상 - jornalcruzeiro.com.br",
-      "excerpt": "Palmeiras encaminha contratação de atacante e São Paulo negocia chegada de zagueiro do Porto&nbsp;&nbsp;jornalcruzeiro.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJWWXRBZnRoQkF1d2dFSmJ4RU9KNklEdVF0ZnFuNDdfMTBlTlgyMUF3UGNOcmozNXRzelN0TnNfc3dsR2FDbk9oV3BWbkxCbmtSR29KSzgydXhHMlZFdGF5U0FubFRHUzFRZWxucGk1WmFLdDhIUHdIeE9SWUNIU1I5ZUhNLVp4TWppdVdMOTYtSnF4Vk56WGdTaHM4MTBEOGpTejIwYS05Z3N2NDE2ZUJEWTdZU2xTeHlhNFBkZXR6SHdKU2prcEJDTl9hZGlrTTdzcw?oc=5",
-      "source": "jornalcruzeiro.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-02T12:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFktTm5xRHdHVmNHT2x5aDNXYmRubE42QTkzeWUwbUVKYTFmYVl6MVk4bE5",
-      "title": "Crias de Portugal: conheça o clube inspirado no Palmeiras que revelou jogadores para a seleção lusitana - GE",
-      "summaryKo": "파우메이라스 본뜬 포르투갌 구단의 이야기",
-      "excerpt": "Crias de Portugal: conheça o clube inspirado no Palmeiras que revelou jogadores para a seleção lusitana&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFktTm5xRHdHVmNHT2x5aDNXYmRubE42QTkzeWUwbUVKYTFmYVl6MVk4bE5OVl9henFxZ3U2bjRkSlktLS0zM0E3SlpsNlp0dk9WSkxzMUpJbFB4N2cycDByVjRLdDlORC00QV9kaGdReXpPdHI1OVplMFVjcXJGaE40OXZZVXcyS0EtSW9lTEladUZqQ21NeUd4MTVFRzFMXzZqWjJfS3A4aTBTNW94YkpXRHVDLU02M002WnpydmJWYXl5X0Uzck1ZcEhhX2tKYW1reE9VQmpjWkI3dF9qY3U3NkQtcEdyLXlBRGlib29XNTlIbWRLNi1sWVc5SlXSAY4CQVVfeXFMTk9EcDNKdUU3bUtZNFRYSWR6MkcwY1JTcnpwNC1GN1hWb1dpaFN0cTY3WnlBdVhlWXJfRnUtM2czcy1kVy1kLWtub1hkSXc5eTQxLTBKOTlvS3Jja1lkdi1udHRGRW1ndnZkdl9icVY3bXhVcnUwcFh2cmdhc3V3RUVKdDdhX1FhaE9YVlp5b2NqNENydkVkRXVrZUVfY21wYkV2cnlDcjhUWFJ0MnpOYnVMMENUUzFwQ0lNZEFvcHhlaWpUcUsxTmJMbFo3YjlmM1BxUWVuZGN0bFM3RVpDZ2wxMkZTWnZPTV9TYnNKN25zSUxtbmFDTXhjUy1BazQ3NkxyWWFUZzNSdmt2UGF3?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-02T11:00:19.000Z",
-      "whyItMattersKo": "파우메이라스의 영향력이 해외까지 닿아 유망주를 배출했다는 점이 인상적입니다.",
-      "fanTakeKo": "우리 구단이 해외에서도 인기인가 봐요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1hyNlFhbjg0RW5GeFdKZGVBcVRrd2dVaFpSbEp6Z2F4NjRHRzJubzY1WHR",
-      "title": "Palmeiras: Torcida pede contratação de destaque paraguaio enquanto Maurício recebe proposta milionária - Fato Paulista",
-      "summaryKo": "팬들 파라과이 선수 영입 호소, 마우리시오에 제안",
-      "excerpt": "Palmeiras: Torcida pede contratação de destaque paraguaio enquanto Maurício recebe proposta milionária&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1hyNlFhbjg0RW5GeFdKZGVBcVRrd2dVaFpSbEp6Z2F4NjRHRzJubzY1WHRtQ3RqWkxUNHp5cFBiMUh4V3VRNF9QZi1Sd2ZvdXkwMlU3TzBFNVF3MWpsc0NuV0lNcEMydmNZcXJWWWxkSHhHSG9PQjF4VnJRZkkzQ0N1dw?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-02T09:42:03.000Z",
-      "whyItMattersKo": "새 선수 영입 희망과 주전 이적 제안이 동시에 떠서 팀 전력 변화가 주목됩니다.",
-      "fanTakeKo": "마우리시오는 꼭 잡아야 하는데...",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUR5cXc4Q2UtbF9keWhMV003c1pRc1k3WS1NSjNNTU5BcEozOFY5cm02MU1",
-      "title": "Amistosos, lesionados e mercado: como o Palmeiras se prepara para retorno do Brasileirão - LANCE!",
-      "summaryKo": "친선전과 부상 복귀, 브라질레이렁 복귀 준비",
-      "excerpt": "Amistosos, lesionados e mercado: como o Palmeiras se prepara para retorno do Brasileirão&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUR5cXc4Q2UtbF9keWhMV003c1pRc1k3WS1NSjNNTU5BcEozOFY5cm02MU1EN1hwV09JZVkxR2JxengwaVQ5VTZmWERzcklsS2pDMzR3a1l3NHhaZmFCX3E4OVZRTDZLeHZIam0tYU5xWUJ5ZU02a3c3MU5vZzR0cHFCR0NfbDR6NXFSaHktdE9STnpEaDBram0xaExRVXVmYmRpV19VUHpQSDk4aVdxaEZOcXd2WkhSS0pMVXpZbTVYLU16?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-02T09:15:00.000Z",
-      "whyItMattersKo": "브라질레이렁 재개를 앞두고 선수들의 컨디션과 전력 보강이 성적에 큰 영향을 줍니다.",
-      "fanTakeKo": "리그 레이스 시작이 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdzhiTG1PbmFJVlp2UHdnaHJ2SnVCZGJrTVllX2dZclRhdTVhbkhTNGlxbC1",
-      "title": "Paulinho dá mostras que pode ser protagonista do Palmeiras no segundo semestre - Rádio Itatiaia",
-      "summaryKo": "파울리뉴, 후반기 주역으로 떠오를 기세",
-      "excerpt": "Paulinho dá mostras que pode ser protagonista do Palmeiras no segundo semestre&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdzhiTG1PbmFJVlp2UHdnaHJ2SnVCZGJrTVllX2dZclRhdTVhbkhTNGlxbC16XzhDdkVJS3QxdmFnWDB4aldvLVkxOGFjdFpoM25ubDlVQkRRZ2xYV3Y0RWhfYWsxajBkZTcwT2RHdFFmTFh4d2o2THJnWmVFZllmODlJSW1hYThRbG5Bc180MUhsai1DRVFhNUlaOEhXVVlIQm1taE1XdEoxX0RVWmc0MkVzdHZBUGNDNUxQQ0huTnJKcXZteXNjQzhWQU90eE5xQW0yR20wNVBhNGl5SlJrMnl3TmZSTU5udlVCRTRBdW5jaTBma3d5ZjN3LXI?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-02T08:20:54.000Z",
-      "whyItMattersKo": "기존 선수의 폼이 오르면 팀 공격력이 강화되어 리그 순위 경쟁에 도움이 됩니다.",
-      "fanTakeKo": "파울리뉴 제발 제발 부탁합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZHZqTVo0eFBfSVhhcjl6ZTdGMW1odFMtVmRhWjRLTTZ1Vm5jNzRhTlBwOUR",
-      "title": "Abel Ferreira, Andreas e Flaco: os mais indisciplinados do Palmeiras no primeiro semestre de 2026 - GE",
-      "summaryKo": "아벨 감독과 주전들, 상반기 '규율' 부실 1위",
-      "excerpt": "Abel Ferreira, Andreas e Flaco: os mais indisciplinados do Palmeiras no primeiro semestre de 2026&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZHZqTVo0eFBfSVhhcjl6ZTdGMW1odFMtVmRhWjRLTTZ1Vm5jNzRhTlBwOURGQnpSWGprN2tOR2xJV2VRcGJvWGlxbmJybkY5UGMtZTZxVXdpTmhWdEdmWkNTcTgyeTFnVmZLbjJnX1lST0JkbWp6ZGRvc3hNUGRNdTlqZVU5aUt6aEpma3VRTmstRWFYQjlqN2hMZFlSN1Y5dDIzMlFQSGZIWmVBX3lBLWd5QUZSdjZDelhGcFQ5OUZMTmpZUzN3ak9xMFh0aXBHa2tXWUVPZmItbi1MTi1SeGt5WG9RN09tTVlLM0pCeDl6UXZmbFpxUtIBhwJBVV95cUxOSGc1cDQ5Zm5wN3JGbDhwZ1YybTdNdGM4LVVLa19Dd2Z2TDNjOUhRT1E4SlRoQ2liUlNQTldOX3c2OVpyNFVtLXpJbF9uYVRURzBJd1lSS3NMbW5ieUZKRU03eDYtVkl6WTJxZVh1M0JWZGV2dUZicVpCLVF4UVByWFowaVo1RkNaM2hIbjFOUEl0ZFdzdUtsbU42MW5CMXpNajVwaHpqejNPd1QxTHJmNXhBYmxiMmwwakZ3cWJYYldNdW04bXVuMTVYOFJEZW5vdUl4Qk45YlZQVnN0N0hTRUsteGh6TzFBbUxUbTdLc21ZcDEyY0VmUkJsYTJ2OU1fYnI3bEY1Zw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-02T07:01:19.000Z",
-      "whyItMattersKo": "감독과 주전들의 잦은 카드는 중요한 경기에서 결장을 유발해 팀 전력에 큰 타격을 줍니다.",
-      "fanTakeKo": "감독부터 카드 많이 받으면 큰일인데...",
       "tags": [
         "뉴스",
         "AI요약"
