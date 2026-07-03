@@ -1,19 +1,83 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-03T10:06:02.497Z",
+  "fetchedAt": "2026-07-03T12:26:26.868Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRktIU3JCS0ZENGQzRmoydkJkLUtLRkM5NkJrY1FoQUxiUzVzZTlmNXRaSlF",
+      "title": "Bahia fecha 2025 com 3° maior patrimônio líquido do futebol brasileiro e supera Palmeiras e Cruzeiro - Jornal Correio",
+      "summaryKo": "바이아, 파우메이라스 앞서 순자산 3위 기록",
+      "excerpt": "Bahia fecha 2025 com 3° maior patrimônio líquido do futebol brasileiro e supera Palmeiras e Cruzeiro&nbsp;&nbsp;Jornal Correio",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRktIU3JCS0ZENGQzRmoydkJkLUtLRkM5NkJrY1FoQUxiUzVzZTlmNXRaSlFVVzFLS2RpbzM3RE95YTZycE5sbzNydTIzaFd4bVotZGtKak9mR0gxc3d4a3lBcVp0eE1PNXY4UjdyTzhodXpyOE1UaG9zOWN1QmdCckFuazQxR0pRaGl2Z2luNmlMTWNRZDVzXy1xZFRpRS1IQU8wbmFJbUtnbzFNUHRzZjRPNk96VlR6eGRTTzRNN1hRR3RVbHZ0NGhPRWZ6RDN4M2oxOGxOZXlDRDdPcTg4NA?oc=5",
+      "source": "Jornal Correio",
+      "language": "pt",
+      "publishedAt": "2026-07-03T12:15:01.000Z",
+      "whyItMattersKo": "클럽의 재정 안정성을 보여주는 지표에서 라이벌 팀을 앞서는 성과를 거두었습니다.",
+      "fanTakeKo": "재정 순위 밀리니 좀 씁쓸하네.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbTh4NWsxTm1GM2FXLUtGZjlzc0t3aENWVGRkSFA3UHo2SDJEV2lhZkk3M1B",
+      "title": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, Botafogo - Rádio Itatiaia",
+      "summaryKo": "단일루, 파우메이라스 거절하고 보타포구 잔류?",
+      "excerpt": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, Botafogo&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbTh4NWsxTm1GM2FXLUtGZjlzc0t3aENWVGRkSFA3UHo2SDJEV2lhZkk3M1BINXJPZGQ0N0FfYXFpQzBYU3VtbHU1WUlKb0dNcENHRGhoeGVod3l2c3hnenNwU01CbmgwckE1Mjl4a1hndkJSVnVfbV9qYTlRWENLQzl5TDdPX2ZFeURPdHhuSkdqeURvSjg3VmJDZ1B5ZTNPbmVKOFlkMEVIZFVjQ0FSN0ZrU0xMYUlKZ0tRX1BlWGNDd0FQYUhuQXBIQ1dTbnBtRTVBX29DZkl0djdYX0F6SzlCd2JMdElHZzBoN2oyNEloLW1GVjIw?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-03T10:11:00.000Z",
+      "whyItMattersKo": "영입하려는 선수의 구단주가 이적을 거절해 팀 전력 보강 계획에 차질이 생겼습니다.",
+      "fanTakeKo": "꼭 데려오고 싶었는데 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2pOZDhBakVqUElueGp0VlV2ejhUNHVTeGJ0SWtZN3ljZnVIdEVQZDAzdDV",
+      "title": "Giay, do Palmeiras, valoriza experiência com a Argentina e elogia Flaco - LANCE!",
+      "summaryKo": "파우메이라스 기아이, 아르헨티나 경험 강조",
+      "excerpt": "Giay, do Palmeiras, valoriza experiência com a Argentina e elogia Flaco&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2pOZDhBakVqUElueGp0VlV2ejhUNHVTeGJ0SWtZN3ljZnVIdEVQZDAzdDVBN2gxR0dHYkphTDJ6N2U2TTJ0czJoSDEzM1l3UmJHc2F3SmtmUHpoUEJCLUlnN0NhbXhXcTU2V2FURVR5cmUwZUxZQ1dtdHRoRENkYkFuel82Uk4tTllOdWVJQ2Zma0NzTEk0RENJbkRnNTEwMUNiU2J3cVFLYW1nTkJBSy1xVDhmZw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-03T09:30:00.000Z",
+      "whyItMattersKo": "주요 선수가 국가대표팀 경험을 통해 얻은 자신감을 팀에 불어넣어 긍정적입니다.",
+      "fanTakeKo": "기아이의 경험, 우리 팀에 큰 도움이 되길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaFNVTVhRWXRwbi0xaFFMb18zRVpvVHk2dVBaN1psRm81a3hlS3A3QVFkdUt",
       "title": "Crias da Academia: quem pode ganhar espaço no Palmeiras no segundo semestre - ge",
       "summaryKo": "파우메이라스, 2학기 유망주 기회 엿봐",
       "excerpt": "Crias da Academia: quem pode ganhar espaço no Palmeiras no segundo semestre&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaFNVTVhRWXRwbi0xaFFMb18zRVpvVHk2dVBaN1psRm81a3hlS3A3QVFkdUtqeGhONS12NHRoSVJUVUxMVVFuZ3VfTTA2U2pSdmcyUWFaaUszS2dTU1U5eEU2WUJwVlItaXNyYWxLZmJ0QkFZc09xWEJmdFVhQUVjVERZZlJCTDlIekNGcXQxdGJ5TWQwMDNkeDVxSVpkQ2FaWjRZeUtpak92ZDAwajFwTGtpN3VIRnUwbG5NUHZIVFNFYVk4WVVfaXFnajhfbUZVWUlfMmxSOG5iOWlG0gHrAUFVX3lxTFBzd1RlSlJfcGNBclBncGMwc1JyZlBTRG9xVnhndmlkTm1CcEs4WHpvelhHR1k2N1AxLXpxVGcwWGZNeDNyWXV6djRrX1ZYaGRHaTlrOTVDUHNxYnlmOFFzTi1CZXZ2cWZpVkplU1NBZ2JZWGFacU9QRGM1Y3FJc3hvZDNpZGY3NlFqam5LWlpqYWxEczFlYm5SQ1ZXYWswR2ZpelpIYldWQjAwR28zV2M4Nm95TnJIZTRjTU1LcDgzaUc2MUplVW1IOWJ2Wk05MU1NbWJiNWRhQzBrT0VEMnphN2NWVGc1X2pFWEE?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-03T07:01:18.000Z",
       "whyItMattersKo": "시즌 후반전을 대비해 유망주들이 1군 기회를 잡으면 전력 보강이 됩니다.",
       "fanTakeKo": "우리 팀 유망주 기대되네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOER",
+      "title": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil - GE",
+      "summaryKo": "포르탈레자, 파우메이라스전 홀드 판매 논의",
+      "excerpt": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOERxWi1uX3cxdlFpcE5MN3ZLX2dUVl9sOVpDQ1hFa2s0UEpWNmlVM1pSZEtUajV1aVFCVUN2a0hIZVplQXJRdGQ5MEdUN2pGc1B2QVl6ZDI5eFFISjBHRzMxYjE3VmRwRElpZU9xaEVnZjdnZXN6UVdVYmtwbE53cHFURGNweWRyQ3FTbW9CTHNkSjNWSWdyblJYSkdQV3pTZUp6LUYzSHRoeU81amg4RlFqLUxrTURFYVZSd9IB9AFBVV95cUxNaUFpY2FUbzhfbWo0R2k3UkdfaU9COS04bTkyVTU1ZmdNVnU1bDFoUDd2V0lMRkUyWXVHSlVwQkF0VklCMVZvQm5ubkRIY01COXQzUTlJSm9uOWd0cjc2Q3l0dDN0X1U2X3NzdWl3SzhsbmVfM2lNX0RIT0o4a1pLV28ycFFzekV4dVl3cXNOMUYyX3A4LTdsbW1vOXVuOUFGdlJKVVpHdENOTzJvWTJqa2dtWENtWkdYY2VoOHdFa3RUQWJ2dEJGNE9Jb3JZTUpTdFNEZ2hmZGxuTDlXaldER1BWSm9BYmJWMjZ5RGJCS1dPRGNC?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T03:52:59.000Z",
+      "whyItMattersKo": "상대팀이 홈 경기 권리를 넘기면 원정 부담을 줄여 코파 두 브라실 진출에 유리합니다.",
+      "fanTakeKo": "홈에서 하니 훨씬 유리하겠네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -148,6 +212,22 @@
       ]
     },
     {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTZxZjhVaEhrZmp5V0ZaUmVZd05SY0RleWVoZGszWlpKSGkya0U2RGcxZF",
+      "title": "Confira os confrontos das quartas de final do Brasileirão sub-20 - Galáticos Online",
+      "summaryKo": "브라질레이렁 U-20, 8강 대진 확정",
+      "excerpt": "Confira os confrontos das quartas de final do Brasileirão sub-20&nbsp;&nbsp;Galáticos Online",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTZxZjhVaEhrZmp5V0ZaUmVZd05SY0RleWVoZGszWlpKSGkya0U2RGcxZFQ5bVFLRkNadEFCMTBLemhoSjhYeDczcmNPdGZJdUgtVW8yQkRtTHZ0alJndzJIbFNXdEJKbmJ6YVExaGJZV21nVVdtczZVQXlqRHlrZmlqM0gwMFZ2S0NnVW9zNDVnbEFtendsdHk2S0NQSGhiSGRrWWZ0bTA1MXdjRzJkeXZOOFZUTmtfdzMzMnhNdw?oc=5",
+      "source": "Galáticos Online",
+      "language": "pt",
+      "publishedAt": "2026-07-02T22:32:15.000Z",
+      "whyItMattersKo": "클럽의 미래를 책임질 유망주들의 경쟁이 치열해지는 중요한 무대입니다.",
+      "fanTakeKo": "유망주들의 활약 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVU5iTjc4eHRLVG9fMFJtclI1Z2RXaG9WR1VraV9URGdxREVodnZSeFZkcEl",
       "title": "Giay e Marlon treinam pela primeira vez, e Palmeiras atualiza situação de Vitor Roque - LANCE!",
       "summaryKo": "가이와 말론 첫 훈련, 비토르 호키 상황도 공개",
@@ -271,6 +351,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmJkcjYxUWxrZzdkbjVhdXhmcjRJV2Z2N2ZBVjZyTmc5SHZ2SzNKYmhoRH",
+      "title": "Giay destaca torcida por Flaco e celebra período com a Argentina: \"Orgulho\" - Terra",
+      "summaryKo": "기아이, 아르헨티나 차출 기간에 자부감 표출",
+      "excerpt": "Giay destaca torcida por Flaco e celebra período com a Argentina: \"Orgulho\"&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmJkcjYxUWxrZzdkbjVhdXhmcjRJV2Z2N2ZBVjZyTmc5SHZ2SzNKYmhoRHB0V0VpQ0JGSXhUN19odkFHUlRmazlXM1F1bjJOMmNMZFAwdWZVdTUzU2pURjdpYVZCX1g0QjRqS01PdHJsWExVMkdUU1YyVGU1akloWnBUeVRLVUdRVFdqS0FLWFBuc29nckFOOHFJRVEtTVJ1Z2VlRXRoNTBsLWVuZFJfUHcxYjRWbUVaYlBQVU0ydkJMbnBaaWRhSThmMG1KalFiX2p4Z2ZReTB6WTNlQkxPTGw1ZE1WQmY3MHlicUVsb0VwWmNG?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-02T17:52:00.000Z",
+      "whyItMattersKo": "국가대표 경험을 쌓은 선수의 성장이 팀의 미래 전력에 중요한 영향을 줍니다.",
+      "fanTakeKo": "기아이의 성장이 반갑네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -858,102 +954,6 @@
       "publishedAt": "2026-07-01T20:17:00.000Z",
       "whyItMattersKo": "U-17 리그에서 플루미넨시의 무패 행진을 끊으며 인테르나시오나우의 기세를 올렸습니다.",
       "fanTakeKo": "인테르 유망주들 대박 났네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZFVHbU9hUjFyY2dtVmJYSEtjaVBteUVUMnpLMUJFRFZ5QTRmTW5EUzB5Ml9",
-      "title": "Palmeiras goleia jogo-treino com brilho de Paulinho; veja escalações e gols - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 연습경기 대승… 파울리뉴 맹활약",
-      "excerpt": "Palmeiras goleia jogo-treino com brilho de Paulinho; veja escalações e gols&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZFVHbU9hUjFyY2dtVmJYSEtjaVBteUVUMnpLMUJFRFZ5QTRmTW5EUzB5Ml91UThiWXl6dXBHaUg4VWQyVWxDSGE2R2RlczJqSjJ3WGNXYXd6eXJSbDdJdllBUGRDcE9ueHdXWVk3VGRyOTJ3ZXJBaWd3cGk3dUhQSDNIUGpPTHk0WXY1S3IzUVc2cUFHWVprRVRtOTV4VTJSbDZES1BmYkJEWXM4Q3YzTWxtbk1saUs0SnJMUHRubzROYVphZHZYWEZWUWxFWXhnTWh3ZlMyLXBSM1N2ZFlxOVM4R0UyZ0pqelNqZkw3MUVDMjJtcjBfUTRzbw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-01T20:16:26.000Z",
-      "whyItMattersKo": "연습경기에서의 대승과 주요 선수의 활약은 공격 조직력과 팀 분위기를 높여줍니다.",
-      "fanTakeKo": "파울리뉴 컨디션 최상인가 봐요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiowFBVV95cUxQelFQYWdSZHhZOUhOdUF0aHVfTWdCU0pJa3l4ODIzdGp2ME1IOWVxWVYzMHR",
-      "title": "Palmeiras x Corinthians - Quartas-de-final - Brasileiro Sub-20 2026 - meutimao.com.br",
-      "summaryKo": "U-20 리그 8강전, 파우메이라스 대 코린치안스 확정",
-      "excerpt": "Palmeiras x Corinthians - Quartas-de-final - Brasileiro Sub-20 2026&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelFQYWdSZHhZOUhOdUF0aHVfTWdCU0pJa3l4ODIzdGp2ME1IOWVxWVYzMHRJcWlBSk9ycDJNWl9PY0l5cGdhU2tyZWNFaklPNmVGUW9HRDg0SDBna2VaR3hGOGZ3N1pYek5mbGdvVmlCdEFBckFwUkE2MldKbWhuZVc1VDFUZFpPTUNiUnIxMUYxSlpaejkzVUdiUDlxcTZ2RlFV?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-01T20:13:38.000Z",
-      "whyItMattersKo": "청소년 대표전 성격의 더비로, 팀의 미래를 위한 중요한 타이틀전이 시작됩니다.",
-      "fanTakeKo": "청소년 더비도 무조건 이겨야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEdVV0NPRHlnS0QxYVV4WXVGX2lIU1g1VGpkNVFOV0NHb0k1bk5RbDkxQ0U",
-      "title": "Palmeiras é superado pelo Cuiabá e enfrenta Corinthians nas quartas do Brasileiro Sub-20 - SE Palmeiras",
-      "summaryKo": "파우메이라스 U-20, 쿠이아바에 패배… 8강서 코린치안스 상대",
-      "excerpt": "Palmeiras é superado pelo Cuiabá e enfrenta Corinthians nas quartas do Brasileiro Sub-20&nbsp;&nbsp;SE Palmeiras",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEdVV0NPRHlnS0QxYVV4WXVGX2lIU1g1VGpkNVFOV0NHb0k1bk5RbDkxQ0U2VUpubUZFb1BnS1JCb2pKOGFoVkhWd1EwQTJxUlVQT011R2ktNGdIaVZsM2xpRDBRWE1POGE3R2V1ekxwaE8zTWMyZjc1aG1JajZsVFE4Z3dfeVpCWUhyUWdMR3lLdHpDMEFZNzRuZmFFQ3BjNFhsZXhjSXlhYUFLQk9fdC1rMjJlU0ZNaEh4NW1hWEs2RjNwbUE?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-01T20:02:55.000Z",
-      "whyItMattersKo": "패배로 마무리한 대회 본선 후, 라이벌전 8강 토너먼트에서 반등할지 주목됩니다.",
-      "fanTakeKo": "8강에서 꼭 복수해야 합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmFZbmFsOElKYkRVUWhzNkt2ZkNCTTRsdDZ2bjVTYjJ2Sk5YQmh2c29zRGt",
-      "title": "Paulinho faz dois gols, e Palmeiras goleia o Mauaense em jogo-treino na Academia de Futebol - Gazeta Esportiva",
-      "summaryKo": "파울리뉴 2골, 파우메이라스 연습전 대승",
-      "excerpt": "Paulinho faz dois gols, e Palmeiras goleia o Mauaense em jogo-treino na Academia de Futebol&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmFZbmFsOElKYkRVUWhzNkt2ZkNCTTRsdDZ2bjVTYjJ2Sk5YQmh2c29zRGtXZDZiOVFSelZvSDlILUxMekJXdlZReHk2TUtQWjdmSHZGb2hrZ1JvckxQUGtGbmtnUGdKX1RzVWV3aTE2d3R2M0ZZVndYcDhlMnA5WkJHSjJDZVdxZE5wRnF4anFrREstQmxQUzlR0gGfAUFVX3lxTE9yUlpzeFhQVHdMM2RUMnVYRkI2NEhidDJyX0RTcnRlNHN4TGQzSlBRN2JqX3JlRmtwZlRKdEhoMy12RW94S1dKc0hPOHFVWkI5RkJQRVIybU5QSTJZODVKU1oyM0NYblU5US1WTXhZN2t6WmkzRk93Vy1OVUNmaG90eXhmNG1jcmZsT1MtLXdIb0htWGxnSWJWZ21SdDcySQ?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-01T19:59:00.000Z",
-      "whyItMattersKo": "주전 공격수 파울리뉴의 득점감은 공격력 회복과 팀 분위기에 긍정적입니다.",
-      "fanTakeKo": "파울리뉴 득점감이 돌아왔네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi9AFBVV95cUxOckpFSXJLV2FPanIzVThPMUZtTHRkUmNRaXFteG5WRmI3R1A4Tmk0UDc4d3F",
-      "title": "Com dois gols de Paulinho, Palmeiras goleira o Mauaense em jogo-treino na Academia de Futebol - GE",
-      "summaryKo": "파울리뉴 2골로 파우메이라스 연습전 승리",
-      "excerpt": "Com dois gols de Paulinho, Palmeiras goleira o Mauaense em jogo-treino na Academia de Futebol&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOckpFSXJLV2FPanIzVThPMUZtTHRkUmNRaXFteG5WRmI3R1A4Tmk0UDc4d3FiZmFGTk5LN09walFzZEk0ZkVEY3JxcGhJWkxpeXluZTFXVzMzaWM2Y25uNFlOMFJKQ1A3bEdWNlA0Zlp1ODI3OWR0SVJFbGs1NnFLQWdLejhUaG5kUnZTWlBOOElwRDRBUXdjZ19oRHJVbFFBQXk2TDR6WjBaaHM4cjBPSF9mTlpST3Nya0REZU9yY1BtVFNabk1SOTBnYTBQaVIzbkl2Um5DaXRubF9NWGRSeFI3Uzc0ZmI3cHFMWUVxVjM1c3ph0gGDAkFVX3lxTFB2aFBRVkg4bC1peW5pQ1VpSG55cHNoT0dqd0M4WFFPNHotSHd2OTQ0VzlCcVJpMmFxSWJfY0dXYVg4MFhkWGNPUDVzdmV0dmt3aXVjcGMySldVZTR3MmVNRkVVNm9CSWV0OVFqWnpERi1zRVJEdlFYaVlJaC0tdWdPLTBOLXhlMGdyeTloSmh1dGRTakhMNjdkbHBNazZSa2p4QjhLczNzY1Q5SjFVbVJ6WHJad1pIR3JHamw4Q25nQ282NFc5RXVYQ1pLQk0tWGZhUzl5ZWlhVEtmWmgxVzRMd0xHdmNUOHFEQVFXZHhBWnFDZGl1aFVWZW5obnFJOE1qVlU?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-01T19:51:29.000Z",
-      "whyItMattersKo": "연습전 대승으로 주전들의 득점감과 컨디션 회복이 긍정적으로 확인되었습니다.",
-      "fanTakeKo": "연습전이라도 대승이 기분 좋네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0hlcThOU3FYOWpuZVBKM1ByMFNpNG41VGRWbGR2M3hCUVRXNzFwTnZhdV9",
-      "title": "Enteado nega envolvimento de Leila em potencial SAF do Vasco: ‘Me inspira, mas objetivo é superá-la’ - Estadão",
-      "summaryKo": "레일라 회장, 바스코 SAF 관여설 부인됐다",
-      "excerpt": "Enteado nega envolvimento de Leila em potencial SAF do Vasco: ‘Me inspira, mas objetivo é superá-la’&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0hlcThOU3FYOWpuZVBKM1ByMFNpNG41VGRWbGR2M3hCUVRXNzFwTnZhdV9VdGhpNlV5WUs1YlpiTzVFODBmYXcweVlkazZrVGhOcEk5bzVwdzFBV1dPYXd2TmxJaEFZNFJnRjZCd2NoZnc5U0NCOEZRN1dFbGxtR1BxcXhzQUo3RzF3MDJLU0cwaGFoRWFlMHV3ekdBazZhTkhWc3UzeEtKalJrRkViNFFHV0xwV0haU0NIcjdETTVfbklLTFBqbkFVd3FNanNielYtVTVSVVrSAd4BQVVfeXFMTzNRVldBZXczTzNVSVpxaktLSWwzNG44ejR2THIyU2U0N0NFLWlWU1EtNjZnSWVvYzYwUzRWbXQ5LUNBUHdmOERIRkdjd0s2cVpBcDNjN3I3RU9QaGdwZEtmVnpwRTdxTVlnR1Y5OTltMk9XdzZsaXNJM1ZnM2d3emtpV25UX1I1N3UwVXNaRlhFb21hTGl4Ykl6VjhYX1ctczFVemZXV0x1bEZMRG1RZlI1SVVmMlJlNl9pVmVqNXZLYUtmR25QSG52Vk5NYWVIakdqTkRDVEZMQmV5c2Z3?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-01T19:50:18.000Z",
-      "whyItMattersKo": "구단주의 이목이 다른 곳으로 향하지 않았다는 점에서 팬들에게 안도감입니다.",
-      "fanTakeKo": "우리 구단주만 쳐다봐 주세요!",
       "tags": [
         "뉴스",
         "AI요약"
