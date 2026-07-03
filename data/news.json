@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-03T16:25:23.376Z",
+  "fetchedAt": "2026-07-03T17:57:30.309Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMjJDWGtYenp3akNHX0tFNHBUOXpWN1lxZTIxYkZ2R2JuRFMzV1NXeEEwY1l",
+      "title": "Palmeiras consegue liberação de Barboza para estrear no 1º jogo pós-Copa - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 바르보자 코파 후 첫 경기 출전 확정",
+      "excerpt": "Palmeiras consegue liberação de Barboza para estrear no 1º jogo pós-Copa&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMjJDWGtYenp3akNHX0tFNHBUOXpWN1lxZTIxYkZ2R2JuRFMzV1NXeEEwY1lyaUsxMnNTODgxR25VY1JRNExOYWRqT1pnMnZLdHVNcl9PTFJRMWJkX29SZTkyS01DaFA4REJ4Y0s0VEdOS2NFQ3c?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-03T17:35:00.000Z",
+      "whyItMattersKo": "휴식기 후 첫 경기에서 새 선수 바르보자의 합류로 전력이 보강됩니다.",
+      "fanTakeKo": "바르보자 데뷔 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYktGc0xDSUVBUnF1NkY0MmFtV0dPeUpqWEs0RkNuS3RqVk85Z0Etd18zQ08",
+      "title": "Coritiba x Palmeiras tem mudança de data e horário pela Série A; veja os detalhes - GE",
+      "summaryKo": "코리치바전 날짜와 시간이 변경됐습니다",
+      "excerpt": "Coritiba x Palmeiras tem mudança de data e horário pela Série A; veja os detalhes&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYktGc0xDSUVBUnF1NkY0MmFtV0dPeUpqWEs0RkNuS3RqVk85Z0Etd18zQ084LWpoT1B1M2xodVd0SHdJcmQ3RHJIcllUVHZXZG9UOGNWMl90d1hVVUZReVh6ei1kbXUzdUx0ZHpBR1V3NFNxTHM5OFg4VEZ6RVhkZE5rWlg4VzhuZnhYazI1dVdibHA3LXI3RUs1OVc0N3NKUmtSRHJ5REdreERmc09YN2N1QkZ2SFBiT3ZDNW9HTW9DaXdIS0d5VE1sQ0pjZUptRzZqejQ4OFBrR0RUVFJKSUZqRkktSXpKbmtFMDN30gH8AUFVX3lxTE9SalpLSm9veUdBY3pjMWNCQS1lLWdTZ0JxNXp2WTZvUWhndXFWQWRtY0I4Undsd1J5ZkEtanNuYWJpX3RjVXdMS0F6SFJ6SVFiRVFrRDRWTkNLTEVMdnp2TGd4QlRvNzY5dG1HWGFTc1RrZWNVR2lVMld6SUxmc2VXYW9BaXBhRzlTU2FfenZPWW1oY2g2OHpSR19JRXo0bW8wSHpvTTMwYTZFNlFrYm1mSWlHSG5jZ21BOXc5TFYzblNFemljeFRvY2VmVXF6R0s4ckF1cjNOWDFQdEpyRXpWT1dSb3FXZk5wanpVbG5nOVl6SUYxRDdKNGFXaA?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T17:04:03.000Z",
+      "whyItMattersKo": "브라질레이렁 일정 변경에 따라 팀 준비와 팬들 시간 확인이 필요합니다.",
+      "fanTakeKo": "시간 잘 확인하고 봐야겠어요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWQ2S01pdGVxSjcyaTd3OG9LTlF3SUxOVE8wOUJvSW9Xb0lVQnRXblRLeGN",
       "title": "Dsquared2 nomeia o jogador de futebol Fermín López como embaixador global da marca - FashionNetwork Brasil",
@@ -116,22 +148,6 @@
       ]
     },
     {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOER",
-      "title": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil - GE",
-      "summaryKo": "포르탈레자, 파우메이라스전 홀드 판매 논의",
-      "excerpt": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOERxWi1uX3cxdlFpcE5MN3ZLX2dUVl9sOVpDQ1hFa2s0UEpWNmlVM1pSZEtUajV1aVFCVUN2a0hIZVplQXJRdGQ5MEdUN2pGc1B2QVl6ZDI5eFFISjBHRzMxYjE3VmRwRElpZU9xaEVnZjdnZXN6UVdVYmtwbE53cHFURGNweWRyQ3FTbW9CTHNkSjNWSWdyblJYSkdQV3pTZUp6LUYzSHRoeU81amg4RlFqLUxrTURFYVZSd9IB9AFBVV95cUxNaUFpY2FUbzhfbWo0R2k3UkdfaU9COS04bTkyVTU1ZmdNVnU1bDFoUDd2V0lMRkUyWXVHSlVwQkF0VklCMVZvQm5ubkRIY01COXQzUTlJSm9uOWd0cjc2Q3l0dDN0X1U2X3NzdWl3SzhsbmVfM2lNX0RIT0o4a1pLV28ycFFzekV4dVl3cXNOMUYyX3A4LTdsbW1vOXVuOUFGdlJKVVpHdENOTzJvWTJqa2dtWENtWkdYY2VoOHdFa3RUQWJ2dEJGNE9Jb3JZTUpTdFNEZ2hmZGxuTDlXaldER1BWSm9BYmJWMjZ5RGJCS1dPRGNC?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-03T13:02:59.000Z",
-      "whyItMattersKo": "상대팀이 홈 경기 권리를 넘기면 원정 부담을 줄여 코파 두 브라실 진출에 유리합니다.",
-      "fanTakeKo": "홈에서 하니 훨씬 유리하겠네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRktIU3JCS0ZENGQzRmoydkJkLUtLRkM5NkJrY1FoQUxiUzVzZTlmNXRaSlF",
       "title": "Bahia fecha 2025 com 3° maior patrimônio líquido do futebol brasileiro e supera Palmeiras e Cruzeiro - Jornal Correio",
       "summaryKo": "바이아, 파우메이라스 앞서 순자산 3위 기록",
@@ -222,6 +238,22 @@
       "publishedAt": "2026-07-03T05:13:47.000Z",
       "whyItMattersKo": "시즌 초반 부진한 경기력이라 팀 분위기와 다음 일정에 영향을 줄 수 있습니다.",
       "fanTakeKo": "시즌 시작부터 왜 이래요?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOER",
+      "title": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil - GE",
+      "summaryKo": "포르탈레자, 파우메이라스전 홀드 판매 논의",
+      "excerpt": "Fortaleza negocia venda do mando de campo contra o Palmeiras, na Copa do Brasil&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVdnbEhCbG1QTFV6WkJKOGh0N2R5NHNWM1lEMGJHTW52ZjdiOTFIcDJxOERxWi1uX3cxdlFpcE5MN3ZLX2dUVl9sOVpDQ1hFa2s0UEpWNmlVM1pSZEtUajV1aVFCVUN2a0hIZVplQXJRdGQ5MEdUN2pGc1B2QVl6ZDI5eFFISjBHRzMxYjE3VmRwRElpZU9xaEVnZjdnZXN6UVdVYmtwbE53cHFURGNweWRyQ3FTbW9CTHNkSjNWSWdyblJYSkdQV3pTZUp6LUYzSHRoeU81amg4RlFqLUxrTURFYVZSd9IB9AFBVV95cUxNaUFpY2FUbzhfbWo0R2k3UkdfaU9COS04bTkyVTU1ZmdNVnU1bDFoUDd2V0lMRkUyWXVHSlVwQkF0VklCMVZvQm5ubkRIY01COXQzUTlJSm9uOWd0cjc2Q3l0dDN0X1U2X3NzdWl3SzhsbmVfM2lNX0RIT0o4a1pLV28ycFFzekV4dVl3cXNOMUYyX3A4LTdsbW1vOXVuOUFGdlJKVVpHdENOTzJvWTJqa2dtWENtWkdYY2VoOHdFa3RUQWJ2dEJGNE9Jb3JZTUpTdFNEZ2hmZGxuTDlXaldER1BWSm9BYmJWMjZ5RGJCS1dPRGNC?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-03T03:52:59.000Z",
+      "whyItMattersKo": "상대팀이 홈 경기 권리를 넘기면 원정 부담을 줄여 코파 두 브라실 진출에 유리합니다.",
+      "fanTakeKo": "홈에서 하니 훨씬 유리하겠네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -922,38 +954,6 @@
       "publishedAt": "2026-07-01T23:01:05.000Z",
       "whyItMattersKo": "연습전 압승은 선수들의 득점감과 팀 전체의 사기를 크게 높여줍니다.",
       "fanTakeKo": "연습전이라도 대승은 정말 기분 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiakFVX3lxTE95RU83U0FrWHNYdjBIc0E1cWNFZkh4WENEa0dtRjRLaVc4SzJna2hTMDREZTZ",
-      "title": "Palmeiras faz 6 a 0 no Mauaense em jogo-treino - Portal ABC do ABC",
-      "summaryKo": "파우메이라스, 연습전서 마우아엔세에 6대 0 대승",
-      "excerpt": "Palmeiras faz 6 a 0 no Mauaense em jogo-treino&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95RU83U0FrWHNYdjBIc0E1cWNFZkh4WENEa0dtRjRLaVc4SzJna2hTMDREZTZDYTZTR1hWTVJDcGRrQ0dqMXhDdldpMDZIT1dwaVZrRTM1bWRfVEVoZTIwR3dENWJjYVFpTnc?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-01T22:49:00.000Z",
-      "whyItMattersKo": "대승은 공격 조직력이 잘 맞물리고 있다는 긍정적인 신호입니다.",
-      "fanTakeKo": "6골 폭발! 득력이 장난 아니네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkdidnlpRDFGR2ZGUlZJZHI4akk0eWF5UXFvRWtOaFNrbU1zaGpmR0Y5UzF",
-      "title": "Palmeiras: Mauricio entra no radar da Atalanta e chama atenção da Europa - Rádio Itatiaia",
-      "summaryKo": "파우메이라스 마우리시오, 유럽 이적설 부상",
-      "excerpt": "Palmeiras: Mauricio entra no radar da Atalanta e chama atenção da Europa&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkdidnlpRDFGR2ZGUlZJZHI4akk0eWF5UXFvRWtOaFNrbU1zaGpmR0Y5UzFqTHdpQWp6X1Jua2VnSzJkWV9EdG5lcGNDMFVlbmZqTUt5Wmk4VGtVd1R2M3F0X0drVWxUTDc3eE13VUpjaVM4bFVLUUdNVzN4elR1SjFBMUJDRmJrU09hZEpvaTFGWjN4WUxBSjJCakwxckpRcGsxVGdkaHdEcWJlZ2tjUzJUaFUwZTZQUGs1dGt0VzZwVGlRZ2lTSlNCX2NQLXMtWlBLdTI4cjcwWkF6cF9zRk5WbVZ4TUNub2VYNHRseDVLQlE?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-01T22:10:27.000Z",
-      "whyItMattersKo": "유럽 리그의 관심은 선수 가치 상승과 팀의 협상력 강화로 이어질 수 있습니다.",
-      "fanTakeKo": "우리 선수 인정받는 기분 좋다!",
       "tags": [
         "뉴스",
         "AI요약"
