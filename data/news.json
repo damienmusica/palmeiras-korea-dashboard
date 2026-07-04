@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-04T16:03:42.133Z",
+  "fetchedAt": "2026-07-04T17:34:29.870Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzlCamxiREl4TzlaTnBBS2dNUm5qd2drYV9VNDctSWtPbmRRRzJ3a1pBZ2l",
+      "title": "Palmeiras estipula valor de R$ 100 milhões para negociar Maurício após a Copa do Mundo - Fato Paulista",
+      "summaryKo": "파우메이라스, 마우리시오 이적료 1억 헤알 책정",
+      "excerpt": "Palmeiras estipula valor de R$ 100 milhões para negociar Maurício após a Copa do Mundo&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzlCamxiREl4TzlaTnBBS2dNUm5qd2drYV9VNDctSWtPbmRRRzJ3a1pBZ2ltLXhvQlBnQ2Fzd2V6MUdGVi1ZX2VWWGhSNkp0c3prN2FoTVJTWGZSd2k1dUpvbUdlZ19Zal9jVGVtbGJrZzdfMjF0NHdTMEZJelkxcA?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-04T16:21:30.000Z",
+      "whyItMattersKo": "주전 선수의 이적료가 책정되어 유럽팀의 관심과 이적 시장에서의 협상력을 보여줍니다.",
+      "fanTakeKo": "마우리시오는 꼭 지켜야 하는 선수인데!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTFscExKQ1pWelZVVmw5dklHT1FFbnY2enl6VmFRWUVzblprLXhHNnc5cS1",
+      "title": "Palmeiras vence o Primavera por 3 a 1 no segundo jogo-treino da intertemporada - palmeiras.com.br",
+      "summaryKo": "파우메이라스, 시즌 전 훈련전 3대1 승리",
+      "excerpt": "Palmeiras vence o Primavera por 3 a 1 no segundo jogo-treino da intertemporada&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTFscExKQ1pWelZVVmw5dklHT1FFbnY2enl6VmFRWUVzblprLXhHNnc5cS13ekt1RG56cjBaeVNOWEtMZ0ZxTlJxRGp0SEdqdExqM3VqdWM5NkFZUTJQZzF0aW1nZXRzOTBhOXZRWVdUZWRHTG9SdTV2QUJPTWxRTlE0QTc4SWxVckVuOC0tNnF0TUZuVnBBeDBPckR1MFFtaTdObmxWdjVKWERDNmp5ajhpU1dfMkxD?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-04T16:15:22.000Z",
+      "whyItMattersKo": "시즌 전 훈련 경기 승리로 팀 전력 점검과 선수들의 컨디션을 확인했습니다.",
+      "fanTakeKo": "시즌 시작 전부터 기분 좋은 승리네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUJWamRJVWl0dzdxaFB6Uzdnc1BrdW5jNjZTZnJzb0xGYU9LYmQ1NnBmeXF",
+      "title": "Líder do grupo, Palmeiras visita Porto Foot Ball pelo Paulista Sub-20 - palmeiras.com.br",
+      "summaryKo": "파우메이라스 U-20, 포투전 원정 향한다",
+      "excerpt": "Líder do grupo, Palmeiras visita Porto Foot Ball pelo Paulista Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUJWamRJVWl0dzdxaFB6Uzdnc1BrdW5jNjZTZnJzb0xGYU9LYmQ1NnBmeXF1TnBDMm1WTTNsalFJOTdpZDlISy1mSlgyYU9lTG9jcm56MEFyTlVDSVdfd2xOQlZDVDlSQWx6S0l3RGtlQlRKX1IxUWxVRmt2RlJUeDV6MEVJaVhFZ1BhdWpSbnNqRTUwRmY5dzNIaWhXaXUybVg2SjV4UGxYMzA?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-04T15:57:08.000Z",
+      "whyItMattersKo": "리그 선두 팀의 일정으로 미래의 주전 선수들의 성장과 경쟁력을 점칠 수 있습니다.",
+      "fanTakeKo": "유스팀도 선두라니 뿌듯하네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHhhU3QtbHFWUU56UGhZVkpIN21mX3hscXhXTmRNX3gyWjJoNHN6TmhwZk5",
       "title": "Sub-15 e Sub-17 do Verdão goleiam Flamengo-SP pelo Paulista - palmeiras.com.br",
@@ -46,6 +94,22 @@
       "publishedAt": "2026-07-04T14:14:00.000Z",
       "whyItMattersKo": "선수 가족이 구단을 칭찬했다는 건 선수 정착과 팀 분위기가 아주 좋다는 신호입니다.",
       "fanTakeKo": "가족도 만족하면 선수도 잘하겠죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0wzbHZsS3dodlFYU1hiSXVKLVBhXzNNc2xCdkhWTHQ2ZWlSdk81aldRVUN",
+      "title": "Decisão da CBF afetará jogo do Palmeiras - Terra",
+      "summaryKo": "CBF 결정, 파우메이라스 일정에 변수",
+      "excerpt": "Decisão da CBF afetará jogo do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0wzbHZsS3dodlFYU1hiSXVKLVBhXzNNc2xCdkhWTHQ2ZWlSdk81aldRVUNqVC12Tk8tOXBXRVNVTDVGRGFkQlNhRnFhVVE0bXVyaFlBc1AySkVFTV9ic05yVWV6Y3dWM3dYYTNidmlfRU12b09ZaGdUaVAyNHEzSEduV3NPUFFibDlEV3pHbXJwRUMyVFJNaV8zaWMta3o2UG5iQy1aMVVmRkFIV2VnejFnejhUNGlSczZOUENJejNFT0wwT3BGUjh3?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-04T13:30:00.000Z",
+      "whyItMattersKo": "축구 협회의 결정에 따라 팀의 경기 일정이나 운영 방식이 달라질 수 있습니다.",
+      "fanTakeKo": "또 무슨 일이 터진 건지 걱정되네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -880,70 +944,6 @@
       "publishedAt": "2026-07-03T12:15:01.000Z",
       "whyItMattersKo": "클럽의 재정 안정성을 보여주는 지표에서 라이벌 팀을 앞서는 성과를 거두었습니다.",
       "fanTakeKo": "재정 순위 밀리니 좀 씁쓸하네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMimwFBVV95cUxORmlWWjJidDdueXQ3akNETnMyV3dWLU5NLVUzc1JqMGtkSGNNT0RKMUh3eG9",
-      "title": "Abel Ferreira está de olho em 4 reforços caseiros para o Palmeiras - A Crítica",
-      "summaryKo": "아벨 감독, 국내 선수 4명 영입 눈독",
-      "excerpt": "Abel Ferreira está de olho em 4 reforços caseiros para o Palmeiras&nbsp;&nbsp;A Crítica",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmlWWjJidDdueXQ3akNETnMyV3dWLU5NLVUzc1JqMGtkSGNNT0RKMUh3eG9ZbVR3Wmt6ZExQNG1hZ2NNbHc3dnVUQmlteUhTNzJjaXlidGMtRnN0bWJVRVRvRWVDNFlqSVVwUUo2Zk5JdFN3bWtQZ1FzR1NTclNsNTJCY21lNkNWdGFHNlhFYWFCejV5NW1VOEdPMA?oc=5",
-      "source": "A Crítica",
-      "language": "pt",
-      "publishedAt": "2026-07-03T12:00:00.000Z",
-      "whyItMattersKo": "적응이 빠른 국내 선수 영입을 통해 팀 전력 보강과 전술적 옵션을 늘리려는 움직임입니다.",
-      "fanTakeKo": "국내파 영입으로 팀이 더 단단해지길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUG5udDh2QzRJM3RzMDJqUUJkMHdFaUgxbC1jUEEyNi16dGNSNUNmSWNfekl",
-      "title": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, do Botafogo - Rádio Itatiaia",
-      "summaryKo": "텍스터, 파우메이라스 제안 거부하고 다닐로 행사 지목",
-      "excerpt": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, do Botafogo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUG5udDh2QzRJM3RzMDJqUUJkMHdFaUgxbC1jUEEyNi16dGNSNUNmSWNfeklzbzFuZnNKYm9sZG9JUzNTZ3RULUt3SEVieVc2ZGxLa2Nibzd0bkpBbjQtTm9Ia0pzMWtLSldGR3o3X2xhZVh0LWtzTWZ1RnFsXy1tWUFPV3RzcGE2MDdzM05iby1wYjRMMkhDYjJ4Yi15SUhwYVUyUkNCWTFHYXF4VUhVUUNXRU1GRUVzU0VSRUl1X2dwbXlkdEpfVHhaX216QzU3b1VJcFZhSkV4UXBGWUdPN2pwUllxckt5UXZvanpCTGV0b29DYTd6eno0cw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-03T10:11:00.000Z",
-      "whyItMattersKo": "영입 경쟁에서 밀려난 것 같아 팀 전력 보강 계획에 차질이 생길 수 있습니다.",
-      "fanTakeKo": "제안 거절당했다니 너무 아쉽다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbTh4NWsxTm1GM2FXLUtGZjlzc0t3aENWVGRkSFA3UHo2SDJEV2lhZkk3M1B",
-      "title": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, Botafogo - Rádio Itatiaia",
-      "summaryKo": "단일루, 파우메이라스 거절하고 보타포구 잔류?",
-      "excerpt": "John Textor rejeita Palmeiras e Flamengo e indica destino de Danilo, Botafogo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbTh4NWsxTm1GM2FXLUtGZjlzc0t3aENWVGRkSFA3UHo2SDJEV2lhZkk3M1BINXJPZGQ0N0FfYXFpQzBYU3VtbHU1WUlKb0dNcENHRGhoeGVod3l2c3hnenNwU01CbmgwckE1Mjl4a1hndkJSVnVfbV9qYTlRWENLQzl5TDdPX2ZFeURPdHhuSkdqeURvSjg3VmJDZ1B5ZTNPbmVKOFlkMEVIZFVjQ0FSN0ZrU0xMYUlKZ0tRX1BlWGNDd0FQYUhuQXBIQ1dTbnBtRTVBX29DZkl0djdYX0F6SzlCd2JMdElHZzBoN2oyNEloLW1GVjIw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-03T10:11:00.000Z",
-      "whyItMattersKo": "영입하려는 선수의 구단주가 이적을 거절해 팀 전력 보강 계획에 차질이 생겼습니다.",
-      "fanTakeKo": "꼭 데려오고 싶었는데 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2pOZDhBakVqUElueGp0VlV2ejhUNHVTeGJ0SWtZN3ljZnVIdEVQZDAzdDV",
-      "title": "Giay, do Palmeiras, valoriza experiência com a Argentina e elogia Flaco - LANCE!",
-      "summaryKo": "파우메이라스 기아이, 아르헨티나 경험 강조",
-      "excerpt": "Giay, do Palmeiras, valoriza experiência com a Argentina e elogia Flaco&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2pOZDhBakVqUElueGp0VlV2ejhUNHVTeGJ0SWtZN3ljZnVIdEVQZDAzdDVBN2gxR0dHYkphTDJ6N2U2TTJ0czJoSDEzM1l3UmJHc2F3SmtmUHpoUEJCLUlnN0NhbXhXcTU2V2FURVR5cmUwZUxZQ1dtdHRoRENkYkFuel82Uk4tTllOdWVJQ2Zma0NzTEk0RENJbkRnNTEwMUNiU2J3cVFLYW1nTkJBSy1xVDhmZw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-03T09:30:00.000Z",
-      "whyItMattersKo": "주요 선수가 국가대표팀 경험을 통해 얻은 자신감을 팀에 불어넣어 긍정적입니다.",
-      "fanTakeKo": "기아이의 경험, 우리 팀에 큰 도움이 되길!",
       "tags": [
         "뉴스",
         "AI요약"
