@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-04T21:31:18.324Z",
+  "fetchedAt": "2026-07-04T22:58:40.202Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkNSWTliQUJTRGpBWTZzbjBGOUlHTkRma1pRQ3gwQk11ZE5GQjJCWjI1RDQ",
+      "title": "Palmeiras bate Primavera em segundo jogo-treino da intertemporada; veja - Terra",
+      "summaryKo": "파우메이라스, 휴식기 훈련경기서 프리마베라 격파",
+      "excerpt": "Palmeiras bate Primavera em segundo jogo-treino da intertemporada; veja&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkNSWTliQUJTRGpBWTZzbjBGOUlHTkRma1pRQ3gwQk11ZE5GQjJCWjI1RDQ5MEpMN1VFakRWT3paMV94UkhXNjJVaVdaMTZWTzh0LVBaSlYwZWdrZGFqU2tNUW1wMVZrQmZWZ3FSV05wbFpjMlBidzZnUFhfTGR4blhLaDF6OWhKTWhfSHJhMm1KbkdFajRVNjFvVk9PeWFnOVNVaEN5NzJ6ZWFubXZiMlplQWU1MDJsa0hNM0hhaFRaSWdqcVFEZ0NFUmZ5VXM0V3g4UXkwMkpvc1dwZjlGcEQ3WDNRWGRwaEZXY0lNejdQQQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-04T22:04:00.000Z",
+      "whyItMattersKo": "휴식기를 보내고 선수들의 컨디션을 점검하고 팀 전술을 다듬는 과정입니다.",
+      "fanTakeKo": "시즌 시작 전 컨디션 좋아 보이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjF4TGFSUXp0TDBVOUltSW5zeWtONV9CNEZzTjAwcG15aE9nSkE0RHN2eW1",
       "title": "Enciso pode jogar no Palmeiras? Onde atua o atacante do Paraguai? - sportingnews.com",
@@ -510,6 +526,22 @@
       ]
     },
     {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU9iUG1qWXFGUzJKRHpnZlB5amQ1WWR1ek5QSFY0YmxlLW4tdDRWdHdiU2",
+      "title": "Palmeiras tem dois jogadores marcando na mesma Copa do Mundo pela primeira vez - Goal.com",
+      "summaryKo": "파우메이라스, 한 월드컵에서 두 선수 득점 첫 기록",
+      "excerpt": "Palmeiras tem dois jogadores marcando na mesma Copa do Mundo pela primeira vez&nbsp;&nbsp;Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU9iUG1qWXFGUzJKRHpnZlB5amQ1WWR1ek5QSFY0YmxlLW4tdDRWdHdiU21jczlIVFdsSk5ibUY0MkdFT0NhYXhSVDM2OWQ5WXBoX05IbHJ5bDlsbW1JT1lBTjRpVXhVaTQxYVdaY2xtNm51SlNNZTlodnVYRENia2h6RDBtM194MGE3UC1hNHJuVFI0YzFuM1FKQnFsRzJybGp1SHdOYWtWd0F2NXhvTXRMNlZiREtZY3c?oc=5",
+      "source": "Goal.com",
+      "language": "pt",
+      "publishedAt": "2026-07-04T03:19:02.000Z",
+      "whyItMattersKo": "클럽 역사상 처음으로 한 대회에서 두 선수가 득점하며 위상을 높였습니다.",
+      "fanTakeKo": "우리 팀 선수들 월드컵서도 대박이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZW4wQ0kwNzVRSXBCaVhTTVhodkk2NlVrTG04OWhwVDNrSXlldk5Ra2V4Mzl",
       "title": "Palmeiras é o primeiro clube da América do Sul com dois gols na Copa do Mundo de 2026 - ge",
       "summaryKo": "파우메이라스, 남미 클럽 최초 월드컵 2골 기록",
@@ -917,36 +949,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQ",
-      "title": "STJD reduz pena, e Barboza pode estrear pelo Palmeiras; suspensão de Allan é mantida - GE",
-      "summaryKo": "바르보자 데뷔 가능, 알란 징계는 유지",
-      "excerpt": "STJD reduz pena, e Barboza pode estrear pelo Palmeiras; suspensão de Allan é mantida&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQweEwybGZGWTlmWGYwWnhCSk9VNU00UFgxbDlNQWVOY0pRX3RSYV90WkczOFI0ci00amEyVlV4UFk5bjZhY1NBazE4Z05Ob0RLNTFuSzZjb1RjazR0ZjB0bzE0dTZwOGR1M25MTHRoYmQ3ZlRTOENwck9TdGMwY0VzTGprUUdsbEFtUVdFVkh2RjA0WkNTcXd4blF3bkpqWHRKanI4Z2ZtTm5lT1YzWWdGRnd4aVVlcmtTRzTSAfYBQVVfeXFMUFRWZzU4RGRHcFV2Uy1FTFVVT0NUNXQtTE4zb2VnVEdONTZ4ODIxUjBpOHVmNDNkM2lZNEN0NkNreHpXalhHOFVlblhKV3lzOGQ3LTh6enRkanM0WTBiOEVuOFdTRmM5MmZaTU1ZWUxaRG5SRlc4MUktTnZiSmZxZzVqMHF6TzBZVjk2MENiZDdubGlDT2h5UkYtRFd5Tm56LXFuU1cxcTU5TjN3dWhSNUZmV2xvOENRRzFITHlEcDJ6V1RvUzdKY2NXeGVtbTRPc1F4WmJCUHFlX296dkVYRDhxZHVDMnhReU5FRF8yR0dqR2FsSy1B?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-03T15:25:46.000Z",
-      "whyItMattersKo": "바르보자의 출전 가능 여부가 팀의 수비 라인업 변화에 직접적인 영향을 줄 수 있습니다.",
-      "fanTakeKo": "바르보자 드디어 경기 뛴다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQ",
-      "title": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge - GE",
-      "summaryKo": "Alexander Barboza는 Palmeiras를 위해 데뷔 할 수 있습니다. Allan은 여전히 정지 상태입니다 | Ge - GE",
-      "excerpt": "Alexander Barboza pode estrear pelo Palmeiras; Allan segue suspenso | Ge&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2pZaTlDNm1OV3l3NzNkV0hMenJZazNRRmxhQUoxellPa1ZuODMyOS1YeUQweEwybGZGWTlmWGYwWnhCSk9VNU00UFgxbDlNQWVOY0pRX3RSYV90WkczOFI0ci00amEyVlV4UFk5bjZhY1NBazE4Z05Ob0RLNTFuSzZjb1RjazR0ZjB0bzE0dTZwOGR1M25MTHRoYmQ3ZlRTOENwck9TdGMwY0VzTGprUUdsbEFtUVdFVkh2RjA0WkNTcXd4blF3bkpqWHRKanI4Z2ZtTm5lT1YzWWdGRnd4aVVlcmtTRzQ?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-03T15:25:46.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
