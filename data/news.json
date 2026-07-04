@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-04T17:34:29.870Z",
+  "fetchedAt": "2026-07-04T19:15:30.065Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFdzcE93YzZfUEF0dVQ1eHJvc19ET09LSG9MSVNXY0dTMkhleFJkTmVtXy0",
+      "title": "Lance de Carlos Miguel em jogo-treino do Palmeiras assusta: 'Simplesmente' - LANCE!",
+      "summaryKo": "카를루스 미겔, 연습경기서 위험한 순간",
+      "excerpt": "Lance de Carlos Miguel em jogo-treino do Palmeiras assusta: 'Simplesmente'&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFdzcE93YzZfUEF0dVQ1eHJvc19ET09LSG9MSVNXY0dTMkhleFJkTmVtXy00YU9WR2Y1RnFRSEk3cXJRaURRb1drRVJjNzF2SzFZVExCbVhnYTFFWkRLVTBQRjhDaVpMWkVCN3Nrc3lXSUg3TERXSC1RUUx5V0RDYk5jQUJjR3pWYW9Ta2syUllhYTV6MXRHdXlqc0NzQUVrTVl1MlJRaExYcmFjYU1teW9YXzEyQQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-04T18:55:02.000Z",
+      "whyItMattersKo": "연습경기에서의 위험한 순간은 주전 선수의 부상과 팀 전력에 빨간 불이 켜질 수 있습니다.",
+      "fanTakeKo": "부상은 아니었기를 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWjZpcTNadFJxWjl6Z0xWckFtd1pPWk9ObnF2N2U2TnR2czFLWU5vY0Y5LWJ",
+      "title": "De virada, Palmeiras vence Primavera em segundo jogo-treino da intertemporada - Rádio Itatiaia",
+      "summaryKo": "파우메이라스, 연습경기서 프리마베라 꺾고 역전승",
+      "excerpt": "De virada, Palmeiras vence Primavera em segundo jogo-treino da intertemporada&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWjZpcTNadFJxWjl6Z0xWckFtd1pPWk9ObnF2N2U2TnR2czFLWU5vY0Y5LWJtakk4dkY3cmdaWXRVMXZVZS1SbTVudTFVRFVLZ05fZGVTUVBOZDY0VzVSTkg3QkJnc2ExbS13aURkTjBmSl85WS1hN0FQWlRQcGxfejJoOE96OGVCS1hVZzMwaS02UFpHNldyOUdmd28zcVoxUDR2UDBncjgyQ2Y1WmNWNG5CYzBTS2ZlLTJ6Nzc1V1l4R1UxYkJiQl9mVVJyYWotNURNVWV6Q1ZJeG45Sll3QW5PTDFKRDdkLWJrZXhTaW5QQk82SkhHYkx3?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-04T18:27:48.000Z",
+      "whyItMattersKo": "시즌 중 휴식기 연습경기에서 보여준 뒤집기 승리는 팀의 투지를 보여줍니다.",
+      "fanTakeKo": "역전승이라 기분이 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMipAFBVV95cUxONDdhQkFmMmxyVUg2YWw1c3NiVmNuZ3BybFR1Wk54WnZ2UVptQmxBeVZVNll",
+      "title": "Palmeiras ganha jogo-treino de virada sobre o Primavera - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 프리마베라전 또 한 번 역전승",
+      "excerpt": "Palmeiras ganha jogo-treino de virada sobre o Primavera&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDdhQkFmMmxyVUg2YWw1c3NiVmNuZ3BybFR1Wk54WnZ2UVptQmxBeVZVNllmbjFTRE92cGVBYWNDMDdBY0tTMFhKOG05b1g5MWprQVhxaWlhU1RrQ0JxaC1qMU1VV2lmcllOTVJLeE5nZHhLLV9HdHVrS3ZidXJYYjVMbXNwODEwdVZNdGFFbWhHd2xITmNLdTVZZ1hPN21keVFMUQ?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-04T18:13:58.000Z",
+      "whyItMattersKo": "연속된 연습경기 승리는 선수들의 컨디션 조절과 팀 분위기 상승에 도움이 됩니다.",
+      "fanTakeKo": "승리로 분위기 잡았군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFB5a2RUVnBCZ1dQX3VHOXJmb0JBaXBlS21HWmhZSTZXNkM3bWhiS1dISDd",
+      "title": "Sub-15 e sub-17 do Palmeiras goleam Flamengo-SP pelo Paulista - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 유소년, 플라멩구SP에 대승",
+      "excerpt": "Sub-15 e sub-17 do Palmeiras goleam Flamengo-SP pelo Paulista&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFB5a2RUVnBCZ1dQX3VHOXJmb0JBaXBlS21HWmhZSTZXNkM3bWhiS1dISDdOZktNcnlSOG9TWnN3bDU1OVVPR0dRQk9kV0NLcXRUTkQweVdyZGdqN2hCcHBOZUVUVzlVWkIxMi16NVJFb1JYa1BPV1lzRTFwWGR6cllYb095WmtQRjRoY2ZSN04xWFFhank4UFJNcUdBTWVNbmtBUkppTF92R3hlR1Zv0gG0AUFVX3lxTE1wXzJNS3FDRThCdkdlRjRxRDBFZFVraVZyVlpvV0p4OUZlVFJwanJuMXdPNU9HVHdzZG13MlpvWDJHc0VQQnM5U3dROUxUZzFaVENHdXBDMVNlUl9ZOFJsSkZMblhjNWUzNXR5R19SSnA2Si0xWXdDNngtazVvWkdFLVBKcDdmSWl3Vm5RSy10eldNREJSMUVDYXBCSFZqVnBGeUMwemZPa2d3NHBrMXZvbzllOA?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-04T17:34:00.000Z",
+      "whyItMattersKo": "유소년팀의 압승은 클럽의 미래 전력과 육성 시스템이 잘 돌아가고 있음을 의미합니다.",
+      "fanTakeKo": "미래가 참 밝아 보이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzlCamxiREl4TzlaTnBBS2dNUm5qd2drYV9VNDctSWtPbmRRRzJ3a1pBZ2l",
       "title": "Palmeiras estipula valor de R$ 100 milhões para negociar Maurício após a Copa do Mundo - Fato Paulista",
@@ -880,70 +944,6 @@
       "publishedAt": "2026-07-03T13:16:00.000Z",
       "whyItMattersKo": "다닐로 영입을 위한 협상 진행 상황이나 보타포구의 입장을 파악하는 데 중요한 단계입니다.",
       "fanTakeKo": "다닐오 꼭 왔으면 좋겠다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMihAJBVV95cUxNM1BuMGhqNDZPY2hMV0JpT1J6TE5WSzdMQl9vT2p4Y1lKbTdtY0dTWWxuRi1",
-      "title": "Palmeiras e Flamengo recebem proposta de Textor sobre futuro de Danilo - Terra",
-      "summaryKo": "파우메이라스, 다닐로 이적 제안 접수",
-      "excerpt": "Palmeiras e Flamengo recebem proposta de Textor sobre futuro de Danilo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNM1BuMGhqNDZPY2hMV0JpT1J6TE5WSzdMQl9vT2p4Y1lKbTdtY0dTWWxuRi16RDhzVUI1OUxMd0ZwTDBLRkJLRzl5V3dfRXdFNnBGcUF6RkRaLUF3RUJHaU1tVkx5SlA1Mk9EWV83U01Lb1dTNWlIVnFlaV9ISF83R1NHd3QyNkRTSFNRYVQydzNWd1R1cldjM0FnTWZONDNZVWxld0ozeE9YTllFMDlxNWlhUWMwVlNHMkJNQjRuM3NTd0VUbzMxWDJpb3R3cVg5YVRKeHB5MUQtOVUtNS14ZXFQcWdUQnQweVRPUmNQN2gtMzA5SXhTVGlycVh2Q3gteHh6RA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-03T13:16:00.000Z",
-      "whyItMattersKo": "주전 미드필더의 이적 제안이 들어왔으니 팀 전력 변화 가능성이 생겼습니다.",
-      "fanTakeKo": "다닐로는 절대 팔면 안 돼!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-28-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2Y0VnkzNWFwWnlNNXRyNEZiVlB1bnBjV1RnYjdfX21BeDJuZ2NSQm5jaF",
-      "title": "Palmeirenses doam R$ 100 mil a hospital de câncer infantil em resposta a post polêmico - ge",
-      "summaryKo": "파우메이라스 팬, 논란에 맞서 기부 10만 헤알",
-      "excerpt": "Palmeirenses doam R$ 100 mil a hospital de câncer infantil em resposta a post polêmico&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2Y0VnkzNWFwWnlNNXRyNEZiVlB1bnBjV1RnYjdfX21BeDJuZ2NSQm5jaFhBQUhLVXAycEdyN25nUHN6VW1oODdHU3NCejdsYW1RYk1OZ3BQNHNmNndCQTlpMXBOT0UxM05nSWJCOElScGk5T1Y5MGxBZllWY1U1dmpoSlNjZ0pOZld5RGdlaGg4TkVONUhhdl9CNWctQ2hQbmxVcnl5eTg0aDB0d2FYQXM4aWkzZl9sVWxUaVN1dDdvYWwwczIxMFhUTVVfak9FRDdXT2J5NUtUQXFUMVJNR2ViampwQ0QxaVHSAfgBQVVfeXFMUGVyVGdFSDQ1NU1HaE5Ba0E2UlRobmszVkU4ajV2M2pycFphVHhmT1pqVTlkMF9vUTRHXzlPQXpFd0dOcWRwOUxwSndoaUs3TlltWE8tZndHY0hDb2w3MVg0My1PcFNocGJIQlRzZVlPS0RNQi1GNGlPbDFKcU8yN0Y3NHNYMTdzai1FejlLYzAxZXJQQWhYWmRYYW9ZN3pqQ2RuV0w3T0tHRUpzWktMVHVuX0xTV29hZXh5OEVSUWo1SjhqLWZfQm12YTFiYWIyaGp4cUt4SDNIbHFnX0FKdGRzcFRtRHh4c01IMXpLaUo4bHR6ZmlnTDY?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-03T13:00:21.000Z",
-      "whyItMattersKo": "팬들이 논란을 기부로 승화시키며 클럽의 긍정적 이미지를 다시 한번 입증했습니다.",
-      "fanTakeKo": "역시 파우메이라스 팬이야!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmd0T1dQZVJFT3VPbnZvWHV3TVFJZUpmRGw0NFVJdjd6dXNwclhBZWdrem",
-      "title": "Crise: veja quanto o Fortaleza busca receber com a venda do mando contra o Palmeiras - GE",
-      "summaryKo": "포르탈레자, 파우메이라스전 홈 권리 팝니다",
-      "excerpt": "Crise: veja quanto o Fortaleza busca receber com a venda do mando contra o Palmeiras&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmd0T1dQZVJFT3VPbnZvWHV3TVFJZUpmRGw0NFVJdjd6dXNwclhBZWdremZ0aU5SMThvN0hka3IwRmZ6QUdCc1hNVFIwZ1dZR0k2a2g5OHlIYUxwSGFKaTQwMUlibGx6TloweVZCTlNIY2JQNUNIMVBGTUFkSjVYVnJwMW94V0VMaHBUbG9maDBlbjg1SkZQSHZsYkZYS1BtX01oc2czcmt2WkZ6R3VMVU1NVm9HTW41YzBJcXh6aUozOVRlOGFUM1MtdkxVaWYxRXhNOHUtc09uMXpTZWRUa2F1c21qcFNFTHNPQTNQbnFEUi04bDVIZFR4WTNRelUyZEFz0gGSAkFVX3lxTE1pbnMzWDNFZV85UWgtckF3aFJJMHhWUkU2MTEzN29aRXpSSC15RklGT2huUjBDSm12bEVaMXFSb2VsdkM1UHNTbDNkYnZUM3VnU2pOTUh4Z1psblhzYzNfUHVoMFNRQU5VcENNN1FscWJyaVVJVVlpdzQ0MWVuLUVCVG16OFkxc1o2MkVqa3VEVmotT2tPbjB0bnZZX2ZGSm52Sjl6NmZXVk5xQWRidmFkU2lZZV9nbkZCWWZocmFRQUJya0c4YU5uS3BIU1czWmZiMzNJNG80YzM3QjJiRnBPckstM0YyaW1PT3c0MUN5TDIybE9uVzdIeTVvM0h2dFdrSTZoLXpjaTdZWHY0eEdJeEE?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-03T12:55:02.000Z",
-      "whyItMattersKo": "상대팀의 재정난으로 홈 경기 권리가 팔려 경기 진행에 변화가 생길 수 있습니다.",
-      "fanTakeKo": "상팀 재정 상황이 많이 힘들가 보네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRktIU3JCS0ZENGQzRmoydkJkLUtLRkM5NkJrY1FoQUxiUzVzZTlmNXRaSlF",
-      "title": "Bahia fecha 2025 com 3° maior patrimônio líquido do futebol brasileiro e supera Palmeiras e Cruzeiro - Jornal Correio",
-      "summaryKo": "바이아, 파우메이라스 앞서 순자산 3위 기록",
-      "excerpt": "Bahia fecha 2025 com 3° maior patrimônio líquido do futebol brasileiro e supera Palmeiras e Cruzeiro&nbsp;&nbsp;Jornal Correio",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRktIU3JCS0ZENGQzRmoydkJkLUtLRkM5NkJrY1FoQUxiUzVzZTlmNXRaSlFVVzFLS2RpbzM3RE95YTZycE5sbzNydTIzaFd4bVotZGtKak9mR0gxc3d4a3lBcVp0eE1PNXY4UjdyTzhodXpyOE1UaG9zOWN1QmdCckFuazQxR0pRaGl2Z2luNmlMTWNRZDVzXy1xZFRpRS1IQU8wbmFJbUtnbzFNUHRzZjRPNk96VlR6eGRTTzRNN1hRR3RVbHZ0NGhPRWZ6RDN4M2oxOGxOZXlDRDdPcTg4NA?oc=5",
-      "source": "Jornal Correio",
-      "language": "pt",
-      "publishedAt": "2026-07-03T12:15:01.000Z",
-      "whyItMattersKo": "클럽의 재정 안정성을 보여주는 지표에서 라이벌 팀을 앞서는 성과를 거두었습니다.",
-      "fanTakeKo": "재정 순위 밀리니 좀 씁쓸하네.",
       "tags": [
         "뉴스",
         "AI요약"
