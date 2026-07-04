@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-04T07:22:48.534Z",
+  "fetchedAt": "2026-07-04T09:36:08.430Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU91d0hRY0loQnpjXzF0a1dNcGxxeXZLc2tJRmx5Y01iOEk2d1JCdXVQRG1",
+      "title": "Palmeiras já venceu o Uruguai em dia que representou a Seleção Brasileira - tmc.com.br",
+      "summaryKo": "파우메이라스, 브라질 대표로 우루과이 꺾은 적 있다",
+      "excerpt": "Palmeiras já venceu o Uruguai em dia que representou a Seleção Brasileira&nbsp;&nbsp;tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU91d0hRY0loQnpjXzF0a1dNcGxxeXZLc2tJRmx5Y01iOEk2d1JCdXVQRG1qX3Q4ZzQwdHZqZGkxX0NLSVozbFlHUUhZR3dMWjJIQk8xaTFrbGZETG8yb3FjZ25iRVEzMkRhMGc3c0lkaGZPWksxRUhUOS1UWThQUGZDUWdkMVUzc1ZlZ3BqdU01eVVqeFpqZTNxN1pPTmtacHphZVF5MkpKTkJ5YUFzMTMxVGQwQQ?oc=5",
+      "source": "tmc.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-04T09:32:00.000Z",
+      "whyItMattersKo": "과거 브라질 대표팀 성격으로 우루과이를 꺾은 클럽의 위상을 보여줍니다.",
+      "fanTakeKo": "역사 깊은 클럽답네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVgzM29mYWRLeDNEUFNyNDdFcWJuZ3QzZHk5R1pMSXdfaFlxV0NPNkY3ejV",
       "title": "Sem férias, Vitor Roque avança em recuperação e anima o Palmeiras - GE",
@@ -104,6 +120,22 @@
       "publishedAt": "2026-07-04T03:31:37.000Z",
       "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 가나를 제압하고 마지막 순위로 16강에 진출했습니다.",
       "fanTakeKo": "마지막 순간에 진출이라 짜릿해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTAwaGpGT2RYN3BZRjNJb1ZvU0N4Tjg0VTBhNWt0Ul9LR1NIWDBnWksxb2l",
+      "title": "Copa: Arias decide, Colômbia bate Gana e é a última classificada às oitavas - CNN Brasil",
+      "summaryKo": "콜롬비아, 가나 꺾고 16강 행 확정",
+      "excerpt": "Copa: Arias decide, Colômbia bate Gana e é a última classificada às oitavas&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTAwaGpGT2RYN3BZRjNJb1ZvU0N4Tjg0VTBhNWt0Ul9LR1NIWDBnWksxb2l0d3JHS2VwWWNPVjZCclg0My1JU21FRVE4WEZGZXBvdTBDUV9iaDNma3BuaTlfQWFlTXFTQ0dabnRNMDdXc0lQS3hwT2l0emxIVVFoLU8zQWVoWFV1VTdxMWp5TWJ4UnYwTElia1FZNnhVMTlDS0lsZW1INGN5NTVkemltanZIS1Z4QmtlS0M5WVV2UDZXck9Tc3licFNHd2d0N1E?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-04T03:31:36.000Z",
+      "whyItMattersKo": "월드컵 조별리그에서 콜롬비아가 승리하며 최종 16강 진출을 확정했습니다.",
+      "fanTakeKo": "16강 진출, 축하합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -912,38 +944,6 @@
       "publishedAt": "2026-07-02T22:00:00.000Z",
       "whyItMattersKo": "이적 시장에서 선수 가치가 오르며 팀의 이적 정책에 영향을 줄 수 있습니다.",
       "fanTakeKo": "좋은 제안 들어왔으면 좋겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2RMMV9BeUhmaEcwX2RSS2d3enVyYU51NjlsVmduallFcG5rRUdVSUlBVUx",
-      "title": "Palmeiras vence Santos pela terceira rodada do Paulista F Sub-20 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 여자 U20, 산투스 꺾고 승리",
-      "excerpt": "Palmeiras vence Santos pela terceira rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2RMMV9BeUhmaEcwX2RSS2d3enVyYU51NjlsVmduallFcG5rRUdVSUlBVUxhSm4zWFZ2LU9KY2dJRm15VktqWjB0NGxKV2hGeDBKbTNnM25SSFI4aXJJckx4OWJkeUZmNmQ1MXZaTUdZVEFiYTVDSkxvLXMxZW1NM3ZHUS1aLW9raVd4b3A3N0FXSVdua3A0VHJNWksxNVFLa3dRU1Jn?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-02T19:58:04.000Z",
-      "whyItMattersKo": "여자 유소년팀의 승리는 미래 세대 육성과 팀 전체의 긍정적 분위기를 이끕니다.",
-      "fanTakeKo": "미래가 기대되는 승리네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVZHTGNhRmdlanhwN1ZjT3FJZ29GbHJaM2Y1eEZndTd5REw0bzBEc0hZc2",
-      "title": "STJD marca julgamento de recursos de jogadores do Palmeiras - O TEMPO",
-      "summaryKo": "파우메이라스 선수들 징계 항소, 곧 심사",
-      "excerpt": "STJD marca julgamento de recursos de jogadores do Palmeiras&nbsp;&nbsp;O TEMPO",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVZHTGNhRmdlanhwN1ZjT3FJZ29GbHJaM2Y1eEZndTd5REw0bzBEc0hZc2tGd2x6RkZSZEdCNndBdEdoLVNkZ3lKclJveFNUQkNYdHhnbmJzb2FITDNCdGRFZV9aNnFpWHBxZDY0aEdZV0JiVVpQWE5oMThpdDAwQjRUQ2tLdDkzbWZKbEE1MU9WejFJYlVTdUF1LWhsajdUVmFSQ0M0cWx1R0lCclo1a25hTDB3VG1HQVluR3RrcGcxWGZVNElj0gHMAUFVX3lxTE8wU240TmxVeVV4S1ZMNEUxQ1BGenhBTHRqa051dTk3X3lVdXRoLUkxTGdqZzNabE42VFFtQ1dFU2ViZWJfX204dVBKQW9BUzF1ZlVtS1B0N21HZTZBMFVsYVBMazUzS3U3VFB1RXBBTzNjYWNFang5eE50RnlvNzhCWnROYTBqRzAxSlNPc3RnZ0hPVE1pNHAwYmdIYVNxelRIUVMwUXZwdlNvcGtiOEhDa1V1N1BtSGppMzV5akQyQzJxTmpsSUlMT1FUZw?oc=5",
-      "source": "O TEMPO",
-      "language": "pt",
-      "publishedAt": "2026-07-02T19:45:01.000Z",
-      "whyItMattersKo": "항소 결과에 따라 선수들의 출전 가능 여부가 정해져 팀 전력에 영향을 줍니다.",
-      "fanTakeKo": "선수들 출전 정지 풀리길 바라요",
       "tags": [
         "뉴스",
         "AI요약"
