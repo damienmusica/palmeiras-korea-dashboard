@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-05T16:34:25.971Z",
+  "fetchedAt": "2026-07-05T18:04:29.720Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUxqOW5Rc3Qxc0dkTEl6aXdwNjhKa2t6RnBaSGpDTXhieVZHX0dmR0h6bXo",
+      "title": "Valorizado na Copa do Mundo, Mauricio quebra silêncio sobre futuro no Palmeiras - Rádio Itatiaia",
+      "summaryKo": "마우리시우, 파우메이라스 잔류 여부 입장 표명",
+      "excerpt": "Valorizado na Copa do Mundo, Mauricio quebra silêncio sobre futuro no Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUxqOW5Rc3Qxc0dkTEl6aXdwNjhKa2t6RnBaSGpDTXhieVZHX0dmR0h6bXo3SHc0YzF3WUVxRkE3eC1wRHRoVDMtdHpjeDY2ZnBSUGFqZXBEWmJXQ0R1WXFHSGV0cUJGRmptNllsTnVvQ0M3ZloxYTBzbnBEMG54cDY2NGZXdFlqTG9WazdBVmRGSVRCajkyZVhSVWFTN0dqV1JRdkdHQ2I1aGpWdXg3ZWtjOTZiemxaZjJLTkFWa1R4eThXMllXeC11anZjYnRacnFoV3Y3TlAtcTBjNVhBVTAya3JDR3NmM2pYMWFFeWcwNVlkN0hQOUVtTW8?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-05T17:51:03.000Z",
+      "whyItMattersKo": "월드컵에서 빛난 주전의 잔류 여부는 팀 내 핵심 전력 유지에 큰 영향을 줍니다.",
+      "fanTakeKo": "마우리시우는 꼭 남았으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1RvUUN2elRKOTBaanF6TnFya1lhS0RKT0pVUVZ1YlJ0YVhtYW5lQ2NqWjd",
+      "title": "Palmeiras bate Porto Foot Ball fora de casa e segue na liderança do Paulista sub-20 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 U20, 원정 승리로 선두 유지",
+      "excerpt": "Palmeiras bate Porto Foot Ball fora de casa e segue na liderança do Paulista sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1RvUUN2elRKOTBaanF6TnFya1lhS0RKT0pVUVZ1YlJ0YVhtYW5lQ2NqWjdDQ3dodG95OGU3dzIzcUF0bzV6clFydDFHSUxFeWZQbzBTc2x3MlRSNGJBaktxUXQwWk9HMWlGNlNVVkZTaHROREo4YUJDNDZ6bE5xbEY0MHRCTDZNYW43RDM1QXl2VjYzWlVBWkZHT2JEOGIzVWFYelpiNGs2M01IVWJEYV90R0hmM1lRelpPeVNycklfSmZzMDN5QjZHcGfSAdIBQVVfeXFMUGl5Zjl2MUk3MlVVX2loVlVhTTYxckZGT3RwSmk1UU91N2k2ZzUwLTE0ODZiUmhYVzZ2QjhscFNlWWJYMFJkSjVaRUd1V3hnRWR1QUxzV24wVmV4T2xyUGt1YjZxeWNrcG51Mmo3YTUyeERDSElrMFd0TENIUTRic1dtY3lyTzdGWjhDYmxWT2FBWVhQSmJ1Rm9LOThla2QxZk0wRWdhbkR4SHRIX0JtSlo5YmJlR0NTYlpHeU5VOEhKdWZGeXpoeW8tMjI5Y3VhZlZR?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-05T17:10:00.000Z",
+      "whyItMattersKo": "유소년 팀의 선두 경쟁은 미래의 1군 전력을 위한 중요한 성장 과정입니다.",
+      "fanTakeKo": "미래가 기대되는 우리 유소년팀!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDczWVIzLVdkcFJCb1ZQTjcwR2xYTk1MUVVlaDNManZyQjVIS3RYMTJ2UFh",
       "title": "Mauricio diz que \"foco é sempre ajudar o Palmeiras\" após receber sondagens - CNN Brasil",
@@ -14,6 +46,22 @@
       "publishedAt": "2026-07-05T16:31:23.000Z",
       "whyItMattersKo": "이적 제의가 들어와도 선수가 팀에 남겠다는 의지를 보여 분위기가 안정됩니다.",
       "fanTakeKo": "마우리시우는 우리 팀 선수니까요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM00ySUR5bmZNZ1dDbkRMLURJYjNsbnYtU2NoNWdwSmVOQ1EtazNIWWFUNlJ",
+      "title": "Mauricio fala sobre futuro no Palmeiras após a Copa: \"Que eles possam resolver da melhor maneira\" - GE",
+      "summaryKo": "마우리시우, 파우메이라스와의 협상 잘 풀리길",
+      "excerpt": "Mauricio fala sobre futuro no Palmeiras após a Copa: \"Que eles possam resolver da melhor maneira\"&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM00ySUR5bmZNZ1dDbkRMLURJYjNsbnYtU2NoNWdwSmVOQ1EtazNIWWFUNlJIZG54Y1FBVVl5cHlUaVlEZDJtdEZpOGg4NHM4NDVvMDVqNElqd2VUemF6cTBkRFM3M2EwakxsTE9ZWHVyUUt2QjdnU3RBam9jSEpCQ0pXZndhX25FZkkyeFM1b2lpczJEOUU5QTNxUk01cXJNZVNLa3ZNUWVpWml2WTFycGhBcEFJZHRqRV9FQzhzM0tTdndjdTlueXF6WjJmSklmaDk4VzFhNXREdXRoX3YtaURxTFRrTHV3Zi12TGE1UmlTM3FfOXFR0gGGAkFVX3lxTE5IWjFiNml3b2RFSnBIbmhBeFQzcXdKZWRKQU1PQUcwWEROV0F2dHNDTWRydkk5U2FrZVRGblZUa2hxTmdJVXdnUzlHa2VCXzVvZWN1SnVoNGx3blI5dUNURmJnem0xaTQzSEN1SjJhTzJ0X1p0SlpLSkFZZ2lMTFRTTWhFeXhlclBhX0lReUxRTHoxRnM0MEhYUWF6Q3VpSG02aWU5VTBBbkI5MTBTcWxiNjJpbll3R240c0VQSmM5MEdIci1XUlQ0YzBuUnF2V04tYUNNVW9pdmlHSXVsa1JacU9jbVJINUlZZVJQZmhTWmx6X2dacVYtSkVBb2JxMERxUFQzaGc?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-05T15:48:23.000Z",
+      "whyItMattersKo": "협상 잘 풀리길 바란다는 발언은 선수와 구단 간의 잔류 논의가 진행 중임을 시사합니다.",
+      "fanTakeKo": "좋은 소식만 들려주길 바라요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -153,7 +201,7 @@
       "summaryKo": "구스타보 고메스, 코파 아메리카 도전 종료",
       "excerpt": "Gustavo Gómez diz que sai da Copa \"orgulhoso\" da campanha do Paraguai&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSE13WDBuendwckZGUFlDMWZZaG5xRl84VURIczZOZWpodTgtY09qajVhajFoZm1faUVuYWZXZXRBM0pfb1pGSHdNNm1EVVRyLWIwQkFoTHptY09MZkhPOE1uMWZKZUJnMlFhRnRpa0N1ZlNEMXg1N29pc2Q5bDB5Y0hrcjVRYzU0elpvSE5oN3VNMUQxUVJzUGVQcG9nTUt6RDFUUm1tbWN0aVZpckNjV240NmNMM1Q0aUtfR190VFYyd3hKY3pTaDFjNF9ERFE50gHfAUFVX3lxTE4yZ09JMU5uVjE0QWd6NGtONDFfYl9ZQ29uWDJ4anRfbFh4U1c1WFUxdk5KZThhbVpkQkMtSFhjc1I0ZlFZb1ZDYnFaRlItSlpHay1iNUpuZkdTT3VhTzNDRjY5SjVJUnB6X3p3NDVGZF9DVEtoUlUzMTl3Ti1JVmF6NW1JQWExNElrOWgwbHN5dFhWODUzTFQ4QXd1LWxaUDU0REJUQ0lnbkpqc2EwV0FEQjV2U1NuYmhLTk1zVVpSdDRScGo1eTZyLWFjOGYzbzExM0x2blJUNERYbzNlM2s?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-05T01:17:20.000Z",
       "whyItMattersKo": "주장이 팀으로 복귀하면 수비 조직력을 다시 다지고 리그 경기에 집중할 수 있습니다.",
@@ -313,7 +361,7 @@
       "summaryKo": "파우메이라스, 시즌 전 두 번째 연습경기 승리",
       "excerpt": "Palmeiras vence Primavera em segundo jogo-treino da intertemporada&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXhEckI5aklWaGM3ZnBIdHM0VGdVU0FIY3FzVFI5XzlkalVjclRiQ3p6V3BGQ3RZWW1aaEZ0Q2ZQZHRoX0JFVzgzWnBQd2l1ZjJWRDJ6V2tSWm1hN3pfamtSYUVJanNpdVgzemJDVG90QmdDNGw2S3R2MWxPS3o0UUZRaFZsN1N0YkNQRWh6Ymd0RUwzV0hiODN1TXVDZ3pEQ3pWYkJEZGRkLS1PYncyRmVnUUItT2RYdE5vdnpPQ0cxN0pTcllQQURuX1RyNmU3YUHSAeABQVVfeXFMUEVtT0FHUWdjSUpmM3dkZXNDajZmZklaYlVjNUkzdms0LUYtVDhlX29rRV9jLTlFTXoxenM2aWtoRnZ4ZzhySFpDanJ2aWdFRC1iSmx2SEUwbVl5Q1dGaUlvYTFDQ3ktMlZOOU9pNnd3Tk9aZFJJM0NFM0VQTktsd3cwbU9UcmZfUHFTbFdEdWNVcTRKeDhqWG92TFJaa0pPR2JHQzdIZjZxbUkxM2U0X3BWY0NTQVkya2VaUmpwbC1hQUl0bUVpOXIwRDM3NnBqY2ppa2FPT0RYY3VOYU8xVnU?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-04T17:41:55.000Z",
       "whyItMattersKo": "시즌을 앞두고 선수들의 체력과 팀 조직력을 점검하는 아주 좋은 기회입니다.",
@@ -902,54 +950,6 @@
       "publishedAt": "2026-07-03T22:48:00.000Z",
       "whyItMattersKo": "미래의 주전 선수들을 알아볼 수 있는 U-20 대회에서 라이벌들과의 대결이 성사됩니다.",
       "fanTakeKo": "유망주들 활약 기대합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1VzdzQ5ODNwYXNtdG0zbzhFS2M5OEU1QzhoaUNQb1hoSnJ0a25uWVVtNk1",
-      "title": "Palmeiras busca aumentar hegemonia estadual na década em final do Paulista - CNN Brasil",
-      "summaryKo": "파우메이라스, 상파울루 주 대회 결승서 10년 우위 다지기",
-      "excerpt": "Palmeiras busca aumentar hegemonia estadual na década em final do Paulista&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1VzdzQ5ODNwYXNtdG0zbzhFS2M5OEU1QzhoaUNQb1hoSnJ0a25uWVVtNk1PVFRMSnBYeF9BaVh3b2VzQmJOcGRLbjRka0V2bVR6T2tYRXdZaG5IZUhGbGVSdExVM0lXWURTeG1PdzBkbEFXWVFxR2VBek0xeF9DYW9FdF90eWxqSHJEQ0xINVhaQjB2R3E0MHpIRzcybHBsNU9uclFfUVVZMnJjUnlRTVlMNFA5eUM5THFsUnlncWlsUGRhakUtcXBXdw?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-03T22:35:32.000Z",
-      "whyItMattersKo": "상파울루 주 대회 우승은 팀의 위상을 높이고, 10년간의 지배력을 증명하는 중요한 기회입니다.",
-      "fanTakeKo": "이번 결승도 무조건 우승!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT185TXVqRm96MWg2THRZODVxV2JvQ0pNY09lT0pWTDVPMjJvSUpLTjJEWGt",
-      "title": "Palmeiras trabalha em dois períodos e confirma jogo-treino - Terra",
-      "summaryKo": "파우메이라스, 이중 훈련 후 연습전 확정",
-      "excerpt": "Palmeiras trabalha em dois períodos e confirma jogo-treino&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT185TXVqRm96MWg2THRZODVxV2JvQ0pNY09lT0pWTDVPMjJvSUpLTjJEWGtvNWM2aXd2Z2wyQm9YcThOREFMRzBxRmhZeHR6OXBOR0RXZUtpZHZQUE1rZDRMX25oS3BsQjJUaDczNkgwdHpxaHVrbHJwSHVXWHh6U3FuWTd5QTBKWGxDZkhiVTJYSmVoX1Y5S2JZZFlzdkNYUURHU1NQY1JMTjE5VkdjSWtTUGdnRDdNeF8wM3Ytc0ZhLW1hSVFfSk9va1BKWnQ1SkROSExVWm5abzZnRXE3UHJ3?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-03T22:25:00.000Z",
-      "whyItMattersKo": "훈련 강도를 높이고 실전 감각을 점검하기 위한 일정입니다.",
-      "fanTakeKo": "훈련량 늘린 것만 봐도 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi6wFBVV95cUxON0xETF9yZG13Yk5FeTRkaFNXRjRRZUk5T1VJTFA3QmtQcS1nRWVicGdmaFo",
-      "title": "Coritiba x Palmeiras: CBF altera data e horário do duelo pelo Brasileirão - Rádio Itatiaia",
-      "summaryKo": "코리치바전, 브라질레이렁 시간 바뀌네",
-      "excerpt": "Coritiba x Palmeiras: CBF altera data e horário do duelo pelo Brasileirão&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxON0xETF9yZG13Yk5FeTRkaFNXRjRRZUk5T1VJTFA3QmtQcS1nRWVicGdmaFo4aGJsdzRuQWhvcU9DTHBIdl9lWl9DT29mendsS1pqQVc0UU51UlNSSVJNaElZZEVUNEhQeFZ2bVlrRGp3UDRuaVFSQkFMMFM2WWtoWkJrU3B3X3BGSHJHZC1UTmdkMTdEXy05YzkwYkdpNVBZeElwSVlmcFM2NERJUGhrZ1FzYTZaTE5aQmh4WHlscFUxWGdxWkJHQnk4UFhSUnhmanRtMS1sWHFadHYwZVU4MjFIZE1WYVp0aG9j?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-03T22:06:04.000Z",
-      "whyItMattersKo": "경기 일정이 바뀌면서 선수 컨디션 조절과 전략에 변화가 생겼습니다.",
-      "fanTakeKo": "일정 자주 바뀌면 팬도 힘드네요.",
       "tags": [
         "뉴스",
         "AI요약"
