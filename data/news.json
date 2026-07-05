@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-05T00:09:26.038Z",
+  "fetchedAt": "2026-07-05T04:40:25.142Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGhvdTBmSE5CSUNvbEFXdkRUX3BXaDhhTHNlQ0dISkY2Qjh4U1NZYXRXbFh",
+      "title": "Maurício diz 'não saber' de interesse de clube europeu: 'Foco no Palmeiras' - UOL",
+      "summaryKo": "마우리시우, 유럽 이적설에 \"파우메이라스에 집중\"",
+      "excerpt": "Maurício diz 'não saber' de interesse de clube europeu: 'Foco no Palmeiras'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGhvdTBmSE5CSUNvbEFXdkRUX3BXaDhhTHNlQ0dISkY2Qjh4U1NZYXRXbFhLUWhuYWdvZ293M3lkMHdlMW42UzRlOVZ5UWVYTUt5MUxwMjVjSTFVUkJ4TWRLSG1JazNHVkVTdkljQ0doYi12YzkyS25IN2dqek9LVVQwY3pOZ3NnUlc4TkRnbTRWZWVXcWJDYVdEa2JfNmE2bG5pZ1JCa2VfTzNIdHc?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-05T03:34:07.000Z",
+      "whyItMattersKo": "주전 선수의 이적설은 팀 전력과 선수들의 집중력에 영향을 줄 수 있어 주의가 필요합니다.",
+      "fanTakeKo": "마우리시우는 꼭 남겨야 해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSE13WDBuendwckZGUFlDMWZZaG5xRl84VURIczZOZWpodTgtY09qajVhajF",
+      "title": "Gustavo Gómez diz que sai da Copa \"orgulhoso\" da campanha do Paraguai - ge",
+      "summaryKo": "구스타보 고메스, 코파 아메리카 도전 종료",
+      "excerpt": "Gustavo Gómez diz que sai da Copa \"orgulhoso\" da campanha do Paraguai&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSE13WDBuendwckZGUFlDMWZZaG5xRl84VURIczZOZWpodTgtY09qajVhajFoZm1faUVuYWZXZXRBM0pfb1pGSHdNNm1EVVRyLWIwQkFoTHptY09MZkhPOE1uMWZKZUJnMlFhRnRpa0N1ZlNEMXg1N29pc2Q5bDB5Y0hrcjVRYzU0elpvSE5oN3VNMUQxUVJzUGVQcG9nTUt6RDFUUm1tbWN0aVZpckNjV240NmNMM1Q0aUtfR190VFYyd3hKY3pTaDFjNF9ERFE50gHfAUFVX3lxTE4yZ09JMU5uVjE0QWd6NGtONDFfYl9ZQ29uWDJ4anRfbFh4U1c1WFUxdk5KZThhbVpkQkMtSFhjc1I0ZlFZb1ZDYnFaRlItSlpHay1iNUpuZkdTT3VhTzNDRjY5SjVJUnB6X3p3NDVGZF9DVEtoUlUzMTl3Ti1JVmF6NW1JQWExNElrOWgwbHN5dFhWODUzTFQ4QXd1LWxaUDU0REJUQ0lnbkpqc2EwV0FEQjV2U1NuYmhLTk1zVVpSdDRScGo1eTZyLWFjOGYzbzExM0x2blJUNERYbzNlM2s?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-05T01:17:20.000Z",
+      "whyItMattersKo": "주장이 팀으로 복귀하면 수비 조직력을 다시 다지고 리그 경기에 집중할 수 있습니다.",
+      "fanTakeKo": "주장님, 고생했고 환영해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiekFVX3lxTE5xMFBiNzdUU0U0cTI4d3hUSUp6Mnpzd1BYN1ZJZ0RPSzdoV1E3MGJkSm0xLXE",
       "title": "Vitor Roque avança na recuperação e prepara retorno ao elenco do Palmeiras - Fato Paulista",
@@ -46,6 +78,22 @@
       "publishedAt": "2026-07-04T20:20:02.000Z",
       "whyItMattersKo": "영입이 성사되면 미드필더 옵션이 늘어나 공격력 강화에 큰 도움이 됩니다.",
       "fanTakeKo": "재능 있는 선수 영입 기대됩니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxGMlYyYVBrY1NTNzdfcHJVcFdSQ3NLQ3AzR3h4VkFIZWl3emNJeUxIcHU",
+      "title": "Esposa de Jhon Árias manda recado para Leila Pereira, do Palmeiras - Terra",
+      "summaryKo": "아리아스 부인, 레일라 페헤이라 회장에 메시지",
+      "excerpt": "Esposa de Jhon Árias manda recado para Leila Pereira, do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxGMlYyYVBrY1NTNzdfcHJVcFdSQ3NLQ3AzR3h4VkFIZWl3emNJeUxIcHU4Nl9QcFFMS091bVlQNjFvT042dUE4czl2R1J3NGo3NUFMOWlEVjFOYTVmZ0RnNEtNMEIwNHFSUjZJdjMzbFZmbkZNajZ1OXliaHprQ1RXUGkyY1BrUXV1Skt5ZzkwVkYwWmNmb1lPZlVtMFdoQWpYQ1JuYXhuakFHREtPRDdUNzFlczJ3dDVsWHJocXd3Mm1VN3Bvd3ZGajhickg0MUxaWHQ4SmViUFV3VkFzaFYtUGZwOVQ0d2ZN?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-04T20:07:00.000Z",
+      "whyItMattersKo": "선수 가족의 발언은 구단과의 관계나 선수의 계약 상황을 암시할 수 있어 주목됩니다.",
+      "fanTakeKo": "구단과 선수 관계가 궁금해요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -299,7 +347,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOW5jcV9UZEdZYzZYeGRjcy1Oa0k1RU84SVNfcEMyTW1ISXRXSW95WGVlTTFQc0I0U0VjbHlsVFhWNW9Fdm5zVy1SZnBoWnZKbGdXOEtDaXFtNzN1bmQwLUw5WE9aaTg4eGlUUzBaaUtXWDl3WU1OSlNzUFYzVktlSS1lWGJIVmhnM3JwYVQzQlZONjhzdk9fc2tEeXZlZVlqQU5JV3V3TDlac2N1UlVWWndnSXpWQzVBTWc?oc=5",
       "source": "CNN Brasil",
       "language": "pt",
-      "publishedAt": "2026-07-04T11:06:54.000Z",
+      "publishedAt": "2026-07-04T11:06:01.000Z",
       "whyItMattersKo": "소속팀 선수가 월드컵에서 득점하며 팀의 위상을 높이고 팬들에게 자부심을 줍니다.",
       "fanTakeKo": "우리 팀 선수가 월드컵에서 득점이라니!",
       "tags": [
@@ -898,54 +946,6 @@
       "publishedAt": "2026-07-03T17:04:03.000Z",
       "whyItMattersKo": "브라질레이렁 일정 변경에 따라 팀 준비와 팬들 시간 확인이 필요합니다.",
       "fanTakeKo": "시간 잘 확인하고 봐야겠어요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTdCaVdVT3JQa1FDYkZFMm43RlIybDIxUlotOE85QUY3aldielEwSDNjdT",
-      "title": "Muralha Paulista será ampliada na rede metroferroviária, diz Tarcísio - Metrô CPTM",
-      "summaryKo": "상파울루, 지하철망에 '파울리스타 장벽' 확대",
-      "excerpt": "Muralha Paulista será ampliada na rede metroferroviária, diz Tarcísio&nbsp;&nbsp;Metrô CPTM",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTdCaVdVT3JQa1FDYkZFMm43RlIybDIxUlotOE85QUY3aldielEwSDNjdTdlQW1kcW11QTZTNHZMQWx0YmFJbDdIOHIxaE1hOWxBdjVKc09hR2hUMGllLWthcEhfVkxYeXctcmNyRzNIZWFzWjVDOERBWG9OVTUxUzdOdkpic0p1RUxNSW4zWHNvYzNYUkw5ODFWZUpURXc?oc=5",
-      "source": "Metrô CPTM",
-      "language": "pt",
-      "publishedAt": "2026-07-03T16:44:40.000Z",
-      "whyItMattersKo": "지역 치안 및 인프라 뉴스로, 팀의 경기나 선수들과는 직접적인 관련이 없습니다.",
-      "fanTakeKo": "이건 축구랑 상관없는 뉴스네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWQ2S01pdGVxSjcyaTd3OG9LTlF3SUxOVE8wOUJvSW9Xb0lVQnRXblRLeGN",
-      "title": "Dsquared2 nomeia o jogador de futebol Fermín López como embaixador global da marca - FashionNetwork Brasil",
-      "summaryKo": "페르민 로페스, 패션 브랜드 모델 발탁",
-      "excerpt": "Dsquared2 nomeia o jogador de futebol Fermín López como embaixador global da marca&nbsp;&nbsp;FashionNetwork Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWQ2S01pdGVxSjcyaTd3OG9LTlF3SUxOVE8wOUJvSW9Xb0lVQnRXblRLeGNSOUhxeGhGZnppNkFoYjRoQ19kcW5kNVd4YlNYOU83LV80Z2tIN1F4MkowQjdjSzRieGc5RnVJWnVGNmdfc0VISHJ5ZWRwNWthUll6VmUtT0xPRnFpcV9yUkQ4MmNobEtBWFdkcjUzM01LRW9KcE9Ob0gxb2RKWGNQeU9aZmFDU0NBQ1ItTkxoUnJUZEk2MEpNLUpXRGJn?oc=5",
-      "source": "FashionNetwork Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-03T16:04:14.000Z",
-      "whyItMattersKo": "선수의 글로벌 인지도가 패션 브랜드 모델 발탁으로 인해 더욱 높아질 전망입니다.",
-      "fanTakeKo": "멋진 모습 보여주길 바라요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0FWZngwelhfekJJRFFCSXM2X0dCQ1FoRVk0SmprMWxLQllWQWlmRXkzTGx",
-      "title": "Palmeiras: STJD libera Alexander Barboza, mas mantém suspensão de Allan - Rádio Itatiaia",
-      "summaryKo": "STJD, 알레산드르 바르보자 풀어주고 앨런 징계 유지",
-      "excerpt": "Palmeiras: STJD libera Alexander Barboza, mas mantém suspensão de Allan&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0FWZngwelhfekJJRFFCSXM2X0dCQ1FoRVk0SmprMWxLQllWQWlmRXkzTGxWS2x0U1ctZ2NRbXE2OThCMTVpbzN3VGIxMXh6Z0FlTDBPSUlWUVFMTjZXeDVMVnBXc19jcm5GcHAwdmF0WnhTdGM4bWFWSTNDclBiRWZKOVVQdFBlWmYxNEJZWk9KRVYzV3NkbjBhYXlpQ3JuOVZXdWpMdXdFVUdkWVJsTkFPTWdWQzVwYTVpSzdlLXRJQXkyOUkxTFFFajRZV3VHLXFsNTc3RUp3ajVzbWJVTHF3?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-03T15:59:17.000Z",
-      "whyItMattersKo": "수비수 한 명은 복귀하고 한 명은 계속 빠져 수비 라인업 구성에 변화가 생겼습니다.",
-      "fanTakeKo": "바르보자는 오고 앨런은 아쉽네요.",
       "tags": [
         "뉴스",
         "AI요약"
