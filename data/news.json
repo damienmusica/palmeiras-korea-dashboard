@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-05T11:54:13.067Z",
+  "fetchedAt": "2026-07-05T13:42:19.994Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDBMTWs2NFZLSERiampQWGJ0X0JlN0JmLXNyckx4Q3ZLV1RtZDZjcEEyOFd",
+      "title": "Mauricio diz que ‘foco é sempre jogar e ajudar o Palmeiras’ após receber sondagens da Europa e MLS - Estadão",
+      "summaryKo": "마우리시오, 유럽/MLS 관심에도 파우메이라스 집중 강조",
+      "excerpt": "Mauricio diz que ‘foco é sempre jogar e ajudar o Palmeiras’ após receber sondagens da Europa e MLS&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDBMTWs2NFZLSERiampQWGJ0X0JlN0JmLXNyckx4Q3ZLV1RtZDZjcEEyOFduRlFEaGtOam1Pa2xyLUh4VEFqSEQ5c1d1VHVPVFpoOTM4QzVlQmt1dEZJZEI5c0hLNkVva2hDWUYzdzhWaVpRTWc3QjRVRVFnUFF3RjBHVnZqTzBmSWl2bTFYTzU2SGRHVHBjMzdLLTdSWk9fck9Da2FQMnAwbHJQb052MjVFa1ltVWp6UVNIZ3B6YjBIeHhfd3FYMHVYTGhBWnV6ZFdXbS1GQUxRNFR2cHFGX9IB5gFBVV95cUxPVndRbXpPaGVCYXhtb1dEMDB5dW4xdHQ0bnVyNk1EMTc2a1VZMWFRTFN1RDBNbmpJZXdvSVdUWFgyQXZMRUJyYkFaUDV1UXFxZ2NGdE5HelJoTDJIcUxsdENPU1NvSnM3NTZfLTJQVVFPWmdxRndIZGhVQlBDVkE2T1lQQ204Z290R2d2QjZFeXdqeF8yRzlrNmxrbkR0QVloakZxZDZaM2JjSW40NkxIZmhVLWlOdkdTQ0tCU0h3dGU5MnpXMC1Kb1ptSjA0VGhTQXFDUVlRZXktZmw0Y19UVUZJaHpBQQ?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-05T13:15:00.000Z",
+      "whyItMattersKo": "주전 선수의 이적설을 잠재우고 팀 전력 유지에 온전히 집중하겠다는 의사 표명입니다.",
+      "fanTakeKo": "마우리시오 남아줘서 다행이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMidEFVX3lxTE1ibXh2NXlJdk0zWDVZQl9zYWlXaTNsNndxV3hOMVgtZFQ5TEFlME5yR0FaTFR",
       "title": "Paulista Sub-20 - Federação Paulista de Futebol",
@@ -41,7 +57,7 @@
       "summaryKo": "마우리시우, 유럽 이적설에 \"파우메이라스에 집중\"",
       "excerpt": "Maurício diz 'não saber' de interesse de clube europeu: 'Foco no Palmeiras'&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGhvdTBmSE5CSUNvbEFXdkRUX3BXaDhhTHNlQ0dISkY2Qjh4U1NZYXRXbFhLUWhuYWdvZ293M3lkMHdlMW42UzRlOVZ5UWVYTUt5MUxwMjVjSTFVUkJ4TWRLSG1JazNHVkVTdkljQ0doYi12YzkyS25IN2dqek9LVVQwY3pOZ3NnUlc4TkRnbTRWZWVXcWJDYVdEa2JfNmE2bG5pZ1JCa2VfTzNIdHc?oc=5",
-      "source": "uol.com.br",
+      "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-05T03:34:07.000Z",
       "whyItMattersKo": "주전 선수의 이적설은 팀 전력과 선수들의 집중력에 영향을 줄 수 있어 주의가 필요합니다.",
@@ -420,6 +436,22 @@
       ]
     },
     {
+      "id": "gnews-25-https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmZnbXhoYjB2eDYtMmI5RDZwQ2JWNWRKN1M0dUI2LXlIbFJoY1lhTWl3Rk",
+      "title": "Com gol de Arias, Colômbia supera Gana e garante vaga nas oitavas da Copa do Mundo de 2026 - Alagoas Alerta",
+      "summaryKo": "콜롬비아, 아리아스 골로 가나 격파하고 16강 진출",
+      "excerpt": "Com gol de Arias, Colômbia supera Gana e garante vaga nas oitavas da Copa do Mundo de 2026&nbsp;&nbsp;Alagoas Alerta",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmZnbXhoYjB2eDYtMmI5RDZwQ2JWNWRKN1M0dUI2LXlIbFJoY1lhTWl3RklwR0FzYWpwY0Rvb2VPb2N2aGduczRZZUFBNGx4aThlUnMyUG9rdXd5OUZtQ3pUOGJ0REFhUmRQc0VCVFIxTktaMUwxVVQ4bm51ZmF3a1dvTnBzeGYyMmcxaHRjbHg0TVBmOFNweDVRZFZVOUxTeVh3elhSXzVTSWlveDlWaGR4dGZvMFlsTTZqNW5sQ1huQmZnT0tTU0JR?oc=5",
+      "source": "Alagoas Alerta",
+      "language": "pt",
+      "publishedAt": "2026-07-04T10:01:41.000Z",
+      "whyItMattersKo": "국가대표팀의 성과는 선수들의 자신감 상승과 클럽 컨디션에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "아리아스 골 멋지더라, 축하한다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVVkVFkxU0xlR0FMZlNoSGhqd0N6ZG5hQVZMRk51Um9KVTJrNHliQWJObGd",
       "title": "Palmeiras alcança marca histórica na Copa do Mundo de seleções; entenda - Rádio Itatiaia",
       "summaryKo": "파우메이라스, 월드컵서 역사적 기록 달성",
@@ -441,7 +473,7 @@
       "summaryKo": "스페인 매체, 파우메이라스 아리아스 극찬",
       "excerpt": "Jornal espanhol exalta Arias após vitória: Ilumina uma Colômbia conformista&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVIxc3lJQTZJWmlqTFNEUUJMRFhNcUlPN2Y3UTFMOHFvdy12S01FS1pZakdWdF9WRDAzemh0UDJmQ3kxQW9Ecm92UWc4VG5FVEJtM2o4cWVkY28ySDZ6b0JfcnNiX2k5bjR5WkM0XzU4OWlDTEtmLVExZU9lVUp6bEdpYUR0UDJYa1FlcTZkc0E1alBoU1FRamxuY090VXBjZXZDTE8waFd2WVdlVl9UWnkzRFlRU0NLcW5COFJZUWVob3EyZXNQR1JXUDQ?oc=5",
-      "source": "uol.com.br",
+      "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-04T09:47:14.000Z",
       "whyItMattersKo": "유럽 매체의 찬사는 선수의 가치를 높이고 팀의 국제적 인지도에 도움이 됩니다.",
@@ -921,36 +953,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTy1YcVhmRHl1MFAxM1EzYWczcXk4Tzd5RlVyV1BYZV81RWt3MjJPXzJnZUF",
-      "title": "Corinthians deve ter dupla do profissional contra o Palmeiras pelo Sub-20 - Rádio Itatiaia",
-      "summaryKo": "코린치안스, 파우메이라스 유소부전에 프로팀 2명 기용",
-      "excerpt": "Corinthians deve ter dupla do profissional contra o Palmeiras pelo Sub-20&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTy1YcVhmRHl1MFAxM1EzYWczcXk4Tzd5RlVyV1BYZV81RWt3MjJPXzJnZUFsNlZfemxfS2FfZE9xSThIcG9MMFYwcVNTZ1dGREZMbUJqd1E5cW9MS0VDd2NzTXNzNG0tdWoyTnZqaklaa01tUUZZYXZKWExnV2Q5UERpcmc4OWpoZ3d1aDQ2cEdwT2pBS1BNTDdMNWM2Tjhfb3U0XzlTejBmaVNIX2ZJTmJsSzVZNXYzUjVOdDRBMVZSalZxOEFrbEJLeXFPd1I0cHFsWjFCRWc1dFRtMG03LUlUNXZZNnduaDlPTGhMT3dyT1dCWC1hQg?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-03T20:39:07.000Z",
-      "whyItMattersKo": "유소부 경기지만 프로 선수가 나온다는 건 라이벌전을 중요하게 생각한다는 뜻입니다.",
-      "fanTakeKo": "유소부전도 라이벌전이라 피 튀기겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVE5Rlk5LVdiaFZEblByR29uNkxXNnBjOUhqQjJ2TUtDc2l5S1hkUk5JeVh",
-      "title": "Sub-15 e Sub-17 do Verdão recebem Flamengo-SP pelo Paulista - palmeiras.com.br",
-      "summaryKo": "베르당의 15세 미만 및 17세 미만은 파울리스타의 Flamengo-SP를 받습니다 - palmeiras.com.br",
-      "excerpt": "Sub-15 e Sub-17 do Verdão recebem Flamengo-SP pelo Paulista&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVE5Rlk5LVdiaFZEblByR29uNkxXNnBjOUhqQjJ2TUtDc2l5S1hkUk5JeVhOYjRob0xGa3NrQVdUYllnQlFHQmtqRUNpcWNwb0MtS2tvaE5SbHZIYVRRU3Iyb0xIckxVdlpkZFBBbUxOc3kya1BzeXJJOVdEMUVTWnBrdnJ3VHItZU1zU1JlTmJLWDVUeVJZbkZFRWx1d2tvRkE?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-03T18:44:25.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
