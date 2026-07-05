@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-05T04:40:25.142Z",
+  "fetchedAt": "2026-07-05T07:57:28.717Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGhvdTBmSE5CSUNvbEFXdkRUX3BXaDhhTHNlQ0dISkY2Qjh4U1NZYXRXbFh",
@@ -9,7 +9,7 @@
       "summaryKo": "마우리시우, 유럽 이적설에 \"파우메이라스에 집중\"",
       "excerpt": "Maurício diz 'não saber' de interesse de clube europeu: 'Foco no Palmeiras'&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGhvdTBmSE5CSUNvbEFXdkRUX3BXaDhhTHNlQ0dISkY2Qjh4U1NZYXRXbFhLUWhuYWdvZ293M3lkMHdlMW42UzRlOVZ5UWVYTUt5MUxwMjVjSTFVUkJ4TWRLSG1JazNHVkVTdkljQ0doYi12YzkyS25IN2dqek9LVVQwY3pOZ3NnUlc4TkRnbTRWZWVXcWJDYVdEa2JfNmE2bG5pZ1JCa2VfTzNIdHc?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-05T03:34:07.000Z",
       "whyItMattersKo": "주전 선수의 이적설은 팀 전력과 선수들의 집중력에 영향을 줄 수 있어 주의가 필요합니다.",
@@ -94,6 +94,22 @@
       "publishedAt": "2026-07-04T20:07:00.000Z",
       "whyItMattersKo": "선수 가족의 발언은 구단과의 관계나 선수의 계약 상황을 암시할 수 있어 주목됩니다.",
       "fanTakeKo": "구단과 선수 관계가 궁금해요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2MxY0g3WHJlTEg5TXFaM0NpazYzQ1FrQ1M5NFE3a3pfaUpqaFd5QmtWX0Z",
+      "title": "Palmeiras vence jogo-treino contra o Primavera; veja lances - GZH",
+      "summaryKo": "파우메이라스, 연습전에서 승리 거뒀다",
+      "excerpt": "Palmeiras vence jogo-treino contra o Primavera; veja lances&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2MxY0g3WHJlTEg5TXFaM0NpazYzQ1FrQ1M5NFE3a3pfaUpqaFd5QmtWX0ZjejBkTHZOQ1dfVERhTEUtOE1tdWpOSl9rUGJRaGUwU3ZfVEhuamlkWmVVTjU2Ty1QWVJrWUdEcFFDZ01YTEVFVkFQZUlhUExEY3JrRlhxU3I2dnd4bHJPY2pyeGg4RHpTbjAzWG8yVDluaUd0R0Y2REhCS3RnbmxtYUIwOTRGTE9RVFZhMjdHSXRHZHVEUkdXa0dHcjlGVGNQWTI4NTRsaUxLVnNEWmFuSHVR?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-07-04T20:04:26.000Z",
+      "whyItMattersKo": "공식전 앞두고 선수들의 실전 감각을 점검하고 팀 분위기를 다지는 시간입니다.",
+      "fanTakeKo": "연습전 승리도 기분은 좋죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -393,7 +409,7 @@
       "summaryKo": "스페인 매체, 파우메이라스 아리아스 극찬",
       "excerpt": "Jornal espanhol exalta Arias após vitória: Ilumina uma Colômbia conformista&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVIxc3lJQTZJWmlqTFNEUUJMRFhNcUlPN2Y3UTFMOHFvdy12S01FS1pZakdWdF9WRDAzemh0UDJmQ3kxQW9Ecm92UWc4VG5FVEJtM2o4cWVkY28ySDZ6b0JfcnNiX2k5bjR5WkM0XzU4OWlDTEtmLVExZU9lVUp6bEdpYUR0UDJYa1FlcTZkc0E1alBoU1FRamxuY090VXBjZXZDTE8waFd2WVdlVl9UWnkzRFlRU0NLcW5COFJZUWVob3EyZXNQR1JXUDQ?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-04T09:47:14.000Z",
       "whyItMattersKo": "유럽 매체의 찬사는 선수의 가치를 높이고 팀의 국제적 인지도에 도움이 됩니다.",
@@ -563,7 +579,7 @@
       "summaryKo": "아리아스 결승골, 콜롬비아 막차 탑승",
       "excerpt": "Copa do Mundo: Arias decide, Colômbia bate Gana e é última classificada para as oitavas&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDMwRGNPX0JhRExXa3JNLUhlX2lueG1KUGM2NnRId2FNRXA3OGQ0WllIcmtLN0JwZUJteUUwUTEyOGFYem1hZzE2cVlrajVHS1FNNkRFNzFLa28ybDlMQnE2ZzNsaG9RY1hRVG00NVNGZFBwYlc2UHpQWFB6MW03Yy16NUtBMDhzVGZndzFza240ZzJURkhrWDJ6ZmRMUHN5ZEFB?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-04T03:31:37.000Z",
       "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 가나를 제압하고 마지막 순위로 16강에 진출했습니다.",
@@ -930,22 +946,6 @@
       "publishedAt": "2026-07-03T17:35:00.000Z",
       "whyItMattersKo": "휴식기 후 첫 경기에서 새 선수 바르보자의 합류로 전력이 보강됩니다.",
       "fanTakeKo": "바르보자 데뷔 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYktGc0xDSUVBUnF1NkY0MmFtV0dPeUpqWEs0RkNuS3RqVk85Z0Etd18zQ08",
-      "title": "Coritiba x Palmeiras tem mudança de data e horário pela Série A; veja os detalhes - GE",
-      "summaryKo": "코리치바전 날짜와 시간이 변경됐습니다",
-      "excerpt": "Coritiba x Palmeiras tem mudança de data e horário pela Série A; veja os detalhes&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYktGc0xDSUVBUnF1NkY0MmFtV0dPeUpqWEs0RkNuS3RqVk85Z0Etd18zQ084LWpoT1B1M2xodVd0SHdJcmQ3RHJIcllUVHZXZG9UOGNWMl90d1hVVUZReVh6ei1kbXUzdUx0ZHpBR1V3NFNxTHM5OFg4VEZ6RVhkZE5rWlg4VzhuZnhYazI1dVdibHA3LXI3RUs1OVc0N3NKUmtSRHJ5REdreERmc09YN2N1QkZ2SFBiT3ZDNW9HTW9DaXdIS0d5VE1sQ0pjZUptRzZqejQ4OFBrR0RUVFJKSUZqRkktSXpKbmtFMDN30gH8AUFVX3lxTE9SalpLSm9veUdBY3pjMWNCQS1lLWdTZ0JxNXp2WTZvUWhndXFWQWRtY0I4Undsd1J5ZkEtanNuYWJpX3RjVXdMS0F6SFJ6SVFiRVFrRDRWTkNLTEVMdnp2TGd4QlRvNzY5dG1HWGFTc1RrZWNVR2lVMld6SUxmc2VXYW9BaXBhRzlTU2FfenZPWW1oY2g2OHpSR19JRXo0bW8wSHpvTTMwYTZFNlFrYm1mSWlHSG5jZ21BOXc5TFYzblNFemljeFRvY2VmVXF6R0s4ckF1cjNOWDFQdEpyRXpWT1dSb3FXZk5wanpVbG5nOVl6SUYxRDdKNGFXaA?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-03T17:04:03.000Z",
-      "whyItMattersKo": "브라질레이렁 일정 변경에 따라 팀 준비와 팬들 시간 확인이 필요합니다.",
-      "fanTakeKo": "시간 잘 확인하고 봐야겠어요",
       "tags": [
         "뉴스",
         "AI요약"
