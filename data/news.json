@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-05T15:13:36.357Z",
+  "fetchedAt": "2026-07-05T16:34:25.971Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDczWVIzLVdkcFJCb1ZQTjcwR2xYTk1MUVVlaDNManZyQjVIS3RYMTJ2UFh",
+      "title": "Mauricio diz que \"foco é sempre ajudar o Palmeiras\" após receber sondagens - CNN Brasil",
+      "summaryKo": "마우리시우, 이적 제의에 \"파우메이라스 집중\"",
+      "excerpt": "Mauricio diz que \"foco é sempre ajudar o Palmeiras\" após receber sondagens&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDczWVIzLVdkcFJCb1ZQTjcwR2xYTk1MUVVlaDNManZyQjVIS3RYMTJ2UFh5aDRDSlBWSTJMU05DM0lTV2IzSjc4dkVkNXpMbFlOUURBTFJIOXh0VzFEemJIclBZRDJLZENUSkY3Z0RnMnE0Ykt4LWhhUzlkbVdfbGk4dWo4R2lPd3BveEZ2YmYwNXVXcmpsbHlVcUI3SmFMSlNmRXA5M2w3eXNvVnhOMzBXYlNiTkp0dVZMUjUxSmhlaVFGMEJUag?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-05T16:31:23.000Z",
+      "whyItMattersKo": "이적 제의가 들어와도 선수가 팀에 남겠다는 의지를 보여 분위기가 안정됩니다.",
+      "fanTakeKo": "마우리시우는 우리 팀 선수니까요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMie0FVX3lxTE02VzBJZV9Ya0xJNWJYb2didXRPWjYxQU13T0FUai1QU3FPWFJfWmZPb0xUZnV",
       "title": "Palmeiras define valor para negociar Maurício após a Copa do Mundo - Fato Paulista",
@@ -62,6 +78,22 @@
       "publishedAt": "2026-07-05T13:15:00.000Z",
       "whyItMattersKo": "주전 선수의 이적설을 잠재우고 팀 전력 유지에 온전히 집중하겠다는 의사 표명입니다.",
       "fanTakeKo": "마우리시오 남아줘서 다행이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHR6b2tCcEhxd3U2c0dFRE5uNE4xcDNMYUl5LU5JYmZhbnFOb01aRlJCX3V",
+      "title": "Palmeiras blinda Gómez e Arias do mercado após destaque na Copa do Mundo - LANCE!",
+      "summaryKo": "파우메이라스, 월드컵 맹활약 두 명 지킴",
+      "excerpt": "Palmeiras blinda Gómez e Arias do mercado após destaque na Copa do Mundo&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHR6b2tCcEhxd3U2c0dFRE5uNE4xcDNMYUl5LU5JYmZhbnFOb01aRlJCX3VjOVhrZ0VsN1FESXZpcno4a0VvSVJoSU95cWlsbWpyUWpNUnpRZHp5UUhZWG01UWVfRzU1dV9uTnV5cUZydzI4THRMcV9fR3hQNW9ZZHpJbTU2WE1sQjNIQUZVa0xRQnpiZGtHdXRnQkhpUGFoSVRMYjZyeEp3RVNUekV1b1Nn?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-05T12:40:00.000Z",
+      "whyItMattersKo": "월드컵에서 주목받은 핵심 선수들의 이적을 막아 팀의 전력을 유지합니다.",
+      "fanTakeKo": "이적 시장에 뺏기지 않아 다행이네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-03T22:06:04.000Z",
       "whyItMattersKo": "경기 일정이 바뀌면서 선수 컨디션 조절과 전략에 변화가 생겼습니다.",
       "fanTakeKo": "일정 자주 바뀌면 팬도 힘드네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1ZKMlE3VVpTNllnQUNyb0NfdzhSTzIzNTZ5WFBvaWtyMkRyM2hFVnpBaz",
-      "title": "Corinthians deve ter reforços do profissional contra o Palmeiras no Sub-20 - LANCE!",
-      "summaryKo": "코린치안스, 유소년전에 1군 차출 움직임",
-      "excerpt": "Corinthians deve ter reforços do profissional contra o Palmeiras no Sub-20&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1ZKMlE3VVpTNllnQUNyb0NfdzhSTzIzNTZ5WFBvaWtyMkRyM2hFVnpBazBKWHdSeXU4WjByMkFudUxrbC12bkZJYUtZaG10c0VzendpWWlNdFlESUhVRnI4TGxManBBQVZlSVBXMnBwM29mNmxtRmFPZkkwUmlRMUNwUFkzVGZCaHl0NHMzM3dnNTU4aVBBRUV6LW1qRTlMOV9DTHh1NERDMTM3NWhyamFSMEFtbUk?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-03T21:43:49.000Z",
-      "whyItMattersKo": "라이벌의 1군 차출은 유소년팀 경기의 난이도와 긴장감을 높일 수 있습니다.",
-      "fanTakeKo": "코린치안스 또 강팀 만들려나?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjFpcGVyT1Q3S2ptaWprY3ZrMTNUeFJ0ZWNjZGc4VTZJOWhFaWVTMjVqSS1",
-      "title": "Abel Ferreira ganha desfalque para os próximos jogos do Palmeiras - Terra",
-      "summaryKo": "아벨 페헤이라, 다음 경기 주전 이탈 발생",
-      "excerpt": "Abel Ferreira ganha desfalque para os próximos jogos do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjFpcGVyT1Q3S2ptaWprY3ZrMTNUeFJ0ZWNjZGc4VTZJOWhFaWVTMjVqSS1DNGNrVnVtRlQ2b0ZnRTBFaDJNQUtHVGtoY2htWnVIV3dMZVUxMFZqQU9DdDFlQU1zd094WXc1WmVJYUNrLTIyZkxtRzI0OHJDTGM2Vm1ZdUVPalZWdjBDNlBHM0FmM3J3OW1WMW9Cd05tbmF1aWxvSnVNU1pzR2s3YjhQLWVYejhYbWw1TkhqTDBaZTNBODg5dkdjeVFiekFPSVFIOUVqMW1EcTQtMU1zOTMxMHNSOUtuUjRBMmNV?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-03T21:33:00.000Z",
-      "whyItMattersKo": "주전 선수의 공백은 팀 전력과 전술 운용에 큰 변수로 작용할 수 있습니다.",
-      "fanTakeKo": "주전 빠지는 건 언제나 아쉽네요.",
       "tags": [
         "뉴스",
         "AI요약"
