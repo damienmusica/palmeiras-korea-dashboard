@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-07-05T22:32:02.651Z",
+  "fetchedAt": "2026-07-06T00:07:19.950Z",
   "items": [
     {
       "id": "espn-762074",
@@ -24866,6 +24866,32 @@
         "name": "São Paulo",
         "nameKo": "São Paulo",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png"
+      }
+    },
+    {
+      "id": "espn-401841246",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-09-19T18:00Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Arena do Grêmio",
+      "home": {
+        "id": "6273",
+        "name": "Grêmio",
+        "nameKo": "Grêmio",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
       }
     }
   ]
