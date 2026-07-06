@@ -1,8 +1,184 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-06T16:36:56.743Z",
+  "fetchedAt": "2026-07-06T18:56:03.895Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDRwWGhZVi1VaVByZmtralE1elVPMVdWdjJjaDA0Nl9VdjZhV1JDdC1ldVp",
+      "title": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalista d - facebook.com",
+      "summaryKo": "마우리시오, 파우메이라스 잔류할까?",
+      "excerpt": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalis",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDRwWGhZVi1VaVByZmtralE1elVPMVdWdjJjaDA0Nl9VdjZhV1JDdC1ldVp6b01jU2c4LTdVM3dMSkJ5TG1ia3JMbVBGRm1VcjZPYktQbzhTNkUzN0ZpRHJ3ZldmSGQtS0hKemdXaHcwanhkakVqZjJUVVFzZjM3ekx3RkYteExoTnRmSkZOZ3RxcDYyTm5uV0kxdEVSendRWDVVTmpKcFA5WE9BemR5blFaZWY5S1l1RXpHMFh0RVBFSDgyaTAwRkhYNnNNVVdacjJ2QVU5ZmphVWpRVThYZW9paHlGbzh2aHFEaQ?oc=5",
+      "source": "facebook.com",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:30:41.000Z",
+      "whyItMattersKo": "월드컵에서 빛을 본 선수를 놓지 않는 건 팀 전력 강화에 매우 중요합니다.",
+      "fanTakeKo": "마우리시오 꼭 붙잡아야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiswFBVV95cUxNRndDQTBPMjRGaEFJWE9WMUhBYUhpeVlhMHJmZXhlZDZxT1BDdTdXdThlSG1",
+      "title": "Veja fotos do treino do Palmeiras desta segunda-feira, na Academia de Futebol - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 월요일 훈련 사진 공개",
+      "excerpt": "Veja fotos do treino do Palmeiras desta segunda-feira, na Academia de Futebol&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRndDQTBPMjRGaEFJWE9WMUhBYUhpeVlhMHJmZXhlZDZxT1BDdTdXdThlSG1OMW5VMG14OGFOWGRDWGJPdlVkNDhNVEVXZ2RPY081azZTVHZEbC1heDE3N2N5WTFqYTFpMjlZVkZwbUIwRVlCQzRRQXVqclA2N01ic3JFbzFaeXJ5b1NOYWJ6Z2tqSVZkdXNaMlpCRWl3LWNCLThNQXpWSW5uRnJtQW5rckItdw?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:26:00.000Z",
+      "whyItMattersKo": "훈련 사진을 통해 선수들의 최신 컨디션과 팀 분위기를 확인할 수 있습니다.",
+      "fanTakeKo": "선수들 얼굴 보니 반갑네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcUlHY0ozRjlSRWY3MmRjMVBGNS1WYzhXOWVQOGZlRmE1UGhHTFVWZUtTMHZ",
+      "title": "Palmeiras se reforça com dois convocados e divulga novidade sobre Vitor Roque - Rádio Itatiaia",
+      "summaryKo": "파우메이라스, 대표팀 차출과 호키 소식",
+      "excerpt": "Palmeiras se reforça com dois convocados e divulga novidade sobre Vitor Roque&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcUlHY0ozRjlSRWY3MmRjMVBGNS1WYzhXOWVQOGZlRmE1UGhHTFVWZUtTMHZYS05zTm1ZUUNKbWJvOXFManNKY2x0LTVXRHNGTEhacHJVTlJYeXp0ZmhoalJ6bG11WmoxNXdENVNYT1FSbmNINmV5dW9hcFJYTm5vcnUyaENUSHcwaGFkS1NQZE1Eblp2dTVXeFBKRDl6bVIxUHRqQ1JNWTYwODVlajdRSGR3dVJIRHJDUjhHUllLU3pQN3lkeXRqXzdsMlJ6S2loVmtYZXhBT2lHSXhSdXZ1aVVacURVczNMV3haYlRsaDZyWGJIcmdGWnN5QQ?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:18:08.000Z",
+      "whyItMattersKo": "대표팀 차출은 선수 가치를 높이며, 호키의 소식은 공격진에 기대감을 줍니다.",
+      "fanTakeKo": "호키 소식이 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzEyNmROcG8wbWwwZ3hGcFdBcXNCb1daRDN4ZDZpNVpubUNTTkVBclRnV3Z",
+      "title": "Treino do Palmeiras tem reapresentação de uruguaios e avanço de Vitor Roque - ABCD Jornal",
+      "summaryKo": "우루과이 선수 복귀, 호키 적응 중",
+      "excerpt": "Treino do Palmeiras tem reapresentação de uruguaios e avanço de Vitor Roque&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzEyNmROcG8wbWwwZ3hGcFdBcXNCb1daRDN4ZDZpNVpubUNTTkVBclRnV3ZJdVQtWk80ZmQzdThqbWJ5alhXbV91bFlRZGZnSkc0QUNiejlnOWFiSDVoajJvQWtyWDVIdUFhREstZzJPblBzX3FkcVUzbHFZeEJ5VWpGTG50VHViWWZaREpLblp0MU5mZko5cFV1d1NORkRLb050SmI0R3hRUVJyR0g4eldsWkJiSm1MU3hhYXlVaFFvTllPcVZlU9IBzgFBVV95cUxNNlZPLURUaXF2UTdIZW5PYy1PaHU4QkdpWDViaE0wVC1jTGx6Q0RRRWhEa2lTaGJWdWVhSzlKMU5Lem9IU3dpZU56Ql92NGtHVlEwX1g0S2JMUGNSWFV3eDZSMi1UNkROemRqbzhnRjV6YzVkY0cxdnlPSGw4UWpZanU5NmNTcllyWjNjZFZrVUNhMzhtQXBZSDhNeUpfOTFHc042bnFpNnBTanUyejZKbkxPcWt5anFhUVVudEFub3BZUE9QUmZ1SEVSMFNmUQ?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:13:55.000Z",
+      "whyItMattersKo": "핵심 선수들의 복귀와 신규 영입의 적응 속도는 다음 경기 라인업에 영향을 줍니다.",
+      "fanTakeKo": "주전들이 다시 돌아왔군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRT1QwdndYTzZMdU0zRG5ZSlJma1gwS3pZaDVOOXlyV0FJeWZadDlNQXVFNHV",
+      "title": "Palmeiras treina com 2 reforços e Vitor Roque evolui - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 신규 영입 2명 합류 훈련",
+      "excerpt": "Palmeiras treina com 2 reforços e Vitor Roque evolui&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRT1QwdndYTzZMdU0zRG5ZSlJma1gwS3pZaDVOOXlyV0FJeWZadDlNQXVFNHVLcVlCTmVrbFRpT0dkcW1oOEo3cHdRZUlrUkNfQWlhZGY4SHhud2dNdklv?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:03:00.000Z",
+      "whyItMattersKo": "신규 영입 선수들의 합류와 비토르 호키의 회복은 공격력 보강에 긍정적 신호입니다.",
+      "fanTakeKo": "호키 빨리 보고 싶고, 신규 영입도 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUNVc3BjUk9feW1WWklJT3JUbDlSTmxhZDRaczE5VlhJQWo4VjNnVGNyV0t",
+      "title": "Com Abel, Palmeiras inaugura espaços de leitura para jovens da Base e restringe uso de celular - palmeiras.com.br",
+      "summaryKo": "아벨, 유소년 독서 공간 오픈 및 폰 사용 제한",
+      "excerpt": "Com Abel, Palmeiras inaugura espaços de leitura para jovens da Base e restringe uso de celular&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUNVc3BjUk9feW1WWklJT3JUbDlSTmxhZDRaczE5VlhJQWo4VjNnVGNyV0thSEhtTEFsSVBTejctdnc1dmpXSUpoSzFmVGNhcmRERndwV2w1TDRjaERUc1pYVUVtMU54X0pSRkJIVHkzbUtLa2ttMDlOYjcwVlhNNlZSbEc4RUJqOUdGU3QtLVpnSEhfVlBuV1M2Z3EtSjlFTVBLd0lrWVltVjI3LXN3aUVsaXZRTm9HZEg1NVZEdkF1WGgtM1BvOExIRWI?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:01:31.000Z",
+      "whyItMattersKo": "유소년 선수들의 집중력 향상과 생활 습관 교정에 도움이 될 것입니다.",
+      "fanTakeKo": "선수들 정신 무장이 중요하죠, 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWRzZU9NQkxVYkp2c001TXl4WHpMcWQ0SE9nY3pmYW5IN3hJejV2Z21Bb3p",
+      "title": "Vitor Roque evolui em recuperação, e Palmeiras tem retorno de titulares - LANCE!",
+      "summaryKo": "비토르 호키 회복 중, 주전 선수들도 복귀",
+      "excerpt": "Vitor Roque evolui em recuperação, e Palmeiras tem retorno de titulares&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWRzZU9NQkxVYkp2c001TXl4WHpMcWQ0SE9nY3pmYW5IN3hJejV2Z21Bb3pvUFVsOHZsdHBhckp3cm9OaHN0dGZuZzVQZmYzMjJocXhXOGpfN1JvS05YdGhnUXZsOFFyZG04YWdlU01nUUptOHZoX1NnMU1jZDdZbXF2ZTJoaHhfWm9xcWFZUlgzU2Q3MG4teEI2OERjd21rU0VTTHNEcVk4bjBvcWZuY0hpdGFXclha?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:57:27.000Z",
+      "whyItMattersKo": "주전들의 복귀와 비토르 호키의 컨디션 회복은 팀 전력 상승의 핵심입니다.",
+      "fanTakeKo": "주전들이 다시 돌아오니 든든합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMigwJBVV95cUxOd1FIQjlvczJUYXBic2VuMFk2MWM2MFJMd0xGQ2dNUUdQVEhzdVFWaHJGVXF",
+      "title": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam - UOL",
+      "summaryKo": "비토르 호키 복귀 임박, 우루과이 선수들도 합류",
+      "excerpt": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd1FIQjlvczJUYXBic2VuMFk2MWM2MFJMd0xGQ2dNUUdQVEhzdVFWaHJGVXF1SjB0SlFIcG02YjZSWUV4Q21aa2d0N3pQTDlFVjU3QjlkLVo4NVJPdnVaQVkwWk1iUFIyQldRYWdVRG1JQ2VQbVlYQUtiVm0wQkZON0JsT213bE5CQWhEX1Nac0ZQLUk2ZVhvQ3B3VkVTX0ZBVFQ3S0VYWWh2ODh0VHUySHJVTmVBMW50eHlybDBsa1otczVjRm85X1dqSnhLRE5wNU5JaWl3aEx3MDQ1UDhTLTQ1cF9ZN0w1UmhDWWl5VkJSd29mS1E2N2hOeDB0Q3NnVWdz?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:57:00.000Z",
+      "whyItMattersKo": "비토르 호키의 복귀와 우루과이 선수들의 합류로 선수단 풀이 넓어졌습니다.",
+      "fanTakeKo": "호키 복귀가 얼마 남지 않아 기대돼요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3dYbjM2b3BEU3JHcnZpT0hEZWl3a3c5Vmw2enZYTjdFMWFmMUtoRlNocnd",
+      "title": "Emiliano Martínez e Piquerez se reapresentam ao Palmeiras - GE",
+      "summaryKo": "마르티네스와 피케레스, 파우메이라스에 복귀",
+      "excerpt": "Emiliano Martínez e Piquerez se reapresentam ao Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3dYbjM2b3BEU3JHcnZpT0hEZWl3a3c5Vmw2enZYTjdFMWFmMUtoRlNocndqWldPdjZ5U3dDYjhMckVNbmo2SGFTZ3VaZHZCUFBBYW4tVFJLMDVPQWlpNy1uNFF4ZnpqN1p3VDQ2cjByUVhfM00zWTU5WFh3c2NzTXRyU1N5NElBZjhzblhGR1ZHMkNlVlJQb0lEV0ZJdFFWSzlTem9qYlhtVkJSNVp4a0VlUncyS1NuR1JxWjhpckdzV0Z6RHfSAdQBQVVfeXFMUE9NeF92bGx1T1dQSTRKZ0dYbTZCY3VEUlMtU3ZVMVJaeTVSUV9Ub0l2ZFFsenJ6SG5Xeng3OENHanJVLXpMWkQzZjJjdXZmUVJINVJKZ1dYRVBrdkhHVHJaWkdlaGVCYklkTnB1QjhObVd2czBYYlZDU2h2Y0lyUzktTk1SeW1SRXhNOGN2ZjlyWXlQQkhxRmVlOUlENmZPcWVpUXBYNkpmRTlHM3liSlNPUVBfYndLUENHbWRLT0J1T2RnVkZFTWwxeHF2di14cDkxNWM?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:52:38.000Z",
+      "whyItMattersKo": "주전급 선수들의 복귀로 다가오는 경기를 위한 팀 전력 보강에 도움이 됩니다.",
+      "fanTakeKo": "다시 돌아와줘서 고마워!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEtVNnBkdUp6V21wbWt1QklNRm5OejVWS01VOVNrc183bTc1LTZqZE12SU1",
+      "title": "Uruguaios retornam e Vitor Roque avança à transição física em treino do Verdão - palmeiras.com.br",
+      "summaryKo": "우루과이 선수들 복귀, 호키 컨디션 회복 중",
+      "excerpt": "Uruguaios retornam e Vitor Roque avança à transição física em treino do Verdão&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEtVNnBkdUp6V21wbWt1QklNRm5OejVWS01VOVNrc183bTc1LTZqZE12SU1NTDdjdUNyZTdrd2tXNGZKVVNVYWN3WEkyWTJjcUI1ZXI2M3o0ZGJ2ZUp6UGVJaHNscFZnNnhVV0NMZ0wxU25xaE1tVHdXTU03akRMdDZ4b2o3SVNtTkZTd1h3SXhWSW4tajd2blZLV3BqS0cwRy1ieWxhLUVPWkY0aUJ3NlpFVUhEWDZV?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:46:34.000Z",
+      "whyItMattersKo": "비토르 호키의 컨디션 회복은 공격력에 중요하며, 선수 복귀로 옵션이 늘었습니다.",
+      "fanTakeKo": "호키, 빨리 그라운드 보고 싶다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMib0FVX3lxTE1XeTV5THdHSWNyYkx5czZqNk1pdk1iMXY0ZG9UZ2NiOWhWUW5VSDVPN3k5UW",
+      "title": "Palmeiras mantém representantes na Copa do Mundo em reta decisiva - Fato Paulista",
+      "summaryKo": "월드컵 결정적 순간에도 파우메이라스 선수 있네",
+      "excerpt": "Palmeiras mantém representantes na Copa do Mundo em reta decisiva&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XeTV5THdHSWNyYkx5czZqNk1pdk1iMXY0ZG9UZ2NiOWhWUW5VSDVPN3k5UWp0YjUwd0cwUW1MUVA5VlVubDRKQjNzYzZva2g4RHBnOV9HM3lMb1FwOXp3NkZfa2w0Y1BRTjJvUEFsZw?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:36:06.000Z",
+      "whyItMattersKo": "큰 무대에서 활약하는 선수들은 구단의 위상을 높이고 팬들에게 자부심을 줍니다.",
+      "fanTakeKo": "우리 선수들 월드컵서도 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOElkZEk5R0NZUlVlUjQ3UGNEbnBNdXJkaGsyc3h5MjE0ODFIRFJzWEkwM2c",
       "title": "Copa do Mundo começou com 32 jogadores que disputam o Brasileirão; restam cinco. Veja quem - Bem Paraná",
@@ -95,6 +271,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubV",
+      "title": "Scarpa no Fluminense? Veja o que o Lance! apurou - LANCE!",
+      "summaryKo": "스카르파, 플루미넨시 이적설 제기",
+      "excerpt": "Scarpa no Fluminense? Veja o que o Lance! apurou&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubVl3eVpSUTBFSHpUX2xwZjBCR3U1eHlNVlVvd2tUb3ZyZXU4R0MybmIxRC1fa0tQU0tVblBiTWpLWUFGYTBTcU81S1JoM0dtNTdIb1VyREhaQ2VSMmVaOGwyTE1GdWRvOVpuY3RjVg?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-05T19:55:10.000Z",
+      "whyItMattersKo": "팬들이 사랑했던 전 선수의 이적설이라 많은 팬들의 이목이 집중되고 있습니다.",
+      "fanTakeKo": "스카르파는 어디로 가나 궁금하네",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -764,192 +956,6 @@
       "publishedAt": "2026-07-04T13:00:00.000Z",
       "whyItMattersKo": "메시의 이적이 북미 리그에 미친 영향을 전 선수의 시각으로 확인할 수 있습니다.",
       "fanTakeKo": "메시 효과는 정말 대단하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiugFBVV95cUxPOW5jcV9UZEdZYzZYeGRjcy1Oa0k1RU84SVNfcEMyTW1ISXRXSW95WGVlTTF",
-      "title": "Palmeiras faz história na Copa do Mundo com após gol de Arias - CNN Brasil",
-      "summaryKo": "파우메이라스 아리아스, 월드컵 역사 쓴다",
-      "excerpt": "Palmeiras faz história na Copa do Mundo com após gol de Arias&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOW5jcV9UZEdZYzZYeGRjcy1Oa0k1RU84SVNfcEMyTW1ISXRXSW95WGVlTTFQc0I0U0VjbHlsVFhWNW9Fdm5zVy1SZnBoWnZKbGdXOEtDaXFtNzN1bmQwLUw5WE9aaTg4eGlUUzBaaUtXWDl3WU1OSlNzUFYzVktlSS1lWGJIVmhnM3JwYVQzQlZONjhzdk9fc2tEeXZlZVlqQU5JV3V3TDlac2N1UlVWWndnSXpWQzVBTWc?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-04T11:06:01.000Z",
-      "whyItMattersKo": "소속팀 선수가 월드컵에서 득점하며 팀의 위상을 높이고 팬들에게 자부심을 줍니다.",
-      "fanTakeKo": "우리 팀 선수가 월드컵에서 득점이라니!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3pCLXlyd3duX3pQZDM4b0E3SHV4X1k5U1BIOVZlb3Z6VVdJbjlwNlF1YVF",
-      "title": "Ex-Palmeiras, Thiago Martins fala sobre a carreira e mantém retorno ao Brasil em aberto - LANCE!",
-      "summaryKo": "전 파우메이라스 티아고 마르틴스, 복귀 고민",
-      "excerpt": "Ex-Palmeiras, Thiago Martins fala sobre a carreira e mantém retorno ao Brasil em aberto&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3pCLXlyd3duX3pQZDM4b0E3SHV4X1k5U1BIOVZlb3Z6VVdJbjlwNlF1YVFDaDdxcWRKZElMY21XZzd2VGNXTUFOZE1SSUVrU3FaVW02NmM3LVBGOWVnYVRWNFpSZkQyNVdwMXlVdGhTdld3dlppS1pXTnFJQV81cTM5ZS1wVV90aXJsN0RkQldobWNVWnFiT2VtQkExTnRFWXdLWGhhRVFCZ3hLdnBtMWNYZmRyOVowNWh2eHZfV3hDOW1EeE9VX3c4SHdIZnFGRWdfbQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-04T11:05:00.000Z",
-      "whyItMattersKo": "은퇴 후 브라질 리그 복귀를 고려하는 선수의 행보는 팬들의 관심을 끕니다.",
-      "fanTakeKo": "다시 브라질에서 볼 수 있을까요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-25-https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmZnbXhoYjB2eDYtMmI5RDZwQ2JWNWRKN1M0dUI2LXlIbFJoY1lhTWl3Rk",
-      "title": "Com gol de Arias, Colômbia supera Gana e garante vaga nas oitavas da Copa do Mundo de 2026 - Alagoas Alerta",
-      "summaryKo": "콜롬비아, 아리아스 골로 가나 격파하고 16강 진출",
-      "excerpt": "Com gol de Arias, Colômbia supera Gana e garante vaga nas oitavas da Copa do Mundo de 2026&nbsp;&nbsp;Alagoas Alerta",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmZnbXhoYjB2eDYtMmI5RDZwQ2JWNWRKN1M0dUI2LXlIbFJoY1lhTWl3RklwR0FzYWpwY0Rvb2VPb2N2aGduczRZZUFBNGx4aThlUnMyUG9rdXd5OUZtQ3pUOGJ0REFhUmRQc0VCVFIxTktaMUwxVVQ4bm51ZmF3a1dvTnBzeGYyMmcxaHRjbHg0TVBmOFNweDVRZFZVOUxTeVh3elhSXzVTSWlveDlWaGR4dGZvMFlsTTZqNW5sQ1huQmZnT0tTU0JR?oc=5",
-      "source": "Alagoas Alerta",
-      "language": "pt",
-      "publishedAt": "2026-07-04T10:01:41.000Z",
-      "whyItMattersKo": "국가대표팀의 성과는 선수들의 자신감 상승과 클럽 컨디션에 긍정적 영향을 줍니다.",
-      "fanTakeKo": "아리아스 골 멋지더라, 축하한다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVVkVFkxU0xlR0FMZlNoSGhqd0N6ZG5hQVZMRk51Um9KVTJrNHliQWJObGd",
-      "title": "Palmeiras alcança marca histórica na Copa do Mundo de seleções; entenda - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 월드컵서 역사적 기록 달성",
-      "excerpt": "Palmeiras alcança marca histórica na Copa do Mundo de seleções; entenda&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVVkVFkxU0xlR0FMZlNoSGhqd0N6ZG5hQVZMRk51Um9KVTJrNHliQWJObGdCMml5cjV6Mm4zQ2QxeUdBSkhnZFlrZE9wSlJGczZnTXI1OV9uT3E1dmpZdU1NTWVJMTFkcU9nLVM3X1VkbmF2QlRENExLSm0talkzeXVzejY5U1dfRUkyVHBMR2lkQ0JfamlnRkJQdVBlbTBTNG9qMzcwcW8zb0RFM0dKajY0UEFid2FIdVVQMkdTTC0tYWxpVVg0dTNYbUxFWnhPSmhhZnU4WnlDWjBLOGhzanBaS1dqOXM?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-04T09:59:48.000Z",
-      "whyItMattersKo": "클럽 소속 선수들의 월드컵 활약이 쌓여 팀의 역사에 새로운 이정표를 세웠습니다.",
-      "fanTakeKo": "파우메이라스의 위상이 대단하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVIxc3lJQTZJWmlqTFNEUUJMRFhNcUlPN2Y3UTFMOHFvdy12S01FS1pZakd",
-      "title": "Jornal espanhol exalta Arias após vitória: Ilumina uma Colômbia conformista - UOL",
-      "summaryKo": "스페인 매체, 파우메이라스 아리아스 극찬",
-      "excerpt": "Jornal espanhol exalta Arias após vitória: Ilumina uma Colômbia conformista&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVIxc3lJQTZJWmlqTFNEUUJMRFhNcUlPN2Y3UTFMOHFvdy12S01FS1pZakdWdF9WRDAzemh0UDJmQ3kxQW9Ecm92UWc4VG5FVEJtM2o4cWVkY28ySDZ6b0JfcnNiX2k5bjR5WkM0XzU4OWlDTEtmLVExZU9lVUp6bEdpYUR0UDJYa1FlcTZkc0E1alBoU1FRamxuY090VXBjZXZDTE8waFd2WVdlVl9UWnkzRFlRU0NLcW5COFJZUWVob3EyZXNQR1JXUDQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-04T09:47:14.000Z",
-      "whyItMattersKo": "유럽 매체의 찬사는 선수의 가치를 높이고 팀의 국제적 인지도에 도움이 됩니다.",
-      "fanTakeKo": "우리 팀 선수를 저렇게 칭찬하다니!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU91d0hRY0loQnpjXzF0a1dNcGxxeXZLc2tJRmx5Y01iOEk2d1JCdXVQRG1",
-      "title": "Palmeiras já venceu o Uruguai em dia que representou a Seleção Brasileira - tmc.com.br",
-      "summaryKo": "파우메이라스, 브라질 대표로 우루과이 꺾은 적 있다",
-      "excerpt": "Palmeiras já venceu o Uruguai em dia que representou a Seleção Brasileira&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU91d0hRY0loQnpjXzF0a1dNcGxxeXZLc2tJRmx5Y01iOEk2d1JCdXVQRG1qX3Q4ZzQwdHZqZGkxX0NLSVozbFlHUUhZR3dMWjJIQk8xaTFrbGZETG8yb3FjZ25iRVEzMkRhMGc3c0lkaGZPWksxRUhUOS1UWThQUGZDUWdkMVUzc1ZlZ3BqdU01eVVqeFpqZTNxN1pPTmtacHphZVF5MkpKTkJ5YUFzMTMxVGQwQQ?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-04T09:32:00.000Z",
-      "whyItMattersKo": "과거 브라질 대표팀 성격으로 우루과이를 꺾은 클럽의 위상을 보여줍니다.",
-      "fanTakeKo": "역사 깊은 클럽답네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUF5b3ZlOXRtZHJ5N2VkWG5laVJkMzBLRm0xSGJ0QVNPYUlud19WOUZORn",
-      "title": "Herói da classificação da Colômbia supera Vini Jr. em ranking da Copa do Mundo - GE",
-      "summaryKo": "콜롬비아 영웅, 월드컵 랭킹서 비니 주니어 제쳐",
-      "excerpt": "Herói da classificação da Colômbia supera Vini Jr. em ranking da Copa do Mundo&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUF5b3ZlOXRtZHJ5N2VkWG5laVJkMzBLRm0xSGJ0QVNPYUlud19WOUZORnR1S1NMdFRCVGs3aE55WkhjNTJPRnh4ZXRZaXVxdGxSZlR2SGtraHFrY0hyUDJubmhldXREcVUwX2xlUE56WUUtUmRpMW5HZHEzaTEzVWpiRVp4Wjd4OEdxTVBEWkhiZzhnZGd4eGZXNlNDdEdWTFNzX0tZN29mc1ZNVnlXQVJjQ1Izd29mYVE4MmQ4MU9lcVVVd3l1bEZua3N4bGZlSHhKWTZiVVdsUURiNVHSAewBQVVfeXFMTlBpTkZidVdoa2Z6bVFMdFdZbTJreGNiaURBYVlReWNDeTZyd2NJNHNKZmRKemMzbHRwb0ZHcEVySWhLY2N1VWRSdnVBUlNqQTVSSXBjdUFrVXpFTVlSYUJEVHh5ME1HaDRZSFM3eW5HeDBNVHZDMHJhZV9mUl9NRmtQM1VURmRVQ0pCZTFvMDR5NDFiUVJkcHdwUEU4ZU5PQTFkZC1GMmVzYmJ3Rnd1OFg5YVFrOHo0emRTb2VNdzdpdXlZVFJ6WnlZTF9PWGRFTU1yQzluOXFVXzY1TWRnZFdldHE5RnR6NGtvSkk?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-04T09:00:09.000Z",
-      "whyItMattersKo": "월드컵 무대에서의 선전은 선수의 가치를 높이는 매우 중요한 지표가 됩니다.",
-      "fanTakeKo": "콜롬비아 대표팀 대박이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVgzM29mYWRLeDNEUFNyNDdFcWJuZ3QzZHk5R1pMSXdfaFlxV0NPNkY3ejV",
-      "title": "Sem férias, Vitor Roque avança em recuperação e anima o Palmeiras - GE",
-      "summaryKo": "휴가 없이 비토르 로크는 회복을 앞당기고 파우메이라스를 장려합니다 - GE",
-      "excerpt": "Sem férias, Vitor Roque avança em recuperação e anima o Palmeiras&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVgzM29mYWRLeDNEUFNyNDdFcWJuZ3QzZHk5R1pMSXdfaFlxV0NPNkY3ejVibGF2a2V3ZzNOT3d0dXJXdTRGdUZLQU42eDNGcDVFWGNDTzZqZ21VU0NQSUdLR0ZaNzNxOHNvcVlxY09KOVFvb0tYaVJlREpTYUtaNDd4aTRDYzZnekcwMWhnVGU2Umg3dGNsZTgyYTlWN0JZc3NISWU2RFpSNXl1anNIMGVib0xGVXNmYnNDc2ZoMEVtQTM5aF9sNlczNWF2emfSAd4BQVVfeXFMTWpuVEVERDNQVWt6QmY2RE9DR29nR1JlTE02ZzZ6UUpveE9saUVkclJlbXJZSUl5TndJWG11WHgzZUdfU0JsRlhYUjYxVGJxTHhJOVNldTBJQ2cyeVB4NVpTZ2pGYXhnbEY4RFpqNVpSZFI1V053MDV1VmNOWHhzRTNiNFVLWHZEZXNHR3lsNEFJNmNsTjNsUzBPNHNxMTRwUkdweEJwVlJfUzFfSE1ac1o1YXNacjcwa2EwMFc1X1J6SGVPeVZYRnBfWVlvMnpEQ19TUU56b1lTbGFBZFJB?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-04T07:00:58.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYm1JRVltdElKS1VCV1VJQ3o1UUl5alVKcFBqZS1aeWg5akk0TU0wbW54OEw",
-      "title": "Palmeiras e São Paulo têm amistosos neste sábado (4); saiba detalhes - Rádio Itatiaia",
-      "summaryKo": "팔메이라스와 상파울루가 이번 주 토요일 (4일) 친선 경기를 갖습니다. 자세히 알아보기 - Rádio Itatiaia",
-      "excerpt": "Palmeiras e São Paulo têm amistosos neste sábado (4); saiba detalhes&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYm1JRVltdElKS1VCV1VJQ3o1UUl5alVKcFBqZS1aeWg5akk0TU0wbW54OEw1MFJaLW9sRWNCdlBfVVBVdXhPcFNMckNmbU90LVRPdUppUVRwY0xQSkhIZE5RUnNETXgyc3NZUkdPNUJraDhzaFVfSGZ0T1l1TTBYVFkteXY4NUlYZDdVSl9yZ1Atc3VGdUhtdTVMNG9UaERMVzZPRllTQmVxMDRCb2tyNTQ5LU1xQWlOZG5CcHRfWDI3c29NUGpxVmViZjhhcmJ6d1lxSWZxZFUySG1Zd0E?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-04T07:00:08.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQekdEakJnbWh0UTV0Nzc3MFFROVU1M1h3aVNTZm1iMXR4NE9pMEE3Y0F1Z1d",
-      "title": "Colômbia 1 x 0 Gana na Copa 2026: veja o gol de Arias e os melhores momentos do jogo - Estadão",
-      "summaryKo": "2026년 월드컵에서 콜롬비아 1-0 가나: 아리아스의 골과 최고의 순간을 확인하세요 - Estadão",
-      "excerpt": "Colômbia 1 x 0 Gana na Copa 2026: veja o gol de Arias e os melhores momentos do jogo&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQekdEakJnbWh0UTV0Nzc3MFFROVU1M1h3aVNTZm1iMXR4NE9pMEE3Y0F1Z1djWm84cVRLWGNreUR2bmJsWHc5U3VmSWROc20ycGZTcTEzRmdwbUU3Mk5LV21UNXcweGtVbW52T1d2d2czajhGRHp4MHU1SmJRY0lBUXdEYWRCOEs2dWxWNzlYeU9MaXZ4RGo4WTBreTRVb0xaYTFGSHhLbVlSX0habDlIYkFfcjVvWE9sakZkd3NXQmx4eVM5UDRPYtIBzgFBVV95cUxQUHd5aURrSTRXb05tZ0tJMUp3Y1VCNy1JUXJuYWZwQ2dONVhyQ0xnRDVrOHYwTHBSUGdScG9iOHVETGlnZTg5bl9oaDlFS09XdkYyU0dUMzd0VVdrWjU0TzhRZEgtd0dDdUl4M0hWd2VFZVZsRF8teVplU2pwMC1NdGJEMVRKUG1zNm44TzV4MWNGeFd6Wm4yNzlOeXdSbFl6MFRGV21iSlNJdlFlTlFSOXBDcklPWFA4MDJOLVdMQXY0djVORHpmZDdTOS14QQ?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-04T04:03:20.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDktOVN1d1F6eTRXNWh0dHJxNWU1TVp5U0o3dG5hWnhGMEpqUnRUOVROSj",
-      "title": "Arias decide, Colômbia bate Gana e é última classificada para as oitavas da Copa - A Gazeta",
-      "summaryKo": "콜롬비아, 가나 꺾고 16강 막차 탑승",
-      "excerpt": "Arias decide, Colômbia bate Gana e é última classificada para as oitavas da Copa&nbsp;&nbsp;A Gazeta",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDktOVN1d1F6eTRXNWh0dHJxNWU1TVp5U0o3dG5hWnhGMEpqUnRUOVROSjg3Rkd6em0tcVpEZzU2Szk4eDV3anZKbFFHQXNnSlFNOTA2azdPUVpaXzJWLWJIRk1qOFZ5d2l3ekNtc1RoQU9DcVV2YlBid2UwYVhsOHZrNXBVYnBlaG9uc0NROS13U2p4eWpXdlhEcXR3cFZNUWNLNlE3TVAzZXVNMUVkM3RWaHc3M0pYQmVB?oc=5",
-      "source": "A Gazeta",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:57:00.000Z",
-      "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 간신히 16강에 오르며 토너먼트 무대를 확정했습니다.",
-      "fanTakeKo": "콜롬비아도 16강이라니 멋지네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLVJZckZEV0dYaDB3QTlxQ0p6S0dtOEN2aWd0OVdWT2F4Q05wNWZYZnBudTl",
-      "title": "Arias decide contra Gana e leva Colômbia às oitavas da Copa para encarar a Suíça - Terra",
-      "summaryKo": "아리아스 결승골, 콜롬비아 16강 진출",
-      "excerpt": "Arias decide contra Gana e leva Colômbia às oitavas da Copa para encarar a Suíça&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLVJZckZEV0dYaDB3QTlxQ0p6S0dtOEN2aWd0OVdWT2F4Q05wNWZYZnBudTlJZHFTMkhEYnNlSUJraGJySmhKcnVfY3YxQVlKd3ZybklEZ3RGV1hDR1JPSkdoTnNGendVMHR6cVRVQ1dXdm5nTktaeEw3VUgtcGdyZGlaMEpDOGJrNWhXSkJsUkhEOW9yYS12eEhyZjFiQWI3UDhqOFluWjJMV3dRRWtwTXlHend4VHJ2SFFNVWVGRlZYUm9TalpOckV1SmJodTNjZ0NNNU92b1lUZWExcGZyc3lBR3FiV1JvNWgtZVBGbG1ReVdWX3BDcjFNVmI?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:43:00.000Z",
-      "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 승리하며 16강 진출을 확정하고 스위스와 맞붙게 됐습니다.",
-      "fanTakeKo": "아리아스 멋진 골이라 감동이다!",
       "tags": [
         "뉴스",
         "AI요약"
