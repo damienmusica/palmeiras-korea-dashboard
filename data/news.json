@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-06T13:05:00.001Z",
+  "fetchedAt": "2026-07-06T16:36:56.743Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOElkZEk5R0NZUlVlUjQ3UGNEbnBNdXJkaGsyc3h5MjE0ODFIRFJzWEkwM2c",
+      "title": "Copa do Mundo começou com 32 jogadores que disputam o Brasileirão; restam cinco. Veja quem - Bem Paraná",
+      "summaryKo": "월드컵 브라질리랑 선수 5명만 남았다",
+      "excerpt": "Copa do Mundo começou com 32 jogadores que disputam o Brasileirão; restam cinco. Veja quem&nbsp;&nbsp;Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOElkZEk5R0NZUlVlUjQ3UGNEbnBNdXJkaGsyc3h5MjE0ODFIRFJzWEkwM2cxdDcxNTh4eFVYZFpXcVJ5bmQwd3MwX1hXV1QzaDVUYTZOUUVnLXFlOWczMWZfak5pLS1oaVh0elZNQXBiaUVEM1BPRnhPUm85MFFTTXhWUGd6TDRjcC13RWNTUU4tR3NIZXBNS1haT1ZkQ1FQVDJsVm9CWEh3cl9Id2tvcmtzZEtIMlVncnBTaEpVWjVkOW5Wb1FXRzZsYUFrQWdUenhF0gHYAUFVX3lxTE8zYkZCWldQSU1PYnR5ZTA2djJWTTU3YkpaeFVpWm5fT1loUVhnSUp0V3p3TDl5WkxaaS1sWlhSYjRaMDVMQ3NwcXRJaFA3NkdHNVFxSmVhOVQta0pjVlVKc01BaXlLQVV5WTFHeEZDMjRTNS1uSjRiSjhaU3lkMHFCWVRidXRxX3hRc185Uk9URHItb3R3R0RuREFraEhBbDh3UkZGZTBoY3BITU1pblIxUWVuS3RsOE1PU0FJWFJJMWxxa2p6ek5Db3ZKcEtVWXN0T1pRLVNuVg?oc=5",
+      "source": "Bem Paraná",
+      "language": "pt",
+      "publishedAt": "2026-07-06T15:44:00.000Z",
+      "whyItMattersKo": "리그 선수들의 월드컵이 끝나가며 팀 전력 보강에 기대가 모입니다.",
+      "fanTakeKo": "이제 선수들 복귀만 기다리면 되겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTWhHdnQtVkhibjhPbHNseFdFVWk3bm1uaUVzZWdEd1gtcFFhaUxXak5ISHR",
+      "title": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalista d - instagram.com",
+      "summaryKo": "마우리시우, 가치 올라도 파우메이라스 잔류설",
+      "excerpt": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalis",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTWhHdnQtVkhibjhPbHNseFdFVWk3bm1uaUVzZWdEd1gtcFFhaUxXak5ISHRnYXRXVGRGajBtZkJyTDBlbVdfejNvQTFXMDBybEE?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-06T13:30:22.000Z",
+      "whyItMattersKo": "주전 미드필더의 잔류 가능성은 시즌 후반 팀의 중원 경쟁력에 중요합니다.",
+      "fanTakeKo": "마우리시우는 꼭 붙잡아야 해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTnB1U2Z3WUxEUVFFOXdraTE4b25HS2JHa2FZNUxkZVp1OHV4cExXSl96RWF",
       "title": "Palmeiras segue com dois representantes na Copa do Mundo e aguarda eliminados - Rádio Itatiaia",
@@ -103,7 +135,7 @@
       "summaryKo": "브라질레이렁 U-20, 8강전 날짜와 시간 공개",
       "excerpt": "Brasileirão Sub-20: veja as datas e horários dos jogos das quartas de final&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDg0UEp2WUJ6N2JnbE9zNG9ONHk3aUJHQkw1UExYaWtmNFdPVHNCZHd3dk9uQzBHWmxiLW9yMFlzM3UzUUIzMnl3M2tRYUVlN3VQNGYzNEhTUUE2a2dfVnIyWG12eDVsVmtETlpWeUZsN2NVSTAwcGJyVklsVUk4UHF6RFJJOXVqNGVTakt2OXA1dDlQTU4tSmFjNXJsLXAtTHU4dmhneDRMUld1QUpjMWpSUXdaTXlncHcwRTJ3clloZnp2T1J3V1NyckVZWmItbUhLaVQ2MkxvejN5blV4Zk5WaDjSAfMBQVVfeXFMUHNJZGpieGtIcE1nd2MwN1dzWHJLMHlpUHpRQUxnRURsOHpFRVlDQzRGVEd3eXdnMkJ4TWg0cjZkUGxzXzduTm5OQmJXMzF6X3lvVFpxbnhYM0RGbFY0Y0U5OEZEdC1WcG5tMFhJbmtZN2NqaWxjYmpSOTd0VVI1b0xRYlRIODc3anZ3a24yR3JqMEs2d2U3N0pSVlhDN0ZEQTItX2VqWlN4aW8tVGZFWHIyRWc1WHU2ZnEwblpTakppdmgtYy1SSVVoQWpFbmNGbk1nMWJPcW01QkZnWWNuTlZmNHdROW5KMGhSeFhtWUl6bGZn?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-05T17:48:27.000Z",
       "whyItMattersKo": "유망주들의 성장을 확인하고 팀의 미래 전력을 기대할 수 있는 중요한 경기입니다.",
@@ -402,6 +434,22 @@
       ]
     },
     {
+      "id": "gnews-22-https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUswbHdyM3d5VVIxbjJLZDFzSVV0UDNiN05WVWh0WVhpS0pDOWNVZ0pYd0",
+      "title": "Palmeiras já tem três desfalques confirmados para o próximo jogo; lista deve aumentar - Terra",
+      "summaryKo": "다음 경기 3명 결장 확정, 늘어날 수도",
+      "excerpt": "Palmeiras já tem três desfalques confirmados para o próximo jogo; lista deve aumentar&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUswbHdyM3d5VVIxbjJLZDFzSVV0UDNiN05WVWh0WVhpS0pDOWNVZ0pYd0hvVnN5STZZY3ZkYlYzWGhWZ0ZVQkxjWU5GZ1BGWkdEbGNadXdPRUJuUVdVZlRBYnZFemZVd0pNcWNIWEhGVzNnR0lfLUFGbUNXOHZDWEhUaHdRTWIwZDlNODhRUEludmJaNFE5V3dJMGlEMnRmRnZ1QVRmbENXNzBkSlRCSTB5ekl4My10dzB4WXVDNEFwRjVBTTNMbjl3Z3N0bXpyOEZVcGtDYW5HX2dNQ3didENKSDNpdFhTTmlPNm9qa3BjSWItdXgwd2VrTVgwUjdOMTNRUQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-04T20:18:00.000Z",
+      "whyItMattersKo": "부상자와 결장자가 늘어나면 다음 경기 선발 라인업 구성에 큰 변수가 됩니다.",
+      "fanTakeKo": "부상만 없으면 얼마나 좋을까요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxGMlYyYVBrY1NTNzdfcHJVcFdSQ3NLQ3AzR3h4VkFIZWl3emNJeUxIcHU",
       "title": "Esposa de Jhon Árias manda recado para Leila Pereira, do Palmeiras - Terra",
       "summaryKo": "아리아스 부인, 레일라 페헤이라 회장에 메시지",
@@ -492,6 +540,22 @@
       "publishedAt": "2026-07-04T17:54:00.000Z",
       "whyItMattersKo": "시즌 전 훈련 경기에서 역전승을 거두며 선수들의 컨디션 회복을 확인했습니다.",
       "fanTakeKo": "역전승으로 기분 좋게 시작!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-27-https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXhEckI5aklWaGM3ZnBIdHM0VGdVU0FIY3FzVFI5XzlkalVjclRiQ3p6V3",
+      "title": "Palmeiras vence Primavera em segundo jogo-treino da intertemporada - GE",
+      "summaryKo": "파우메이라스, 연습경기서 프리마베라 제압",
+      "excerpt": "Palmeiras vence Primavera em segundo jogo-treino da intertemporada&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXhEckI5aklWaGM3ZnBIdHM0VGdVU0FIY3FzVFI5XzlkalVjclRiQ3p6V3BGQ3RZWW1aaEZ0Q2ZQZHRoX0JFVzgzWnBQd2l1ZjJWRDJ6V2tSWm1hN3pfamtSYUVJanNpdVgzemJDVG90QmdDNGw2S3R2MWxPS3o0UUZRaFZsN1N0YkNQRWh6Ymd0RUwzV0hiODN1TXVDZ3pEQ3pWYkJEZGRkLS1PYncyRmVnUUItT2RYdE5vdnpPQ0cxN0pTcllQQURuX1RyNmU3YUE?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-04T17:41:55.000Z",
+      "whyItMattersKo": "휴식기 연습경기 승리로 선수들의 컨디션 조절과 전술 점검에 도움이 됩니다.",
+      "fanTakeKo": "연습경기라도 이기니 기분 좋네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -886,70 +950,6 @@
       "publishedAt": "2026-07-04T03:43:00.000Z",
       "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 승리하며 16강 진출을 확정하고 스위스와 맞붙게 됐습니다.",
       "fanTakeKo": "아리아스 멋진 골이라 감동이다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWUhNX0lkcFB0cXExMFh3NzZWbFVNbjVYWEsxbndZSE83QkpmcW9GeUZ4TXB",
-      "title": "Arias marca, Colômbia vence Gana e avança para as oitavas da Copa - Terra",
-      "summaryKo": "아리아스 골로 콜롬비아, 16강 행",
-      "excerpt": "Arias marca, Colômbia vence Gana e avança para as oitavas da Copa&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWUhNX0lkcFB0cXExMFh3NzZWbFVNbjVYWEsxbndZSE83QkpmcW9GeUZ4TXBJT3Q4QUdJWFNXdTBNRnB4MmJSSHZyQnMzTlVxVnZqQlpWLXdqSkx4ZXY1OFo0UlNIeko5eHU5R3BoajBNRTlGcnI4WXE0U2cyU29DNXZqTVJCd0VPT3Rib3dEODhMVHByczB3MTAzbEtqWk1QaDA3OFlDNjRfZk5pSHpoWU5kZFJnYWp6aWktQW9XZmluY285cHZBQkxfSEZpNWd6SG1Gc0VWWjJJTGVLRWxwYVhDZXNqckNGU1pRYU1kR3JURFpOQ1Jncjdn?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:34:00.000Z",
-      "whyItMattersKo": "아리아스의 득점이 빛을 발하며 콜롬비아가 가나를 꺾고 16강에 이름을 올렸습니다.",
-      "fanTakeKo": "국가대표팀에서도 잘해주네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFRNODluOUhqWWNuMDgxWlZNbmdOSUpyQzRCMXotZktyeXVlR0c0MUtaY2",
-      "title": "Arias decide contra Gana e leva Colômbia às oitavas da Copa para encarar a Suíça - Estadão",
-      "summaryKo": "아리아스, 결승골로 콜롬비아 16강 진출",
-      "excerpt": "Arias decide contra Gana e leva Colômbia às oitavas da Copa para encarar a Suíça&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFRNODluOUhqWWNuMDgxWlZNbmdOSUpyQzRCMXotZktyeXVlR0c0MUtaY28yc0JYRWRRbkwweUdxdWNNeWUyYTVqQXNZamJKU0cyTmRORUZzTzM3R3Q2eE1CVzN1cXMyTERFbEVuc1R2WDhKeEJDdzRzbVBkajdrTVVrNDVSSWxpbWJ4eTJkNVFkX1E3bVdUa1BXMjY2cFJGSG9BMDA2X2RRaGxaT2Nuc3RNcVBpQ2x6dGhlSlh4SHF4SDNESl8xZGZFTdIB0AFBVV95cUxQU0FiaGQzcnhQUVlkQ2JHTzh5ZGV2dG9maXdqRFVoVWFxOEM3ZW0zMWFLTEtzVlJVSVE3VVpkMVJxdy1fTUxEOFVSMy1vdDNiUE1qZTRzc0FDMExtZUtHVzBwYWY0SUwzTzlrQVlMcWJLdDZEVW9Dbmh6TWhvVklLNEtYeXBzU3oyN2ZPSXNYSnA1a0V0OC1lcmI4U0duTTZJZW45M3J1SXN5SHhjUkpVNGJUTDloQW5lOXdjQXk4bHJoR1czWTY3bDhuTlpDeHJC?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:33:41.000Z",
-      "whyItMattersKo": "소속팀 선수가 월드컵에서 맹활약하면 팀 분위기와 선수 가치에 큰 보탬이 됩니다.",
-      "fanTakeKo": "우리 아리아스 득점이라니 너무 좋아요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hfdlptWU1KU2dwQ2J5d3dHaDhPX2dzRjJ4Y3lXMVZyYmo2Z25ZWm9PM1V",
-      "title": "Colômbia vence Gana com gol de Jhon Arias e está nas oitavas da Copa do Mundo - sportbuzz.com.br",
-      "summaryKo": "존 아리아스 골, 콜롬비아 16강",
-      "excerpt": "Colômbia vence Gana com gol de Jhon Arias e está nas oitavas da Copa do Mundo&nbsp;&nbsp;sportbuzz.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hfdlptWU1KU2dwQ2J5d3dHaDhPX2dzRjJ4Y3lXMVZyYmo2Z25ZWm9PM1VSNTBfZW1SenRBQXF6cXBlNndOLVk2WEpfQzZ5RFY1V1M5NUtDTnBaQmllZ0QtSzFSSHZOTHFCVE1Fb29HRzI3VTljamd6WnFpWDRZQVFFRmN5UWYtNGxlMmZTOXA4WmpsSHVHYlJ4cy1NZlQ1WnU2R0NzVENrWFJSMXplZ1BvR2d0SXZtT2xxSUJXNA?oc=5",
-      "source": "sportbuzz.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:31:53.000Z",
-      "whyItMattersKo": "아리아스의 골에 힘입어 콜롬비아가 승리를 거두고 월드컵 16강 진출을 확정했습니다.",
-      "fanTakeKo": "우리 선수 월드컵에서도 뜬다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDMwRGNPX0JhRExXa3JNLUhlX2lueG1KUGM2NnRId2FNRXA3OGQ0WllIcmt",
-      "title": "Copa do Mundo: Arias decide, Colômbia bate Gana e é última classificada para as oitavas - UOL",
-      "summaryKo": "아리아스 결승골, 콜롬비아 막차 탑승",
-      "excerpt": "Copa do Mundo: Arias decide, Colômbia bate Gana e é última classificada para as oitavas&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDMwRGNPX0JhRExXa3JNLUhlX2lueG1KUGM2NnRId2FNRXA3OGQ0WllIcmtLN0JwZUJteUUwUTEyOGFYem1hZzE2cVlrajVHS1FNNkRFNzFLa28ybDlMQnE2ZzNsaG9RY1hRVG00NVNGZFBwYlc2UHpQWFB6MW03Yy16NUtBMDhzVGZndzFza240ZzJURkhrWDJ6ZmRMUHN5ZEFB?oc=5",
-      "source": "uol.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-04T03:31:37.000Z",
-      "whyItMattersKo": "아리아스의 결승골로 콜롬비아가 가나를 제압하고 마지막 순위로 16강에 진출했습니다.",
-      "fanTakeKo": "마지막 순간에 진출이라 짜릿해!",
       "tags": [
         "뉴스",
         "AI요약"
