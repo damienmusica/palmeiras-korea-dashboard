@@ -1,8 +1,136 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-07T18:29:35.597Z",
+  "fetchedAt": "2026-07-07T20:28:40.626Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnVGVnVybk5faExlMmFDYTNqTlFTaHlEeFRqaXlZY0piZzFkVkc0MlRkR1F",
+      "title": "Palmeiras treina e Carlos Miguel comenta sequência de defesas em jogo-treino - palmeiras.com.br",
+      "summaryKo": "파우메이라스 훈련, 카를루스 미겔 선방 호평",
+      "excerpt": "Palmeiras treina e Carlos Miguel comenta sequência de defesas em jogo-treino&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnVGVnVybk5faExlMmFDYTNqTlFTaHlEeFRqaXlZY0piZzFkVkc0MlRkR1FMRFFfbjcxRS1WTi14U1ZjeVNwV3pWTzFYZzNwd1NuZTFIY1dOUGV1VktRWnJnYTR1b3loSUZxcVZLd0tHc3lmRmVSRVV4VjdqUjdJU1hEc1VLd3ExX1hsRmhZQUJOem44ckd1ek5JNVUwUXlQckc4c0k5NzZ3MFdhYTVjenY0cW9xUQ?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-07T20:15:19.000Z",
+      "whyItMattersKo": "골키퍼의 컨디션 회복은 팀 수비 안정화와 주전 경쟁에 중요한 긍정적 신호입니다.",
+      "fanTakeKo": "미겔이 잘 지키면 마음이 놓이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTRmdjBqZjZOUVB1SDVUUEJ6enBuOUptRy1OVG9vSktDSXFhN01Ra2pWUTl",
+      "title": "Corinthians vence e quebra invencibilidade do líder Palmeiras pelo Brasileirão sub-17 - Gazeta Esportiva",
+      "summaryKo": "U-17 리그, 코린치안스가 파우메이라스 꺾고 무패 깼다",
+      "excerpt": "Corinthians vence e quebra invencibilidade do líder Palmeiras pelo Brasileirão sub-17&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTRmdjBqZjZOUVB1SDVUUEJ6enBuOUptRy1OVG9vSktDSXFhN01Ra2pWUTl5ZHl1RlQwdXJjcmhpbGhvR0pfOGRUTHk0YXE3TzdyakZTTlBrWFlFQUktNWR3bHd6Y18wR1Z0Y3VldlNQcmVKNS16WEtyUFJLNTBLdzVXTWxRZUlHRXRKRl9Wc25Md2p3Tzc5MUdadU5oMUVxXzJNenVCLVFCZTVacHpsVk1ibmhycTc1NHVTS0Y2N0dBSGVlaDNRUVhZNm5nNmpBSkHSAdcBQVVfeXFMTkhnbzltUk9oT2E1Y3pJVkYtTEVKS1d4MXlKWWE1OE4zTHAwb2RKOFRxQTlRVllFYU15bXhHX3B1THdld0ZaTENyWGVlRUpMVXRVc0VHUTYybzktR19XZlZVcy13bXZSRTBhZnlTX2tYdGllQ0NvczEwRVM3bG84RThBeEVWZWtLTUg4YlR4TTFQY3JodUR0VkI2aTZLTkRYekJ1V2F0S2pmV3N0N3dXMFFSTnU2cEtOTFRlWUM1SEc1ZS16cWJ0a2NGR19NWEwtUTgwQ0hOLVU?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:57:00.000Z",
+      "whyItMattersKo": "유스팀 선두의 무패 행진이 멈춰서 리그 선두 경쟁의 흐름이 바뀔 수 있습니다.",
+      "fanTakeKo": "아쉽네, 다시 분발해야지!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMingFBVV95cUxPZmtqT1RqeHNYbjFZQzhCT0N2U09Db01tNXp2WnBwaHdPMXZXanpYdk1NSnd",
+      "title": "Sub-17 do Verdão é superado pelo Corinthians no Brasileiro - palmeiras.com.br",
+      "summaryKo": "U-17팀, 코린치안스전에 패하며 고전",
+      "excerpt": "Sub-17 do Verdão é superado pelo Corinthians no Brasileiro&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmtqT1RqeHNYbjFZQzhCT0N2U09Db01tNXp2WnBwaHdPMXZXanpYdk1NSnd3dFc4RjctS1dLajE0cjYtQVh2RGJvSG1rVWVVeEJ4TGVqbVBQTlR0Zml2VXZaSjJ0MHQ0cThNVW1vanBtUXcyaUpQUVhCYTFabmY3SWZJb0NZRWJqanR6RjljanZhWWF3cXFPdURxS3hCZw?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:56:29.000Z",
+      "whyItMattersKo": "유스팀의 패배는 선수들의 성장 과정에서 중요한 경험이자 교훈이 될 것입니다.",
+      "fanTakeKo": "어린 선수들도 힘내라!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMilAJBVV95cUxQRGI2RTRmVEhnWlZaMjhOaDRpNUNLczdOd0Fxb2o5UlJka3l0cUNYVG9EYll",
+      "title": "Ex-Palmeiras e Fluminense enche Messi de elogios após virada da Argentina: \"Maior de todos os tempos\" - Terra",
+      "summaryKo": "전 파우메이라스 선수, 메시 향해 극찬",
+      "excerpt": "Ex-Palmeiras e Fluminense enche Messi de elogios após virada da Argentina: \"Maior de todos os tempos\"&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRGI2RTRmVEhnWlZaMjhOaDRpNUNLczdOd0Fxb2o5UlJka3l0cUNYVG9EYllpcnVLS3RSelNkdU96YVpJNTN1YkZXSkR6YmpJUmt2US1uTk51dVpneGtGVDZmMXRvNTZYekhtRGFjdUZ4bG9jN2hCTGlzcE8yMlhCcGdJWWZweUlkNlowTHRGaHZNUEx4VGk3Q0MzdU1md0k3RXpOQjREYklkc1lBMnFvX1lKMnBpZnowcWdINTJzdi1FS1Y4dUYyX2VlQjYzMEFtaC00VGkzeWd3Y2pUZWpNOVBsUG1ZRjlaZlk0UXNOdEt3T3BrZy1rOHYzNTktNDFudW1uLWl6WFdhVnBSb3hRMVZaY0w?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:37:00.000Z",
+      "whyItMattersKo": "브라질 리그 출신 선수가 메시를 극찬하여 축구 팬들 사이에서 큰 화제가 되고 있습니다.",
+      "fanTakeKo": "메시는 진짜 대단하죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUU3dUMyRXpsY2lQazBGck9wSTYxRXZiT3kxWmpqelpTUjM0dUlpSnNhbG1",
+      "title": "Corinthians x Palmeiras (Sub-20): onde assistir, escalações e arbitragem - Jogada 10",
+      "summaryKo": "U-20 더비, 코린치안스전 시간과 라인업",
+      "excerpt": "Corinthians x Palmeiras (Sub-20): onde assistir, escalações e arbitragem&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUU3dUMyRXpsY2lQazBGck9wSTYxRXZiT3kxWmpqelpTUjM0dUlpSnNhbG1hb0FOLWh1WVRJd09HdnNvcTlseVpMX0FVbVZfWGw0a3VNZ3htX01oeDU5WURhc0ZFRERsX1BzVVdkNFJXbl96cFhjdXpPSUYteUtWZFRGNlgzV1J5YXFtNFJMQWhHeWl0RzItQ2lXa9IBoAFBVV95cUxNTjBMbG5yNWdPYWlKRFBGSVZLY0tfQkg0emZPRkRoZ0hpV29lMmZHVDFiVURhN0NGUUlhVzFkRXhfUGpodmdvd05MNlN1b0thZ0JIMEpXVG1DTnVNM3RKc2xEdHA0N1lZM19EZ1ppeHRjM2tJQ0FTRjhoT2hDUXJ3M0plZnA0dkdvXzB0RUZhVVR0eUQ5UTV1TXVoUmtyMUNz?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:35:06.000Z",
+      "whyItMattersKo": "유소년 더비라 미래 유망주들의 성장과 라이벌전 승부욕을 볼 수 있습니다.",
+      "fanTakeKo": "유소년 더비도 뜨겁게 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiswFBVV95cUxNWG1rNmF2RTlGZFRwTFNiN3Z0N210RjlsQ2JWd3hXLVA4WjBreHJTZ1g4Qld",
+      "title": "Palmeiras enfrenta Seleção do Paraguai pela semifinal da Brasil Ladies Cup - palmeiras.com.br",
+      "summaryKo": "파우메이라스 여성팀, 브라질 레이디스컵 4강 진출",
+      "excerpt": "Palmeiras enfrenta Seleção do Paraguai pela semifinal da Brasil Ladies Cup&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWG1rNmF2RTlGZFRwTFNiN3Z0N210RjlsQ2JWd3hXLVA4WjBreHJTZ1g4QldjajdFUHZ3OU1ya3kxb2ZQbXp5T3N0akZZX05FTFhYR0x0d3ZUTHZyZF96Mm80WnFTUlJVRjlSTGg0YndwcEpHSXhBYUhmWDExN2tMUU9rVXdBZ2R2STVDR3lDV0lqYjFZVFlOX3dCZUFCQ0E1REM3SV9pRDVMTjlXcS1aRXdCTQ?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:13:57.000Z",
+      "whyItMattersKo": "여성팀이 4강에 오르며 클럽의 위상을 높이고 좋은 성과를 이어가고 있습니다.",
+      "fanTakeKo": "여성팀도 파이팅, 4행진 가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWx",
+      "title": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20 - GE",
+      "summaryKo": "U-20 리그, 코린치안스와 8강 맞대결",
+      "excerpt": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWxrM3FycXlKVHdydEthcVprblVKUWFManlaR2oxUWZaZk9aSmRpZ2twckpOZG1sQW16aThnRzVVX3dOT3I1dU9KY1Bsa2w5VzBUamQwM2oyOVZEYTJOUHBPZGRDYUtMUEE3T08zUi1B?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-07T19:09:15.000Z",
+      "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
+      "fanTakeKo": "유망주들도 라이벌 잡자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZMDFZWVhVdWhVWUQyc1F6dkU2cVFqR0RTNURuc3F6eGktYnFWemd1Y0paTnV",
+      "title": "Palmeiras recebe reforço de uruguaios após eliminação na Copa do Mundo - Fato Paulista",
+      "summaryKo": "월드컵 탈락 후 우루과이 선수들 복귀",
+      "excerpt": "Palmeiras recebe reforço de uruguaios após eliminação na Copa do Mundo&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZMDFZWVhVdWhVWUQyc1F6dkU2cVFqR0RTNURuc3F6eGktYnFWemd1Y0paTnV1VWM2TldNT1hBbGJpcGNyOVdGU1V0YmoydUliZW5GRFlNVnVwdWw4Q0J1bFpyWEEydGJ5UWh5WmlvTWlfanA4WGc?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-07T18:32:42.000Z",
+      "whyItMattersKo": "국가대표 차출에서 돌아온 선수들이 전력 보강에 큰 도움이 될 것입니다.",
+      "fanTakeKo": "선수들 무사 복귀 다행이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTVGR09VbnExa3NmTzc1eHZ4RHFSQ1pUWTZpM3lpMU0zUFVCMnRaanRvSGN",
       "title": "Palmeiras libera três jogadores da base e mantém participação nos direitos econômicos - GE",
@@ -74,6 +202,22 @@
       ]
     },
     {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWRySmFLWVdFeWZJWW1iYWo0anEya2t6SVp2TUZEd1ByMEd2OGVQVFNZck",
+      "title": "Palmeiras impõe restrição a funcionários e jogadores da base - Terra",
+      "summaryKo": "파우메이라스, 직원과 유소년팀에 제한 조치",
+      "excerpt": "Palmeiras impõe restrição a funcionários e jogadores da base&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWRySmFLWVdFeWZJWW1iYWo0anEya2t6SVp2TUZEd1ByMEd2OGVQVFNZck9VWjZ2TDJUTGNBY2hwbTdQVEcwNV9iYzRURTY3enpCOEhKcE13U2Rac0NUV2drcm1CUENjWVRvSV9NZ3hGQl9zV3dOdEdYVk8tZjgxaEY4bVB2YzJTTXp0c0N3MUF3Y085RlhPbHZlNEFDbmlfTzJ3ZDNZdjhLcWdvaVVEZk5haGhpMVBLWmZFN0s3dDFKTXBzTExRbFJIbXJWZ19vdkxIM2Yxd3h1M0JXMWRlQ29ydWo?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-07T16:33:00.000Z",
+      "whyItMattersKo": "클럽의 내부 규율 강화는 팀 분위기 정리와 선수 관리에 중요한 신호입니다.",
+      "fanTakeKo": "내부 사정이라 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-5-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkYtZGpXUjV4Y0pWMjJ3YW16QVZXNEVNeWFPNVN3LVVmZFJvdGFoQkdmdVd",
       "title": "Comentarista crava mais uma contratação do Palmeiras - Terra",
       "summaryKo": "해설자가 Palmeiras - Terra에서 또 다른 계약을 제기합니다.",
@@ -102,22 +246,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWx",
-      "title": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20 - GE",
-      "summaryKo": "U-20 리그, 코린치안스와 8강 맞대결",
-      "excerpt": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWxrM3FycXlKVHdydEthcVprblVKUWFManlaR2oxUWZaZk9aSmRpZ2twckpOZG1sQW16aThnRzVVX3dOT3I1dU9KY1Bsa2w5VzBUamQwM2oyOVZEYTJOUHBPZGRDYUtMUEE3T08zUi1B?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-07T16:07:07.000Z",
-      "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
-      "fanTakeKo": "유망주들도 라이벌 잡자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-8-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0tEQ1VVTGVnS3dsamVod0lZRk9OMFhyU2tnaWZ1Q2l6ZmpQMUE0QnJNcnZ",
       "title": "Corinthians busca melhorar retrospecto recente contra o Palmeiras no Sub-17; saiba qual - meutimao.com.br",
       "summaryKo": "고린도 교도들은 17세 이하에서 파우메이라스를 상대로 최근 기록을 개선하고자 합니다. 어느 것이 좋은지 아세요 - meutimao.com.br",
@@ -143,6 +271,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWMxZjhBVFdFSHhjZE42UC1wci1ic3o5Umo3VjhmZFBHMFN3QmgzRkdfNG",
+      "title": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo - meutimao.com.br",
+      "summaryKo": "U-17 더비, 코린치안스 대 파우메이라스",
+      "excerpt": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo&nbsp;&nbsp;meutimao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWMxZjhBVFdFSHhjZE42UC1wci1ic3o5Umo3VjhmZFBHMFN3QmgzRkdfNGNvalNzTmVDUDNZaEVscXZZLXh3cy0xdjRYRWl2XzBBU2ZLZE51emFJeVZJTzdXZmNDVU9UOTVnZldTa0VOMjdXZzNoNUF4NGhCLXZzaklqRzlESGVHY0hjWldxc0pvQ2l2T2d3YTRFem40TS1jMmk4UG5YMUhKaXFXOWlmRTBQTkdDUmlCd2FvWFUxLUktX1lMREd2ZjdYTVMtTk12Y0xkOWR2ZzdtQdIBygFBVV95cUxOcEFDRUZqWHZidWkyRlpvcC1xMk5ZZUk5dmNQWVhidmtGUHFzNkhiWWJUeXJYd19zcmtfdEYwMGNMVzZnZTNxOUhRVHBXc0Y2V19BMzRnT19veV9udTBLUjdiSjBIdHptdS1wNDJ5YU03dWlZdkkxR3EzR3Y4NHFjX2lNYXRaRTRVWG5zRGxqT19pZmh2cnFoc3BGRUttMUNlYzV2TmpleWNGbnlmYURPb0d2NERUNHlCUXYwWDhjeVVxTXhMMmVYZU1R?oc=5",
+      "source": "meutimao.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-07T11:30:00.000Z",
+      "whyItMattersKo": "라이벌과의 유소년 더비라 팀의 미래 핵심 전력을 점검할 수 있습니다.",
+      "fanTakeKo": "유소년 더비도 안 봐주는 거죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -796,148 +940,6 @@
       "publishedAt": "2026-07-06T17:18:43.000Z",
       "whyItMattersKo": "빠진 전력을 언제 보강할 수 있는지 명확해져, 남은 시즌 일정 대비가 가능해집니다.",
       "fanTakeKo": "기다리고 있을게, 빨리 돌아와!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOElkZEk5R0NZUlVlUjQ3UGNEbnBNdXJkaGsyc3h5MjE0ODFIRFJzWEkwM2c",
-      "title": "Copa do Mundo começou com 32 jogadores que disputam o Brasileirão; restam cinco. Veja quem - Bem Paraná",
-      "summaryKo": "월드컵 브라질리랑 선수 5명만 남았다",
-      "excerpt": "Copa do Mundo começou com 32 jogadores que disputam o Brasileirão; restam cinco. Veja quem&nbsp;&nbsp;Bem Paraná",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOElkZEk5R0NZUlVlUjQ3UGNEbnBNdXJkaGsyc3h5MjE0ODFIRFJzWEkwM2cxdDcxNTh4eFVYZFpXcVJ5bmQwd3MwX1hXV1QzaDVUYTZOUUVnLXFlOWczMWZfak5pLS1oaVh0elZNQXBiaUVEM1BPRnhPUm85MFFTTXhWUGd6TDRjcC13RWNTUU4tR3NIZXBNS1haT1ZkQ1FQVDJsVm9CWEh3cl9Id2tvcmtzZEtIMlVncnBTaEpVWjVkOW5Wb1FXRzZsYUFrQWdUenhF0gHYAUFVX3lxTE8zYkZCWldQSU1PYnR5ZTA2djJWTTU3YkpaeFVpWm5fT1loUVhnSUp0V3p3TDl5WkxaaS1sWlhSYjRaMDVMQ3NwcXRJaFA3NkdHNVFxSmVhOVQta0pjVlVKc01BaXlLQVV5WTFHeEZDMjRTNS1uSjRiSjhaU3lkMHFCWVRidXRxX3hRc185Uk9URHItb3R3R0RuREFraEhBbDh3UkZGZTBoY3BITU1pblIxUWVuS3RsOE1PU0FJWFJJMWxxa2p6ek5Db3ZKcEtVWXN0T1pRLVNuVg?oc=5",
-      "source": "Bem Paraná",
-      "language": "pt",
-      "publishedAt": "2026-07-06T15:44:00.000Z",
-      "whyItMattersKo": "리그 선수들의 월드컵이 끝나가며 팀 전력 보강에 기대가 모입니다.",
-      "fanTakeKo": "이제 선수들 복귀만 기다리면 되겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTWhHdnQtVkhibjhPbHNseFdFVWk3bm1uaUVzZWdEd1gtcFFhaUxXak5ISHR",
-      "title": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalista d - instagram.com",
-      "summaryKo": "마우리시우, 가치 올라도 파우메이라스 잔류설",
-      "excerpt": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalis",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTWhHdnQtVkhibjhPbHNseFdFVWk3bm1uaUVzZWdEd1gtcFFhaUxXak5ISHRnYXRXVGRGajBtZkJyTDBlbVdfejNvQTFXMDBybEE?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-06T13:30:22.000Z",
-      "whyItMattersKo": "주전 미드필더의 잔류 가능성은 시즌 후반 팀의 중원 경쟁력에 중요합니다.",
-      "fanTakeKo": "마우리시우는 꼭 붙잡아야 해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTnB1U2Z3WUxEUVFFOXdraTE4b25HS2JHa2FZNUxkZVp1OHV4cExXSl96RWF",
-      "title": "Palmeiras segue com dois representantes na Copa do Mundo e aguarda eliminados - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 월드컵 대표 2명 남고 복귀군 대기",
-      "excerpt": "Palmeiras segue com dois representantes na Copa do Mundo e aguarda eliminados&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTnB1U2Z3WUxEUVFFOXdraTE4b25HS2JHa2FZNUxkZVp1OHV4cExXSl96RWF5dEhkaDVMbjZleldJaVY0ZTdLLXZrU3ZFVFBTN1JSemM5U05SR2p2YUJrMFVSd19kYlJFZ2J6S3g0SXpGSHZpdnM0WVRWTGRLRVV6ejhXc0hPWGM2akRfQ2hhb1hMMlR0b1A2MHJiSXVRUFltVV96ekhKalFaQmtUa3VlTnFnU0pNSzFiSm9oMDVOMF9aSC1ySXpJZGFldFM0UExqZm4yRV82NzdmVkhhTnpDU3FyYlIzS0FFaVpHZ1kwYU5ka20yYTlWZkhvdw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-06T08:00:33.000Z",
-      "whyItMattersKo": "월드컵에 참가한 선수들의 활약을 지켜보며 향후 팀 전력 보강을 준비합니다.",
-      "fanTakeKo": "우리 선수들 월드컵서 잘하고 오길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTAwaGpGT2RYN3BZRjNJb1ZvU0N4Tjg0VTBhNWt0Ul9LR1NIWDBnWksxb2l",
-      "title": "Copa: Arias decide, Colômbia bate Gana e é a última classificada às oitavas - CNN Brasil",
-      "summaryKo": "콜롬비아, 가나 꺾고 16강 행 확정",
-      "excerpt": "Copa: Arias decide, Colômbia bate Gana e é a última classificada às oitavas&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTAwaGpGT2RYN3BZRjNJb1ZvU0N4Tjg0VTBhNWt0Ul9LR1NIWDBnWksxb2l0d3JHS2VwWWNPVjZCclg0My1JU21FRVE4WEZGZXBvdTBDUV9iaDNma3BuaTlfQWFlTXFTQ0dabnRNMDdXc0lQS3hwT2l0emxIVVFoLU8zQWVoWFV1VTdxMWp5TWJ4UnYwTElia1FZNnhVMTlDS0lsZW1INGN5NTVkemltanZIS1Z4QmtlS0M5WVV2UDZXck9Tc3licFNHd2d0N1E?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-06T03:53:56.000Z",
-      "whyItMattersKo": "월드컵 조별리그에서 콜롬비아가 승리하며 최종 16강 진출을 확정했습니다.",
-      "fanTakeKo": "16강 진출, 축하합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZGFQNHM2dnp2R2hGaU1GQWd3Tmh6VTBRRzFTMW0zR1pycy1VSU95S0lBM2U",
-      "title": "🏠 De volta ao lar? Mesmo durante a paralisação do futebol brasileiro para a disputa da Copa do Mundo, o Palmeiras segue atento à situação de jogadores que pertencem ao clube e estão atuando por empréstimo. Assim, um dos casos que pode ganhar nov - facebook.com",
-      "summaryKo": "파우메이라스, 임대 중인 선수들 복귀 점검",
-      "excerpt": "🏠 De volta ao lar? Mesmo durante a paralisação do futebol brasileiro para a disputa da Copa do Mundo, o Palmeiras segue atento à situação de jogadores que pertencem ao clube e estão atuando por empréstimo. Assim, um dos casos que pode ganh",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZGFQNHM2dnp2R2hGaU1GQWd3Tmh6VTBRRzFTMW0zR1pycy1VSU95S0lBM2U3azhfUGlMelZLSzM5SjUzSTlhM0E5Qmhqb1ZRbmhORE1LLTBBekI0eUpTb2NNUlJYaXRTUmZ6OXV2c1BsanllSnhjRERYQlRlQl92TlJRSUFvVU9HTGNSMTdIY0ZqMGxwQk9jNmNkZ2hHNzNsRzJLUmFYMzRmNm1mZ0J6a2w2YXlHMGNncHZ3eEhDSHRrYlpzdXZoSnBTQXpfRGxlQTZ1b0tZYWdwZHpBWGRYVnpHTDUxdVlnb0ZPZQ?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-07-05T23:44:20.000Z",
-      "whyItMattersKo": "임대 선수들의 상황을 모니터링해 다음 시즌 스쿼드 구성에 활용합니다.",
-      "fanTakeKo": "쓸만한 자원은 꼭 데려오고 싶네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDBDTkwyVWY2a2l6eW15eXlQZld5UXZERERxLVZVODBqLWQ0ZHJiQVlaTnN",
-      "title": "CBF antecipa jogo entre Coritiba e Palmeiras no retorno do Brasileirão - Bem Paraná",
-      "summaryKo": "CBF는 Brasileirão - Bem Paraná 복귀전에서 Coritiba와 Palmeiras의 경기를 예상하고 있습니다.",
-      "excerpt": "CBF antecipa jogo entre Coritiba e Palmeiras no retorno do Brasileirão&nbsp;&nbsp;Bem Paraná",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDBDTkwyVWY2a2l6eW15eXlQZld5UXZERERxLVZVODBqLWQ0ZHJiQVlaTnNrQVR6SWdCYWU3VE1TQV9wNXhQM0tsQlNwVTc2RHdtSGZWZXFwb1lWWlpFVGtkN0ZfTUNiMHRMeVBKME9mVWlpNmtOVTR0VGNaa2JPeER3Ynd3Mk9KMVpVcXFuQUNNOFRNWjRWTmRvWXhJRERZckVMVzJoZ21iSGdNVDZCMG5USjFsQnQ3Q0lEV1BSRUtBa0XSAcgBQVVfeXFMUENVQ0ZkelpyUGQ3R3VnT0ZEZWZFYzFWR2RoQWhzNFVrVVpWdDEtT2dOYVVyN1hkQjg3VzQyaUtneGJLbDktNHY5OXA3UFFWRm9IUE1KaTNfNTJKQl84NnAwR2lwRndjY1FkaWVUZWlfdkpGYlgtbkl5N3YtYkQxUXY4am9DRjEwSjBod2dnU3I2eldIZDExYnpOQnhTNm50YmVPSG1XNV9ib2lWekkxTjBKc3VjN0pTZE9CZUJycVRqR2RzeGpJYXo?oc=5",
-      "source": "Bem Paraná",
-      "language": "pt",
-      "publishedAt": "2026-07-05T21:09:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubV",
-      "title": "Scarpa no Fluminense? Veja o que o Lance! apurou - LANCE!",
-      "summaryKo": "스카르파, 플루미넨시 이적설 제기",
-      "excerpt": "Scarpa no Fluminense? Veja o que o Lance! apurou&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubVl3eVpSUTBFSHpUX2xwZjBCR3U1eHlNVlVvd2tUb3ZyZXU4R0MybmIxRC1fa0tQU0tVblBiTWpLWUFGYTBTcU81S1JoM0dtNTdIb1VyREhaQ2VSMmVaOGwyTE1GdWRvOVpuY3RjVg?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-05T19:55:10.000Z",
-      "whyItMattersKo": "팬들이 사랑했던 전 선수의 이적설이라 많은 팬들의 이목이 집중되고 있습니다.",
-      "fanTakeKo": "스카르파는 어디로 가나 궁금하네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzMwSU5DNml1V2xwbWJfR0F6dTVBRS0xcVF1b2UwSWRkVTgtR0ZmV2ZtZl9",
-      "title": "Mauricio evita falar sobre Europa e reforça foco no Palmeiras após Copa - Jogada 10",
-      "summaryKo": "마우리시우, 유럽 이적 언급 피하고 파우메이라스 집중",
-      "excerpt": "Mauricio evita falar sobre Europa e reforça foco no Palmeiras após Copa&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzMwSU5DNml1V2xwbWJfR0F6dTVBRS0xcVF1b2UwSWRkVTgtR0ZmV2ZtZl9kYktDZlM2MnV3TlpRUXRodWVVdC0tdE5MSUowSmliNXZVc2JEVC1fREJrcUVpTDBaMk5ZSzU5MXhtMkFsMFRyYjRoNUxlaHh6N1ZGeTV0UlBQNHBHbFgyNWpVaDFyTE5LakVyWk9FeVXSAaIBQVVfeXFMTXdQemN4YVAycDN0ZHkxYVQ5ZU5YU044aVRzV3RBdVdSWnFpQWRPVWVFX1JTZUtwTGtYUi1ZUmNTaWgta2I3ZXR2Mm9SRklXWkZsRlNGV2xnczZibk5MN3lxOUdVWEJnOVhyV3J4bGtnOW9sOE00OFZ3WG5iV2JNMnFjTnBoUnoyMy1EMU90SDViV29QdDBMMFFfUlA4X3JiMHpn?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-05T18:15:50.000Z",
-      "whyItMattersKo": "주전 선수의 이적설을 잠재우고 팀에 대한 헌신을 보여주는 긍정적 신호입니다.",
-      "fanTakeKo": "우리 팀에만 집중해줘서 고맙다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUxqOW5Rc3Qxc0dkTEl6aXdwNjhKa2t6RnBaSGpDTXhieVZHX0dmR0h6bXo",
-      "title": "Valorizado na Copa do Mundo, Mauricio quebra silêncio sobre futuro no Palmeiras - Rádio Itatiaia",
-      "summaryKo": "마우리시우, 파우메이라스 잔류 여부 입장 표명",
-      "excerpt": "Valorizado na Copa do Mundo, Mauricio quebra silêncio sobre futuro no Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUxqOW5Rc3Qxc0dkTEl6aXdwNjhKa2t6RnBaSGpDTXhieVZHX0dmR0h6bXo3SHc0YzF3WUVxRkE3eC1wRHRoVDMtdHpjeDY2ZnBSUGFqZXBEWmJXQ0R1WXFHSGV0cUJGRmptNllsTnVvQ0M3ZloxYTBzbnBEMG54cDY2NGZXdFlqTG9WazdBVmRGSVRCajkyZVhSVWFTN0dqV1JRdkdHQ2I1aGpWdXg3ZWtjOTZiemxaZjJLTkFWa1R4eThXMllXeC11anZjYnRacnFoV3Y3TlAtcTBjNVhBVTAya3JDR3NmM2pYMWFFeWcwNVlkN0hQOUVtTW8?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-05T17:51:03.000Z",
-      "whyItMattersKo": "월드컵에서 빛난 주전의 잔류 여부는 팀 내 핵심 전력 유지에 큰 영향을 줍니다.",
-      "fanTakeKo": "마우리시우는 꼭 남았으면 좋겠어요.",
       "tags": [
         "뉴스",
         "AI요약"
