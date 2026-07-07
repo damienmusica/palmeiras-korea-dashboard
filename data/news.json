@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-07T03:31:42.435Z",
+  "fetchedAt": "2026-07-07T07:39:57.772Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYW81TTZfVW5rT212YTljMUZWQjlaZ3Q2MEpta0kwcUdsSVdJVncwN0JhTG0",
+      "title": "Flaco López, Andreas e Sosa comandam ataque do Palmeiras; veja raio-x dos gols em 2026 - GE",
+      "summaryKo": "파우메이라스 공격 삼총사, 득점 분석 나왔다",
+      "excerpt": "Flaco López, Andreas e Sosa comandam ataque do Palmeiras; veja raio-x dos gols em 2026&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYW81TTZfVW5rT212YTljMUZWQjlaZ3Q2MEpta0kwcUdsSVdJVncwN0JhTG0xM1VYY2Rzcmsxc0JqSVhRcGM5SWY5WC1ldXQ0M256WE1GV1RILWtOSWFQelN2Z3A5U09FeWxoRmp6XzNzOU5zZHk2Mkc5Y0M5SWNpZ0ZxVmt0cUVBX0RpeEI0TUpPRjFfS2VMcjdXMmtBR0JLQkFmQlZzUFJTSFhmdHhaRElEMGdIWnpPTWQwQTRMZlpfME5yVTRsZ0pndEJqeXpUZ05LWkJmc1AtQkRncXBqRlJtVVdrR2ZzRVHSAfgBQVVfeXFMUGowTVdtT1pLSVlMM2hsSXFKT1c3OTZINF9SSlJJU2xqeVo0am1ycmJFX3Boc2FfbElXWWswTjVkMUhyT2daS1RBQ1JSZ3VKb29QejFxMGxBRjhJLWJUNmRaWi1LcmhJYXZBRHc4MHNmMHM1WEp4dVZ0RFk5VGR6UUdfUmtZQUxfelZrby1iYXNnN1Y2bmNWTzFCVzZ3VngtcTVIZjZqaHREbTlPRVFNQzhFdEhkMTduMERvajkzZ180V3J3SUF6Wl96UUc1dkF3ZG0taFE0UEdLNHpORTZoNkFMQzlITFlnLXVfS085R1NQUkFzM3h4OTM?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-07T07:01:17.000Z",
+      "whyItMattersKo": "공격 핵심 선수들의 득점 분석은 팀의 공격력과 승리의 열쇠를 보여줍니다.",
+      "fanTakeKo": "공격 삼총사의 활약이 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1qckZ5T01kaXJ3RjZJbmFRNkQzSVdpVjF2dExfXzE1S2M0VXltZkZUTGx",
       "title": "Jhon Arias brilha na Copa do Mundo e Palmeiras alcança feito histórico - Fato Paulista",
@@ -110,6 +126,22 @@
       "publishedAt": "2026-07-06T22:05:00.000Z",
       "whyItMattersKo": "미드필더 자원 보강으로 중원 경쟁력을 높여 시즌 후반 대항력을 키울 수 있습니다.",
       "fanTakeKo": "드디어 중원 보강 온다, 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRG",
+      "title": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam - UOL",
+      "summaryKo": "비토르 호키 복귀 임박, 우루과이 선수들도 복귀",
+      "excerpt": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRGRDWlpKU0Y0YnVBeUNKMVVNYU5BeDZVemVlaEg5Sk1nS3NiX3dKXzgwZW0tVXZwN2lkQ2lJSmdFZUZtcjJveGZOVWdFX2hqMFBxNEV5bmZRaWx0LUdnTmE0aXR3eGtPNEQtbnRSb1Z5dDVfN2g3NC1aUWlrVlhRZ2hmRDVhUkFhZW5qZXJJeDVuR1loMFMyYktiVUg4LXVfMklpQTJxSkE5Wlh1NEM2SXJn?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-06T21:57:00.000Z",
+      "whyItMattersKo": "주전 공격수 복귀와 외국인 선수 합류로 전력 정상화가 눈앞에 보입니다.",
+      "fanTakeKo": "호키 돌아오고 전력 풀충전이다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -430,22 +462,6 @@
       "publishedAt": "2026-07-06T17:57:27.000Z",
       "whyItMattersKo": "주전들의 복귀와 비토르 호키의 컨디션 회복은 팀 전력 상승의 핵심입니다.",
       "fanTakeKo": "주전들이 다시 돌아오니 든든합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRG",
-      "title": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam - UOL",
-      "summaryKo": "비토르 호키 복귀 임박, 우루과이 선수들도 복귀",
-      "excerpt": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRGRDWlpKU0Y0YnVBeUNKMVVNYU5BeDZVemVlaEg5Sk1nS3NiX3dKXzgwZW0tVXZwN2lkQ2lJSmdFZUZtcjJveGZOVWdFX2hqMFBxNEV5bmZRaWx0LUdnTmE0aXR3eGtPNEQtbnRSb1Z5dDVfN2g3NC1aUWlrVlhRZ2hmRDVhUkFhZW5qZXJJeDVuR1loMFMyYktiVUg4LXVfMklpQTJxSkE5Wlh1NEM2SXJn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-06T17:57:00.000Z",
-      "whyItMattersKo": "주전 공격수 복귀와 외국인 선수 합류로 전력 정상화가 눈앞에 보입니다.",
-      "fanTakeKo": "호키 돌아오고 전력 풀충전이다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -940,22 +956,6 @@
       "publishedAt": "2026-07-04T22:57:14.000Z",
       "whyItMattersKo": "비토르 호키의 복귀는 공격 옵션을 늘리고 팀의 득점력을 높이는 데 중요합니다.",
       "fanTakeKo": "빨리 돌아와서 골 좀 넣어줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkNSWTliQUJTRGpBWTZzbjBGOUlHTkRma1pRQ3gwQk11ZE5GQjJCWjI1RDQ",
-      "title": "Palmeiras bate Primavera em segundo jogo-treino da intertemporada; veja - Terra",
-      "summaryKo": "파우메이라스, 휴식기 훈련경기서 프리마베라 격파",
-      "excerpt": "Palmeiras bate Primavera em segundo jogo-treino da intertemporada; veja&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkNSWTliQUJTRGpBWTZzbjBGOUlHTkRma1pRQ3gwQk11ZE5GQjJCWjI1RDQ5MEpMN1VFakRWT3paMV94UkhXNjJVaVdaMTZWTzh0LVBaSlYwZWdrZGFqU2tNUW1wMVZrQmZWZ3FSV05wbFpjMlBidzZnUFhfTGR4blhLaDF6OWhKTWhfSHJhMm1KbkdFajRVNjFvVk9PeWFnOVNVaEN5NzJ6ZWFubXZiMlplQWU1MDJsa0hNM0hhaFRaSWdqcVFEZ0NFUmZ5VXM0V3g4UXkwMkpvc1dwZjlGcEQ3WDNRWGRwaEZXY0lNejdQQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-04T22:04:00.000Z",
-      "whyItMattersKo": "휴식기를 보내고 선수들의 컨디션을 점검하고 팀 전술을 다듬는 과정입니다.",
-      "fanTakeKo": "시즌 시작 전 컨디션 좋아 보이네요!",
       "tags": [
         "뉴스",
         "AI요약"
