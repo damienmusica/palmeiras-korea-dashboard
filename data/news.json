@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-07T21:55:55.249Z",
+  "fetchedAt": "2026-07-07T23:05:17.151Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizAFBVV95cUxNM29uNjRtczVNN3hPLWhIWHBfYkVTS2k3XzlsOFZwa2VRczAwRGdETnBpQXI",
+      "title": "Corinthians x Palmeiras: saiba onde assistir ao jogo de ida das quartas do Brasileiro sub-20 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 U-20, 코린치안스와 8강 1차전",
+      "excerpt": "Corinthians x Palmeiras: saiba onde assistir ao jogo de ida das quartas do Brasileiro sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM29uNjRtczVNN3hPLWhIWHBfYkVTS2k3XzlsOFZwa2VRczAwRGdETnBpQXIzX05GaFRvak9MQTFzZE9DNUZycE03dG5DYWt1S0E0NzBFVlN4aXlYbzlTZXpqUlo3UXZfalhUNU9RVk55Y3UxV0V5czNGZ2NOUDh6TUFqZnNwclVGR0lXMjk4cURES1I1aWx6Ti12NXpsSEhvVjE2MzhWWEVRcGlDSnZLMTZiUVFac3F4aDZIb3NoR2FYTE5XclRpNDhydnPSAdIBQVVfeXFMUGJnWnJCLUNOeGxyZ3l1d2FNbFhnZnZSWkJLanh0XzdvdW1sQTdnMkRCU09OcDZqRVhIQ05zS3BFTWFWYW9fWV9XNE9FUVFmdlZZWmZtVFpCcHdmdW9yZGE4V1ljTXBtQWticU1nV2w1SEFlTEU3cnZpZkZjd3Bramh6c3l0ZU80dUkxYnllZWFIY1NmTDVETEdZS2l4b0txRE9QcFhGVnhrNnJfa2ZteFducWlIclVTdlkzQWZiOUp2VzdmZHRuU3ZKRW14SVpIWUt3?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-07T23:00:00.000Z",
+      "whyItMattersKo": "미래의 에이스들이 격돌하는 8강전이라 유망주 파악에 아주 좋습니다.",
+      "fanTakeKo": "유소년 더비도 뜨겁네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGp2aFU2WnFXRXdsX2pyNlNIc29yTU5nVWVva1ExZ1dhcFN4ZVpuU29yc0R",
+      "title": "Palmeiras segue intertemporada e Carlos Miguel comenta defesas que viralizaram nas redes - ABCD Jornal",
+      "summaryKo": "파우메이라스, 휴식기 중 골키퍼 카를루스 미겔 인터뷰",
+      "excerpt": "Palmeiras segue intertemporada e Carlos Miguel comenta defesas que viralizaram nas redes&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGp2aFU2WnFXRXdsX2pyNlNIc29yTU5nVWVva1ExZ1dhcFN4ZVpuU29yc0RxbjJ3aEROdDNKTmhNbWNxcUtURUs1VWxYUnk2S3ZvUElpdDc0VUwyS0JJai16TjFYUlptNkdwMzdTeHMtMjBDMm4tMTZBaUIteDRLX3U1aUp5NDZiVU00R1d0b0VLQTZ6czVJakozNkNULS12dGYtOVdBajJaQlotMUVSNmRwWk14ajEyU1hubDY1LVFTSkxiWlN5Y1JIa3lIU3EzZVE0WU8zS2J1Z9IB3wFBVV95cUxOWHNmNzJGbFhoRXBwRlFOTkNSWERGRjd0NEg2R0ktQ2xFbUhiM21hckk3dXZ4S29idFB6TkVYSHgxbWxkVkk3RXhIbHJrZFF6M25aTzNLWWlHNThKcGN3d1dOUjJ1WjVLM3pyWjFvVW04aXFpUDlqOXRpLUVHbVZzTWpDdjRSenNzN0gzNVd5bGtPNG16MkRHMlp4VUE3cF9HR0NrTXRldUE4MXdDZDljQmQ1b2FzbUNpTVl5SHhST25zYW13ZkNNT05zclkyNjgwMV96WjNEd2I0M1IxcFdz?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-07T22:22:56.000Z",
+      "whyItMattersKo": "주전 골키퍼의 자신감 회복이 다음 시즌 팀 수비 안정에 중요합니다.",
+      "fanTakeKo": "수비의 든든한 버팀목이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWx",
+      "title": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20 - GE",
+      "summaryKo": "U-20 리그, 코린치안스와 8강 맞대결",
+      "excerpt": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWxrM3FycXlKVHdydEthcVprblVKUWFManlaR2oxUWZaZk9aSmRpZ2twckpOZG1sQW16aThnRzVVX3dOT3I1dU9KY1Bsa2w5VzBUamQwM2oyOVZEYTJOUHBPZGRDYUtMUEE3T08zUi1B?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-07T22:09:46.000Z",
+      "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
+      "fanTakeKo": "유망주들도 라이벌 잡자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0NVNkl6OUN1VERoNHUyWHg3LXVEcjFFcTFMTmRGWWVQaHlwd3B3RU9lMTN",
+      "title": "Athletico vence de virada, Corinthians bate Palmeiras e Flu segue vice no Sub-17 - Olimpíada Todo Dia",
+      "summaryKo": "U-17, 파우메이라스 코린치안스전 패배",
+      "excerpt": "Athletico vence de virada, Corinthians bate Palmeiras e Flu segue vice no Sub-17&nbsp;&nbsp;Olimpíada Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0NVNkl6OUN1VERoNHUyWHg3LXVEcjFFcTFMTmRGWWVQaHlwd3B3RU9lMTNyNG8yZldqRkxzUmxpSFpqbTRjaFpSZU1YYTE4aF9PRDdnV0h1YTYzeERpUGxrYVVqN2U5WDdOc19vQVI2b252c3FQd21HY0tpRk5zY1d2SlVJcHk2QURLSUlRQUR0WHgtbnZiSy0xU3pFdW4xRUVXaWlFNzlRVVp0aGtDVA?oc=5",
+      "source": "Olimpíada Todo Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-07T22:02:48.000Z",
+      "whyItMattersKo": "유소년 팀의 성패는 미래 1군 전력 보강에 중요한 데이터가 됩니다.",
+      "fanTakeKo": "아쉽네요, 다음엔 잘하자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOam91OVkyZExTZWNTTElFR3dqcEJ2eEFOOEJzcDhvam4zMHg1cmx0eHAwMTh",
+      "title": "Meia deixa o Palmeiras e assina com o Cruzeiro - Terra",
+      "summaryKo": "파우메이라스 미드필더, 크루제이루로 이적",
+      "excerpt": "Meia deixa o Palmeiras e assina com o Cruzeiro&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOam91OVkyZExTZWNTTElFR3dqcEJ2eEFOOEJzcDhvam4zMHg1cmx0eHAwMThTQktCeEd6QUhGV1dfdmo4eC14NVFjQkdRTmJhOFFJLU53NWJjZmthNkRKa2dFRzV0a3VaMzk4Q1FQTEJGNHJqanB0Q2VNYWJNSVZ5VW5xZG1YTnRRNTNNM2Z2a1V4S3ZuUDg2dk9MenhaRTBlZldnckFtYTlUZGtMY2NlMTI0YTVKVmRZUVBVSUhoNDIxQi15UTQ0VVdGRkh3WkpZTGc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-07T22:00:00.000Z",
+      "whyItMattersKo": "미드필더진의 전력 공백이 발생하며 대체 자원이 필요해졌습니다.",
+      "fanTakeKo": "잘 가라, 행운을 빈다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmpnX2xHbEM2X3REX3pBN2ZzYTBFUVlDX0FLWkgtMnU2Nk9Makx2bUd6ZHI",
       "title": "Fortaleza vende mando de campo contra o Palmeiras pela Copa do Brasil - 365Scores",
@@ -107,7 +187,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRGI2RTRmVEhnWlZaMjhOaDRpNUNLczdOd0Fxb2o5UlJka3l0cUNYVG9EYllpcnVLS3RSelNkdU96YVpJNTN1YkZXSkR6YmpJUmt2US1uTk51dVpneGtGVDZmMXRvNTZYekhtRGFjdUZ4bG9jN2hCTGlzcE8yMlhCcGdJWWZweUlkNlowTHRGaHZNUEx4VGk3Q0MzdU1md0k3RXpOQjREYklkc1lBMnFvX1lKMnBpZnowcWdINTJzdi1FS1Y4dUYyX2VlQjYzMEFtaC00VGkzeWd3Y2pUZWpNOVBsUG1ZRjlaZlk0UXNOdEt3T3BrZy1rOHYzNTktNDFudW1uLWl6WFdhVnBSb3hRMVZaY0w?oc=5",
       "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-07T19:37:05.000Z",
+      "publishedAt": "2026-07-07T19:37:00.000Z",
       "whyItMattersKo": "브라질 리그 출신 선수가 메시를 극찬하여 축구 팬들 사이에서 큰 화제가 되고 있습니다.",
       "fanTakeKo": "메시는 진짜 대단하죠.",
       "tags": [
@@ -142,22 +222,6 @@
       "publishedAt": "2026-07-07T19:13:57.000Z",
       "whyItMattersKo": "여성팀이 4강에 오르며 클럽의 위상을 높이고 좋은 성과를 이어가고 있습니다.",
       "fanTakeKo": "여성팀도 파이팅, 4행진 가자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWx",
-      "title": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20 - GE",
-      "summaryKo": "U-20 리그, 코린치안스와 8강 맞대결",
-      "excerpt": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWxrM3FycXlKVHdydEthcVprblVKUWFManlaR2oxUWZaZk9aSmRpZ2twckpOZG1sQW16aThnRzVVX3dOT3I1dU9KY1Bsa2w5VzBUamQwM2oyOVZEYTJOUHBPZGRDYUtMUEE3T08zUi1B?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-07T19:09:15.000Z",
-      "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
-      "fanTakeKo": "유망주들도 라이벌 잡자!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -380,6 +444,22 @@
       "publishedAt": "2026-07-07T08:30:00.000Z",
       "whyItMattersKo": "브라질 탈락 후 팀 전력 보강 방향이 바뀔 수 있어 미드필더 진영에 변화가 예상됩니다.",
       "fanTakeKo": "다닐로 복귀 기대했는데 아쉽네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-28-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXhMWUxyb3hGeEEtT3lqUHF6WjBQUUdoV3JSako3cFpveXVUNGRtREdkT2",
+      "title": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20 - CBF",
+      "summaryKo": "파우메이라스, 여자 U-20 브라질레이렁 2라운드 폐막전",
+      "excerpt": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXhMWUxyb3hGeEEtT3lqUHF6WjBQUUdoV3JSako3cFpveXVUNGRtREdkT293OF83TWF1VjNoWjFxQlZVMWc4dTB5cTUyU090UzhNa0taY2dOU09QaGJGZW5KWlZ0XzJUZXJrcGc0cXdjRm5rXzFqd3h5OWJXSTEtYndQWmJLdWhQcE0zdmRMTkh2bkZfYk1lakM3SWJCZ3hMcWNWYlkwNVk1b1g4bjBkSjkwdjY1aEF0TTFDdEpZY29jY0IwZ1JfQ2t6Y0p1WkdETGQxOGE4M3lXeERjLUprUWc4VHA4RVUzQ290VUtSYlBkb00?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-07T08:07:13.000Z",
+      "whyItMattersKo": "유소년 대회 일정 소식으로 팀의 미래를 가꾸는 유망주들의 성장을 지켜볼 수 있습니다.",
+      "fanTakeKo": "미래의 파우메이라스 응원!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -860,86 +940,6 @@
       "publishedAt": "2026-07-06T18:08:05.000Z",
       "whyItMattersKo": "새 영입 선수가 팀 전술에 맞춰 몸을 만들고 있어 공격진 기대감이 높아지고 있습니다.",
       "fanTakeKo": "호키 빨리 득점하는 모습 보고 싶어요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRT1QwdndYTzZMdU0zRG5ZSlJma1gwS3pZaDVOOXlyV0FJeWZadDlNQXVFNHV",
-      "title": "Palmeiras treina com 2 reforços e Vitor Roque evolui - Portal ABC do ABC",
-      "summaryKo": "파우메이라스, 신규 영입 2명 합류 훈련",
-      "excerpt": "Palmeiras treina com 2 reforços e Vitor Roque evolui&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRT1QwdndYTzZMdU0zRG5ZSlJma1gwS3pZaDVOOXlyV0FJeWZadDlNQXVFNHVLcVlCTmVrbFRpT0dkcW1oOEo3cHdRZUlrUkNfQWlhZGY4SHhud2dNdklv?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-06T18:03:00.000Z",
-      "whyItMattersKo": "신규 영입 선수들의 합류와 비토르 호키의 회복은 공격력 보강에 긍정적 신호입니다.",
-      "fanTakeKo": "호키 빨리 보고 싶고, 신규 영입도 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUNVc3BjUk9feW1WWklJT3JUbDlSTmxhZDRaczE5VlhJQWo4VjNnVGNyV0t",
-      "title": "Com Abel, Palmeiras inaugura espaços de leitura para jovens da Base e restringe uso de celular - palmeiras.com.br",
-      "summaryKo": "아벨, 유소년 독서 공간 오픈 및 폰 사용 제한",
-      "excerpt": "Com Abel, Palmeiras inaugura espaços de leitura para jovens da Base e restringe uso de celular&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUNVc3BjUk9feW1WWklJT3JUbDlSTmxhZDRaczE5VlhJQWo4VjNnVGNyV0thSEhtTEFsSVBTejctdnc1dmpXSUpoSzFmVGNhcmRERndwV2w1TDRjaERUc1pYVUVtMU54X0pSRkJIVHkzbUtLa2ttMDlOYjcwVlhNNlZSbEc4RUJqOUdGU3QtLVpnSEhfVlBuV1M2Z3EtSjlFTVBLd0lrWVltVjI3LXN3aUVsaXZRTm9HZEg1NVZEdkF1WGgtM1BvOExIRWI?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-06T18:01:31.000Z",
-      "whyItMattersKo": "유소년 선수들의 집중력 향상과 생활 습관 교정에 도움이 될 것입니다.",
-      "fanTakeKo": "선수들 정신 무장이 중요하죠, 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWRzZU9NQkxVYkp2c001TXl4WHpMcWQ0SE9nY3pmYW5IN3hJejV2Z21Bb3p",
-      "title": "Vitor Roque evolui em recuperação, e Palmeiras tem retorno de titulares - LANCE!",
-      "summaryKo": "비토르 호키 회복 중, 주전 선수들도 복귀",
-      "excerpt": "Vitor Roque evolui em recuperação, e Palmeiras tem retorno de titulares&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWRzZU9NQkxVYkp2c001TXl4WHpMcWQ0SE9nY3pmYW5IN3hJejV2Z21Bb3pvUFVsOHZsdHBhckp3cm9OaHN0dGZuZzVQZmYzMjJocXhXOGpfN1JvS05YdGhnUXZsOFFyZG04YWdlU01nUUptOHZoX1NnMU1jZDdZbXF2ZTJoaHhfWm9xcWFZUlgzU2Q3MG4teEI2OERjd21rU0VTTHNEcVk4bjBvcWZuY0hpdGFXclha?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-06T17:57:27.000Z",
-      "whyItMattersKo": "주전들의 복귀와 비토르 호키의 컨디션 회복은 팀 전력 상승의 핵심입니다.",
-      "fanTakeKo": "주전들이 다시 돌아오니 든든합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMigwJBVV95cUxOd1FIQjlvczJUYXBic2VuMFk2MWM2MFJMd0xGQ2dNUUdQVEhzdVFWaHJGVXF",
-      "title": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam - UOL",
-      "summaryKo": "비토르 호키 복귀 임박, 우루과이 선수들도 합류",
-      "excerpt": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd1FIQjlvczJUYXBic2VuMFk2MWM2MFJMd0xGQ2dNUUdQVEhzdVFWaHJGVXF1SjB0SlFIcG02YjZSWUV4Q21aa2d0N3pQTDlFVjU3QjlkLVo4NVJPdnVaQVkwWk1iUFIyQldRYWdVRG1JQ2VQbVlYQUtiVm0wQkZON0JsT213bE5CQWhEX1Nac0ZQLUk2ZVhvQ3B3VkVTX0ZBVFQ3S0VYWWh2ODh0VHUySHJVTmVBMW50eHlybDBsa1otczVjRm85X1dqSnhLRE5wNU5JaWl3aEx3MDQ1UDhTLTQ1cF9ZN0w1UmhDWWl5VkJSd29mS1E2N2hOeDB0Q3NnVWdz?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-06T17:57:00.000Z",
-      "whyItMattersKo": "비토르 호키의 복귀와 우루과이 선수들의 합류로 선수단 풀이 넓어졌습니다.",
-      "fanTakeKo": "호키 복귀가 얼마 남지 않아 기대돼요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3dYbjM2b3BEU3JHcnZpT0hEZWl3a3c5Vmw2enZYTjdFMWFmMUtoRlNocnd",
-      "title": "Emiliano Martínez e Piquerez se reapresentam ao Palmeiras - GE",
-      "summaryKo": "마르티네스와 피케레스, 파우메이라스에 복귀",
-      "excerpt": "Emiliano Martínez e Piquerez se reapresentam ao Palmeiras&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3dYbjM2b3BEU3JHcnZpT0hEZWl3a3c5Vmw2enZYTjdFMWFmMUtoRlNocndqWldPdjZ5U3dDYjhMckVNbmo2SGFTZ3VaZHZCUFBBYW4tVFJLMDVPQWlpNy1uNFF4ZnpqN1p3VDQ2cjByUVhfM00zWTU5WFh3c2NzTXRyU1N5NElBZjhzblhGR1ZHMkNlVlJQb0lEV0ZJdFFWSzlTem9qYlhtVkJSNVp4a0VlUncyS1NuR1JxWjhpckdzV0Z6RHfSAdQBQVVfeXFMUE9NeF92bGx1T1dQSTRKZ0dYbTZCY3VEUlMtU3ZVMVJaeTVSUV9Ub0l2ZFFsenJ6SG5Xeng3OENHanJVLXpMWkQzZjJjdXZmUVJINVJKZ1dYRVBrdkhHVHJaWkdlaGVCYklkTnB1QjhObVd2czBYYlZDU2h2Y0lyUzktTk1SeW1SRXhNOGN2ZjlyWXlQQkhxRmVlOUlENmZPcWVpUXBYNkpmRTlHM3liSlNPUVBfYndLUENHbWRLT0J1T2RnVkZFTWwxeHF2di14cDkxNWM?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-06T17:52:38.000Z",
-      "whyItMattersKo": "주전급 선수들의 복귀로 다가오는 경기를 위한 팀 전력 보강에 도움이 됩니다.",
-      "fanTakeKo": "다시 돌아와줘서 고마워!",
       "tags": [
         "뉴스",
         "AI요약"
