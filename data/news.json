@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-07T10:58:25.506Z",
+  "fetchedAt": "2026-07-07T13:24:12.604Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMifEFVX3lxTE9Cdm4yanVxMkJSZ0hxekNVSVRNTzRyMkV5UmpJV3RsVWNXb0FBQjV4ZU1PTDR",
@@ -78,6 +78,22 @@
       "publishedAt": "2026-07-07T07:01:17.000Z",
       "whyItMattersKo": "공격 핵심 선수들의 득점 분석은 팀의 공격력과 승리의 열쇠를 보여줍니다.",
       "fanTakeKo": "공격 삼총사의 활약이 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFVNOGVka21Bc05MYnAweFVweG5JODdnY2NyekZiWlE5c2o1UV8xT0hzRm1",
+      "title": "Ao vivo: Corinthians x Palmeiras | Rodada 7 | Campeonato Brasileiro sub-17 - GE",
+      "summaryKo": "유스 더비, 파우메이라스 U-17 경기 생중계",
+      "excerpt": "Ao vivo: Corinthians x Palmeiras | Rodada 7 | Campeonato Brasileiro sub-17&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFVNOGVka21Bc05MYnAweFVweG5JODdnY2NyekZiWlE5c2o1UV8xT0hzRm1KZ0d5ME1reVRKUzBrT2JjMkpwTXpWb3Y3ZjB3WDZoMlpZTW9iZ0QxWi1TOWlST2plNGcxaVhWdWVZT1hFcjJPZ2FjbWVoNkt0SEdiekQ5WUFwaWZ3dFpNWUlnd1VlenVlWGh6UVZ3?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-07T02:54:01.000Z",
+      "whyItMattersKo": "코린치안스와의 유스 더비라 미래 에이스들의 성장을 지켜보는 중요한 경기입니다.",
+      "fanTakeKo": "유스팀도 이겨야 제맛이죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -940,22 +956,6 @@
       "publishedAt": "2026-07-05T12:40:00.000Z",
       "whyItMattersKo": "월드컵에서 주목받은 핵심 선수들의 이적을 막아 팀의 전력을 유지합니다.",
       "fanTakeKo": "이적 시장에 뺏기지 않아 다행이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMidEFVX3lxTE1ibXh2NXlJdk0zWDVZQl9zYWlXaTNsNndxV3hOMVgtZFQ5TEFlME5yR0FaTFR",
-      "title": "Paulista Sub-20 - Federação Paulista de Futebol",
-      "summaryKo": "파우메이라스, U-20 주리그 경기 진행 중",
-      "excerpt": "Paulista Sub-20&nbsp;&nbsp;Federação Paulista de Futebol",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ibXh2NXlJdk0zWDVZQl9zYWlXaTNsNndxV3hOMVgtZFQ5TEFlME5yR0FaTFRkaXpXZlo5TVpSNkhZMWRoT3diNTZIbTl1ZkN3ZnpHd2YzcEVqSC1mQ3NVVlZCYmNaM1J3VVlEX2Z3SkdWMjBL?oc=5",
-      "source": "Federação Paulista de Futebol",
-      "language": "pt",
-      "publishedAt": "2026-07-05T10:00:00.000Z",
-      "whyItMattersKo": "미래의 에이스가 될 유소년 선수들의 성장 과정을 지켜볼 수 있습니다.",
-      "fanTakeKo": "유망주들 활약이 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
