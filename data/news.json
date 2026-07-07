@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-07T13:24:12.604Z",
+  "fetchedAt": "2026-07-07T16:02:05.676Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMifEFVX3lxTE9Cdm4yanVxMkJSZ0hxekNVSVRNTzRyMkV5UmpJV3RsVWNXb0FBQjV4ZU1PTDR",
@@ -30,6 +30,22 @@
       "publishedAt": "2026-07-07T08:59:56.000Z",
       "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
       "fanTakeKo": "유망주들도 라이벌 잡자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMirwFBVV95cUxPczYtNEJleFp4bEhvcFNIMUxXTDdwdzFicEhzbFpOWW1KZDFvZXJST1ZyWDB",
+      "title": "Após eliminação do Brasil, Palmeiras volta atrás em decisão sobre contratar Danilo - A Crítica",
+      "summaryKo": "파우메이라스, 다닐로 영입 결정 다시 고민",
+      "excerpt": "Após eliminação do Brasil, Palmeiras volta atrás em decisão sobre contratar Danilo&nbsp;&nbsp;A Crítica",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczYtNEJleFp4bEhvcFNIMUxXTDdwdzFicEhzbFpOWW1KZDFvZXJST1ZyWDBIdDFkeUVUTDRZUFpXdGUyTFJ4MGxoa2JDQjIwaHh0SHBrOVlYRXZvc1Q0V1ZTTWdPUTdjYUU3NDBGR1AwTFJNeDBoa0RZVzVwZWZCZHdzd2ZpTkQxcUhaZFJDZ1JCa2w1Q3d2b1NuZjQ3WXB1SGc4Wk5tUnlnOVhyVkIw?oc=5",
+      "source": "A Crítica",
+      "language": "pt",
+      "publishedAt": "2026-07-07T08:30:00.000Z",
+      "whyItMattersKo": "브라질 탈락 후 팀 전력 보강 방향이 바뀔 수 있어 미드필더 진영에 변화가 예상됩니다.",
+      "fanTakeKo": "다닐로 복귀 기대했는데 아쉽네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -436,6 +452,22 @@
       ]
     },
     {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMigAJBVV95cUxNUFFmRVEtVDZWczZjNTZqVkozeDJLNF9jV0hYd0Zqb1dWZE9yaDFaeTVoZ2",
+      "title": "Perto de voltar ao Manchester City, Vitor Reis visita escolinha onde começou a jogar futebol - GE",
+      "summaryKo": "비토르 헤이스, 맨시티 복귀 앞두고 고향 방문",
+      "excerpt": "Perto de voltar ao Manchester City, Vitor Reis visita escolinha onde começou a jogar futebol&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUFFmRVEtVDZWczZjNTZqVkozeDJLNF9jV0hYd0Zqb1dWZE9yaDFaeTVoZ2NvaHdhMHdiYnZqSmRFckRtMHF6d09taWhmaUpZTzBZMmpBNEc1VUJRZGx5VV9FWVRiOUJ1WjJsNF9QR1lNa2Y3a082a3huOXA4MUJtRm1fbUZvSEV6eGtKaktEZkgtaktlNWtkSFJSRFlhUEpqaUpqaEdkSU8tbk5zS25mUHFRSkJXa2gxQW5XdFVzeDhsU1FPREJadTVBTnRFdm95dDc3aWp6ODRMVlhfV1QycGZiUmlfNllrQXZPQVFpMzFRODVmOV90cW1hSHNEV2Uz0gGPAkFVX3lxTFB4bVJsNDJ6aDNBUkk4V0hCbmI3d0hpQ1praXhaSnMzd1owMkptRzFMZWpvWXg4dFdoMUxXZ2N4bDBoZVhpd2lIR3JjY1pBeXRlRktQU0drY0xJSzBRQ2FaTF9FaTBtandMQUNFamIyZjRfdlFCeFl1RkF4bmpGdU16VkFzeWVOSGhEQWJNeWVuVkJfbXRaQ0hUQUptQlljdDV1TjJwVjdfVU9xYnB2T1JBdGtEUUgzOGwxMWxvV0o1aFN1RDFLR002WXhWOGpQN1FTRTkwYkJDYVpTWmdYejV4RDUyZGd5R0NYZm8ta19NNC1qeWNUS3ZWUWRuMUFzREduZVRpdkNZVHpudWRTQlU?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:31:25.000Z",
+      "whyItMattersKo": "유망 수비수의 이적이 임박했다는 소식이라 팀 수비 보강에 새 변수가 생겼습니다.",
+      "fanTakeKo": "헤이스 떠나는 게 너무 아쉽네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDRwWGhZVi1VaVByZmtralE1elVPMVdWdjJjaDA0Nl9VdjZhV1JDdC1ldVp",
       "title": "💼 Maurício permanece no Palmeiras? O Palmeiras viu Maurício ser um dos destaques do Paraguai na Copa do Mundo e se valorizar no mercado. Apesar disso, o Verdão não deve mudar a postura em relação ao meia. Segundo Guilherme Xavier, jornalista d - facebook.com",
       "summaryKo": "마우리시오, 파우메이라스 잔류할까?",
@@ -494,6 +526,22 @@
       "publishedAt": "2026-07-06T18:13:55.000Z",
       "whyItMattersKo": "핵심 선수들의 복귀와 신규 영입의 적응 속도는 다음 경기 라인업에 영향을 줍니다.",
       "fanTakeKo": "주전들이 다시 돌아왔군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-28-https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUtlUjBxUndzLVItNkR3b3lhZ1FXb2JrYWFJVjVjWWZJZjJodmN6R2ZVRm",
+      "title": "Vitor Roque inicia processo de transição física no Palmeiras - GE",
+      "summaryKo": "비토르 호키, 파우메이라스서 신체 적응 시작",
+      "excerpt": "Vitor Roque inicia processo de transição física no Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUtlUjBxUndzLVItNkR3b3lhZ1FXb2JrYWFJVjVjWWZJZjJodmN6R2ZVRmhPYzk3WHZqSGJQb3hIcTNMNkw1UktsaU8yWDFJQTFWT2c0YUhzUVhqUWNKZzBHQU9TNER6M1FKU1RfOGxUSHJoUF9tTGVOOUU0X3YwOVNOM3hYWUtOQndXT0JHbmdqaUp6S3hUTEpMYmE2eXBtUFI1WGlKYlFlUTNfTk5HbTJ6WjRqZGtYRm9YaU80allGOXdzcW9wUUd30gHYAUFVX3lxTE9uNUFOay1VZ0EyLVlLdU4yN1JDbnJkeHVjQ0laVmJKUEtoVUV3TTY0anMwU29ULUlGWDJCNlBrWGg0RUhLQnJ5eXB4R0hWQXpGZmpWOEVpaVhpQVJ6TFFxdVVSeXpTUHVOVG92ZUIwTHhraTFNOVhXMk5xZWNhQ1hLQ2UybktIbjF1ZzlDRlowdWJack5pNXg5RnlkZFhpRmRzM2pwYWk1RTBIZkF2dTZQbXN3MUY5OTA1M2xYeWN5MTNaZWdaRHNlVGJVWVhBU2Y2UnZpc21Zdw?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-06T18:08:05.000Z",
+      "whyItMattersKo": "새 영입 선수가 팀 전술에 맞춰 몸을 만들고 있어 공격진 기대감이 높아지고 있습니다.",
+      "fanTakeKo": "호키 빨리 득점하는 모습 보고 싶어요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -908,54 +956,6 @@
       "publishedAt": "2026-07-05T14:02:00.000Z",
       "whyItMattersKo": "주전의 이적 제안 언급은 팀 분위기와 다음 시즌 선수 구성에 변수가 될 수 있습니다.",
       "fanTakeKo": "핵심 선수는 꼭 붙잡아야죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDBMTWs2NFZLSERiampQWGJ0X0JlN0JmLXNyckx4Q3ZLV1RtZDZjcEEyOFd",
-      "title": "Mauricio diz que ‘foco é sempre jogar e ajudar o Palmeiras’ após receber sondagens da Europa e MLS - Estadão",
-      "summaryKo": "마우리시오, 유럽/MLS 관심에도 파우메이라스 집중 강조",
-      "excerpt": "Mauricio diz que ‘foco é sempre jogar e ajudar o Palmeiras’ após receber sondagens da Europa e MLS&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDBMTWs2NFZLSERiampQWGJ0X0JlN0JmLXNyckx4Q3ZLV1RtZDZjcEEyOFduRlFEaGtOam1Pa2xyLUh4VEFqSEQ5c1d1VHVPVFpoOTM4QzVlQmt1dEZJZEI5c0hLNkVva2hDWUYzdzhWaVpRTWc3QjRVRVFnUFF3RjBHVnZqTzBmSWl2bTFYTzU2SGRHVHBjMzdLLTdSWk9fck9Da2FQMnAwbHJQb052MjVFa1ltVWp6UVNIZ3B6YjBIeHhfd3FYMHVYTGhBWnV6ZFdXbS1GQUxRNFR2cHFGX9IB5gFBVV95cUxPVndRbXpPaGVCYXhtb1dEMDB5dW4xdHQ0bnVyNk1EMTc2a1VZMWFRTFN1RDBNbmpJZXdvSVdUWFgyQXZMRUJyYkFaUDV1UXFxZ2NGdE5HelJoTDJIcUxsdENPU1NvSnM3NTZfLTJQVVFPWmdxRndIZGhVQlBDVkE2T1lQQ204Z290R2d2QjZFeXdqeF8yRzlrNmxrbkR0QVloakZxZDZaM2JjSW40NkxIZmhVLWlOdkdTQ0tCU0h3dGU5MnpXMC1Kb1ptSjA0VGhTQXFDUVlRZXktZmw0Y19UVUZJaHpBQQ?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-05T13:15:00.000Z",
-      "whyItMattersKo": "주전 선수의 이적설을 잠재우고 팀 전력 유지에 온전히 집중하겠다는 의사 표명입니다.",
-      "fanTakeKo": "마우리시오 남아줘서 다행이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JHdlVYeEdBWDVYQjBoZGk2RTFGdjFVaEZ4WE5INEFET0dKYWpod09wUE",
-      "title": "Jhon Arias brilha pela Colômbia e valoriza projeto do Palmeiras - ncnews.com.br",
-      "summaryKo": "존 아리아스, 콜롬비아서 맹활약으로 파우메이라스 가치 입증",
-      "excerpt": "Jhon Arias brilha pela Colômbia e valoriza projeto do Palmeiras&nbsp;&nbsp;ncnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JHdlVYeEdBWDVYQjBoZGk2RTFGdjFVaEZ4WE5INEFET0dKYWpod09wUEtCZlRLWU1zTnlETHpKWWhCU2VKUkdwcmxCbHQyWWEyREM5cGxYV2V3OEQ4a1dlWEt3VWFmNjU0OTB4ZE1uanN6eTBPbGtzMWw2VnpTZ18wNXJjX3NMaHBoeHlwLVZqOVYyN3VRdXBXdVNXdw?oc=5",
-      "source": "ncnews.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-05T13:01:08.000Z",
-      "whyItMattersKo": "국가대표팀 활약은 선수 가치를 높이고 팀의 프로젝트를 대외적으로 입증해 줍니다.",
-      "fanTakeKo": "우리 팀 선수 국대에서 빛나니 너무 뿌듯해요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHR6b2tCcEhxd3U2c0dFRE5uNE4xcDNMYUl5LU5JYmZhbnFOb01aRlJCX3V",
-      "title": "Palmeiras blinda Gómez e Arias do mercado após destaque na Copa do Mundo - LANCE!",
-      "summaryKo": "파우메이라스, 월드컵 맹활약 두 명 지킴",
-      "excerpt": "Palmeiras blinda Gómez e Arias do mercado após destaque na Copa do Mundo&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHR6b2tCcEhxd3U2c0dFRE5uNE4xcDNMYUl5LU5JYmZhbnFOb01aRlJCX3VjOVhrZ0VsN1FESXZpcno4a0VvSVJoSU95cWlsbWpyUWpNUnpRZHp5UUhZWG01UWVfRzU1dV9uTnV5cUZydzI4THRMcV9fR3hQNW9ZZHpJbTU2WE1sQjNIQUZVa0xRQnpiZGtHdXRnQkhpUGFoSVRMYjZyeEp3RVNUekV1b1Nn?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-05T12:40:00.000Z",
-      "whyItMattersKo": "월드컵에서 주목받은 핵심 선수들의 이적을 막아 팀의 전력을 유지합니다.",
-      "fanTakeKo": "이적 시장에 뺏기지 않아 다행이네요.",
       "tags": [
         "뉴스",
         "AI요약"
