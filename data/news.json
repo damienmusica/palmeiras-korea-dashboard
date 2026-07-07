@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-06T23:38:04.955Z",
+  "fetchedAt": "2026-07-07T03:31:42.435Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1qckZ5T01kaXJ3RjZJbmFRNkQzSVdpVjF2dExfXzE1S2M0VXltZkZUTGx",
+      "title": "Jhon Arias brilha na Copa do Mundo e Palmeiras alcança feito histórico - Fato Paulista",
+      "summaryKo": "호나리아스 월드컵 빛나고 파우메이라스 역사적 기록",
+      "excerpt": "Jhon Arias brilha na Copa do Mundo e Palmeiras alcança feito histórico&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1qckZ5T01kaXJ3RjZJbmFRNkQzSVdpVjF2dExfXzE1S2M0VXltZkZUTGxOdGUtcWlRWW9pRmw3TkE2dmFMQzFhbkppeVdVa0xYclBodjRfY0E5Y19VcjlxYlV4aGNOdnpqV1lUZzNuRThWa3FDVTAtdVRQMU5tVGV3YXdPLXdK?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-07T02:40:49.000Z",
+      "whyItMattersKo": "선수가 월드컵에서 맹활약하며 팀의 위상을 높이고 역사적인 기록을 세웠습니다.",
+      "fanTakeKo": "우리 팀 선수 월드컵에서 빛나네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm44V3FwWHAyMWVIM0Z0OTBSUW96ODlVNnh6LUhKNm8zeEc2UHZKQXgyUXo",
+      "title": "Jornalistas apontam time da Premier League que quer contratar Abel Ferreira - Terra",
+      "summaryKo": "프리미어리그 구단, 아벨 페헤이라 감독 영입설",
+      "excerpt": "Jornalistas apontam time da Premier League que quer contratar Abel Ferreira&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm44V3FwWHAyMWVIM0Z0OTBSUW96ODlVNnh6LUhKNm8zeEc2UHZKQXgyUXowNm1jdkVXS0JNeGhWcnBuTkdacDFtZXctaVA1MEJINWpfa0JWT2pLd2VEb2lGY091VDg4RDJTNjlXRC1PX1hhMl9pMGh3SmdtUEZmaHJQcmVHLTBXaUZ2RWl4cjY4c0VtZWJoRHkyeVVaOHBMSnRxdDFtM1lORFkyNFpuU0JGN0ZNbEZxV2RkTndWUG1BblBVSkxERHhxelBCQ2xPVHVuZXRIX2JQME5KSWRLelZBVzBKS1hCem9Xb2VjT0xjUzJOY0o1OQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-07T00:48:00.000Z",
+      "whyItMattersKo": "유력 감독의 이적설이 나오면서 팀 전력과 향후 성적에 대한 우려가 커지고 있습니다.",
+      "fanTakeKo": "감독님은 절대 못 보내요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0JiSnRvOTdUdVo4WDd2TUkwbldYNjFJSko4VGFHR1l5cTNYMW81eWFVb2Q",
+      "title": "Treino do Palmeiras é marcado por dois reforços - Terra",
+      "summaryKo": "파우메이라스 훈련장, 두 명의 새 얼굴 등장",
+      "excerpt": "Treino do Palmeiras é marcado por dois reforços&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0JiSnRvOTdUdVo4WDd2TUkwbldYNjFJSko4VGFHR1l5cTNYMW81eWFVb2QyWWw2TEg0Snk4VXJhcjViUHMzUzBWY1dsVTVDVXNIQXpWNjRxSW1XUzRfZzZHRmJSUzJQTzF3NWd4Q2FQakxxR1BMTjZhbUV6OC1IWTBYTWFpS2Z4TUx5cnVLMUM5OEdFcTRqVndIcWtQc2ROWWRBSjg4UDZhamZTSXZFbW1NR0VDS3psU19FR1dLVlpUbmtpcXFKeG56OXVONjIyLTRj?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-07T00:37:00.000Z",
+      "whyItMattersKo": "새로 합류한 선수들이 훈련에 참여하며 팀 전력 보강과 전술 변화의 기대가 모입니다.",
+      "fanTakeKo": "새 선수들 영입 잘했네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUJkd1FWUTA5MllyWDFWUTBEbGJRS2lzT2Q0aENfWlcweHlUY3dlelRZT2V",
+      "title": "\"Brasil deixou de ser o país do futebol\", desabafa Allan Souza Lima - Metrópoles",
+      "summaryKo": "알란 소자 리마 \"브라질, 더 이상 축구 국가 아냐\"",
+      "excerpt": "\"Brasil deixou de ser o país do futebol\", desabafa Allan Souza Lima&nbsp;&nbsp;Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUJkd1FWUTA5MllyWDFWUTBEbGJRS2lzT2Q0aENfWlcweHlUY3dlelRZT2VvZVJpUS1TaGM2MnhQYWlxb2MwVnpKS29oYmVSNzhHMWFaUDdGd2ZiZWdmOERTLXQxRzgtSUtTNHZGbEJUYlFZVzRvZkVFaURJMG15NkVlSGJVRU4yWjMyWlpldmVlcTJoTG42U2dCMVJWX3lmUllKQWhCSlJZX0liZzF3U0l4dnY?oc=5",
+      "source": "Metrópoles",
+      "language": "pt",
+      "publishedAt": "2026-07-07T00:09:00.000Z",
+      "whyItMattersKo": "주축 선수의 뼈아픈 발언은 브라질 축구 현실과 팀 분위기의 어려움을 보여줍니다.",
+      "fanTakeKo": "선수님 속상했겠네요, 힘내세요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TX0FmOEFJdFJRZzlFY2d5Q2drdmx0Qm4wcjg0cThMMTZUMnJxQnBlS1pZS1d",
       "title": "🐯 Tigrinho voltando! Em recuperação de uma cirurgia no tornozelo esquerdo, o atacante Vitor Roque deu mais um passo rumo ao retorno aos gramados ao iniciar a fase de transição física no Palmeiras. @dudacabreira conta, em detalhes, a situação do joga - instagram.com",
@@ -36,6 +100,22 @@
       ]
     },
     {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVZtNlREeU9WTmdmMWF3Q3V3MEFjVnJFZTNxOVpVdk56SnhubFJiU2FmVmJ",
+      "title": "Reforço chegando! Palmeiras vai anunciar meia nos próximos dias - Terra",
+      "summaryKo": "파우메이라스, 며칠 내 미드필더 영입 발표 난다",
+      "excerpt": "Reforço chegando! Palmeiras vai anunciar meia nos próximos dias&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVZtNlREeU9WTmdmMWF3Q3V3MEFjVnJFZTNxOVpVdk56SnhubFJiU2FmVmJLZTJNY2YybzMtVGxWMEtvb3ZOdzRReFpELVdhX0M3ZmRicnI0djM4b19PWFpZaUhSNGhxSm9lZDhiOGdBYmpyb2JtaGRjRE54ZVdaeS0wNjNDaXFmbC1XTE5SbFZBYl90b2g5dGpwVzlLeFU0Vmk4UWR1WTdUcnEwbk1YWkRPbmVNdlVyaXZ1RmpuNzJmM2ltMDBnS2VUZDJBcXY1UHMwbDZqbGU0MHp3Slh1allsRDYwYTA?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-06T22:05:00.000Z",
+      "whyItMattersKo": "미드필더 자원 보강으로 중원 경쟁력을 높여 시즌 후반 대항력을 키울 수 있습니다.",
+      "fanTakeKo": "드디어 중원 보강 온다, 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxNU05vdkhyQWZrdHYxOXVlc0ltWUF3ei03RExzNGhRNHhoZnpmNUZhdU5kWTZ",
       "title": "Palmeiras mantém dois jogadores na disputa pelo título da Copa - LANCE!",
       "summaryKo": "파우메이라스, 두 선수 컵 대상 경쟁",
@@ -52,22 +132,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamR6YUZiYlZTNU5INVluSm1COEhjR1BRMVI3dEJZeHR3RE1ZNDY2QVRqOVd",
-      "title": "COM ABEL FERREIRA, PALMEIRAS INAUGURA ESPAÇOS DE LEITURA NA BASE - GE",
-      "summaryKo": "아벨 페헤이라, 유소년에 독서 공간 오픈",
-      "excerpt": "COM ABEL FERREIRA, PALMEIRAS INAUGURA ESPAÇOS DE LEITURA NA BASE&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamR6YUZiYlZTNU5INVluSm1COEhjR1BRMVI3dEJZeHR3RE1ZNDY2QVRqOVdlRTdoNVR0VU9vZE90MnZ6V3NTUC1FX0pzLWFmYUUyajV4RDlJTE8zZXBvRXd0Sk5BUmhORjNBemFfMTJMYVhUcVJhQTFtZUdVMkFwMVlWZ0QtdjJhb2JFaW9DT3JkNmx2M3E5aEFCaHg3NTdkNkFKc0pCQjDSAbcBQVVfeXFMTlMtV2VNaDBKd3BzNEZPVnZELXoyTHhsWnNCTjdIbDJJS2QtRjR6R0l0Y05oZlpoM0o0LVFsRV9KaHhnMlZnLUt0UzEyQzBBSURFTDlvaE5DSzg1T0pmWjFyRWlZRjBueEJSVXFRdUJSd1BkTnVXY1FUbGdHN2F4ZTNjYzlReFJ3cl9TZ1ZxR052bDNpN3BfSHg2MjdZbTJOUjJhdm9UbEMzZW1oOGs4MTJVLUE5ZFNB?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-06T21:56:24.000Z",
-      "whyItMattersKo": "유소년 선수들의 정신적 성장을 돕는 시설이 생겨 미래의 주전 양성에 긍정적입니다.",
-      "fanTakeKo": "아벨 페헤이라 감독 멋져요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVBoN09HdU5FMFlleWVXd3pXMkZORmM4alJGUDJFX1BHYi01aldPM1Y5cHV",
       "title": "Palmeiras cria espaços de leitura na base após proibir celulares no CT - UOL",
       "summaryKo": "훈련장 휴대폰 금지, 독서 공간 마련",
@@ -78,6 +142,22 @@
       "publishedAt": "2026-07-06T21:01:17.000Z",
       "whyItMattersKo": "스마트폰을 줄이고 독서를 장려해 선수들의 집중력 향상과 팀 분위기 개선을 꾀합니다.",
       "fanTakeKo": "훈련에만 집중하는 게 맞죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamR6YUZiYlZTNU5INVluSm1COEhjR1BRMVI3dEJZeHR3RE1ZNDY2QVRqOVd",
+      "title": "COM ABEL FERREIRA, PALMEIRAS INAUGURA ESPAÇOS DE LEITURA NA BASE - GE",
+      "summaryKo": "아벨 페헤이라, 유소년에 독서 공간 오픈",
+      "excerpt": "COM ABEL FERREIRA, PALMEIRAS INAUGURA ESPAÇOS DE LEITURA NA BASE&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamR6YUZiYlZTNU5INVluSm1COEhjR1BRMVI3dEJZeHR3RE1ZNDY2QVRqOVdlRTdoNVR0VU9vZE90MnZ6V3NTUC1FX0pzLWFmYUUyajV4RDlJTE8zZXBvRXd0Sk5BUmhORjNBemFfMTJMYVhUcVJhQTFtZUdVMkFwMVlWZ0QtdjJhb2JFaW9DT3JkNmx2M3E5aEFCaHg3NTdkNkFKc0pCQjDSAbcBQVVfeXFMTlMtV2VNaDBKd3BzNEZPVnZELXoyTHhsWnNCTjdIbDJJS2QtRjR6R0l0Y05oZlpoM0o0LVFsRV9KaHhnMlZnLUt0UzEyQzBBSURFTDlvaE5DSzg1T0pmWjFyRWlZRjBueEJSVXFRdUJSd1BkTnVXY1FUbGdHN2F4ZTNjYzlReFJ3cl9TZ1ZxR052bDNpN3BfSHg2MjdZbTJOUjJhdm9UbEMzZW1oOGs4MTJVLUE5ZFNB?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-06T20:51:23.000Z",
+      "whyItMattersKo": "유소년 선수들의 정신적 성장을 돕는 시설이 생겨 미래의 주전 양성에 긍정적입니다.",
+      "fanTakeKo": "아벨 페헤이라 감독 멋져요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -350,6 +430,22 @@
       "publishedAt": "2026-07-06T17:57:27.000Z",
       "whyItMattersKo": "주전들의 복귀와 비토르 호키의 컨디션 회복은 팀 전력 상승의 핵심입니다.",
       "fanTakeKo": "주전들이 다시 돌아오니 든든합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRG",
+      "title": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam - UOL",
+      "summaryKo": "비토르 호키 복귀 임박, 우루과이 선수들도 복귀",
+      "excerpt": "Vitor Roque fica perto de retorno no Palmeiras, e uruguaios se reapresentam&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHNCaTlUbXE5TGlibjBMc2ZBdUp6VS1rV3FHQzdQVHlTaDlJOFk3WVNFRGRDWlpKU0Y0YnVBeUNKMVVNYU5BeDZVemVlaEg5Sk1nS3NiX3dKXzgwZW0tVXZwN2lkQ2lJSmdFZUZtcjJveGZOVWdFX2hqMFBxNEV5bmZRaWx0LUdnTmE0aXR3eGtPNEQtbnRSb1Z5dDVfN2g3NC1aUWlrVlhRZ2hmRDVhUkFhZW5qZXJJeDVuR1loMFMyYktiVUg4LXVfMklpQTJxSkE5Wlh1NEM2SXJn?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-06T17:57:00.000Z",
+      "whyItMattersKo": "주전 공격수 복귀와 외국인 선수 합류로 전력 정상화가 눈앞에 보입니다.",
+      "fanTakeKo": "호키 돌아오고 전력 풀충전이다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -860,102 +956,6 @@
       "publishedAt": "2026-07-04T22:04:00.000Z",
       "whyItMattersKo": "휴식기를 보내고 선수들의 컨디션을 점검하고 팀 전술을 다듬는 과정입니다.",
       "fanTakeKo": "시즌 시작 전 컨디션 좋아 보이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjF4TGFSUXp0TDBVOUltSW5zeWtONV9CNEZzTjAwcG15aE9nSkE0RHN2eW1",
-      "title": "Enciso pode jogar no Palmeiras? Onde atua o atacante do Paraguai? - sportingnews.com",
-      "summaryKo": "파라과이 엔시소, 파우메이라스 이적설",
-      "excerpt": "Enciso pode jogar no Palmeiras? Onde atua o atacante do Paraguai?&nbsp;&nbsp;sportingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjF4TGFSUXp0TDBVOUltSW5zeWtONV9CNEZzTjAwcG15aE9nSkE0RHN2eW12Wk94UHFBVmMtcVAxdkMzWEVUaTU3bm50SDVFeHlJMHVMS2RPdzM0UV9fUGx0bF9KM0EweGhpUUtvaE13ODZYQm92eFFUUGJiUjJZUktLNUtFbHYyazdILU43Um9hVDhMRGMyNVg4U0lXbUlDUVl6d01Nb2JQVnBXVmY1UVM2RlpJYzZ1dzdDSWtrWklibFFJRll4Qg?oc=5",
-      "source": "sportingnews.com",
-      "language": "pt",
-      "publishedAt": "2026-07-04T20:20:02.000Z",
-      "whyItMattersKo": "영입이 성사되면 미드필더 옵션이 늘어나 공격력 강화에 큰 도움이 됩니다.",
-      "fanTakeKo": "재능 있는 선수 영입 기대됩니다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUswbHdyM3d5VVIxbjJLZDFzSVV0UDNiN05WVWh0WVhpS0pDOWNVZ0pYd0",
-      "title": "Palmeiras já tem três desfalques confirmados para o próximo jogo; lista deve aumentar - Terra",
-      "summaryKo": "다음 경기 3명 결장 확정, 늘어날 수도",
-      "excerpt": "Palmeiras já tem três desfalques confirmados para o próximo jogo; lista deve aumentar&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUswbHdyM3d5VVIxbjJLZDFzSVV0UDNiN05WVWh0WVhpS0pDOWNVZ0pYd0hvVnN5STZZY3ZkYlYzWGhWZ0ZVQkxjWU5GZ1BGWkdEbGNadXdPRUJuUVdVZlRBYnZFemZVd0pNcWNIWEhGVzNnR0lfLUFGbUNXOHZDWEhUaHdRTWIwZDlNODhRUEludmJaNFE5V3dJMGlEMnRmRnZ1QVRmbENXNzBkSlRCSTB5ekl4My10dzB4WXVDNEFwRjVBTTNMbjl3Z3N0bXpyOEZVcGtDYW5HX2dNQ3didENKSDNpdFhTTmlPNm9qa3BjSWItdXgwd2VrTVgwUjdOMTNRUQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-04T20:18:00.000Z",
-      "whyItMattersKo": "부상자와 결장자가 늘어나면 다음 경기 선발 라인업 구성에 큰 변수가 됩니다.",
-      "fanTakeKo": "부상만 없으면 얼마나 좋을까요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxGMlYyYVBrY1NTNzdfcHJVcFdSQ3NLQ3AzR3h4VkFIZWl3emNJeUxIcHU",
-      "title": "Esposa de Jhon Árias manda recado para Leila Pereira, do Palmeiras - Terra",
-      "summaryKo": "아리아스 부인, 레일라 페헤이라 회장에 메시지",
-      "excerpt": "Esposa de Jhon Árias manda recado para Leila Pereira, do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxGMlYyYVBrY1NTNzdfcHJVcFdSQ3NLQ3AzR3h4VkFIZWl3emNJeUxIcHU4Nl9QcFFMS091bVlQNjFvT042dUE4czl2R1J3NGo3NUFMOWlEVjFOYTVmZ0RnNEtNMEIwNHFSUjZJdjMzbFZmbkZNajZ1OXliaHprQ1RXUGkyY1BrUXV1Skt5ZzkwVkYwWmNmb1lPZlVtMFdoQWpYQ1JuYXhuakFHREtPRDdUNzFlczJ3dDVsWHJocXd3Mm1VN3Bvd3ZGajhickg0MUxaWHQ4SmViUFV3VkFzaFYtUGZwOVQ0d2ZN?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-04T20:07:00.000Z",
-      "whyItMattersKo": "선수 가족의 발언은 구단과의 관계나 선수의 계약 상황을 암시할 수 있어 주목됩니다.",
-      "fanTakeKo": "구단과 선수 관계가 궁금해요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2MxY0g3WHJlTEg5TXFaM0NpazYzQ1FrQ1M5NFE3a3pfaUpqaFd5QmtWX0Z",
-      "title": "Palmeiras vence jogo-treino contra o Primavera; veja lances - GZH",
-      "summaryKo": "파우메이라스, 연습전에서 승리 거뒀다",
-      "excerpt": "Palmeiras vence jogo-treino contra o Primavera; veja lances&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2MxY0g3WHJlTEg5TXFaM0NpazYzQ1FrQ1M5NFE3a3pfaUpqaFd5QmtWX0ZjejBkTHZOQ1dfVERhTEUtOE1tdWpOSl9rUGJRaGUwU3ZfVEhuamlkWmVVTjU2Ty1QWVJrWUdEcFFDZ01YTEVFVkFQZUlhUExEY3JrRlhxU3I2dnd4bHJPY2pyeGg4RHpTbjAzWG8yVDluaUd0R0Y2REhCS3RnbmxtYUIwOTRGTE9RVFZhMjdHSXRHZHVEUkdXa0dHcjlGVGNQWTI4NTRsaUxLVnNEWmFuSHVR?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-07-04T20:04:26.000Z",
-      "whyItMattersKo": "공식전 앞두고 선수들의 실전 감각을 점검하고 팀 분위기를 다지는 시간입니다.",
-      "fanTakeKo": "연습전 승리도 기분은 좋죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFdzcE93YzZfUEF0dVQ1eHJvc19ET09LSG9MSVNXY0dTMkhleFJkTmVtXy0",
-      "title": "Lance de Carlos Miguel em jogo-treino do Palmeiras assusta: 'Simplesmente' - LANCE!",
-      "summaryKo": "카를루스 미겔, 연습경기서 위험한 순간",
-      "excerpt": "Lance de Carlos Miguel em jogo-treino do Palmeiras assusta: 'Simplesmente'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFdzcE93YzZfUEF0dVQ1eHJvc19ET09LSG9MSVNXY0dTMkhleFJkTmVtXy00YU9WR2Y1RnFRSEk3cXJRaURRb1drRVJjNzF2SzFZVExCbVhnYTFFWkRLVTBQRjhDaVpMWkVCN3Nrc3lXSUg3TERXSC1RUUx5V0RDYk5jQUJjR3pWYW9Ta2syUllhYTV6MXRHdXlqc0NzQUVrTVl1MlJRaExYcmFjYU1teW9YXzEyQQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-04T18:55:02.000Z",
-      "whyItMattersKo": "연습경기에서의 위험한 순간은 주전 선수의 부상과 팀 전력에 빨간 불이 켜질 수 있습니다.",
-      "fanTakeKo": "부상은 아니었기를 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWjZpcTNadFJxWjl6Z0xWckFtd1pPWk9ObnF2N2U2TnR2czFLWU5vY0Y5LWJ",
-      "title": "De virada, Palmeiras vence Primavera em segundo jogo-treino da intertemporada - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 연습경기서 프리마베라 꺾고 역전승",
-      "excerpt": "De virada, Palmeiras vence Primavera em segundo jogo-treino da intertemporada&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWjZpcTNadFJxWjl6Z0xWckFtd1pPWk9ObnF2N2U2TnR2czFLWU5vY0Y5LWJtakk4dkY3cmdaWXRVMXZVZS1SbTVudTFVRFVLZ05fZGVTUVBOZDY0VzVSTkg3QkJnc2ExbS13aURkTjBmSl85WS1hN0FQWlRQcGxfejJoOE96OGVCS1hVZzMwaS02UFpHNldyOUdmd28zcVoxUDR2UDBncjgyQ2Y1WmNWNG5CYzBTS2ZlLTJ6Nzc1V1l4R1UxYkJiQl9mVVJyYWotNURNVWV6Q1ZJeG45Sll3QW5PTDFKRDdkLWJrZXhTaW5QQk82SkhHYkx3?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-04T18:27:48.000Z",
-      "whyItMattersKo": "시즌 중 휴식기 연습경기에서 보여준 뒤집기 승리는 팀의 투지를 보여줍니다.",
-      "fanTakeKo": "역전승이라 기분이 좋네요!",
       "tags": [
         "뉴스",
         "AI요약"
