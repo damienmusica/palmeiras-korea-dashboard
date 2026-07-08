@@ -1,8 +1,136 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-08T20:04:41.888Z",
+  "fetchedAt": "2026-07-08T21:42:01.005Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMijgJBVV95cUxQd01raGpXYklIenNfRk5wUlphR1IyMTdKbmh6TTYzWXJjb1dzcW5EdTR0and",
+      "title": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que disputam o - facebook.com",
+      "summaryKo": "파우메이라스 플라코 로페스, 월드컵 유일 생존",
+      "excerpt": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que dis",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQd01raGpXYklIenNfRk5wUlphR1IyMTdKbmh6TTYzWXJjb1dzcW5EdTR0andPMWRJWjNtTXU4ZUpUS2pnTGJicG5neDlzNk1iazJJaExGTmEwelBIYVNROHJhbnd0UnMxNExIa3lZSkI5dnFLSUN2UGtmMmtSdXUzRHBQbEtxYmtDOHhhenNtNHE3M3M0RXF1ekVFUlBkTUQ3OFJqa3gyNXNpUHhVY3RUSEltYkZEc21PNVM5YXZ3MDE4Zjh1Z0laT01ZSmNRaUo3OEdNSk03NUtnSmhfeFNQb0ZCSURVS2JseW9vVVp2bzUtczN6aE0xdUhMSzZLQ2Fnd2hiRk5vUzd2UGFaR2c?oc=5",
+      "source": "facebook.com",
+      "language": "pt",
+      "publishedAt": "2026-07-08T21:22:43.000Z",
+      "whyItMattersKo": "브라질리앙 소속 선수 중 월드컵에 남은 유일한 선수라 팀 위상을 높입니다.",
+      "fanTakeKo": "로페스 혼자서 우리 팀 자랑해라!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdnZabk1MdzlReDB4dDM1R2dkbG1vZUI3Mk9QS1NvV2tveTZMZC05azZsamF",
+      "title": "Brasileirão Sub-20 A: Palmeiras, Bragantino, Cruzeiro e Santos saem com vantagem nas quartas de final - CBF",
+      "summaryKo": "파우메이라스, U-20 리그 8강서 유리",
+      "excerpt": "Brasileirão Sub-20 A: Palmeiras, Bragantino, Cruzeiro e Santos saem com vantagem nas quartas de final&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdnZabk1MdzlReDB4dDM1R2dkbG1vZUI3Mk9QS1NvV2tveTZMZC05azZsamFIc0hLdjd1TVNZUkJDSXVHY001OWYzckplcm9TQUQ5U294MzhreUtldmZJWjVMd3YwbURMU1VXdW9KZlIyazJTNW5STEEzT0R6R19kV2trSnhQbGRYV09JU2VGZmVMdHNMckJuUGpMZmVEa1l2RDZyMWhHSFJhNGdfdnFSRkJZd0FiNlhTOVg4MzF4RzUtNUF4Vml6cE1NdENXWjBXdTBnb2xzSTA3SXAtM1dQSHpmVTZybTRQcjg2N2tZZmg1NHlEXzRtOTFsV0JNTEc2Yk4xRUxERDBtUFk?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:47:00.000Z",
+      "whyItMattersKo": "8강 1차전에서 유리한 고지를 점해 준결승 진출에 한 걸음 더 다가갔습니다.",
+      "fanTakeKo": "미래의 에이스들, 준결승 가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYjMtcjdFZHpMMUNxRzBiZWh6ZnhBelBYUEFSNG5kV3B6Q2ppd0dCSkxlcXl",
+      "title": "Conheça Miguel Bilong, camaronês que roubou a cena em jogo-treino do Palmeiras - LANCE!",
+      "summaryKo": "카메룬 신성 빌롱, 훈련경기서 눈도장",
+      "excerpt": "Conheça Miguel Bilong, camaronês que roubou a cena em jogo-treino do Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYjMtcjdFZHpMMUNxRzBiZWh6ZnhBelBYUEFSNG5kV3B6Q2ppd0dCSkxlcXlVWEFydTZWN0xWdUtiMlNlNW9jSXlPREt0YldES01TYTIxcUFWYXhfZDBuV1VQZWQ1TS1fSTM5YmlTa0NGUWJLakI5UDExNzFPeENDUDFWOU9iZGhVNUhtVWxjS3F0ZDBMT1ptenpaVUlTcmZkekpSZ1VsMHpDQjd4MVRIX1ZFbURPY1lZ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:27:48.000Z",
+      "whyItMattersKo": "유망주의 훈련경기 맹활약은 1군 팀 전력 보강에 새로운 가능성을 보여줍니다.",
+      "fanTakeKo": "빌롱, 꼭 1군에서 보고 싶다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHRuaVZMb1NFQlFfX212M1NnZ2kxZnFBcVRINkYteTFZZ2RXSE5ObHFxN2I",
+      "title": "Palmeiras vence Corinthians e sai na frente por vaga na semifinal do Brasileiro Sub-20 - palmeiras.com.br",
+      "summaryKo": "U-20 더비, 파우메이라스 코린치안스 제압",
+      "excerpt": "Palmeiras vence Corinthians e sai na frente por vaga na semifinal do Brasileiro Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHRuaVZMb1NFQlFfX212M1NnZ2kxZnFBcVRINkYteTFZZ2RXSE5ObHFxN2ItQnVELVJOekp6aGpOQ1p3NDdieHZUSjNEVXhTZEZIYk9NRHNJeVktbVloMXVXZWw0V2x3YktzNHc4c0w2eUNCTmExbjdnTjhDX0xBUjU2aXY2N2dXNlJaTDdRWWFseWNwRm1PWUlVcTlPWlhxdU1nUUJCbG9uT1pqTXJUVGIyZFRQQXZUYWZReFVJNGtGSWM?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:15:22.000Z",
+      "whyItMattersKo": "라이벌 코린치안스를 꺾고 준결승 진출에 매우 유리한 고지를 선점했습니다.",
+      "fanTakeKo": "어린 더비라도 이기니 최고다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUVsSzA4WjVTSmNoMk1DaEl1RDNoOUxBMmJCQndXQ2FrTERBeUVBV0Q0dmF",
+      "title": "Palmeiras ganha do Red Bull Bragantino pela quarta rodada do Paulista F Sub-20 - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유스, 브라간치누 꺾고 승리",
+      "excerpt": "Palmeiras ganha do Red Bull Bragantino pela quarta rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUVsSzA4WjVTSmNoMk1DaEl1RDNoOUxBMmJCQndXQ2FrTERBeUVBV0Q0dmFTZ1ppcHFtcTdVOUQ5Z3ZSMEZla1pzYW9yUU9ZdEtoUTRKamt3OHE2eUwyUktsdVFXMy1SQjVEQ29zZ1lVbW93ajR6T08wX19JaEdJeWVZczNpTEZtNGhlaHdpTllUd3VCYW5fTFYxVzZUSjJLczFYTXFseWNSajNjUGcydEo1bmJVV3VG?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:11:54.000Z",
+      "whyItMattersKo": "유스팀의 승리는 미래의 주전을 키우는 과정이자 클럽의 내실을 의미합니다.",
+      "fanTakeKo": "미래의 에이스들이 자라나네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaXpLb3dlOFppRHdlaTlyYlc3bDNSc3RNbmZyUmZTWXpscklrajhoWWJBM1p",
+      "title": "Palmeiras vence o Corinthians no fim e sai na frente nas quartas do Brasileiro Sub-20 - Terra",
+      "summaryKo": "U-20팀, 코린치안스 뒤집고 8강 고지",
+      "excerpt": "Palmeiras vence o Corinthians no fim e sai na frente nas quartas do Brasileiro Sub-20&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaXpLb3dlOFppRHdlaTlyYlc3bDNSc3RNbmZyUmZTWXpscklrajhoWWJBM1pYZFF3OVdPU0tjaWdmT3lIM0hfRzdMRXF4eC1xRjJSN0FLcU1oT3dVcjBKZVY5Qk0yZHB0c215eWlZWnVtVFU3RFlHd1J2Wm14Q2NCcDNMRmt5NlZLX19Ea2RXc1hrVDZ3N3BsSXh0b1NLWVBEbGIzVmc4LXZWUlViY2NKMzhKYXc4RjlwNTYwMmFnTzV2bnc2Q1lwM0VTV2hkcERIQW00TmZGckxSTXRRaUFzV2FCNGhNM0pUR1F3eEdjQ1dwZmJ3U3NYOGVDM2dTUFlQV2RaSHRuazg?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:07:00.000Z",
+      "whyItMattersKo": "라이벌을 꺾고 8강에서 우위를 점해 결승 진출에 유리한 고지를 잡았습니다.",
+      "fanTakeKo": "뒤집은 승리가 제일 짜릿하죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemo4OXd1YTJXRXJTb01CR1puUDZ2SkdKZzk4Mm1tYUhyWWtPTm4tSXBXZ0J",
+      "title": "Palmeiras faz golaço no fim e bate Corinthians pelas quartas do Brasileiro Sub-20 - Rádio Itatiaia",
+      "summaryKo": "U-20팀, 코린치안스전 막판 골로 승리",
+      "excerpt": "Palmeiras faz golaço no fim e bate Corinthians pelas quartas do Brasileiro Sub-20&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemo4OXd1YTJXRXJTb01CR1puUDZ2SkdKZzk4Mm1tYUhyWWtPTm4tSXBXZ0JJZEh4UVJzWmpvSy0tWG5QVkc4eXFzcXc0UWgzbVRQTTY4S0FuMzJTZGdZN3h0clQ3Zm5TMFliS3NWOHN1N1dBYVY0TGE0WDJ3aGhHSEU2MW15N1hTeUlOWlNsUWdtOFRQaVBXLVpLSHAzMmhWQzNpZkhYT2swcnF1UU9PR2FEYVd2RmpTcjRkM2Q0VEJ2LWxxQ0l2dDAtdTRHWW51UXlsd2hpNVBMQ1Nh?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:00:38.000Z",
+      "whyItMattersKo": "막판 결정적인 골로 라이벌전을 승리하며 8강 진출에 큰 발판을 마련했습니다.",
+      "fanTakeKo": "그 골은 진짜 명골이었어요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeDBkbFRnMU5saXZfSUhhT0gwWW1YTGdMQ3gwTjZZdjJzdVdSdC0xLWpvTjF",
+      "title": "Ao vivo: Corinthians x Palmeiras - Brasileirão Sub-20 Quartas de Final - UOL",
+      "summaryKo": "U-20 브라질레이렁 8강전 생중계 시작",
+      "excerpt": "Ao vivo: Corinthians x Palmeiras - Brasileirão Sub-20 Quartas de Final&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeDBkbFRnMU5saXZfSUhhT0gwWW1YTGdMQ3gwTjZZdjJzdVdSdC0xLWpvTjFIeWJIZXVqMnduS2dGNEt2MXp5VWJaOHhZTEFZUnVURVFENzBUMUFueHRwamFZN3RLdHRsRjFsbjVEclFmeUlkNTU5S3piMFpldDZjR040Nll4UDZab013dWNRUEdpNEt6ZzhzR05Ral80bjZVQXEyT2tfNU90WG5xejY2OXZmdmVVcHo2dEpnMEFIS0M?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-08T19:35:02.000Z",
+      "whyItMattersKo": "8강 탈락을 건 중요한 경기를 생중계로 확인할 수 있어 팬들에게 긴박합니다.",
+      "fanTakeKo": "긴장되는 경기네요, 응원합니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMigAJBVV95cUxPUkVzXzVxLUs4bHdMeklUX3Zkc213SDVFZi1MOU5vdDUtWHdXRXJhdFQ1X2o",
       "title": "Corinthians x Palmeiras: diretoria e Diniz marcam presença em clássico do sub-20 - Rádio Itatiaia",
@@ -78,6 +206,22 @@
       "publishedAt": "2026-07-08T19:00:00.000Z",
       "whyItMattersKo": "친정 팀 훈련장을 찾은 스타 선수가 팬들에게 즐거움을 주고 팀 분위기에도 활력을 줍니다.",
       "fanTakeKo": "제수스 보니까 정말 반갑네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVlpdlNidUtwTHJVLUlzTmhwX0pmS1ZNWFUtUnZUN1BPTG1iSHBiNy1HX1",
+      "title": "De volta ao Palmeiras, Piquerez participa de jogo-treino e fala sobre sua recuperação - LANCE!",
+      "summaryKo": "피케레스, 복귀 후 훈련경기 뛰며 회복 언급",
+      "excerpt": "De volta ao Palmeiras, Piquerez participa de jogo-treino e fala sobre sua recuperação&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVlpdlNidUtwTHJVLUlzTmhwX0pmS1ZNWFUtUnZUN1BPTG1iSHBiNy1HX1c3ZXk4a25ONTB6dU9sVmg5VGJyX0g5ekRSa2pmNXE4Rk9pTlI4czYxUDdNWk5udDdQUnFzd1Q4ajVFUnk4OW9ubjZGZ3hIdVpwWmlxOHQxUW9lSERBZU9NVTRuNGRScUhOU3FQSmZiLW9CeGN6cWNFUUU5blpHQ1RLdEhCSEtySVRLV1VDOXdnUENrcVRSUQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-08T18:32:30.000Z",
+      "whyItMattersKo": "주전급 선수의 복귀는 수비 안정화와 팀 전력 보강에 긍정적인 신호입니다.",
+      "fanTakeKo": "빨리 온전한 모습 보고 싶네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -217,7 +361,7 @@
       "summaryKo": "18세 카메룬 미겔 빌롱, 연습경기서 맹활약",
       "excerpt": "Miguel Bilong: quem é o camaronês de 18 anos que se destacou em jogo-treino do Palmeiras&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFFZNU9NTnNDbDRxbnhGSDRPYmhFLWtOUW1MLTIzblJrYV9admpyTzNjYl9JUFV3RF9hQjdZdzNnQlNVbTk4VFV3QnhwM2ZMQ2FLOUtOTmx0R0hoamlMUVJtdFFsRmtYRHROaDFJRzdYdTZ0VFhLRzFlMlF5UzNpZXBTN1p5cHJWNFl4UjhKU1N2aDRLMEd0QndBdXhFVFE5ekVBamYydmthZTloTjhsdzZqRnpLazRCWXlPUHN1bG92WHpGRUlJcWEtQXpESTZ2c0hGZjVQRGRLZW9TMlU0QjZ5Y2ZkUmVma1ZrUFl30gH8AUFVX3lxTE1EUnhTcmhYMEtscmhUSGN5a1FjZ2s5Z1ZOSmhxdWQwRUpqNUxxeW1hNVJYRlFlbHFiVmlPNVU5UGJ3STF2d2daUVRBSEZqRGs2Ukk4cEo1QWVNR1FNZDl0NldHQ21QTzhTdDM3cVBHSExMeUtCZ1lnM3hPbUFEVXJXQnUxQVdVWTJVWXdZYjJVSXlDSlBxM3QyVjRNTkkxOU5zNGtLTDRhc203cHpmQlNEcEVJSUJXNFI4eTViYm15bFhEU2N6RGNwdkd6S0VMcVhWYW16V1NnQmc2b2IzdFBzOUQtMk1hZi02d3U5NUNLdVc2RGhNY0drWDdPaA?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-08T17:00:46.000Z",
       "whyItMattersKo": "유망주의 두각은 미래의 주전 경쟁과 팀의 깊이를 더하는 긍정적 신호입니다.",
@@ -286,6 +430,22 @@
       "publishedAt": "2026-07-08T16:49:00.000Z",
       "whyItMattersKo": "주전 경쟁이 치열해야 팀 전체의 경기력이 높아지고 선수들이 자극받기 때문입니다.",
       "fanTakeKo": "경쟁 심해야 팀이 더 강해지죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-27-https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1lSay1VbkQ1M0JrVVZsR0VSekh3MHRYVUo0MlVXcTVVVnlYcWJiQmo5U2",
+      "title": "Com Danilo na mira, Palmeiras define nome no meio-campo que pode ser vendido - ESPN Brasil",
+      "summaryKo": "파우메이라스, 다닐로 노리며 미드필더 판매 대상 선정",
+      "excerpt": "Com Danilo na mira, Palmeiras define nome no meio-campo que pode ser vendido&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1lSay1VbkQ1M0JrVVZsR0VSekh3MHRYVUo0MlVXcTVVVnlYcWJiQmo5U2tLSnJ5TmQ3YzRsQkxjUnNFVzdDTGhPN1h6YXBoWk5nOHhoU1BLYWJEVjVZdk1kSURDaS1waXRnVmRqOThTYmxoelJKUWY4R2NfakZsRUxzeXl0UzRSY2JDdUhWTy1HWEtMeW5Wa2pDbUxlVmZVam9NQjNnanEwMmVrVk1MQXZTRnNMS2llVVA2V05nOVJBWUJRX3Rv?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-08T16:37:00.000Z",
+      "whyItMattersKo": "중원 교체는 팀 전술 변화와 새 선수 영입 자금 마련에 직접적인 영향을 줍니다.",
+      "fanTakeKo": "다닐로 오면 좋겠는데 누가 갈까?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -798,158 +958,6 @@
       "publishedAt": "2026-07-08T01:49:56.000Z",
       "whyItMattersKo": "2026 월드컵 진출을 위해 리그를 대표해 뛰는 선수가 있다는 점이 큰 의미입니다.",
       "fanTakeKo": "2026까지 함께하자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUldmUjQ0ajNRbTh0R1I3enQ2UVd0TnY1T3dUdWF1aTFZMDQzem96dXdkRWF",
-      "title": "Resta um: Flaco López é o único jogador do Brasileirão ainda na Copa 2026 - Terra",
-      "summaryKo": "브라질레이렁 남은 유일한 월드컵 선수, 플라코 로페스",
-      "excerpt": "Resta um: Flaco López é o único jogador do Brasileirão ainda na Copa 2026&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUldmUjQ0ajNRbTh0R1I3enQ2UVd0TnY1T3dUdWF1aTFZMDQzem96dXdkRWFmSzUzZ2FPelNfMkNfSTlfYW9yeVIxRTNPN0Z1QjF5WVhhWU43MC01dkNJUWZRQm1DeUttOUo5VVN0cTVDNDNCZDV6eXM3VmJKXzJBOGlGaWxQX2NOdF93SHdlTTFpQVZMeXNoZWl1aTZXWGNNWGNfVzZQNzFQcFJMVXhWUHh3eThQejhJbkliYUVKZVBwZ0JILUtsVS1OVXRTS1lDUnlNc2R3Wmd3S3VKQml5UEgzMG1RZFN5QVpMNk16MWRKQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-08T01:11:42.000Z",
-      "whyItMattersKo": "팀을 대표해 국제 무대에 선다는 건 선수 가치와 클럽 위상 모두를 높여줍니다.",
-      "fanTakeKo": "우리 로페스, 국대에서도 활약하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGljckk4SXNvWHZaOTczMkFwTUhRSWN5M18xZ1JZSHFpV0drQUg1WHZJY1R",
-      "title": "Arias reclama de viagens da Colômbia e fala em condições desiguais na Copa - UOL",
-      "summaryKo": "아리아스, 콜롬비아 일정 불공정 항변",
-      "excerpt": "Arias reclama de viagens da Colômbia e fala em condições desiguais na Copa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGljckk4SXNvWHZaOTczMkFwTUhRSWN5M18xZ1JZSHFpV0drQUg1WHZJY1RjcHRzWDVibFRjaHl4bGRDVTJpZTBMTEZ5ZjYxR19Fa1p1dG41Q0owa3hMOHU0WVBjWEQwYTByVHVoUTNPRk9QZDZ5Yk1wZWRMalpUNkZTQ0lteDkwNzFJd3M0SzdxYURlRDBn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-08T01:05:51.000Z",
-      "whyItMattersKo": "비행 일정 등 열악한 환경은 선수 컨디션 저하와 부상 위험을 키울 수 있어 걱정입니다.",
-      "fanTakeKo": "선수 보호가 더 중요하잖아!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0MtTHplNmQzRzdwTkM4THhNZnhxUWxsVEF5bWN5N1lMR3BoY2VuSVBsLVl",
-      "title": "Resta um: Flaco López é o único jogador do Brasileirão ainda na Copa 2026 - Estadão",
-      "summaryKo": "브라질레이렁 남은 유일한 월드컵 선수, 플라코 로페스",
-      "excerpt": "Resta um: Flaco López é o único jogador do Brasileirão ainda na Copa 2026&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0MtTHplNmQzRzdwTkM4THhNZnhxUWxsVEF5bWN5N1lMR3BoY2VuSVBsLVlBcVZ0YlNGaDQ1TmNsbURaWWpjMHpPby1EQ3FiR3VuN1pnUXduODN1RHdRTlQ5OFR4SHBHZWVFZC12Qk0xT19nSTQxQS0zaEw0UUZ3TVJFMTZlYVJEbk0zNC0zX3k1VTJNNTdLOWVKS0RHVnFPaXJCamczYUozMFNtdko4akhvNmJKMlQ2MFZwSkFwLU04WEpzVWJvV9IBzgFBVV95cUxOSThFQ0RISGVOb0FpZ2E1XzkwZXZzWnNfcWM3R1NtMHpwSkpYMzdFYnJWbWVrMnJ5T0VWTlg0RUpfQU4zd1kyczZqcTFOeThJcXJfcEZ3NjluZVFnNmRrZU4tSjR0WUNLb2g2ZG1xWjRSQlRZS294dXB0TDk2VUo1TURzMW80QUxXbTBMSktocjdfY3hIc3R3S2czendLYi02VGZpeGJ3amF0djhoZnFSSE9yNEJ3LVZtdzRwRjUzSDBBYVZSNEJHMG1FQ0xOdw?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:59:00.000Z",
-      "whyItMattersKo": "팀을 대표해 국제 무대에 선다는 건 선수 가치와 클럽 위상 모두를 높여줍니다.",
-      "fanTakeKo": "우리 로페스, 국대에서도 활약하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdU5aQ0dUYVFZR2h5ekpWU0RSeVZkM3ZUOTV5MHJ2VFFFZzBfRk53V2pibHZ",
-      "title": "Apenas um jogador do Brasileirão segue na disputa da Copa do Mundo 2026 - VEJA",
-      "summaryKo": "브라질레이렁 남은 유일한 월드컵 선수, 플라코 로페스",
-      "excerpt": "Apenas um jogador do Brasileirão segue na disputa da Copa do Mundo 2026&nbsp;&nbsp;VEJA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdU5aQ0dUYVFZR2h5ekpWU0RSeVZkM3ZUOTV5MHJ2VFFFZzBfRk53V2pibHZyam9XVlgxZXlLUi1HNmZiUlJ0R2NFdTd2OGt3XzEwWTVNVS1uTDZmWHlacHQ5S2R3LVplZ3R2b3lXVWc5QUNuQ3JUSkZpbldYemNJTzNlMHZsS25VT0hXSllNcGMweGxSdWtTcHM5Y3RRaHpuOFVDVGxyR2xxdw?oc=5",
-      "source": "VEJA",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:43:54.000Z",
-      "whyItMattersKo": "팀을 대표해 국제 무대에 선다는 건 선수 가치와 클럽 위상 모두를 높여줍니다.",
-      "fanTakeKo": "우리 로페스, 국대에서도 활약하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMihwJBVV95cUxPWHo4OS04cDJoTHdHQzBuaUZ1Q2otSjVLYTc3Qk54QUQ3UDJkR1d0OGZ4aGJ",
-      "title": "Com apenas 13 minutos jogados, Flaco López, do Palmeiras, é único remanescente do Brasileirão na Copa após as oitavas - O GLOBO",
-      "summaryKo": "단 13분만에 플레이한 파우메이라스의 플라코 로페스는 16강전 이후 월드컵에서 유일하게 남아있는 브라질레이랑의 선수입니다 - O Globo",
-      "excerpt": "Com apenas 13 minutos jogados, Flaco López, do Palmeiras, é único remanescente do Brasileirão na Copa após as oitavas&nbsp;&nbsp;O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWHo4OS04cDJoTHdHQzBuaUZ1Q2otSjVLYTc3Qk54QUQ3UDJkR1d0OGZ4aGJzbHJHNjVHNWh2ZUt1VWV2WHB4dmh3UU11VFcxNTJfaHl1NC1yUjZkaEpHV2MwZ1BEOThpQ3FSUU85M3p3TlRaNF9OQzhzUV9UaFQ0SVZhWWF3Tk91WWZtNG5mNDBFb0JXT1Zndi00eEcwemtlRzlqa3lnbHNsdHo4RVlSWW0tcXJsOG5qUHZ4MjZyYnNfamNEekVTV3ZDckM1UFYzMW1yMjN0SWtIY3A1QjYtNm83N0E2bk5ITTcxemwyNl8tLW82NHg2RHoySnc4WGxIRklnRVR2VdIBlgJBVV95cUxNcUtsYWRXRFZEWmdiY29lcUtxR2RwV2RXd1hOeW5RamYwcGZXMDc3aW5EODlzOEVxTVhsaFhfeEdraUthMV9tcHNKODVIX216WGgteHJVY0JneEZlQnZWOE1LWExUM3B5QnFFRUptSVlOU295MDBaOFNZS3VkSUhIQl9qSFRHS3lHSEJxV3dHQXNxRjFPU3kzaElDTEdPV2FaQ2NVdFp6aDZJNlhVbHRGa2pYRWRzZjdnbUJhbEM5aVE0OUQxcl9JbXJvUFJvWlFpczNqSlVQSllKMUltSGozQ0NyRkRXYXEwbG53YkUzUUdiVGM1VmoxbC1NQklLZl9ZUWhiNHV6NTRhNlg4ZXE2eVZSbEhVQQ?oc=5",
-      "source": "O GLOBO",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:37:41.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDF1clljT2RDRGNZLUt1ZzBJWEs0OTRMYjV6NE5xY3FYV01hZkFZZEx2blZ",
-      "title": "Carlos Miguel comenta desempenho em jogos-treino e projeta sequência do Palmeiras - Gazeta Esportiva",
-      "summaryKo": "카를로스 미겔 (Carlos Miguel) 은 훈련 게임 및 프로젝트에서의 성과에 대해 언급합니다. 파우메이라스 시퀀스 - Gazeta Esportiva",
-      "excerpt": "Carlos Miguel comenta desempenho em jogos-treino e projeta sequência do Palmeiras&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDF1clljT2RDRGNZLUt1ZzBJWEs0OTRMYjV6NE5xY3FYV01hZkFZZEx2blZKdVJYSTJDampwZ09nM1ZYcXVUbDZIMkotS3E2N1RrV3NGUVRzRmRKLU9IdGNjbUlHYld2ejJwR2Z1bjJMTVd5MjdVVFVwNGNfVVRKQTNMVjlpRVZISFdDUGF6MmFNbGJRY19BeFB2czQyQ3RjWlUyc0lUYmhKQUItS3JtZ3duZENVRnRrbXF1cUMyNTY1TmszYWVWNmpB0gHPAUFVX3lxTE1kd2x2M2NjejVvQl9yU1JBMWNBSEtpdndYUFZTWXNFbEpVVi01SVdJalNzQV9NeHZDQ2RhVlV0bVhkQnRhTHhOSVZuVWVBQTQ4NlI3UGp6WUEtYmdBb2M2aWdmdmdPMUdwaFhrZ0xZX0FMaXJoLU9waW9HQ2NqWUJERWRUNndCZXhYZ28wOHAxZkxKZnRnc3dVWVBGeXh2cXVNWjV4WWdCMEVqM0k3R2xRR3BXV2pLZ1lhczNIX3dfVC1FQzZ5T0puNFlBdXdiQQ?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:30:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMipwJBVV95cUxQQUNpalNzb2huSHZRZTlWMWJTQ01NY2d6cEQtbUFkODNKSk5sQ1NWczlzblR",
-      "title": "Flaco López é o único jogador do Brasileirão nas quartas da Copa do Mundo; veja quem ficou pelo caminho - Terra",
-      "summaryKo": "Flaco López는 월드컵 준준결승에서 유일한 브라질 선수입니다. 누가 방해가 되었는지 살펴보세요 - Terra",
-      "excerpt": "Flaco López é o único jogador do Brasileirão nas quartas da Copa do Mundo; veja quem ficou pelo caminho&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQUNpalNzb2huSHZRZTlWMWJTQ01NY2d6cEQtbUFkODNKSk5sQ1NWczlzblRVVkxrRUxFcnMyUmFSbXpGaFdvWTRId2ZId2VDSWhTSkRiaFR3SV95TUdReHp3QnlDU25EOUlIVmxOYjFOb1hsdjRETnhWS0o5ckhFYVhzTVQ2d3VRQUtYSjJtQ0diREZaV3FnTTRmMUpOcEE4NzNBS3dJS25pekstalpNV0RsdGZXUkNZM0VmZGNER3EtVnh5TDhlQ1hkRmZIdFE1TUJVQk9HS2lUb1pzZ0hWX3VUaWRMMnE2V0liQjFqWUY2d1JQdmJaQkRIYUUtMmhFVWktQ2VvYU5XT21WU21NLUd4eXB1bXRGclo1RmMtVEI1aW5JSXpj?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:23:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaVJwdlN3dVlnLTBXczc3NnBOelNLejNhY3NURUd3NUc5NW9rUl8xRFRiSTl",
-      "title": "Arias lamenta eliminação da Colômbia, mas projeta futuro: \"Que seja o início de uma mudança\" - GE",
-      "summaryKo": "아리아스는 콜롬비아의 탈락을 후회하지만, 미래를 계획한다: \"변화의 시작이 되게 하라\" - GE",
-      "excerpt": "Arias lamenta eliminação da Colômbia, mas projeta futuro: \"Que seja o início de uma mudança\"&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaVJwdlN3dVlnLTBXczc3NnBOelNLejNhY3NURUd3NUc5NW9rUl8xRFRiSTlWUmp1TExpelhhdnF0aEJURXFjSVNENG81a2Mzd2YxWGJ0S0JNS3ZDUDhxdzdYX0NMakZ6d0FidmN2ZTBwZDZ0LUI1QmdPb1lzdF9fTWlxdFljVmJWZHppSkU0MERnUE1UTkVUTnQ2Nk5TMW94NS1MSldJN2hSRUVScUFGVTQ1bzJESHgtRXFPbG5oRFFTTEdCdUxmb3A5ZjIyNldXZlBlTkFUOVVvcDhBWm1qRWg5RkxIY01FeXQwR1ZJVG5Vbzgx0gGDAkFVX3lxTE5YM21OQkZtUmRzS0V4dVR1OXVZOG5XTEVyNDJmWXFCcUJlbmNtUXRid3c2VExXVkM5anpXMXVMS3UzZDNLZ3NhUi1UTEdEa0xyT1lkNUlzODRydVU4V0FXXzlkUHhmbkZ2YzlBNUZTM3NrejFCRTJkUlEwZ2l0WEpwcGc2NHRUTkhabXB3UW5Ud3EwVDBMRWM5S084ak5wbWtBOWZZWmJxRWdhRURmV2wySXFYOTdGOUxlemRzUVpaTU1BUE9VUzdMODU3dzVlc01nWFktTlR2REFkOTZ5NFFITFVKOWRzT2lvUjVtMTB4UmFqRVlmdG92b2hJb19JSDdmcUU?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:22:47.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0JYeGpieXhQb2tQVl9uQmsyZXFIcGVTUmVpdVdTa2YxZ0RJUFBLMnp1YzV",
-      "title": "Sobrou um: Flaco López carrega Brasileirão nas quartas da Copa do Mundo - Goal.com",
-      "summaryKo": "플라코 로페, 월드컵 8강의 유일한 브라질리거",
-      "excerpt": "Sobrou um: Flaco López carrega Brasileirão nas quartas da Copa do Mundo&nbsp;&nbsp;Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0JYeGpieXhQb2tQVl9uQmsyZXFIcGVTUmVpdVdTa2YxZ0RJUFBLMnp1YzVQaUlZbWkzR3VFdThXdmpkSmxKMGk1eVdjT2lCdFBBcmtfdTdQWmFEXzZoV0hpMVNtU2N6cW52Q19QWnNpM3VBTTR6OFVUMldvYW5UVHk1dUtTOTFoUXBQVzY0b1YwRkU3R0drcW0wQU1EeFRRU0dhc3phSThsNlNm?oc=5",
-      "source": "Goal.com",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:22:19.000Z",
-      "whyItMattersKo": "브라질리그 선수 중 유일하게 8강에 남아 리그의 위상을 알리는 상징적인 순간입니다.",
-      "fanTakeKo": "리그 자존심 지켜줘서 고마워 로페!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXFMT0ZnXzFwVG1vUUVZRlZZMEtnMGxOTmEybE9Pd2NOTl9LWDl2bzdHcT",
-      "title": "Vitor Roque evolui no Palmeiras e eliminação colombiana favorece planos de Abel - tmc.com.br",
-      "summaryKo": "비토르 호키 성장세, 콜롬비아 탈락은 아벨 계획에 호재",
-      "excerpt": "Vitor Roque evolui no Palmeiras e eliminação colombiana favorece planos de Abel&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXFMT0ZnXzFwVG1vUUVZRlZZMEtnMGxOTmEybE9Pd2NOTl9LWDl2bzdHcTFqNkJsTTJwbl9GVm9PZVhoZWRWcHBPRFdQUFpCdXJRRGlhcnZ3ZFJEWkl0OEZRTTVJMEh4UnZkTzlNR2hNc3REVGtpSlc3Sk01bEtFNmxlZjBVUmtUZFFub2lZV1NFVUhYREJiTk96aWRRMW9nNUwyYVBsdFJkM00?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-08T00:16:50.000Z",
-      "whyItMattersKo": "호키의 성장과 콜롬비아 탈락은 아벨 감독의 팀 운영 계획에 긍정적인 영향을 줍니다.",
-      "fanTakeKo": "호키 잘 크고 있어서 다행이네요.",
       "tags": [
         "뉴스",
         "AI요약"
