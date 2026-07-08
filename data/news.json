@@ -1,8 +1,184 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-08T14:11:50.122Z",
+  "fetchedAt": "2026-07-08T16:14:35.595Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUWNmX3F5d0M3X1g4b3J2bXNRbVVhZlBqT2U0cThlcEhreFBkRnNsZUZucFR",
+      "title": "Gabriel Jesus treina no CT do Palmeiras durante as férias do futebol europeu - Terra",
+      "summaryKo": "가브리엘 제수스, 파우메이라스 훈련장서 훈련",
+      "excerpt": "Gabriel Jesus treina no CT do Palmeiras durante as férias do futebol europeu&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUWNmX3F5d0M3X1g4b3J2bXNRbVVhZlBqT2U0cThlcEhreFBkRnNsZUZucFRleXM1UnR4RlNoTHp6LVh6c2Y1aW9rcVlZbFc0ZUdyY0dtRFVLSG9WdXh6bHFUX25odzluLUdueVpGOXo2cUczUkZMbFYzem5hZTZHM194Tnk0TnJ1QzlQbFRqWGJBbkt5VldPU2l0Q0dFVU1DM3hzcjk0a29nMGJaeGd2Z3hzSGdCdm9tNlg4cHJkMDF3TTE4MHFtQURkY3VzeFdYRHIyamRoQ1VPZHZBRVR6UnRJeEhiME1kMFlrTjd4NDJ2MnJxUTlKZ0NR?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-08T16:01:00.000Z",
+      "whyItMattersKo": "스타 선수의 합류로 팀 분위기가 좋아지고 팬들의 관심이 뜨겁게 달아올랐습니다.",
+      "fanTakeKo": "제수스 보니까 정말 반갑네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjI5N2NVeW1FUENSUDBFMEFGbkJrTFJTb2pEYlhOVTZtcGxqYXhFS0U3WHp",
+      "title": "Camaronês que brilhou em jogo-treino tem contrato assinado com Palmeiras - Rádio Itatiaia",
+      "summaryKo": "연습경기 빛낸 카메룬 선수, 파우메이라스와 정식 계약",
+      "excerpt": "Camaronês que brilhou em jogo-treino tem contrato assinado com Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjI5N2NVeW1FUENSUDBFMEFGbkJrTFJTb2pEYlhOVTZtcGxqYXhFS0U3WHpyQ1ROZElTMURBbHBqRHFzWGVuVUdkbHRvYzhodU43RVVleFFkOW0zbE4weVhMOTNFUF9SZ1BhZ3h0elZLZ2M2dzN0bHFXd0FJRXptLUJHSU01Qm5UaV9GcnZSSjI2TDQ0RU9abjc0cWtoWmJSaDRZV1VnMmlMRE82WUdQRkxHYlJ0ZUJzU1IwcDdTYzRLdXBNUzBEcEpCUWc4ZWFQZmQ2RVdGeHpZVmxkamRpQXVVU1h4TjAyazNGOG9McnU1cEwx?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:50:01.000Z",
+      "whyItMattersKo": "기대주 영입을 통해 공격진의 깊이를 강화하고 미래를 준비하는 움직임입니다.",
+      "fanTakeKo": "새로운 공격수 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMigwJBVV95cUxNODRSMnlpQk9iR0lpLXh4YnpZVUsyV0xxNk1qYlg2QU9vNjc3RVRNQ1EyRUJ",
+      "title": "Internacional avalia investida por Rômulo após exigência do Palmeiras - Terra",
+      "summaryKo": "인테르나시오나우, 파우메이라스 요구에 로물루 영입 검토",
+      "excerpt": "Internacional avalia investida por Rômulo após exigência do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNODRSMnlpQk9iR0lpLXh4YnpZVUsyV0xxNk1qYlg2QU9vNjc3RVRNQ1EyRUJuOEdCZ2ZWOEV2dDBqenpMdWRndjNXSTJLai1RSTJ0ZWR2UGZ5WERQeG80am5BZkZ0eTZBTHNTM09RbXE3SmQzVVJTYUgtR0J5MF9oWTlOcU1fYkM2VW54aDFQZWkwZm4wZGdSZ3FXNk5PQUdNTG90X0kxWEF4MVZ1UnNOeldUTDZVZXBJLUloUWx2dVAyeWx6RXRWOTZmVVRuVVVwQ2tsdXUxeFRxWVVZMUZ1NF96b052ZDE2MnM1bWM4RDk4VVpBdTgwTGZnTWpzeXplemgw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:46:00.000Z",
+      "whyItMattersKo": "영입 시장에서의 협상 진전은 팀 전력 보강에 중요한 변수가 될 수 있습니다.",
+      "fanTakeKo": "제발 영입 성사되길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWjlSZGZKbkl4MnkzQkIxX05EY0VVOHMtT1lSc0c2YVV3N0JtOWdSdl9Ic2I",
+      "title": "São Paulo e Palmeiras são impactados pelo impedimento semiautomático no Brasileirão - Portal ABC do ABC",
+      "summaryKo": "상파울루와 파우메이라스, 오프사이드 VAR 판정에 영향받아",
+      "excerpt": "São Paulo e Palmeiras são impactados pelo impedimento semiautomático no Brasileirão&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWjlSZGZKbkl4MnkzQkIxX05EY0VVOHMtT1lSc0c2YVV3N0JtOWdSdl9Ic2I4NUdnOHZZWUtzcXZSMVlJVVprZ3dWMDlXQkx3YUVVcnVpQkhPZTZUSHRNS2JsamFXeFU3bVhfb05FOTVoMjQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:29:00.000Z",
+      "whyItMattersKo": "첨단 기술 도입으로 경기 결과가 바뀔 만큼 승패에 중요한 역할을 하고 있습니다.",
+      "fanTakeKo": "VAR 덕분에 다행이네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWFwZkRtM0JCOGxxeEUwZW5fYi1veU1iQ1VXY1hEYlozek5XcFVWV3dhS19",
+      "title": "Atacante camaronês sem contrato é destaque em jogo-treino do Palmeiras - UOL",
+      "summaryKo": "계약 없는 카메룬 공격수, 파우메이라스 훈련서 맹활약",
+      "excerpt": "Atacante camaronês sem contrato é destaque em jogo-treino do Palmeiras&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWFwZkRtM0JCOGxxeEUwZW5fYi1veU1iQ1VXY1hEYlozek5XcFVWV3dhS19xUzVIQWtTa0JTYTNYNWViREM0WVZMc2tIcFdvWkloMG8zMXBHVXdLWi1BVl9DR25lcDFDeEktaHluUHVMektPbXNaOFZINFVxVGhoM1ZGclJta0lSYi15Y3o0ekJJalVTM05PUE9FY0dPeE1iaFRQTXQ5NkJKb25waFJscGhCTHVnUkw5Ni0tZ09oLU5fMk5kenVyMU9ZRWNTbnlWMkJrRWlMdm9Pdw?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:27:18.000Z",
+      "whyItMattersKo": "무소속 공격수가 훈련에서 좋은 모습을 보여 영입 가능성이 생겼습니다.",
+      "fanTakeKo": "새 공격수 영입에 기대가 큽니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXhlNHRzSFB6U3IwVk90M0FYM1VaLWxYT0lZQXJDN21rQ28tR25zSTBOYmZ",
+      "title": "Fortaleza vende mando, e Palmeiras não jogará em gramado criticado por Abel - UOL",
+      "summaryKo": "파우메이라스, 아벨이 비판한 잔디 구장서 안 뛴다",
+      "excerpt": "Fortaleza vende mando, e Palmeiras não jogará em gramado criticado por Abel&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXhlNHRzSFB6U3IwVk90M0FYM1VaLWxYT0lZQXJDN21rQ28tR25zSTBOYmZTMUNKc05oMFAwZldjc0ZxS015bjdEY3BpZm9YMFdDN3g4TmtLemd3endzYnkyc2tEeTc1VXVLb1NYM2xLYV96Qzh0T0pIazllRWRSSk5BTFJZamlheHJPWVQ1bTVwTVNmMFA3VWlDa3lUeG0zZzk3Z3NVVWw1eHQ2c29oWVlyZGFuTmxsdkhURkZNM0ZJWm0zX2xRdkpSV3FSNEFlWVdJNFVYckt5LW9QTnRR?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:25:23.000Z",
+      "whyItMattersKo": "부상 위험이 있는 잔디를 피해 선수들의 컨디션 유지에 도움이 됩니다.",
+      "fanTakeKo": "잔디 걱정 없이 경기하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQUJ2R1JaZ0lvV2RrTTh2SEZ2S3FDSEJGc2tWWGp1RExQSGtxbUZ2VUNyRUF",
+      "title": "Gabriel Jesus trabalha no Palmeiras em dia de jogo-treino do time - Rádio Itatiaia",
+      "summaryKo": "가브리엘 제수스, 파우메이라스 훈련장서 몸 풀었다",
+      "excerpt": "Gabriel Jesus trabalha no Palmeiras em dia de jogo-treino do time&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQUJ2R1JaZ0lvV2RrTTh2SEZ2S3FDSEJGc2tWWGp1RExQSGtxbUZ2VUNyRUFjNlgyRWVNUXpCNUFTaFRGdC1SRk1OWFpGQnBYTS04Z3ZqWEN1QW1kV19DdlNKVUZHVjVUZms2dzhjWFcwY3Jua1FIdHQ0b0JZYldHN3ZEOE10TFRUZzdFYXRER1U0am4ySjU0bm1udmFndFFGVl9reE5PTWcyX0ZnWVVSM0pSdHktbGlOSzJvcXA2aENyTEhpODd3QmRFUjFlNFIyZ1hmdmhMTFFFQ1k3V3hMZ1MwdGY1LTlrbXBR?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:21:50.000Z",
+      "whyItMattersKo": "레전드 선수의 방문은 팬들에게 즐거움을 주고 팀 분위기를 북돋울 수 있습니다.",
+      "fanTakeKo": "제수스 선수 보니까 너무 반갑네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rbHpfQ3Ntbnd5QXJHNFlxWGR4UzNzbW5EcXZOenZlSFhzWF9OQm15NEc1Z3l",
+      "title": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que disputam o - instagram.com",
+      "summaryKo": "브라질리랑 유일한 월드컵 생존자 플라코 로페",
+      "excerpt": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que dis",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rbHpfQ3Ntbnd5QXJHNFlxWGR4UzNzbW5EcXZOenZlSFhzWF9OQm15NEc1Z3lFb0ZZWFlRcnduVWlFM1dpc3RHZEdORlkyVzdSeXc?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:20:37.000Z",
+      "whyItMattersKo": "리그 선수 중 유일하게 월드컵에 남아 파우메이라스의 자존심을 지켰습니다.",
+      "fanTakeKo": "우리 팀 자랑, 플라코 로페 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmJ3d0tacmctb0J5Wk5Vclo0V1J2SmFPLUFZSkFyS1RLbEVKWE5uaFRselZ",
+      "title": "Atacante camaronês brilha em jogo-treino do Palmeiras na Academia de Futebol - GE",
+      "summaryKo": "카메룬 공격수, 훈련 경기서 눈도장",
+      "excerpt": "Atacante camaronês brilha em jogo-treino do Palmeiras na Academia de Futebol&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmJ3d0tacmctb0J5Wk5Vclo0V1J2SmFPLUFZSkFyS1RLbEVKWE5uaFRselZxejNQd1pkUXNYaVZmMVhZSzczZVR6RFJOUi00OEVYUFllQmlURThLSHluTHVXUGhZNXVhOE90WG1nNWdRUXlONXMwa3RFY18yTE9rUWxVUHU3aGo2bk9fRm1EX3lYQ2hyNDA1d21XVmtXSHJ4eE1oeDJkb1luajVvWG5QRnZFUno3S3ZWN3lpcHBNM3FTeGhNWG9PTmZnV2RuNU1EcGhKSGNiTzRLbWtjMEpr0gHuAUFVX3lxTE9rRm0wYV92dUNtQnVEdC1sX3F0YnN0clR2Q1RWSXl1UWxuNy15bEtkeW90N3RudE94Q1hoVzloSk5Gby10aUM4c0tUS3dRT0cyOU0wemFNSUlORDh2RTdXOXRVTHJfRVk0c0lvZFlBZTljWGlrblRSX0N5N0RhRnpfcWZtdm80eEVmV3JiTHRuOHU0Tm9DQ3NQWWtraUs3bDltaXdlVVk0bU5qa0lWYm1YX1BkUDhVSnNJUU13dnJLa0F4Rk5qdVFYQkVTanVNUW5xZTYwZUdGcFpmanRQUGFSem5qVHh5VDl6MTkxd0E?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:16:58.000Z",
+      "whyItMattersKo": "훈련 경기에서의 좋은 모습은 선수의 컨디션 회복과 전력 옵션에 긍정적인 신호가 됩니다.",
+      "fanTakeKo": "저 선수 누구야? 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkRBSmFKUFlPdk5FMDlxQlVYdFFnZG9kSjdxX3ZSeElRQTBfVnlvRUJMVzM",
+      "title": "Mudança no Brasileirão impacta Palmeiras e São Paulo - ABCD Jornal",
+      "summaryKo": "브라질레이렁 변화, 파우메이라스에도 영향",
+      "excerpt": "Mudança no Brasileirão impacta Palmeiras e São Paulo&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkRBSmFKUFlPdk5FMDlxQlVYdFFnZG9kSjdxX3ZSeElRQTBfVnlvRUJMVzMxVW02ZDhaUzBNWjAtbjVtUE5sNVVVRm9NSVJsTUQ2RG92WUlTRGtJUWF3ZjhaaXZKOEdBR0RLb3R1NG5MZ0JDQzctWW51d2c1blJsaDRJbTMxWHR1QzZuMU8wUDVBdkc2MWJpYl9CeF9LZ2x0UlVDVld2Z0lOQdIBrwFBVV95cUxQTkFzZGFvZ3lvc1U3ZGVnV3Z2Ykd3LU9teW1fWl9DcWJaUTA3STAtcGJ0MHNGM0pXZ29TOFZrYUlPVWtudWxUb3czRzlEdzEwNWlrTjhqRDVGWmViMDkxODdvTzhGN1VYSFVMZ1MwMTVma1VuaFQ5MExuQlNuNDdQMnlqVnllckZUeDk5Q2NMSklUN2stTmxyNXNJYXJiQ3ByaGJOTDZNMFlCZ2Rweldr?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-08T15:09:32.000Z",
+      "whyItMattersKo": "리그 규정이나 일정의 변화는 팀의 경기 운영과 선수 관리에 직접적인 영향을 줄 수 있습니다.",
+      "fanTakeKo": "또 뭐가 바뀐 거야? 복잡하네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWpVY0w3bkRpc2pUc2dGRGxSankzZHhQZl9mOFB1SjBtRjV2cm1ydk1fdn",
+      "title": "Gabriel Jesus reencontra Palmeiras e treina na Academia de Futebol - 365Scores",
+      "summaryKo": "가브리엘 제수스, 친정 훈련장 방문",
+      "excerpt": "Gabriel Jesus reencontra Palmeiras e treina na Academia de Futebol&nbsp;&nbsp;365Scores",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWpVY0w3bkRpc2pUc2dGRGxSankzZHhQZl9mOFB1SjBtRjV2cm1ydk1fdnJYc0V4UHprSktIbG1nQl9YbThOZTdRVEt3VkJpVFEzcER1cURvaDloX2tGRzNuRFgwbndhTlpSVHp4TmNDamZnVllNamJodWFycWhTdTNReDJqYVZqbnFoeHk2WXFidw?oc=5",
+      "source": "365Scores",
+      "language": "pt",
+      "publishedAt": "2026-07-08T14:57:10.000Z",
+      "whyItMattersKo": "구단 레전드의 방문은 팬들에게 추억을 되새기고 팀 분위기를 북돋우는 긍정적 요인입니다.",
+      "fanTakeKo": "제수스 형! 다시 보니 반갑네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUwwMDI2aEdyVjhyN19EaFNwR0dCVGpHUXoyblRSTHl4cTUxVUlDeWc4OWR",
       "title": "De férias, Gabriel Jesus treina na Academia de Futebol do Palmeiras - GE",
@@ -14,6 +190,22 @@
       "publishedAt": "2026-07-08T13:56:25.000Z",
       "whyItMattersKo": "유스 출신 스타가 친정 훈련장을 찾아 팀 분위기에 긍정적인 에너지를 줄 수 있습니다.",
       "fanTakeKo": "제수스 형이 왔네! 정말 반가워요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWN5cmNSUzBhTERGdXhZd3l1TF9ZeVV5UjIyR1Q3MmNfaUxBbHIxV0xVWH",
+      "title": "De férias no Brasil, Gabriel Jesus treina na Academia de Futebol do Palmeiras - GE",
+      "summaryKo": "가브리엘 제수스, 휴가 중에도 훈련",
+      "excerpt": "De férias no Brasil, Gabriel Jesus treina na Academia de Futebol do Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWN5cmNSUzBhTERGdXhZd3l1TF9ZeVV5UjIyR1Q3MmNfaUxBbHIxV0xVWHZNQS1mcWZfTGp0ZXV1Y29yNnFIcHpFLTF1TXZha1ItS01xaWpTUDdvZWdIVnUwd252T2JGSDNpbkktZEVtZ3RCMVU4QnowXzFUV1Rmd0lQU3BxNWstUEFGdFd6eG83ZnEyTzctMUtZWVhEamlUWXZmVXZYRnhzTEttQWZfajFjdjQ4SHNpQXfSAcgBQVVfeXFMTmItOGxRZGkwSlhmMnV1ZWE3cVhwRHJONEVCRkZGa2RUekJMMWdkcE5icjlvbjFzMWFNTW5TdTUwaDRwUDVXeS1qcFF5OUFXS3VEYWYwdmJZRVQ3RTd2YkpFdTVzc3UxMGYwZGJNbkpRb1lVZkxVQXVxMjhScFQwMzlGX0wxY1lMYmpUZmdRNzZZRWNuLVhMSFBKTDNiSjRYeFMxcUhTUHE4RlYxYmkyTUtUblVzVmFNb0dwQ25UeUFRWENUNE1UbXE?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-08T13:52:05.000Z",
+      "whyItMattersKo": "휴가 중에도 훈련을 이어가는 모습은 선수의 프로 정신과 컨디션 유지 노력을 보여줍니다.",
+      "fanTakeKo": "휴가인데도 운동? 진짜 프로네",
       "tags": [
         "뉴스",
         "AI요약"
@@ -748,190 +940,6 @@
       "publishedAt": "2026-07-07T16:33:00.000Z",
       "whyItMattersKo": "클럽의 내부 규율 강화는 팀 분위기 정리와 선수 관리에 중요한 신호입니다.",
       "fanTakeKo": "내부 사정이라 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkYtZGpXUjV4Y0pWMjJ3YW16QVZXNEVNeWFPNVN3LVVmZFJvdGFoQkdmdVd",
-      "title": "Comentarista crava mais uma contratação do Palmeiras - Terra",
-      "summaryKo": "해설자가 Palmeiras - Terra에서 또 다른 계약을 제기합니다.",
-      "excerpt": "Comentarista crava mais uma contratação do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkYtZGpXUjV4Y0pWMjJ3YW16QVZXNEVNeWFPNVN3LVVmZFJvdGFoQkdmdVd6SnhrRXdKOWJVcHhENnB6OGlMaC1tQV8yX1lDcUZfMkxQVThJYkhBTVE4eXFUX09OOUI4YnpkdG03dnUyT1Jaa2xmaEVTZDdBSjBQM1YwNjVmbUtOR3ZZdE5kZGZ1aWY2YWVheVo3ZDg1NXEtLU5zalFWdEJ3b0JuM0p2N3BNMWdVRjEyZzNZSXhEeHNJMGRQRkxBemtsMER1NFB1U01SbG5kNklfZw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-07T16:33:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-28-https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkVWTDk0UWZ5Tm9YUHlvamhOb2VyeFB2OVFHUkQ1cTJSQl8yM21xQnJYRU",
-      "title": "Palmeiras tem Mundial? A verdade revelada sobre o grande mistério do futebol branco - abcmais.com",
-      "summaryKo": "파우메이라스, 세계 챔피언 타이틀 의혹 해소?",
-      "excerpt": "Palmeiras tem Mundial? A verdade revelada sobre o grande mistério do futebol branco&nbsp;&nbsp;abcmais.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkVWTDk0UWZ5Tm9YUHlvamhOb2VyeFB2OVFHUkQ1cTJSQl8yM21xQnJYRU5jdWhmcmVQUGNGanFfa2hpcWZlRGtyWlFyWnQzUlRva1cxdlR3eGpSUWxTdHBxVDJzOTgtaENNY1VEdU9zQjk0bDhyZGVqRWphT1ZnWm9wdUVCNTA2clE5OGRybFk4aFkteUFBZGpPdFd6dFlMSFZ0b2l2SUs1UlI4N1ViVm9EaDlzU19vc2c?oc=5",
-      "source": "abcmais.com",
-      "language": "pt",
-      "publishedAt": "2026-07-07T16:14:45.000Z",
-      "whyItMattersKo": "과거 우승에 대한 공식 인정 여부는 클럽의 역사적 위상을 가르는 중요한 기준입니다.",
-      "fanTakeKo": "우리 타이틀은 누구도 부정 못 해!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi2wFBVV95cUxQemhNUWpObURMM00xM0dzcmFEU21DRGhLSmloUXRhTVB4RmpRS0V0VkdrN3R",
-      "title": "Pela primeira vez na história, Red Bull Bragantino duela com o Palmeiras no Paulista F Sub-20 - Red Bull Bragantino",
-      "summaryKo": "역사상 처음으로 레드불 브라간티노가 파울리스타 F U-20에서 파우메이라스와 결투를 벌입니다 - 레드불 브라간티노",
-      "excerpt": "Pela primeira vez na história, Red Bull Bragantino duela com o Palmeiras no Paulista F Sub-20&nbsp;&nbsp;Red Bull Bragantino",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQemhNUWpObURMM00xM0dzcmFEU21DRGhLSmloUXRhTVB4RmpRS0V0VkdrN3RXUHRKRGw3dnVfOF9LakpNMnFQNGMwbzhnOHVXa19rOUI3cXhkZG5lcWs3QTU3WGstMW8wbnNVVENkWDViNW1lWFlLVEJMRkVoTzRydk1vaXBjZHJtSmdOVDMxdkpzV0JObDFGYWJUbDZpeldxdHF4SHZGSzFBSHlzZGdTY2xYT29vekRBdUZ5aHBCR3k5TmhWeU5mN1JfdnhmM3d0MGRzcjcxckYtV2c?oc=5",
-      "source": "Red Bull Bragantino",
-      "language": "pt",
-      "publishedAt": "2026-07-07T16:11:11.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0tEQ1VVTGVnS3dsamVod0lZRk9OMFhyU2tnaWZ1Q2l6ZmpQMUE0QnJNcnZ",
-      "title": "Corinthians busca melhorar retrospecto recente contra o Palmeiras no Sub-17; saiba qual - meutimao.com.br",
-      "summaryKo": "고린도 교도들은 17세 이하에서 파우메이라스를 상대로 최근 기록을 개선하고자 합니다. 어느 것이 좋은지 아세요 - meutimao.com.br",
-      "excerpt": "Corinthians busca melhorar retrospecto recente contra o Palmeiras no Sub-17; saiba qual&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0tEQ1VVTGVnS3dsamVod0lZRk9OMFhyU2tnaWZ1Q2l6ZmpQMUE0QnJNcnZMNkVfZFlQREFGZ2I0eG5UWEZreUZLNmNENk13Tno0SkJsVVRURDhfRjFsWDhKTHdxVHFBLUZlUW1ZQVFYclRtUkdBOUZPMUdXZ3ZpSG9EV0JTWFkzeDVXV21KS0J4UVlaNFhEMkpoQ0RuZEtrcTRlWmF4Vk9jVFJFWEtScERqQVBidmw3WWZGVmlUdnlIbzRNTnJrNFRiLWdZMExVeWNNUlktY0xBbnAwT2fSAc4BQVVfeXFMTmFjOWRwNEFuS1UwVWpTNnZ6M2ZJa3JYUmlrRHR0RXJqUDNXb0F3czdXU2FMN0ZId3NLbUd5M1VzV0tRNWxGTzJzQXBkMF9wcUlnZHlndjVVVmptaWFoM2xNbnJNMlRXeWU3TzlIcnNJUHNsNWl1N0tlejN0SERoMDRlQ0gyWVhORDNtSy1hQXZxazA5dzdDY1Z1aTcyOUoxTVJsekhuV21fM3VrX3JFdTdRdV82aHpPNWs4UWswTmNXbTBSRXFJUjRHdl9aTFE?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-07T16:05:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMivgJBVV95cUxNZHNKQUNxMDZQUVZfcEx1TEdBUzdUY2g0SVJOZkZJZWpadHkzTHBfZWgzdU5",
-      "title": "Ele se recusou a jogar no Palmeiras, desfalques confirmados e declaração de Maurício para Neuer: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "그는 파우메이라스에서 뛰기를 거부했고, 횡령을 확인했으며, 노이어에게 보낸 마우리시오의 진술: 파우메이라스의 최신 뉴스 - 테라",
-      "excerpt": "Ele se recusou a jogar no Palmeiras, desfalques confirmados e declaração de Maurício para Neuer: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNZHNKQUNxMDZQUVZfcEx1TEdBUzdUY2g0SVJOZkZJZWpadHkzTHBfZWgzdU5FY0RDcWh6bGt1Z0hDdklqbnpzSnRsQTVOOXZFWE9oSGF4OE1uV0EwZG9lS1hOMGc3eE5ZUHVKUTZHUUYxU1ZYN2kwNXhuVE0ySmo4VldSV2hLTUhGYlpxYzd2cnlBV2pKT3UzVC05cEl3RVpYNWdwbVZxcVR3ajdtSHl0bERHd2ZNa1VXbFBFMHdqLTVPMU16OWZxaGpYQzYycUFoZHVvWnJZWDV6dHhSUklYUDgzRUxzOXk5bzRDaUdldG9ETXRDcFRfOUVhS1o4N252WDRUQVIwbjI5SWdLbC0xNFA0U1pWS0xPdXJqMzRhOVZ6ZWJIaWpGcmwtTE9oSjJzRW8xVFdUckhMNElGOHc?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-07T15:58:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWMxZjhBVFdFSHhjZE42UC1wci1ic3o5Umo3VjhmZFBHMFN3QmgzRkdfNG",
-      "title": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo - meutimao.com.br",
-      "summaryKo": "U-17 더비, 코린치안스 대 파우메이라스",
-      "excerpt": "Corinthians recebe o Palmeiras para voltar a vencer no Brasileiro Sub-17; saiba tudo&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWMxZjhBVFdFSHhjZE42UC1wci1ic3o5Umo3VjhmZFBHMFN3QmgzRkdfNGNvalNzTmVDUDNZaEVscXZZLXh3cy0xdjRYRWl2XzBBU2ZLZE51emFJeVZJTzdXZmNDVU9UOTVnZldTa0VOMjdXZzNoNUF4NGhCLXZzaklqRzlESGVHY0hjWldxc0pvQ2l2T2d3YTRFem40TS1jMmk4UG5YMUhKaXFXOWlmRTBQTkdDUmlCd2FvWFUxLUktX1lMREd2ZjdYTVMtTk12Y0xkOWR2ZzdtQdIBygFBVV95cUxOcEFDRUZqWHZidWkyRlpvcC1xMk5ZZUk5dmNQWVhidmtGUHFzNkhiWWJUeXJYd19zcmtfdEYwMGNMVzZnZTNxOUhRVHBXc0Y2V19BMzRnT19veV9udTBLUjdiSjBIdHptdS1wNDJ5YU03dWlZdkkxR3EzR3Y4NHFjX2lNYXRaRTRVWG5zRGxqT19pZmh2cnFoc3BGRUttMUNlYzV2TmpleWNGbnlmYURPb0d2NERUNHlCUXYwWDhjeVVxTXhMMmVYZU1R?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-07T11:30:00.000Z",
-      "whyItMattersKo": "라이벌과의 유소년 더비라 팀의 미래 핵심 전력을 점검할 수 있습니다.",
-      "fanTakeKo": "유소년 더비도 안 봐주는 거죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMifEFVX3lxTE9Cdm4yanVxMkJSZ0hxekNVSVRNTzRyMkV5UmpJV3RsVWNXb0FBQjV4ZU1PTDR",
-      "title": "Danilo no Palmeiras: negociações são retomadas após revés da Seleção na Copa - Fato Paulista",
-      "summaryKo": "다닐로 영입 협상, 국대 패배 후 재개",
-      "excerpt": "Danilo no Palmeiras: negociações são retomadas após revés da Seleção na Copa&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Cdm4yanVxMkJSZ0hxekNVSVRNTzRyMkV5UmpJV3RsVWNXb0FBQjV4ZU1PTDRGNGNoOENybXFLWlZnYUo5N1E0dm9aMi1VRk1hRUZZVDNsczU4NUYxNEVLN2VaY1czRmMxMV95UFg3VEdkQVJNUndsX1BoOFA?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-07T09:20:50.000Z",
-      "whyItMattersKo": "국대 경기 일정이 끝난 틈을 타 주전 미드필더 영입설이 다시 불거졌습니다.",
-      "fanTakeKo": "다닐로 영입 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMirwFBVV95cUxPczYtNEJleFp4bEhvcFNIMUxXTDdwdzFicEhzbFpOWW1KZDFvZXJST1ZyWDB",
-      "title": "Após eliminação do Brasil, Palmeiras volta atrás em decisão sobre contratar Danilo - A Crítica",
-      "summaryKo": "파우메이라스, 다닐로 영입 결정 다시 고민",
-      "excerpt": "Após eliminação do Brasil, Palmeiras volta atrás em decisão sobre contratar Danilo&nbsp;&nbsp;A Crítica",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczYtNEJleFp4bEhvcFNIMUxXTDdwdzFicEhzbFpOWW1KZDFvZXJST1ZyWDBIdDFkeUVUTDRZUFpXdGUyTFJ4MGxoa2JDQjIwaHh0SHBrOVlYRXZvc1Q0V1ZTTWdPUTdjYUU3NDBGR1AwTFJNeDBoa0RZVzVwZWZCZHdzd2ZpTkQxcUhaZFJDZ1JCa2w1Q3d2b1NuZjQ3WXB1SGc4Wk5tUnlnOVhyVkIw?oc=5",
-      "source": "A Crítica",
-      "language": "pt",
-      "publishedAt": "2026-07-07T08:30:00.000Z",
-      "whyItMattersKo": "브라질 탈락 후 팀 전력 보강 방향이 바뀔 수 있어 미드필더 진영에 변화가 예상됩니다.",
-      "fanTakeKo": "다닐로 복귀 기대했는데 아쉽네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-28-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXhMWUxyb3hGeEEtT3lqUHF6WjBQUUdoV3JSako3cFpveXVUNGRtREdkT2",
-      "title": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20 - CBF",
-      "summaryKo": "파우메이라스, 여자 U-20 브라질레이렁 2라운드 폐막전",
-      "excerpt": "Duelo entre Palmeiras e Ação encerra segunda rodada do Brasileirão Feminino Sub-20&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXhMWUxyb3hGeEEtT3lqUHF6WjBQUUdoV3JSako3cFpveXVUNGRtREdkT293OF83TWF1VjNoWjFxQlZVMWc4dTB5cTUyU090UzhNa0taY2dOU09QaGJGZW5KWlZ0XzJUZXJrcGc0cXdjRm5rXzFqd3h5OWJXSTEtYndQWmJLdWhQcE0zdmRMTkh2bkZfYk1lakM3SWJCZ3hMcWNWYlkwNVk1b1g4bjBkSjkwdjY1aEF0TTFDdEpZY29jY0IwZ1JfQ2t6Y0p1WkdETGQxOGE4M3lXeERjLUprUWc4VHA4RVUzQ290VUtSYlBkb00?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-07-07T08:07:13.000Z",
-      "whyItMattersKo": "유소년 대회 일정 소식으로 팀의 미래를 가꾸는 유망주들의 성장을 지켜볼 수 있습니다.",
-      "fanTakeKo": "미래의 파우메이라스 응원!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDlxUURfbElXWml4OHBRdTRWQ0hSSy1ySTNXU3A2UER1SjFlNHZVeUdvV1R",
-      "title": "Palmeiras define retorno de paraguaios para ter praticamente elenco completo - Rádio Itatiaia",
-      "summaryKo": "파라과이 선수들 복귀, 거의 완전체",
-      "excerpt": "Palmeiras define retorno de paraguaios para ter praticamente elenco completo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDlxUURfbElXWml4OHBRdTRWQ0hSSy1ySTNXU3A2UER1SjFlNHZVeUdvV1RjOTJ1SmgySzRDVC01VWplcDg0VVVPdVN5a0ZzNkhGbG1hNjhFUThKRHIxRDAtVlZPcjJjUmxBRFRmekJTRVVWdnFMSzRoZEcyakEwYTZhOE9kb0NOQkYydHhTVmhLR0VkdHFiM1YxM2VMY3Q5cnpKTWJISGU1dGZUNmFSMzlIQVNNNlRTWjZtNEVNaG9FaHhtUHc5SjRFb2NqM3RicnZHUjZIWk9ONDRlNzNVNVFvQTl1S3dyX2txRkVEQVpmbFI3VTE2NWR3?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-07T07:50:49.000Z",
-      "whyItMattersKo": "부재 중이던 선수들이 돌아오면 감독이 쓸 수 있는 전력과 전술이 넓어집니다.",
-      "fanTakeKo": "드디어 완전체가 되는군요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYW81TTZfVW5rT212YTljMUZWQjlaZ3Q2MEpta0kwcUdsSVdJVncwN0JhTG0",
-      "title": "Flaco López, Andreas e Sosa comandam ataque do Palmeiras; veja raio-x dos gols em 2026 - GE",
-      "summaryKo": "파우메이라스 공격 삼총사, 득점 분석 나왔다",
-      "excerpt": "Flaco López, Andreas e Sosa comandam ataque do Palmeiras; veja raio-x dos gols em 2026&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYW81TTZfVW5rT212YTljMUZWQjlaZ3Q2MEpta0kwcUdsSVdJVncwN0JhTG0xM1VYY2Rzcmsxc0JqSVhRcGM5SWY5WC1ldXQ0M256WE1GV1RILWtOSWFQelN2Z3A5U09FeWxoRmp6XzNzOU5zZHk2Mkc5Y0M5SWNpZ0ZxVmt0cUVBX0RpeEI0TUpPRjFfS2VMcjdXMmtBR0JLQkFmQlZzUFJTSFhmdHhaRElEMGdIWnpPTWQwQTRMZlpfME5yVTRsZ0pndEJqeXpUZ05LWkJmc1AtQkRncXBqRlJtVVdrR2ZzRVHSAfgBQVVfeXFMUGowTVdtT1pLSVlMM2hsSXFKT1c3OTZINF9SSlJJU2xqeVo0am1ycmJFX3Boc2FfbElXWWswTjVkMUhyT2daS1RBQ1JSZ3VKb29QejFxMGxBRjhJLWJUNmRaWi1LcmhJYXZBRHc4MHNmMHM1WEp4dVZ0RFk5VGR6UUdfUmtZQUxfelZrby1iYXNnN1Y2bmNWTzFCVzZ3VngtcTVIZjZqaHREbTlPRVFNQzhFdEhkMTduMERvajkzZ180V3J3SUF6Wl96UUc1dkF3ZG0taFE0UEdLNHpORTZoNkFMQzlITFlnLXVfS085R1NQUkFzM3h4OTM?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-07T07:01:17.000Z",
-      "whyItMattersKo": "공격 핵심 선수들의 득점 분석은 팀의 공격력과 승리의 열쇠를 보여줍니다.",
-      "fanTakeKo": "공격 삼총사의 활약이 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFVNOGVka21Bc05MYnAweFVweG5JODdnY2NyekZiWlE5c2o1UV8xT0hzRm1",
-      "title": "Ao vivo: Corinthians x Palmeiras | Rodada 7 | Campeonato Brasileiro sub-17 - GE",
-      "summaryKo": "유스 더비, 파우메이라스 U-17 경기 생중계",
-      "excerpt": "Ao vivo: Corinthians x Palmeiras | Rodada 7 | Campeonato Brasileiro sub-17&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFVNOGVka21Bc05MYnAweFVweG5JODdnY2NyekZiWlE5c2o1UV8xT0hzRm1KZ0d5ME1reVRKUzBrT2JjMkpwTXpWb3Y3ZjB3WDZoMlpZTW9iZ0QxWi1TOWlST2plNGcxaVhWdWVZT1hFcjJPZ2FjbWVoNkt0SEdiekQ5WUFwaWZ3dFpNWUlnd1VlenVlWGh6UVZ3?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-07T02:54:01.000Z",
-      "whyItMattersKo": "코린치안스와의 유스 더비라 미래 에이스들의 성장을 지켜보는 중요한 경기입니다.",
-      "fanTakeKo": "유스팀도 이겨야 제맛이죠!",
       "tags": [
         "뉴스",
         "AI요약"
