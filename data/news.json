@@ -1,15 +1,31 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-08T09:57:38.252Z",
+  "fetchedAt": "2026-07-08T11:51:34.649Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGRNNlRUV0d1LUFNY01LcVVjaVhBN3MwaXlwd09DTkhaU3EwcVdScEZ0SGt",
+      "title": "Flaco López é o único atleta do Brasileirão que segue na Copa do Mundo - Metrópoles",
+      "summaryKo": "플라코 로페스, 브라질레이렁 유일한 월드컵 잔류",
+      "excerpt": "Flaco López é o único atleta do Brasileirão que segue na Copa do Mundo&nbsp;&nbsp;Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGRNNlRUV0d1LUFNY01LcVVjaVhBN3MwaXlwd09DTkhaU3EwcVdScEZ0SGtGWVUtRVhMb3MtV1RIWUZDZWRtSndLSEVlejFiX1I2S0ZyNWlsWXNfZ0pLZDN1clRLNDVDSEJYX1g2TFNlOExra2ctb2FTTEl5VVZIZmZ0cVcxdUhkQVNKelF0MVBOWVdUREw3ZUIxNGtNUWJTOFlpSER3QjBjZw?oc=5",
+      "source": "Metrópoles",
+      "language": "pt",
+      "publishedAt": "2026-07-08T11:44:00.000Z",
+      "whyItMattersKo": "팀의 핵심 선수가 월드컵에 남아 있어 파우메이라스의 위상을 높이고 자부심을 줍니다.",
+      "fanTakeKo": "우리 팀 선수가 월드컵에 남아 있다니 뿌듯해요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWx",
       "title": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20 - GE",
       "summaryKo": "U-20 리그, 코린치안스와 8강 맞대결",
       "excerpt": "Ao vivo: Corinthians x Palmeiras | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTBUNUJWQmM3OUM4YkVjVnFTblZEY1RaUFM0X1dJQTVyTGxTOVBNZFVNeWxrM3FycXlKVHdydEthcVprblVKUWFManlaR2oxUWZaZk9aSmRpZ2twckpOZG1sQW16aThnRzVVX3dOT3I1dU9KY1Bsa2w5VzBUamQwM2oyOVZEYTJOUHBPZGRDYUtMUEE3T08zUi1B?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-08T09:21:59.000Z",
       "whyItMattersKo": "미래의 에이스를 가릴 라이벌전이라 유망주들의 성장을 확인할 수 있습니다.",
@@ -257,7 +273,7 @@
       "summaryKo": "플라코 로페, 브라질리그 유일한 8강 잔존",
       "excerpt": "Flaco López é o único jogador do Brasileirão nas quartas da Copa do Mundo; veja lista de eliminados&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmlIYTNMNUpQblJSRTdZM0FtUFByckR4aGc0MTFTRG5CNnBjMXVmVzF4TEJtbkJfaDJJLThLMFdqMF9yRDN4WDk0SVZxSUd5UFdaZ29jdVZobnhQcUtXOVNnQW1JQkFyX1lScE55U0NSVGdpTVJNWkVXNmhwMThyUWhteHpZa0RIVGtYSHlVY29YTzdrdG00NGprZk9LeVNIWTZOektJMmJWTTU1SGExX3NNay0tY2pnMzljU2xtdGh4a1NySGVwY3V6U2NWX1RNUG5tVnZrT3J2aHVpNzBUUHlLbnotV1dROEdrQkliWXZIU0xZNExQZlc0cGRpbVdfZC1V0gGSAkFVX3lxTE9jOEZVRVVpQ3Bod3dwODBsc2g0aEdqLV93cHFicHJNWHVIZnBLYlAtYnpoU29jcmhTOGxrVTVvdlJNX1E3S2NLMzhJTXI0UDJqYWJOX1IxYXNxdV9sOVBDbkZ4bnZrc3d1cC1lWmEyZFJuYlJuXzBuZ0xNaURNMC1LLUptYTVvLU9Hc3Z1MkVXWnFMS2IwRUVzM2p2SlZwNnpYVkVlNERzUF8wYUVXMU9ZMjhSQkZpZlY4THhrWEs0NDFqY3A1aHhOVW8wWkFTeFRwTGVleTEtOUZvajJSYmhDOEZEa0tUZEZFUlBVU3hvclhYT3NielFTRk1CVGh1TmpITG0tc3RKaHRsX2YxNy14a3c?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-07T22:59:23.000Z",
       "whyItMattersKo": "대다수가 탈락한 상황에서 혼자 남아 브라질리그의 존재감을 과시하고 있습니다.",
@@ -369,7 +385,7 @@
       "summaryKo": "포르탈레자, 파우메이라스전 홈 관리권 매각",
       "excerpt": "Fortaleza acerta venda de mando de campo contra Palmeiras; veja valor&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFlOQzRvdlBUUHlRVU92V0tIakw5OW9LWV9QYkw3UUc3UG9HallSYzZHNjZpX3haM1BvX2UyZDE3cVNjWldEVm5zdlVPZG5LamlwR2pweWtQZE41Y2tXcDJLeGoyQnF5UWVROU40R2lLNVdFXzFGQkhraVNsN3M4a0ZRZ251Nm90ajNibWJka2o4RDdVZ2ROUXJMNlRiN3JQZVFTWHhGV1FwMS03X1ZNT2ZXdkNMcnotemI5NGFqUk5iTDdndnZSOVlxYkRpdzI5QzVUemtTONIB5gFBVV95cUxPUVZXdnNVNkp1WDEteUp2U3FKNEtjYjdfNEVOSi1qZEdockFZNGxCS3pGSUNfLU1GZGRXLVBwd0l3azdEeGc5Q3ZDaHQ3ei1weWVpSGZTeEM4LUd4S1lDc203OG5xTWRJR04tOUNLX0pUS01DaDQyaFp2ckExN0dDay1Kam9WaTNtaG1BY2p4WFE1RGdIOUVzbHBOZVdUM2tuUDVwMWFKVmUxVE5IWXdvd1hNVERaRXJtdWlDZ2kyQmVDQTVzcnNXc2NlVEtoaHF3SFBjei1DcG1yNEV3V0pGUHFVQklqdw?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-07T20:41:57.000Z",
       "whyItMattersKo": "상대가 홈 이점을 포기해 사실상 안방에서 경기를 치를 수 있는 유리한 상황입니다.",
@@ -385,7 +401,7 @@
       "summaryKo": "파우메이라스, 연습경기 앞두고 이중 훈련",
       "excerpt": "Palmeiras treina em dois períodos como parte de preparação para jogos-treino&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGlWY2FsMVBIeXBUbjhsQ0c5cWtvQnpFNjhyNk4tc3ZGOG5tMFAzMlRINDlDaGVkS2pLR0hKaGI5dzAwNE9OMDRWZ2RvcGJlUnQwdUtwRUlDYUp0UzlWVGItbUFGeURXbFJJRFdQLTRpLWZNbEZ5emZDaUI1aGJ0YXg4OFQyT0VDVGlBdFlLSGtMSEdkN3Y1NDUtM0Nxc2tHR3VIZWVBLUdpTkljZnYtb0EzOW96Vmg3LWZyNDR2U1A0NDhGWWQwcElaMnlLcEZVYkVqS1FTUFpIV0pFWGo40gHuAUFVX3lxTE9RV1ljTXBrRmlkTFRmVmx3QU1zeGY5ODlRb1lSb1djOW1DbEFuM3pQM2N1YnZSRWxnaUcza3dOU05Td1NyTG9wNXlJb2FnZ1dJdnE1WG1ILTRxVENnWTQ1djh2b2RhTzRZbUNSZHlRZ0N6Snl5Uk16eUZPNm1NbkZWRjFCeWtzT3MzeUlkX05BLThsX2QxRWFlaVdXdTNLb2l3ZnJlalpFWTNfbEpqcjBDSWVQSEpCRmlPSmlfMzZGSXNvYnpZWE1ZRER5SkQ2NkZPaENBWTlfQUdYX3Q3clhvaC1XRnZSSmdqcFdXVFE?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-07T20:41:51.000Z",
       "whyItMattersKo": "연습경기를 통해 선수들의 컨디션과 전술 점검을 위한 준비가 한창입니다.",
@@ -916,22 +932,6 @@
       "publishedAt": "2026-07-06T21:57:00.000Z",
       "whyItMattersKo": "주전 공격수 복귀와 외국인 선수 합류로 전력 정상화가 눈앞에 보입니다.",
       "fanTakeKo": "호키 돌아오고 전력 풀충전이다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxNU05vdkhyQWZrdHYxOXVlc0ltWUF3ei03RExzNGhRNHhoZnpmNUZhdU5kWTZ",
-      "title": "Palmeiras mantém dois jogadores na disputa pelo título da Copa - LANCE!",
-      "summaryKo": "파우메이라스, 두 선수 컵 대상 경쟁",
-      "excerpt": "Palmeiras mantém dois jogadores na disputa pelo título da Copa&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU05vdkhyQWZrdHYxOXVlc0ltWUF3ei03RExzNGhRNHhoZnpmNUZhdU5kWTZaQ3pUR1JPMlRucmZCamQ2YjBRWTVkOW5CVjd3S3VqX3d4NFJ1Q3dGUEhXdXhSSFhWRkJXbVZ4a0ZYVVF3ZDhnVzRGcnMteHFQMXBVOFgtU09IcG9jMUZFYW1Fa0t5RUhsQ3RmZ2k5R2ZWRDJUNUJEaQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-06T21:56:53.000Z",
-      "whyItMattersKo": "개인 타이틀 경쟁에 두 선수가 남아 팀의 위상을 높이고 기세를 이어갑니다.",
-      "fanTakeKo": "우리 선수들 상 받길 바라!",
       "tags": [
         "뉴스",
         "AI요약"
