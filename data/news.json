@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-09T01:09:59.949Z",
+  "fetchedAt": "2026-07-09T05:40:15.373Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNWcyQnVzLWxwTUdQdGttRlM5UjVJY2s2VXZ5cnVWT0pYYy1TVWxPQTJYRF9",
+      "title": "Impedimento semiautomático também na Arena Barueri! @dudacabreira fala sobre o interesse do Palmeiras em arcar com os gastos da instalação das câmeras para o impedimento semiautomático também na Arena Barueri. #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "파우메이라스, 바루에리 구장에 반자동 오프사이드 설치 검토",
+      "excerpt": "Impedimento semiautomático também na Arena Barueri! @dudacabreira fala sobre o interesse do Palmeiras em arcar com os gastos da instalação das câmeras para o impedimento semiautomático também na Arena Barueri. #palmeiras #palmeirasonline&nb",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNWcyQnVzLWxwTUdQdGttRlM5UjVJY2s2VXZ5cnVWT0pYYy1TVWxPQTJYRF9Qb3VNMFZrZkhQXzltbzhPdGpYbV93NU5tTnp0SG91MXBR?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-09T01:09:25.000Z",
+      "whyItMattersKo": "홈 구장 외 경기장 시설 개선은 팀의 전반적인 경기 운영 환경을 높여줍니다.",
+      "fanTakeKo": "시설 투자라니, 구단의 의지가 보이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVhMW0xTlZiRjF2VjA4ZE45QnI3d1VYNFBfRWFOeFNBMUVaTXo0MnFEOUl",
       "title": "Red Bull Bragantino é superado pelo Palmeiras no Paulista F Sub-20 - Red Bull Bragantino",
@@ -30,6 +46,38 @@
       "publishedAt": "2026-07-08T22:55:00.000Z",
       "whyItMattersKo": "라이벌 팀이 미드필더 영입에 합의하며 파우메이라스 전력 보강에 귀추가 주목됩니다.",
       "fanTakeKo": "우리 선수를 뺏기는 건 싫네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzlsUnJEOFRqX1pmQm5pLV9yZGpXOU42dHcwLWZWWHc3dVhJa21NUDc4SDh",
+      "title": "De férias, Gabriel Jesus usa CT do Palmeiras para treinar após fazer 27 jogos na Europa e define futuro no Arsenal - ND Mais",
+      "summaryKo": "가브리엘 제수스, 친정 파우메이라스 훈련장서 몸 풀어",
+      "excerpt": "De férias, Gabriel Jesus usa CT do Palmeiras para treinar após fazer 27 jogos na Europa e define futuro no Arsenal&nbsp;&nbsp;ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzlsUnJEOFRqX1pmQm5pLV9yZGpXOU42dHcwLWZWWHc3dVhJa21NUDc4SDhRd0VkdW9sV0tHZld6UjJTVjQ1SUdYNHV4R1V1RWFHcEFNbngtQnU2UnVjbEpfeXpOaWZZWWVLanp3Wk9wQTBXX3BOZzNzUkp2aXBNY3FEUkFKdkdOMVFHYndHbHlCUFdtTW1MZnY3RUxRTndHM2ZiN1RqVQ?oc=5",
+      "source": "ND Mais",
+      "language": "pt",
+      "publishedAt": "2026-07-08T22:31:30.000Z",
+      "whyItMattersKo": "유스 출신 스타가 방문해 훈련하면 팬들에게 큰 즐거움과 긍정적 에너지를 줍니다.",
+      "fanTakeKo": "제수스가 다시 돌아온 것 같아 반갑네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWJFeV9UdDJUQUtveVQ1NXB0bWdyVTE2REZlaGc5a1B1aS1DejNMQlVUUVp",
+      "title": "Brasileirão Sub-20: Palmeiras, Cruzeiro e Santos abrem vantagem - Olimpíada Todo Dia",
+      "summaryKo": "U-20 리그, 파우메이라스와 크루제이루 선두 그룹 형성",
+      "excerpt": "Brasileirão Sub-20: Palmeiras, Cruzeiro e Santos abrem vantagem&nbsp;&nbsp;Olimpíada Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWJFeV9UdDJUQUtveVQ1NXB0bWdyVTE2REZlaGc5a1B1aS1DejNMQlVUUVp1dmVSb0N6U1VBYXkxMXpqQkM5M0paLWpRbmNXRVJXNTA3U3NCUEJuNXZmN1dIelNxemY0Z2JWZWxxeVR3cHFIRk95QTVWMlhiYVJzZlhmTG9RVlRvb2dMTldZbzFLYWNJeW1lT0kwYl8zcVRiQzJ0T3hXY2Vld3c?oc=5",
+      "source": "Olimpíada Todo Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-08T22:24:43.000Z",
+      "whyItMattersKo": "유스팀의 좋은 성적은 미래의 1군 전력을 확보하고 클럽의 성장 가능성을 보여줍니다.",
+      "fanTakeKo": "미래가 밝은 우리 유스 선수들 자랑스럽다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -100,12 +148,28 @@
       ]
     },
     {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMixAFBVV95cUxPckxHN0o0ZGxzc21IdDVteU93QkhyT3lpS1ZHMHFDUE5WZ3ZSRUZOYXR3cDB",
+      "title": "Cruzeiro fecha a contratação de meio-campista do Palmeiras e assina com Coutinho - jornalcruzeiro.com.br",
+      "summaryKo": "크루제이루, 파우메이라스 미드필더 코티뉴 영입 완료",
+      "excerpt": "Cruzeiro fecha a contratação de meio-campista do Palmeiras e assina com Coutinho&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckxHN0o0ZGxzc21IdDVteU93QkhyT3lpS1ZHMHFDUE5WZ3ZSRUZOYXR3cDBHWmpMZkNCTmFEd2FNWkNjYWI2dUxzSlZWR0phOXFvdUFxT09ETWFsckgyeHNrZ0ZiMmNWMzNWeVJwdkJCQ1pEREdHWDV4MUo5MW1rTDY3X2RqT0REc0tNR0kwTlBrcUJ1WXIzQVRmSy11NDdINHdVN0JPS2thQXVhV3lLdVlVZmt2Nk1nTHFHTVpxLUZiTTF3?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-08T20:33:00.000Z",
+      "whyItMattersKo": "주전급 미드필더의 이탈은 시즌 중반 팀의 중원 운영에 공백을 만들 수 있습니다.",
+      "fanTakeKo": "코티뉴 떠나서 아쉽지만 응원할게요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-6-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbE44Mk1mVnNtX1pfb3ZSUVRzV2pvRGlPdmZreGNsTHZwUWFKWE8xbEtjNmN",
       "title": "Renzo López reforça o Ceará e é esperança de gols na Série B - GE",
       "summaryKo": "세라, 공격수 렌조 로페스 영입 확정",
       "excerpt": "Renzo López reforça o Ceará e é esperança de gols na Série B&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbE44Mk1mVnNtX1pfb3ZSUVRzV2pvRGlPdmZreGNsTHZwUWFKWE8xbEtjNmNZMl9xZ3dQRkZKN1FlVXFnd05nMnlaLXlJZUoyX3ZIM2doTTJheW50eTExQ0dEYjBzaHZJOFBlaWxtdzNYVkJqcmN0YlB2WWJsQVkza3dXZ1M2TzN1dWxUNXlVbG50ZFFFT1BUdFJTbGtsM3JNTHAzMllnRVhUZEp2WEZEcDQ4a3hRS0g1WXlRVTFpclBQZ1pVVXhmZdIB1wFBVV95cUxNWk1PaXYtcWUwZ3NxS3dOTkkyc0ZoRnVtbW45RGFYT3ZhQW1vZHNHUGdDbEFPMDVWbFJ6RldPVzBqTE9LV0dyank5VjRqMWRTTHZuRWNPaDdpZVNhNGxZbUJtRERQRGV2SXNYTnhVNTdWZjlPV055QWpZcDl6emxvZXBON09CTXFLcUhjU19GM3pxWjNBTjNleUJrZFRkVEhuUTZ5R2pYakswVDJScGx5RFBMSk5CYV9KWm9waVVQUTZtQVptNlotbmVTWEdhM0xhVHIxTS0wOA?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-08T20:27:57.000Z",
       "whyItMattersKo": "득점력이 부족했던 팀의 공격을 보강해 세리이 B에서의 승점 챙기기에 유리합니다.",
@@ -254,6 +318,22 @@
       "publishedAt": "2026-07-08T19:33:23.000Z",
       "whyItMattersKo": "미래의 주전들이 싸우는 더비에 유력 인사들이 참석해 관심을 보였습니다.",
       "fanTakeKo": "유소년 더비도 뜨거운가 봐요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGc0bzI5Skxnb3MxSDhqN0R5dVRNNzYtVkUyMlhLZUlKVG9pOGM3VHVyV1",
+      "title": "De volta? Gabriel Jesus treina no CT do Palmeiras - Galáticos Online",
+      "summaryKo": "가브리엘 제수스, 파우메이라스 훈련장 모습 포착",
+      "excerpt": "De volta? Gabriel Jesus treina no CT do Palmeiras&nbsp;&nbsp;Galáticos Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGc0bzI5Skxnb3MxSDhqN0R5dVRNNzYtVkUyMlhLZUlKVG9pOGM3VHVyV1lMQTl6bUV5R0MyekVDSnVGczh1NnhIQTkzZ1U1d3JnMVh3Tk9xeXVvVTNTYklsUlllb2hTS2tyZnlJNlBqZE9tQ2JYT3A4Y211NFlLZUM4SV84alpnalJhbzlMclBETVBOWWpPd3lYQ0Z4bzVXdkVRMWVUd2l6dw?oc=5",
+      "source": "Galáticos Online",
+      "language": "pt",
+      "publishedAt": "2026-07-08T19:32:15.000Z",
+      "whyItMattersKo": "유스 출신 스타의 훈련장 방문이 복귀 루머를 불러일으켜 팬들의 기대감을 모으고 있습니다.",
+      "fanTakeKo": "제수스 복귀 소식에 심쿵했네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -878,86 +958,6 @@
       "publishedAt": "2026-07-08T13:43:00.000Z",
       "whyItMattersKo": "유망주가 라이벌 팀으로 떠나면서 미래 전력 보강 측면에서 아쉬움이 남습니다.",
       "fanTakeKo": "유망주가 떠나다니 너무 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDBNcjNxcG16MVRMNnBuckZXa2FGREQ0REs5WXg1aGVJbm1jMzVSamY5VDF",
-      "title": "Flaco López vira único jogador do Brasileirão ainda vivo na Copa do Mundo - A Crítica de Campo Grande",
-      "summaryKo": "플라코 로페스, 월드컵 무대 유일한 브라질리앙 선수",
-      "excerpt": "Flaco López vira único jogador do Brasileirão ainda vivo na Copa do Mundo&nbsp;&nbsp;A Crítica de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDBNcjNxcG16MVRMNnBuckZXa2FGREQ0REs5WXg1aGVJbm1jMzVSamY5VDFQakZWbUlRTnRUQWVKcTN0b1ljR21zY0F1ckd3Qk85SFdTT2U3TTRCWEo1Y0FGejFOZFczX243LXJaQUdYaGU2Z3JGYnd5YVdrMDlwT3NqVlRZTm04bnlKdDNSRE4tam1BQmc?oc=5",
-      "source": "A Crítica de Campo Grande",
-      "language": "pt",
-      "publishedAt": "2026-07-08T13:37:01.000Z",
-      "whyItMattersKo": "국제 대회에서 선수가 활약하면 구단의 위상을 높이고 팬들에게 자부심을 줍니다.",
-      "fanTakeKo": "우리 팀 선수가 월드컵에 나가네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGJvV1RRUGQ5OE9Gc1NubnJHbEFSRGZ1dnlFUDhtT2stMzF3alV2OFFHa3J",
-      "title": "União São João confirma amistoso contra o time principal do Palmeiras durante preparação para a Copa Paulista - Repórter Beto Ribeiro",
-      "summaryKo": "파우메이라스, 우니앙 상주앙과 친선 경기 확정",
-      "excerpt": "União São João confirma amistoso contra o time principal do Palmeiras durante preparação para a Copa Paulista&nbsp;&nbsp;Repórter Beto Ribeiro",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGJvV1RRUGQ5OE9Gc1NubnJHbEFSRGZ1dnlFUDhtT2stMzF3alV2OFFHa3J4NXotM2htTTM3akNqN3dXTzFpY0JhaUxwX1FRU2dicG51ZXlwMkVqMDc3YWVMdTF0Y3EtX3daQmstTEthR0J0eFJuTS1Rejg3TzJrd2JSRHFMM2IyV194RUZpV0QwU1p4NHJBU0ZfLTQ0WW9RNHE5MjlKS3lvQlMyemJSUFB2cVRJTTBOZWstc0M1Y2hQRklmcnh5eTBUYTE3UVNvQW5yVDFVdG4wSk9ScFE?oc=5",
-      "source": "Repórter Beto Ribeiro",
-      "language": "pt",
-      "publishedAt": "2026-07-08T13:12:41.000Z",
-      "whyItMattersKo": "시즌을 앞둔 친선전은 팀 전술 점검과 선수들의 컨디션 조절에 중요한 기회입니다.",
-      "fanTakeKo": "친선 경기라도 경기장 가고 싶어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkJ1dU4yOXg0TUhSdktPeDMtUTV3TmVLWkRHSllETk1OQ1MxdHdFSkNWNTh",
-      "title": "Flaco López é o único jogador do Brasileirão que segue na Copa do Mundo 2026 - GP1",
-      "summaryKo": "플라코 로페스, 월드컵 경쟁 유일한 생존자",
-      "excerpt": "Flaco López é o único jogador do Brasileirão que segue na Copa do Mundo 2026&nbsp;&nbsp;GP1",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkJ1dU4yOXg0TUhSdktPeDMtUTV3TmVLWkRHSllETk1OQ1MxdHdFSkNWNThPM3lHZXlhZGNRazQ2dUFfbVRUSWwzdi1CVFFsLWtuWmZiZTQ1OGtsUTlSSGF1aWs4SFBpMDdNVXowcU8wLVJBcG5CcFgzSkRUaHVUUENEbkdQNFFmYU5qaS1SYzcxdjRnSEgzRzYzQ291QlV1Z0RBblcyVkx3OWYxTGllUWcwOEJVaFh6TXFzV2gtOHpCSmZCS2FuMVItemdmeHV1T3d30gHYAUFVX3lxTFBOQ2pPY3RmVkdDVEFNXzdBMVVZRVA4VlRqaFFsVjF3Mm83bFpxOGJBLW1oUklvQkpBejRGZTdkcEdMbkNwMkpsN3hPR1I3Q2R1QVJZV21HQld4OUt0LUM3SHJWbkR0LXkySVlzMDRtU2N4M05JRXZiMkU1YTdBQ3JONlkyY0dTUTY3TTY5d3RjMTBBbW9WMjFuY01iMnZHdC10YXhqbmFlOVRZRUR0WXFsa2tsT3VEa2pJampVQWtVYk42NVRWaDBaMXVzUWh1YzJJNDlCejZEdQ?oc=5",
-      "source": "GP1",
-      "language": "pt",
-      "publishedAt": "2026-07-08T13:11:00.000Z",
-      "whyItMattersKo": "팀 유일한 국가대표 선수가 월드컵 진출 경쟁을 이어가며 팀 위상을 높입니다.",
-      "fanTakeKo": "로페스야, 부디 월드컵 가자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMitAFBVV95cUxObVhiTTNBbWRwdXB6R1pmSGtKQnJ2cWVnbzlnWGxaVjBzR2ZQMXIzVXlvSEN",
-      "title": "Flaco López é o único jogador do Brasileirão ainda na Copa 2026 - RD – Repórter Diário",
-      "summaryKo": "플라코 로페스, 리그 유일하게 월드컵행",
-      "excerpt": "Flaco López é o único jogador do Brasileirão ainda na Copa 2026&nbsp;&nbsp;RD – Repórter Diário",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObVhiTTNBbWRwdXB6R1pmSGtKQnJ2cWVnbzlnWGxaVjBzR2ZQMXIzVXlvSENHV0l3M0xzb0tEbEZLRTJES0tYeDFjMUlnNVNueW5XUUZ3T2ZBZmhLWHJjcEdyNVE4NlNGdXcyanozVXBXcC1oUm9vNVJIZUptS05EME15bTRhcU5xalVvNlBZcVprZnhoRGZ3cUxXTHpJZGQ3VWllYTJhQXYwZ1RvLUhBUUR5dFM?oc=5",
-      "source": "RD – Repórter Diário",
-      "language": "pt",
-      "publishedAt": "2026-07-08T13:08:56.000Z",
-      "whyItMattersKo": "국가대표로서의 활약은 선수 개인의 가치와 팀의 자존심을 세워줍니다.",
-      "fanTakeKo": "우리 팀 자랑거리 로페스 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGRNNlRUV0d1LUFNY01LcVVjaVhBN3MwaXlwd09DTkhaU3EwcVdScEZ0SGt",
-      "title": "Flaco López é o único atleta do Brasileirão que segue na Copa do Mundo - Metrópoles",
-      "summaryKo": "플라코 로페스, 브라질레이렁 유일한 월드컵 잔류",
-      "excerpt": "Flaco López é o único atleta do Brasileirão que segue na Copa do Mundo&nbsp;&nbsp;Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGRNNlRUV0d1LUFNY01LcVVjaVhBN3MwaXlwd09DTkhaU3EwcVdScEZ0SGtGWVUtRVhMb3MtV1RIWUZDZWRtSndLSEVlejFiX1I2S0ZyNWlsWXNfZ0pLZDN1clRLNDVDSEJYX1g2TFNlOExra2ctb2FTTEl5VVZIZmZ0cVcxdUhkQVNKelF0MVBOWVdUREw3ZUIxNGtNUWJTOFlpSER3QjBjZw?oc=5",
-      "source": "Metrópoles",
-      "language": "pt",
-      "publishedAt": "2026-07-08T11:44:00.000Z",
-      "whyItMattersKo": "팀의 핵심 선수가 월드컵에 남아 있어 파우메이라스의 위상을 높이고 자부심을 줍니다.",
-      "fanTakeKo": "우리 팀 선수가 월드컵에 남아 있다니 뿌듯해요.",
       "tags": [
         "뉴스",
         "AI요약"
