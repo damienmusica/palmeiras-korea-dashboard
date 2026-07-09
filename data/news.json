@@ -1,20 +1,86 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-09T09:41:40.748Z",
+  "fetchedAt": "2026-07-09T15:56:48.478Z",
   "items": [
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlfNkFXYVpDTDBFN2JtNThTeEgyZXdVT3hDNld2RHM2TUVpRWVPZVBkTHN",
-      "title": "Gols de Mauricio e Arias rendem feito inédito ao Palmeiras; Flaco pode ampliar marca - LANCE!",
-      "summaryKo": "Mauricio와 Arias의 목표는 Palmeiras에게 전례 없는 성과를 가져다 주었습니다. Flaco는 브랜드를 확장할 수 있습니다 - 입찰!",
-      "excerpt": "Gols de Mauricio e Arias rendem feito inédito ao Palmeiras; Flaco pode ampliar marca&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlfNkFXYVpDTDBFN2JtNThTeEgyZXdVT3hDNld2RHM2TUVpRWVPZVBkTHN5UzNuVmtwUEQ0bW56eUpwZjlORE16V3NxLVVscXRfQW5kVDhhZGhFSFJKZmRqSkZUenlPWTV3Z2tPY3BGRm9aM183dWZvVkhOSVZOcXNTaXAtaDdDQW83V3ZpVXdZNEJtODVDdWxYT0k5LTQwb1YwdHF0MlZXX3lXVWhmY0tGQnVaMFljLVdDM2F0SFg?oc=5",
-      "source": "LANCE!",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV1FiY0t0QUNBeUFUYzRGSWtiNVlfNnU5cTVfNHdjTVhCQzZWYzJFTF9IeGp",
+      "title": "Atacante do Corinthians celebra atuação decisiva em vitória sobre o Palmeiras no Brasileirão Sub-17 - meutimao.com.br",
+      "summaryKo": "코린치안스, U-17서 파우메이라스 꺾고 승리 자축",
+      "excerpt": "Atacante do Corinthians celebra atuação decisiva em vitória sobre o Palmeiras no Brasileirão Sub-17&nbsp;&nbsp;meutimao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV1FiY0t0QUNBeUFUYzRGSWtiNVlfNnU5cTVfNHdjTVhCQzZWYzJFTF9IeGpyQWpSa09lMFROSXVWNjVkMm9BaEE0NjZaaUcwTkNfaU95V1lyY0NNekJENFYxZjA1RHZRQVpwS0ZnQmZqd1FPQ3h5bk5ZSkFKSGpEVE1URU1taV9KekJBaGhPQlE4bi1QR2lob3BvbXFydmpiSDZORmo2UkVvV21oa1BFeVB0REN4ck05MWlDaDhYNmJCazFjMF8taXJmcXZfbzFqcU5qa09CeHc1Qy1fdUpBUmxIck9EcUdVZlAyZ3ZwNNIB3wFBVV95cUxNMG95cVllbDdMeE1oN2NYWWhpS1NOOUxlLWt6ZzFNbnNydFNjMkhDWVdQX1E0QWk4TjVHeGU4MWdKRkMwamN4ajVzamhrNlU3bVd6Umh5QlczdzhmM3BFY3VLSFJPN2IwZnRFYWkwUUxiRmtlUTczc0l5SGlHNndqVGxuYW9Yb3lkV2Q3V0lnSE9CWjFMeVdUdEVyUUQxbVpHcXZyQS1IYTNXcEttXzNxWkpRN01LUXBDYjhhTVQwdzZLeXFQZU9RRlNZaWhQcGNlSTlJR2dESzRpdjV5eVBN?oc=5",
+      "source": "meutimao.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-09T09:15:00.000Z",
+      "publishedAt": "2026-07-09T15:31:00.000Z",
+      "whyItMattersKo": "유소부 더비 패배는 팀 미래 전력 육성 과정에서 아쉬운 점으로 남습니다.",
+      "fanTakeKo": "유소부에서도 지다니 진짜 속상하네요.",
       "tags": [
         "뉴스",
-        "자동번역"
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMilAFBVV95cUxNYXhxZkJ5ZDdwZm9PUVFQdnAyaFk2eDNmREI5ZXlISEs3dDVJQ3pYVDFOMHV",
+      "title": "Mudança no Brasileirão impacta Palmeiras e São Paulo - ABCD Jornal",
+      "summaryKo": "브라질레이렁 일정 변동, 파우메이라스와 상파울루에 영향",
+      "excerpt": "Mudança no Brasileirão impacta Palmeiras e São Paulo&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYXhxZkJ5ZDdwZm9PUVFQdnAyaFk2eDNmREI5ZXlISEs3dDVJQ3pYVDFOMHVNbm9mb2UteExJdF80a050elFJbDIyWTY4N3E0VmM2azEwWjNneFJjMzl6S21IaFR1a1FFVjdMV1YyTi1ZYVNEY3lHMlUyRnJyMVRoWEtNelV3UlczTTNnQU5hTlE1a2p4?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-09T14:38:22.000Z",
+      "whyItMattersKo": "리그 일정이나 규정 변화는 두 팀의 향후 경기 운영과 컨디션 조절에 영향을 줍니다.",
+      "fanTakeKo": "일정 변동이 선수들 컨디션엔 안 좋겠죠?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpoNUp4d2JyNEluX0VpYjFlOTA5V09BQVlTbk43b2FRN2tiVmtlM0VkLWg",
+      "title": "Arias ganha “férias”, mas voltará ao Palmeiras valorizado após Copa - Jogada 10",
+      "summaryKo": "아리아스, 대회 후 휴식 취하고 파우메이라스 복귀 예정",
+      "excerpt": "Arias ganha “férias”, mas voltará ao Palmeiras valorizado após Copa&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpoNUp4d2JyNEluX0VpYjFlOTA5V09BQVlTbk43b2FRN2tiVmtlM0VkLWg4bHBqeG9sbHFSZGpCak8zcTdxZmltcVFiNGpvbU02MFR6dEM1MkY0ZGhfZFpyd3VnZmNqeFZCRTRVY0hpTXlyOWk0Q1N5X081dHBPdEt3OXlpT0w1LTA0S0VhY3c1OGPSAZgBQVVfeXFMUFlxWXUtaS1qOFpzcGR0LWtfMVVCTXVmVEx6bGlCQ05kQTlSRnJmOEE4RC1BbHlNekpwaUtyMGpTU1FIbFpkc29GYTdQaXJhNE9mckVHVTVRWG53Z2VnYzZyQ2RFS0ZBZVBkYjJEM0UzYThSeGhSRUhiWWNXUnFfQmpGUEYyQzl4TUJkYlpwVnNHRHM4WDRaN2M?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-09T13:43:50.000Z",
+      "whyItMattersKo": "대회를 치르고 컨디션을 끌어올려 복귀하면 팀 전력 보강에 큰 도움이 됩니다.",
+      "fanTakeKo": "잘 쉬고 건강하게 돌아왔으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2dyUjJkbTd5c2xPTzZyaUIzRzlNVG9nTTU4NjRXaEw4cjhtQ2VsMlpHVFB",
+      "title": "Arias ganha \"férias\", mas voltará ao Palmeiras valorizado após Copa - Terra",
+      "summaryKo": "아리아스, 대회 휴식 후 파우메이라스에 가치 높여 복귀",
+      "excerpt": "Arias ganha \"férias\", mas voltará ao Palmeiras valorizado após Copa&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2dyUjJkbTd5c2xPTzZyaUIzRzlNVG9nTTU4NjRXaEw4cjhtQ2VsMlpHVFB2Z1VUSjJzWFlSR09yamZyN1R2T1M3UnExRkNFeXRqRVo1WjJISENFNUx0dGtVTGFRRjA4NXFIbEtRTk1RQjJ4dkZOVHdwM0dadE9HLXpPNHVLQTZwRVNvaTdVam5SZjZUdkw3WFBCTEJLNHJQZjhjZjdTUThwOXBmdmlJSzRGdkUyYWJjdVNKRkt4RzY3bUIzYngwVWxsd2FfbFUzT09SY2dpcG1acDNPdzJmTmJ0blR3RUZXS1E?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-09T13:34:00.000Z",
+      "whyItMattersKo": "국제 대회 경험을 쌓은 뒤 복귀하면 팀 수비력에 긍정적인 영향을 줄 수 있습니다.",
+      "fanTakeKo": "기대되는 복귀네요, 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR2FfZlpmRlN5aXktVEhXaUdtUWtrTWp5VE5ycXVhRFF2UWNlbjQ4QUxfdWh",
+      "title": "Confronto entre Grêmio e Palmeiras abre segunda rodada do Brasileirão Feminino A1 - CBF",
+      "summaryKo": "파우메이라스, 그레미우전으로 여자 리그 2라운드 개막",
+      "excerpt": "Confronto entre Grêmio e Palmeiras abre segunda rodada do Brasileirão Feminino A1&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR2FfZlpmRlN5aXktVEhXaUdtUWtrTWp5VE5ycXVhRFF2UWNlbjQ4QUxfdWhoNGZXN1pTMmdGNFBKWVJVUEJsSUJaWGtndTdVTG9iYVA3aFVBVFVmeW9hMGQ3V3BTWWpUVm5zMXExTHRMT3FRMXB4dkFMVFg0ajNzV2xqOFNhbFc2ZUVFOGpWeHNyc0RFbVgyNTc0NGxJempDRnlSQWJSM1ZfZmM0ZUs2WGhyVngydXo5ZWYwRHlLck9vQTRZUEZ5M3VvaTZJYjlvXzZlUGw2UXk2UlYtRWwwQ05nNG1Sa3o2WFRxSk03VWU?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-09T13:04:18.000Z",
+      "whyItMattersKo": "여자 리그 2라운드 시작을 알리는 중요한 경기라 팀의 기세를 점칠 수 있습니다.",
+      "fanTakeKo": "여자팀도 승리하길 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -25,7 +91,69 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1Y1T09JenU2Z2pWSkg4RDNWMW5LQWlFTXlOLV9yY1U3Rl9GaVhic1owaEtlOW1MREpOZ2hJZzVnci1CbXk1bWg1VU9USVJseTRDYzJCOG55dUxvSlk5bVBwX2I4S3dOOVppRXhDbWpXc1F3cjhEUldXRFhRYktLczhVN3hBOXBmLUp3aGtHeF9yakJFT2ZHNmdDaThvdzZzRE5xRHpwRjVmT0RTclF6RHU5dEU0QjAzMENFOXdtSUxNbTNmQTBCM0phRUZPdFhZRmtN?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-09T08:30:00.000Z",
+      "publishedAt": "2026-07-09T12:30:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMilwFBVV95cUxQblQ5M3RXekJ3ZkdLMVY0TTVaVllrekdCSmJzUG1wNG1HcXJfUDNib0ZBa0h",
+      "title": "Brasileirão Sub-20: Palmeiras vence clássico e Santos goleia - PortalR3",
+      "summaryKo": "유스팀, 라이벌전 승리 거두고 산투스 대승",
+      "excerpt": "Brasileirão Sub-20: Palmeiras vence clássico e Santos goleia&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblQ5M3RXekJ3ZkdLMVY0TTVaVllrekdCSmJzUG1wNG1HcXJfUDNib0ZBa0hVSVNPSjB5R2xxUHRSYmR2WVkwMXJVU1RfMXFvT19HeUptLTY3MnFTUzdFbUZzQ3g3bklmMkN2YXJOQ0lpLWM1Mjk3cTBOSDBpaWdmQ0Iya1BhOEF6d3I5Z01aVUcyakRmYzZF?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-09T11:45:36.000Z",
+      "whyItMattersKo": "유스팀이 라이벌전을 승리하며 미래 전력인 유망주들의 저력을 보여주었습니다.",
+      "fanTakeKo": "유망주들이 잘 크고 있네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjJzVFhqaVFJU1BCMG9mdm0xSUtJY3VCNm1TVmY5UVBKMjVyRDhxR0Rsakt",
+      "title": "Brasileirão Sub20A: Palmeiras, Bragantino, Cruzeiro e Santos saem com vantagem nas quartas de final - PortalR3",
+      "summaryKo": "유스팀, 8강 플레이오프서 유리한 고지 점령",
+      "excerpt": "Brasileirão Sub20A: Palmeiras, Bragantino, Cruzeiro e Santos saem com vantagem nas quartas de final&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjJzVFhqaVFJU1BCMG9mdm0xSUtJY3VCNm1TVmY5UVBKMjVyRDhxR0RsaktYQWFmM2VKRWtlYU9IM25jbTd3NDl4dDlTVWRsZGJxSXF0RkZlak8zckw5NG5qY3BGZTZ1V0Izb3lkUmlINHpEb1EzdF81YXhqTGFnRUx4ZF85dnptNHJ5S3dPMk5WaGJDSTBydmQtb3hQdWlVLXFfRkdmMFVCeU5yc1YwY05USnZCOE9VbDcxekVzVWVDQlc1ZUU2NDNtbXprWmpy?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-09T11:20:34.000Z",
+      "whyItMattersKo": "8강전 1차전에서 유리한 고지를 점령해 결승 진출에 한 발 더 다가갔습니다.",
+      "fanTakeKo": "8강도 무사히 넘기길 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3ByUWJUYWJtTXBpSm82azJObkVhQVNFRkJKWVV4OENpdWx3OFVtdTkxdzR",
+      "title": "Paulista Feminino Sub20: Ferroviária e Palmeiras mantém 100% em rodada completa - PortalR3",
+      "summaryKo": "여자 유스팀, 100% 승률로 무난한 행보 이어가",
+      "excerpt": "Paulista Feminino Sub20: Ferroviária e Palmeiras mantém 100% em rodada completa&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3ByUWJUYWJtTXBpSm82azJObkVhQVNFRkJKWVV4OENpdWx3OFVtdTkxdzRUeWRNN2NDVTN6VUVHaWxlWmJhZUlKRzVrQjRwM3VZWlFibXR5V0pBS05iaTUxbURuUU1VSno2NmxvXzd6bmU3YXJleXJEMTByUWNRS3ZnY3pHeER2d0pvWktiZkRKUTNQeXc5YXpha0ZXY2FYSGh5dGhnSklWcHNmZlBJY1NCeE5JdUE?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-09T11:15:34.000Z",
+      "whyItMattersKo": "전승을 유지하고 있어 팀 분위기가 최고조이며 우승 경쟁력이 매우 높습니다.",
+      "fanTakeKo": "전승 행보 계속되길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlfNkFXYVpDTDBFN2JtNThTeEgyZXdVT3hDNld2RHM2TUVpRWVPZVBkTHN",
+      "title": "Gols de Mauricio e Arias rendem feito inédito ao Palmeiras; Flaco pode ampliar marca - LANCE!",
+      "summaryKo": "Mauricio와 Arias의 목표는 Palmeiras에게 전례 없는 성과를 가져다 주었습니다. Flaco는 브랜드를 확장할 수 있습니다 - 입찰!",
+      "excerpt": "Gols de Mauricio e Arias rendem feito inédito ao Palmeiras; Flaco pode ampliar marca&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlfNkFXYVpDTDBFN2JtNThTeEgyZXdVT3hDNld2RHM2TUVpRWVPZVBkTHN5UzNuVmtwUEQ0bW56eUpwZjlORE16V3NxLVVscXRfQW5kVDhhZGhFSFJKZmRqSkZUenlPWTV3Z2tPY3BGRm9aM183dWZvVkhOSVZOcXNTaXAtaDdDQW83V3ZpVXdZNEJtODVDdWxYT0k5LTQwb1YwdHF0MlZXX3lXVWhmY0tGQnVaMFljLVdDM2F0SFg?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-09T09:15:00.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -43,6 +171,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZsNnBMRERoRUdMdFlNNG5pZkxQYVpac0lRVmVjbmxSRlNFM085ZHpHbT",
+      "title": "Jogadores da Série B e ex-Palmeiras conseguem liminares para proibir bets de usarem seus nomes; entenda discussão - ESPN Brasil",
+      "summaryKo": "전 파우메이라스 선수들, 베팅업체 이름 사용 금지 가처분",
+      "excerpt": "Jogadores da Série B e ex-Palmeiras conseguem liminares para proibir bets de usarem seus nomes; entenda discussão&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZsNnBMRERoRUdMdFlNNG5pZkxQYVpac0lRVmVjbmxSRlNFM085ZHpHbTUxbnIxNE5SdnE3aUl2c3MtSWpmYVZfNkRzZ2dJcXU5UUVBeF8tZW9rT1BYUzNNT0kwek53QTRfanUxcTNtQ3pFMFNHMEwyV3BiUnU3VHBMM1QyQzBRQVcxdVBoNlp6TkdacVN3aEtnb2lUQ2NNRjhrUF8xdEtOWHhXQktuY2oyYmN2dS1rSGNVSzlKdWJSQWg1enpTdXRKcnNpZnpEdW9GYWRsWVhUSWI3RDZDVklvY0pRZG8?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-09T06:00:00.000Z",
+      "whyItMattersKo": "선수들의 이름을 무단으로 쓰는 베팅 업계를 견제하는 중요한 법적 판례가 될 수 있습니다.",
+      "fanTakeKo": "선수들 권리 찾아주는 건 좋은 일이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -806,150 +950,6 @@
       "publishedAt": "2026-07-08T16:01:00.000Z",
       "whyItMattersKo": "스타 선수의 합류로 팀 분위기가 좋아지고 팬들의 관심이 뜨겁게 달아올랐습니다.",
       "fanTakeKo": "제수스 보니까 정말 반갑네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjI5N2NVeW1FUENSUDBFMEFGbkJrTFJTb2pEYlhOVTZtcGxqYXhFS0U3WHp",
-      "title": "Camaronês que brilhou em jogo-treino tem contrato assinado com Palmeiras - Rádio Itatiaia",
-      "summaryKo": "연습경기 빛낸 카메룬 선수, 파우메이라스와 정식 계약",
-      "excerpt": "Camaronês que brilhou em jogo-treino tem contrato assinado com Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjI5N2NVeW1FUENSUDBFMEFGbkJrTFJTb2pEYlhOVTZtcGxqYXhFS0U3WHpyQ1ROZElTMURBbHBqRHFzWGVuVUdkbHRvYzhodU43RVVleFFkOW0zbE4weVhMOTNFUF9SZ1BhZ3h0elZLZ2M2dzN0bHFXd0FJRXptLUJHSU01Qm5UaV9GcnZSSjI2TDQ0RU9abjc0cWtoWmJSaDRZV1VnMmlMRE82WUdQRkxHYlJ0ZUJzU1IwcDdTYzRLdXBNUzBEcEpCUWc4ZWFQZmQ2RVdGeHpZVmxkamRpQXVVU1h4TjAyazNGOG9McnU1cEwx?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:50:01.000Z",
-      "whyItMattersKo": "기대주 영입을 통해 공격진의 깊이를 강화하고 미래를 준비하는 움직임입니다.",
-      "fanTakeKo": "새로운 공격수 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMigwJBVV95cUxNODRSMnlpQk9iR0lpLXh4YnpZVUsyV0xxNk1qYlg2QU9vNjc3RVRNQ1EyRUJ",
-      "title": "Internacional avalia investida por Rômulo após exigência do Palmeiras - Terra",
-      "summaryKo": "인테르나시오나우, 파우메이라스 요구에 로물루 영입 검토",
-      "excerpt": "Internacional avalia investida por Rômulo após exigência do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNODRSMnlpQk9iR0lpLXh4YnpZVUsyV0xxNk1qYlg2QU9vNjc3RVRNQ1EyRUJuOEdCZ2ZWOEV2dDBqenpMdWRndjNXSTJLai1RSTJ0ZWR2UGZ5WERQeG80am5BZkZ0eTZBTHNTM09RbXE3SmQzVVJTYUgtR0J5MF9oWTlOcU1fYkM2VW54aDFQZWkwZm4wZGdSZ3FXNk5PQUdNTG90X0kxWEF4MVZ1UnNOeldUTDZVZXBJLUloUWx2dVAyeWx6RXRWOTZmVVRuVVVwQ2tsdXUxeFRxWVVZMUZ1NF96b052ZDE2MnM1bWM4RDk4VVpBdTgwTGZnTWpzeXplemgw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:46:00.000Z",
-      "whyItMattersKo": "영입 시장에서의 협상 진전은 팀 전력 보강에 중요한 변수가 될 수 있습니다.",
-      "fanTakeKo": "제발 영입 성사되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWjlSZGZKbkl4MnkzQkIxX05EY0VVOHMtT1lSc0c2YVV3N0JtOWdSdl9Ic2I",
-      "title": "São Paulo e Palmeiras são impactados pelo impedimento semiautomático no Brasileirão - Portal ABC do ABC",
-      "summaryKo": "상파울루와 파우메이라스, 오프사이드 VAR 판정에 영향받아",
-      "excerpt": "São Paulo e Palmeiras são impactados pelo impedimento semiautomático no Brasileirão&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWjlSZGZKbkl4MnkzQkIxX05EY0VVOHMtT1lSc0c2YVV3N0JtOWdSdl9Ic2I4NUdnOHZZWUtzcXZSMVlJVVprZ3dWMDlXQkx3YUVVcnVpQkhPZTZUSHRNS2JsamFXeFU3bVhfb05FOTVoMjQ?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:29:00.000Z",
-      "whyItMattersKo": "첨단 기술 도입으로 경기 결과가 바뀔 만큼 승패에 중요한 역할을 하고 있습니다.",
-      "fanTakeKo": "VAR 덕분에 다행이네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWFwZkRtM0JCOGxxeEUwZW5fYi1veU1iQ1VXY1hEYlozek5XcFVWV3dhS19",
-      "title": "Atacante camaronês sem contrato é destaque em jogo-treino do Palmeiras - UOL",
-      "summaryKo": "계약 없는 카메룬 공격수, 파우메이라스 훈련서 맹활약",
-      "excerpt": "Atacante camaronês sem contrato é destaque em jogo-treino do Palmeiras&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWFwZkRtM0JCOGxxeEUwZW5fYi1veU1iQ1VXY1hEYlozek5XcFVWV3dhS19xUzVIQWtTa0JTYTNYNWViREM0WVZMc2tIcFdvWkloMG8zMXBHVXdLWi1BVl9DR25lcDFDeEktaHluUHVMektPbXNaOFZINFVxVGhoM1ZGclJta0lSYi15Y3o0ekJJalVTM05PUE9FY0dPeE1iaFRQTXQ5NkJKb25waFJscGhCTHVnUkw5Ni0tZ09oLU5fMk5kenVyMU9ZRWNTbnlWMkJrRWlMdm9Pdw?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:27:18.000Z",
-      "whyItMattersKo": "무소속 공격수가 훈련에서 좋은 모습을 보여 영입 가능성이 생겼습니다.",
-      "fanTakeKo": "새 공격수 영입에 기대가 큽니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQUJ2R1JaZ0lvV2RrTTh2SEZ2S3FDSEJGc2tWWGp1RExQSGtxbUZ2VUNyRUF",
-      "title": "Gabriel Jesus trabalha no Palmeiras em dia de jogo-treino do time - Rádio Itatiaia",
-      "summaryKo": "가브리엘 제수스, 파우메이라스 훈련장서 몸 풀었다",
-      "excerpt": "Gabriel Jesus trabalha no Palmeiras em dia de jogo-treino do time&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQUJ2R1JaZ0lvV2RrTTh2SEZ2S3FDSEJGc2tWWGp1RExQSGtxbUZ2VUNyRUFjNlgyRWVNUXpCNUFTaFRGdC1SRk1OWFpGQnBYTS04Z3ZqWEN1QW1kV19DdlNKVUZHVjVUZms2dzhjWFcwY3Jua1FIdHQ0b0JZYldHN3ZEOE10TFRUZzdFYXRER1U0am4ySjU0bm1udmFndFFGVl9reE5PTWcyX0ZnWVVSM0pSdHktbGlOSzJvcXA2aENyTEhpODd3QmRFUjFlNFIyZ1hmdmhMTFFFQ1k3V3hMZ1MwdGY1LTlrbXBR?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:21:50.000Z",
-      "whyItMattersKo": "레전드 선수의 방문은 팬들에게 즐거움을 주고 팀 분위기를 북돋울 수 있습니다.",
-      "fanTakeKo": "제수스 선수 보니까 너무 반갑네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rbHpfQ3Ntbnd5QXJHNFlxWGR4UzNzbW5EcXZOenZlSFhzWF9OQm15NEc1Z3l",
-      "title": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que disputam o - instagram.com",
-      "summaryKo": "브라질리랑 유일한 월드컵 생존자 플라코 로페",
-      "excerpt": "🏆 Resta 1! Com a melancólica eliminação da Seleção da Colômbia, o argentino Flaco López, do Palmeiras, passou a ser o último jogador que atua no Brasileirão ainda vivo na Copa do Mundo. A colômbia tinha em seu elenco quatro atletas que dis",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rbHpfQ3Ntbnd5QXJHNFlxWGR4UzNzbW5EcXZOenZlSFhzWF9OQm15NEc1Z3lFb0ZZWFlRcnduVWlFM1dpc3RHZEdORlkyVzdSeXc?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:20:37.000Z",
-      "whyItMattersKo": "리그 선수 중 유일하게 월드컵에 남아 파우메이라스의 자존심을 지켰습니다.",
-      "fanTakeKo": "우리 팀 자랑, 플라코 로페 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmJ3d0tacmctb0J5Wk5Vclo0V1J2SmFPLUFZSkFyS1RLbEVKWE5uaFRselZ",
-      "title": "Atacante camaronês brilha em jogo-treino do Palmeiras na Academia de Futebol - GE",
-      "summaryKo": "카메룬 공격수, 훈련 경기서 눈도장",
-      "excerpt": "Atacante camaronês brilha em jogo-treino do Palmeiras na Academia de Futebol&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmJ3d0tacmctb0J5Wk5Vclo0V1J2SmFPLUFZSkFyS1RLbEVKWE5uaFRselZxejNQd1pkUXNYaVZmMVhZSzczZVR6RFJOUi00OEVYUFllQmlURThLSHluTHVXUGhZNXVhOE90WG1nNWdRUXlONXMwa3RFY18yTE9rUWxVUHU3aGo2bk9fRm1EX3lYQ2hyNDA1d21XVmtXSHJ4eE1oeDJkb1luajVvWG5QRnZFUno3S3ZWN3lpcHBNM3FTeGhNWG9PTmZnV2RuNU1EcGhKSGNiTzRLbWtjMEpr0gHuAUFVX3lxTE9rRm0wYV92dUNtQnVEdC1sX3F0YnN0clR2Q1RWSXl1UWxuNy15bEtkeW90N3RudE94Q1hoVzloSk5Gby10aUM4c0tUS3dRT0cyOU0wemFNSUlORDh2RTdXOXRVTHJfRVk0c0lvZFlBZTljWGlrblRSX0N5N0RhRnpfcWZtdm80eEVmV3JiTHRuOHU0Tm9DQ3NQWWtraUs3bDltaXdlVVk0bU5qa0lWYm1YX1BkUDhVSnNJUU13dnJLa0F4Rk5qdVFYQkVTanVNUW5xZTYwZUdGcFpmanRQUGFSem5qVHh5VDl6MTkxd0E?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:16:58.000Z",
-      "whyItMattersKo": "훈련 경기에서의 좋은 모습은 선수의 컨디션 회복과 전력 옵션에 긍정적인 신호가 됩니다.",
-      "fanTakeKo": "저 선수 누구야? 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1I2SFE4VlV1WDZXQWhIWEJpUHBwOHQ3ZE9qZHVKX01fNVpnRHg4dzdodT",
-      "title": "Corinthians terá 'reforços' do profissional em Dérbi decisivo pelo Brasileirão Sub-20 - meutimao.com.br",
-      "summaryKo": "코린치안스, U-20 더비에 1군 차출",
-      "excerpt": "Corinthians terá 'reforços' do profissional em Dérbi decisivo pelo Brasileirão Sub-20&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1I2SFE4VlV1WDZXQWhIWEJpUHBwOHQ3ZE9qZHVKX01fNVpnRHg4dzdodTR4NEFCSVJoWTF5WnEwbXFjX2JNNTYyZG1WN3NieGp0OTlBM0x6amRFWFBjWFhCYTV0Z1RZa0JqQ3FQajJjOHZoUS1pdEJoU1ZlNnUxeFg5TDVxaktsa0ZGSTBrNk02MlpxaDdRUU9MS2lFTDJ4Q1VtOXZRMVBaNmo1bmZKZkxQM0pyUDgyTUF6aVM5R3ZxbUtCNnBkSF83bHZ2UFhMWXFmQThzYi15Z9IBygFBVV95cUxNZFpZSjEybk4yS1BHZGVOLVRsaG5xaWVJRE9LcndVbmFqSmY2MkowQXFrTnA4YWpqaFJUMDhVd1BwVURMMjRvUnJmN2FOZlVzaklsalI4VXRja1I4WlJoNHNwRFpjOVRGSnN1WVI2ZVFKeDRJX2RHa1B2ZzVhTHVqVFM1cmJDV0diTnFndFZHR2VIenlWeDJjcDIwS0l4MTVoWGdDU3JaX3NGWFZRZnZVUjdYNUdpZXJXUHZoQ1N5eWcyRzFzeU1vb1pB?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:15:00.000Z",
-      "whyItMattersKo": "라이벌 간 U-20 더비 승부를 위해 프로 선수들이 내려가 힘을 보태줍니다.",
-      "fanTakeKo": "유소년 더비까지 치열하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkRBSmFKUFlPdk5FMDlxQlVYdFFnZG9kSjdxX3ZSeElRQTBfVnlvRUJMVzM",
-      "title": "Mudança no Brasileirão impacta Palmeiras e São Paulo - ABCD Jornal",
-      "summaryKo": "브라질레이렁 변화, 파우메이라스에도 영향",
-      "excerpt": "Mudança no Brasileirão impacta Palmeiras e São Paulo&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkRBSmFKUFlPdk5FMDlxQlVYdFFnZG9kSjdxX3ZSeElRQTBfVnlvRUJMVzMxVW02ZDhaUzBNWjAtbjVtUE5sNVVVRm9NSVJsTUQ2RG92WUlTRGtJUWF3ZjhaaXZKOEdBR0RLb3R1NG5MZ0JDQzctWW51d2c1blJsaDRJbTMxWHR1QzZuMU8wUDVBdkc2MWJpYl9CeF9LZ2x0UlVDVld2Z0lOQdIBrwFBVV95cUxQTkFzZGFvZ3lvc1U3ZGVnV3Z2Ykd3LU9teW1fWl9DcWJaUTA3STAtcGJ0MHNGM0pXZ29TOFZrYUlPVWtudWxUb3czRzlEdzEwNWlrTjhqRDVGWmViMDkxODdvTzhGN1VYSFVMZ1MwMTVma1VuaFQ5MExuQlNuNDdQMnlqVnllckZUeDk5Q2NMSklUN2stTmxyNXNJYXJiQ3ByaGJOTDZNMFlCZ2Rweldr?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-07-08T15:09:32.000Z",
-      "whyItMattersKo": "리그 규정이나 일정의 변화는 팀의 경기 운영과 선수 관리에 직접적인 영향을 줄 수 있습니다.",
-      "fanTakeKo": "또 뭐가 바뀐 거야? 복잡하네",
       "tags": [
         "뉴스",
         "AI요약"
