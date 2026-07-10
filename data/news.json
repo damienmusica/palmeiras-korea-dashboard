@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-10T09:37:42.104Z",
+  "fetchedAt": "2026-07-10T12:25:56.964Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDR4dE1ncmVMeWhFN0c4OTZXVV83WmNBc1R4M0pydklQRzRJNVBOd0hKQU1",
+      "title": "Palmeiras inaugura espaço de leitura com nome de Abel Ferreira e proíbe uso de celulares na base - MKT Esportivo",
+      "summaryKo": "파우메이라스, 아벨 페헤이라 도서관 개관",
+      "excerpt": "Palmeiras inaugura espaço de leitura com nome de Abel Ferreira e proíbe uso de celulares na base&nbsp;&nbsp;MKT Esportivo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDR4dE1ncmVMeWhFN0c4OTZXVV83WmNBc1R4M0pydklQRzRJNVBOd0hKQU10aWk2Z1lZRUUzUjlJZE14bDRYNFQyc1JzQWpjcWtzWklxTmxBYVVWQW53TF96VUVXTDRiWTdLU1FFS3kyb0NnMUJSN1dBd3dqRkN1YjlERFByeWs4Z1czdmNDRm5KSWREdHYyTTY0ZDlDanNuRlBzU2FvN283ZkJOQ3U2RUxlWGxFVEFjLVk2Vk9hYnFVVTMtWmhralhMRk1qYWs?oc=5",
+      "source": "MKT Esportivo",
+      "language": "pt",
+      "publishedAt": "2026-07-10T10:00:38.000Z",
+      "whyItMattersKo": "유스 선수들의 집중력을 높이고 아벨 페헤이라 감독의 철학을 심어주는 교육적 행보입니다.",
+      "fanTakeKo": "아벨 페헤이라 이름 딴 공간이라니 멋지네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHVFNUVuRGU3TGI5XzNva21kYnhpYzBKbWV4YVUzZWVjRklaWV9FLXdWenJ",
+      "title": "Palmeiras coloca Naves na negociação e oferece R$ 120 milhões por Danilo - Galáticos Online",
+      "summaryKo": "파우메이라스, 다닐루 영입에 나베스+120억 레알 제안",
+      "excerpt": "Palmeiras coloca Naves na negociação e oferece R$ 120 milhões por Danilo&nbsp;&nbsp;Galáticos Online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHVFNUVuRGU3TGI5XzNva21kYnhpYzBKbWV4YVUzZWVjRklaWV9FLXdWenJSZjNaaWR0Nmh2UDJQMFRFdHZMZmF6bUtHU21Ud3FFaU94UGk4bllpZ3B4V1VRQzFhWHpvVXZtM0lKZ3Rxd01PMURqVjlYT19aaWdtbEdDTlVrVHNRUktGd1lubTFxbGlYdFRyWmJjY1RuNmU2bVdvVGYxVjNISnlXSGlsM3d1SWZDV2ZwN182NFljUUJiWEZtMXVoOA?oc=5",
+      "source": "Galáticos Online",
+      "language": "pt",
+      "publishedAt": "2026-07-10T10:00:00.000Z",
+      "whyItMattersKo": "핵심 미드필더 다닐루 영입을 위해 거액과 선수 맞트레이드로 적극 공략합니다.",
+      "fanTakeKo": "다닐루 복귀를 위해 전력을 다하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHJmcjJzZXpqV0FQaFV4ZmFsa2lMb3RudjRDWlJ5VUlFQmVXd1lldllmeUZ",
       "title": "Zagueiro do Palmeiras treina separado enquanto aguarda definição do futuro - UOL",
@@ -11,7 +43,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHJmcjJzZXpqV0FQaFV4ZmFsa2lMb3RudjRDWlJ5VUlFQmVXd1lldllmeUZGV3RtX3Atc1Z6eE5sNF9rWUstTGVyTUxPbkFvTGdhemN6SmtSbW4tckxwZXBHTlJ3c3JDdXhTWGFSOTJmYjN1djVydGdIbG9YeUpmNm9OVXMySWVjSXlsYmp4dW40M1pGM1hyUHRSQ3hnanI0SFhQaTdxbGZaZTF0LVpSaFFuZE9mVWFLcWRMN2VQUGhqVFM5bGdjYXIzdGVPTkhjak56WWVfNll4TTFISms4?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-10T08:33:58.000Z",
+      "publishedAt": "2026-07-10T09:35:39.000Z",
       "whyItMattersKo": "수비수의 이적 불확실성은 팀 방어력과 전력 보강 계획에 중요한 변수입니다.",
       "fanTakeKo": "누굴까? 팀 전력엔 큰 손실이죠.",
       "tags": [
@@ -92,6 +124,22 @@
       "publishedAt": "2026-07-10T01:28:47.000Z",
       "whyItMattersKo": "주전 선수의 복귀 시점이 확인되면 팀 전력 보강과 전략 수립에 큰 도움이 됩니다.",
       "fanTakeKo": "아리아스 빨리 보고 싶네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zaGlEbTVLR1g2TG10UXhZWVRpcFdYdS16UmowS2hkdnRaTERXMEpFQlIzZ0J",
+      "title": "PALMEIRAS AVANÇA POR DANILO OFERECENDO R$ 120 MILHÕES E BOTAFOGO PODE CEDER - instagram.com",
+      "summaryKo": "파우메이라스, 다닐루에 120억 제안…보타포구 양보 가능성",
+      "excerpt": "PALMEIRAS AVANÇA POR DANILO OFERECENDO R$ 120 MILHÕES E BOTAFOGO PODE CEDER&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zaGlEbTVLR1g2TG10UXhZWVRpcFdYdS16UmowS2hkdnRaTERXMEpFQlIzZ0JGTjJxMWpLREo2dG1Mc0ZlNGhhS2ZZQ0otRmMycHFRaGxB?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-10T01:09:07.000Z",
+      "whyItMattersKo": "보타포구가 양보할 수 있다는 소식이라 다닐루 영입 성사 가능성이 커졌습니다.",
+      "fanTakeKo": "이번엔 진짜 데려올 수 있을까요?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -183,6 +231,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam5QZVN4c3FTTTQ1VGZGZm1KeDhSSHFJMXdJOE1CSTE5TmhYbW5iX2FYYW",
+      "title": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 milhõ - facebook.com",
+      "summaryKo": "파우메이라스, 다닐루 복귀 위해 보타포구에 120억 제안",
+      "excerpt": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 ",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam5QZVN4c3FTTTQ1VGZGZm1KeDhSSHFJMXdJOE1CSTE5TmhYbW5iX2FYYW9lUkFxdng0dzljTmNBbGJHWmNUT18zcHRUb1F5dll2NGcwM3p2dzNEaUx6b2ZTa2cycmFCUnRtU205TlFCOXd4RzEyb25JSXEzNlpGZ0loa0xWWnE2U3VOSHdPR2Jqb3dqdkxRaVY0ZWtJLWVsWEpkYUx4aWlWS1RZZklXbU9Da013M3JtYnI4VkZFZ0hDOWFPcC1oUU0zbkY5ZnB2UlVoWGZBSUdxb2NaaHMtS28yTHVpYXdsOTRF?oc=5",
+      "source": "facebook.com",
+      "language": "pt",
+      "publishedAt": "2026-07-09T23:30:20.000Z",
+      "whyItMattersKo": "거액의 제안을 던지며 다닐루 복귀를 위한 구단의 강한 의지를 보여주는 협상입니다.",
+      "fanTakeKo": "다닐루 복귀라니 꿈만 같습니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -847,68 +911,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdXZVY0JDRFAydE1DdEI4cmFDYURZYThRcF9TamlBcFFzems4bGk0eS0yS1N",
-      "title": "Jhon Arias passa folga com a família e volta ao Palmeiras valorizado depois da Copa - GE",
-      "summaryKo": "Jhon Arias는 가족과 함께 휴가를 보내고 월드컵이 끝난 후 소중한 Palmeiras로 돌아갑니다. - GE",
-      "excerpt": "Jhon Arias passa folga com a família e volta ao Palmeiras valorizado depois da Copa&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdXZVY0JDRFAydE1DdEI4cmFDYURZYThRcF9TamlBcFFzems4bGk0eS0yS1N5VU5PazI0VGdGMlctdTJkMnRaakxQNjZIVkQtaTRlYmxlbFNWeFRGcWVxc085SW1tQU91eGh3R2JId0Q5QWRkQWktY1UtTW9fNjVudUFBeEhoTFhsVnZmQS12eHp3eDNscmhPUVFabldRcnRfb3ZaWEpZNzFXNVJDeDMzd1VtUVhDVVp2ZlV6T1ZEcU9CMFUtak5qNjg5TEV3V2h2MUNRejdfcHZ4NmNPanJDby00SjFYc0550gH3AUFVX3lxTE5TTkladG9OSWdJVndWcTFaUUpTTDliMjd2dkxldGJmT1lwdl9wbDhyTmJMdHJuOWpBdy1sY3RieG13S2l2VFM2SmVudjhEcjJUek03NlMxeFN5ajNfcURWN2dXa1JDX3FzWTdhS3g4Y2luaFVuUHFDTm1VUW55MU9UZUg3Rm1yai1Ybnhyc2taS2kyZm41X0J4bnlKNkhvcC1XRXhmdlZzZTliaVdzcVZ3a3Z3Yy04OGwyY0ljSHR1RXRtZGUwT3JuTWZyM2ZvMFRVNzVRS041Ry1mLU41ZmhhQ094VVpJY0MwYWlYMUF3QjBJRXFzdDA?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-09T07:00:57.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZsNnBMRERoRUdMdFlNNG5pZkxQYVpac0lRVmVjbmxSRlNFM085ZHpHbT",
-      "title": "Jogadores da Série B e ex-Palmeiras conseguem liminares para proibir bets de usarem seus nomes; entenda discussão - ESPN Brasil",
-      "summaryKo": "전 파우메이라스 선수들, 베팅업체 이름 사용 금지 가처분",
-      "excerpt": "Jogadores da Série B e ex-Palmeiras conseguem liminares para proibir bets de usarem seus nomes; entenda discussão&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZsNnBMRERoRUdMdFlNNG5pZkxQYVpac0lRVmVjbmxSRlNFM085ZHpHbTUxbnIxNE5SdnE3aUl2c3MtSWpmYVZfNkRzZ2dJcXU5UUVBeF8tZW9rT1BYUzNNT0kwek53QTRfanUxcTNtQ3pFMFNHMEwyV3BiUnU3VHBMM1QyQzBRQVcxdVBoNlp6TkdacVN3aEtnb2lUQ2NNRjhrUF8xdEtOWHhXQktuY2oyYmN2dS1rSGNVSzlKdWJSQWg1enpTdXRKcnNpZnpEdW9GYWRsWVhUSWI3RDZDVklvY0pRZG8?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-09T06:00:00.000Z",
-      "whyItMattersKo": "선수들의 이름을 무단으로 쓰는 베팅 업계를 견제하는 중요한 법적 판례가 될 수 있습니다.",
-      "fanTakeKo": "선수들 권리 찾아주는 건 좋은 일이죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNWcyQnVzLWxwTUdQdGttRlM5UjVJY2s2VXZ5cnVWT0pYYy1TVWxPQTJYRF9",
-      "title": "Impedimento semiautomático também na Arena Barueri! @dudacabreira fala sobre o interesse do Palmeiras em arcar com os gastos da instalação das câmeras para o impedimento semiautomático também na Arena Barueri. #palmeiras #palmeirasonline - instagram.com",
-      "summaryKo": "파우메이라스, 바루에리 구장에 반자동 오프사이드 설치 검토",
-      "excerpt": "Impedimento semiautomático também na Arena Barueri! @dudacabreira fala sobre o interesse do Palmeiras em arcar com os gastos da instalação das câmeras para o impedimento semiautomático também na Arena Barueri. #palmeiras #palmeirasonline&nb",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNWcyQnVzLWxwTUdQdGttRlM5UjVJY2s2VXZ5cnVWT0pYYy1TVWxPQTJYRF9Qb3VNMFZrZkhQXzltbzhPdGpYbV93NU5tTnp0SG91MXBR?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-09T01:09:25.000Z",
-      "whyItMattersKo": "홈 구장 외 경기장 시설 개선은 팀의 전반적인 경기 운영 환경을 높여줍니다.",
-      "fanTakeKo": "시설 투자라니, 구단의 의지가 보이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVhMW0xTlZiRjF2VjA4ZE45QnI3d1VYNFBfRWFOeFNBMUVaTXo0MnFEOUl",
-      "title": "Red Bull Bragantino é superado pelo Palmeiras no Paulista F Sub-20 - Red Bull Bragantino",
-      "summaryKo": "파우메이라스 유스, 브라간치누 전에서 승리",
-      "excerpt": "Red Bull Bragantino é superado pelo Palmeiras no Paulista F Sub-20&nbsp;&nbsp;Red Bull Bragantino",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVhMW0xTlZiRjF2VjA4ZE45QnI3d1VYNFBfRWFOeFNBMUVaTXo0MnFEOUlKekRZdktHVzVMMDNJOWVUWUV2UnNFX1RfdVBpS0ZwUC1yZkp4VWMzZVdfZlZDY2QwV3NiOGNFajM0U2JqbTVjSFBlMm9ETl9PRGdpc3BnMHJ4MmJVYmwtUW5hb1Aza1Jtd0VKUnlfMXlMd1pUUjg3bEVrRzRzWEpzX3N0MFN3ZlJvUQ?oc=5",
-      "source": "Red Bull Bragantino",
-      "language": "pt",
-      "publishedAt": "2026-07-09T00:20:00.000Z",
-      "whyItMattersKo": "유망주들의 성장은 1군의 미래 전력 확보와 팀의 장기적인 성공에 기여합니다.",
-      "fanTakeKo": "우리 유스팀 최고야!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
