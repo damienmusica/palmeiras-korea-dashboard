@@ -1,8 +1,36 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-10T22:04:49.392Z",
+  "fetchedAt": "2026-07-10T23:29:27.171Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2tFMW1fY2U1N1A1akt0WHp6bkl2WmR2blh4QWtwUmdqNXZfMkl0MWVsYjl",
+      "title": "Palmeiras x Capivariano: saiba onde assistir ao duelo pelo Paulista sub-20 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 x 카피바리아노: 파울리스타 U-20 결투를 볼 수 있는 곳 - Gazeta Esportiva",
+      "excerpt": "Palmeiras x Capivariano: saiba onde assistir ao duelo pelo Paulista sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2tFMW1fY2U1N1A1akt0WHp6bkl2WmR2blh4QWtwUmdqNXZfMkl0MWVsYjlwRHhiZkRCMDExbFhmR1FPYW03TkR6TEJ6TldMLXpSdHRXckFOZnZyaFNxQkNBRndtREY3dEdLYlVlazlSeHBlX1FBbHE5MG10OVMxRC1SalB2bmllWHZ4ZHp0aVF3UlYxU014WElNZkRPb1VaR0VjU0lnd2gtanlRSjRkQUJjQ1FidVdqeVlodnpLQdIBxAFBVV95cUxQSE16U3BKeDN6MlF5Tk56RWtrU3hLNXAzZTFqaUI4XzhJdFV2MVgtSkZscE96WS1BOWNKSHdQM1lSWEdFY0E4ZnZZT0ljR0ZLTVFIanFQRGFMSDFHOWRsLXZwZEpDX0lfSlZHRDRiejVvZ1VDb3N0V1h5emhrQjZYSW9hWGF2WjFtbXFjT2kxYTVmM3NPaWRmTGRITUtnc2JOWHYycU0zSS1wUFlZUFVENDhPa2tOMk00cEJLWC1zN2w3dDh0?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-10T23:00:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivAFBVV95cUxNclBVT0VyaDVHVE1VRmE1VWFGRkFzZ3VVcFhraXZnN1pfS0hRRmhHM2dneXd",
+      "title": "Vitor Roque avança e aumenta expectativa para reforçar o Palmeiras - ABCD Jornal",
+      "summaryKo": "비토르 로크 (Vitor Roque) 는 파우메이라스를 강화하기 위해 발전하고 기대를 높입니다 - ABCD Jornal",
+      "excerpt": "Vitor Roque avança e aumenta expectativa para reforçar o Palmeiras&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclBVT0VyaDVHVE1VRmE1VWFGRkFzZ3VVcFhraXZnN1pfS0hRRmhHM2dneXdDS211dDNqQU0xWmtldHFLMjNTVVFSX1M5clIyckxDdFd5YmtVYUV2aTdxSll0V0ZuSlJleFJRekJQeHRZTkg1YXVfdV92QUtSTEhyYURHS21QRk9xU3VaUzloTUJRdjc5YkNQdk9oT2RMVjJKdExISmNJd1MyR2ZYdmRrX0d3ekNWM3J2Zy11Y9IBwgFBVV95cUxQMlFKRDJTNHpQOVREanJRbDRtVVJVbnhRZWlZTW5CVFhMN0YtR1VQOVdfdUpvZHVublNKVkFKZkVxSkVXUG0xeTJYUVNYZFB2N0xXWmdYS1UwM3d1MVkwZV8wMGh3bUctdVpadFBYbXI5ZHZFSmlKWG9YSURzZXNpeW00VzJ3U2NscUVfUFdacDVIX3ZKVlJDRmRVYWFpaXJhcUE5a1dXY2FZNHVFclJjaHJtS1VBU3Zza19wczJGYzNvUQ?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-10T22:23:16.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNGhEa241MGczcHlpNUIwU2hBdXFqdHZ4ellSMjE5WDRYdURDSXNJUkgwenc",
       "title": "Palmeiras x Atlético pelo Brasileiro terá restrição de público; entenda - No Ataque",
@@ -244,6 +272,20 @@
       ]
     },
     {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMieEFVX3lxTE5WVk1DSG94VnVrQUIxaTkyZmNwOUtPRDdSTldPaEhzV2xOTHlPUXN3TnB4aE",
+      "title": "Palmeiras: Danilo fecha porta à rival e Verdão aguarda resposta do Botafogo - Portal ABC do ABC",
+      "summaryKo": "Palmeiras: Danilo는 라이벌의 문을 닫고 Verdão는 Botafogo - ABC 포털의 응답을 기다립니다.",
+      "excerpt": "Palmeiras: Danilo fecha porta à rival e Verdão aguarda resposta do Botafogo&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WVk1DSG94VnVrQUIxaTkyZmNwOUtPRDdSTldPaEhzV2xOTHlPUXN3TnB4aE04Y2RESjFhTnJRUlNXVkJ4V3MtTnUyOHNmUTZId0xjQTJhUVA2aVpUdE5fV2RyYU51d0JsOEdSckxUclR2VXJoa1Q0OA?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-10T17:28:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
       "id": "gnews-6-https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnR6NF9JQXlPWDB2cXdmLVZWNF9Cbm1DM21kVlhJMi04eEo2UFVDZ3ctREc",
       "title": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino - Jogada 10",
       "summaryKo": "바르보자, 훈련 강도 높여 데뷔 준비",
@@ -305,6 +347,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-22-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeV8ydTdQRC1KTXpIOHBSdlhYYjc5RE41bFBGaVFac2xOckxhMWxIVk1MOT",
+      "title": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos - CBF",
+      "summaryKo": "파우메이라스는 브라질레이랑에서 열린 13라운드까지 러닝 포인트에서 최고의 스타트를 기록했습니다 - CBF",
+      "excerpt": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeV8ydTdQRC1KTXpIOHBSdlhYYjc5RE41bFBGaVFac2xOckxhMWxIVk1MOTdDaFR5bnNWYnA5enFsX1lxdzhwU3ZkOEtjOWNvMmRtbGZkUUlpanlZZUpIUDBmbVBURHliRi11cnREZFM3WVpyc2V4eXliT3RLOXQ3bWtsV3o1Y19lak81Vjhwdkp5VmNDbzAxdldXYjFGRDRJUmZiMmNUVlFIY2FtelBWMVdOUVU4aXhxZWdoSzlOQjFGSXpSanVXMlFPQVlpN1VaWF9sendhTF83WFd4azJSeWFYemxSVmd4MzZkdVlMRElQeWN4RXpj?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-10T16:41:22.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -880,66 +936,6 @@
       "publishedAt": "2026-07-10T00:07:34.000Z",
       "whyItMattersKo": "시즌 초반 강팀과의 경기 결과는 여자팀의 이번 시즌 순위 흐름에 영향을 줍니다.",
       "fanTakeKo": "여자 리그도 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EMm54QS1jaURPUGdtUG03a3hoeUVta195YnpzTGVFZDNGS25rSnd2MVNvMkd",
-      "title": "Palmeiras oferece mais de R$ 120 milhões por jogador da Seleção - Portal ABC do ABC",
-      "summaryKo": "파우메이라스는 국가대표팀 선수 1인당 1억 2천만 달러 이상을 제공합니다 - ABC 포털",
-      "excerpt": "Palmeiras oferece mais de R$ 120 milhões por jogador da Seleção&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EMm54QS1jaURPUGdtUG03a3hoeUVta195YnpzTGVFZDNGS25rSnd2MVNvMkdlcGxUeDVFLV9zSVVKcW1fR05EVzlPTTkwVW5uRS1jUTE4VFFUR3BrX2FVNHB0NA?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-09T23:34:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3VpbWltSGtVTjdlM0VNZGZ4bWRPNFVMeFJITkp2b2dXS2pUblJkb3I1N1F",
-      "title": "Palmeiras envia proposta por Danilo com zagueiro - ABCD Jornal",
-      "summaryKo": "Palmeiras가 수비수와 함께 Danilo의 제안서를 보냅니다 - ABCD Jornal",
-      "excerpt": "Palmeiras envia proposta por Danilo com zagueiro&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3VpbWltSGtVTjdlM0VNZGZ4bWRPNFVMeFJITkp2b2dXS2pUblJkb3I1N1F3OHVWalZMRHo2Q0ZSdUtBRW93a2h0ZGxLVW9WUmZjNTN3T0JfNENSZUo5MW1hQkEtZDFsdTNsb3p1UWdRSUZGd2kzT05ueENzRVZKc25wU3dXY1FRdkxhVmhKbHJiWHBzNU1lN3RRWllvakxkVWdLZ9IBqgFBVV95cUxNWEdMbGhCaXdEdWRnTEdFQThFLWpEbWdQSXViMHhNeXg0Y01PM0VXUUZqVU9MWkZORXRSajhQZzhFeGNjRzZ0ckphbE9XQUhBZ0w0S1RjLWlZaHYtYk0zV01YQVVjR3ZDdHZOTkpOUDVZaEdldlUtQWtIc3ljS19kWnExQWxSQVgzdG9XQ1FpTEoxZzNfUjRuNE9wSnlsekIxS1J1QnFLRExBdw?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-07-09T23:31:35.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam5QZVN4c3FTTTQ1VGZGZm1KeDhSSHFJMXdJOE1CSTE5TmhYbW5iX2FYYW",
-      "title": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 milhõ - facebook.com",
-      "summaryKo": "파우메이라스, 다닐루 복귀 위해 보타포구에 120억 제안",
-      "excerpt": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 ",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam5QZVN4c3FTTTQ1VGZGZm1KeDhSSHFJMXdJOE1CSTE5TmhYbW5iX2FYYW9lUkFxdng0dzljTmNBbGJHWmNUT18zcHRUb1F5dll2NGcwM3p2dzNEaUx6b2ZTa2cycmFCUnRtU205TlFCOXd4RzEyb25JSXEzNlpGZ0loa0xWWnE2U3VOSHdPR2Jqb3dqdkxRaVY0ZWtJLWVsWEpkYUx4aWlWS1RZZklXbU9Da013M3JtYnI4VkZFZ0hDOWFPcC1oUU0zbkY5ZnB2UlVoWGZBSUdxb2NaaHMtS28yTHVpYXdsOTRF?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-07-09T23:30:20.000Z",
-      "whyItMattersKo": "거액의 제안을 던지며 다닐루 복귀를 위한 구단의 강한 의지를 보여주는 협상입니다.",
-      "fanTakeKo": "다닐루 복귀라니 꿈만 같습니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1NnYU1obWVhSG1FYmJlY0xJRW51XzlLdUtGS3lHaTB4bU82ZGxEWnhRb3",
-      "title": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 milhõ - facebook.com",
-      "summaryKo": "파우메이라스, 보타포구에 다니루 영입 제안",
-      "excerpt": "💰 120 milhões na mesa! O Palmeiras avançou nas tratativas para tentar repatriar Danilo e apresentou uma proposta milionária ao Botafogo pelo volante! Segundo informações do ge, o Verdão colocou na mesa uma oferta de aproximadamente R$ 120 ",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1NnYU1obWVhSG1FYmJlY0xJRW51XzlLdUtGS3lHaTB4bU82ZGxEWnhRb3V1SjQwaU45UW9kZng4VEttMzhfbTYzMXZab2RWbWVZdFdNRWNzZDduckw3azNfcVBscUVzQmhnaHdUV3lmX2t6ZVVEdE9ITk15d1llV180MHpKZm1KQURsckM1Vk93cUVwb2tFa3RoakhZaEIwRWNBRXVVVTNVc1U1ZG91Q0RDekF0X19QLUhVVWU0RFl5V3FVSkYzNXRtaVU4SUhsbXktaWxaNHpZUi1RQlZRa0hkSE5nbUxEbDZuRg?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-07-09T23:30:20.000Z",
-      "whyItMattersKo": "거액의 제안을 통해 핵심 미드필더 영입에 의지를 보여 팀 전력 강화를 노립니다.",
-      "fanTakeKo": "제안 보낸 거 보니 진지하네요!",
       "tags": [
         "뉴스",
         "AI요약"
