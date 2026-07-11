@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T18:26:35.462Z",
+  "fetchedAt": "2026-07-11T19:42:46.652Z",
   "items": [
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
+      "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
+      "summaryKo": "파우메이라스, 다닐로 영입에 유럽 4개 클럽과 경쟁",
+      "excerpt": "Palmeiras tem concorrência de quatro clubes europeus por Danilo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2MzZkF0dENLZkZObkFDODU1cXlNNE1ERThpa1FGS19seU8xZFlUODUxU25PSXBKcnhnZ2R6ODZYOUxXcU1PclNwTVl6VkpSUXRubGZPVkUzLWRBbF9ucURxWHB5cVpxZV8tX2h0NnlSb1FiSE1nRWNhcXN4WFE5ajhCS1pZQ2VWVlBFbjVjclN4b1RnaWlyQ0laT3VnQWRuMi1rQmNPTjhhR3Njd2xoVXdn?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T19:27:42.000Z",
+      "whyItMattersKo": "유럽 빅클럽들이 관여하면 영입 난이도가 높아져 이적 시장에서 전략이 필요합니다.",
+      "fanTakeKo": "유럽팀과 경쟁이라니 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxNNERuZFpKZ3BnSlN6YzA3R01HZmtWNHZFYzZXUjZmc2x6S1hOM2xLRWI4NEE",
+      "title": "Palmeiras vence Juventus em jogo-treino e encerra preparação para volta do Brasileirão - Terra",
+      "summaryKo": "파우메이라스, 연습경기 승리로 리그 복귀 준비 끝",
+      "excerpt": "Palmeiras vence Juventus em jogo-treino e encerra preparação para volta do Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNERuZFpKZ3BnSlN6YzA3R01HZmtWNHZFYzZXUjZmc2x6S1hOM2xLRWI4NEE4d1NqNXJwU1VnY0VaVWJBTWJicTVHZ1ZnSWFIWmt0VWhrRUptZDBfcGVZejFMTzVab0ZaQThoTEtCSEQzdGFIbVBHNFlCUk9US1VfY0FLNE01NU9NeURlbGRIZ3d0bkgxNG03WnBWZFFoa3g3cGhOeGhSYzNkUTJicjJNcUQydGVLTEVVV1BIcXhVOWZDZjNYTUZmcm4xeDRXaG01RWc4Q2NrYWQxYlJCLUc1QUd0akZfUG4tbHByanYxSWdIVWtVd3hBNDMxOV9aQkt3c2JhY051UQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-11T19:20:00.000Z",
+      "whyItMattersKo": "연습경기를 통해 팀 컨디션을 끌어올리며 브라질레이렁 재개를 완벽하게 준비했습니다.",
+      "fanTakeKo": "리그 복귀, 준비 완벽했군요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanNfdmhUMjk2SndCemNHVGlHdzZVVWtTTjFKM0NQdng4bDJZcTNYV1gweFR",
+      "title": "Palmeiras vence Juventus em jogo-treino com gol de Felipe Anderson - LANCE!",
+      "summaryKo": "펠리페 안데르손, 연습경기서 득점하며 맹활약",
+      "excerpt": "Palmeiras vence Juventus em jogo-treino com gol de Felipe Anderson&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanNfdmhUMjk2SndCemNHVGlHdzZVVWtTTjFKM0NQdng4bDJZcTNYV1gweFRDSlF2NlRUY01GQUE5Vlh6ZGcyNjNoYUo2cE5DdEVpUHpNbmpLMFlzVTk4ZGJjcHVuTnpDNlpPc016VzdnYVVjSjc5VWhNbmIwRGVvUnNKR0NmektrQjhoVkRiWVRyOVdYYkx3bERSY2lnbWJ3S29FU1A5dkpmZw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-11T19:06:26.000Z",
+      "whyItMattersKo": "주요 공격수의 득점은 팀의 공격력 회복과 선수 개인의 컨디션 회복을 보여줍니다.",
+      "fanTakeKo": "펠리페 득점에 안도했어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlYtTEY2RVl3SzZYa2tVNzM2bkY4eEc2aTdUNFNldGZRUjlEbVJOeXdmV1J",
+      "title": "Palmeiras proíbe uso de celulares e cria espaço para leitura voltado para jovens da base - Máquina do Esporte",
+      "summaryKo": "파우메이라스, 유스 선수들 휴대폰 금지 및 독서실 운영",
+      "excerpt": "Palmeiras proíbe uso de celulares e cria espaço para leitura voltado para jovens da base&nbsp;&nbsp;Máquina do Esporte",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlYtTEY2RVl3SzZYa2tVNzM2bkY4eEc2aTdUNFNldGZRUjlEbVJOeXdmV1JDbWVpX2NkWTNxSUdEbk1fMV9LTnRITm0tZ2FXUUZBdm9mTlhKT0FyQ1doclVuelB3Y0xHcklDZ3RWT0pSdk93UUxjRUZacU1qV2tOeng4VndoWS0zRG05cTVrRWdnLVpIZmFSektBdXo3SXU4cTVGLTl1TzBEeUREZTRocEIxLVpsVW1aY1djcU1aN1VXR3NKSGNYMg?oc=5",
+      "source": "Máquina do Esporte",
+      "language": "pt",
+      "publishedAt": "2026-07-11T19:00:00.000Z",
+      "whyItMattersKo": "유망주들의 정신적 성장과 훈련 집중도를 높이는 클럽의 체계적인 육성 시스템입니다.",
+      "fanTakeKo": "유스 육성에 진심인 클럽이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVlsM1NCSUpha1BfeEFFYWlXOTBteERSVUhEMVphTl9WRDdSbFl0MUVJN21",
       "title": "Palmeiras vence Juventus por 3 a 1 em jogo-treino na Academia de Futebol - palmeiras.com.br",
@@ -46,22 +110,6 @@
       "publishedAt": "2026-07-11T16:51:52.000Z",
       "whyItMattersKo": "국가대표 선수들이 복귀하면 팀 전력이 완성돼 앞으로 경기에 유리해질 겁니다.",
       "fanTakeKo": "드디어 전력이 다 모이네요, 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
-      "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
-      "summaryKo": "파우메이라스, 다닐로 영입에 유럽 4개 클럽과 경쟁",
-      "excerpt": "Palmeiras tem concorrência de quatro clubes europeus por Danilo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2MzZkF0dENLZkZObkFDODU1cXlNNE1ERThpa1FGS19seU8xZFlUODUxU25PSXBKcnhnZ2R6ODZYOUxXcU1PclNwTVl6VkpSUXRubGZPVkUzLWRBbF9ucURxWHB5cVpxZV8tX2h0NnlSb1FiSE1nRWNhcXN4WFE5ajhCS1pZQ2VWVlBFbjVjclN4b1RnaWlyQ0laT3VnQWRuMi1rQmNPTjhhR3Njd2xoVXdn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-11T16:38:25.000Z",
-      "whyItMattersKo": "유럽 빅클럽들이 관여하면 영입 난이도가 높아져 이적 시장에서 전략이 필요합니다.",
-      "fanTakeKo": "유럽팀과 경쟁이라니 걱정되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -906,54 +954,6 @@
       "publishedAt": "2026-07-10T18:33:22.000Z",
       "whyItMattersKo": "컵 일정 이후 팀의 경기 일정을 확인하고 응원 시간을 미리 정할 수 있습니다.",
       "fanTakeKo": "곧바로 경기 뛰는 날 기대된다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMingFBVV95cUxOWThiUGh4MVRSay1xVVNjUVhyb1otZDZaSTM0QkZ5V2dlQUJQWktjdjdYdWR",
-      "title": "Baiano, Danilo entra na mira do Palmeiras em negociação de R$ 120 milhões - Bahia.Ba",
-      "summaryKo": "파우메이라스, 다닐로 영입에 120억 제시설",
-      "excerpt": "Baiano, Danilo entra na mira do Palmeiras em negociação de R$ 120 milhões&nbsp;&nbsp;Bahia.Ba",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWThiUGh4MVRSay1xVVNjUVhyb1otZDZaSTM0QkZ5V2dlQUJQWktjdjdYdWRDOExDNGM1b3BTbzN0VkdhS044VWFXTXRIbVdNamJET2N5V05uSkJLb3BIU056NTYwRUpGcW53OXNWRjRrakdzVXlSQnpxMXNsWXlrOTRQX29lZmstZ0l2NUlEMGhabVJSNHR3WDkza2J5dw?oc=5",
-      "source": "Bahia.Ba",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:22:00.000Z",
-      "whyItMattersKo": "거액을 투자해 영입을 추진한다는 점에서 팀의 핵심 전력 보강이 기대됩니다.",
-      "fanTakeKo": "거액 영입이라니 파우메이라스다워!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHRqS3plMVYyb3ZGZnZrS192Z1ptbTczaVpNMUk0QkRHYWpwQzdtaFFISG",
-      "title": "Giro do Brasileirão: Neymar em Orlando; Danilo no Palmeiras?; Memphis renova? - GE",
-      "summaryKo": "다닐로 파우메이라스 이적설 포함 브라질레이렁 소식",
-      "excerpt": "Giro do Brasileirão: Neymar em Orlando; Danilo no Palmeiras?; Memphis renova?&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHRqS3plMVYyb3ZGZnZrS192Z1ptbTczaVpNMUk0QkRHYWpwQzdtaFFISGo1S01Ua0FXLU4zb1Rtc3NGM2RUYmNvNFg4WTlSbDVJaHIyRV91Yi12dXB6aXM2V2JscGpPTHNGYXFzV0I1b1BadFNSV2g0ZWdjbjQyeHpwOEwtb21xc2tYWjRORlRjLWFYcWloYWxxeU52bGwyaFJ3b0Y2TkJVU05wck1QVjFOZ3HSAcMBQVVfeXFMT3A2WFAxZER5cG1pbm9IN1JqVkhQd05OVXIxRGJVbnFYd29IRDczUE5IR0gxZFpBX1duNVI3STJqZFNBcmRwMi1qaFBhME1DQTJfT2x3Ui1BdE9LNy1YS0c2TFNRVkNaVVFFeFk0cHRBZEVXRFJZRnZKWjZUX2JPaWJ0UWZLajl1Nmc5clZmNnFMeHJKaUFuTHhTYk9XT2ZIVXRVbm5Ud1FiYXBlWC1yTDJRbXV1a3BIMTM5Tm1KYzFuQUJn?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:20:32.000Z",
-      "whyItMattersKo": "다닐로 영입설 등 이적 시장의 루머가 팀 전력 보강에 미칠 영향이 주목됩니다.",
-      "fanTakeKo": "다닐로 영입은 진짜일까요? 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMipgFBVV95cUxPQURUdm1CcXM0d0hib3JOT1IyclpZTm9QOEkzMm94di1KdnU0VnhLZU5zUVh",
-      "title": "Palmeiras conta com vontade de Danilo e aguarda resposta - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스, 다니유 잔류 의지 기다린다",
-      "excerpt": "Palmeiras conta com vontade de Danilo e aguarda resposta&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQURUdm1CcXM0d0hib3JOT1IyclpZTm9QOEkzMm94di1KdnU0VnhLZU5zUVhEUG1MZXNybFduZG53R2EySXJWQlIwemdaUE5rdjVQSC1tVjV3ZHYzeE9VdEs3UmpBajM2bmxJTldfLVdTVGxvb2NzZEZETjZseUxrWlY2RDUwNW1veUpROWRsUGg2Q2JySWxDVC1oU1BhNWU2am5idEpB?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-10T17:37:47.000Z",
-      "whyItMattersKo": "핵심 미드필더의 잔류 여부는 팀의 시즌 목표 달성과 중원 전력에 큰 영향을 줍니다.",
-      "fanTakeKo": "다니유 꼭 남아줘, 제발!",
       "tags": [
         "뉴스",
         "AI요약"
