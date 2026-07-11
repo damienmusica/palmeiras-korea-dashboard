@@ -1,8 +1,22 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T20:50:00.764Z",
+  "fetchedAt": "2026-07-11T21:51:11.934Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjE0M0x1NzcwdksyZURVbVJobzVPZy1BZDR6V2xaeVdHV245VFNnLTlLT01",
+      "title": "Ferroviária vence Palmeiras e dispara na liderança - PortalR3",
+      "summaryKo": "페로비아리아, 파우메이라스 우승 및 선두 슛 - PortalR3",
+      "excerpt": "Ferroviária vence Palmeiras e dispara na liderança&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjE0M0x1NzcwdksyZURVbVJobzVPZy1BZDR6V2xaeVdHV245VFNnLTlLT01idE0tWUZOTkI1T1UwTWFMSGVPdmVyNW1qUGpYT3RQZFlYRGZfTUdhQUxUNUkyckd2Q0pSZDNDZlAxVnVjVG16OFE3UFFfWjlQLXpNWlBFVERhbkVtVDJDYkREWUNVaGtPQ1E?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-11T21:28:09.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZElaUS03S1ZiYmZCRFF6eTdaNUhySW0xdUVrTi1oTmJ4cUg2aE41U3VMaHc",
       "title": "Flamengo x Palmeiras feminino: onde assistir à final da Ladies Cup - LANCE!",
@@ -97,6 +111,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk12dTRjUzRJeTd3eF91UDIzRmlnV3BELVdVXzhLRVB3Z19hbjZlaTZrVEd",
+      "title": "Com Barboza, Palmeiras vence o Juventus em jogo-treino na Academia - ge",
+      "summaryKo": "바르보자와 함께 팔메이라스는 아카데미에서 훈련하는 경기에서 유벤투스를 이깁니다.",
+      "excerpt": "Com Barboza, Palmeiras vence o Juventus em jogo-treino na Academia&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk12dTRjUzRJeTd3eF91UDIzRmlnV3BELVdVXzhLRVB3Z19hbjZlaTZrVEdsZTVrTjE4MUtGM3p4UnlIenFGNUxxSkRKNGE0eFU1QjFBdnprcXhaYl8zM3p6dmZZUmxZbEdzMGNJVlplSy13LTF4TFlPWVFQZlZpRENUUHRuanRQQ1JJVk9WNU44X1Z0S1lBTTB1ZHVRbkFRTWhnSlpxc3JDd19EZlRhSmV4LUpmVk5kUHYwdk40b1ROaUdydl9yU21VSHZtUmhD0gHfAUFVX3lxTFBBZ2JSZnp2TGMyZjQteEVVeXBxcmtOQ3hwcGZpajRwSHRfZ2JuYTI0LVlvSFRUZDdQOU9iSUpHem1YdTRoaVVlUkpmRmZLU3d3TTdvMDN3c1FWeGhJZFRsQW1JRjNQSWFhNnBSOVluSGxfT092ZkRhLXpOYzc4bWxseGZUZDhjanZFM1JBbGFKbFJhR0JLMkE4a09ucnRIa2pzU2RxSHd0WW9XWUZUTUxrbFZmOVQxZXFydWkzOXBtc1ZBXzlKYUpRVnhUQ3o4bEVaTTk3YjNvVDVLNWJlM3c?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-11T18:13:51.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -922,38 +950,6 @@
       "publishedAt": "2026-07-10T18:56:35.000Z",
       "whyItMattersKo": "팀 전력 보강을 위한 구체적인 이적 계획과 선수단 구성 방향이 잡혔습니다.",
       "fanTakeKo": "기대되는 이적 시장이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-25-https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUhPanhCNjdOaTEtbUdrWkJ4SkM5RG5oUGlkNGYzRk9HMWFqMVVnc0Iyb0",
-      "title": "Tá quente? Saiba o que pensam Danilo, Palmeiras e Botafogo sobre tempo de negociação - Nosso Palestra",
-      "summaryKo": "다닐로 이적설, 파우메이라스와 보타포구 생각은?",
-      "excerpt": "Tá quente? Saiba o que pensam Danilo, Palmeiras e Botafogo sobre tempo de negociação&nbsp;&nbsp;Nosso Palestra",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUhPanhCNjdOaTEtbUdrWkJ4SkM5RG5oUGlkNGYzRk9HMWFqMVVnc0Iyb0dJa1BiU1lhVGdpNGlwaFFhSDk0dGJLZUxVMG53a2pyTmE3MUlVbW1vVEdzOU9MN3Q4d0w5QTktWVNwMEJPUE1MRkFrZC1FTF94ZjR1MVlZTmVwRUJ3SVJUNnZSblQ3TmtHZi1hRW0tUENnQWcxcVZVWGNTbFNFbjJ6S3VPb2pkNDVyVmFhVVpkY3Jn?oc=5",
-      "source": "Nosso Palestra",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:51:10.000Z",
-      "whyItMattersKo": "주전 미드필더의 이적 협상 진행 상황은 팀의 시즌 준비와 전력에 중요합니다.",
-      "fanTakeKo": "다닐로 잔류를 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0h2RzRzUXBkSERiV2lMRjJFSFJSdkRVQlRqY0JuLU92dmdOS0dpdTR4bXV",
-      "title": "Palmeiras mede forças com Ferroviária pela quinta rodada do Paulista F Sub-20 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 U-20, 페로비아리아와 맞대결",
-      "excerpt": "Palmeiras mede forças com Ferroviária pela quinta rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0h2RzRzUXBkSERiV2lMRjJFSFJSdkRVQlRqY0JuLU92dmdOS0dpdTR4bXVaMTRSVnR1MXdHcks4UVZqYUpuUEs5bEZ2YWotY2tMbXg1S3JqNDRWRHQ4cXJDYS1NNnRLWHNDZHVScHdaUWRVanIyMFFCYXNBd3hUcHJsNjhCbmlnbE82TVpjeEFWLWkzOVVSSGM4S0NnSlpPVzlfNTdaR1lQQTVfX2dpQURBX0kzOUk?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:50:23.000Z",
-      "whyItMattersKo": "클럽의 미래를 책임질 유망주들이 경기를 치르며 성장하는 과정을 지켜볼 수 있습니다.",
-      "fanTakeKo": "유망주들의 활약 기대된다!",
       "tags": [
         "뉴스",
         "AI요약"
