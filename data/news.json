@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T11:53:12.514Z",
+  "fetchedAt": "2026-07-11T13:21:38.765Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUF",
+      "title": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa - UOL",
+      "summaryKo": "파우메이라스, 우승 위해 돈 버리기도 감수",
+      "excerpt": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUFoTnRQWmdvTnlmcVJ2Wl9SQzJJSzBIUHJsVEhLNEZBVzJDZFRqZE9DSVo5RV9DQzFkWkpKaFRTbGQ0aU5FZWFidGFSXzlsVHQ3Y0M4Z1BRZGFJZnZsY1l2WGpqVGQxR2h4eTVpOXNFbEhidkttOFNHTGZ4ZUY4c040QjU3NXFTQ1BuSVIteHJRWndUcFNnazNIU0hiUmhqanJsdGduWng5NkhpMm82NGRDcmdN?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T12:02:06.000Z",
+      "whyItMattersKo": "팀의 우승 목표가 재정적 이익보다 우선순위에 있음을 보여주는 대담한 결정입니다.",
+      "fanTakeKo": "우승이면 그 정도는 괜찮죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV09RZnQ2Z2J4TGttcmFMczVzMkk1M0NYZkZNQXlYbDJkclI3WVRpZVhyQ1J",
+      "title": "Palmeiras espera Flaco López para ter elenco completo após a Copa - Notícias ao Minuto Brasil",
+      "summaryKo": "파우메이라스, 플라코 로페스 복귀 기다려",
+      "excerpt": "Palmeiras espera Flaco López para ter elenco completo após a Copa&nbsp;&nbsp;Notícias ao Minuto Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV09RZnQ2Z2J4TGttcmFMczVzMkk1M0NYZkZNQXlYbDJkclI3WVRpZVhyQ1JYUFhQVmVKNVVrSDhNdi1pekxPTzFQM1M5TnVXdFZyRGlmaUdPOWo2M0FIVUxMNlRRQ0RQNWZ1NGJvRGRfcFUxZG1TakVBTnBfRHZ1clFXNkRKVXBfZ3k5Ui1xc2FjN21vc2J1THRtTEdNS2ZuTXVhWFRLSmpMZV9fZThxOFVibExMZms5?oc=5",
+      "source": "Notícias ao Minuto Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-11T12:00:10.000Z",
+      "whyItMattersKo": "국가대표 차출이 끝나고 선수가 합류하면 완전한 전력으로 경기를 치를 수 있습니다.",
+      "fanTakeKo": "로페스 빨리 돌아왔으면 좋겠다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkhDXzh3S0FlWkY0TEFhOGhzTmh2MUtxbEgtZjlzUzV4RXhkN050VFNWZmV",
+      "title": "Palmeiras, Santos e São Paulo entram em campo pelo Paulista Sub-20 - PortalR3",
+      "summaryKo": "파우메이라스, 산투스, 상파울루 청소년팀 경기",
+      "excerpt": "Palmeiras, Santos e São Paulo entram em campo pelo Paulista Sub-20&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkhDXzh3S0FlWkY0TEFhOGhzTmh2MUtxbEgtZjlzUzV4RXhkN050VFNWZmV1enBOT0hEUzZ6SFo3Z0dMOVpGcUl4ZTZhLWloekxMM04zTWdaRHF5RFpscFpnWnVEV2dyRnl5anhKZkxxM0JqQk9UeE9Rejl4c3pCdHdpaTJaU3ha?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-11T11:53:05.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 경기라 클럽의 유스 시스템과 신인 발굴에 중요합니다.",
+      "fanTakeKo": "유스팀 경기도 응원해야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbkRZeHhibEdDQS1CaUxSbXA3am1zSzY2QUF2T0IyUmVPV2NsQWhVd3NZbFl",
       "title": "Allan Aal lembra conexão antiga com o Avaí e revela \"desejo da família\" ao assinar com o clube - ge",
@@ -30,22 +78,6 @@
       "publishedAt": "2026-07-11T10:00:00.000Z",
       "whyItMattersKo": "미래의 에이스를 발굴하는 유스 리그는 팀의 장기적인 전력을 보여줍니다.",
       "fanTakeKo": "미래의 에이스들이 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUF",
-      "title": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa - UOL",
-      "summaryKo": "파우메이라스, 우승 위해 돈 버리기도 감수",
-      "excerpt": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUFoTnRQWmdvTnlmcVJ2Wl9SQzJJSzBIUHJsVEhLNEZBVzJDZFRqZE9DSVo5RV9DQzFkWkpKaFRTbGQ0aU5FZWFidGFSXzlsVHQ3Y0M4Z1BRZGFJZnZsY1l2WGpqVGQxR2h4eTVpOXNFbEhidkttOFNHTGZ4ZUY4c040QjU3NXFTQ1BuSVIteHJRWndUcFNnazNIU0hiUmhqanJsdGduWng5NkhpMm82NGRDcmdN?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-11T09:25:20.000Z",
-      "whyItMattersKo": "팀의 우승 목표가 재정적 이익보다 우선순위에 있음을 보여주는 대담한 결정입니다.",
-      "fanTakeKo": "우승이면 그 정도는 괜찮죠",
       "tags": [
         "뉴스",
         "AI요약"
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-10T14:14:18.000Z",
       "whyItMattersKo": "영입은 연기됐지만 여전한 관심을 보여 향후 공격진 보강에 기대감을 줍니다.",
       "fanTakeKo": "제수스 영입, 아쉽게 미뤄졌네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3AFBVV95cUxONlROdGUycWtsVFdIZHdMMWpYSkdLX3pMU3hlOFRtLXc0NnVNVkZIcE9ZYWR",
-      "title": "Palmeiras espera ofertas por destaque da Copa do Mundo - Terra",
-      "summaryKo": "파우메이라스, 월드컵 주역에 제안 기대",
-      "excerpt": "Palmeiras espera ofertas por destaque da Copa do Mundo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONlROdGUycWtsVFdIZHdMMWpYSkdLX3pMU3hlOFRtLXc0NnVNVkZIcE9ZYWRYYi13SVlaZFRtNTBTNGczNGdpaFQ1MXE5RlRVWlhzVGlrd2hwR0xyN0lCdmZETXRyd0F5cDRscUpYNnJEalJ3SDdINUlab1RFdHNUU3VvUTdEN21rbENhQ0ZNMDRYVFVXLUlqR0R1MFpvZjhFLTBaRmNXRWlhQ01jWnpMUWZwcnlZRW8tLTljeUVLX1hSZ2dxb3QyUnVxbk9kcC1nd19qNzVCczdiRS1D?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-10T14:07:00.000Z",
-      "whyItMattersKo": "주전 선수의 이적 제안이 들어오면 팀 전력과 재정에 변화가 생깁니다.",
-      "fanTakeKo": "이적료 폭등하길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMizAFBVV95cUxOQktNSjUzSmxyQ3plVUJ6SzVhdFVSaFBHa1g2M18wRkxRLWhjTFliNk5mX0h",
-      "title": "Por que Palmeiras tem Danilo como único alvo no mercado (e por que isso pode mexer com função de Andreas Pereira para Abel) - ESPN Brasil",
-      "summaryKo": "다닐로 영입 유일 목표…안드레아스 역할 변화?",
-      "excerpt": "Por que Palmeiras tem Danilo como único alvo no mercado (e por que isso pode mexer com função de Andreas Pereira para Abel)&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQktNSjUzSmxyQ3plVUJ6SzVhdFVSaFBHa1g2M18wRkxRLWhjTFliNk5mX0hOeGdhSHJ5QWVyOEdPclZzUUtVWU1DV1ZXRVdoR19heEtUNW1QSGdPUW9xX0JLUVd6VXRRbm9kNkpkQWZvYUFhR1A2TEtyZGxibkxmdEhucEt3NGtlRzAxUnRqRkJMMndVTkFRa2E3d1Y0NjJzZmFEeC1OZVpYeXJsaGNFXy1IeEpfWHZhQ2QxN0tkVnhlYnJJUmpEM01qVkE?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-10T14:07:00.000Z",
-      "whyItMattersKo": "다닐로 영입은 아벨 감독의 전술과 안드레아스 페헤이라의 역할에 영향을 줍니다.",
-      "fanTakeKo": "다닐로 오면 전술이 바뀌나?",
       "tags": [
         "뉴스",
         "AI요약"
