@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T07:11:41.937Z",
+  "fetchedAt": "2026-07-11T09:07:33.321Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUF",
+      "title": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa - UOL",
+      "summaryKo": "파우메이라스, 우승 위해 돈 버리기도 감수",
+      "excerpt": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUFoTnRQWmdvTnlmcVJ2Wl9SQzJJSzBIUHJsVEhLNEZBVzJDZFRqZE9DSVo5RV9DQzFkWkpKaFRTbGQ0aU5FZWFidGFSXzlsVHQ3Y0M4Z1BRZGFJZnZsY1l2WGpqVGQxR2h4eTVpOXNFbEhidkttOFNHTGZ4ZUY4c040QjU3NXFTQ1BuSVIteHJRWndUcFNnazNIU0hiUmhqanJsdGduWng5NkhpMm82NGRDcmdN?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T08:30:00.000Z",
+      "whyItMattersKo": "팀의 우승 목표가 재정적 이익보다 우선순위에 있음을 보여주는 대담한 결정입니다.",
+      "fanTakeKo": "우승이면 그 정도는 괜찮죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFExODZJcXhLVTRWZVdXbVpBbjVMS3Y3SE83a2hKWVFUSVZReEVBLVFIM1d",
+      "title": "Danilo nos planos? Abel define alternativas para Palmeiras no segundo semestre - Rádio Itatiaia",
+      "summaryKo": "다닐루 영입? 아벨 감독 2차전력 점검",
+      "excerpt": "Danilo nos planos? Abel define alternativas para Palmeiras no segundo semestre&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFExODZJcXhLVTRWZVdXbVpBbjVMS3Y3SE83a2hKWVFUSVZReEVBLVFIM1d5SzFWOWlnWmN1azJpaHZwWkU1Y3V2Tk4tbFk0eEhQQUR6M1Fuakp0OHhheU54ZWt3anhVVl95YTBZY0p2QVQ3WkFXbFNEVTBjNkhEdzdUaEVUWUVvcnZZWlJXWWJaaVZtelQ5MWFiUHVrT0FqSFNSUW1iTmM2ZVp4X1c4QXdZQkVHS0R1OVZYX3F2MHZBdXNyNnoxT0U1OW5XQkEwdzlBaks5SG1aYkwtd0txNVNTSUJaS0N4alIyYjVtMWRKOENmcnQ2SUJyVQ?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-11T07:45:31.000Z",
+      "whyItMattersKo": "하반기 선수 보강 전략과 미드필더 자원 운용 방향을 파악할 수 있는 기사입니다.",
+      "fanTakeKo": "다닐루 오면 미드가 강해지려나?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0xiV3Nrd0xwbTBDZHg5cHZMYW1iVEtTWXdxYlM1M2lmeEo5Y3NZM25vcnM",
       "title": "Palmeiras aguarda Argentina para ter elenco completo; veja time do segundo semestre - GE",
@@ -218,6 +250,22 @@
       "publishedAt": "2026-07-10T21:17:29.000Z",
       "whyItMattersKo": "경기 입장권 가격과 구매 방법이 확정되어 직관 계획을 세울 수 있습니다.",
       "fanTakeKo": "빨리 티켓 예매해야겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYlF5ajR0Y1FVY2xnZjJSOVliNWZzLUNNdml6UUtTdlk2elpHYXdIWXBhTU",
+      "title": "Vitor Roque avança na recuperação e participa de treino do Palmeiras - GE",
+      "summaryKo": "비토르 호키, 회복 돌입하고 팀 훈련 합류",
+      "excerpt": "Vitor Roque avança na recuperação e participa de treino do Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYlF5ajR0Y1FVY2xnZjJSOVliNWZzLUNNdml6UUtTdlk2elpHYXdIWXBhTUpqYVhYWWRjUTRVaVM5SFUwRUNSMnRyNWlFY1hkLUxlSU1FdjBCWXRzTTlHcFQ5STZNRTBpempOenVsVnYwMVd5QVVzby1SaWpMbElzU1ptVVlqaGN1SUVDZGhMY3dKRTQ5bTJ1YUM4Q1RGWWFUb29YY1VhQmdOQlU5bk1DSDFlcEdRZWg0c010TzR1cVdzRkpMci16VDNWSzZLSUtKOWhZcdIB4wFBVV95cUxOb1NmVENQcHpxbDNEUWYyaktRbWFhNF8yRVZlOElrdW91aU9sQ3VNaDhjanhtVEpENmU1a1RCdkRLVi1tc0FUSnJlVE1LYTI3LVk4Y2xZNGgzZkEwTXdRaFZhTzZ1Xzk5eGw1RWRaMy05cGpib3d1WW0wVjdIY0tUOGdOUHNUWkllb3RVWklyUmxtbEhCdlR4bVNvanRXc0FoVWctNUxfLWdhWlRBRzRsLV9yVE40UUNUUUR1Q0s0bDlHTHV2VjhiUUp1LWhrUHgyWkNzQlRhcFRZMkNYMzFrcUl6Zw?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-10T21:05:54.000Z",
+      "whyItMattersKo": "주요 공격수의 복귀가 임박했다는 신호로, 공격력 강화에 긍정적인 신호입니다.",
+      "fanTakeKo": "호키 빨리 득점하는 거 보고 싶네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -905,50 +953,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMikAFBVV95cUxORkU5VmFEVl91VjlTZUhkWHc2UGRxZ3lFSVdCelRMd1cycFNxQW1NRHVXWFd",
-      "title": "À espera do retorno do Brasileirão e do duelo com o Palmeiras, Tigresas vencem amistoso contra o Sub-15 masculino - MixtoNet",
-      "summaryKo": "상대 팀, 파우메이라스전 앞두고 연전",
-      "excerpt": "À espera do retorno do Brasileirão e do duelo com o Palmeiras, Tigresas vencem amistoso contra o Sub-15 masculino&nbsp;&nbsp;MixtoNet",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkU5VmFEVl91VjlTZUhkWHc2UGRxZ3lFSVdCelRMd1cycFNxQW1NRHVXWFdUeGpZZnFVdndPTDFRU3U5eHdTWE14REFsaVpfN3I5WEhZWXdNYkNyNVI4Sm9QRmFrZGU3N1VKeHlhc2x0WFM4R2dPRGFtenRoYmM0TWxRZUhnblhlOGVTUUM2aGM?oc=5",
-      "source": "MixtoNet",
-      "language": "pt",
-      "publishedAt": "2026-07-10T13:33:00.000Z",
-      "whyItMattersKo": "리그 복귀를 앞둔 상대가 파우메이라스전을 겨냥해 실전 감각을 끌어올리고 있습니다.",
-      "fanTakeKo": "상대가 만만치 않게 준비하네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlJlUW9jZnBtejhvLVA3dWEzcXhPOGgtMVJOZ3FzaFBSZVU4X1Nta2toODl",
-      "title": "Palmeiras aposta na contratação de Danilo para fechar elenco em 2026 - cnnbrasil.com.br",
-      "summaryKo": "Palmeiras는 2026년에 캐스팅을 마감하기 위해 Danilo를 고용하는 것에 베팅합니다 - cnnbrasil.com.br",
-      "excerpt": "Palmeiras aposta na contratação de Danilo para fechar elenco em 2026&nbsp;&nbsp;cnnbrasil.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlJlUW9jZnBtejhvLVA3dWEzcXhPOGgtMVJOZ3FzaFBSZVU4X1Nta2toODlGWktfcDVhSkx5YnY2R2cyVTlaR3AtWWRXdE5ja19fN1U1UWxPaG1oZ211TWE3NlFTX2RuTTk3VC1yN3lBcE83MUpBT0ZobUJtTzZFNGZQSW0yblVzSGxrM3hNb3d2WkZLdHRRMzg4bmlHTUNQQzJPbTdreUNleGJhR0JWMC1aMG9Dbi1nU04wZGlZbkI1Y28?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-10T13:30:39.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm4yNEwxTXNPTnJFU3J0T1BSQ1lHVW53MzlvYUNiblA1TmZ2a09DYU51dnJ",
-      "title": "Base do Grêmio vence Palmeiras e mantém boa campanha no Paulista - Jornal Primeira Página",
-      "summaryKo": "Grêmio의 기지는 파우메이라스에서 승리하고 Paulista - Jornal Primeira Página에서 좋은 캠페인을 유지합니다.",
-      "excerpt": "Base do Grêmio vence Palmeiras e mantém boa campanha no Paulista&nbsp;&nbsp;Jornal Primeira Página",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm4yNEwxTXNPTnJFU3J0T1BSQ1lHVW53MzlvYUNiblA1TmZ2a09DYU51dnJWVm8tWlpFb3lHMjZWelhjeUFpckFMcGhPMFZTVXhHTi0wNjNpMkdobmZ6VFB0ak9BQ2Fub1M1Y2kydzFNT2NTcGxtMC10S1d3bW8zSXhpN1BtS3VsQ3dpR0dSdkRtMGh0UDlsSERSc3l4Wk5ITVlhX0tOQ3ZPQQ?oc=5",
-      "source": "Jornal Primeira Página",
-      "language": "pt",
-      "publishedAt": "2026-07-10T13:29:28.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
