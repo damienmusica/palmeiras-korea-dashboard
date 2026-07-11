@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T19:42:46.652Z",
+  "fetchedAt": "2026-07-11T20:50:00.764Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZElaUS03S1ZiYmZCRFF6eTdaNUhySW0xdUVrTi1oTmJ4cUg2aE41U3VMaHc",
+      "title": "Flamengo x Palmeiras feminino: onde assistir à final da Ladies Cup - LANCE!",
+      "summaryKo": "파우메이라스 여자부, 플라멩구와 결승 맞대결",
+      "excerpt": "Flamengo x Palmeiras feminino: onde assistir à final da Ladies Cup&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZElaUS03S1ZiYmZCRFF6eTdaNUhySW0xdUVrTi1oTmJ4cUg2aE41U3VMaHcxNUtuNXA0S1UwVldQWTMzV3FodEROTzJtZmhfQ2ZoWjg3S0FGN3pOcFVaRUtBU2E5aVkyTlRRaUVJcVFMSWI3alBRZGRIcEFTMC1vZ0ZNY0VWTExpckRVa256MGIyWnRjRUVWUDY3VC1xUTRQZGQ5ZTRpS1c?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-11T20:42:00.000Z",
+      "whyItMattersKo": "레이디스컵 우승을 두고 플라멩구와 결승전을 치르는 중요한 경기입니다.",
+      "fanTakeKo": "여자부도 트로피 가져오자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3V0M3k0bEtCRXFaV1dhYVVpTDIteUZTWWViNURHQ3NYZmFfeHBlX1VBWDF",
+      "title": "Barboza, ex-Botafogo, participa de primeira atividade com elenco em jogo-treino do Palmeiras - Tribuna do Sertão",
+      "summaryKo": "보타포구 출신 바르보자, 팀 훈련 첫 합류",
+      "excerpt": "Barboza, ex-Botafogo, participa de primeira atividade com elenco em jogo-treino do Palmeiras&nbsp;&nbsp;Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3V0M3k0bEtCRXFaV1dhYVVpTDIteUZTWWViNURHQ3NYZmFfeHBlX1VBWDFGQTNyWE1VUVJPR1g1WWo5NFROcUVTQ0FNbUZRLVRhdWdsd09GX1BTRzVBVTYtTHVJYTdKRFB4WnNPXzluMnhZQjg1ZENFZU9TclhuNWUtam1jQ1ZCZDNRRXc1MnFfa1BDbmo4YV9hT3YzUnNLNGp2cUUtcVJmd2dDOGZZUXp6WGFiaGd6SmNMak96YmhweXNuZV9kN2tOb19yYWE3dlNZUnVyekkwbHZSZllWOWs3cEdmd0k?oc=5",
+      "source": "Tribuna do Sertão",
+      "language": "pt",
+      "publishedAt": "2026-07-11T19:44:00.000Z",
+      "whyItMattersKo": "새 영입 선수가 팀 전술에 얼마나 빨리 적응할지 주목해야 할 시점입니다.",
+      "fanTakeKo": "바르보자 활약 기대한다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
       "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
@@ -345,7 +377,7 @@
       "summaryKo": "알란 아알, 아바이 이적에 가족 뜻 반영",
       "excerpt": "Allan Aal lembra conexão antiga com o Avaí e revela \"desejo da família\" ao assinar com o clube&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbkRZeHhibEdDQS1CaUxSbXA3am1zSzY2QUF2T0IyUmVPV2NsQWhVd3NZbFlLMXU3UWt0Y2l3cGpWN3JQZFFERDAyYXZ5Zlo3ckxlcEtnV2dELTJIUENJXzlaTG82WTRES3JaRzFIdjJnX2dVY2I5WWM4SnJCX3NDR2RjV0pYSzBsUVdmSU1LSVUxUGtvaV9vZXFDOWQzRWVwdVJVR3hxYlhGOFIxVVhXaEMyQzNwMExBcHRYbWN5cS02aVlXQ0UxTkFfUE9ZcFR6aTUwci1uNURiQ0k0SzduR0c0M0VrMGFMNzF3YWQ2bVVuQdIBgAJBVV95cUxQTTdBUktialo0endBV0FXaUhZZEZ5cE5NU0FkWlBzQU15N1Zjby1ubWw5MkdxY3lwQ3BIdzB6NmlqQWlZMGdkN3VmSUdheUFVYW5wZktvTE1XWVEwazZyRWw4S2JJNUFHN3RJQmpmZ2VLS0NYcWJHODBaeEphaWdabUR6Sk90UDhJWHF3dE0tRFdYQUFVZDgwU0R3YjVjMTMwVEVyX3liTU5Od3dubjVCcnBtLVVVUzg4azVtNE00RXlKbnJDUE5CRmYtd1IyNDRLRHJMdlFOUERnb21CazdFSW5uS3pKZjFzUnVJRWJvSkdLRXlUWW1wQ2V1OVhWWWxz?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-11T11:00:17.000Z",
       "whyItMattersKo": "파우메이라스 선수가 아바이로 이적하며 팀 전력에 변화가 생겼습니다.",
@@ -409,7 +441,7 @@
       "summaryKo": "파우메이라스, 2기 전력 완성 위해 아르헨티나 대기",
       "excerpt": "Palmeiras aguarda Argentina para ter elenco completo; veja time do segundo semestre&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0xiV3Nrd0xwbTBDZHg5cHZMYW1iVEtTWXdxYlM1M2lmeEo5Y3NZM25vcnMwN255NFc1dnpYMVRvSXlyQVN1MnVRd0ZTSzJoQUpVTVJmdGtPVE5JbkxJRmtSUDh4Vzl4OTdJOWJsOWFFTXd6MkxnQXg2ZllwdklVZXg1RmJOeU1hUUNfSDV1N3REeE94cTR6b0lDdjR2TDU4akEyQ3oxTmFFZGZidmpnREptY3lvUjlwVEhLSU1EeWtCdFZWS1Eyd1phUm51VWtlWE5DVHVobGotbHFhQmROSHdvemhEbTTSAfYBQVVfeXFMUGhMVTNzUks2ZGMzSnBlZ2FjajJTWVlFVC1pY3hIQkpqZFJOYzE5dzdoaFpzRGV2SWVDNk92V3VZcFl5UExxV1RFSVhlTDF2eldEOUdKWEU1NFNrYUY3SEx4M1pybm1OUG1Qd2NoM0Q3dkVrMWdRNE1HRVFqenBvRlNic3p1MHBCbFlXLVlITHFaMUlieFpuNzRRSG9aTUNGcVlnS1U1QWluanV3RHRXSVVFOHZHLTdZN0lZaW92UGZFV0hoanV3OW9iYWRkWWNnV3hqVTA0REVrZjVsX3MtNnNINHZrelRnTk50dkRSa3RPdndCR0Rn?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-11T07:00:46.000Z",
       "whyItMattersKo": "2기 시즌을 앞두고 팀 전력을 완성하는 과정이 향후 성적에 큰 영향을 줍니다.",
@@ -922,38 +954,6 @@
       "publishedAt": "2026-07-10T18:50:23.000Z",
       "whyItMattersKo": "클럽의 미래를 책임질 유망주들이 경기를 치르며 성장하는 과정을 지켜볼 수 있습니다.",
       "fanTakeKo": "유망주들의 활약 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOURFMDViS0NyQnpVcEQ3TEgtNlp5bUVJbGZCZ1QtWmplTEpISzlQZmYwZ1",
-      "title": "Palmeiras descarta Gabriel Jesus neste momento e projeta quando o atacante deve voltar - Antenados no Futebol",
-      "summaryKo": "가브리엘 제수스, 당장은 부전... 복귀 시점은?",
-      "excerpt": "Palmeiras descarta Gabriel Jesus neste momento e projeta quando o atacante deve voltar&nbsp;&nbsp;Antenados no Futebol",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOURFMDViS0NyQnpVcEQ3TEgtNlp5bUVJbGZCZ1QtWmplTEpISzlQZmYwZ1hEdXk5M3ZOY0QzcDlyM1QxUHB1eXlkZGdGVXdnM1ZVemdlUDlZbEl2U2JyLS1Gb09kamc0bUp0cWRoNkd2OXFxU3pZa0dGSGgwRUtLWWFTbS1Qb0hDYmJRZXFnLWpiazd3c0F5X2RsamVjdEJlTmU5VHVNUUkwXy1zZWhzNkFBa0tjX3hJX3l3dXJ0WkxTWU9uYmxFTFBkRW5YVHh1OU14c0Y3WVQtY1o4WWc?oc=5",
-      "source": "Antenados no Futebol",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:45:38.000Z",
-      "whyItMattersKo": "공격수의 복귀 일정 확인은 팀의 공격력 회복과 경기력 예측에 필수적입니다.",
-      "fanTakeKo": "제수스 복귀가 기다려지네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjk5VzB0U01Ib1JDRXY5ZGJ4bDRJTHM3a1dOUXRDczdKaE5SR3FDbE83REh",
-      "title": "Quando é o próximo jogo do Palmeiras? Veja a sequência após a Copa - band.com.br",
-      "summaryKo": "파우메이라스, 컵 일정 이후 경기 소개",
-      "excerpt": "Quando é o próximo jogo do Palmeiras? Veja a sequência após a Copa&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjk5VzB0U01Ib1JDRXY5ZGJ4bDRJTHM3a1dOUXRDczdKaE5SR3FDbE83REh0UmpSc053Yy02WGVzcmh4dnVXOUU4NXdhMEVpZEItNXhISFUxUlJTQ0lsdjdQWVJtRVBtb0NGNWdiMWlFdmxuV3Jia1VnYUxOb3pLeGJFZ3VmQXoySllaa3RidU1ROHp1WkZDVWFNUUhjbXdkVVhSZHZZcXl6cVVubmN2SQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:33:22.000Z",
-      "whyItMattersKo": "컵 일정 이후 팀의 경기 일정을 확인하고 응원 시간을 미리 정할 수 있습니다.",
-      "fanTakeKo": "곧바로 경기 뛰는 날 기대된다",
       "tags": [
         "뉴스",
         "AI요약"
