@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T15:57:18.978Z",
+  "fetchedAt": "2026-07-11T17:05:14.055Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmtqWS13aDl5bEZ2U3FUM29VSGNQM3BMMGNITHBINDZLcFRjd3czTkNRMmk",
+      "title": "Palmeiras aguarda Argentina e fica perto de elenco completo - Jogada 10",
+      "summaryKo": "파우메이라스, 아르헨티나 대표팀 복귀로 전력 완성 임박",
+      "excerpt": "Palmeiras aguarda Argentina e fica perto de elenco completo&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmtqWS13aDl5bEZ2U3FUM29VSGNQM3BMMGNITHBINDZLcFRjd3czTkNRMmktQlJXQnR4TEowb2FFX1o5cm01UmptZTNXU2F0U3A2bzlNaXVGNzdjNHNuRTJHWUtybmExT1A0NC1zcFVVWkFSNU1JSjA5YzgtZjNUUmdqMzJXdTNrOWF6M9IBkgFBVV95cUxOS0ttZU9SZ3FBRFY1WjVzNGVaVEJQM0JPMUF5T3I5VlJXVmxCdWRaeURZX3ZKRk5hN0V1WEZQOTRiZFNYcjYySDZDeDd0WkFjYTlteTFCNnZURGNVdEc4bVBlVzdMRWs0MTZiY2JYcllsZklISG9PTkVYWUVKeEp1V3pDaHJzcEd5eHpBeTNrMzF5UQ?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-11T16:51:52.000Z",
+      "whyItMattersKo": "국가대표 선수들이 복귀하면 팀 전력이 완성돼 앞으로 경기에 유리해질 겁니다.",
+      "fanTakeKo": "드디어 전력이 다 모이네요, 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
+      "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
+      "summaryKo": "파우메이라스, 다닐로 영입에 유럽 4개 클럽과 경쟁",
+      "excerpt": "Palmeiras tem concorrência de quatro clubes europeus por Danilo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2MzZkF0dENLZkZObkFDODU1cXlNNE1ERThpa1FGS19seU8xZFlUODUxU25PSXBKcnhnZ2R6ODZYOUxXcU1PclNwTVl6VkpSUXRubGZPVkUzLWRBbF9ucURxWHB5cVpxZV8tX2h0NnlSb1FiSE1nRWNhcXN4WFE5ajhCS1pZQ2VWVlBFbjVjclN4b1RnaWlyQ0laT3VnQWRuMi1rQmNPTjhhR3Njd2xoVXdn?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T16:38:25.000Z",
+      "whyItMattersKo": "유럽 빅클럽들이 관여하면 영입 난이도가 높아져 이적 시장에서 전략이 필요합니다.",
+      "fanTakeKo": "유럽팀과 경쟁이라니 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGpCSTJlbkFKVlNhWGc5eXd4VUd3UTdxcXNybW93M2tEV3FZM1BWUkg2VW9",
+      "title": "Palmeiras aguarda retorno do Botafogo e vê Danilo fechar porta ao Flamengo - ABCD Jornal",
+      "summaryKo": "파우메이라스, 보타포구 복귀 기다리고 다닐로는 플라멩구 거절",
+      "excerpt": "Palmeiras aguarda retorno do Botafogo e vê Danilo fechar porta ao Flamengo&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGpCSTJlbkFKVlNhWGc5eXd4VUd3UTdxcXNybW93M2tEV3FZM1BWUkg2VW9VNTloUXNBWHBnT1dqVzJXZG9HT1NOMDhkc3NIWDNpU2ctaWlMSHUwQTFsRkpnRjIxSThIRkZpb2s2S3E2QWhoMTRJc2J2akVDb1FITWpKemd3RTcxdG5JZjBBc2l6UC1zNGtxS1FnSW11aGFNYng4NWdwc0x0YWtpSVZBcEp3?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-11T16:31:00.000Z",
+      "whyItMattersKo": "라이벌 팀 이적을 거절한 선수의 결정은 우리 팀의 영입 가능성을 높여줄 수 있습니다.",
+      "fanTakeKo": "플라멩구 갈 뻔했는데 다행이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUGFpcWo0YnpwaGtUOG5aYmtSX0ZrdUh5QlNyTFVEQk9pdXc5dGYyb2o0UXg",
+      "title": "Palmeiras aguarda Argentina e fica perto de elenco completo - Terra",
+      "summaryKo": "파우메이라스, 아르헨티나 대표팀 복귀로 전력 완성 임박",
+      "excerpt": "Palmeiras aguarda Argentina e fica perto de elenco completo&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUGFpcWo0YnpwaGtUOG5aYmtSX0ZrdUh5QlNyTFVEQk9pdXc5dGYyb2o0UXgxdFdqMXFoYW5MT2tYX1N2VVlFZTZHRWFCU3hpZk42cllZTzZ0T3dLSnlMMHZCTWgwTTZVY05qSnhOR2E1cE5Ra3cwNXhyZ2ktSlVzU3A1QlNxVTBab3k4QzRsRXlFeDNOUFVzSklBWDhqSkgwLWFqeDVnY3ZyckVROWZvTDZDeVpMeEs2NlpXR1BadDg3V09QWFFtWEZLV3llSm9iYk9jbUlxZklSaV9JMTlSbEV3VQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-11T16:19:00.000Z",
+      "whyItMattersKo": "국가대표 선수들이 복귀하면 팀 전력이 완성돼 앞으로 경기에 유리해질 겁니다.",
+      "fanTakeKo": "드디어 전력이 다 모이네요, 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHA2OUstRHlyWVFkMFVySlluQy1qMS1QY2VXOHlTMjVuMU9qRTdsdG85YjN",
+      "title": "Palmeiras ganha concorrência de 4 grandes europeus por Danilo, do Botafogo - BOL",
+      "summaryKo": "파우메이라스, 유럽 4곳 제치고 보타포구 다닐로 영유",
+      "excerpt": "Palmeiras ganha concorrência de 4 grandes europeus por Danilo, do Botafogo&nbsp;&nbsp;BOL",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHA2OUstRHlyWVFkMFVySlluQy1qMS1QY2VXOHlTMjVuMU9qRTdsdG85YjNKaURSSDRQYWFmc3daOWhPdmNhT2RyaGMyWE0wOTBkUFlFbHRIcmpfaUJhWXNubFMzd2djQU1IbmcyN2tjQVhJY1AydDN1eHZQRl9uLXRpUnUyd0RHcmUzc1lnc1pzcWFVQjZoRGdYV0NHdjZ2dlhYN3BtcGtBLWNQOVpPWEFKdHV2cHE3aElPMEZCbknSAcYBQVVfeXFMT2QwX0lBajlnWGpnT3NMV08wcGhJTFdDeWtCT0l3eUJqUHAtaGVtdGE5OTBwWnpHeTFuNG5JM1BqdUoyR2k1aXNidDZWelZsUDdWTUxFZjNIb2tlTlNyYUIyQ2pJUTkwUU11TFNIZFIwODdJNDdmV3pVWTdPTFFnZlFLbFFvZlkzM1N5YUM0RFdOYzVCVzhPV0J6NkROQ0dyb09rdHBjM2hHT2NVeVVObFE3cUlXODhJYkF3bVFiS0s3SmVUQ01R?oc=5",
+      "source": "BOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T16:08:01.000Z",
+      "whyItMattersKo": "유럽 명문들을 제치고 영유 경쟁에서 우위를 점해 팀 전력 보강에 도움이 됩니다.",
+      "fanTakeKo": "다닐로 영유라니, 정말 대박이네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0c4SV9OYmFkS2oxTUVvSUxkN3JiaWczMmR3MGVRWHNpZjV2al9mUGxsUjR",
       "title": "Palmeiras sofre, mas busca empate com Capivariano pelo Paulista Sub-20 - Gazeta Esportiva",
@@ -30,6 +110,22 @@
       "publishedAt": "2026-07-11T15:19:31.000Z",
       "whyItMattersKo": "무승부였지만 선두 자리를 지켜 리그 우승 경쟁에서 좋은 흐름을 이어갑니다.",
       "fanTakeKo": "선두 자리는 지켜서 다행입니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMivgFBVV95cUxPR29OYXJydFdLVnYzVkM4X05ETWNfWlV5YmJHakxST2hDRWtwUnJQNFZpblR",
+      "title": "Palmeiras é superado pela Ferroviária e perde invencibilidade no Paulista F Sub-20 - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유스, 무패 행진 끊기고 아쉬운 패배",
+      "excerpt": "Palmeiras é superado pela Ferroviária e perde invencibilidade no Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR29OYXJydFdLVnYzVkM4X05ETWNfWlV5YmJHakxST2hDRWtwUnJQNFZpblR5eFhyZE9TTDEzNWxHNjJTVWpNaEYwTFY4U2RYajE1cnZ3ZzVuVTM5QUlESzNYYkFHb2ZXY1czenkzb29mTWJFN3pvOGdmZ1R6LVA3dnk2RGRYc0pJc0J5bElLaldwaHJWLTFYYlQ2Rk55MUFEOVBfVGtkN1h4M1hYa2RRblFRV2RGb3M0aVBqR2dR?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-11T15:16:03.000Z",
+      "whyItMattersKo": "유스팀의 패배는 미래 주전들의 성장과 팀 전체의 분위기에 영향을 줄 수 있습니다.",
+      "fanTakeKo": "유스팀도 다시 분발해야겠네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -68,6 +164,22 @@
       ]
     },
     {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEcTFodmswYThTTHk1TG9KeTFXUXo1aFRMLWtWV2luSWlqOEdSbGRfMHJfVV",
+      "title": "Palmeiras: Proposta de R$ 175 milhões pode prejudicar negociação por Danilo - Portal ABC do ABC",
+      "summaryKo": "다닐로 영유, 거액 제안으로 인해 협상이 꼬일 수도",
+      "excerpt": "Palmeiras: Proposta de R$ 175 milhões pode prejudicar negociação por Danilo&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEcTFodmswYThTTHk1TG9KeTFXUXo1aFRMLWtWV2luSWlqOEdSbGRfMHJfVVgwa2JnQ1hwR0tjVVJxTGVlTndRekxTMGI5WGNQRlE0NjhqOTBvMUp3LXplcHMwWQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-11T13:34:00.000Z",
+      "whyItMattersKo": "높은 이적료 제안이 복잡하게 얽혀 영유 협상이 지연되거나 실패할 위험이 있습니다.",
+      "fanTakeKo": "제발 무사히 영입 성공하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEFoSk5nNF82aGNSRUcwMkpkRm44VXFjay1YOGlKdEE3NDVSZ0xrS0dpQjg",
       "title": "Reforço para time de Messi, aposta de Abel e provável saída de joias: como Palmeiras pensa mercado pós-Copa do Mundo - ESPN Brasil",
       "summaryKo": "월드컵 후, 파우메이라스 시장 전략 공개",
@@ -78,6 +190,22 @@
       "publishedAt": "2026-07-11T13:14:00.000Z",
       "whyItMattersKo": "아벨 페헤이라 감독의 신뢰를 얻은 선수 영입과 유망주 방출 등 대대적인 전력 보강이 예상됩니다.",
       "fanTakeKo": "유망주는 아쉽지만 팀 보강이 최우선이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMipwFBVV95cUxNNi0ydUhlM2tQMVBCM2pkTWp4M2psalVsSHUzYm10ZHk3LVlaOEFSd2ZkMD",
+      "title": "Alex aposta em ex-promessa do Palmeiras como reforço na Série B - UmDois Esportes",
+      "summaryKo": "알렉스, 파우메이라스 출신 유망주 영입 추진",
+      "excerpt": "Alex aposta em ex-promessa do Palmeiras como reforço na Série B&nbsp;&nbsp;UmDois Esportes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNi0ydUhlM2tQMVBCM2pkTWp4M2psalVsSHUzYm10ZHk3LVlaOEFSd2ZkMDNBb1JMeHJNM0pYX00wck9iWW90T1Zfand2dzJjSHVmSzNkaUZ5cWpVdEIyUzQzakxudF9qTHpxekMxUlcxa0RnMHZPREFlVXU0VnZhOTYxT1FQWlpPdWM0d0dCeXdzNkg3T3RURDBTZ2NKazZyQl9PVzZMdw?oc=5",
+      "source": "UmDois Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-11T13:11:19.000Z",
+      "whyItMattersKo": "과거 유망주의 재기를 노리는 영입은 해당 선수 커리어와 팀 전력에 변화를 줍니다.",
+      "fanTakeKo": "옛 유망주 잘하면 좋겠네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -270,6 +398,22 @@
       "publishedAt": "2026-07-11T00:28:55.000Z",
       "whyItMattersKo": "주요 선수의 변화와 부상자 복귀 여부가 팀 전력 보강에 중요한 변수가 됩니다.",
       "fanTakeKo": "부상자들 빨리 쾌차하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-22-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIS0RIZEQ4bmJwM09HOXQ4SDZTZ1JrODFacFRFTlRnV2ItaUJDdzNCcHRzdn",
+      "title": "Novela Danilo ganha novos capítulos! @dudacabreira te conta os detalhes da negociação entre Palmeiras e Botafogo. #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "다닐로 이적 협상, 새로운 국면 맞이",
+      "excerpt": "Novela Danilo ganha novos capítulos! @dudacabreira te conta os detalhes da negociação entre Palmeiras e Botafogo. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIS0RIZEQ4bmJwM09HOXQ4SDZTZ1JrODFacFRFTlRnV2ItaUJDdzNCcHRzdndabDJhRGJneDdMUmw1UHJvZGxpVVVuX0thVzc1OEZzRV9R?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-10T23:58:15.000Z",
+      "whyItMattersKo": "보타포구와의 협상 진행 상황은 파우메이라스의 팀 전력 보강 계획에 중요한 변수가 됩니다.",
+      "fanTakeKo": "드디어 다닐로 온다니 설렜다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -811,148 +955,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnR6NF9JQXlPWDB2cXdmLVZWNF9Cbm1DM21kVlhJMi04eEo2UFVDZ3ctREc",
-      "title": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino - Jogada 10",
-      "summaryKo": "바르보자, 훈련 강도 높여 데뷔 준비",
-      "excerpt": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnR6NF9JQXlPWDB2cXdmLVZWNF9Cbm1DM21kVlhJMi04eEo2UFVDZ3ctREcwWDFubE1CMW81RHZ2WjVDNFMteXFzc3ZyYVI3aVR6X2s0ZEhkWGJsN2xqSDUwYVJudDBfT3A3UzBPSTZGU01HM2ozRFNYaFlReXk4U3JDdGM3VW9VUGRBZlpkWm8yZG9ZS1B4T2hOZHhoZ19UQWfSAacBQVVfeXFMT1JiNlRGXzFmelJtMk9LdWJrSDlBWDZiWnJMckR0RmV0QkVjeWw3dlhHdWl6ZFV0VEdfVG9aMGhmVDFnV3FRYWR3cW9nNkx3TDJ6NWg1UXIzdUxwb204X295ek9MLWNyc3BXeER6dzJwVUUyNFFnY2xXa1hadl9XT2U5Y1ZUeTgzTmM1aU5ZN1hfbmpubXp0c01DTzZkOUJfa0Y0dk1RZW8?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-10T17:16:24.000Z",
-      "whyItMattersKo": "새 선수의 합류와 적응 속도는 아벨 감독의 전력 운용과 전술 옵션을 넓혀줍니다.",
-      "fanTakeKo": "바르보자 빨리 보고 싶다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-29-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3",
-      "title": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A - band.com.br",
-      "summaryKo": "브라질리그 전체 이적 시장 총정리",
-      "excerpt": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3F6R0xzenhYS09HeHlpQ0JJZnVZSmhmQ3NzWTN5Mm5ieExMZnBOX3hxUnlVeXV5ZURCdlJSRXBVTEpNUDZ4MTBwYkhENmNqNGdBRzlhWlp4Wk5YRFFYaE1pTGdEUWFlQkxHZ05zRElIWUdocXJ0eDdmS005YnpfQ3ppRUZ6NWhpYWdBRlV2dmJj?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-10T17:14:31.000Z",
-      "whyItMattersKo": "리그 전체의 이적 동향을 파악해야 우리 팀의 상대 전력을 알 수 있습니다.",
-      "fanTakeKo": "이적 시장이 정신없네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGU4bk9NQ3luR3VNa0l0SnN6WVA2dkxadEpvYlRQNkJvMGp2dnFtWjV6aml",
-      "title": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino - Terra",
-      "summaryKo": "바르보자, 훈련경기 데뷔 준비 마무리",
-      "excerpt": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGU4bk9NQ3luR3VNa0l0SnN6WVA2dkxadEpvYlRQNkJvMGp2dnFtWjV6amludFpoeEF3aVIzcWtjb0RHajhlamRKWjBYRzdDemc1V1h6V214MGxnWExpMGJEb2RhSWJVSGZJcEZrdTBwRmhieUxXbko5YjlUb0xlSGU2Ql9pdUtNRGpZSXhhejhSdWRfRHpoSG5pbWxVY2ZXVlY3WjBqVXpQU1FLTFpwMnFvNE5rUXNxcU14WGl4Y3RUM2g1MGE1bFEwazQ2T3VNWEFyX29BcEtUUmlQbWpnSXVjXzJmWlhaMWI4clkzOFZOWmdZeGE2Ng?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-10T17:11:00.000Z",
-      "whyItMattersKo": "새 영입 선수의 합류가 팀 전력 보강에 긍정적인 영향을 줄지 주목됩니다.",
-      "fanTakeKo": "드디어 바르보자 볼 수 있나요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVktTUVzRjljTW1TNVdxVnB6VFZ1MFBzY1NRMnFuUGx3VzlmXy1NSkpyb1h",
-      "title": "Entenda por que Palmeiras descarta retorno de Gabriel Jesus nesta janela - LANCE!",
-      "summaryKo": "가브리엘 제수스, 이번 시장 복귀 불발",
-      "excerpt": "Entenda por que Palmeiras descarta retorno de Gabriel Jesus nesta janela&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVktTUVzRjljTW1TNVdxVnB6VFZ1MFBzY1NRMnFuUGx3VzlmXy1NSkpyb1hBQktjU3hoNWktNnJxSXd2ajlKSERzb3gwYjNhdUFPQ0swZWFzQmRaS09JaUh0LWUzX2ZaOWJTZE1RbmY2THVOZDJhaHViNThtU3NpSFRJdXhTLUctS2J2aXF5SDNoZFA1bGpjRkRfblFRUWNncG9Kd0hETnBIN3JDd3pzdjNQb2V6ZS1sM3c?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-10T16:58:28.000Z",
-      "whyItMattersKo": "기대했던 공격수 영입이 무산되며 공격진 강화 계획에 차질이 생겼습니다.",
-      "fanTakeKo": "아쉽네요, 다음을 기다려야겠군요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeV8ydTdQRC1KTXpIOHBSdlhYYjc5RE41bFBGaVFac2xOckxhMWxIVk1MOT",
-      "title": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos - CBF",
-      "summaryKo": "파우메이라스는 브라질레이랑에서 열린 13라운드까지 러닝 포인트에서 최고의 스타트를 기록했습니다 - CBF",
-      "excerpt": "Palmeiras tem o seu melhor início até a 13ª rodada no Brasileirão nos pontos corridos&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeV8ydTdQRC1KTXpIOHBSdlhYYjc5RE41bFBGaVFac2xOckxhMWxIVk1MOTdDaFR5bnNWYnA5enFsX1lxdzhwU3ZkOEtjOWNvMmRtbGZkUUlpanlZZUpIUDBmbVBURHliRi11cnREZFM3WVpyc2V4eXliT3RLOXQ3bWtsV3o1Y19lak81Vjhwdkp5VmNDbzAxdldXYjFGRDRJUmZiMmNUVlFIY2FtelBWMVdOUVU4aXhxZWdoSzlOQjFGSXpSanVXMlFPQVlpN1VaWF9sendhTF83WFd4azJSeWFYemxSVmd4MzZkdVlMRElQeWN4RXpj?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-07-10T16:41:22.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3pVZ1BkZVN1cGVheUxXbEFudmFySWJ0aDBlUzhRN1dNUzZWbUdTS1VwWDZ",
-      "title": "Onde assistir? Palmeiras e Juventus não terá transmissão por pedido de rival - LANCE!",
-      "summaryKo": "파우메이라스전, 중계 없는 이유는?",
-      "excerpt": "Onde assistir? Palmeiras e Juventus não terá transmissão por pedido de rival&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3pVZ1BkZVN1cGVheUxXbEFudmFySWJ0aDBlUzhRN1dNUzZWbUdTS1VwWDZMNXI0NThTWmpuVHRlYWNkazlYYndtd2FaX2huYkZpLXd5Ulo0M0NONTRRMkRJWVhqUm9mUU40dFZrZV9ibExXQklVbXpXNDgyUHRxQkhkOU40eU9HbG8tQWtyTzZfZGRqUnQ5VEZpWnpndjY4OExF?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-10T16:14:23.000Z",
-      "whyItMattersKo": "경기 중계가 없어 팬들이 직관을 가거나 결과만 확인해야 하는 상황입니다.",
-      "fanTakeKo": "중계가 없다니 너무 답답하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RmlYZ1NyeFFNNWx1ZF9PZUNSOTZWaEZCNk56b2dWZ3pFZTV3NlpJcktrOV9",
-      "title": "Palmeiras formaliza proposta milionária por Danilo e aguarda resposta do Botafogo - Fato Paulista",
-      "summaryKo": "파우메이라스, 다닐로 영입 제안 공식화",
-      "excerpt": "Palmeiras formaliza proposta milionária por Danilo e aguarda resposta do Botafogo&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RmlYZ1NyeFFNNWx1ZF9PZUNSOTZWaEZCNk56b2dWZ3pFZTV3NlpJcktrOV9oR2ZqS3pnTnRiYkVtS0E5TkJtLWY1YmwxenpkcDFETW1rSzJiaWdhZnVkMVA4c3hpbnlvOHpGQzdjQzc?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-10T16:08:06.000Z",
-      "whyItMattersKo": "거액의 제안을 보낸 만큼 주전 미드필더 보강이 성사될지 관심이 집중됩니다.",
-      "fanTakeKo": "다닐로 영입 꼭 성사되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMizwFBVV95cUxOV19WNGViN1ZXOTkzSHE4dWFWRnMwSnFLSVlmV2tCUm5rUE1TY0dnQmh6Ull",
-      "title": "Flamengo x Palmeiras: quando os times voltam a se enfrentar? - iG Esportes",
-      "summaryKo": "플라멩구와 파우메이라스, 다음 맞대결은 언제?",
-      "excerpt": "Flamengo x Palmeiras: quando os times voltam a se enfrentar?&nbsp;&nbsp;iG Esportes",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV19WNGViN1ZXOTkzSHE4dWFWRnMwSnFLSVlmV2tCUm5rUE1TY0dnQmh6UllZUG1KSFhyUVp2NnRjQXFEWENYbHNKb1U0WmtnVkNRVmJMQmNBcnc1eU5JaldTYmw5eDlyNjFuOElnSzdBb1hqNloweFR0WElSOFlRU05SZjhGeG9wbVVxOS0wUVdHSFBkYmVuQ19nb2JtZ3dZLVdZUkNILXNQTU9LUlJsbk41UlRzclpZeno4Qm9hUHRWeEQ3MlhvUzFlNmVvczTSAdQBQVVfeXFMT1VERFlCTFNjdGhnZ1pSRzZIM2gzVFVTSjNtOTVESG1PSEdLZ3FIaElrRU9Kb1ktRm1ZeURCQlFwLVBGT2lDYTN1R3pzQWlHMGdZLU41UFI0dmxBdUx6c1MyS1dxVHZHejBFM05lTkRQUTFhcjBBSzFnNkFKMFd1cWxaVjE2UWFucVlyV295b2VhU2RMVmxQc0pIakFsc2hrUG1qZ3NUT1BMdlZqbUJfNEUxeEd4U05adFhhNVJpMWZKZjRpc0hOZ2FVLXdHTnVBajllT3A?oc=5",
-      "source": "iG Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-10T15:47:00.000Z",
-      "whyItMattersKo": "강팀 간 빅매치 일정은 팬들의 기대감과 팀의 전략 준비에 중요합니다.",
-      "fanTakeKo": "플라멩구전 빨리 보고 싶다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHQ5WDduN3NfeWNsSTYxLXZXMVZ3Q0tVaVNiVl9EWU1ETi16dFBfd21SMFl",
-      "title": "Corinthians vê tabu contra o Palmeiras aumentar após nova derrota no Sub-20 - meutimao.com.br",
-      "summaryKo": "코린치안스 유소년, 파우메이라스에 또 패배",
-      "excerpt": "Corinthians vê tabu contra o Palmeiras aumentar após nova derrota no Sub-20&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHQ5WDduN3NfeWNsSTYxLXZXMVZ3Q0tVaVNiVl9EWU1ETi16dFBfd21SMFloRVBXa1oyZ2R2U004YV9heFVuUkxKM0hka2VDNUdyRHZyaE5Kc2lGSTQ2aFlIYVNIa3BMWEdhUDlSbDZZVXNGNEQ0dV9TZ1FuQkdpeTYyQXRVLWQyZ0hYdEt0WThycEhIS0ZnSFByeF9aVlM3V0Y1S24tZFI0SnlOaVc0c1RVaDB3NFJSMEpUb3JhYTEyNDd2RXlRdXpTM19qZ1nSAb8BQVVfeXFMTVRiR2UwQ3JVVXJkb2VtSU1JWjlCbm1FY2dQcFVORDBiWlhJelA2RXZKVDlxaXB6QVB3V0FtbTVDU3BzVW95MnUwZGQ2WDhGdmVpN0tOcG5YMGRBUmZqdGtCbk8zRW1veXF5SDNmeHBnR3pOZXN2eklqUFVydVh0aWw2M0tVRmYyZ05odjNlQWVidU4yQnVNZVJBSUlWNktoSjVfVDBKTjcxYm9pQ1BteVBPMFU2ekViVUpXVVdIVFk?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-10T15:31:00.000Z",
-      "whyItMattersKo": "유소년팀 성적은 클럽의 미래 전력과 라이벌전 심리적 우위를 보여줍니다.",
-      "fanTakeKo": "유소년팀도 라이벌 잡다니 멋지다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
