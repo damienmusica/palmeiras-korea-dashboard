@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-10T23:29:27.171Z",
+  "fetchedAt": "2026-07-11T01:01:53.690Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2tFMW1fY2U1N1A1akt0WHp6bkl2WmR2blh4QWtwUmdqNXZfMkl0MWVsYjl",
@@ -106,6 +106,22 @@
       "publishedAt": "2026-07-10T20:33:28.000Z",
       "whyItMattersKo": "새 선수 영입을 위해 기존 선수를 협상 테이블에 올린 만큼 팀 보강이 성사될지 주목됩니다.",
       "fanTakeKo": "영입 성사되길 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3NOejdTZjV4RVFiNk9lclFDMVFWZ29ZTWZ2ZFBaZHRHRUhsTTF4ZjdMVDU",
+      "title": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup - Marechal News",
+      "summaryKo": "파우메이라스, 플라멩구와 레이디스컵 결승",
+      "excerpt": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup&nbsp;&nbsp;Marechal News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3NOejdTZjV4RVFiNk9lclFDMVFWZ29ZTWZ2ZFBaZHRHRUhsTTF4ZjdMVDUzRzhwbTJ3bGJvc1N4cV9oM2h6MzlERnp3RXplTUFvY2JBLTRXODM0aEw0VkZCSkdjNTFKX3RUcUhFdlhZSWFXYmF4al9YSEJ5MmJYUXZaeHVYS1cydUZBT01iT1VIRF9PWlkxRTltY0ZHLU43MndyRUpqend5UXg2ZjFZd2JR?oc=5",
+      "source": "Marechal News",
+      "language": "pt",
+      "publishedAt": "2026-07-10T20:23:00.000Z",
+      "whyItMattersKo": "여자부 리그 개막 전 강팀 간 대결로 팀 전력 점검과 분위기 조성에 중요합니다.",
+      "fanTakeKo": "여자부도 기대되는 대결이네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -234,6 +250,22 @@
       "publishedAt": "2026-07-10T18:22:00.000Z",
       "whyItMattersKo": "거액을 투자해 영입을 추진한다는 점에서 팀의 핵심 전력 보강이 기대됩니다.",
       "fanTakeKo": "거액 영입이라니 파우메이라스다워!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUZlejlwbkVieERaNnRfdWVsTXpNaWZKVDRBVlJpbFlXeWwwMnFpWlZ4am",
+      "title": "💚 Volta pra casa! Pedro Rocha, jornalista da GE TV, revelou que os treinos do atacante Gabriel Jesus na Academia de Futebol mexeram com o coração do jogador. Vale destacar que a Cria treinou no centro de treinamento do Palmeiras para se preparar par - facebook.com",
+      "summaryKo": "가브리엘 제수스, 친정 훈련장서 감동",
+      "excerpt": "💚 Volta pra casa! Pedro Rocha, jornalista da GE TV, revelou que os treinos do atacante Gabriel Jesus na Academia de Futebol mexeram com o coração do jogador. Vale destacar que a Cria treinou no centro de treinamento do Palmeiras para se pr",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUZlejlwbkVieERaNnRfdWVsTXpNaWZKVDRBVlJpbFlXeWwwMnFpWlZ4amRGYW5IMVBWallVR041S19Ud29HNlNjYUJZd0p2RDg4aklMVjVmc3loaXRqLWtXSFB4V2JVVkdWX3VTeE9vbjU1bDdueF81Q1hWdW9RQkZCY0RKNWprR1JOMXFXc1lSREh1RlpkQVZHQlktVEVfVUcxWjlJY0NTeFEtNmZkdXRJYXdqQXFXZWFjT29xcTRkY2lRaWFnUGFwWFlpbnpXMU5ldEVIZUtudml5ZTVr?oc=5",
+      "source": "facebook.com",
+      "language": "pt",
+      "publishedAt": "2026-07-10T18:12:24.000Z",
+      "whyItMattersKo": "친정 구단 훈련장 방문과 감정 표현은 향후 이적 가능성을 시사할 수 있습니다.",
+      "fanTakeKo": "제수스야, 정말 돌아오는 거야?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -909,36 +941,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVZRQmxSUk5LbGRROFMxWlExb1ZpVnJsMHhYSWVUOU5NMFF5U3NXOGFSdmF",
-      "title": "Palmeiras vence Paraguai e vai enfrentar o Flamengo na final da Brasil Ladies Cup - LANCE!",
-      "summaryKo": "파메이라스는 파라과이를 꺾고 브라질 레이디스 컵 결승전에서 플라멩고와 맞붙게 됩니다 - BID!",
-      "excerpt": "Palmeiras vence Paraguai e vai enfrentar o Flamengo na final da Brasil Ladies Cup&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVZRQmxSUk5LbGRROFMxWlExb1ZpVnJsMHhYSWVUOU5NMFF5U3NXOGFSdmFIcWJMM09mU0dvWTM2MllDX1QxMDVtdVVyUWVSUHcyTjlINE1wMEEzZkV0VG5CdGNIaTlqaWdTaWkzQU1JTjRuTUtOU0xKckpVX0RYT1Z4eFJSV3lGTzBJWFZPSVRLQ254WjUyZGY0d3NPTkx6X1g2RUpPai1fMzg4NHNkZWFjQQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-10T00:57:42.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ1Jhd3BTWGlOX2FvNmVYN1ZrMEtxejVDZjZGQUJpRUozMmQwZG5GSlZQY2N",
-      "title": "Confronto entre Grêmio e Palmeiras abre segunda rodada do Brasileirão Feminino A1 - CBF",
-      "summaryKo": "여자 리그 개막전, 그레미우와 맞붙는다",
-      "excerpt": "Confronto entre Grêmio e Palmeiras abre segunda rodada do Brasileirão Feminino A1&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ1Jhd3BTWGlOX2FvNmVYN1ZrMEtxejVDZjZGQUJpRUozMmQwZG5GSlZQY2NtU0ZweTB6ZDhxWXh5aTBaVE1UTVp3YVgzUmlBazJqUlJYR19NQktLcUtzRzNVbWVHbXRQakFraGo5S0xfYzZaUnpfT3k4Z1RVaENVb1JMYnV5cFlxX3ZKUjBPS3BvY2RqMUpNLVZ0b1dwNjhMZ3RxeEVFYXVDb2lMSkR1SHhEM3ktZ1BEYmpUWWxzNDBFZWE5Z2d5a1hXeUhGcXhjZEVvYU9uVTJ0LWozcXdaX0NFTEhuWW9PSmhMX0U0dVlNelE1TjNZNHVmODJ2U29Ld3d6Y1hQc19Od0hUSjZ1Zy13?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-07-10T00:07:34.000Z",
-      "whyItMattersKo": "시즌 초반 강팀과의 경기 결과는 여자팀의 이번 시즌 순위 흐름에 영향을 줍니다.",
-      "fanTakeKo": "여자 리그도 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
