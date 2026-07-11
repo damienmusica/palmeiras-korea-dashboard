@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T09:07:33.321Z",
+  "fetchedAt": "2026-07-11T10:42:00.222Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMidEFVX3lxTE5vd3U0UERhZko5V012UjFuTThoZW9CTFd3d1RHRTV5Z1h6RmtuVWJVeWlZa25",
+      "title": "Paulista Sub-20 - Federação Paulista de Futebol",
+      "summaryKo": "파우메이라스 유스, 주니어 리그 소식",
+      "excerpt": "Paulista Sub-20&nbsp;&nbsp;Federação Paulista de Futebol",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vd3U0UERhZko5V012UjFuTThoZW9CTFd3d1RHRTV5Z1h6RmtuVWJVeWlZa25QYlkxTVlFMi1BcWRXMDBOR294UnlKMUZwUUZqbFl2bTJnUXRVSVJUNkMxQ1hnck9VY0Rfb2pmODEyTDR2UFo1?oc=5",
+      "source": "Federação Paulista de Futebol",
+      "language": "pt",
+      "publishedAt": "2026-07-11T10:00:00.000Z",
+      "whyItMattersKo": "미래의 에이스를 발굴하는 유스 리그는 팀의 장기적인 전력을 보여줍니다.",
+      "fanTakeKo": "미래의 에이스들이 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUF",
       "title": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa - UOL",
@@ -11,7 +27,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUFoTnRQWmdvTnlmcVJ2Wl9SQzJJSzBIUHJsVEhLNEZBVzJDZFRqZE9DSVo5RV9DQzFkWkpKaFRTbGQ0aU5FZWFidGFSXzlsVHQ3Y0M4Z1BRZGFJZnZsY1l2WGpqVGQxR2h4eTVpOXNFbEhidkttOFNHTGZ4ZUY4c040QjU3NXFTQ1BuSVIteHJRWndUcFNnazNIU0hiUmhqanJsdGduWng5NkhpMm82NGRDcmdN?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-11T08:30:00.000Z",
+      "publishedAt": "2026-07-11T09:25:20.000Z",
       "whyItMattersKo": "팀의 우승 목표가 재정적 이익보다 우선순위에 있음을 보여주는 대담한 결정입니다.",
       "fanTakeKo": "우승이면 그 정도는 괜찮죠",
       "tags": [
@@ -670,6 +686,22 @@
       ]
     },
     {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3",
+      "title": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A - band.com.br",
+      "summaryKo": "브라질리그 전체 이적 시장 총정리",
+      "excerpt": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3F6R0xzenhYS09HeHlpQ0JJZnVZSmhmQ3NzWTN5Mm5ieExMZnBOX3hxUnlVeXV5ZURCdlJSRXBVTEpNUDZ4MTBwYkhENmNqNGdBRzlhWlp4Wk5YRFFYaE1pTGdEUWFlQkxHZ05zRElIWUdocXJ0eDdmS005YnpfQ3ppRUZ6NWhpYWdBRlV2dmJj?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-10T17:14:31.000Z",
+      "whyItMattersKo": "리그 전체의 이적 동향을 파악해야 우리 팀의 상대 전력을 알 수 있습니다.",
+      "fanTakeKo": "이적 시장이 정신없네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGU4bk9NQ3luR3VNa0l0SnN6WVA2dkxadEpvYlRQNkJvMGp2dnFtWjV6aml",
       "title": "Barboza intensifica preparação e pode estrear pelo Palmeiras em jogo-treino - Terra",
       "summaryKo": "바르보자, 훈련경기 데뷔 준비 마무리",
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-10T14:00:09.000Z",
       "whyItMattersKo": "수비수의 컨디션 조절은 주말 경기 수비력 유지에 중요한 변수입니다.",
       "fanTakeKo": "주말 경기 나올 수 있을까?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3hZNDEwUHZpb2xLMUtWa0JGUVhzc3RCTEhINjdYU3RSekpLRUtCM1lpMFI",
-      "title": "Palmeiras avalia futuro de Maurício e aguarda propostas pós Copa do Mundo - cnnbrasil.com.br",
-      "summaryKo": "파우메이라스, 마우리시오 이적 검토",
-      "excerpt": "Palmeiras avalia futuro de Maurício e aguarda propostas pós Copa do Mundo&nbsp;&nbsp;cnnbrasil.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3hZNDEwUHZpb2xLMUtWa0JGUVhzc3RCTEhINjdYU3RSekpLRUtCM1lpMFI4WDlBZ3lvRk5PQmJlWGN0SVJOTTA1NzI1dnVXY3VkRklFZUJJWkhZWFBabi1Wc1ZiOFZObk80ZHRjVVhzcjF0eGRieElMUkhURGtRblZycFNsNUdYZDJiWE9tdk8zWGxITW9VWFNObGlLZG05djRneEdiZ0dueFdNNnNEbW1IcHN5SjVEblFBTWhXVFZSeTZ2UTE3MDVB?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-10T13:55:08.000Z",
-      "whyItMattersKo": "월드컵 후 이적 시장에서 주전 선수의 잔류 여부가 팀 전력에 큰 영향을 줍니다.",
-      "fanTakeKo": "마우리시오는 꼭 남았으면 좋겠다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiggJBVV95cUxNQkRjWUE2WGttRUFoWVVZd2o1S1p3dUZiVVpQR1dnWDgzNjRFM1c1VW1lOTd",
-      "title": "Palmeiras e Flamengo vencem semifinais e vão decidir título da Brasil Ladies Cup - GE",
-      "summaryKo": "파우메이라스, 여자 리그 결승 진출",
-      "excerpt": "Palmeiras e Flamengo vencem semifinais e vão decidir título da Brasil Ladies Cup&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQkRjWUE2WGttRUFoWVVZd2o1S1p3dUZiVVpQR1dnWDgzNjRFM1c1VW1lOTdfOGR0TUVSSThkaGUtc0x1OHZhbzFYWWE5UndfOWo5Z2FtZGVwTHZvc3l2NVdJS3hGRWhiUnFrb0tNTktyaFdFZ3hobGF2QS1Rbjc4RFpjWTJNUktlOEJiWEUwWlc4V2RmNXdKTUlXREsxZ0E4WmpxRGFXU24xeklndW5MUU9XMEctRWdBaVlTTUlZLWtxRUxyZ0lIWXRkTUNHdllQdC10dU9yMHZBVFpXdnkxZ0h0Qkx2TGlGMVJQVUhJVUlDbkVRU0R4cXgyY2h6d1pvMlHSAZACQVVfeXFMTnJWd0ttSmZNaDd5dnljQlJfUmlDTHZrZWdLVnJjRDQwdmlkZF92UHk1eklKal9oWk5DOHlrai1FbUVlWkY0MzNJdmpHdEZ0U3lmaGdUU1lWb01KSmEzQU0wNVJFZVdUREh5d196MUhiV21fNzcxLWJrOWhfZjNJT3FYX2huS0JLVTNuc2xORFZqLW5POFU3Z0dld3V2QzYyWFc0MG9vU3dsQ2VJVG1jdF93V0tuVWFkMlhNOVVvWkVGLXYybGZDd3hDQ3NUcGloRjI1aUFmVU92ZFJEMDE3R0YxRnlLVXNJYVVlUjFQb0hrOTMzZE9UYk1CYVBKVDJqOFdSNXk3S2Zfc1N2UWQyNzg?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-10T13:42:34.000Z",
-      "whyItMattersKo": "대표적인 여자 축구 대회 결승 진출은 팀의 위상을 높이고 우승 가능성을 보여줍니다.",
-      "fanTakeKo": "여자부도 우승 노려보자!",
       "tags": [
         "뉴스",
         "AI요약"
