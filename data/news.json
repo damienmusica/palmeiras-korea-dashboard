@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T22:50:21.649Z",
+  "fetchedAt": "2026-07-11T23:56:02.954Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM25UM2pZejVzOVhwc0ozSDVxRndzVFpyR1ZxRmRqSHNUdFhCSXYxMkRCQjl",
@@ -47,6 +47,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3V5d056aEVPb1J1ZFNSTjZOaGkzRnNReUxtTzIyWW1lckJXMlhoRDVqaUF",
+      "title": "Confira imagens do jogo-treino do Palmeiras contra o Juventus, na Academia de Futebol - ge",
+      "summaryKo": "파우메이라스, 유벤투스전 연습 경기 공개",
+      "excerpt": "Confira imagens do jogo-treino do Palmeiras contra o Juventus, na Academia de Futebol&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3V5d056aEVPb1J1ZFNSTjZOaGkzRnNReUxtTzIyWW1lckJXMlhoRDVqaUFvN3RRMmJpR0NTS3JzaU4tLVdKNUhNekpXUTFsM1NRSzR2dHZ6MFNicVg5bm1KN0ZhRm56d0paVDJNUXZHal9UV1ctWEF2dWJENUlXdXlOQkM1dFFiV2k0LVk1OHpEbldhS1U5MFVBRHdvTFRmcTR3cFVfdVdFNC1RajFXb0xBQTFDNnZwRFdFUk40Yld1WnFC0gHTAUFVX3lxTE5ETndiQVVyMHI3eWk3dndUT29KZ1lGQU00UGhkeUZtay1kYXdqTEk0aWRmX1FQUVNpT0VJS0t1ekJKVFMtWVNNaFhmc3dvb2I1U2FyclMtRzVwYTNhSlI0NFFaZEtBTE5YdThrMzYxOHpORHpyeTJCcDQwd2MwLXR3U1E3TFI4QS01Ynk0R2hXbnMwVzhPUnFXeHNoSW95SE0tTzhsMDMzckNBMEFXeWNzX1d6VHNZVEdxbVA4LXR0bTFEdlVZd3I0eEI3QUlVNl9EREU?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-11T21:26:20.000Z",
+      "whyItMattersKo": "실전 같은 연습 경기를 통해 선수들의 컨디션을 점검하고 팀웍을 다집니다.",
+      "fanTakeKo": "실전 모습 보니 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -934,22 +950,6 @@
       "publishedAt": "2026-07-10T19:16:00.000Z",
       "whyItMattersKo": "시즌 전 강팀과의 경기를 통해 여자팀의 전력 점검과 경기 감각을 익힙니다.",
       "fanTakeKo": "여자팀도 응원할 준비 완료!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZYRkRrVzZLd2FtdzRKYzBVYmE5TE1vaXNfaTlEaHF0OHNabHNWY2UzWH",
-      "title": "Palmeiras e Flamengo disputam final da Ladies Cup em Campinas - Portal Piauí Hoje",
-      "summaryKo": "파우메이라스, 플라멩구와 레이디스컵 결승 맞대결",
-      "excerpt": "Palmeiras e Flamengo disputam final da Ladies Cup em Campinas&nbsp;&nbsp;Portal Piauí Hoje",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZYRkRrVzZLd2FtdzRKYzBVYmE5TE1vaXNfaTlEaHF0OHNabHNWY2UzWHJaNktPdk5GelYwSkxZanl2SS1fZkUyeHJja1BiQ05OSHF6RlpLZzV4c0VjNlVsOUxNQ2VkRklPNTBkUEFtaW1PNVJVTlVOakhYVlg1U1FUYzJBa0pMZVZBdVJ4M1lpVWlRSWxidEZVdXBOdTczWTB3M1NsQnpKNmxQZ3lUVGdJUdIBuAFBVV95cUxQcnp2ZS02Rzd3aWZpMTUzdEtndVM1UmxqOUdTdVBvVEM0T2ZXaGRoOUNpOFdFSGpQSkdVT3JfdnlEbzFSMm5zUzZ6TUQ2ajBMbTFzcXl3R3JxSzVGVmZhQUdfcFNFRmxaYV8zby1QYWZDcFVIOGNFTy1Jb0tYU2gxWnZ4TUxkVE5vZ1FpM05uR3FsSVgtOENhZ3pJZDJpV3FzMTdHd2swZmdod2o1RVlpZnhNaVlabkx2?oc=5",
-      "source": "Portal Piauí Hoje",
-      "language": "pt",
-      "publishedAt": "2026-07-10T19:16:00.000Z",
-      "whyItMattersKo": "여자팀이 강팀 플라멩구를 상대로 우승을 차지하기 위한 아주 중요한 경기입니다.",
-      "fanTakeKo": "여자부도 우승하면 진짜 멋질 것 같아요!",
       "tags": [
         "뉴스",
         "AI요약"
