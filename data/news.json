@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-11T21:51:11.934Z",
+  "fetchedAt": "2026-07-11T22:50:21.649Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM25UM2pZejVzOVhwc0ozSDVxRndzVFpyR1ZxRmRqSHNUdFhCSXYxMkRCQjl",
+      "title": "Piá do Couto que é ídolo no Palmeiras busca novo clube aos 33 anos. Pode voltar pro Coxa? - Bem Paraná",
+      "summaryKo": "파우메이라스 전설 피아 도 코투, 새 팀 찾나",
+      "excerpt": "Piá do Couto que é ídolo no Palmeiras busca novo clube aos 33 anos. Pode voltar pro Coxa?&nbsp;&nbsp;Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM25UM2pZejVzOVhwc0ozSDVxRndzVFpyR1ZxRmRqSHNUdFhCSXYxMkRCQjl2eTd0X2RkSUlVR0NVdTJ6amc3YkxGRXdwdVp1NVdiUFM0bDB1dW1fUXN3dmE5cFhOZEZKNnRWeTBjTlVPZVZWcEI5MlhJSm8xUkc0TmV0aDhFbFBfQzVZTGxaUm9WZU5vMERaVnlKTnRtXzkwMXRXd2xZYTZTZG5DNXNhbm5JclNPYXdZRXc4TUE5dlBlcUtCZndvVGRDUjNWdjRrc0tPYXVMMW5EWUdub2p2SzN30gHnAUFVX3lxTE1EUTFIV1pLQkhVUjZPTmlhZk1ZR05mR1lUNkhla1hQalduRmZnT0tRbzdYTlhKSldhUFpqTzVyYm1HakhBUFdJcEZaa2FBS0xuT2loZnRJWFZSQTVERkpyRE9oa2p1WXhqU1M3dXMzYU4wZHc1cU8tOEpjRUJmTGU1VVpFdmRlQ2Q0eU9admd1TmppNmU5YnQyYjFNRmNwOWphSnhZbnZIcGFybFJIMjRkM3N2WVJyRGhJZTdzYWJLVVpFZkxfLWpGZmpjcGplamtIeHFOSzJRamFsbEExNldMbUY0X0FYWQ?oc=5",
+      "source": "Bem Paraná",
+      "language": "pt",
+      "publishedAt": "2026-07-11T22:40:00.000Z",
+      "whyItMattersKo": "구단 전설의 이적 행선지와 친정팀 복귀 가능성에 팬들의 관심이 집중됩니다.",
+      "fanTakeKo": "전설의 새로운 도전을 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnYwM1pNNTd1S0xaVThYdWZKU3RKamcxdGQweWJKbUZlTFI2MFVfWmNERlF",
+      "title": "Palmeiras faz teste antes da volta da temporada e vence com tranquilidade - Galáticos Online",
+      "summaryKo": "파우메이라스, 시즌 재개 앞두고 평가전 승리",
+      "excerpt": "Palmeiras faz teste antes da volta da temporada e vence com tranquilidade&nbsp;&nbsp;Galáticos Online",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnYwM1pNNTd1S0xaVThYdWZKU3RKamcxdGQweWJKbUZlTFI2MFVfWmNERlFpaklRa1FZLTNQNjZpUWxxVmd2LXpDRk15NWk1WFVleF94Yzg3UG1EbzJPSERYVEZ4d2xoQVl6YkNYdWhmaVlvT3djM0lvVWJXTTlrSld0cHE1cjRJa09fZzQwR1c3RllrQmltR1BTVERqNG44dmxsN0dXa1BxbWNUelVYLTlkTmgzbWRyTlZTZmlrUEp2M3drS3FRMExSOA?oc=5",
+      "source": "Galáticos Online",
+      "language": "pt",
+      "publishedAt": "2026-07-11T22:04:39.000Z",
+      "whyItMattersKo": "시즌 재개를 앞두고 팀 전체의 컨디션과 전술 점검을 마친 의미 있는 경기입니다.",
+      "fanTakeKo": "좋은 컨디션으로 시즌 재개하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjE0M0x1NzcwdksyZURVbVJobzVPZy1BZDR6V2xaeVdHV245VFNnLTlLT01",
       "title": "Ferroviária vence Palmeiras e dispara na liderança - PortalR3",
@@ -34,6 +66,22 @@
       ]
     },
     {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
+      "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
+      "summaryKo": "파우메이라스, 다닐로 영입에 유럽 4개 클럽과 경쟁",
+      "excerpt": "Palmeiras tem concorrência de quatro clubes europeus por Danilo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2MzZkF0dENLZkZObkFDODU1cXlNNE1ERThpa1FGS19seU8xZFlUODUxU25PSXBKcnhnZ2R6ODZYOUxXcU1PclNwTVl6VkpSUXRubGZPVkUzLWRBbF9ucURxWHB5cVpxZV8tX2h0NnlSb1FiSE1nRWNhcXN4WFE5ajhCS1pZQ2VWVlBFbjVjclN4b1RnaWlyQ0laT3VnQWRuMi1rQmNPTjhhR3Njd2xoVXdn?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-11T20:03:13.000Z",
+      "whyItMattersKo": "유럽 빅클럽들이 관여하면 영입 난이도가 높아져 이적 시장에서 전략이 필요합니다.",
+      "fanTakeKo": "유럽팀과 경쟁이라니 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3V0M3k0bEtCRXFaV1dhYVVpTDIteUZTWWViNURHQ3NYZmFfeHBlX1VBWDF",
       "title": "Barboza, ex-Botafogo, participa de primeira atividade com elenco em jogo-treino do Palmeiras - Tribuna do Sertão",
       "summaryKo": "보타포구 출신 바르보자, 팀 훈련 첫 합류",
@@ -44,22 +92,6 @@
       "publishedAt": "2026-07-11T19:44:00.000Z",
       "whyItMattersKo": "새 영입 선수가 팀 전술에 얼마나 빨리 적응할지 주목해야 할 시점입니다.",
       "fanTakeKo": "바르보자 활약 기대한다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2M",
-      "title": "Palmeiras tem concorrência de quatro clubes europeus por Danilo - UOL",
-      "summaryKo": "파우메이라스, 다닐로 영입에 유럽 4개 클럽과 경쟁",
-      "excerpt": "Palmeiras tem concorrência de quatro clubes europeus por Danilo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmI5RU9HX2lFUUlsUEFFSzIzUjVyNkZZX1RZbFo2TFA2U1JkZ212c0g1Y2MzZkF0dENLZkZObkFDODU1cXlNNE1ERThpa1FGS19seU8xZFlUODUxU25PSXBKcnhnZ2R6ODZYOUxXcU1PclNwTVl6VkpSUXRubGZPVkUzLWRBbF9ucURxWHB5cVpxZV8tX2h0NnlSb1FiSE1nRWNhcXN4WFE5ajhCS1pZQ2VWVlBFbjVjclN4b1RnaWlyQ0laT3VnQWRuMi1rQmNPTjhhR3Njd2xoVXdn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-11T19:27:42.000Z",
-      "whyItMattersKo": "유럽 빅클럽들이 관여하면 영입 난이도가 높아져 이적 시장에서 전략이 필요합니다.",
-      "fanTakeKo": "유럽팀과 경쟁이라니 걱정되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-10T19:16:00.000Z",
       "whyItMattersKo": "여자팀이 강팀 플라멩구를 상대로 우승을 차지하기 위한 아주 중요한 경기입니다.",
       "fanTakeKo": "여자부도 우승하면 진짜 멋질 것 같아요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMid0FVX3lxTFAyZzU1Yks3RG45UGNvT3B2T1llMldVZWt4TTRqWGlMVFRxcTNOMG41dGZidk",
-      "title": "Estreia de Barboza no Palmeiras tem plano traçado nos bastidores - NossoPalmeiras",
-      "summaryKo": "바르보자 데뷔전, 뒤에서 철저히 준비",
-      "excerpt": "Estreia de Barboza no Palmeiras tem plano traçado nos bastidores&nbsp;&nbsp;NossoPalmeiras",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyZzU1Yks3RG45UGNvT3B2T1llMldVZWt4TTRqWGlMVFRxcTNOMG41dGZidk44OEc1eWhlQndhbEFCeDJzSEUzenBfTUtNRlRZTHBHX2ZrbThraHlyb2xCTDZDNExpREdQNGo4SmpDSGl1cDFLQUF3?oc=5",
-      "source": "NossoPalmeiras",
-      "language": "pt",
-      "publishedAt": "2026-07-10T19:04:28.000Z",
-      "whyItMattersKo": "새 선수의 적응을 돕는 체계적인 관리는 팀 내 경쟁 구도에 긍정적 영향을 줍니다.",
-      "fanTakeKo": "바르보자의 첫 경기 설렌다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTE1zWVFoZHcxbWtmZlR2RDM2ZnI2c1FZNFNQSFZLVjJOOTJGb1k1VDNpRml",
-      "title": "Palmeiras define estratégia para a janela e toma decisões sobre elenco - Goal.com",
-      "summaryKo": "이적 시장 전략 짜고 선수단 정리한다",
-      "excerpt": "Palmeiras define estratégia para a janela e toma decisões sobre elenco&nbsp;&nbsp;Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTE1zWVFoZHcxbWtmZlR2RDM2ZnI2c1FZNFNQSFZLVjJOOTJGb1k1VDNpRmlXRGkyVGNPQTB2TkNaWkphN1dFUzVRRk5zV3BKaExpUDktUEV5NmlTZGdTMjFsSnR5X1FCNnZETFo2Tl95VmRjN0dTY3BxQlZuQnNlcEhScXNrM2tUSjJfZEhRZDZfNkNBMl94N2ZsQVFKS1FkdG5kQjRIYkZUMnRsQkFNX1ZSS1pFWGlG?oc=5",
-      "source": "Goal.com",
-      "language": "pt",
-      "publishedAt": "2026-07-10T18:56:35.000Z",
-      "whyItMattersKo": "팀 전력 보강을 위한 구체적인 이적 계획과 선수단 구성 방향이 잡혔습니다.",
-      "fanTakeKo": "기대되는 이적 시장이네요!",
       "tags": [
         "뉴스",
         "AI요약"
