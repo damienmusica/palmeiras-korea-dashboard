@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T18:04:45.717Z",
+  "fetchedAt": "2026-07-12T19:38:50.848Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTBWM09FR3dnaU5uVklnODJJYmZIcnZFN3FMS09hTFlyWk9oN3E1RVNUNWF",
+      "title": "Como Palmeiras transformou Flaco López no atacante decisivo para a vaga da Argentina à semi da Copa - GE",
+      "summaryKo": "파우메이라스, 플라코 로페스를 아르헨티나 핵심 공격수로 키워",
+      "excerpt": "Como Palmeiras transformou Flaco López no atacante decisivo para a vaga da Argentina à semi da Copa&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTBWM09FR3dnaU5uVklnODJJYmZIcnZFN3FMS09hTFlyWk9oN3E1RVNUNWFxVTlKa3lacGk0TnFRc0VzM3N3M210emZjQlpoVThLWnNmT2RuQVpkcTFiT2lBeUoyZU91dWRNbkxKS1VkT0pGRW9qVFc5X0p2aThGYnZlQjBPckpQUzlHWk01SmQyQlBFRERVSnpnSVpOdlAyY1pfWHdkb0RZN2FHRWFoTkRMUDAta2dRNDNyTTVISjFUY29aN3BCVWxWeFcwdTVoRUdtZ2FDSGI3eUVsNi1ieWhBSUEtckpnaWI2Z0owQy1zMTRHS0tIcmZXSjkzUdIBjAJBVV95cUxQRC1PYjVQTkQ5V3B0Mkp1RkhRYVRkUVlsM0haZG5zdHNicElobHdvdlU3Q1duaUE5dTAzWDVVMTNSbldiSGJHVXFGeUlNMHBpQmUzNkc5N01GZFhXajd6cG96WG9WN1g1NGpPZm1rdjdVTmhka3hfck16WTYxVTUtYUI5bUZXaTA3dU9rc0tpTlc4bnFydGJxYTdtdTNza3pVd1RXOFo2eHRmNnJDZTlOZWxkOHpSY2FSdVZMTDdZM25JLWh5Um9KUmdPeUFETFdwb1JkNW9wZ21lUEJFNUthb0NRTlRYZzRkTC1ndk5EUno4VHBQdXZaT09LeUJ6TmNKV2JhbExya2txR2ps?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-12T18:02:36.000Z",
+      "whyItMattersKo": "파우메이라스의 육성 시스템이 국가대표 핵심 선수를 배출한 또 하나의 성공 사례입니다.",
+      "fanTakeKo": "파우메이라스 육성 능력 진짜 대단하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnBhOG1PU2I5ek4xaFNTdW8ydF9ZR2dsWnFKNVYxQ2JPeXVCY3lBU1dYNXh",
+      "title": "Scaloni elogia Flaco López após classificação da Argentina: 'Entrou bem' - UOL",
+      "summaryKo": "스칼로니 감독, 플라코 로페스의 활약에 칭찬을 쏟아냈다",
+      "excerpt": "Scaloni elogia Flaco López após classificação da Argentina: 'Entrou bem'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnBhOG1PU2I5ek4xaFNTdW8ydF9ZR2dsWnFKNVYxQ2JPeXVCY3lBU1dYNXhkNWdUVmFQNDlaTDlmcnFQemQ3S2ZscXBaSUdVMW9ycVpsQWlsM3JpNDlDTTdwQkVtQl9HZWwtYlpNLXZ5bndISURyR3dQWTJRcFdWMjBiVzE4emVjdjNiQ2xuQ3pZWnB6aVkwamY2SThhVHBKVFpPRlJLUWtyRjkyNWVuZ1c0S01wemVVNFp0bG9qSjhYS0Z1YUFCSkJR?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-12T17:30:16.000Z",
+      "whyItMattersKo": "국가대표 감독의 직접적인 칭찬은 선수의 자신감과 팀 내 입지를 크게 높여줍니다.",
+      "fanTakeKo": "국가대표 감독 칭찬이 정말 뿌듯하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3RQS2EzVmVac3ZsRUVBdGZjT1BxTzVpcUpQSjBMLXZUemliWDd3NTQ3NGd",
       "title": "Mercado da bola do Palmeiras e a volta do Brasileirão - band.com.br",
@@ -94,22 +126,6 @@
       "publishedAt": "2026-07-12T16:29:02.000Z",
       "whyItMattersKo": "연습전 승리는 선수들의 경기 감각을 끌어올리고 팀 분위기를 띄워줍니다.",
       "fanTakeKo": "득점이 터지니 보기 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3F",
-      "title": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa - LANCE!",
-      "summaryKo": "플라코 로페스, 아르헨티나서도 승부사 등극",
-      "excerpt": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3FHc2o1cWFtQlgxMkVpcDNBTWZWcThCc1pqcng0Y3NXdW1ubkxQanhwODlZUkgzeFhMbDRZNmg2Zjk4TGhIME43eXRfVXliZXo0QjdUNDFNV2xodVRjVzQ0eGU3SkhFMm5NOE9wR2xyOHA4RXFaYnF3TG9wOC01WkNPTllCcVJsU1NLam8?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-12T15:31:35.000Z",
-      "whyItMattersKo": "소속팀에서의 맹활약을 국가대표팀 경기에서도 재현하며 승리를 이끌었습니다.",
-      "fanTakeKo": "로페스는 어디서든 클러치 멘탈이군요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -222,6 +238,22 @@
       "publishedAt": "2026-07-12T13:25:00.000Z",
       "whyItMattersKo": "주전 공격수의 복귀 시점이 잡히면 팀 공격력과 전력 보강에 큰 도움이 됩니다.",
       "fanTakeKo": "호키 빨리 보고 싶어요, 제발!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3F",
+      "title": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa - LANCE!",
+      "summaryKo": "플라코 로페스, 아르헨티나서도 승부사 등극",
+      "excerpt": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3FHc2o1cWFtQlgxMkVpcDNBTWZWcThCc1pqcng0Y3NXdW1ubkxQanhwODlZUkgzeFhMbDRZNmg2Zjk4TGhIME43eXRfVXliZXo0QjdUNDFNV2xodVRjVzQ0eGU3SkhFMm5NOE9wR2xyOHA4RXFaYnF3TG9wOC01WkNPTllCcVJsU1NLam8?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-12T12:33:34.000Z",
+      "whyItMattersKo": "소속팀에서의 맹활약을 국가대표팀 경기에서도 재현하며 승리를 이끌었습니다.",
+      "fanTakeKo": "로페스는 어디서든 클러치 멘탈이군요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -916,38 +948,6 @@
       "publishedAt": "2026-07-11T13:11:19.000Z",
       "whyItMattersKo": "과거 유망주의 재기를 노리는 영입은 해당 선수 커리어와 팀 전력에 변화를 줍니다.",
       "fanTakeKo": "옛 유망주 잘하면 좋겠네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUF",
-      "title": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa - UOL",
-      "summaryKo": "파우메이라스, 우승 위해 돈 버리기도 감수",
-      "excerpt": "Palmeiras desafia mercado e aceita perder milhões por temporada vitoriosa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDdIT3hCUG5aYW5BSF9kVENtUkRBbjdfT0ZJWmNjOHVuN2VjdlQ3VUZ6ZUFoTnRQWmdvTnlmcVJ2Wl9SQzJJSzBIUHJsVEhLNEZBVzJDZFRqZE9DSVo5RV9DQzFkWkpKaFRTbGQ0aU5FZWFidGFSXzlsVHQ3Y0M4Z1BRZGFJZnZsY1l2WGpqVGQxR2h4eTVpOXNFbEhidkttOFNHTGZ4ZUY4c040QjU3NXFTQ1BuSVIteHJRWndUcFNnazNIU0hiUmhqanJsdGduWng5NkhpMm82NGRDcmdN?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-11T12:30:00.000Z",
-      "whyItMattersKo": "팀의 우승 목표가 재정적 이익보다 우선순위에 있음을 보여주는 대담한 결정입니다.",
-      "fanTakeKo": "우승이면 그 정도는 괜찮죠",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV09RZnQ2Z2J4TGttcmFMczVzMkk1M0NYZkZNQXlYbDJkclI3WVRpZVhyQ1J",
-      "title": "Palmeiras espera Flaco López para ter elenco completo após a Copa - Notícias ao Minuto Brasil",
-      "summaryKo": "파우메이라스, 플라코 로페스 복귀 기다려",
-      "excerpt": "Palmeiras espera Flaco López para ter elenco completo após a Copa&nbsp;&nbsp;Notícias ao Minuto Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV09RZnQ2Z2J4TGttcmFMczVzMkk1M0NYZkZNQXlYbDJkclI3WVRpZVhyQ1JYUFhQVmVKNVVrSDhNdi1pekxPTzFQM1M5TnVXdFZyRGlmaUdPOWo2M0FIVUxMNlRRQ0RQNWZ1NGJvRGRfcFUxZG1TakVBTnBfRHZ1clFXNkRKVXBfZ3k5Ui1xc2FjN21vc2J1THRtTEdNS2ZuTXVhWFRLSmpMZV9fZThxOFVibExMZms5?oc=5",
-      "source": "Notícias ao Minuto Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-11T12:00:10.000Z",
-      "whyItMattersKo": "국가대표 차출이 끝나고 선수가 합류하면 완전한 전력으로 경기를 치를 수 있습니다.",
-      "fanTakeKo": "로페스 빨리 돌아왔으면 좋겠다!",
       "tags": [
         "뉴스",
         "AI요약"
