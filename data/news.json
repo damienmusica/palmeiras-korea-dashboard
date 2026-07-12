@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T15:33:37.734Z",
+  "fetchedAt": "2026-07-12T16:59:44.879Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxPSENJUDRnZTJEd2Fzb1poMlBKV21KSUJkWGlJcXk0dmlTYWhqV0FXdmhrWEw",
+      "title": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances - OneFootball",
+      "summaryKo": "파우메이라스, 유벤투스 상대로 연습전 승리",
+      "excerpt": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSENJUDRnZTJEd2Fzb1poMlBKV21KSUJkWGlJcXk0dmlTYWhqV0FXdmhrWEw1VkZoOTVfbnpqQTFuYmtZRHpkRDBldkFJaFBfTjYzSktXY0JUS2N0ZHFQNTVXRG9JMXZxdkVzd3V5U0tCamgxMVg5WWZjQUNiTUZYNTNqOXVzVmJTZHR2bWRyTFA2TVV3V2p5REtGeTBoRWRCYnVDQnlEY0JwR2NIXy0tR3FnU2trSnJSbkxzUnVmWHd2VjFuUWUxak5hZTBOWmc?oc=5",
+      "source": "OneFootball",
+      "language": "pt",
+      "publishedAt": "2026-07-12T16:50:04.000Z",
+      "whyItMattersKo": "실전 같은 연습전 승리로 선수들의 컨디션을 점검하고 팀 분위기를 다졌습니다.",
+      "fanTakeKo": "연습전 승리로 기분 좋네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlNpRk1faFhkOEM2bm1vQ2xKRlJFVHRmODdvQ3UwVlFvTE5UTU0zWUFzR0R",
+      "title": "Palmeiras vence o Juventus em jogo-treino na Academia de Futebol; veja os lances - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 유벤투스와 연습전 3-1 승",
+      "excerpt": "Palmeiras vence o Juventus em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlNpRk1faFhkOEM2bm1vQ2xKRlJFVHRmODdvQ3UwVlFvTE5UTU0zWUFzR0RUaFpuVG1HNk8zVGJVYWpjTTFXSkpmcy1pZmdGV1lZc08ydW5wRDlvZkl4cnY0Vkk4QnpReE5pNWhXYXdMWUpvV2VSOExzMUpEM1ZQVUZmNGxwTUc4TFBQWUp2Unp6ZkhwaGtPVVdva0N6WWl2RXYyY3U4TGlGTmF2c0xCT3lwRUxuTDhFcnRUZUdycE5aLUw0UkFz0gHMAUFVX3lxTE9abVZRcHlCS2FsX1JSb1RINWRYNEFPRnVKSDFGUVQ4OG1ZSmhxOVk3aVVaNFRMZXRYdlNTNTlLSld1Sk54bU1EMDJlQWJ1SE1IdDlqa0JZbnJtRmdIZG43Sm50UTRuX3lBYkJVMjNvY1JfZzZ5VUZwRzFCN0N2M3hoaV9ManFZMWJlZ1VPMWxVU25HX1pvaEtQWjc4Y0U5clF5RHA5ZjhTcUQ2ZTNSM2lDU1VWOXVSa1NMa0VxcU5RM2J1ZFFJVFcwakgwMA?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-12T16:43:00.000Z",
+      "whyItMattersKo": "다득점 연습전 승리로 공격 조직력을 확인하며 선수들의 경기 감각을 끌어올렸습니다.",
+      "fanTakeKo": "득력 폭발이라 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3F",
+      "title": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa - LANCE!",
+      "summaryKo": "플라코 로페스, 아르헨티나서도 승부사 등극",
+      "excerpt": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3FHc2o1cWFtQlgxMkVpcDNBTWZWcThCc1pqcng0Y3NXdW1ubkxQanhwODlZUkgzeFhMbDRZNmg2Zjk4TGhIME43eXRfVXliZXo0QjdUNDFNV2xodVRjVzQ0eGU3SkhFMm5NOE9wR2xyOHA4RXFaYnF3TG9wOC01WkNPTllCcVJsU1NLam8?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-12T15:31:35.000Z",
+      "whyItMattersKo": "소속팀에서의 맹활약을 국가대표팀 경기에서도 재현하며 승리를 이끌었습니다.",
+      "fanTakeKo": "로페스는 어디서든 클러치 멘탈이군요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMingFBVV95cUxOM2l4RHpEVzg3Zk1GemNVSTRCUk5jSmpkTVpVek03N2NlOTlmOE9CQU9iUXA",
+      "title": "Palmeiras x Flamengo na final do Brasil Ladies Cup: veja informações e onde assistir - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 플라멩구 상대로 레이디스컵 결승",
+      "excerpt": "Palmeiras x Flamengo na final do Brasil Ladies Cup: veja informações e onde assistir&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2l4RHpEVzg3Zk1GemNVSTRCUk5jSmpkTVpVek03N2NlOTlmOE9CQU9iUXAtOG1leURxLTVPd3BQT3p2cTdsRWdVRk12VUlQZkRZYU9MZjNHZWpxN1ozZ0FXaEtIZEF6NlNNcU1ScG03UGlkV1YzazlEczY2aHJXTVQwX21RcF9nSkdVYU9sZ08tZTJ4aWo4YTZDYzkxQQ?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-12T14:36:00.000Z",
+      "whyItMattersKo": "여자부 팀이 우승을 향해 플라멩구와 결승전을 펼치며 클럽의 위상을 높입니다.",
+      "fanTakeKo": "여자부도 우승 가져가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxOM2l4RHpEVzg3Zk1GemNVSTRCUk5jSmpkTVpVek03N2NlOTlmOE9CQU9iUXA",
       "title": "Palmeiras x Flamengo na final do Brasil Ladies Cup: veja informações e onde assistir - Gazeta Esportiva",
@@ -94,22 +158,6 @@
       "publishedAt": "2026-07-12T13:25:00.000Z",
       "whyItMattersKo": "주전 공격수의 복귀 시점이 잡히면 팀 공격력과 전력 보강에 큰 도움이 됩니다.",
       "fanTakeKo": "호키 빨리 보고 싶어요, 제발!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3F",
-      "title": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa - LANCE!",
-      "summaryKo": "플라코 로페스, 아르헨티나서도 승부사 등극",
-      "excerpt": "Flaco López repete protagonismo do Palmeiras e decide pela Argentina na Copa&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlvVU9rYkJwNk0zX2c5ZlRJTjBUVE90d241MWp4STlNZTlfVjNheTB1U3FHc2o1cWFtQlgxMkVpcDNBTWZWcThCc1pqcng0Y3NXdW1ubkxQanhwODlZUkgzeFhMbDRZNmg2Zjk4TGhIME43eXRfVXliZXo0QjdUNDFNV2xodVRjVzQ0eGU3SkhFMm5NOE9wR2xyOHA4RXFaYnF3TG9wOC01WkNPTllCcVJsU1NLam8?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-12T12:33:34.000Z",
-      "whyItMattersKo": "소속팀에서의 맹활약을 국가대표팀 경기에서도 재현하며 승리를 이끌었습니다.",
-      "fanTakeKo": "로페스는 어디서든 클러치 멘탈이군요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -245,7 +293,7 @@
       "summaryKo": "Scaloni는 아르헨티나와 잉글랜드의 체중을 최소화하고 Flaco López를 칭찬합니다: \"매우 잘 들어 왔습니다\" - ge",
       "excerpt": "Scaloni minimiza peso de Argentina x Inglaterra e elogia Flaco López: \"Entrou muito bem\"&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmF6N3VnNGc2a1lFd3ZiVFd4Q1hNb3NzLVF6eDZvMkhORTJYQzV6Sm5BQ3BfS2VBcEt4eUtOTEg4U0hwN1RQMFJfcTJQOEk3QTQwdHBkU0pQTzg1ZjB0a2xZb3hIM3lQOXFuVXRqT1Y2MFF2bEVnOXhSVkRtMG1jVWZiN3NteEJORXdWU3JYdHlQU2Vzc19MbC1XaHB4LVVsUkduYUhCRGFyZWRnWHEtNHI2RlpCN1RudmhwYnRXOEJQcXVTdnR0VWR3eDRnZkdTWmRVMmhDNExxQ3lXTUJpREJMZGcybG8x0gH3AUFVX3lxTE1ON0xhZWNOMUM4ek1OZHFXXzBnYXVJWENVSU1iZGJHQVI2c1JJY1ZQeWhtUUhXSFp5b3B5REEyMGpVa3UxZk9Bcl9jV0U3Y1NnVlREZ0JqaFNYM0VUbXd4SGZHUC11RXlDV3U3WHY1SHFxVVd5SUY0Snp1dXBXZ2NsZTV1RlVwMUI5OHk5OUJwSEYyMDU2SmVQMDQ4U3EtM3ZfamoydzkyUEYxRUhZYnRwYVoyT1lfOFdwbUVnMURmRXBBbDdXU0w3TnJreDNBOWw5TkxlQWh0aDlsRUpnZmRYUG5OcWRKUmF2QUdVZUdvRFVvMmhDdkE?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-12T08:00:08.000Z",
       "tags": [
@@ -259,7 +307,7 @@
       "summaryKo": "파우메이라스 유소년, 월드컵 중 승률 90% 달성",
       "excerpt": "Domínio total: base do Palmeiras atinge quase 90% de aproveitamento durante a Copa do Mundo&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMUliSFNpV0UtdVlzWGRySmY5YVFJVTRVYkZ2bGVNMkJUZ2RaQmlXQ1FmY1o4Znp5bDJRUFhnS0lBSTNEWkszLWhzY0NvTVZCdDA2Z3hZUTUzOElSekZIMVo4aU9adTNOajVJaE1rTlVrejFva1FwMjlZczFkSzNSdVdoZE1kX21LT1lvMU9ZaGY0cDFlaFMzdnB6WWd0cTljd0hUVDZvcWZKdDRhMVNjbDVNOGVYY0Nmd1Y3b1dGajhuMmIycU5jdXJMaTZaRjd0LXRFRGdJdXJZVWU5ektza2ItUkRPOVBmODFIdDVsbS1BN3pDbjBpOVl30gGIAkFVX3lxTE44bWU2SmM5UEllRWdkYnNyZ0xfUkhPYVFxNkZBc1Y3LTloYXBGelF5eW5aN2hqVGNZN1NvVTc1Q0VhUUtKeXM3b2REeEF0VjUwd2padkZHb3JuRUdpMGFZb05kblRMVmxCVUNxQmNzalJsT1JzN2JXRFZiREt5d0VJcHZCaVM4eVZ6b29yTlRzMkNwdG9WY1Nzd1NZc2lvclBvLTE4dGdoMFJLZ1g5NFczQ2ZVR0V0T1JWeDFnTThWY0NHT05CVHZHbVRZR20zMVFlalp0aE5mem5USkFSMm1BcVJlMVdtS1M4SVdiTW93a0J1SWctdFplQXlPV3BfNlpDakdpYTg5Zw?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-12T07:00:37.000Z",
       "whyItMattersKo": "유망주들이 월드컵 기간 압도적 성적으로 미래 전력이 탄탄함을 보여줬습니다.",
@@ -291,7 +339,7 @@
       "summaryKo": "플라코 로페스, 아르헨티나 승리에 도움… \"꿈도 못 꿨어\"",
       "excerpt": "Flaco López comemora assistência em vitória da Argentina e ressalta: \"Não sonhava em estar aqui\"&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmhFTFB5dE1La29GZFNsUmZIQk9LOWRWWGxWUDdCTXBQeFR1YlNCWWNHd3VjOHNKMHVvUnJpYkZnc01tcFdBbjd0NUd2cGEzYmxMWXVzWUdmRUpxelA4cDdqRkpSU3lsNmZRMEphYUxBUUx0bjNDSGVIMDhpQVEwR0JfZHZuQ2g0dTFMY2ZnNlAxYnB1b2RHZjdIWjNmSllmb1ZaODF6Z2RKSWRJZWJsSkFlREx2amlCMldQZ2xKS3QwYm9sT0tNRGtLVTNnOWMzUE12VF9VSUtyRGJVUndmZlN4MnhDOWRybWRVTGNoS2dzZ9IBgAJBVV95cUxQX043aERSMW1JSENKcnFqWER1ZTFwWWVIUVdhZ0ZrOUtTZjU2bnA3dFd5UWRIWW9ib2s2Y3JES21jcDJOWTZnUHFQN2FPbVNWbVBONVVOMFE1SGxlanFCTUs4aGpfQ3pVa2pJalhZaS1TMTNRX0g1OXlQWjRaY2x4OHdweXdodWFxNWVRcFRwU0Z6RUFaMUNtODF4X3hQWWwzb292TU1SdGtFRzhUd2lqVzhTU3UxMENfMTByLUU2NWExR0FtYTgtQlAyNHlwSXJRNGNfRXRvWkk0a25JN2RmZGM3M1YzR1VTZ0JzOXhqem90OFpnZk9qZmFTeHB4bFJl?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-12T04:31:13.000Z",
       "whyItMattersKo": "국가대표팀에서 좋은 활약을 보이면 선수 자신의 가치와 팀 분위기에도 긍정적입니다.",
@@ -401,7 +449,7 @@
       "summaryKo": "파우메이라스, 유벤투스전 연습 경기 공개",
       "excerpt": "Confira imagens do jogo-treino do Palmeiras contra o Juventus, na Academia de Futebol&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3V5d056aEVPb1J1ZFNSTjZOaGkzRnNReUxtTzIyWW1lckJXMlhoRDVqaUFvN3RRMmJpR0NTS3JzaU4tLVdKNUhNekpXUTFsM1NRSzR2dHZ6MFNicVg5bm1KN0ZhRm56d0paVDJNUXZHal9UV1ctWEF2dWJENUlXdXlOQkM1dFFiV2k0LVk1OHpEbldhS1U5MFVBRHdvTFRmcTR3cFVfdVdFNC1RajFXb0xBQTFDNnZwRFdFUk40Yld1WnFC0gHTAUFVX3lxTE5ETndiQVVyMHI3eWk3dndUT29KZ1lGQU00UGhkeUZtay1kYXdqTEk0aWRmX1FQUVNpT0VJS0t1ekJKVFMtWVNNaFhmc3dvb2I1U2FyclMtRzVwYTNhSlI0NFFaZEtBTE5YdThrMzYxOHpORHpyeTJCcDQwd2MwLXR3U1E3TFI4QS01Ynk0R2hXbnMwVzhPUnFXeHNoSW95SE0tTzhsMDMzckNBMEFXeWNzX1d6VHNZVEdxbVA4LXR0bTFEdlVZd3I0eEI3QUlVNl9EREU?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-11T21:26:20.000Z",
       "whyItMattersKo": "실전 같은 연습 경기를 통해 선수들의 컨디션을 점검하고 팀웍을 다집니다.",
@@ -900,54 +948,6 @@
       "publishedAt": "2026-07-11T10:00:00.000Z",
       "whyItMattersKo": "팀의 수비 핵심인 주장의 잔류 여부는 다음 시즌 팀의 수비력과 리더십에 결정적 영향을 줍니다.",
       "fanTakeKo": "우리 주장은 꼭 남겨야 해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFExODZJcXhLVTRWZVdXbVpBbjVMS3Y3SE83a2hKWVFUSVZReEVBLVFIM1d",
-      "title": "Danilo nos planos? Abel define alternativas para Palmeiras no segundo semestre - Rádio Itatiaia",
-      "summaryKo": "다닐루 영입? 아벨 감독 2차전력 점검",
-      "excerpt": "Danilo nos planos? Abel define alternativas para Palmeiras no segundo semestre&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFExODZJcXhLVTRWZVdXbVpBbjVMS3Y3SE83a2hKWVFUSVZReEVBLVFIM1d5SzFWOWlnWmN1azJpaHZwWkU1Y3V2Tk4tbFk0eEhQQUR6M1Fuakp0OHhheU54ZWt3anhVVl95YTBZY0p2QVQ3WkFXbFNEVTBjNkhEdzdUaEVUWUVvcnZZWlJXWWJaaVZtelQ5MWFiUHVrT0FqSFNSUW1iTmM2ZVp4X1c4QXdZQkVHS0R1OVZYX3F2MHZBdXNyNnoxT0U1OW5XQkEwdzlBaks5SG1aYkwtd0txNVNTSUJaS0N4alIyYjVtMWRKOENmcnQ2SUJyVQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-11T07:45:31.000Z",
-      "whyItMattersKo": "하반기 선수 보강 전략과 미드필더 자원 운용 방향을 파악할 수 있는 기사입니다.",
-      "fanTakeKo": "다닐루 오면 미드가 강해지려나?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0xiV3Nrd0xwbTBDZHg5cHZMYW1iVEtTWXdxYlM1M2lmeEo5Y3NZM25vcnM",
-      "title": "Palmeiras aguarda Argentina para ter elenco completo; veja time do segundo semestre - GE",
-      "summaryKo": "파우메이라스, 2기 전력 완성 위해 아르헨티나 대기",
-      "excerpt": "Palmeiras aguarda Argentina para ter elenco completo; veja time do segundo semestre&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0xiV3Nrd0xwbTBDZHg5cHZMYW1iVEtTWXdxYlM1M2lmeEo5Y3NZM25vcnMwN255NFc1dnpYMVRvSXlyQVN1MnVRd0ZTSzJoQUpVTVJmdGtPVE5JbkxJRmtSUDh4Vzl4OTdJOWJsOWFFTXd6MkxnQXg2ZllwdklVZXg1RmJOeU1hUUNfSDV1N3REeE94cTR6b0lDdjR2TDU4akEyQ3oxTmFFZGZidmpnREptY3lvUjlwVEhLSU1EeWtCdFZWS1Eyd1phUm51VWtlWE5DVHVobGotbHFhQmROSHdvemhEbTTSAfYBQVVfeXFMUGhMVTNzUks2ZGMzSnBlZ2FjajJTWVlFVC1pY3hIQkpqZFJOYzE5dzdoaFpzRGV2SWVDNk92V3VZcFl5UExxV1RFSVhlTDF2eldEOUdKWEU1NFNrYUY3SEx4M1pybm1OUG1Qd2NoM0Q3dkVrMWdRNE1HRVFqenBvRlNic3p1MHBCbFlXLVlITHFaMUlieFpuNzRRSG9aTUNGcVlnS1U1QWluanV3RHRXSVVFOHZHLTdZN0lZaW92UGZFV0hoanV3OW9iYWRkWWNnV3hqVTA0REVrZjVsX3MtNnNINHZrelRnTk50dkRSa3RPdndCR0Rn?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-11T07:00:46.000Z",
-      "whyItMattersKo": "2기 시즌을 앞두고 팀 전력을 완성하는 과정이 향후 성적에 큰 영향을 줍니다.",
-      "fanTakeKo": "빨리 팀 다 모아서 이기고 싶어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUZlejlwbkVieERaNnRfdWVsTXpNaWZKVDRBVlJpbFlXeWwwMnFpWlZ4am",
-      "title": "💚 Volta pra casa! Pedro Rocha, jornalista da GE TV, revelou que os treinos do atacante Gabriel Jesus na Academia de Futebol mexeram com o coração do jogador. Vale destacar que a Cria treinou no centro de treinamento do Palmeiras para se preparar par - facebook.com",
-      "summaryKo": "가브리엘 제수스, 친정 훈련장서 감동",
-      "excerpt": "💚 Volta pra casa! Pedro Rocha, jornalista da GE TV, revelou que os treinos do atacante Gabriel Jesus na Academia de Futebol mexeram com o coração do jogador. Vale destacar que a Cria treinou no centro de treinamento do Palmeiras para se pr",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUZlejlwbkVieERaNnRfdWVsTXpNaWZKVDRBVlJpbFlXeWwwMnFpWlZ4amRGYW5IMVBWallVR041S19Ud29HNlNjYUJZd0p2RDg4aklMVjVmc3loaXRqLWtXSFB4V2JVVkdWX3VTeE9vbjU1bDdueF81Q1hWdW9RQkZCY0RKNWprR1JOMXFXc1lSREh1RlpkQVZHQlktVEVfVUcxWjlJY0NTeFEtNmZkdXRJYXdqQXFXZWFjT29xcTRkY2lRaWFnUGFwWFlpbnpXMU5ldEVIZUtudml5ZTVr?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-07-11T06:02:36.000Z",
-      "whyItMattersKo": "친정 구단 훈련장 방문과 감정 표현은 향후 이적 가능성을 시사할 수 있습니다.",
-      "fanTakeKo": "제수스야, 정말 돌아오는 거야?",
       "tags": [
         "뉴스",
         "AI요약"
