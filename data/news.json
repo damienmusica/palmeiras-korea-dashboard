@@ -1,8 +1,22 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T10:38:28.438Z",
+  "fetchedAt": "2026-07-12T12:02:46.089Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVxVjZ6eWctcGdseXdncEJzUmpqN3JyMUNWLVZvVDY3X0ItWkpsU2k4LVZ",
+      "title": "Flaco López fala sobre rivalidade com a Inglaterra: ‘Vamos dar a vida nessa semifinal’ - Estadão",
+      "summaryKo": "Flaco López는 잉글랜드와의 경쟁에 대해 이야기합니다: ‘이 준결승전에서 생명을 불어넣자’ - Estadão",
+      "excerpt": "Flaco López fala sobre rivalidade com a Inglaterra: ‘Vamos dar a vida nessa semifinal’&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVxVjZ6eWctcGdseXdncEJzUmpqN3JyMUNWLVZvVDY3X0ItWkpsU2k4LVZ6bmpqRjJWclg1bDJsRXBfOXFSNmd4cHpmVzNJdGJnZUJRVmtIYm91RGE0aTdMcE9HSFhFVlFJN3gtZ2VRbktkUzJ2c25mWGFOUkdKS3U5d3hqdzh3RUZ3U0hCYzA3aGJXcjZPYjRsellhZi04bVhvT0plWXhJZHNlSUNYNDc1V21Udm5QNndvSDNmdmZMZWJQQVhvcmRIVmo3bXfSAdQBQVVfeXFMT3FvbEZFWjcwbThEZ2ZNbXNIbmkyZ2tPdlNNUzBKUXliLXZoMzlwZG9GZ0JuS2xvZ0lZWUlmX2NFS3ZILWI0UXdpdXp0SjVtNHZ6WThVdk81NXJVMDU5UFBaNlUtc3plQnFfVFRNb2xIWW1nQkt5TXZRNVdjUkxOMXNWYlo4YmZHZF84T3FGdHBoa05zeHZwZ2ppUHN6NDU4YzRaUVdOaFlJZlVrVTJaYUxmX2NmaEwzM1dsd0hDVVd0MEVzOTVEYUdzbEVPUzVIUXh3MUs?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-12T10:58:05.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclc1ZGVLUkc2Vm1CSFFLLUVWMVJtcGh5UEt3RGtlSGdUWDhtaFdiWDJHRUR",
       "title": "Palmeiras: Vitor Roque avança em recuperação e pode ser reforço em 'jogo mais importante do ano' - ESPN Brasil",
@@ -36,6 +50,20 @@
       ]
     },
     {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVE94b0d3RW5VazFMUEw4VEh6aF9ZVk5EM2xFMU9DNldWYVc5YUR3OHVzS3F",
+      "title": "Palmeiras põe Luighi na lista de transferências, e estafe busca novo clube - UOL",
+      "summaryKo": "Palmeiras는 Luighi를 이적 목록에 올리고 직원은 새로운 클럽을 찾습니다 - UOL",
+      "excerpt": "Palmeiras põe Luighi na lista de transferências, e estafe busca novo clube&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVE94b0d3RW5VazFMUEw4VEh6aF9ZVk5EM2xFMU9DNldWYVc5YUR3OHVzS3FuWUZLTHpDR3p5dlNFLUZ4U1F5bC13WXk2aVRSZ0xPUE9fWHFxNzIxVmZPWHNXVEV2b3MwTHBsN2JlaDh6NTB4OGRsUS1kTW5vWlgzbXBrNlIxOU1QYzJJb0lJc2s1OWx6dV9BOWQxdkNNa0xOeEwwV0dLUVVNNW1DakNjMmpkdnM3SHc3S1hHLWg2N3V6OFlBRGgyRUpuekFHYjFLN0JyTExlV3FRVWtfT2t3?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-12T09:49:49.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWHVoUkxGb3VZOE5jR3BiZDloVGVacEp3WWxGcF9nY3l0QUhGbmMtcFpzYk9",
       "title": "Palmeiras põe Luighi na lista de transferências, e estafe busca novo clube - UOL",
       "summaryKo": "파우메이라스, 루이기 이적 명단에 올렸어",
@@ -65,6 +93,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmF6N3VnNGc2a1lFd3ZiVFd4Q1hNb3NzLVF6eDZvMkhORTJYQzV6Sm5BQ3B",
+      "title": "Scaloni minimiza peso de Argentina x Inglaterra e elogia Flaco López: \"Entrou muito bem\" - ge",
+      "summaryKo": "Scaloni는 아르헨티나와 잉글랜드의 체중을 최소화하고 Flaco López를 칭찬합니다: \"매우 잘 들어 왔습니다\" - ge",
+      "excerpt": "Scaloni minimiza peso de Argentina x Inglaterra e elogia Flaco López: \"Entrou muito bem\"&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmF6N3VnNGc2a1lFd3ZiVFd4Q1hNb3NzLVF6eDZvMkhORTJYQzV6Sm5BQ3BfS2VBcEt4eUtOTEg4U0hwN1RQMFJfcTJQOEk3QTQwdHBkU0pQTzg1ZjB0a2xZb3hIM3lQOXFuVXRqT1Y2MFF2bEVnOXhSVkRtMG1jVWZiN3NteEJORXdWU3JYdHlQU2Vzc19MbC1XaHB4LVVsUkduYUhCRGFyZWRnWHEtNHI2RlpCN1RudmhwYnRXOEJQcXVTdnR0VWR3eDRnZkdTWmRVMmhDNExxQ3lXTUJpREJMZGcybG8x0gH3AUFVX3lxTE1ON0xhZWNOMUM4ek1OZHFXXzBnYXVJWENVSU1iZGJHQVI2c1JJY1ZQeWhtUUhXSFp5b3B5REEyMGpVa3UxZk9Bcl9jV0U3Y1NnVlREZ0JqaFNYM0VUbXd4SGZHUC11RXlDV3U3WHY1SHFxVVd5SUY0Snp1dXBXZ2NsZTV1RlVwMUI5OHk5OUJwSEYyMDU2SmVQMDQ4U3EtM3ZfamoydzkyUEYxRUhZYnRwYVoyT1lfOFdwbUVnMURmRXBBbDdXU0w3TnJreDNBOWw5TkxlQWh0aDlsRUpnZmRYUG5OcWRKUmF2QUdVZUdvRFVvMmhDdkE?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-12T08:00:08.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -902,54 +944,6 @@
       "publishedAt": "2026-07-10T21:58:44.000Z",
       "whyItMattersKo": "수비수의 이적은 팀 수비력 변화와 새 영입 자금 마련에 큰 영향을 줄 수 있습니다.",
       "fanTakeKo": "수비진이 허술해지진 않을까 걱정이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNGhEa241MGczcHlpNUIwU2hBdXFqdHZ4ellSMjE5WDRYdURDSXNJUkgwenc",
-      "title": "Palmeiras x Atlético pelo Brasileiro terá restrição de público; entenda - No Ataque",
-      "summaryKo": "파우메이라스, 아틀레치코전 관중 제한 편성",
-      "excerpt": "Palmeiras x Atlético pelo Brasileiro terá restrição de público; entenda&nbsp;&nbsp;No Ataque",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNGhEa241MGczcHlpNUIwU2hBdXFqdHZ4ellSMjE5WDRYdURDSXNJUkgwenctTjU5T2JJS19tU2trU2VNLU85MEVUaFpNQVItcEN1SENVbTNDRGhtVlVGdEdwdFUzQldETlMzZDVFYlF1OGVUdmRITnQyelRleURKZjFjNVpucWhWN1ZHa0RaZ2dSb2NYczd5aWRncXdyVXlQM0xVWFJUbW05YUFrVU5fZnJFS2g2S3U1c1hVQWJRdzh4amVka0ZSOU9ycE5rNG1OUEdlRzVPRkhTVW51bExfbm5RMk1EUUhhWm9lek9sd2o?oc=5",
-      "source": "No Ataque",
-      "language": "pt",
-      "publishedAt": "2026-07-10T21:33:33.000Z",
-      "whyItMattersKo": "관중 제한으로 홈 구장의 열기가 식어 선수들에게 다소 불리할 수 있습니다.",
-      "fanTakeKo": "관중 제한이라니 너무 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGRQc281bl9FVzNYZ1dWRlVuaHBPbW5SRUJlbUVNZ0tIalZjdklkTkMtdDF",
-      "title": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup - Agora MT",
-      "summaryKo": "파우메이라스, 플라멩구와 레이디스컵 결전",
-      "excerpt": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup&nbsp;&nbsp;Agora MT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGRQc281bl9FVzNYZ1dWRlVuaHBPbW5SRUJlbUVNZ0tIalZjdklkTkMtdDFkTEVCT2Q5SkN0SzAyNHR3TVA0b1l6elNIV2NwY0JfMXJZaTFzRVd0UWlSX3lrQzg4R05WejlqRkx6XzJnMmVlMkNaQnZaNjQwbnBFcjRLbHYwYWpGTzFGdDdyNVlydC0waHQ2RVV2RmU3bHF5QThVVEIyUW4?oc=5",
-      "source": "Agora MT",
-      "language": "pt",
-      "publishedAt": "2026-07-10T21:28:16.000Z",
-      "whyItMattersKo": "여자부 리그 전 플라멩구와의 강전을 통해 팀 전력을 점검할 기회입니다.",
-      "fanTakeKo": "여자부 대회도 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWF9nb1dYdDZvbGtwaEdVdVZKTDFfREVybzdDLW16Q1h5Z1owc2tfOTQxcTc",
-      "title": "Palmeiras x Atlético-MG: veja valores e como comprar ingressos para jogo do Brasileirão - GE",
-      "summaryKo": "파우메이라스, 아틀레치코전 입장권 안내",
-      "excerpt": "Palmeiras x Atlético-MG: veja valores e como comprar ingressos para jogo do Brasileirão&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWF9nb1dYdDZvbGtwaEdVdVZKTDFfREVybzdDLW16Q1h5Z1owc2tfOTQxcTc0UnYyanltR0h1TmRNclZvRS1fekhyN1VJM3dEU0pFdFhWekpfLVEwMTY2a2ZNY2ZUZzlDNlc1U1dVXzllcVhwSnpPUmZfTThvQnBHUFBzS3pMSkZzdGF6MXB2czA0VEx1ckQ3aktfeE42Qk1BTkxxYVc1Um05UjNXQ0owRTNRSDFieVRTNjhKa25GWWN1ZGhtclU5TWw0Sjc2UU1RblUybkxZdkZ0Yk82WG9xWDJLN2NORXdteDJfT9IB-wFBVV95cUxQaVVza1JScEo1azBYVE5nYTV5ZXNKZUxtNlZBNHE3Q3Bjd2Y1T1hlbzVaUDE4RWxVNGRtaXdQWnlSTnZucHcxcGpKdXJJOXJBcTdPcUwzLXBnZS1meFhGZzdVUm5IWUV4Zmh2b1VyMFBqVW5zYWVORk5KTmJJOTFvd19weWhvMlVuT0xLdzRIMVlDcmpTNWRVYVFBZ3M4UjhiR2Y2bUhtZGtwVkczSWtHUmljRldNSVZHd09jc2tBS1c3X0hkX1FwcHV3SzRwN0d3ZFNKVDc5UnNqVUJxWVhZXzY0Vnh4R29ZLThvSk9PNTRvWGdSbFhvSHR0aw?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-10T21:17:29.000Z",
-      "whyItMattersKo": "경기 입장권 가격과 구매 방법이 확정되어 직관 계획을 세울 수 있습니다.",
-      "fanTakeKo": "빨리 티켓 예매해야겠네요.",
       "tags": [
         "뉴스",
         "AI요약"
