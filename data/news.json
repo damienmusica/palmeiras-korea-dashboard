@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T06:17:45.576Z",
+  "fetchedAt": "2026-07-12T08:38:20.772Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWHVoUkxGb3VZOE5jR3BiZDloVGVacEp3WWxGcF9nY3l0QUhGbmMtcFpzYk9",
+      "title": "Palmeiras põe Luighi na lista de transferências, e estafe busca novo clube - UOL",
+      "summaryKo": "파우메이라스, 루이기 이적 명단에 올렸어",
+      "excerpt": "Palmeiras põe Luighi na lista de transferências, e estafe busca novo clube&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWHVoUkxGb3VZOE5jR3BiZDloVGVacEp3WWxGcF9nY3l0QUhGbmMtcFpzYk9RWE40Q01PaEstOElUMkFXNkpEbWZDZ0RrQU9aY0hONGRkQWhBd0FDTC1Wam5nbUNPMWd2U2lQRWR0OFNxYk9qX1JwVVhVMmVObzFWcERRTXdldUI2WllmNFQ1d1dKeWRaNzBUcE9oOS1wREIzX1lwWVV5ek5PNmdhWm1vSV9LeUhRMC1rUUpDNl9TTXZLVGs0QVQyREwwODc3LWhuUUcwQW1ISmZFWGtpSnNVdHZhMlNSb1p2elY4Sk9XSTRhYU9wWmc?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-12T08:33:57.000Z",
+      "whyItMattersKo": "선수단 정비 차원에서 루이기를 내보내려 해 로스터 변화가 예상됩니다.",
+      "fanTakeKo": "루이기 이적, 아쉽지만 응원할게요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMUliSFNpV0UtdVlzWGRySmY5YVFJVTRVYkZ2bGVNMkJUZ2RaQmlXQ1FmY1o",
+      "title": "Domínio total: base do Palmeiras atinge quase 90% de aproveitamento durante a Copa do Mundo - ge",
+      "summaryKo": "파우메이라스 유소년, 월드컵 중 승률 90% 달성",
+      "excerpt": "Domínio total: base do Palmeiras atinge quase 90% de aproveitamento durante a Copa do Mundo&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMUliSFNpV0UtdVlzWGRySmY5YVFJVTRVYkZ2bGVNMkJUZ2RaQmlXQ1FmY1o4Znp5bDJRUFhnS0lBSTNEWkszLWhzY0NvTVZCdDA2Z3hZUTUzOElSekZIMVo4aU9adTNOajVJaE1rTlVrejFva1FwMjlZczFkSzNSdVdoZE1kX21LT1lvMU9ZaGY0cDFlaFMzdnB6WWd0cTljd0hUVDZvcWZKdDRhMVNjbDVNOGVYY0Nmd1Y3b1dGajhuMmIycU5jdXJMaTZaRjd0LXRFRGdJdXJZVWU5ektza2ItUkRPOVBmODFIdDVsbS1BN3pDbjBpOVl30gGIAkFVX3lxTE44bWU2SmM5UEllRWdkYnNyZ0xfUkhPYVFxNkZBc1Y3LTloYXBGelF5eW5aN2hqVGNZN1NvVTc1Q0VhUUtKeXM3b2REeEF0VjUwd2padkZHb3JuRUdpMGFZb05kblRMVmxCVUNxQmNzalJsT1JzN2JXRFZiREt5d0VJcHZCaVM4eVZ6b29yTlRzMkNwdG9WY1Nzd1NZc2lvclBvLTE4dGdoMFJLZ1g5NFczQ2ZVR0V0T1JWeDFnTThWY0NHT05CVHZHbVRZR20zMVFlalp0aE5mem5USkFSMm1BcVJlMVdtS1M4SVdiTW93a0J1SWctdFplQXlPV3BfNlpDakdpYTg5Zw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-12T07:00:37.000Z",
+      "whyItMattersKo": "유망주들이 월드컵 기간 압도적 성적으로 미래 전력이 탄탄함을 보여줬습니다.",
+      "fanTakeKo": "유소년팀 미래가 정말 밝아요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzNpbnV2OVBqcGdSTHFSOWtfYXZEX25uZnRBT2RRSERxOUtLd3ZvbVZPdVl",
       "title": "Fifa credita assistência de Flaco López em gol da classificação argentina - UOL",
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-10T20:37:10.000Z",
       "whyItMattersKo": "팀 전력을 점검할 연습전이라 경기력을 높이고 선수들의 컨디션을 조절하는 기회입니다.",
       "fanTakeKo": "연습전이라도 보고 싶네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzJra2QzSWR2RDFuUkJDOVB0ZnpfV21JQXUwZzFjUXVEUFNfVjAzbmJGbUJ",
-      "title": "Palmeiras intensifica busca por Danilo e coloca Naves na mesa de negociações - Diário 24 Horas",
-      "summaryKo": "파우메이라스, 다닐로 영입에 나베스 내세워",
-      "excerpt": "Palmeiras intensifica busca por Danilo e coloca Naves na mesa de negociações&nbsp;&nbsp;Diário 24 Horas",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzJra2QzSWR2RDFuUkJDOVB0ZnpfV21JQXUwZzFjUXVEUFNfVjAzbmJGbUJNUXZkc0Zqc0pGbEZZZWhMNE1TN2JvbnhldWw3bUlmRG9sakV4a2p0S1U4d1hPeHliNzg0NG5wSVRyTVJnZHUxQ2hzRVRpNXdxMXBTQWM4VlJtTGZfb0V1a0xuRTkxWjBwZ2U0NW1HNFdGM3pSMHVHZHpMT2VXSTVYdmhVZk9ZWGF6c1NHRmQ2UUI5Vlg?oc=5",
-      "source": "Diário 24 Horas",
-      "language": "pt",
-      "publishedAt": "2026-07-10T20:33:28.000Z",
-      "whyItMattersKo": "새 선수 영입을 위해 기존 선수를 협상 테이블에 올린 만큼 팀 보강이 성사될지 주목됩니다.",
-      "fanTakeKo": "영입 성사되길 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3NOejdTZjV4RVFiNk9lclFDMVFWZ29ZTWZ2ZFBaZHRHRUhsTTF4ZjdMVDU",
-      "title": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup - Marechal News",
-      "summaryKo": "파우메이라스, 플라멩구와 레이디스컵 결승",
-      "excerpt": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup&nbsp;&nbsp;Marechal News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3NOejdTZjV4RVFiNk9lclFDMVFWZ29ZTWZ2ZFBaZHRHRUhsTTF4ZjdMVDUzRzhwbTJ3bGJvc1N4cV9oM2h6MzlERnp3RXplTUFvY2JBLTRXODM0aEw0VkZCSkdjNTFKX3RUcUhFdlhZSWFXYmF4al9YSEJ5MmJYUXZaeHVYS1cydUZBT01iT1VIRF9PWlkxRTltY0ZHLU43MndyRUpqend5UXg2ZjFZd2JR?oc=5",
-      "source": "Marechal News",
-      "language": "pt",
-      "publishedAt": "2026-07-10T20:23:00.000Z",
-      "whyItMattersKo": "여자부 리그 개막 전 강팀 간 대결로 팀 전력 점검과 분위기 조성에 중요합니다.",
-      "fanTakeKo": "여자부도 기대되는 대결이네요!",
       "tags": [
         "뉴스",
         "AI요약"
