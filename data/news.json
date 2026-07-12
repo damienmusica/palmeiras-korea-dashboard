@@ -1,24 +1,8 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T21:51:57.220Z",
+  "fetchedAt": "2026-07-12T22:50:58.550Z",
   "items": [
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnF",
-      "title": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances - band.com.br",
-      "summaryKo": "파우메이라스, 유벤투스 꺾고 연습경기 승리",
-      "excerpt": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnFGUUxRMWs0MFBkRUV6Q280NklBSjVqT0RjQk1pTi1fc3RZTXQtY3E4N2R1aW13UElzaGlWNThRNWIwY2dPMjZ1WVAzVUEzb2R2SlRzNjNrbDc5bW9HV1MyVVkzcmlSU3NMdFFHSHlrd0U2T1UtMXBMRDJoMDAxemRsN2hLbTB2eWFRN0FvaXZhSlJrZ2c1UWpZWUlTemxnWHBCVnlqTkZHaUxmY1N0LVR6eG83QzQ4cW1VM2s?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-12T19:30:56.000Z",
-      "whyItMattersKo": "공식전을 앞두고 선수들의 컨디션과 전술을 점검하는 중요한 기회가 되었습니다.",
-      "fanTakeKo": "연습경기 승리로 기분 좋은 출발이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTBWM09FR3dnaU5uVklnODJJYmZIcnZFN3FMS09hTFlyWk9oN3E1RVNUNWF",
       "title": "Como Palmeiras transformou Flaco López no atacante decisivo para a vaga da Argentina à semi da Copa - GE",
@@ -30,6 +14,22 @@
       "publishedAt": "2026-07-12T18:02:36.000Z",
       "whyItMattersKo": "파우메이라스의 육성 시스템이 국가대표 핵심 선수를 배출한 또 하나의 성공 사례입니다.",
       "fanTakeKo": "파우메이라스 육성 능력 진짜 대단하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnF",
+      "title": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances - band.com.br",
+      "summaryKo": "파우메이라스, 유벤투스 꺾고 연습경기 승리",
+      "excerpt": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnFGUUxRMWs0MFBkRUV6Q280NklBSjVqT0RjQk1pTi1fc3RZTXQtY3E4N2R1aW13UElzaGlWNThRNWIwY2dPMjZ1WVAzVUEzb2R2SlRzNjNrbDc5bW9HV1MyVVkzcmlSU3NMdFFHSHlrd0U2T1UtMXBMRDJoMDAxemRsN2hLbTB2eWFRN0FvaXZhSlJrZ2c1UWpZWUlTemxnWHBCVnlqTkZHaUxmY1N0LVR6eG83QzQ4cW1VM2s?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-12T18:00:06.000Z",
+      "whyItMattersKo": "공식전을 앞두고 선수들의 컨디션과 전술을 점검하는 중요한 기회가 되었습니다.",
+      "fanTakeKo": "연습경기 승리로 기분 좋은 출발이네요.",
       "tags": [
         "뉴스",
         "AI요약"
