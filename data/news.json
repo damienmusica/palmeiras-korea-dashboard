@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-12T23:55:57.115Z",
+  "fetchedAt": "2026-07-13T03:20:19.490Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEVZSXhYSW9rTVh6Q3VtNWJSbFpIWVJqR1RZUjlzVzZkU3N6Qm0xWWJSalF",
+      "title": "Palmeiras bate Flamengo e é bicampeão da Brasil Ladies Cup - Olimpíada Todo Dia",
+      "summaryKo": "파우메이라스, 플라멩구 꺾고 레이디스컵 2연패",
+      "excerpt": "Palmeiras bate Flamengo e é bicampeão da Brasil Ladies Cup&nbsp;&nbsp;Olimpíada Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEVZSXhYSW9rTVh6Q3VtNWJSbFpIWVJqR1RZUjlzVzZkU3N6Qm0xWWJSalFhWFFvM1E5T2NfNEdTcnhDdkJ0NUlpMXlGUjJ6Y3Q4cFVQY1FfWldWQjR2RnRLMko2anpZNUVENS1zSzltNVpXcDE2SkdCcEs4cjdDV2dVTE1hWG9CMGZINHd0RmZfcXEyQXpadG5GU2VUOHVhaTFkT3ZPdFlPNW5UYjVjYXo2NA?oc=5",
+      "source": "Olimpíada Todo Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-13T01:49:10.000Z",
+      "whyItMattersKo": "여자팀이 강팀 플라멩구를 이기고 대회 2연패를 달성해 팀 위상을 높였습니다.",
+      "fanTakeKo": "여자 파우메이라스도 대박이네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMingFBVV95cUxNaGpXa2JmS3Vfak5JNHNBdktneWR5eF93WDh1X193N2paQW5uYzBTdmlWRmJ",
+      "title": "Leila Pereira esclarece futuro do Palmeiras e descarta transformação em SAF - Fato Paulista",
+      "summaryKo": "파우메이라스, SAF 전환 계획 없다",
+      "excerpt": "Leila Pereira esclarece futuro do Palmeiras e descarta transformação em SAF&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGpXa2JmS3Vfak5JNHNBdktneWR5eF93WDh1X193N2paQW5uYzBTdmlWRmJjXzdOODBkYUROWG9qMHJTRnF1RVd5UzMxcEJJbVV4bjFrN2MwV3VialRPWF9iVFo4am5Ic0QwMkRmZnR4MVVLUFRJdDk0QkJvYnBFbmV5bFhJcWgtdHpPSU5ub2RHS3lzaURXaE9PcWtQZw?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-13T01:17:59.000Z",
+      "whyItMattersKo": "클럽 경영 방식이 기존 모델을 유지한다는 확신을 주어 팬들의 불안을 잠재웁니다.",
+      "fanTakeKo": "기존 방식 그대로가 마음 편하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiswFBVV95cUxOclhOdmVfRTRWb25CcWxUb2JkN3h0dVdiaWl1R3EtOENiV0lkSkZNYmNEMnU",
+      "title": "Palestrinas vencem Flamengo e conquistam bicampeonato da Brasil Ladies Cup - palmeiras.com.br",
+      "summaryKo": "파우메이라스, 플라멩구 잡고 레이디스컵 2연패",
+      "excerpt": "Palestrinas vencem Flamengo e conquistam bicampeonato da Brasil Ladies Cup&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclhOdmVfRTRWb25CcWxUb2JkN3h0dVdiaWl1R3EtOENiV0lkSkZNYmNEMnU3Q0M5MHZDMllJaUJxS2VXblJtVnRTazFhazZuUHlWOF9hNk9qRHZJWGRtSzF5Yjlqb2xSVEkzQTJSd181ZHdqRkJhVWRfckNkYUZmMXpvZVlULXdnMjJCN2ZDWjFLcjlWZ0k0WXB1c3h1ckNORUVINnhOT3pTQVJsQTlvekp1cw?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-13T01:16:13.000Z",
+      "whyItMattersKo": "여자팀이 라이벌을 꺾고 대회 2연패를 차지하며 파우메이라스의 저력을 보여줬습니다.",
+      "fanTakeKo": "여자팀도 챔피언이라니 자랑스럽다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZ3eTVZT2pBVXA3aGtuS0c3YkZOX1Y4cFY3NTZueWhrYmc5SmhNM3BJaWZ",
+      "title": "Flamengo perde para o Palmeiras e fica com o vice-campeonato da Ladies Cup - Flamengo.com.br",
+      "summaryKo": "파우메이라스, 플라멩구 꺾고 레이디스컵 우승",
+      "excerpt": "Flamengo perde para o Palmeiras e fica com o vice-campeonato da Ladies Cup&nbsp;&nbsp;Flamengo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZ3eTVZT2pBVXA3aGtuS0c3YkZOX1Y4cFY3NTZueWhrYmc5SmhNM3BJaWZCN1BHb19RS0FrZFFUNGpWZGc3eDhtNEtHU3FONk44a1FDUTFJeDBvTFh4cDVjWlpoS0oyNHhwX0xBbVQ3RlZSZXFtdWZaa01pZmhvWUh6REswN0d4MzlaZzBjRklJUm5IWWoxWC13Yk1STEROWjQtcnlNekVIZGFJU3VYdDZyMVRNSlBCN1htMG5hVWJDazhocjJN?oc=5",
+      "source": "Flamengo.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-13T00:42:00.000Z",
+      "whyItMattersKo": "여자팀이 플라멩구를 상대로 승리하며 대회 2연패라는 쾌거를 이뤘습니다.",
+      "fanTakeKo": "우승은 언제나 기분 좋죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzlOQ0pGRGNKZTFqbTY0SndtSGlWWUlXWUxIMlU0bVR0SHoyaks3M3FteEN",
+      "title": "Flaco López avança com Argentina na Copa e deve desfalcar o Palmeiras no Brasileirão - LANCE!",
+      "summaryKo": "플라코 로페스, 국대 차출로 파우메이라스 떠난다",
+      "excerpt": "Flaco López avança com Argentina na Copa e deve desfalcar o Palmeiras no Brasileirão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzlOQ0pGRGNKZTFqbTY0SndtSGlWWUlXWUxIMlU0bVR0SHoyaks3M3FteENHSmpwaFFOZk9YY0ZVZFI2VlY2ZjVtaXYxcll2bEtIQXJnVnk2OEVpeWhfcWhzTzA5MTlNZEJBejFab2hFWHFXSkJPUFE2RlFqdWJYZ3J6X0Rfa3lramVUNVQ2SUVNRTVFSlBObGNXTFIwZGFibUx6T29EeXVpZmVwd1hwSFpiNmlJRnhoWGoxeEItQlZBUQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-12T23:59:01.000Z",
+      "whyItMattersKo": "국가대표 차출로 리그 전력에 빈자리가 생기며 선수단 운용에 변수가 생겼습니다.",
+      "fanTakeKo": "국대 가는 건 좋지만 팀 전력이 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMinAFBVV95cUxPekM0OHBjYlVCMnJNeVJqNU55dGxvNGMxT1Y4MlNiLU8yZ2FxRzdBUGVRWno",
       "title": "Flamengo x Palmeiras: veja o placar em tempo real da final da Brasil Ladies Cup - Gazeta Esportiva",
@@ -868,86 +948,6 @@
       "publishedAt": "2026-07-11T15:19:31.000Z",
       "whyItMattersKo": "무승부였지만 선두 자리를 지켜 리그 우승 경쟁에서 좋은 흐름을 이어갑니다.",
       "fanTakeKo": "선두 자리는 지켜서 다행입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMivgFBVV95cUxPR29OYXJydFdLVnYzVkM4X05ETWNfWlV5YmJHakxST2hDRWtwUnJQNFZpblR",
-      "title": "Palmeiras é superado pela Ferroviária e perde invencibilidade no Paulista F Sub-20 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 유스, 무패 행진 끊기고 아쉬운 패배",
-      "excerpt": "Palmeiras é superado pela Ferroviária e perde invencibilidade no Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR29OYXJydFdLVnYzVkM4X05ETWNfWlV5YmJHakxST2hDRWtwUnJQNFZpblR5eFhyZE9TTDEzNWxHNjJTVWpNaEYwTFY4U2RYajE1cnZ3ZzVuVTM5QUlESzNYYkFHb2ZXY1czenkzb29mTWJFN3pvOGdmZ1R6LVA3dnk2RGRYc0pJc0J5bElLaldwaHJWLTFYYlQ2Rk55MUFEOVBfVGtkN1h4M1hYa2RRblFRV2RGb3M0aVBqR2dR?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-11T15:16:03.000Z",
-      "whyItMattersKo": "유스팀의 패배는 미래 주전들의 성장과 팀 전체의 분위기에 영향을 줄 수 있습니다.",
-      "fanTakeKo": "유스팀도 다시 분발해야겠네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMisAFBVV95cUxNODc1eHd3b1BsV2tDUUxlSWMzNHV0RFhDT2s1UWdiR1prSGZfMjA2dFY5R1",
-      "title": "Em Campinas, Palmeiras decide título da Brasil Ladies Cup contra Flamengo - palmeiras.com.br",
-      "summaryKo": "파우메이라스, 플라멩구와 레이디스컵 우승 격돌",
-      "excerpt": "Em Campinas, Palmeiras decide título da Brasil Ladies Cup contra Flamengo&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODc1eHd3b1BsV2tDUUxlSWMzNHV0RFhDT2s1UWdiR1prSGZfMjA2dFY5R1ByZW9VLUY3emNXYjllRmVvLVVTSU1fdDBOekJFRDdpdTNDYXBMSV80UnhMVHhpMFRpTFpINW12ZHZsY2dMOGxBN2NZRVg2ZkNtWHNrZW9wSnNRMzlBSGhCa2FkQ25tdzRILXFUaF85NTZ5ODRBWFk1Nl9nOXRKd2owTEhqTQ?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-11T14:42:45.000Z",
-      "whyItMattersKo": "여자팀이 강팀 플라멩구를 상대로 우승 트로피를 놓고 최후 승부를 겁니다.",
-      "fanTakeKo": "여자팀도 우승 가져오자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd0tHTldKNkRuRjJoSmluUjdjT21tTngtWDk2cmRTZlFkem5hZnMtZjJIVG",
-      "title": "Palmeiras apresenta oferta milionária para tentar contratar Danilo junto ao Botafogo - JM Online",
-      "summaryKo": "파우메이라스, 보타포구 다닐로 영입에 거액 제시",
-      "excerpt": "Palmeiras apresenta oferta milionária para tentar contratar Danilo junto ao Botafogo&nbsp;&nbsp;JM Online",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd0tHTldKNkRuRjJoSmluUjdjT21tTngtWDk2cmRTZlFkem5hZnMtZjJIVGFvVmp5dTNmN3dfX0NSM05yTEJFRk1oc0dzbG14NTd4VkI4NEp5QlUzZUJkZUFUN2NZUnBzQmdTdGViX0xWVzRfRF9icjgxaE11QTlNd0dORkliRGowZHdydHBaT0dhRDhLYWlZbDc0ZXU3VzRKZWpodWdrVGJsTFZPSFlCZ1NSRVJUVURtWURDem5iSVVJQknSAcsBQVVfeXFMTzJrd0ZNTnpTYXQ4RlBDaFFzR2RodXJ2Y2tSdlR4eVp4UURxT2dVYkhNOWRSSG1VSnd6NWkxd3dEOFFaWDZld1BtZm5xT3BEZmp6TmlyeWl3dTY1RVlBdGNMUFB2YlNUempxNkFXZzRqUlhMQnk0cnUzUi1yUTM5bUxkTXd4cDBBTU5jQ0pGTkRkQ1pDcFBGVUVsWGVHMEpNUDJwZ00yLUdVTURWZnI5cmtEWGtfdXNvVnlYU013MEh2eUxINlNLVE9GN00?oc=5",
-      "source": "JM Online",
-      "language": "pt",
-      "publishedAt": "2026-07-11T14:06:00.000Z",
-      "whyItMattersKo": "주전 미드필더 영입을 위해 거액을 제시하여 중원 전력 강화를 꾀하고 있습니다.",
-      "fanTakeKo": "다닐로 영입 꼭 성공했으면 좋겠다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMivAFBVV95cUxNSk91RE1rVmJQVVlVbDlGejJjczNnTXF5NEFFMGtHTG5TWFo4VjNGOUVjbHp",
-      "title": "Palmeiras recebe informação preocupante para contratação de Danilo - ABCD Jornal",
-      "summaryKo": "파우메이라스, 다닐로 영입에 우려되는 소식",
-      "excerpt": "Palmeiras recebe informação preocupante para contratação de Danilo&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSk91RE1rVmJQVVlVbDlGejJjczNnTXF5NEFFMGtHTG5TWFo4VjNGOUVjbHpFYUFfdTVmeXNfVkhGUGhHdHFmenlFOUtfazhmZ0ZzbkZmd01TUGQ1b0tnSi0tSEJpbThXdFZ2Y1EwRlR2ZFo2Y2lHWUNuTTNjQkRKX3lNOTBiUF9pUE5GUktweXJrYVg5VXBvdVdXRTVnU1ZhOXBsN2Y3VnQ2cVBWYVpBTmJkVnVjRFduaGY2UtIBwgFBVV95cUxPVmJOOVlyRXlmRVJYTGdFVXlLVV9TN0RITWVUV1hURE43RXRna2RHcVRERG5ydDdZSDE5c0dhYXV2QmxPeEhpdHhMeU1HSTktYlE3WDJPNVBEQ2h5NnIyU0VpME1PU0EtTHh0VXZqQ05tcWNSUEktemhpWnI1TkFPQjliTXJhTTJqM2tHWkxIc0lpRnVYVHZCOGRJc3Y4S1hpc2JCcmhmdGdMOTdkdGtFM1lfTm9PNmNGeWRCVW9kd1pRdw?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-07-11T13:44:24.000Z",
-      "whyItMattersKo": "다닐로 영입에 변수가 생겨 팀 전력 보강 계획에 차질이 생길 수 있습니다.",
-      "fanTakeKo": "영입 잘 되길 바라는데 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTBrMUg2Y1RLQUozV0FtanMzZEN5Nkhlb1M0cG1RcnJrR1BMODFrRlg3b3J",
-      "title": "Palmeiras manteve planejamento de mercado mesmo após vices para o Flamengo - LANCE!",
-      "summaryKo": "파우메이라스, 플라멩구에 패배해도 계획 유지",
-      "excerpt": "Palmeiras manteve planejamento de mercado mesmo após vices para o Flamengo&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTBrMUg2Y1RLQUozV0FtanMzZEN5Nkhlb1M0cG1RcnJrR1BMODFrRlg3b3J1QTNTNXJuUFNQdnFaVmhpbmF2MzNPYmV3ZzBNRjQ2UnJyYlQyMnRfOTFhdjd3OHR6THBDVXVfTURza254XzAzZjItYkxqajEtbEJFZjdOaUMyd1lWVGtQWkVkR0JCTUtZWC1mdWhVQW9HbmFRX1Q1V3d0TGtkN0wxX1lobnpOVkM?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-11T13:42:08.000Z",
-      "whyItMattersKo": "최근 패배에도 흔들리지 않고 원래 계획대로 영입을 추진하며 팀 체계를 지키겠다는 의지입니다.",
-      "fanTakeKo": "계획대로 튼튼하게 지키자 파우메이라스!",
       "tags": [
         "뉴스",
         "AI요약"

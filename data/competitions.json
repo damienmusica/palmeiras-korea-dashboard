@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-07-12T23:55:57.605Z",
+  "fetchedAt": "2026-07-13T03:20:20.226Z",
   "season": "2026",
   "campaigns": [
     {
@@ -145,31 +145,7 @@
           }
         ],
         "result": "ongoing"
-      },
-      "path": [
-        {
-          "roundKo": "이전 라운드",
-          "opponentId": "17713",
-          "opponentName": "Jacuipense",
-          "opponentNameKo": "Jacuipense",
-          "legs": [
-            {
-              "kickoff": "2026-05-14T00:30Z",
-              "venue": "away",
-              "legKo": "2차전",
-              "status": "finished",
-              "trackedHome": false,
-              "matchId": "espn-401866354",
-              "score": {
-                "home": 1,
-                "away": 4
-              }
-            }
-          ],
-          "result": "advanced",
-          "outcomeKo": "합산 7-1 승 · 진출"
-        }
-      ]
+      }
     },
     {
       "competition": {
