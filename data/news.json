@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-13T21:07:08.061Z",
+  "fetchedAt": "2026-07-13T22:27:54.778Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY1ZCUzdBYVpORGlVYXJXVkxUcnNtZF9WdVNaSEJzZ2FWbHRzQzZST0RhOFV",
+      "title": "Com equilíbrio na tabela, 8ª rodada do Brasileirão Sub-17 começa nesta terça-feira - CBF",
+      "summaryKo": "브라질레이렁 U-17, 8라운드 막 오른다",
+      "excerpt": "Com equilíbrio na tabela, 8ª rodada do Brasileirão Sub-17 começa nesta terça-feira&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY1ZCUzdBYVpORGlVYXJXVkxUcnNtZF9WdVNaSEJzZ2FWbHRzQzZST0RhOFVlQjJrTGF2bkR6MmpjOHY4ZVk5TXM0bWtqN3lzYVFzd2dZbWkzU0ZlMlJIbGVjQVp5ODJuRXBGQThjWjNaaS1qSmtXTFZXd1hzczN2emVfZTBJYUcxd2JKZkg5UkdtcmNwQTdnZ0lTQWJNcEZNNHY0QXpzb2FrbEFoSmYtRjJSV251LUVucTQ5a2ItY1lWczM3d1U3ZmFiTlUzbW4zMnN6dXFxeUhyc2pERkRQVzh5X3B1WFFSdTlFbHMtbmJLUVk?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-13T21:43:00.000Z",
+      "whyItMattersKo": "리그 순위표가 팽팽해지며 유소년팀의 성적 경쟁이 더 치열해질 것입니다.",
+      "fanTakeKo": "미래의 에이스들을 기대해 봐!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG5KR2otMnFiVENSZWpBUkNoMlhlWVQ3emx1X2UwdDNubWsxOFR6TV9WMTE",
+      "title": "Palmeiras disputa Derby pela sexta rodada do Paulista F Sub-20 - palmeiras.com.br",
+      "summaryKo": "파우메이라스 U-20, 더비전 승부 예고",
+      "excerpt": "Palmeiras disputa Derby pela sexta rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG5KR2otMnFiVENSZWpBUkNoMlhlWVQ3emx1X2UwdDNubWsxOFR6TV9WMTE1c3ZoeE5DXzFITUplNVd6MG1BQ3hLQ1JxVlpCdU1OMk9DYm03eGFRc1VhVHVFR1BBSl94NFE4SFNyT1JHaEk4RElGeFFZbEJqV1BRdHl3aDdwLVFXYVR1eC1PTi1hRVpRYWktOVlJODhxMC1qZ2JF?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-13T21:34:17.000Z",
+      "whyItMattersKo": "주니어 더비 승리는 팀 전체의 분위기를 끌어올리고 자신감을 심어줍니다.",
+      "fanTakeKo": "어린 더비도 뜨거울 거야!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll",
       "title": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17 - GE",
@@ -14,6 +46,22 @@
       "publishedAt": "2026-07-13T20:57:44.000Z",
       "whyItMattersKo": "미래의 에이스를 알아볼 수 있는 유스팀의 성적은 팀의 내일을 보여줍니다.",
       "fanTakeKo": "우리 미래 스타들 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi2AFBVV95cUxPalIxckRabDJIX3M5bEtCWXM3dmRTUlRoRk9kQXkyUnk2WWdTeko0Vl9xUEd",
+      "title": "Fortaleza x Palmeiras em Cuiabá: ingressos começam a ser vendidos nesta terça - Primeira Página",
+      "summaryKo": "포르탈레자전, 티켓 판매 시작됩니다",
+      "excerpt": "Fortaleza x Palmeiras em Cuiabá: ingressos começam a ser vendidos nesta terça&nbsp;&nbsp;Primeira Página",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPalIxckRabDJIX3M5bEtCWXM3dmRTUlRoRk9kQXkyUnk2WWdTeko0Vl9xUEdZV2NVZWNrOUdHZHpPdVRNUVJrYTNlOEhRNHB0SFJxb3lyVGNMbEhOa3lXcGt1bnpBenlfUXBQM3I4Q0dqaU5ndmxFb1NiX0trTkpoMWd2WmgzcUJDTmpjd083NFFKSjRmMjdNSkwybFdfSEJWSnRxZ2RqZF9naHRBZnBBM1pWYS01NEJvclBuUkpsVDdlZzhOd2NBU0ZDbHE2OGFPRzhYQk92VTM?oc=5",
+      "source": "Primeira Página",
+      "language": "pt",
+      "publishedAt": "2026-07-13T20:45:47.000Z",
+      "whyItMattersKo": "원정 팬들의 응원 동원과 경기장 분위기를 조성하는 중요한 단계입니다.",
+      "fanTakeKo": "꽉 찬 응원석 보고 싶네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -52,6 +100,22 @@
       ]
     },
     {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3kyRkRVYmRmOXVucU5JVFJ2QzUtMFNQTHIzd1pLdFZjbTdNZ0F2ci0wak1",
+      "title": "Brasileirão: veja como está a tabela antes da retomada do torneio - ACidade ON",
+      "summaryKo": "브라질레이렁 재개 앞두고 순위표 점검",
+      "excerpt": "Brasileirão: veja como está a tabela antes da retomada do torneio&nbsp;&nbsp;ACidade ON",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3kyRkRVYmRmOXVucU5JVFJ2QzUtMFNQTHIzd1pLdFZjbTdNZ0F2ci0wak1lSW9uRG9ObmxLdmZpT0I2bVg3bDVGQmhJM3VnZE8yRm9FeWxydkY4eExLYXRSUTZLd2dyX0x3Q2JGaXdWTGh2ejZDYjBoMDBPN3htZW9aVGpSWldiSEJCSEF5amhZaHg4WDBCdFdfcHppZmFjRWhyMGZCNVVOUUFBNVlCTNIBtgFBVV95cUxNQnViVUQ5aXNLTFIwbHJZWDJ0dGRCdUgtUFJ0bEZTOGl6SmptU25ZLUY2ZHF1bkJxNlU2eWhxRzFHeDN3LVdhX3hvWGNNUl9NaGRJcDktU3c4QThhc2NEYllWdmpkN2szU3F1U1hNOUxORVZmalhjUVRGd2phajJNQ1pzeGZ4eE9yZjMxSllITVZiOV9zV3M4NVBodHdESVdXaWFJWHNXZ05rc0VkbGFYdFJsUlZrdw?oc=5",
+      "source": "ACidade ON",
+      "language": "pt",
+      "publishedAt": "2026-07-13T19:28:25.000Z",
+      "whyItMattersKo": "리그가 다시 시작되기 전 현재 순위와 상황을 파악해 전략을 짤 수 있습니다.",
+      "fanTakeKo": "우리 팀 순위는 괜찮을까?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWZ1ZUJCWkVWNTA1cDR3MWJPamhHaDVoMWVXbXdZZ1c0TXFOV0dVaE9NeDR",
       "title": "Palmeiras mira recuperar investimento após Micael se destacar em empréstimo - LANCE!",
       "summaryKo": "Palmeiras는 Micael이 대출에서 두드러진 후 투자금을 회수하는 것을 목표로합니다 - 입찰!",
@@ -77,6 +141,38 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzBGUS1tVkZ6VExUTmdDN2ZmQUt5eWRsZzF0ZTc3aWswbXExRTRHQUZhOVZ",
+      "title": "CBF testa impedimento semiautomático em Palmeiras x Flamengo - vgnoticias.com.br",
+      "summaryKo": "파우메이라스, 플라멩구전에 반자동 오프사이드 적용",
+      "excerpt": "CBF testa impedimento semiautomático em Palmeiras x Flamengo&nbsp;&nbsp;vgnoticias.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzBGUS1tVkZ6VExUTmdDN2ZmQUt5eWRsZzF0ZTc3aWswbXExRTRHQUZhOVZNak9ZNEpCN1lCOWNOLWxIV29RZDBYOHhwQ1hRNVFFMkVsMElfcXh6ZEdURzNpVzJoR3RqeVo0TkhGMjlHakhBUnBnclQzVTRKeW5YMjAyR2xzN2dXWnRCbEVKNzBfbmotZ0tLWWdJTGNhX2dpVVRHQWRjWmxydw?oc=5",
+      "source": "vgnoticias.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-13T18:53:00.000Z",
+      "whyItMattersKo": "빅매치에서 오프사이드 판독 속도와 정확도를 높이기 위한 중요한 시험대입니다.",
+      "fanTakeKo": "판정 오류 없이 깔끔한 경기 기대합니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHRQdVUxTFg2T2h1N1dKX1VWLTd4T21abU55RjRVZ0VDQlBaVUFQdVQ4a1",
+      "title": "Hugo Moura, Andrés Gómez e Loide Augusto: diretor do Vasco fala das possíveis saídas do clube - O GLOBO",
+      "summaryKo": "바스코, 우고 모라 등 3명의 이적 가능성 언급",
+      "excerpt": "Hugo Moura, Andrés Gómez e Loide Augusto: diretor do Vasco fala das possíveis saídas do clube&nbsp;&nbsp;O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHRQdVUxTFg2T2h1N1dKX1VWLTd4T21abU55RjRVZ0VDQlBaVUFQdVQ4a19JNFpPLUJhTDg1czRxYkFmQzlfcDc0N0dPX0IwQ0dWRVExcC1yS1pDWG9lYVFsZmV1M3ZFeXBVa1BuX1JZdkJoNHVfVkRVbWg1dHR2VUFQclZoem56YUZMM0dZT1FUN0I3OGhjZlozcWNNM3FNUWpLUzlpUWhteFRJWUlNYnZlT2s4Q3ItTFFiTmxFOEp2Y3llSU9saTRyMkI1ajdTUVVKdUFFQmsxQ2IwOEg0eDYwLXZXMWxVZ2hIQ2hRTzJDY25pZndmdNIBhwJBVV95cUxPVS1nNU5jZUI2aUtLT21UWjhKMkNOcGN6U21xdXYwYTBDRnV2NDY2RktNdS1BbE5POFNrQVZQVzBYTjllenpkT2xQQWNmNkdBTUUxNmdBclowUzlOOUx3WUhqT2tZNWw5NVVudkVRaWlwaTJrUmh0YVpNZDVjVzlwd1d2WmZ2UVNFdGtjSHdid0JRdUFJaVFtTC1RS3liOW1WOGtKc2NJSEVNUmxWdHBrV2JoNFhkbURMNGN3TERfVTduVG5mUVFxczhGU3dmTWRLZzNuMk5UdE0wMUZNS2tJNzNiTExqT0tCdEZweHRHTWJSTEQ3VlFjbTNpREVPSktpRWEtaHdYWQ?oc=5",
+      "source": "O GLOBO",
+      "language": "pt",
+      "publishedAt": "2026-07-13T18:16:24.000Z",
+      "whyItMattersKo": "바스코의 주전급 이탈 가능성은 리그 전력 흐름에 변화를 줄 수 있어 주목됩니다.",
+      "fanTakeKo": "바스코 선수들 이적 시장이 분주하군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -184,6 +280,22 @@
       "publishedAt": "2026-07-13T17:20:00.000Z",
       "whyItMattersKo": "리그 재개로 파우메이라스의 순위 경쟁과 남은 일정 관리가 다시 중요해졌습니다.",
       "fanTakeKo": "리그 다시 시작이다 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jaFlWYVp1UXU1dzRFLTAxSDRDSFVxMWNKNm41OGRtcTVoV1Fka2pMVmkxY0",
+      "title": "Palmeiras retoma trabalhos com paraguaios reforçando o elenco - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 파라과이 선수 합류로 훈련 재개",
+      "excerpt": "Palmeiras retoma trabalhos com paraguaios reforçando o elenco&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jaFlWYVp1UXU1dzRFLTAxSDRDSFVxMWNKNm41OGRtcTVoV1Fka2pMVmkxY0lkZlY3UFNYenZWdW16V2REV2VrNXB3b1hxYUVpRHhUWlpwaVl6RElGZjZDaA?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-13T17:17:00.000Z",
+      "whyItMattersKo": "국가대표 차출에서 돌아온 선수들이 합류하여 전력 보강에 큰 도움이 됩니다.",
+      "fanTakeKo": "전력 보강이라니 든든하네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -820,118 +932,6 @@
       "publishedAt": "2026-07-12T17:30:16.000Z",
       "whyItMattersKo": "국가대표 감독의 직접적인 칭찬은 선수의 자신감과 팀 내 입지를 크게 높여줍니다.",
       "fanTakeKo": "국가대표 감독 칭찬이 정말 뿌듯하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3RQS2EzVmVac3ZsRUVBdGZjT1BxTzVpcUpQSjBMLXZUemliWDd3NTQ3NGd",
-      "title": "Mercado da bola do Palmeiras e a volta do Brasileirão - band.com.br",
-      "summaryKo": "파우메이라스, 이적 시장과 리그 재개 점검",
-      "excerpt": "Mercado da bola do Palmeiras e a volta do Brasileirão&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3RQS2EzVmVac3ZsRUVBdGZjT1BxTzVpcUpQSjBMLXZUemliWDd3NTQ3NGdHRjRrYThVNnE0c2N2Ymc3dnBUMnNlYW5zLXJmYktEZElRdjJMNmp5ajRWbXhfVHFicW02ZjllQ2JocHczQ0E1TEZMNlZ5cnVYV09MWWhocHBMc3NEMTY0dkhBZFFkMHdMMUJTcjdhdTgtTGRoOVNtREZDcWxYQ1lyMUVkQ3FCazUwUm4yS0hSUm1ZUQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-12T17:19:09.000Z",
-      "whyItMattersKo": "이적 시장 동향과 리그 일정을 통해 팀의 전력 변화를 파악할 수 있습니다.",
-      "fanTakeKo": "리그 다시 시작되는 게 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMifkFVX3lxTE5iSm5zVG9TZ3o1NkEyUXVEckc5ZkZuYkhsUnJKNzNjWEE2WXNaUlJMaXowdWh",
-      "title": "Palmeiras investe R$ 145 milhões para contratar o volante Danilo por cinco temporadas - Fato Paulista",
-      "summaryKo": "파우메이라스, 미드필더 다닐로 5년 계약",
-      "excerpt": "Palmeiras investe R$ 145 milhões para contratar o volante Danilo por cinco temporadas&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iSm5zVG9TZ3o1NkEyUXVEckc5ZkZuYkhsUnJKNzNjWEE2WXNaUlJMaXowdWhNcnZsWVZHRDNwU3l1S013N0tYQjA4eWRhRjMwYkJhcXZHcDBjRmRPZU9lckF3SlZfTENpMzdfc0cwYzB0WlZBT3VXSTJMZS0yQQ?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-12T17:12:09.000Z",
-      "whyItMattersKo": "거액을 투자해 영입한 주축 선수가 팀 중원을 더욱 단단하게 만들 것입니다.",
-      "fanTakeKo": "다닐로 영입이라니 대박이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxPSENJUDRnZTJEd2Fzb1poMlBKV21KSUJkWGlJcXk0dmlTYWhqV0FXdmhrWEw",
-      "title": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances - OneFootball",
-      "summaryKo": "파우메이라스, 유벤투스 상대로 연습전 승리",
-      "excerpt": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSENJUDRnZTJEd2Fzb1poMlBKV21KSUJkWGlJcXk0dmlTYWhqV0FXdmhrWEw1VkZoOTVfbnpqQTFuYmtZRHpkRDBldkFJaFBfTjYzSktXY0JUS2N0ZHFQNTVXRG9JMXZxdkVzd3V5U0tCamgxMVg5WWZjQUNiTUZYNTNqOXVzVmJTZHR2bWRyTFA2TVV3V2p5REtGeTBoRWRCYnVDQnlEY0JwR2NIXy0tR3FnU2trSnJSbkxzUnVmWHd2VjFuUWUxak5hZTBOWmc?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-07-12T16:50:04.000Z",
-      "whyItMattersKo": "실전 같은 연습전 승리로 선수들의 컨디션을 점검하고 팀 분위기를 다졌습니다.",
-      "fanTakeKo": "연습전 승리로 기분 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlNpRk1faFhkOEM2bm1vQ2xKRlJFVHRmODdvQ3UwVlFvTE5UTU0zWUFzR0R",
-      "title": "Palmeiras vence o Juventus em jogo-treino na Academia de Futebol; veja os lances - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 유벤투스와 연습전 3-1 승",
-      "excerpt": "Palmeiras vence o Juventus em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlNpRk1faFhkOEM2bm1vQ2xKRlJFVHRmODdvQ3UwVlFvTE5UTU0zWUFzR0RUaFpuVG1HNk8zVGJVYWpjTTFXSkpmcy1pZmdGV1lZc08ydW5wRDlvZkl4cnY0Vkk4QnpReE5pNWhXYXdMWUpvV2VSOExzMUpEM1ZQVUZmNGxwTUc4TFBQWUp2Unp6ZkhwaGtPVVdva0N6WWl2RXYyY3U4TGlGTmF2c0xCT3lwRUxuTDhFcnRUZUdycE5aLUw0UkFz0gHMAUFVX3lxTE9abVZRcHlCS2FsX1JSb1RINWRYNEFPRnVKSDFGUVQ4OG1ZSmhxOVk3aVVaNFRMZXRYdlNTNTlLSld1Sk54bU1EMDJlQWJ1SE1IdDlqa0JZbnJtRmdIZG43Sm50UTRuX3lBYkJVMjNvY1JfZzZ5VUZwRzFCN0N2M3hoaV9ManFZMWJlZ1VPMWxVU25HX1pvaEtQWjc4Y0U5clF5RHA5ZjhTcUQ2ZTNSM2lDU1VWOXVSa1NMa0VxcU5RM2J1ZFFJVFcwakgwMA?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-12T16:43:00.000Z",
-      "whyItMattersKo": "다득점 연습전 승리로 공격 조직력을 확인하며 선수들의 경기 감각을 끌어올렸습니다.",
-      "fanTakeKo": "득력 폭발이라 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGxHNnBNaTc3TFNTUDFQZGxrcGIxcUJzZkJzMVFzalNnc25nSXdsVTRhaFJ",
-      "title": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances - O POVO",
-      "summaryKo": "파우메이라스, 연습전에서 유벤투스 3-1 격파",
-      "excerpt": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGxHNnBNaTc3TFNTUDFQZGxrcGIxcUJzZkJzMVFzalNnc25nSXdsVTRhaFJNUXRwRGg4cVFBeUxySlVKRVgxV1lIa3B4NTV5cDVSbmVzWVo3WjNFRGJqWm5PUklod0xsQjlOdU4wNnByN2ktT3BQc2RjbnN6X1FIZ1RTNWpCV3N2cG9ub3RQNFRFdTJWMnJzaTluN25FX2FHTTAtekd4amwxTjRYclhSVWpjUnZQbEY4Qy1RNElILUdVOXp2MzZIS1dDVFVITGJzcjhMM3JtVG95YTRNcGtrUA?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-07-12T16:38:09.000Z",
-      "whyItMattersKo": "실전 같은 연습전 승리로 선수들의 컨디션과 전술 점검에 도움이 됩니다.",
-      "fanTakeKo": "연습전이라도 승리가 기분 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWlzcTBBbUtuN1h4UUZjNTl2VHFSR3JuTkxOYllwc255Qmo0TmZRUExEV1d",
-      "title": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances - R7 Esportes",
-      "summaryKo": "파우메이라스, 유벤투스전 3-1 승리로 막차 올려",
-      "excerpt": "Palmeiras vence o Juventus por 3 a 1 em jogo-treino na Academia de Futebol; veja os lances&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWlzcTBBbUtuN1h4UUZjNTl2VHFSR3JuTkxOYllwc255Qmo0TmZRUExEV1d5eHdLeUtoTE5POFlwTm1hVzVNbEZzWE1xN29wdXRxcmIxaWpYWkJKd3U5SkpoNWxKSGNhUWNGX3hxSkFST1RodXRUSkNURExVUjZwbkgyQUZwdV95N1lCWWNndW5ZZGtKcm93cThtUmt1NjFEblFRMFE3NEljVFU2YktPdVVjTU91dUpkdnU2cVdxVGYzM3VyajYzN1Fwcw?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-12T16:29:02.000Z",
-      "whyItMattersKo": "연습전 승리는 선수들의 경기 감각을 끌어올리고 팀 분위기를 띄워줍니다.",
-      "fanTakeKo": "득점이 터지니 보기 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxOM2l4RHpEVzg3Zk1GemNVSTRCUk5jSmpkTVpVek03N2NlOTlmOE9CQU9iUXA",
-      "title": "Palmeiras x Flamengo na final do Brasil Ladies Cup: veja informações e onde assistir - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 플라멩구와 브라질 레이디스컵 결승",
-      "excerpt": "Palmeiras x Flamengo na final do Brasil Ladies Cup: veja informações e onde assistir&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2l4RHpEVzg3Zk1GemNVSTRCUk5jSmpkTVpVek03N2NlOTlmOE9CQU9iUXAtOG1leURxLTVPd3BQT3p2cTdsRWdVRk12VUlQZkRZYU9MZjNHZWpxN1ozZ0FXaEtIZEF6NlNNcU1ScG03UGlkV1YzazlEczY2aHJXTVQwX21RcF9nSkdVYU9sZ08tZTJ4aWo4YTZDYzkxQdIBowFBVV95cUxPckZyWXNsaUtvcWdVWVhHUGpjbnI4ZGpSVm1mMmtvQUJBNlJFVnVpWlptQ2RoTjJzQ3dETlk3UVBEeFlKN015RDVhSlp5WmZFdXZxajFkX0JtWnBVdUZlS016aWxLQm9VTnVjUmlma1g5eE53dEJ0VXlIbFBuSElLM1JDMERQVjRLVGhwS2pJVko1bDdTTnZMaW5jVkV4RW1xRlVB?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-12T14:36:00.000Z",
-      "whyItMattersKo": "여자팀이 플라멩구를 상대로 결승전을 치러 또 하나의 우승에 도전합니다.",
-      "fanTakeKo": "여자부도 우승 가져오자 파우메이라스!",
       "tags": [
         "뉴스",
         "AI요약"
