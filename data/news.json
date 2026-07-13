@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-13T22:27:54.778Z",
+  "fetchedAt": "2026-07-13T23:27:40.171Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUGtSZjRHRzNVZG5YSkNxSGJTUlRha2RLS0tpT2xiZnpuNGZCcm1MakdxaGh",
+      "title": "🐯 O Tigrinho tá voltando! @dudacabreira fala sobre o avanço da recuperação de Vitor Roque, que treinou pela primeira vez com o elenco desde o início do processo de recuperação da lesão. #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "비토르 호키, 부상 후 첫 팀 훈련 복귀",
+      "excerpt": "🐯 O Tigrinho tá voltando! @dudacabreira fala sobre o avanço da recuperação de Vitor Roque, que treinou pela primeira vez com o elenco desde o início do processo de recuperação da lesão. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUGtSZjRHRzNVZG5YSkNxSGJTUlRha2RLS0tpT2xiZnpuNGZCcm1MakdxaGhfck9CeGJUcldkUkY0QWhXZkxUUkE5d3l6QlUtaGs4eDRn?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-13T23:24:52.000Z",
+      "whyItMattersKo": "주요 공격수가 훈련에 복귀하면서 팀 공격력 강화에 긍정적인 신호입니다.",
+      "fanTakeKo": "호키 빨리 그라운드 보고 싶어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMie0FVX3lxTE5HY19YcGNZVkRpNHhwWlNHcjNYZEo3WDFyY3FLVzBkWWRYd3N6TWw1aTk2VUR",
+      "title": "Palmeiras Feminino celebra bicampeonato da Ladies Cup e mira retorno do Brasileirão - Fato Paulista",
+      "summaryKo": "파우메이라스 여성부, 레이디스컵 2연패 달성",
+      "excerpt": "Palmeiras Feminino celebra bicampeonato da Ladies Cup e mira retorno do Brasileirão&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HY19YcGNZVkRpNHhwWlNHcjNYZEo3WDFyY3FLVzBkWWRYd3N6TWw1aTk2VURRUHEwQkpyNTdQRU9iTGFWY01ObTlGYWw1MVJSSDBOMTFuem9WbDZtZWNieERMenJiWmJ4VzJka3R0MjNpS2pEUk9DaFl3Zw?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-13T23:09:33.000Z",
+      "whyItMattersKo": "리그 복귀 전 우승으로 기세를 올리며 선수단의 자신감을 높였습니다.",
+      "fanTakeKo": "여성부 우승 진심으로 축하해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTU4M25LaFJIajBqN24yVVN6LXZRZlZyRkZHbTctczJlYzROdEpFMGNWN0d",
+      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - Portal News",
+      "summaryKo": "레이디스컵 제패 후 리그 복귀 초읽기",
+      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;Portal News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTU4M25LaFJIajBqN24yVVN6LXZRZlZyRkZHbTctczJlYzROdEpFMGNWN0dhaUxLOTRjVUhMZFdtSW5LTEpSVXF5bkd5aWdKM0hSVU5pTkZDd1UtMVE3RWRpbDlESTdQNTgtTTQyUWJ4d2FiT0o3dlRoeFByOVBURmVrNUZWZUlEUWpSSDBWRXhhbWtMRXE5QUtPb19sa0s0Q2Izdk9QS3pIR0I4MEFhaENNdER5eG1w?oc=5",
+      "source": "Portal News",
+      "language": "pt",
+      "publishedAt": "2026-07-13T22:08:00.000Z",
+      "whyItMattersKo": "대회 우승으로 좋은 분위기를 이어가며 리그 경기력을 점검할 기회입니다.",
+      "fanTakeKo": "우승 기세 리그에서도 이어가길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPODExUXNZQm1fZ0xrck42SEwzTG9rU1NhcU5JZnRGOXYtMVZKVDl3MGlDUC1",
+      "title": "Palmeiras é bicampeão da Ladies Cup ao vencer Flamengo - Tribuna do Agreste",
+      "summaryKo": "플라멩구 꺾고 레이디스컵 2연패 제패",
+      "excerpt": "Palmeiras é bicampeão da Ladies Cup ao vencer Flamengo&nbsp;&nbsp;Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPODExUXNZQm1fZ0xrck42SEwzTG9rU1NhcU5JZnRGOXYtMVZKVDl3MGlDUC1oTGk0aGVrV3JFcFRPRmlaREkyNzY1NVB4VVdoLUNuVHc2NFRlVFpfWDFJMUJzMFNCQ1lORUotbmRjQWNuaDcwZlJzU2oxRUxJWExmZ2NoemhWRTZOcGRCYUVIeWlnanNTbnJScUN5OXhnVk5OSkp5ZjBvRlMzWHlzU0ZSOHVfN1hoUk15?oc=5",
+      "source": "Tribuna do Agreste",
+      "language": "pt",
+      "publishedAt": "2026-07-13T22:08:00.000Z",
+      "whyItMattersKo": "강팀 플라멩구를 꺾고 2연패를 차지하며 팀 위상을 높였습니다.",
+      "fanTakeKo": "플라멩고 이긴 거 최고네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY1ZCUzdBYVpORGlVYXJXVkxUcnNtZF9WdVNaSEJzZ2FWbHRzQzZST0RhOFV",
       "title": "Com equilíbrio na tabela, 8ª rodada do Brasileirão Sub-17 começa nesta terça-feira - CBF",
@@ -94,6 +158,22 @@
       "publishedAt": "2026-07-13T20:10:00.000Z",
       "whyItMattersKo": "공격수 이탈 가능성에 대비해 유망주의 성장은 팀의 미래 전력을 보장합니다.",
       "fanTakeKo": "미래의 에이스가 떡상하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kRjdGTUpZYmw2d2IyZmNHU1E3dW1lbTQwZnF5dE1Ldm5EeEJoVnY5amVqdG",
+      "title": "O Palmeiras recebeu na Academia de Futebol, nesta segunda (13), os pequenos torcedores Estevan Amorim (9 anos) e Maitê (4 anos), que realizaram o sonho de conhecer o técnico Abel Ferreira e os jogadores. Maitê, que recentemente finalizou a quimiote - instagram.com",
+      "summaryKo": "파우메이라스, 투병 어린 팬과 특별한 만남",
+      "excerpt": "O Palmeiras recebeu na Academia de Futebol, nesta segunda (13), os pequenos torcedores Estevan Amorim (9 anos) e Maitê (4 anos), que realizaram o sonho de conhecer o técnico Abel Ferreira e os jogadores. Maitê, que recentemente finalizou a ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kRjdGTUpZYmw2d2IyZmNHU1E3dW1lbTQwZnF5dE1Ldm5EeEJoVnY5amVqdG5CdkpOdHJEY0NoSnlScFJtSzItdGdBWXBONDBITHMtTUZB?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-13T19:49:34.000Z",
+      "whyItMattersKo": "팀이 어린 팬의 소원을 이뤄주며 팬들에게 따뜻한 감동과 긍정적인 에너지를 전했습니다.",
+      "fanTakeKo": "우리 팀이 이렇게 따뜻하다니 정말 자랑스럽네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -852,86 +932,6 @@
       "publishedAt": "2026-07-12T23:59:01.000Z",
       "whyItMattersKo": "국가대표 차출로 리그 전력에 빈자리가 생기며 선수단 운용에 변수가 생겼습니다.",
       "fanTakeKo": "국대 가는 건 좋지만 팀 전력이 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMinAFBVV95cUxPekM0OHBjYlVCMnJNeVJqNU55dGxvNGMxT1Y4MlNiLU8yZ2FxRzdBUGVRWno",
-      "title": "Flamengo x Palmeiras: veja o placar em tempo real da final da Brasil Ladies Cup - Gazeta Esportiva",
-      "summaryKo": "플라멩구전 레이디스컵 결승 실시간",
-      "excerpt": "Flamengo x Palmeiras: veja o placar em tempo real da final da Brasil Ladies Cup&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekM0OHBjYlVCMnJNeVJqNU55dGxvNGMxT1Y4MlNiLU8yZ2FxRzdBUGVRWno5VmNQRkNwakhhdjQ4VjRVbzFpUGhITzY2NHk0V0xPZlZpR2E3Ul9HdXVGOF85QXNEdE5LQl9WTkhaWWZZVTVlQUNrc2dKdzdUVkEwYjNYNDdDNTVCU1hxaGhwUUx2bW4tSm1xemp1WjjSAaIBQVVfeXFMUFIwWmRRa1lhVFI3X1YwSFNMSk1EaFVMZ3lOM1BBSVp3c3NOSXZtdDBlcUxmRF9fN09lR0NhSlRBVjdNaklBNFJxcXVmdGtyQzZsVm1YcGJXMmxmVFp0eGVGdXRjU21iQjZNWTBzekV5b2o2TDBfajBVeXpYODRfRWFKRjFtSDIwU3JIOVZVQjlRV2FIR0Y2cUVkaEVQd3Z3emVB?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-12T22:50:00.000Z",
-      "whyItMattersKo": "여자부 팀의 결승전이라 트로피 향방이 걸린 중요한 경기라 관심이 필요합니다.",
-      "fanTakeKo": "여자부 트로피 가져와라 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWVtNkNhWHJZSlZUaFN0T21PNFdmNEM3V2pPdkUzOW5zWEZUYjVhUThDMkt",
-      "title": "Flamengo x Palmeiras AO VIVO: assista com imagens de graça - Ladies Cup (12/07) - sportingnews.com",
-      "summaryKo": "플라멩구전 무료 영상 생중계 방법",
-      "excerpt": "Flamengo x Palmeiras AO VIVO: assista com imagens de graça - Ladies Cup (12/07)&nbsp;&nbsp;sportingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWVtNkNhWHJZSlZUaFN0T21PNFdmNEM3V2pPdkUzOW5zWEZUYjVhUThDMktpUXlSVC0tRWdXcHMtSDMzVTd0RHkzNHM0N2VteUxUZzZkS0Vrb1pVMk5hUmdNaHByNmMzUU1ybVk4LXZWZzZvc09YX1lnaDF3WEczclVpV3NkZFVsdGl5X3V6MVRlaWpKX3VhUHVWQldvNzRjZzN5QkVnbl90dTFiOTJsdHVyNTRXd0ZCNlBIOXZCSE16aW5IZl9NaWVfbw?oc=5",
-      "source": "sportingnews.com",
-      "language": "pt",
-      "publishedAt": "2026-07-12T21:41:43.000Z",
-      "whyItMattersKo": "무료로 영상 중계가 제공되어 여자부 경기를 쉽게 접하고 응원할 수 있습니다.",
-      "fanTakeKo": "무료라니 바로 보러 가야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTBWM09FR3dnaU5uVklnODJJYmZIcnZFN3FMS09hTFlyWk9oN3E1RVNUNWF",
-      "title": "Como Palmeiras transformou Flaco López no atacante decisivo para a vaga da Argentina à semi da Copa - GE",
-      "summaryKo": "파우메이라스, 플라코 로페스를 아르헨티나 핵심 공격수로 키워",
-      "excerpt": "Como Palmeiras transformou Flaco López no atacante decisivo para a vaga da Argentina à semi da Copa&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTBWM09FR3dnaU5uVklnODJJYmZIcnZFN3FMS09hTFlyWk9oN3E1RVNUNWFxVTlKa3lacGk0TnFRc0VzM3N3M210emZjQlpoVThLWnNmT2RuQVpkcTFiT2lBeUoyZU91dWRNbkxKS1VkT0pGRW9qVFc5X0p2aThGYnZlQjBPckpQUzlHWk01SmQyQlBFRERVSnpnSVpOdlAyY1pfWHdkb0RZN2FHRWFoTkRMUDAta2dRNDNyTTVISjFUY29aN3BCVWxWeFcwdTVoRUdtZ2FDSGI3eUVsNi1ieWhBSUEtckpnaWI2Z0owQy1zMTRHS0tIcmZXSjkzUdIBjAJBVV95cUxQRC1PYjVQTkQ5V3B0Mkp1RkhRYVRkUVlsM0haZG5zdHNicElobHdvdlU3Q1duaUE5dTAzWDVVMTNSbldiSGJHVXFGeUlNMHBpQmUzNkc5N01GZFhXajd6cG96WG9WN1g1NGpPZm1rdjdVTmhka3hfck16WTYxVTUtYUI5bUZXaTA3dU9rc0tpTlc4bnFydGJxYTdtdTNza3pVd1RXOFo2eHRmNnJDZTlOZWxkOHpSY2FSdVZMTDdZM25JLWh5Um9KUmdPeUFETFdwb1JkNW9wZ21lUEJFNUthb0NRTlRYZzRkTC1ndk5EUno4VHBQdXZaT09LeUJ6TmNKV2JhbExya2txR2ps?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-12T18:02:36.000Z",
-      "whyItMattersKo": "파우메이라스의 육성 시스템이 국가대표 핵심 선수를 배출한 또 하나의 성공 사례입니다.",
-      "fanTakeKo": "파우메이라스 육성 능력 진짜 대단하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnF",
-      "title": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances - band.com.br",
-      "summaryKo": "파우메이라스, 유벤투스 꺾고 연습경기 승리",
-      "excerpt": "Palmeiras vence Juventus em jogo-treino na Academia de Futebol; veja lances&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm8wV3hQa0FRLUlrMzZCN0JYRzl2enB2dnNGT3Zoa2lRcGVOaW9zUEpuWnFGUUxRMWs0MFBkRUV6Q280NklBSjVqT0RjQk1pTi1fc3RZTXQtY3E4N2R1aW13UElzaGlWNThRNWIwY2dPMjZ1WVAzVUEzb2R2SlRzNjNrbDc5bW9HV1MyVVkzcmlSU3NMdFFHSHlrd0U2T1UtMXBMRDJoMDAxemRsN2hLbTB2eWFRN0FvaXZhSlJrZ2c1UWpZWUlTemxnWHBCVnlqTkZHaUxmY1N0LVR6eG83QzQ4cW1VM2s?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-12T18:00:06.000Z",
-      "whyItMattersKo": "공식전을 앞두고 선수들의 컨디션과 전술을 점검하는 중요한 기회가 되었습니다.",
-      "fanTakeKo": "연습경기 승리로 기분 좋은 출발이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnBhOG1PU2I5ek4xaFNTdW8ydF9ZR2dsWnFKNVYxQ2JPeXVCY3lBU1dYNXh",
-      "title": "Scaloni elogia Flaco López após classificação da Argentina: 'Entrou bem' - UOL",
-      "summaryKo": "스칼로니 감독, 플라코 로페스의 활약에 칭찬을 쏟아냈다",
-      "excerpt": "Scaloni elogia Flaco López após classificação da Argentina: 'Entrou bem'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnBhOG1PU2I5ek4xaFNTdW8ydF9ZR2dsWnFKNVYxQ2JPeXVCY3lBU1dYNXhkNWdUVmFQNDlaTDlmcnFQemQ3S2ZscXBaSUdVMW9ycVpsQWlsM3JpNDlDTTdwQkVtQl9HZWwtYlpNLXZ5bndISURyR3dQWTJRcFdWMjBiVzE4emVjdjNiQ2xuQ3pZWnB6aVkwamY2SThhVHBKVFpPRlJLUWtyRjkyNWVuZ1c0S01wemVVNFp0bG9qSjhYS0Z1YUFCSkJR?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-12T17:30:16.000Z",
-      "whyItMattersKo": "국가대표 감독의 직접적인 칭찬은 선수의 자신감과 팀 내 입지를 크게 높여줍니다.",
-      "fanTakeKo": "국가대표 감독 칭찬이 정말 뿌듯하네요!",
       "tags": [
         "뉴스",
         "AI요약"
