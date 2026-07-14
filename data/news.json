@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T10:47:32.965Z",
+  "fetchedAt": "2026-07-14T12:14:01.156Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDN",
@@ -11,12 +11,40 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDNZcWVxaXY1cld3SDNCR1JYM2syTEk3dHdXSVg2c3ZycE5nNGdpVHVmSlQ1SGVfNmt5NkNRR1lUZl9SS3hyRm5icmVmMW1VZDhwcGdHLVBFNHNCTHlka3FNU1FfTjJPZG1LLUdzeEpWWFVuRmx5?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-14T10:33:28.000Z",
+      "publishedAt": "2026-07-14T12:03:29.000Z",
       "whyItMattersKo": "미래의 에이스들이 겨루는 U-20 리그 경기로, 클럽의 유망주 전력을 확인할 수 있습니다.",
       "fanTakeKo": "유망주들의 활약 기대해요!",
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnZqWUxwOTNueEk0aE81X3pTSnU5cVBWZl9UVmYzQmFIbVdOQlJBbWQxUEU",
+      "title": "Palmeiras pode avançar em meta de vendas com valorização de zagueiro - LANCE!",
+      "summaryKo": "Palmeiras는 수비수 감사를 통해 판매 목표를 앞당길 수 있습니다 - 입찰!",
+      "excerpt": "Palmeiras pode avançar em meta de vendas com valorização de zagueiro&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnZqWUxwOTNueEk0aE81X3pTSnU5cVBWZl9UVmYzQmFIbVdOQlJBbWQxUEU5NlROdFNxeWhNblBuZDlVa3Z3YW9YY2lFQkFfa3Y0WEdZcVZqTndMVENxczFKVzhaYVF5eGp5UmlONU9ZMk9nRGV3eVZhSzNJSnZ6NVVFN19LNVFvdlJsUDJnWkFrV1JCb0tkYjZIbVh4WTVyaURETlJ3eElwUXBJ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-14T11:42:40.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2J4YnhncVVTekEyelVsRnRwVTNGVlVCTm92NEk3OWZHYU02eVFFbHhxWlB",
+      "title": "Ídolo do Palmeiras, Sérgio distribui autógrafos a torcedores em Sorocaba - GE",
+      "summaryKo": "파우메이라스의 우상, 세르지오가 소로카바에서 팬들에게 사인을 배포하다 - GE",
+      "excerpt": "Ídolo do Palmeiras, Sérgio distribui autógrafos a torcedores em Sorocaba&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2J4YnhncVVTekEyelVsRnRwVTNGVlVCTm92NEk3OWZHYU02eVFFbHhxWlBZTVpPdy1ZUU5qb3ZRUUc2N2doUTk5SHlubGczODFZMTdMMTZNLU9Sai0tZ1M5UW52OEtHNEZnZkRqc2lPY0V2TERsVWRRT21IdkYyMzF2LUI2RWg2MEZoMUJUS1NYZTJSdlJUMjFuZWl2SVRDbE8tbGR3MWRNX3R2eGNfWUxBeWk1eEFsam9OcWhNa1ZWelZSSmdoOHd4aWlOei1mVXhuOC1EWdIB5gFBVV95cUxPMWVzNmRQVmxvSEduRnlVV3g4U1NfUlBuWWhwR0kzQVFkNkZ3cmtEZEtYM1VrU2FlX2dyTXFxNHA4bnZ6SzdmYzd0Nmg1SEVaeFMwUmdkZWQtcXZJT1BqY2lfcnJDajhvZFBKSlhJQmo2QlJtRnBGcnJ6cF9KbE5SdXdmemFROGJ1UU0zRGxydDhTcjBWd2RWQ2V5bEYzMkNyLWR2SDExN254T3ZXNnZqSWF3VTZlRWlDcUh6R3AtX0c3a0h6Q1pzQXBkbzFPc3ZZSlZBYjdseUhnbzdwQzdCNk01UmFLUQ?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-14T11:00:14.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -44,6 +72,20 @@
       "source": "Marechal News",
       "language": "pt",
       "publishedAt": "2026-07-14T08:37:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeG1fMXY3cFI5R2Fad3JmUHBqeUpXazFFRm5NVVRZMHJ2NHZvc3R6YzJzVS1",
+      "title": "Quem são as joias da nova geração preparadas por Abel no Palmeiras - UOL",
+      "summaryKo": "Abel이 Palmeiras에서 준비한 새로운 세대의 보석은 누구인가 - UOL",
+      "excerpt": "Quem são as joias da nova geração preparadas por Abel no Palmeiras&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeG1fMXY3cFI5R2Fad3JmUHBqeUpXazFFRm5NVVRZMHJ2NHZvc3R6YzJzVS1tal91Tk80b1NLS0dUOEtKcURWcDV3Qzh4NmNGVl84em5KaEJBWG1VcV92V3pBQ3pQTTJpWGJTXzdFTUtvQ19YbFBESllDODZlT256NE9UX3ZOZEQ2NXNYUlFRdlpyX3RlSHpBM3pxb0NaYVg1MGpLWEUwMFlha0dQeVNSdE50NW5iMzdzWjBmSTBkMEdrRGFQZ0l2a3ctdVZ1cWU3cVR1R2Z6QWxzY2s?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-14T08:30:00.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -217,7 +259,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzUtTFZKUUFRUHVXall5QU5QMmdwNFZvdEduY0w5NU5ZR183b2Vmd1lfYWVBZnRTY0JabURnbjg5T3lwbzUwN2tBMVh0TlNkR2c4d09oNnIyQ1RIeEZTQmZRSkZIeW5qaGwwTnFnemJlcjRZWmFqNHEtMDMtNVNFTkVNQjU3a3pYRzNRQ1drMmxldTZTeU9JNlVfU2lhU3ZMQlRQR25n?oc=5",
       "source": "noticiasdoplanalto.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-13T23:59:49.000Z",
+      "publishedAt": "2026-07-13T23:59:13.000Z",
       "whyItMattersKo": "여자팀이 리그 재개 전 우승을 차지, 브라질레이렁 복귀에 좋은 기세를 올렸습니다.",
       "fanTakeKo": "여자팀 우승이라니 너무 좋아!",
       "tags": [
@@ -364,6 +406,22 @@
       "publishedAt": "2026-07-13T21:34:17.000Z",
       "whyItMattersKo": "주니어 더비 승리는 팀 전체의 분위기를 끌어올리고 자신감을 심어줍니다.",
       "fanTakeKo": "어린 더비도 뜨거울 거야!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-26-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJLVWV3ZmEwSy1tZ3BHRjFoN21vWWlZUXF0TTlXbzk5MUtVSE5aOVpYR1",
+      "title": "Palmeiras tem retorno de paraguaios após a Copa: 'Fomos muito bem' - UOL",
+      "summaryKo": "파라과이 국가대표, 파우메이라스 복귀",
+      "excerpt": "Palmeiras tem retorno de paraguaios após a Copa: 'Fomos muito bem'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJLVWV3ZmEwSy1tZ3BHRjFoN21vWWlZUXF0TTlXbzk5MUtVSE5aOVpYR1d4d0F0UjM1WGdVSmk0bVNWZF9FRG55dDRiSmpYRXFPZ1BtWENEYi1qd2dxMzFoNldYbF9iUV9sMWJtMnk1VktwYUtmOUVDZXFxOHlXMXhFY0ZpUnl2bFdxT1JxeTMxZm1uckg0UEQ1eFVLYzFGUnI3WG1od0xhR00tY2w5S2wzTzJfam1PZTNaWm5Fd3VNY3JoOElqQm1yWWs5dXR4?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-13T21:10:58.000Z",
+      "whyItMattersKo": "코파 아메리카 출전 선수들이 복귀해 팀 전력을 다시 채워주며 분위기를 살립니다.",
+      "fanTakeKo": "잘 다녀왔어, 파라과이 형들!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -684,22 +742,6 @@
       ]
     },
     {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJLVWV3ZmEwSy1tZ3BHRjFoN21vWWlZUXF0TTlXbzk5MUtVSE5aOVpYR1",
-      "title": "Palmeiras tem retorno de paraguaios após a Copa: 'Fomos muito bem' - UOL",
-      "summaryKo": "파라과이 국가대표, 파우메이라스 복귀",
-      "excerpt": "Palmeiras tem retorno de paraguaios após a Copa: 'Fomos muito bem'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJLVWV3ZmEwSy1tZ3BHRjFoN21vWWlZUXF0TTlXbzk5MUtVSE5aOVpYR1d4d0F0UjM1WGdVSmk0bVNWZF9FRG55dDRiSmpYRXFPZ1BtWENEYi1qd2dxMzFoNldYbF9iUV9sMWJtMnk1VktwYUtmOUVDZXFxOHlXMXhFY0ZpUnl2bFdxT1JxeTMxZm1uckg0UEQ1eFVLYzFGUnI3WG1od0xhR00tY2w5S2wzTzJfam1PZTNaWm5Fd3VNY3JoOElqQm1yWWs5dXR4?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-13T17:10:58.000Z",
-      "whyItMattersKo": "코파 아메리카 출전 선수들이 복귀해 팀 전력을 다시 채워주며 분위기를 살립니다.",
-      "fanTakeKo": "잘 다녀왔어, 파라과이 형들!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-8-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0c5bGdhNEJTcF8waXNsdE1ic3Q3QndJbjVJNFJBa3BENTRRRFNweDRFWFN",
       "title": "Coritiba intensifica preparação para enfrentar o Palmeiras pelo Brasileirão - Paraná Portal",
       "summaryKo": "코리치바, 파우메이라스전 대비 강화",
@@ -898,48 +940,6 @@
       "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-07-13T14:32:17.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdTlBX0NQMTE1UHJza1pFYzB5RklKNDFNaUVfc2toUkxHZTZJMWRrTmFVbUc",
-      "title": "Lembra dele? Ex-Palmeiras perde pênalti decisivo e é eliminado de torneio amador; veja o lance - GE",
-      "summaryKo": "그를 기억하십니까? 전 Palmeiras는 결정적인 페널티를 잃고 아마추어 토너먼트에서 탈락했습니다. 이동 참조 - GE",
-      "excerpt": "Lembra dele? Ex-Palmeiras perde pênalti decisivo e é eliminado de torneio amador; veja o lance&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdTlBX0NQMTE1UHJza1pFYzB5RklKNDFNaUVfc2toUkxHZTZJMWRrTmFVbUc0UjdUVzVwbjgxeEpIVHR3bWE3MjRQeGJpTXlVeTlSSmhHNmdIT0VJQkkwcFBzTEZnS0JnbDVoYm5HNkhWMHgwWE1QUnk2dWhGTFY2Snl2bjBjcUtaOXRlb1EwWHBkQmhpTzlWcUlRNFR6bXpxdlBRSGpRZkVYODhyYWtrT0ZEc1JpTUYzM3hBQXBNNEFxamxzeGJQT2NtZkhXVUhhYkRuX01wNTVobVpzd2dTMDNZQdIB8gFBVV95cUxQZzdnZ280b2JwY1RqY05janFFLURCNVRad25OeC1JNE95ZWUzdy1QdkIwZGVZZlRfYmI1V01UMTU3d0VEdkhGeno1NlFlOTN3WXhyVzN0Tm16aHZ5aWdmd3VLd0JrUU02MFlsa3hYRHQ4R3lhX3pfQlM5SG40bHZDZGh2bEk2bGp3UkZfU1VtU2R2Z1NKdU1GYTFOT2ViQWEwY0NyZTRYNFo2ZUItdGlJOFhqbVB2ZGJzYmUtMzd3WjRzZV91LUJiVk1KQ0JCWVVPZWwxRXEwQVVpZkpKLUFQT014S0RSNnU4aUZRM0FIc3Ixdw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-13T14:31:08.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS3pUZEdhbUREQ3BzQ2FYOERURFB1WXhuZjlfeWJ2X3FGMGVoalVyMU0tSk1",
-      "title": "Palmeiras pode arrecadar mais de R$ 60 milhões com saída de zagueiros - Terra",
-      "summaryKo": "Palmeiras는 수비수의 출발과 함께 6 천만 달러 이상을 모금 할 수 있습니다 - Terra",
-      "excerpt": "Palmeiras pode arrecadar mais de R$ 60 milhões com saída de zagueiros&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS3pUZEdhbUREQ3BzQ2FYOERURFB1WXhuZjlfeWJ2X3FGMGVoalVyMU0tSk1UVFQzMlQ3ZU1xRzA5Q3k3VnZVU3N4NDMyc241LVBwdWhrZFIzbjFBRkFCckpOOHE1bURhM0VocG1uQVltSkNDOUtsenBDLWcxeUFCTnJ4b0RicWtFckw1d3Jsc2Rlbk5Mb0huSnNad19hWDRjS0k1S1llRnpPYWVldzhuX2NDeUw3dlhUdmh3NmxIRWk5Vl8xOHR1TVc3LXlGd2NReHRNWVBJeW92UEdqX1VKV0lFQ0VZeE9JYTZtd1hFNA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-13T13:46:19.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnBaak9yYVF3MG5iWS1YdXJqai1VbW13Ul9rdVJYUXA5RXl2VjE5WVU3eXh",
-      "title": "Brasileirão volta antes do fim da Copa do Mundo? Veja quando e onde o seu time vai jogar - Primeira Hora",
-      "summaryKo": "브라질 선수들이 월드컵이 끝나기 전에 복귀할 수 있을까요? 팀 플레이 시간 및 장소 확인 - 첫 시간",
-      "excerpt": "Brasileirão volta antes do fim da Copa do Mundo? Veja quando e onde o seu time vai jogar&nbsp;&nbsp;Primeira Hora",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnBaak9yYVF3MG5iWS1YdXJqai1VbW13Ul9rdVJYUXA5RXl2VjE5WVU3eXhfeGFQUkRTWDJoOUhqUzI4aGZCSWRKai1oZmpvV3lpSXR6SmpJNzlPZW1zcDgza0Qzd2xXN2x3UllJdXhfQmNNYWlMV1pzTGZmZENUbTUzLTR3bHVDZ1NDVV84LU01WEV0VUpFVDJvOHozcHhncW1vRkRuWG4wT0dWLW9OZmVkbWhhT0E?oc=5",
-      "source": "Primeira Hora",
-      "language": "pt",
-      "publishedAt": "2026-07-13T13:44:28.000Z",
       "tags": [
         "뉴스",
         "자동번역"
