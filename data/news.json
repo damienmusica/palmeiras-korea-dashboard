@@ -1,8 +1,54 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T22:57:39.660Z",
+  "fetchedAt": "2026-07-14T23:59:12.304Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiigFBVV95cUxQbW5xMWp2M2Zyd2pFRk5NYnpiWGUxQmFLQlYxaDRWTlBQMmRJMV82N01Ka3N",
+      "title": "Palmeiras negocia empréstimo de Luighi para clube dos EUA - Jogada 10",
+      "summaryKo": "파우메이라스, 루이기 미국 리그 임대 논의",
+      "excerpt": "Palmeiras negocia empréstimo de Luighi para clube dos EUA&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbW5xMWp2M2Zyd2pFRk5NYnpiWGUxQmFLQlYxaDRWTlBQMmRJMV82N01Ka3NCSlFXcEZoYlppYmFpTFQxTHQ4cUdkN2l5ZnhlSjlaUFNCZjM1eTlIY0VNejZDZF9tOEItT0NYYWpHa2twSHZkNU5tSkVQRjN5VG9zZnBpeU5HNTZhaVHSAY8BQVVfeXFMTkRGZG8yR2U4eGV0Mk5CTEw1VWdsM0tkVFNobGVFS2lzeTNMSy1SLXlVbkp4Q2NCLTVYV0labElDNVZydzdDMnRYZmtWVXFROFNIQnRnR3c5LUFOcTJ5UG53R3BvNHR0dHhUZmNLNjExbUttd1g3dFJHMUdxX2k4NjllMUszYnRONWlMM1cwVDQ?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-14T23:56:18.000Z",
+      "whyItMattersKo": "루이기의 임대는 선수에게 출전 기회를 주고 팀 스쿼드를 정리하는 효과가 있습니다.",
+      "fanTakeKo": "루이기, 미국서 잘 지내길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDJaNTBYQ19Dek1JVXE2UmN5X3cxQ2FkOTY4VEZYTWU2bkxiVkFydk9pN3h",
+      "title": "Palmeiras negocia empréstimo de Luighi para clube dos EUA - Terra",
+      "summaryKo": "파우메이라스, 루이기 미국팀 임대 접촉",
+      "excerpt": "Palmeiras negocia empréstimo de Luighi para clube dos EUA&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDJaNTBYQ19Dek1JVXE2UmN5X3cxQ2FkOTY4VEZYTWU2bkxiVkFydk9pN3hKaGtqeFBwNTdoQVAzLVNJTkdUMkZidmllUjlYbmJKVnRHRUVkdGtGZm03ZnlIdnNSMTVfOVlHSlNFNkdFV2dUUzB3QW5aUU1EbGpkeTdjeUZoMk5YZlpRV2gyWUVhRUFzWkJHQXh6YmtQTU5pZjFJMkpiRWJtdm9ISks1aGYwTWhiUmlMQ1B5UWc1MUNmZE5Td0VER3c4THoxcE9nNzd6cmFiS3Q4cTR6MTBmcg?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-14T23:49:00.000Z",
+      "whyItMattersKo": "선수단 규모 조절과 선수 개인의 커리어 성장을 위한 긍정적인 움직임입니다.",
+      "fanTakeKo": "미국 무대도 좋은 기회겠네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzB6UXZUSi1xMGRtR0hJMHA5R3BZNWx2U2RQb0FzY1lJdFl3RDIzUmh2aXR",
+      "title": "Palmeiras encaminha venda de Naves para o Necaxa, do México - UOL",
+      "summaryKo": "Palmeiras, Naves를 멕시코에서 Necaxa로 매각 - UOL",
+      "excerpt": "Palmeiras encaminha venda de Naves para o Necaxa, do México&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzB6UXZUSi1xMGRtR0hJMHA5R3BZNWx2U2RQb0FzY1lJdFl3RDIzUmh2aXRQRmRwV19lVGdNWVI1eS0tdV8wR09YbjlIaWlGLXVSQmVVeFk0U2k4M0Z5WmI1ZFU2TjVIOWFTdmJKX3R5RXpJQVp3MUMya21UOUNQSmlDSW14N2tZMjNGWmIweVdPOFhLbFlPUGx4OXpLbFAxMUVBUU5HaGJLSXJ3UG55NVFhR09JUG9XRDZ2WVJEUVZ6M2VzNGh6V0lR?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-14T23:04:48.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDVoM25BSnp6Yk9lTEhkLTlFZG1sVkpHS2NLXzBzNEg1X2cyZHU0Rjlpc0E",
       "title": "Palmeiras segue intertemporada com treinos em dois períodos - Tribuna de Jundiaí",
@@ -41,7 +87,7 @@
       "summaryKo": "파우메이라스, 루이기 뉴욕시티행 임대 추진",
       "excerpt": "Palmeiras negocia empréstimo de Luighi para o New York City&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXpFWkk4UmpXNndmZmtpY0lDOEdQd1A3TmdZWGllaTVKcHk5UnhWZlFsTnBqOVNzeXpYMkJ1djVwZVJJcGZqbngzTVRqTTBmQkNlVWUySkU3SFFmWnp5eXBqdC1QdUlRdGg5S3JYeWNpUnNzZzNUUWVHN1Q0a3plSDlsbWlNSkU0aHo5NzlfTDhWSHc0aW5jSnRqZU9Od2g0c0pGam5uY29yQ1pRaDQ1cGhfMXp4cDlPeXdTUXcybWdRQ0hFZlpES9IB1wFBVV95cUxQTHFOd2dYb0dQQlBtRk1YUkVYNThpc3FkbVVpRkdRWXhmM1ZyUjJjdjB6a1hxbmtPazlja0JBVXpJVVQyazR6Mzk0R0JWMEZ1TVRLY0M5Uy1QZ1VKOGpWU0pLRVh4c2VJZXdEa2lIQVB0WUZ0SUtrdVR4dzUwTVlZdzJnUW5LcDFtb0tCNkQxQWpwVHJiQzBkVGtRMFk1WHZwcndKVnRQN3JzMlVoTS1FS20tVUxmNkd2a25lS1Raem41YUhxUkF4ek9QZWx3UnBFTVlkaDJIZw?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-14T21:40:35.000Z",
       "whyItMattersKo": "젊은 선수의 MLS 임대는 실전 경험을 쌓아 성장을 돕는 기회가 될 수 있습니다.",
@@ -57,7 +103,7 @@
       "summaryKo": "파우메이라스 U-17, 플라멩구전 1-2 패배",
       "excerpt": "Gol contra sinistro marcou Palmeiras 1 x 2 Flamengo, pelo Brasileirão Sub-17&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckM5VzdTSktxc29YdnlTdWJuTG1UWG43NHlGRVgyVS0zMXdzOFRXTkRnb2RXenl6VGlPa3U5ajQ4OG94QnBoa055X3pjdFFweEF3LVNycTJSNlR3S1QtcjRjSVdtX1dUTlJSX1hTd2pnWHp0cFZrc3Y0QXZ6cEw5SVJJdXhJVXFXLWdqZkRJaGJuS3g4bjNuX3EyWVJJcGRISnJvLTFVcEdGZENETUhMRFQ0WERMa1cx0gHHAUFVX3lxTFBYUndCT0xzcDZzczNScUp2YjNlRzdsV1B4SkltNU53bXk5RTBxYnlIMEJyTjE5Zi1FbzMxdlRwRDhjMFQ4RFN3MmczODE5ZThndnBsdDJ2QndvRDBoc3dYYk9TQ0QtWXpJRGl0aEo4eFI4M0Ytc3NtNEJRSzM3LXl0WlU2MzJmUWNXRkV0UW84dUVnb0lWaGUtUkw0d2FpajRfNEdvS2lkd0Z3aE1mejM2MjQ1Wkg4RE8ySzNzR3R2VjQ0R0RlbDA?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-14T21:23:09.000Z",
       "whyItMattersKo": "라이벌 플라멩구전 패배로 유스팀이 아쉬운 결과를 받아들이며 성장의 기회로 삼아야 합니다.",
@@ -68,26 +114,12 @@
       ]
     },
     {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzB6UXZUSi1xMGRtR0hJMHA5R3BZNWx2U2RQb0FzY1lJdFl3RDIzUmh2aXR",
-      "title": "Palmeiras encaminha venda de Naves para o Necaxa, do México - UOL",
-      "summaryKo": "Palmeiras, Naves를 멕시코에서 Necaxa로 매각 - UOL",
-      "excerpt": "Palmeiras encaminha venda de Naves para o Necaxa, do México&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzB6UXZUSi1xMGRtR0hJMHA5R3BZNWx2U2RQb0FzY1lJdFl3RDIzUmh2aXRQRmRwV19lVGdNWVI1eS0tdV8wR09YbjlIaWlGLXVSQmVVeFk0U2k4M0Z5WmI1ZFU2TjVIOWFTdmJKX3R5RXpJQVp3MUMya21UOUNQSmlDSW14N2tZMjNGWmIweVdPOFhLbFlPUGx4OXpLbFAxMUVBUU5HaGJLSXJ3UG55NVFhR09JUG9XRDZ2WVJEUVZ6M2VzNGh6V0lR?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-14T21:20:49.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3pGeGpUQ01OVy1TaXAwTXFSNF9JaWd1bHZPXzFrZmNQQnZkVmU3Tm5VVGV",
       "title": "Palmeiras encaminha venda do zagueiro Naves ao Necaxa, do México - GE",
       "summaryKo": "파우메이라스, 수비수 나베스 멕시코 이적 추진",
       "excerpt": "Palmeiras encaminha venda do zagueiro Naves ao Necaxa, do México&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3pGeGpUQ01OVy1TaXAwTXFSNF9JaWd1bHZPXzFrZmNQQnZkVmU3Tm5VVGVaaXlZMzVEUUg4SlphWUg0eDhVZ1VvLUNQWFQySHVQc0FEOV9VWGxRVm93LTF6V1dJMHUyWm14RGM4ZzNnYmpzSmVFZG1sZU53VHN0VnlNZjZjcEhIZnpDWlFNWExaRWh4UjMteUFzU0dBa3JsOVc5UkJXN3F0N3NsTHhHNzZmb3cycXlvenVLTk5EU1FtVmI4V3lHeElrYmxvUdIB3AFBVV95cUxONTF6QXE2d2VjN1NSWTdubzJjVnBKNG9kWGx5eFhpVE9zUEc0bTNZUm9sM1JaaTBOeVF6NnVKeVl4WU9uRVh3YUVSd1NFdW5pQzYtekcwbkx1YUJmMXNuMXhSaHd0YUMwS2RxMmdPcXFTTmlZOU1Jc3JOMktkb25HaFF4NjMxQ29Sa1JWTXQ1bzFKWFZndVFLSk4zdlN1TVBiSDNKZm52Q1hwYXExbjFHd2NjTnk3T1lCRm1hUTRWM2hqTi1YYUgzNFMyUkcwbHJ5cHF4SG1COEJ4SWx1?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-14T21:15:32.000Z",
       "whyItMattersKo": "수비수를 이적시키면서 선수단 정리와 영입 자금 마련을 위한 움직임입니다.",
@@ -103,7 +135,7 @@
       "summaryKo": "파우메이라스 훈련, 비토르 호키 컨디션 조절중",
       "excerpt": "Palmeiras treina em dois períodos e tem Vitor Roque em transição física&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXUzSkJURWR2YmdOQUVidjBUZUMzSDdwdlhUdVgzUjZINFZMdVNUY1V0UTRPSGhYVXNvZUFhcFZKS3hvU2haN0NXZmh4dXJsS3hiazBlZldYREh4UUdsaE1yOFVJeVN3a0pLdm5hRFZsb19zWUJ5NDZwSWFoMFVwcUdScW55QTJWZFNabVN1Ukw3bDVWZjlLYnBJdWtOVHZvaklvRU5ESTFoSHp2bm5Rdlp5VUY3eHN5Zjl0M0I5TUdsRUVZOExCLTl2N29GOUFlQWJJSnNBa0jSAecBQVVfeXFMT1R5TmlqR19ZT2NWaUtsNjJHODdHZ2FHaGF4WmdXT2FUcGdDdXk3LXZVeW9fblJ0ZDEwQ3ZXTk11UjVkSmcyaWF4MklSMU9QTDRlbkxZMUNURmM4YVNfNFBneGNfYjlFc09rWVpOVTJUU1BPTUVYcDRobUVERHVvdUxJRDRmdXB0V1NxY0pNU053UmZobWJ3cVA3WDRXMG5NeVR3SmhjSzFLUnh0LVladG5wbnlTZWlhNVpXYkh4R2k5Y19Tc2E5ajNVaEJ4XzVIdF9uX2pUYXZCNU95YkN2bXJ0dkJvSjhz?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-14T21:03:04.000Z",
       "whyItMattersKo": "새 영입선수의 컨디션 회복 정도는 다음 경기 선발 명단에 영향을 줍니다.",
@@ -157,6 +189,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWR0d2h1c3VBNVNIbEZFYThrZTNGRjM2Rm41SDlIRjRzVGlvbTRxYmZVQ3",
+      "title": "Palmeiras: clube da MLS avança para fechar empréstimo de Luighi - ESPN Brasil",
+      "summaryKo": "파우메이라스, 루이기 MLS 임대 협상 진행",
+      "excerpt": "Palmeiras: clube da MLS avança para fechar empréstimo de Luighi&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWR0d2h1c3VBNVNIbEZFYThrZTNGRjM2Rm41SDlIRjRzVGlvbTRxYmZVQ3BreHdLZkx3MmNjekhzVjlaTkE2SmpGNnE1aG9FR1V6NElyd2tSMFlCNFA2eC1uWWtaV2xzRlRSQW5oNGhDS1hRS0RtYUM3ZVh0QzVuQjlyT2ZOTFcwZVB2MHpHV2RPT3JaeGpvRFZMdHdhV2p4Y3RFNzJadFhicVU?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-14T20:49:00.000Z",
+      "whyItMattersKo": "MLS 구단과의 협상이 진전되면서 루이기의 이적 시일이 다가오고 있습니다.",
+      "fanTakeKo": "MLS 가서 제대로 증명해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -279,7 +327,7 @@
       "summaryKo": "파우메이라스, 반자동 오프사이드 기술 테스트",
       "excerpt": "Celulares e análise remota: como foi o teste do impedimento semiautomático no Palmeiras&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS09CcV9jdWNucU1yV1RGVHJzMWVkM2JUS0hHQjhTZnh2MF9vZWUwZmM0SHdkeW91VzRkaUtaNUxjQ2pWVjd6enJKd09kRHh2OEl5R2V4NUc3dG1fbDFoNDVPXzB1blIzbDdaNHhVMWdPMHNFbEY2Q2FaQzZPYVVNbENncVFZSE9zLVdYT1BfVEJueThBeXhTRS1DWkZuaHFiLUJWclhpVF9CVk95OVRWbE9aSm5HT3ZkWDIyTGVCV25TcEdJc2NqQlhYQnc1V1FMd2ZJZE9VMnJVc0hmZTF6WDZxS1F3c3FrSTJoa9IB-wFBVV95cUxOd3p2T1ZMZXI1YUVucUdUQThmVW5CRG9NYm95VDFEVXVZM1VyQVhWbTNYV3FoZDNwVnozQzB1MzAwNFM1N29GRVlXdmNYWFNFbWdiX01SSDNYVWZVR254bkxIRDltdHlWWVdDZEVtTWlCT0tBc1NRZUs2QUNUdXdOcUVNc2c3QXpJdTZvY1lWd2s0RURGVmZNX1VGOXVuckVyWm9QaGdTRDloZDkyZWd4ZGtTWENzZzhyVzhiYmdMXzh3bjlmSjJaaG5tb1J5QUZGalRiOFRfVGZlZTNLVmM3enpGMDNpdkVpX0piLWt2Z3Z0S2pabi1YQmo2QQ?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-14T18:21:17.000Z",
       "whyItMattersKo": "판정 오류를 줄이는 신기술 도입 여부는 경기 결과에 큰 영향을 줄 수 있습니다.",
@@ -880,54 +928,6 @@
       "publishedAt": "2026-07-14T01:39:00.000Z",
       "whyItMattersKo": "리그 재개 전 우승으로 선수들의 자신감을 높이고 팀 분위기를 다졌습니다.",
       "fanTakeKo": "여자 파우메이라스도 우승이다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3VncGpiNHk3ZHA1LXlkQ0REc0taSmh0ZVhZamlQRXFwczd5U09mM00tZVR",
-      "title": "Onde assistir a Vasco x Cruzeiro e Palmeiras x Corinthians pelo Brasileirão Sub-20 - O Universo da TV",
-      "summaryKo": "파우메이라스 U-20 경기 어디서 보나요?",
-      "excerpt": "Onde assistir a Vasco x Cruzeiro e Palmeiras x Corinthians pelo Brasileirão Sub-20&nbsp;&nbsp;O Universo da TV",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3VncGpiNHk3ZHA1LXlkQ0REc0taSmh0ZVhZamlQRXFwczd5U09mM00tZVRzVUc5MnBTRzJ3bTVrYVhUdnVyMUFZTHFqcFJ1M0pHUlE5Y2dMUnNiWlE5ZzVFdm9ZSzVUV3BaMEZRdU1KbGJ2aTY4VEEyRnNkdV9scg?oc=5",
-      "source": "O Universo da TV",
-      "language": "pt",
-      "publishedAt": "2026-07-14T01:22:00.000Z",
-      "whyItMattersKo": "U-20 팀 경기를 시청할 수 있는 방송 정보를 확인해 미래의 에이스들을 응원하세요.",
-      "fanTakeKo": "경기 시청 정보 감사합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY2JJQVdBejBEcTgxU3JMZGsyU0dWd3dUZmlqaS1tVkkxeTdVaFduUWtjZXR",
-      "title": "Catimba de Flaco López ajuda Argentina e passa despercebida na transmissão; entenda - Terra",
-      "summaryKo": "플라코 로페스의 시간 끌기, 아르헨티나에 도움",
-      "excerpt": "Catimba de Flaco López ajuda Argentina e passa despercebida na transmissão; entenda&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY2JJQVdBejBEcTgxU3JMZGsyU0dWd3dUZmlqaS1tVkkxeTdVaFduUWtjZXRzLVhRSzN0cWVhX3QzOTU4cDFNcXl4dm9IWmV3Z0ZzdGdXSlRaeVhMS1RzNzJRbkNzYnRncm43dXlabnhzaHlPbVpOQmVMOGFocURmSmhXRTRmMERpbHRESGRyR1VhVVNsUFBxeGZINlN5dmJVeXpmaFlIVWFSZDFlcXh3ZGxRTTAzNVBNY3JvaU5RWG1MRzN2bzBseHNYZVJrWnJjZE1SM1NQcXVDVXVjaEdXNS1WM1EtYW9vUnljSlotNjZXLVh3a0VvSDFXZ3JObnM?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-14T01:19:00.000Z",
-      "whyItMattersKo": "전 선수의 플레이가 국가대표팀 경기 흐름에 영향을 준 흥미로운 에피소드입니다.",
-      "fanTakeKo": "로페스는 여전히 재밌네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUpYNVhtTlB4cERaNHY4UVQ5bTVORW1EcUtUSUVrNmQzeThPTmdvSzBhMUV",
-      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - Jornal Opinião",
-      "summaryKo": "파우메이라스, 레이디스컵 우승으로 기세 올려",
-      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;Jornal Opinião",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUpYNVhtTlB4cERaNHY4UVQ5bTVORW1EcUtUSUVrNmQzeThPTmdvSzBhMUVEaUF5NmNUaWFKOUEwRnE5aHRTcEZaYS1GcTFSeTFzT3FyaUQ3Q1hXcWJsZ0VONkpwSnBhR0tLU3JINE16dEd2TVZrZTUxOGxOQURLY0RrZGpIcEVNU1BNYV9za2ZnNlg1N2RBU1MxNA?oc=5",
-      "source": "Jornal Opinião",
-      "language": "pt",
-      "publishedAt": "2026-07-14T00:06:49.000Z",
-      "whyItMattersKo": "여자부 리그 재개 전 우승이라 선수들의 자신감 회복과 분위기 조성에 큰 도움이 됩니다.",
-      "fanTakeKo": "여자부도 우승이라니 기분 최고다!",
       "tags": [
         "뉴스",
         "AI요약"
