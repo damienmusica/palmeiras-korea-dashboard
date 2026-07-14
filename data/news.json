@@ -1,8 +1,54 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T08:36:26.973Z",
+  "fetchedAt": "2026-07-14T10:47:32.965Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDN",
+      "title": "Palmeiras x Corinthians ao vivo hoje 16/07: siga placar agora | Brasileirão Sub-20 - UOL",
+      "summaryKo": "파우메이라스, 코린치안스 U-20 맞대결",
+      "excerpt": "Palmeiras x Corinthians ao vivo hoje 16/07: siga placar agora | Brasileirão Sub-20&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDNZcWVxaXY1cld3SDNCR1JYM2syTEk3dHdXSVg2c3ZycE5nNGdpVHVmSlQ1SGVfNmt5NkNRR1lUZl9SS3hyRm5icmVmMW1VZDhwcGdHLVBFNHNCTHlka3FNU1FfTjJPZG1LLUdzeEpWWFVuRmx5?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-14T10:33:28.000Z",
+      "whyItMattersKo": "미래의 에이스들이 겨루는 U-20 리그 경기로, 클럽의 유망주 전력을 확인할 수 있습니다.",
+      "fanTakeKo": "유망주들의 활약 기대해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll",
+      "title": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17 - GE",
+      "summaryKo": "파우메이라스 유스, 플라멩구와 U-17 리그전",
+      "excerpt": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll3R3hDSXM4cDMxVkN6UTRXSURSX3U0N081d0QxUUMtVEw3bHp5cDYzYUZuWllsOW1JcGRuUjF1S0k1V1R6Yko3S0RHU3Q0UkEzVFF4VS05VmpQelRzQVIwTHlXZkhzOWpGU0E?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-14T09:21:46.000Z",
+      "whyItMattersKo": "미래의 에이스를 알아볼 수 있는 유스팀의 성적은 팀의 내일을 보여줍니다.",
+      "fanTakeKo": "우리 미래 스타들 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmktSDFYN19rTWpXSnMta01Xb2xjVGJaOHQxUGRsTE9ZR0xhVWJ6d1EwdTl",
+      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - Marechal News",
+      "summaryKo": "Palmeiras, 브라질 여성 복귀 전 레이디스컵 우승 - Marechal News",
+      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;Marechal News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmktSDFYN19rTWpXSnMta01Xb2xjVGJaOHQxUGRsTE9ZR0xhVWJ6d1EwdTlLckhYSTFTelJFQmd4SG13b3hOTXU2TzNVR3NkT1VLdUw1eW5UTGUwTFd6TUNxWWRBNmJtQlVxRVUwUWk3SGJHdmh3bGFfV2dZSU5SM0JBbTdKc0U4UFJfTHlFRW5IdTZyWXJkUzU0M3hQNUFIemlGYlVYUm9RRFV3eF9jVA?oc=5",
+      "source": "Marechal News",
+      "language": "pt",
+      "publishedAt": "2026-07-14T08:37:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaGl6enh5Wkx2UDVxdzhBZ3VRdElJb2hHQllabU83ZWI5WjJrM2dkc3ZaRHl",
       "title": "Quem são as joias da nova geração preparadas por Abel no Palmeiras - UOL",
@@ -14,22 +60,6 @@
       "publishedAt": "2026-07-14T08:30:00.000Z",
       "whyItMattersKo": "미래의 핵심 선수들을 길러내 팀의 장기적인 전력 강화에 도움이 됩니다.",
       "fanTakeKo": "우리 팀 미래가 밝아 보이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDN",
-      "title": "Palmeiras x Corinthians ao vivo hoje 16/07: siga placar agora | Brasileirão Sub-20 - UOL",
-      "summaryKo": "파우메이라스, 코린치안스 U-20 맞대결",
-      "excerpt": "Palmeiras x Corinthians ao vivo hoje 16/07: siga placar agora | Brasileirão Sub-20&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDNZcWVxaXY1cld3SDNCR1JYM2syTEk3dHdXSVg2c3ZycE5nNGdpVHVmSlQ1SGVfNmt5NkNRR1lUZl9SS3hyRm5icmVmMW1VZDhwcGdHLVBFNHNCTHlka3FNU1FfTjJPZG1LLUdzeEpWWFVuRmx5?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-14T07:33:24.000Z",
-      "whyItMattersKo": "미래의 에이스들이 겨루는 U-20 리그 경기로, 클럽의 유망주 전력을 확인할 수 있습니다.",
-      "fanTakeKo": "유망주들의 활약 기대해요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -78,22 +108,6 @@
       "publishedAt": "2026-07-14T07:01:09.000Z",
       "whyItMattersKo": "수비 라인을 3명으로 늘리는 전술 변화가 수비 안정화에 기여할 수 있습니다.",
       "fanTakeKo": "3백 시스템도 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll",
-      "title": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17 - GE",
-      "summaryKo": "파우메이라스 유스, 플라멩구와 U-17 리그전",
-      "excerpt": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll3R3hDSXM4cDMxVkN6UTRXSURSX3U0N081d0QxUUMtVEw3bHp5cDYzYUZuWllsOW1JcGRuUjF1S0k1V1R6Yko3S0RHU3Q0UkEzVFF4VS05VmpQelRzQVIwTHlXZkhzOWpGU0E?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-14T03:00:47.000Z",
-      "whyItMattersKo": "미래의 에이스를 알아볼 수 있는 유스팀의 성적은 팀의 내일을 보여줍니다.",
-      "fanTakeKo": "우리 미래 스타들 응원합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -929,22 +943,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMHNrTjc2d2FLcmdGdDFPNW5la3NtTzFDLW0wMjFNd2hoazdSZ25YN3NZWG",
-      "title": "Palmeiras vence o Flamengo na final e conquista a Brasil Ladies Cup 2026 - GE",
-      "summaryKo": "파우메이라스, 플라멩구 꺾고 레이디스 컵 우승",
-      "excerpt": "Palmeiras vence o Flamengo na final e conquista a Brasil Ladies Cup 2026&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMHNrTjc2d2FLcmdGdDFPNW5la3NtTzFDLW0wMjFNd2hoazdSZ25YN3NZWG5Td2hNdVNaSUpRbTY2YmN2S0dsOFROX1hwb1MxUXVZQ1R3Z0Zjc3cxbnVjUUE5OHByTUxUbm94NUk3YnFDZG95Rk1jcTNaZk9NbXRxRC11c2RwbmR3eUluQVJsTzduX2pmaGhRemttNlk4S04tdk5PczBpMnlvQ1dDQWl2VHM1WjNtQUJLTEh5N0hmS2ZRUFZQUzVDZGprWGRGU0lzMGtKTllFdkNYYm12YksxQzQtQ1lnbV8yY0kyb1dvWkdPX292cEJz0gGGAkFVX3lxTE9aLUstYm54Q0xXUGlvY3FnZmZvYzFKbFdYNkM5cU1LTXBBbmdUME1FRGhtX1pOZVJ3a2lXcldZdkNPRDVVZFowZjBVUmRDSDVkSERYTWVpSGhVTTBBQXplOU5jUVVNenNxbDBQLUtORmJhbTk5OWUtRlo3eDBSX1Q2NS1zZDZ4dGtWT2FDWjFHNHBVYlhPcmdLUWdKZGZyREdQZzdIYy02MWNIZm5sQ1I3U2FzN1B2elJyR1VxN0piUFRmOGRMQk4zM3VjWVFzWHFwRG9LTHFYdWhYUFJLOHZ1V0RQRWFuZEpHSDA3S3llRGZiZ2tDUEo5WV8tak9HYmVWcFoyX0E?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-13T11:56:58.000Z",
-      "whyItMattersKo": "여자팀이 라이벌 플라멩구를 꺾고 우승하며 클럽의 자존심을 지켰습니다.",
-      "fanTakeKo": "여자부 우승이라니, 진짜 멋지다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
