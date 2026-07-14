@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T12:14:01.156Z",
+  "fetchedAt": "2026-07-14T14:24:29.624Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG1BV25XVEdpcEt5R29xN09LV2pfSFlVWTVkUVI2Y3JLWmhJSWc5akJPc3U",
+      "title": "Saiba que são as promessas preparadas por Abel Ferreira no Palmeiras - Diário da Manhã",
+      "summaryKo": "아벨 감독, 파우메이라스 유망주들 점검 중",
+      "excerpt": "Saiba que são as promessas preparadas por Abel Ferreira no Palmeiras&nbsp;&nbsp;Diário da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG1BV25XVEdpcEt5R29xN09LV2pfSFlVWTVkUVI2Y3JLWmhJSWc5akJPc3U1X21ETlEzN0tObDBLTGdiNnRNMl9DMEhSX3pnZkRJSWFOS01uMkdTMDR2YVh6NEhpSWRicEJZd3hJTGJ2aXN6SkFZYWxQT2xSZnJDS0t2eFZOb0lBME5QSU5WYkl0a08wOURDUG1GeFVMVkdXY3c?oc=5",
+      "source": "Diário da Manhã",
+      "language": "pt",
+      "publishedAt": "2026-07-14T14:18:00.000Z",
+      "whyItMattersKo": "팀의 미래 전력을 확보하기 위해 유망주 육성과 발굴이 중요한 과제입니다.",
+      "fanTakeKo": "우리 팀 미래가 정말 밝아 보여요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMihAJBVV95cUxNLUduVnBtQi1NZjY0anNWR2haWUxqVmQtTEg1NnJIbGs5QlVod04zbGRwYnA",
+      "title": "Catimba de Flaco López ajuda Argentina e passa despercebida na transmissão; entenda - Terra",
+      "summaryKo": "플라코 로페스의 시간 끌기, 아르헨티나 도움",
+      "excerpt": "Catimba de Flaco López ajuda Argentina e passa despercebida na transmissão; entenda&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNLUduVnBtQi1NZjY0anNWR2haWUxqVmQtTEg1NnJIbGs5QlVod04zbGRwYnA1UnpHY0ExT3JpYV8wZE43Mk5CZHgtbHpDNWk3ckNWZnNwTGN1bkwzSGl4OEY5b0ZiZFpmem5ELXNORUtrWVhVbGdBXzdZQV82TFFGcDRlQ1FyN3l6YzQ5VGpyWWlUOGFuR2o2RU5rakwybG51S0ZVNUJmS1lzTXFfXzNoaF9SSml1UnVqSmZPcllXVDVzS2VneU1VclFLTFFfTG9NNF9rR0hMNWppUWYxaG9xVng1RTVDak9zNC1HMVUxRms3SDVVM3VsVGxjYmFzRTNCcEprSNIBhAJBVV95cUxNLUduVnBtQi1NZjY0anNWR2haWUxqVmQtTEg1NnJIbGs5QlVod04zbGRwYnA1UnpHY0ExT3JpYV8wZE43Mk5CZHgtbHpDNWk3ckNWZnNwTGN1bkwzSGl4OEY5b0ZiZFpmem5ELXNORUtrWVhVbGdBXzdZQV82TFFGcDRlQ1FyN3l6YzQ5VGpyWWlUOGFuR2o2RU5rakwybG51S0ZVNUJmS1lzTXFfXzNoaF9SSml1UnVqSmZPcllXVDVzS2VneU1VclFLTFFfTG9NNF9rR0hMNWppUWYxaG9xVng1RTVDak9zNC1HMVUxRms3SDVVM3VsVGxjYmFzRTNCcEprSA?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-14T13:40:02.000Z",
+      "whyItMattersKo": "선수의 전략적 플레이가 경기 흐름과 결과에 미치는 영향을 보여줍니다.",
+      "fanTakeKo": "시간 끌기도 기술이긴 하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDN",
       "title": "Palmeiras x Corinthians ao vivo hoje 16/07: siga placar agora | Brasileirão Sub-20 - UOL",
@@ -11,9 +43,57 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDNZcWVxaXY1cld3SDNCR1JYM2syTEk3dHdXSVg2c3ZycE5nNGdpVHVmSlQ1SGVfNmt5NkNRR1lUZl9SS3hyRm5icmVmMW1VZDhwcGdHLVBFNHNCTHlka3FNU1FfTjJPZG1LLUdzeEpWWFVuRmx5?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-14T12:03:29.000Z",
+      "publishedAt": "2026-07-14T13:33:30.000Z",
       "whyItMattersKo": "미래의 에이스들이 겨루는 U-20 리그 경기로, 클럽의 유망주 전력을 확인할 수 있습니다.",
       "fanTakeKo": "유망주들의 활약 기대해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGE0RXRmbkVGcldsM1N3UXUyMG1KTzhZY3JoTm82VzlPRGdqbWFwbXVGeUJ",
+      "title": "Barboza amplia opções de Abel, que estuda esquema com três zagueiros no Palmeiras - Jogada 10",
+      "summaryKo": "바르보자 복귀로 아벨 감독, 3백 전술 고민",
+      "excerpt": "Barboza amplia opções de Abel, que estuda esquema com três zagueiros no Palmeiras&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGE0RXRmbkVGcldsM1N3UXUyMG1KTzhZY3JoTm82VzlPRGdqbWFwbXVGeUJXT1Y3SEUzM0J5WXg5UXp1blpoWWRpVnctaE9uZ0otNFVzbmxtRWVoc1dIMnZ4Qml2TXRhMjRzWll5b2oxazU0TTJjWlpMa2tjVlJWVVJDcTlvSzJSMG9xSTI5NXNnX2o3eW5yNlBLVHZVVFlqTEY1VDY0WjLSAa4BQVVfeXFMUGE4Q284V0IyUEhGWVpRRF9hTER2akNGc2tYU21UTUlRYzU4N2tLQ1VDSEhJZ2c3V3I0RGtyZGxCR2ZWbDBycDZnWW9TRFZTU2c2bW85RjB6MEduQWtfT1Z5UHZldkI4aEFfX2MyY1A2dUU2dHFsYUd4djJzbjdLM1F5cVJWWnFmM0w5dERCZmFwOFc1eGxVSkZHcWQ0QXlReWdHeXE0U1lDd2hkazFB?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-14T13:05:06.000Z",
+      "whyItMattersKo": "수비 옵션이 늘어나 3백 전술 사용 가능성이 커져 전술 변화가 기대됩니다.",
+      "fanTakeKo": "3백 쓰면 더 단단해질까요?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMirwFBVV95cUxPRll6VV9UMkU4R29mWVlNTEt1VmFXNll6MGhfSXBrcjVISjJFblRHUXZEYkk",
+      "title": "Leapmotor realiza entrega de carros ao Palmeiras na Academia de Futebol - palmeiras.com.br",
+      "summaryKo": "전기차 브랜드 리프모터, 파우메이라스에 차량 후원",
+      "excerpt": "Leapmotor realiza entrega de carros ao Palmeiras na Academia de Futebol&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRll6VV9UMkU4R29mWVlNTEt1VmFXNll6MGhfSXBrcjVISjJFblRHUXZEYkk2VlVfb19nT3JUel9HSzgwcFZqUFprQU1RWndDUDkxUk9lalRBSUw3cEZTUDZtOE1YWk9zZ1dRcDdzRXIzLXNvV2ZMci1MUFNRZU1qRkI2UjdKMjdCN0lzdDFvdWY5aEl3YTJjbzVsMmhSU2VRX2RvT01RSV9VU29xX25F?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-14T13:00:51.000Z",
+      "whyItMattersKo": "클럽의 후원사가 늘어나는 소식으로 재정적 지원과 인프라 확충에 도움이 됩니다.",
+      "fanTakeKo": "팀 후원 늘어서 기분 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEVpUkJUalNmWXVtb1RRQmNrLWFZYnhLdUQ0X3NfZ2d1X015UHdwQ3FsdHZ",
+      "title": "Barboza amplia opções de Abel, que estuda esquema com três zagueiros no Palmeiras - Terra",
+      "summaryKo": "바르보자 덕에 아벨 페헤이라, 3백 고민",
+      "excerpt": "Barboza amplia opções de Abel, que estuda esquema com três zagueiros no Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeEVpUkJUalNmWXVtb1RRQmNrLWFZYnhLdUQ0X3NfZ2d1X015UHdwQ3FsdHZrUlR6VGFreU5pbzc1azk4alRjdlA2aWJhNGk2clBSUlBVWkU3U01BRUhYUlB4MEVBS21HeWhjNEE1Uk1zSnVNdWNOd0wwLXozcnNldHBIZV9PbzFJWnF0WWN3bTljU1gxUzNIc1N6SmJTaDRuRGJ0dTZCWGhvZWdBX1NBQWJHdWpfdmI4QkgyVUN5aFAtM3BMT0NiWmVXckJjb0VKZHB1MHBldnZDazVHenE0Q3ZJWmhacjU0OHF5R0FmbzFaczRsazVocTVmSlNlNW8?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-14T12:46:00.000Z",
+      "whyItMattersKo": "수비 옵션이 늘어나 아벨 페헤이라 감독이 3백 전법으로 전술 변화를 줄 수 있습니다.",
+      "fanTakeKo": "아벨 감독의 새 전술, 기대된다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -865,84 +945,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMijAJBVV95cUxNdVlSTW5oV3lnX0o5MUpUUlBabVFEQmlkcFh3T0hVMUNMSlFNRm02bUpRRnE",
-      "title": "Palmeiras e Flamengo definem próximos compromissos após final da Ladies Cup - Terra",
-      "summaryKo": "파우메이라스·플라멩구, 레이디스컵 뒤 일정 정리",
-      "excerpt": "Palmeiras e Flamengo definem próximos compromissos após final da Ladies Cup&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdVlSTW5oV3lnX0o5MUpUUlBabVFEQmlkcFh3T0hVMUNMSlFNRm02bUpRRnE1d1RCOFRQOGRmT0VpeVcwd2ZfVGJxUW9qSEl0VF9RT0U5aGlKVDJkX2N3RnRMQ0Zfa09oUkZqQlZSM194NF9vWkVTMlY5UlVSMXF3VmdsNzFKakh3VFZEU2RrLWl2MkdKZDFTVWwwTXMtZGJDUWktMGlwVkVfNjJxSU1YamRCREtld3dDWnpjLW50TmI0TGRXc2hMUEV5WFhGZzhnZjEzUkx4MUZ2V2JBSmJhTlZUUENIbkNsTjFXYXJYRTVmTE0ybzZhRy03UkpWMm5xcDktYUNEbW1XZFlD?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-13T15:13:00.000Z",
-      "whyItMattersKo": "주요 대회 일정을 확정하여 팀의 경기 운영과 선수 관리 계획을 세울 수 있습니다.",
-      "fanTakeKo": "일정 확정이니 마음 편하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakFjeFVwX0djcV9uR2NrOTc0S2tFdm1PTHB5dXExRW5GcFRNNmVfcy1DV2F",
-      "title": "Flaco López ganha holofotes, mas Palmeiras só vê saída com oferta 'irrecusável' - Rádio Itatiaia",
-      "summaryKo": "플라코 로페스 이적설, 파우메이라스는 철벽",
-      "excerpt": "Flaco López ganha holofotes, mas Palmeiras só vê saída com oferta 'irrecusável'&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakFjeFVwX0djcV9uR2NrOTc0S2tFdm1PTHB5dXExRW5GcFRNNmVfcy1DV2FqVVF5VHpldTh6cF9fNlZoc1BIeFU4bTBxOFVlV2NsOW8zMy0zY3dqZG5yV3hwOHkwOXBWX2RfVTkxdHpTT3pFakZFdm5fUlJuUlFDQ2ZabElScjFETFV6dzAxYjA0c1hXZ2dabXhwaXhFMktVa1ZPSWowOXFJTU9GNmZhV2JyNUJrMDl2Tk1PSHZjNTB3cmdVXzk1Z0xQZVc4N2RTOGNvb2U4a3hFVzBHcnBhaEVYcXZrM0xHYzA5OFJBNUo0dXljWTBKdWh3?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-13T15:11:05.000Z",
-      "whyItMattersKo": "주목받는 선수의 이적 시장 동향은 팀의 공격진 유지와 보강 전략에 영향을 줍니다.",
-      "fanTakeKo": "로페스는 꼭 우리 팀에 있었으면!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVVNGeXFDQlY4VkdrRHhFaFRUa05xM2ZuYkZJd0d1M0VoU0dMRlo2bXhUdXN",
-      "title": "Palmeiras amplia opções para a defesa e encerra movimentações no setor na janela - O TEMPO",
-      "summaryKo": "파우메이라스, 수비진 보강 마무리하고 이적장 닫아",
-      "excerpt": "Palmeiras amplia opções para a defesa e encerra movimentações no setor na janela&nbsp;&nbsp;O TEMPO",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVVNGeXFDQlY4VkdrRHhFaFRUa05xM2ZuYkZJd0d1M0VoU0dMRlo2bXhUdXNtX29ZTjVJTkFCbzJTSExxX1dzemRZV2g3b1hpb19OYV81b1VXd25WdzNnelphM3hXaDMxZmlGekZvb1JvNXZ4ZXIyZktVOHFtcEF1Um1TWWw4RkRTVDY0eTl1OFF1ejNuQzI2YnZZMWdiZTJPaGE1Q2paRjdic2ctbFQ4QzJ4ZS1DZUkyRzgxa3N5Qm9vRVZaQTVuMEpVeGtnb2p1NmhqcWdSM0ljVGVIMEtRV2VxZjPSAeoBQVVfeXFMTjJ3NFNNZUlrZi1vbHB1c3o4cGY2STFnVVFVdU1KTDlHWUtEdmRZVzEyLXJtbmJrY29GLVRNY3VDN2dHdUxTSzhCSEdjcFVtcE11SjcxLWcxTHc5bFpDelhfWjh0czBBMk1lc2N4aWx1VG1WVVd3VjU1UUs1MEJiOUtoUVNjWnZIaUdSWkNzaWNNOEdQZjV6aFFVSUVCc015SDdFOC1RRkZaWUFUTFNILXF5eDlTRWJMR3dTUUpLc2lrUG9BY1JCcmd5bjVRdXFqOUdscG1WUHJBRUFPaDFxeHdUazdWNVQxR19R?oc=5",
-      "source": "O TEMPO",
-      "language": "pt",
-      "publishedAt": "2026-07-13T14:45:29.000Z",
-      "whyItMattersKo": "수비 옵션을 늘리고 이적 시장을 마감하여 시즌 남은 기간 방어력을 다졌습니다.",
-      "fanTakeKo": "든든한 수비라 승리에 자신감 생겨요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFFySFd1ckxqcXJ4UDBIcVpHdnNWeUZYWndoM1YxajREY194aFBxelJTMF",
-      "title": "Palmeiras amplia opções para a defesa e encerra movimentações no setor na janela - LANCE!",
-      "summaryKo": "파우메이라스, 수비진 보강 마무리",
-      "excerpt": "Palmeiras amplia opções para a defesa e encerra movimentações no setor na janela&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFFySFd1ckxqcXJ4UDBIcVpHdnNWeUZYWndoM1YxajREY194aFBxelJTMFUwd1JRNWN1Y19xa1liQ05YdTNncHprTFlEYWcwN1ZvS0FFTGk2bnc3NzYySWZROHhfdDg0ZTMzck9TVGJIQWxod3dxYWlnVlJRSVhzSTlmZFpfd0l5SjNGSTN2MjJZbG1qVTVLTUpva2JnQWwwUW5QRGNhY2ctTmE5b3Z6M0pKeF9CdHBuM1RLZg?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-13T14:39:58.000Z",
-      "whyItMattersKo": "수비 뎁스가 두터워져 시즌 중 장기전과 부상 변수에 대비할 수 있게 됐습니다.",
-      "fanTakeKo": "수비가 든든해야 마음이 편하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMikgJBVV95cUxQY19LTXN1aUNQb3VvWVE4QTRQOUhRUkZXMW9iQWpWTjF3amVUaWx4b3VzRld",
-      "title": "Maitê, palmeirense de 4 anos que venceu o câncer, conhece Abel Ferreira e ganha presentes - Terra",
-      "summaryKo": "암을 이긴 4살짜리 야자수 마이테가 아벨 페레이라를 만나 선물을 받습니다 - 테라",
-      "excerpt": "Maitê, palmeirense de 4 anos que venceu o câncer, conhece Abel Ferreira e ganha presentes&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQY19LTXN1aUNQb3VvWVE4QTRQOUhRUkZXMW9iQWpWTjF3amVUaWx4b3VzRld1ZXlEbjFPN09NTEJEQ2pCcWZ6RFRtV0JQOXFDVHlrYnlQY2JDalR2ZjUyY0lMb2dObnhXNFBsaDFXTnZmQ3l3T21vdS1PQVVZajFtZVhuVmlJMVdXdmN6bWpqTGZ2b0dSQUttQ1R3bWJmc2N0Y3otOV9VMXUzUUdRdEc3YUtGam5KcmhKbEY3Vy1ZVXpwT1dWNzNwc0kwNTM1RXhMcm1aV3lXbkhqMzMyZy1CNW1HVEhOclNWZmtsNk1HTGdOYVZxLUhRaDVTZDAtbDhXYWVNUmFvbzNUWHN1d2JSVkpR?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-13T14:32:17.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
