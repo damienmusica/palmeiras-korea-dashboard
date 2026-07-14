@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T17:22:11.887Z",
+  "fetchedAt": "2026-07-14T18:38:57.757Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS09CcV9jdWNucU1yV1RGVHJzMWVkM2JUS0hHQjhTZnh2MF9vZWUwZmM0SHd",
+      "title": "Celulares e análise remota: como foi o teste do impedimento semiautomático no Palmeiras - GE",
+      "summaryKo": "파우메이라스, 반자동 오프사이드 기술 테스트",
+      "excerpt": "Celulares e análise remota: como foi o teste do impedimento semiautomático no Palmeiras&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS09CcV9jdWNucU1yV1RGVHJzMWVkM2JUS0hHQjhTZnh2MF9vZWUwZmM0SHdkeW91VzRkaUtaNUxjQ2pWVjd6enJKd09kRHh2OEl5R2V4NUc3dG1fbDFoNDVPXzB1blIzbDdaNHhVMWdPMHNFbEY2Q2FaQzZPYVVNbENncVFZSE9zLVdYT1BfVEJueThBeXhTRS1DWkZuaHFiLUJWclhpVF9CVk95OVRWbE9aSm5HT3ZkWDIyTGVCV25TcEdJc2NqQlhYQnc1V1FMd2ZJZE9VMnJVc0hmZTF6WDZxS1F3c3FrSTJoa9IB-wFBVV95cUxOd3p2T1ZMZXI1YUVucUdUQThmVW5CRG9NYm95VDFEVXVZM1VyQVhWbTNYV3FoZDNwVnozQzB1MzAwNFM1N29GRVlXdmNYWFNFbWdiX01SSDNYVWZVR254bkxIRDltdHlWWVdDZEVtTWlCT0tBc1NRZUs2QUNUdXdOcUVNc2c3QXpJdTZvY1lWd2s0RURGVmZNX1VGOXVuckVyWm9QaGdTRDloZDkyZWd4ZGtTWENzZzhyVzhiYmdMXzh3bjlmSjJaaG5tb1J5QUZGalRiOFRfVGZlZTNLVmM3enpGMDNpdkVpX0piLWt2Z3Z0S2pabi1YQmo2QQ?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-14T18:21:17.000Z",
+      "whyItMattersKo": "판정 오류를 줄이는 신기술 도입 여부는 경기 결과에 큰 영향을 줄 수 있습니다.",
+      "fanTakeKo": "오심 사라지면 정말 좋겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYnZSRS05XzdjSWZoQndzUHptcnBRMERPQTlPLW5aT2lDY3JQU0dqWWlUQzM",
+      "title": "Palmeiras goleia Junior em noite iluminada de Flaco e Arias, mas fica em 2º lugar na Libertadores - Estadão",
+      "summaryKo": "파우메이라스, 주니어 대승했지만 2위 유지",
+      "excerpt": "Palmeiras goleia Junior em noite iluminada de Flaco e Arias, mas fica em 2º lugar na Libertadores&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYnZSRS05XzdjSWZoQndzUHptcnBRMERPQTlPLW5aT2lDY3JQU0dqWWlUQzMwQ3l4T3psTlNBMjhHVlIyckpYbmwzZXB3czVGUGFMS2VHM2JzdDcteUtscFJuWnJOSkhaT3VnVVVBRjMwa1hKUS12RS10RnFzdzAzTzVMNkdrU2t5MnZKNmRSendmSTFmdk9VV20xSXNOc0l6Y2ZNa3Z4aThJWnN5VV8xN1lfVHp5RU5GTmtxWjVnbWdsMDFZMmcwREFsNTg0aEZ5SXBQWWpoc2plSi1LbTBiMUZn?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-14T18:20:15.000Z",
+      "whyItMattersKo": "대승을 거뒀지만 조 1위 탈환에는 실패해 리베르타도레스 향후 일정에 변수가 생겼습니다.",
+      "fanTakeKo": "선수들은 잘했는데 순위가 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT0JEQTk4aXlLWnlyM0RWWVA2UnBBWi04Q0MzVGc1b0JWVmRiQWFwU3pNS2h",
+      "title": "Palmeiras marca mais um jogo-treino antes de retomada do Brasileirão - Terra",
+      "summaryKo": "파우메이라스, 리그 재개 전 연습전 확정",
+      "excerpt": "Palmeiras marca mais um jogo-treino antes de retomada do Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT0JEQTk4aXlLWnlyM0RWWVA2UnBBWi04Q0MzVGc1b0JWVmRiQWFwU3pNS2hNUzUydXZHQ3dDWFh3LXJVd3kySGJiU0pkeTNYc0xOdkVaNzdycUxZeFE2MFBxVlp3VHpjRExhRjA0TzNSdzZ4Ry1xNjZBYmRkR3hOWkJ0UnM0WF9hVGFwXzdKVXRmcktCbVNuSlRjWEp4dTlXb1V4NUlIeWc3dlFQQkdXelFMbnFHZnpsWS1kRjFMX0xfYndGOE14U2FOZUZaNklTWjdmMlFuRmR6SHN0YWZqWHNUUzY5N09hU19UeFhQdw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-14T18:01:00.000Z",
+      "whyItMattersKo": "리그 일정을 앞두고 실전 감각을 끌어올려 선수들의 컨디션 조절에 도움이 됩니다.",
+      "fanTakeKo": "리그 복귀 전 준비를 철저히 해야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHFSMV9KZzd0T0tYVER0TnUzc3I1WWNqNzZTUm1DbEpLOXZkRE5lYlg5Q1Z",
+      "title": "Flamengo vence o Palmeiras pelo Brasileirão sub-17 no primeiro jogo do Nubank Parque - O POVO",
+      "summaryKo": "17세 파우메이라스, 신구장 첫 경기서 패배",
+      "excerpt": "Flamengo vence o Palmeiras pelo Brasileirão sub-17 no primeiro jogo do Nubank Parque&nbsp;&nbsp;O POVO",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHFSMV9KZzd0T0tYVER0TnUzc3I1WWNqNzZTUm1DbEpLOXZkRE5lYlg5Q1ZhRHZXb2EyOXNkUHJPVW1VSk1sVEI1R2hHTTBnNU95ZHBYeHAwUkZjUHk4OGhWUUlTN0wxV2c1Q2NZTjc2OXBST3FVX0NQN1h4YVpSUDFjMzZ0bVE2QnVNdjlfbFRnWWZ5TmxZY2cwRkZVelRlblBSTWhKWmFyZEVrdVFRbXRsdTlrUTNOZVdfa1NLUnBlMk9SRVVQcGZXZDBxdzZXVHVORjNvS1pZdw?oc=5",
+      "source": "O POVO",
+      "language": "pt",
+      "publishedAt": "2026-07-14T17:43:40.000Z",
+      "whyItMattersKo": "새 구장 개장 기념 경기에서 패하며 유소년팀의 시작이 조금은 아쉽게 마무리되었습니다.",
+      "fanTakeKo": "새 구장 첫 승은 다음에 노려보자.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMigwJBVV95cUxPRTJjSVlyWmhOazJvcm9NcG5Ua2ZEa0ItazBjVXgxRnd4OXBGcldocTc1Tnh",
+      "title": "Flamengo vence o Palmeiras pelo Brasileirão sub-17 no primeiro jogo do Nubank Parque - Terra",
+      "summaryKo": "U-17 팀, 누뱅크 파르케 첫 경기서 플라멩구에 패",
+      "excerpt": "Flamengo vence o Palmeiras pelo Brasileirão sub-17 no primeiro jogo do Nubank Parque&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRTJjSVlyWmhOazJvcm9NcG5Ua2ZEa0ItazBjVXgxRnd4OXBGcldocTc1TnhsZVBTcVBvRHVuYnR5WnVlbjd3ZHQtQWlqdUo2eU9HNVJGMlJETG1MZkd3dVJHQ2xKSVFoZVgxT092QkNKR2hEanNDdDdyck9lczdtRmtxVGZMVUVPMTBDME5hVkhXalkxemlsM2Zwa1lXSDdhQVBLbFB3TnJZOHdQZnZPb1JqdG9qYzRrVWdZb08tTGRFS2xkbWR6c29KcGRnbEs2RmFzNmN2cEVRWm5TejJSRUNTenQ2amwzM1BGclpxeGJDSHFaclRVdTN6SS1LNVBtOXVV?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-14T17:26:00.000Z",
+      "whyItMattersKo": "새 구장 첫 공식전이라 유소년팀의 성장과 새로운 홈의 의미를 확인했습니다.",
+      "fanTakeKo": "새 구장 첫 경기라 더 아쉽다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2JHS3pzRG54bEdvaFA4ZzdBTHVISVBlcFU4UEJLYXRObkRlSnV0OEtwVVF",
       "title": "Palmeiras é derrotado pelo Flamengo na estreia do Nubank Parque pelo Brasileirão Sub-17 - LANCE!",
@@ -347,6 +427,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-27-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjBHdEJrbVZaRExlQXNYNWhiRmNzR3pDaE1hVTllMjVSY0RIb01iOGZYZz",
+      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - PortalR3",
+      "summaryKo": "여성팀, 브라질레이렁 재개 앞두고 우승",
+      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;PortalR3",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjBHdEJrbVZaRExlQXNYNWhiRmNzR3pDaE1hVTllMjVSY0RIb01iOGZYZzgtbFd1QlV3S0NHNzRHeFIwWjhsNFNzU1NGblZhQkdLWmtpMGx4b0xKclNWQ0lFa3VHWFA3UXBJODVPR3BTOVV1LUlxckw3cDJWbVN3TDhLQm9lUkZuZDJjRG5DbGlVWUoyYkdPQlBjS0xxWWZnbW1iZlFqQk9DT00?oc=5",
+      "source": "PortalR3",
+      "language": "pt",
+      "publishedAt": "2026-07-14T10:32:25.000Z",
+      "whyItMattersKo": "브라질레이렁 재개 전 우승이라 여성팀의 분위기와 기세가 한층 더 올라갔습니다.",
+      "fanTakeKo": "여성팀도 멋지게 우승했어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -853,100 +949,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTkRUQ0J2THVMc1d3SkJseXd5d0Y0aE1nWkZhbVc1QTNteEFKc0lqWXN0Znc",
-      "title": "Palmeiras planeja ter Vitor Roque no primeiro jogo após a Copa do Mundo - UOL",
-      "summaryKo": "파우메이라스, 월드컵 뒤 첫 경기에 비토르 호키 투입 계획",
-      "excerpt": "Palmeiras planeja ter Vitor Roque no primeiro jogo após a Copa do Mundo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTkRUQ0J2THVMc1d3SkJseXd5d0Y0aE1nWkZhbVc1QTNteEFKc0lqWXN0ZnctdlljSlNwN2pqSXdOMlpyQ1doR0UtSEhJQkFJSVdna19adFpaLVlJdWM1d1g0eXRLbEc1MGtWdFFvQ01IeVlxLUFRcHFGWEM5eVE1ZVZxVm1UYnJvcFp1VjJiNXhDeDVtbGYxMy1aOTdaUEdZVHU1N3NGWjNGc2UzSkd1ZGVmN1dRX1FlN0NuOS1XMGVqQmMxb19XWVVZUVY2UmN5ZVU2UTB1ZTZqa0E?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:57:37.000Z",
-      "whyItMattersKo": "월드컵 휴식기 뒤 팀 전력 보강을 위해 새 영입 선수의 합류 시점을 맞추려 합니다.",
-      "fanTakeKo": "호키 보러 손꼽아 기다리게요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzBGUS1tVkZ6VExUTmdDN2ZmQUt5eWRsZzF0ZTc3aWswbXExRTRHQUZhOVZ",
-      "title": "CBF testa impedimento semiautomático em Palmeiras x Flamengo - vgnoticias.com.br",
-      "summaryKo": "파우메이라스, 플라멩구전에 반자동 오프사이드 적용",
-      "excerpt": "CBF testa impedimento semiautomático em Palmeiras x Flamengo&nbsp;&nbsp;vgnoticias.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzBGUS1tVkZ6VExUTmdDN2ZmQUt5eWRsZzF0ZTc3aWswbXExRTRHQUZhOVZNak9ZNEpCN1lCOWNOLWxIV29RZDBYOHhwQ1hRNVFFMkVsMElfcXh6ZEdURzNpVzJoR3RqeVo0TkhGMjlHakhBUnBnclQzVTRKeW5YMjAyR2xzN2dXWnRCbEVKNzBfbmotZ0tLWWdJTGNhX2dpVVRHQWRjWmxydw?oc=5",
-      "source": "vgnoticias.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:53:00.000Z",
-      "whyItMattersKo": "빅매치에서 오프사이드 판독 속도와 정확도를 높이기 위한 중요한 시험대입니다.",
-      "fanTakeKo": "판정 오류 없이 깔끔한 경기 기대합니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHRQdVUxTFg2T2h1N1dKX1VWLTd4T21abU55RjRVZ0VDQlBaVUFQdVQ4a1",
-      "title": "Hugo Moura, Andrés Gómez e Loide Augusto: diretor do Vasco fala das possíveis saídas do clube - O GLOBO",
-      "summaryKo": "바스코, 우고 모라 등 3명의 이적 가능성 언급",
-      "excerpt": "Hugo Moura, Andrés Gómez e Loide Augusto: diretor do Vasco fala das possíveis saídas do clube&nbsp;&nbsp;O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHRQdVUxTFg2T2h1N1dKX1VWLTd4T21abU55RjRVZ0VDQlBaVUFQdVQ4a19JNFpPLUJhTDg1czRxYkFmQzlfcDc0N0dPX0IwQ0dWRVExcC1yS1pDWG9lYVFsZmV1M3ZFeXBVa1BuX1JZdkJoNHVfVkRVbWg1dHR2VUFQclZoem56YUZMM0dZT1FUN0I3OGhjZlozcWNNM3FNUWpLUzlpUWhteFRJWUlNYnZlT2s4Q3ItTFFiTmxFOEp2Y3llSU9saTRyMkI1ajdTUVVKdUFFQmsxQ2IwOEg0eDYwLXZXMWxVZ2hIQ2hRTzJDY25pZndmdNIBhwJBVV95cUxPVS1nNU5jZUI2aUtLT21UWjhKMkNOcGN6U21xdXYwYTBDRnV2NDY2RktNdS1BbE5POFNrQVZQVzBYTjllenpkT2xQQWNmNkdBTUUxNmdBclowUzlOOUx3WUhqT2tZNWw5NVVudkVRaWlwaTJrUmh0YVpNZDVjVzlwd1d2WmZ2UVNFdGtjSHdid0JRdUFJaVFtTC1RS3liOW1WOGtKc2NJSEVNUmxWdHBrV2JoNFhkbURMNGN3TERfVTduVG5mUVFxczhGU3dmTWRLZzNuMk5UdE0wMUZNS2tJNzNiTExqT0tCdEZweHRHTWJSTEQ3VlFjbTNpREVPSktpRWEtaHdYWQ?oc=5",
-      "source": "O GLOBO",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:16:24.000Z",
-      "whyItMattersKo": "바스코의 주전급 이탈 가능성은 리그 전력 흐름에 변화를 줄 수 있어 주목됩니다.",
-      "fanTakeKo": "바스코 선수들 이적 시장이 분주하군요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2tvNDRjTjRtRlp0NXdkSjdXVFlXam5DRHprbkp4ajFtUTRkdjB1NU82aXZ",
-      "title": "Abel Ferreira apresenta cachorrinho Ayrton Senna à torcedora mirim do Palmeiras - ge",
-      "summaryKo": "아벨 페레이라 (Abel Ferreira) 가 아이르톤 세나 (Ayrton Senna) 강아지를 파우메이라스 (Palmeiras) 에 선물합니다 - GE",
-      "excerpt": "Abel Ferreira apresenta cachorrinho Ayrton Senna à torcedora mirim do Palmeiras&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2tvNDRjTjRtRlp0NXdkSjdXVFlXam5DRHprbkp4ajFtUTRkdjB1NU82aXZxa1NPWldyTDYyd1R1MjRQMERRNlVCaGY5WGtKN2JNaDFDa2FjNEp1dEtGdUNRTlhITGR4cWpmMFVSRWlKTlZmZzg0WUxQa25fRTN0dmpvekE3RmF6a0t4UmdjczIyRThwa2hMZV9sbGdPenFVdmZMMW1Lcml0NVd5dno1eEE3VklLSWYyMWNNYmV30gHMAUFVX3lxTE9aXzZteTAtcGZpVVVIM0JVSmpKMXpwTWFFemxYRU1Bb0pPZXlZZDg4dVdzbGIwZ3pBcjltZTRFZmM1MXJhREF5MXlkZ1BadHBZMGxaQXRIcE1qRXM5eTdKQ3pOcDkwUDlPVWZFV0E4NlF2ZnhDNUhGMzZYUUFfTVBsZlpMckVSWEg5S0FLWHQyX0FsVF9tejd4X0dJUVN3NTZuS3dYQkE3anpmODN0U3ZxM2FUeWNVOWNZYlRjay1OV0draVNGUnRvMzZzdw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:15:32.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaEQ1LVltMzBGX1NDR0I2SHBPNmZ1SXZ5aktHYmk2aU1nQ1lDTzBXOUpvOVV",
-      "title": "CBF usará Palmeiras x Flamengo no sub-17 para testar impedimento semiautomático no estádio - GE",
-      "summaryKo": "파우메이라스 유스전, 오프사이드 판독 기술 시범 적용",
-      "excerpt": "CBF usará Palmeiras x Flamengo no sub-17 para testar impedimento semiautomático no estádio&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaEQ1LVltMzBGX1NDR0I2SHBPNmZ1SXZ5aktHYmk2aU1nQ1lDTzBXOUpvOVVGTzc1ai1fVF9UMlNUYkx4WVY1ZDFOTWdBSU5LZHVLd1pPeGsyU3RMaGtLbkpvcjZFaVh2YlUyaFpMMlZxRGpGblMzbTNINGY0SVhxZ1ZDc1hxSE11bXJjTGFGcGhCOUNMV1BRb1RUTlRSWjZOekNwMUVvNm42UjQ5YTM1M0NXbktQOUlGQWk1bjRYcWdmRkdQQU8zdkkwMzU0UjhCRXdtMW1WeUZZeHJTYkxnT085NkUxOTFTNHZScHNqWk1vQdIBgAJBVV95cUxQVktPZnJSQkhhVXdwdHFHS0s5YkdGRlJNemk0OV81dWxGc1l3dHRXUnpOVGxOYlhiRFFPTXc5TXlIYWprdGRtZ0lxdy1HY1RJeFpELWNvekdtNlpmTlFiVVUwU1BlMHRULXRfQTdaZlRvYU0yMEprdDVkYkVyd1l1Sms2QUZuOGMwWlc1Y3hLNW9oRGk4eTE1MmZUU0xGZWdPU19abW8wODA0N0Rab0pyNHlCelVYazBVbHZOeHJTSTdDYjExSVNsb200bHZCYTF3ZTBKbDRjVFA2R1RydWpkQzFmWERFVUhoeE9uX1NfYm16UTJMNExJRUFpeXZuTm95?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:06:19.000Z",
-      "whyItMattersKo": "브라질 축구 연맹이 파우메이라스 유스 경기에서 신기술 시범 적용을 진행합니다.",
-      "fanTakeKo": "기술 발전으로 공정한 경기가 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVVNvMzR6ZzlndmlxT3FvUUlORXQ2VHNCbFBIZEktVHJvdjItcGJvSTA5eFB",
-      "title": "Paraguaios reforçam Palmeiras, e Vitor Roque treina sem limitações após lesão - Rádio Itatiaia",
-      "summaryKo": "파라과이 선수들 합류, 비토르 호키 훈련 복귀",
-      "excerpt": "Paraguaios reforçam Palmeiras, e Vitor Roque treina sem limitações após lesão&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVVNvMzR6ZzlndmlxT3FvUUlORXQ2VHNCbFBIZEktVHJvdjItcGJvSTA5eFBaQWVZbklKT1lobnhMMXZxdHdDTnZxRGh1czQxWWtYYU1ZVlVmUzhqa0xSblhTcXUtYktteWd2U2d5Wkwyb3FNOS1ZQm9aeERZU0NoR1VsZzJfQnNHQktXWmJQRXQ0V1RiTDR6UV9uSHRzYVFVRXpWSnVBSll5OGpHSkE5MVY3ajlma3BsLTh0NGhWSE1SMEY2eWRWbnB4X2RPcmYyZHBPWlpjbENCMllrYmhRYXRPNFRDN1dudDM1dlpRc1ZmV0ItNHNyR093?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-13T18:04:33.000Z",
-      "whyItMattersKo": "주전들의 복귀와 비토르 호키의 컨디션 회복은 팀 전력 강화에 긍정적 신호입니다.",
-      "fanTakeKo": "호키가 완전히 나은 것 같아 다행이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
