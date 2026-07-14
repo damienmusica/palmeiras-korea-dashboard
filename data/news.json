@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-14T03:57:06.325Z",
+  "fetchedAt": "2026-07-14T06:17:23.439Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2Q1NUd0ejVneVJCWW5HZG45VHJVWEpJdHNRUTJ5ZlI3WjlIV24zWWg2UDN",
@@ -123,7 +123,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzUtTFZKUUFRUHVXall5QU5QMmdwNFZvdEduY0w5NU5ZR183b2Vmd1lfYWVBZnRTY0JabURnbjg5T3lwbzUwN2tBMVh0TlNkR2c4d09oNnIyQ1RIeEZTQmZRSkZIeW5qaGwwTnFnemJlcjRZWmFqNHEtMDMtNVNFTkVNQjU3a3pYRzNRQ1drMmxldTZTeU9JNlVfU2lhU3ZMQlRQR25n?oc=5",
       "source": "noticiasdoplanalto.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-13T23:59:13.000Z",
+      "publishedAt": "2026-07-13T23:59:49.000Z",
       "whyItMattersKo": "여자팀이 리그 재개 전 우승을 차지, 브라질레이렁 복귀에 좋은 기세를 올렸습니다.",
       "fanTakeKo": "여자팀 우승이라니 너무 좋아!",
       "tags": [
@@ -158,6 +158,22 @@
       "publishedAt": "2026-07-13T23:37:00.000Z",
       "whyItMattersKo": "여자팀이 대회 우승을 차지하며 브라질레이렁 재개 전 팀 분위기를 최상으로 만들었습니다.",
       "fanTakeKo": "여자팀도 우승이라니 대박!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3ZidHFHX0J2MklkcXMtdmtMdU95dTdNTkNGNG8xRzVKdFVEQ21BWEFnSU1",
+      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - Região Hoje",
+      "summaryKo": "파우메이라스, 여자 리그 재개 전 레이디스컵 우승",
+      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;Região Hoje",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3ZidHFHX0J2MklkcXMtdmtMdU95dTdNTkNGNG8xRzVKdFVEQ21BWEFnSU1ETmZHUXl4MFVZdnY1MXRVVkZyWHhhRTJ2MkpXLWd4akdQMm94b0JjVWU5MkctdWJYSFFxcVpHZHZrU1JwSHNSb0VDYS1qUUdzdkMwdU16TDlHT1ozd29hNy1aWEJkUWlwT2tMSDhkRG43NW1IaTcwd2JjU1EyRmhucTRXZHVHbm5VdkZOUnR6U3R1VGpaakVtd1FxekQ4RmZsSVBfQmJtNHVR?oc=5",
+      "source": "Região Hoje",
+      "language": "pt",
+      "publishedAt": "2026-07-13T23:25:00.000Z",
+      "whyItMattersKo": "리그 재개 전 우승을 차지하며 선수들의 자신감과 팀 분위기를 높였습니다.",
+      "fanTakeKo": "여자 팀 우승이라니 정말 기뻐요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -927,20 +943,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzd5OXRqMkJqSVFIcEZLZEMzbWtHRGkyUnhvWUR6SjdwMHJ4RWowZUlUN0h",
-      "title": "Palmeiras: reforços e recuperação marcam pausa da Copa do Mundo | Ge - GE",
-      "summaryKo": "야자수: 강화 및 회복 마크 월드컵 휴식 | Ge - GE",
-      "excerpt": "Palmeiras: reforços e recuperação marcam pausa da Copa do Mundo | Ge&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzd5OXRqMkJqSVFIcEZLZEMzbWtHRGkyUnhvWUR6SjdwMHJ4RWowZUlUN0hJUmdDUHgtb0VCTy1mMW9GazRXNWR2SjNaQlpYdzZHZktJT0tYLUdRbVFnb1VJbk5jLThmME9aaXdFb0hrWUxiOXR4UEpnTGhaazRrTDJTNWlpZk9odlVYeFJQVnRzYnQybjdZblZuWHBzUlVsS2pIUzhEMWtDeGNRUWdDUE9TRl9BVlQtM1V1eFJWR1dYa3dRMUFvZDRYUUVmQnRma1F1UmxCc3VpeXYyYTEtZ0FDZFBVbS1Zcy1Dci1QcnI?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-13T07:00:53.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
