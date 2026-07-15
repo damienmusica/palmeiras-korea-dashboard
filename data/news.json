@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-15T05:52:59.288Z",
+  "fetchedAt": "2026-07-15T08:12:26.836Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVjFhWjktUldfRXJib2NQZG5pWEk3MTFYcjNmSHQ5QzdDZkF1LWpDc2phNjB",
+      "title": "Palmeiras prepara Barboza, e zagueiro aumenta opções de Abel Ferreira - Rádio Itatiaia",
+      "summaryKo": "파우메이라스, 바르보자 준비 중 아벨 옵션 늘어",
+      "excerpt": "Palmeiras prepara Barboza, e zagueiro aumenta opções de Abel Ferreira&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVjFhWjktUldfRXJib2NQZG5pWEk3MTFYcjNmSHQ5QzdDZkF1LWpDc2phNjBHMHJjU19QWTBtMUs3Y1NXWDNfb29mOE84RU5qRjNoWUU5amNtSHByZjNKWU1rV3doYk8yZEV0NlhDeHo4X2p2M2xsU1ZDNHFCcWYtb1E3RG9zamItRUYweG5DM3JWa2ZXeHRSZWpHQTdmcDhJSk50U2lMNHY5eThWZWlTalFRMklKZmlWQkdzNlJqbjJteEFQel9OeEdyVUUwWUJBTDd0eFVHa0JmMGpkWTVFMXZBdC1VdlRqa0I2UWprMA?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-15T07:40:16.000Z",
+      "whyItMattersKo": "수비수 바르보자가 합류하면 아벨 감독의 수비 라인업 운용 폭이 넓어질 것입니다.",
+      "fanTakeKo": "수비 옵션 늘어나서 안심이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjdmenRqTzBxRFZEMjN3OTJ4QUF4OGt2akdwVS0wUWJTWTBvUFlYZnNxakx",
+      "title": "Como possível venda de Naves impacta em busca do Palmeiras por Danilo, do Botafogo - GE",
+      "summaryKo": "나베스 이적설, 파우메이라스 다닐로 영향",
+      "excerpt": "Como possível venda de Naves impacta em busca do Palmeiras por Danilo, do Botafogo&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjdmenRqTzBxRFZEMjN3OTJ4QUF4OGt2akdwVS0wUWJTWTBvUFlYZnNxakxKTVk3SzlGWTV4Wm9XTVR0aEllRlY2SkpDOVhpY29tSW9BTkk3M05BbGo3MkMxS283RGlhUFNLZTNZYzQ3UVprTHd1MjdVWUFfZEppYnBlRnVLRFNQUXBTNzExclBxMGwxQmNjVlh3cXNabXhYSmFESE9EaGtKTUtSd1lQdmR1MHl5VWh0WGtpVkIzSG5jQnpZRWMxX1pxdkd2ZFByTl9MWDVMcF9rbEFpS21sN29LMG01d9IB9AFBVV95cUxOUWxFUFBTdGI4eUx2WXJDcmctaTVLQzJXQ2ZsNVdJMGxEeHplYmUtbzlCZk5Mck1EM214c0QydFlXRGVhM0VxX1JTMU9fcms2OEZVaGI0MHMyemlCXy0yVnlWZHIyRXE1S1h6UzR4RnhuZlFQRDBTanVIb0t4Y0lhekw5MGtXeEI1LW9nMW9TUmt3eDl2VXBqOUxGWWxiWTEwd2dHRThFNXZFSEJ1RDNUSjBGSWtQZ0NmZnd6bW5XR1IwemF4SHR0aHFLUVNzQzhDal9qcGptQW5oakRBT2JKRFEtZ0NoNldjWTFSelVrNFpZYkFj?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-15T07:00:49.000Z",
+      "whyItMattersKo": "나베스 이적 여부에 따라 보타포구 다닐로 영입을 위한 자금과 전략이 달라질 수 있습니다.",
+      "fanTakeKo": "다닐로 꼭 데려왔으면 좋겠다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWs4akg4VTNZNF9sMFZOdm5ZZlFyOEQ4M1pLLVBXNDJCdHlKb3c4VGFWTlJ",
       "title": "Parada da Copa já mudou rumos do Brasileirão; líder de 2026 tenta repetir feito raro - Jogada 10",
@@ -901,38 +933,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjBHdEJrbVZaRExlQXNYNWhiRmNzR3pDaE1hVTllMjVSY0RIb01iOGZYZz",
-      "title": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - PortalR3",
-      "summaryKo": "여성팀, 브라질레이렁 재개 앞두고 우승",
-      "excerpt": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino&nbsp;&nbsp;PortalR3",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjBHdEJrbVZaRExlQXNYNWhiRmNzR3pDaE1hVTllMjVSY0RIb01iOGZYZzgtbFd1QlV3S0NHNzRHeFIwWjhsNFNzU1NGblZhQkdLWmtpMGx4b0xKclNWQ0lFa3VHWFA3UXBJODVPR3BTOVV1LUlxckw3cDJWbVN3TDhLQm9lUkZuZDJjRG5DbGlVWUoyYkdPQlBjS0xxWWZnbW1iZlFqQk9DT00?oc=5",
-      "source": "PortalR3",
-      "language": "pt",
-      "publishedAt": "2026-07-14T10:32:25.000Z",
-      "whyItMattersKo": "브라질레이렁 재개 전 우승이라 여성팀의 분위기와 기세가 한층 더 올라갔습니다.",
-      "fanTakeKo": "여성팀도 멋지게 우승했어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1RBRkR4UW85TVhaV2pGRGNtVDN6WVJmV012M2IwVGIyX3JETjhHZWFLTW",
-      "title": "Atacante ganha espaço no Coritiba e deve ser surpresa contra o Palmeiras - UmDois Esportes",
-      "summaryKo": "코리치바 공격수, 파우메이라스전 변수",
-      "excerpt": "Atacante ganha espaço no Coritiba e deve ser surpresa contra o Palmeiras&nbsp;&nbsp;UmDois Esportes",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1RBRkR4UW85TVhaV2pGRGNtVDN6WVJmV012M2IwVGIyX3JETjhHZWFLTW5GOGRoN0JqRTNEdEVhZldkaGRzZVlvN25EMm9EX1VuaGlzU2tIS0k0NEdiV3JRSEpFNmx2Z0d5RWkzWE9RYkptaUxubjUzNkZYTWhHVE0xYng0alZ2b1EzWUFzM3dDVnJmbDFkRw?oc=5",
-      "source": "UmDois Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-14T09:28:14.000Z",
-      "whyItMattersKo": "예상치 못한 선발 기용이 파우메이라스 수비진을 흔들 수 있는 잠재적 변수입니다.",
-      "fanTakeKo": "방심하다간 뒤통수 맞겠어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
