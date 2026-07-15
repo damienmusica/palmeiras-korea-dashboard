@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-15T03:21:33.871Z",
+  "fetchedAt": "2026-07-15T05:52:59.288Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWs4akg4VTNZNF9sMFZOdm5ZZlFyOEQ4M1pLLVBXNDJCdHlKb3c4VGFWTlJ",
@@ -20,22 +20,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEdFaDVIcFZRMkp5M1NhSWhOVWJyMTI3OUFHeURJWlZ5TFBldDJkdkNGVmx",
-      "title": "Palmeiras poderá ter quatro desfalques no ataque para o próximo jogo - Terra",
-      "summaryKo": "파우메이라스, 다음 경기 공격진 대부분 결장 위기",
-      "excerpt": "Palmeiras poderá ter quatro desfalques no ataque para o próximo jogo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEdFaDVIcFZRMkp5M1NhSWhOVWJyMTI3OUFHeURJWlZ5TFBldDJkdkNGVmxUdGRSMGh2eDM5emw2c21ZYlY2SmZUWE9NandIWHN0Z01FUG84djJKRGhDUkp5MkM0SFF0XzVxZ2hjdTVuTTFfMnd4Y0xOa24wVUxsY0RYN0RxMEF6eEg4X1U2Z1VCcTVsRkd0ZXBUX1ZpSkgtaGRHeExYWEdJenhKQjlXcWJvU2RuU1UyRGhSRVNrVllIWDY0ODhKemZ2QVJxVEhNbzJTNTlOWTdDQ0l4Q1JMNlNFWVRSNTB1LUowREhoRQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-15T00:43:00.000Z",
-      "whyItMattersKo": "공격수 4명의 결장 가능성은 다음 경기 득점력과 승리에 큰 위협이 됩니다.",
-      "fanTakeKo": "공격진이 너무 휑하네 걱정이다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdDBiM0FDMDNURlZXd3huOGRaTWxrUEdCNDBxeVg1S0xCYkFZMU4zMG51bGI",
       "title": "O pensamento da diretoria do Palmeiras sobre Danilo, do Botafogo - Terra",
       "summaryKo": "파우메이라스 구단, 보타포구 다닐로 어떻게 보나?",
@@ -46,6 +30,22 @@
       "publishedAt": "2026-07-15T00:43:00.000Z",
       "whyItMattersKo": "구단의 영입 의향 파악은 다닐로 이적설의 진위와 팀 보강 계획을 보여줍니다.",
       "fanTakeKo": "다닐로 영입 기대되는데, 빨리 결론 났으면.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEdFaDVIcFZRMkp5M1NhSWhOVWJyMTI3OUFHeURJWlZ5TFBldDJkdkNGVmx",
+      "title": "Palmeiras poderá ter quatro desfalques no ataque para o próximo jogo - Terra",
+      "summaryKo": "파우메이라스, 다음 경기 공격진 대부분 결장 위기",
+      "excerpt": "Palmeiras poderá ter quatro desfalques no ataque para o próximo jogo&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEdFaDVIcFZRMkp5M1NhSWhOVWJyMTI3OUFHeURJWlZ5TFBldDJkdkNGVmxUdGRSMGh2eDM5emw2c21ZYlY2SmZUWE9NandIWHN0Z01FUG84djJKRGhDUkp5MkM0SFF0XzVxZ2hjdTVuTTFfMnd4Y0xOa24wVUxsY0RYN0RxMEF6eEg4X1U2Z1VCcTVsRkd0ZXBUX1ZpSkgtaGRHeExYWEdJenhKQjlXcWJvU2RuU1UyRGhSRVNrVllIWDY0ODhKemZ2QVJxVEhNbzJTNTlOWTdDQ0l4Q1JMNlNFWVRSNTB1LUowREhoRQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-15T00:43:00.000Z",
+      "whyItMattersKo": "공격수 4명의 결장 가능성은 다음 경기 득점력과 승리에 큰 위협이 됩니다.",
+      "fanTakeKo": "공격진이 너무 휑하네 걱정이다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -140,6 +140,22 @@
       "publishedAt": "2026-07-14T21:48:53.000Z",
       "whyItMattersKo": "휴식기에도 강도 높은 훈련을 통해 컨디션을 조절하며 다음 시즌을 준비합니다.",
       "fanTakeKo": "휴식기에도 고생하는 선수들 응원!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3ZKcEVRT0VlamhaUkh2WDNRT2FRMlplelM1VUhjS3pQaFVuWmcwRDBTRXd",
+      "title": "Palmeiras negocia saída de zagueiro para o futebol mexicano - tmc.com.br",
+      "summaryKo": "파우메이라스, 멕시코행 수비수 이적 협상",
+      "excerpt": "Palmeiras negocia saída de zagueiro para o futebol mexicano&nbsp;&nbsp;tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3ZKcEVRT0VlamhaUkh2WDNRT2FRMlplelM1VUhjS3pQaFVuWmcwRDBTRXdnbmQ2ZUQ4VUxrNG5nd19MLUliZTRiMEh3VjNVLXJRNWExNzA2ZHcwWUZFcnJMREJ1UXpmQ1ZEUW4zcTAxM0sxdnAwdDFIaGNGSzlaRTlVSmtnWmQ3QVF5NDBzZEI?oc=5",
+      "source": "tmc.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-14T21:48:13.000Z",
+      "whyItMattersKo": "수비수의 이적이 성사되면 수비진의 뎁스와 팀 전력 구성에 변화가 생길 수 있습니다.",
+      "fanTakeKo": "누가 멕시코로 가는지 궁금하다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -914,22 +930,6 @@
       "publishedAt": "2026-07-14T09:28:14.000Z",
       "whyItMattersKo": "예상치 못한 선발 기용이 파우메이라스 수비진을 흔들 수 있는 잠재적 변수입니다.",
       "fanTakeKo": "방심하다간 뒤통수 맞겠어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll",
-      "title": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17 - GE",
-      "summaryKo": "파우메이라스 유스, 플라멩구와 U-17 리그전",
-      "excerpt": "Ao vivo: Palmeiras x Flamengo | Rodada 8 | Campeonato Brasileiro sub-17&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwzRWdFVWNMeXBIVUJnVEhkV0RmMlFBVVBIaThLWXIyN3JPc1RwVzlZQll3R3hDSXM4cDMxVkN6UTRXSURSX3U0N081d0QxUUMtVEw3bHp5cDYzYUZuWllsOW1JcGRuUjF1S0k1V1R6Yko3S0RHU3Q0UkEzVFF4VS05VmpQelRzQVIwTHlXZkhzOWpGU0E?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-14T09:21:46.000Z",
-      "whyItMattersKo": "미래의 에이스를 알아볼 수 있는 유스팀의 성적은 팀의 내일을 보여줍니다.",
-      "fanTakeKo": "우리 미래 스타들 응원합니다!",
       "tags": [
         "뉴스",
         "AI요약"
