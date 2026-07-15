@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-15T08:12:26.836Z",
+  "fetchedAt": "2026-07-15T10:20:38.769Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGU1Z3pzMFZvNEpYMmRGVnRQZnE5U1cyNnpXUkhKR0JkNGl3R251UU1DMGN",
+      "title": "Léo Ortiz projeta 'finais' na perseguição do Flamengo ao Palmeiras - Rádio Itatiaia",
+      "summaryKo": "플라멩구 레오 오르티스, 파우메이라스 추격전 예고",
+      "excerpt": "Léo Ortiz projeta 'finais' na perseguição do Flamengo ao Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGU1Z3pzMFZvNEpYMmRGVnRQZnE5U1cyNnpXUkhKR0JkNGl3R251UU1DMGNSMHpCU1BGeG1hVjBqUEgyMUd4TmxwaDNuNkpmQTNvNTdVOExKRDdKU1RrYkR2dGtGY25VNkNHYXlWcWxHVDJiMWN0OHFGck8xbEJIYW1QUHR4cl9YeUNRYVNvSGtjY0FvQnRvdTJnVHJPX1RjZGRZdExlNHpvTkFoc2FWYWRLaUdoaGF5RmdFNUg2Q3g2Nkw5bWhWY29salNtQlVUMXNLQ0RwUUxaejNfLVJ5VjJxWENlc1E?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-15T09:47:36.000Z",
+      "whyItMattersKo": "경쟁 팀 선수가 추격전을 예고하며 선두와의 격차를 줄이겠다는 강한 의지를 보였습니다.",
+      "fanTakeKo": "추격전은 역시 긴장감이 최고죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiogJBVV95cUxNcUNiZ3M4dmJlY3B2dnp0bFpiRkU0cXhpd2l1UlZWbnBMX1g5MmFLZVNvaWt",
+      "title": "Palmeiras preserva Barboza e prepara estreia do zagueiro após a Copa - UOL",
+      "summaryKo": "파우메이라스, 바르보자 쉬게 하고 수비수 데뷔 준비",
+      "excerpt": "Palmeiras preserva Barboza e prepara estreia do zagueiro após a Copa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcUNiZ3M4dmJlY3B2dnp0bFpiRkU0cXhpd2l1UlZWbnBMX1g5MmFLZVNvaWtGZGlXREh5dXJRb2xHREdiZ1hrNEd1bzkxd01WSHBybHY4SlZQZ2ZMZHYxekdEM0lkeU1FQkdQc1FYWEJUd3lwUlJjQVBTV002Y2lfaGExc3FMck5mcUFlVTdsSDZncXNRNHN2MnRKTGppdkEtNDJ5ZG13WTFNekZrZFlEOGdacmpQSnhDY0J4NzdWVUxKU2lzU2pPTFJXb2FpdzQzeGNmN2ktUVJaX2pVQWw3eVZWak4tR1I2MzlPTTBGdnk0N1hSY3UwZkF3Um5OZ0h5RVp5R3NiMEF3YXpjQUVET1g2c3U0UzAyakVHTFNqM1VDZw?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-15T08:34:06.000Z",
+      "whyItMattersKo": "주전 수비수를 쉬게 하고 새 선수의 데뷔를 준비해 선수 관리와 수비력 강화를 노립니다.",
+      "fanTakeKo": "새 수비수의 모습이 궁금해요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVjFhWjktUldfRXJib2NQZG5pWEk3MTFYcjNmSHQ5QzdDZkF1LWpDc2phNjB",
       "title": "Palmeiras prepara Barboza, e zagueiro aumenta opções de Abel Ferreira - Rádio Itatiaia",
@@ -902,34 +934,6 @@
       "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-14T12:30:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnZqWUxwOTNueEk0aE81X3pTSnU5cVBWZl9UVmYzQmFIbVdOQlJBbWQxUEU",
-      "title": "Palmeiras pode avançar em meta de vendas com valorização de zagueiro - LANCE!",
-      "summaryKo": "Palmeiras는 수비수 감사를 통해 판매 목표를 앞당길 수 있습니다 - 입찰!",
-      "excerpt": "Palmeiras pode avançar em meta de vendas com valorização de zagueiro&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnZqWUxwOTNueEk0aE81X3pTSnU5cVBWZl9UVmYzQmFIbVdOQlJBbWQxUEU5NlROdFNxeWhNblBuZDlVa3Z3YW9YY2lFQkFfa3Y0WEdZcVZqTndMVENxczFKVzhaYVF5eGp5UmlONU9ZMk9nRGV3eVZhSzNJSnZ6NVVFN19LNVFvdlJsUDJnWkFrV1JCb0tkYjZIbVh4WTVyaURETlJ3eElwUXBJ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-14T11:42:40.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2J4YnhncVVTekEyelVsRnRwVTNGVlVCTm92NEk3OWZHYU02eVFFbHhxWlB",
-      "title": "Ídolo do Palmeiras, Sérgio distribui autógrafos a torcedores em Sorocaba - GE",
-      "summaryKo": "파우메이라스의 우상, 세르지오가 소로카바에서 팬들에게 사인을 배포하다 - GE",
-      "excerpt": "Ídolo do Palmeiras, Sérgio distribui autógrafos a torcedores em Sorocaba&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2J4YnhncVVTekEyelVsRnRwVTNGVlVCTm92NEk3OWZHYU02eVFFbHhxWlBZTVpPdy1ZUU5qb3ZRUUc2N2doUTk5SHlubGczODFZMTdMMTZNLU9Sai0tZ1M5UW52OEtHNEZnZkRqc2lPY0V2TERsVWRRT21IdkYyMzF2LUI2RWg2MEZoMUJUS1NYZTJSdlJUMjFuZWl2SVRDbE8tbGR3MWRNX3R2eGNfWUxBeWk1eEFsam9OcWhNa1ZWelZSSmdoOHd4aWlOei1mVXhuOC1EWdIB5gFBVV95cUxPMWVzNmRQVmxvSEduRnlVV3g4U1NfUlBuWWhwR0kzQVFkNkZ3cmtEZEtYM1VrU2FlX2dyTXFxNHA4bnZ6SzdmYzd0Nmg1SEVaeFMwUmdkZWQtcXZJT1BqY2lfcnJDajhvZFBKSlhJQmo2QlJtRnBGcnJ6cF9KbE5SdXdmemFROGJ1UU0zRGxydDhTcjBWd2RWQ2V5bEYzMkNyLWR2SDExN254T3ZXNnZqSWF3VTZlRWlDcUh6R3AtX0c3a0h6Q1pzQXBkbzFPc3ZZSlZBYjdseUhnbzdwQzdCNk01UmFLUQ?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-14T11:00:14.000Z",
       "tags": [
         "뉴스",
         "자동번역"
