@@ -1,8 +1,78 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-15T17:47:46.073Z",
+  "fetchedAt": "2026-07-15T19:12:52.424Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2ItM19RWk14cVpFWTNrUlUxRk5RTmJ3c0VfV0ZYR05zUG1MLWZPRGgzM3B",
+      "title": "Palmeiras bate meio bi em receitas, mas segue abaixo da meta - LANCE!",
+      "summaryKo": "Palmeiras는 레시피에서 절반을 이겼지만 목표보다 낮습니다 - 입찰!",
+      "excerpt": "Palmeiras bate meio bi em receitas, mas segue abaixo da meta&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2ItM19RWk14cVpFWTNrUlUxRk5RTmJ3c0VfV0ZYR05zUG1MLWZPRGgzM3BiZGhDYURxUDl6UVBxa3FnbGhXV3B5eE1SZG5MQ2I2cDNYVk5PQkhSQVdyeVNrU2l1ZTJibmc5Rl9MdjF0RWcwTHFDdXNqMHN4VkJ1c1ZaTUJxR21QM0NWbVk3c3ltYUtDRE1UbkpfNF9qRVRaN09INFVR?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-15T18:53:22.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVduN2V3bnk5UG5ELXBjamRrSVVZRy1GYmsxT3VoTEpMakxrWTlWdFJ0NG0",
+      "title": "Vitor Roque avança em recuperação, e Palmeiras treina com foco na volta do Brasileirão - Gazeta Esportiva",
+      "summaryKo": "비토르 로케 (Vitor Roque) 는 회복세를 보였고, 파우메이라스는 브라질레이랑 - 가제타 에스포르티바 (Gazeta Esportiva) 의 귀환에 중점을 두고 기차를 탔다.",
+      "excerpt": "Vitor Roque avança em recuperação, e Palmeiras treina com foco na volta do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVduN2V3bnk5UG5ELXBjamRrSVVZRy1GYmsxT3VoTEpMakxrWTlWdFJ0NG0xYWJMRmpoWWh1MF8weDhwbk10eHNqWlUyWUgwU3lTQnRUNmFRcTN4ZG1PMC1qbUEybHVOOXBXZVdDdTVURHZBRmZzel90bUFucUhKRjhDS3ZRYkNYbnFoTzhPVHZ6Z1FRVWdETE8wRW1fdjFkZWZiaTVITFFIV0x2NHcyNlB6Z0pySXhHM1hEc0Z4RXU5bVl1QnNVNHVyUzI?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-15T18:39:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGhnWXpkVEdtU0p1TV9QekpGbk9EZkprM2pZQl9HWmhjd2h1aVFNOHd3eTh",
+      "title": "Palmeiras estuda nova proposta por Danilo após encaminhar duas saídas - LANCE!",
+      "summaryKo": "Palmeiras는 두 개의 출구를 보낸 후 Danilo의 새로운 제안을 연구하고 있습니다 - 입찰!",
+      "excerpt": "Palmeiras estuda nova proposta por Danilo após encaminhar duas saídas&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGhnWXpkVEdtU0p1TV9QekpGbk9EZkprM2pZQl9HWmhjd2h1aVFNOHd3eTh2aFNwUGxuQmF5VlFxSWJWQmRMbzZpbVQ5bmd2cDZjOFFFeFYwbldGTV9QSG5jcFM2Q3hGV0s4RmRGYUNzUnRGVGtMbng5a3dsOWdPckVWTlV6bUxxdnpwVUlDalRxcnhGaGZQRDhiblB1aS02Z1hCVmN2dWJtSzBJM2c?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-15T18:18:01.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTgwaFZFUzlmSEZ2Vlh1S3B1WjNWdkp6UWlKZWRSMEVLWE9oeXdERGJVc3U",
+      "title": "Palmeiras precisa reajustar proposta por Danilo - Tribuna de Jundiaí",
+      "summaryKo": "Palmeiras는 Danilo - Tribuna de Jundiaí가 제안한 재조정 필요",
+      "excerpt": "Palmeiras precisa reajustar proposta por Danilo&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTgwaFZFUzlmSEZ2Vlh1S3B1WjNWdkp6UWlKZWRSMEVLWE9oeXdERGJVc3UxM0I0Tnp2azVJRUF3ZFl4Ui1BUHdTS3dSX1c1X19kZGJUYWhCc092Y29TRnZNTTgwVXRxck1jNm43cGp6YVEwemNrNTltbFVhOTFrOU8zNUZwY1NSekZIX3l4UUZnckQ0TXdtUW5R?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-15T17:47:35.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQmxCbnp4cjc4QnpqS2kxNndPNEU0R1hNRkRadHF0d2dJV1hfQWk2anpYZWl",
+      "title": "Palmeiras marca mais dois jogos-treino e vê Vitor Roque perto do retorno - Terra",
+      "summaryKo": "Palmeiras는 두 번의 연습 경기를 더 득점하고 복귀 근처에서 Vitor Roque를 봅니다 - Terra",
+      "excerpt": "Palmeiras marca mais dois jogos-treino e vê Vitor Roque perto do retorno&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQmxCbnp4cjc4QnpqS2kxNndPNEU0R1hNRkRadHF0d2dJV1hfQWk2anpYZWltVmJrSW9YY2ZLWlMtamJ2U1FiZnFad3ZBRzFoSlVIWVdSb1lDR1I1YWREVjFULUt1eHhpbHUxbW05dlN3R1hHa0M0aTI3ZU9tNnUydEVBSFplQkRkakVNVXh3ZG5vREdRWTZhS3JqZkxha2tFb1NMdmxxSjVibmtaS1VDN1IwYXpzRDdleTlnaVBGMklITHhNOVVZRzZpcGkxUHh0MUZRelB0UzBzb0JISnJsVmZ6T25PUWVDVl9IdHRsZmpxbkdv?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-15T17:43:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMicEFVX3lxTE9GeG1CQjBSNXd4R0RmS3Q3WHFCWmU0bEFwOU11dEc3TE1EM3RzWXkzdVJLQUt",
       "title": "Palmeiras precisa refazer proposta por Danilo - Portal ABC do ABC",
@@ -17,6 +87,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVZODRXY3lJTTRKOWlUZS1qQmk2UTVSeU1HX3FmVkl1ZXROcG50OFJOMGJ",
+      "title": "Palmeiras encara sequência de decisões com 'melhor elenco' da era Abel - LANCE!",
+      "summaryKo": "Palmeiras는 Abel 시대의 '최고의 캐스팅' 으로 일련의 결정에 직면합니다 - 입찰!",
+      "excerpt": "Palmeiras encara sequência de decisões com 'melhor elenco' da era Abel&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVZODRXY3lJTTRKOWlUZS1qQmk2UTVSeU1HX3FmVkl1ZXROcG50OFJOMGJ3T0JFd1FqN1V6N0dtWUdCTHpiRXRfRFQweUlTdnlTLVBjbkVPTHVRLTZadUJDNHRFdnZnNEJ6X2p5VWY4Z3Bkek40RHJfTjdGWnJZeV9NYU5fdnZoYTBSb2hjNVFCRUV2MjByTDNfRFNEUlpmVFpwakMwTG9OSzJG?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-15T17:27:12.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -468,20 +552,6 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVZODRXY3lJTTRKOWlUZS1qQmk2UTVSeU1HX3FmVkl1ZXROcG50OFJOMGJ",
-      "title": "Palmeiras encara sequência de decisões com 'melhor elenco' da era Abel - LANCE!",
-      "summaryKo": "Palmeiras는 Abel 시대의 '최고의 캐스팅' 으로 일련의 결정에 직면합니다 - 입찰!",
-      "excerpt": "Palmeiras encara sequência de decisões com 'melhor elenco' da era Abel&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVZODRXY3lJTTRKOWlUZS1qQmk2UTVSeU1HX3FmVkl1ZXROcG50OFJOMGJ3T0JFd1FqN1V6N0dtWUdCTHpiRXRfRFQweUlTdnlTLVBjbkVPTHVRLTZadUJDNHRFdnZnNEJ6X2p5VWY4Z3Bkek40RHJfTjdGWnJZeV9NYU5fdnZoYTBSb2hjNVFCRUV2MjByTDNfRFNEUlpmVFpwakMwTG9OSzJG?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-15T11:21:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
       "id": "gnews-7-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUlBYdEE0U1hpdTFDc1p6eFg2SnZMaVNzMGR5el9idm8wMVBUelg2TllueFk",
       "title": "Carlos Miguel elege Palmeiras e Flamengo como melhores do país e diz: \"Brasileirão evoluiu 80%\" - ge",
       "summaryKo": "카를로스 미구엘, 파우메이라스와 플라멩구 최고로 평가",
@@ -870,82 +940,6 @@
       "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-07-14T20:55:44.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWR0d2h1c3VBNVNIbEZFYThrZTNGRjM2Rm41SDlIRjRzVGlvbTRxYmZVQ3",
-      "title": "Palmeiras: clube da MLS avança para fechar empréstimo de Luighi - ESPN Brasil",
-      "summaryKo": "파우메이라스, 루이기 MLS 임대 협상 진행",
-      "excerpt": "Palmeiras: clube da MLS avança para fechar empréstimo de Luighi&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWR0d2h1c3VBNVNIbEZFYThrZTNGRjM2Rm41SDlIRjRzVGlvbTRxYmZVQ3BreHdLZkx3MmNjekhzVjlaTkE2SmpGNnE1aG9FR1V6NElyd2tSMFlCNFA2eC1uWWtaV2xzRlRSQW5oNGhDS1hRS0RtYUM3ZVh0QzVuQjlyT2ZOTFcwZVB2MHpHV2RPT3JaeGpvRFZMdHdhV2p4Y3RFNzJadFhicVU?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-14T20:49:00.000Z",
-      "whyItMattersKo": "MLS 구단과의 협상이 진전되면서 루이기의 이적 시일이 다가오고 있습니다.",
-      "fanTakeKo": "MLS 가서 제대로 증명해!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWhCckRTMHdPcWloLVVGTTNseUp3WFg3UUtHbWRIeXh2RkN2QUF3OWtMOD",
-      "title": "Flamengo ganha pontos, derrota Palmeiras e sobe posições no Brasileirão - abcmais.com",
-      "summaryKo": "플라멩구, 파우메이라스 잡고 순위 상승",
-      "excerpt": "Flamengo ganha pontos, derrota Palmeiras e sobe posições no Brasileirão&nbsp;&nbsp;abcmais.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWhCckRTMHdPcWloLVVGTTNseUp3WFg3UUtHbWRIeXh2RkN2QUF3OWtMODV5VndSY3I4N0pkT284OE1lcWg0RkpwY1NPQUhlcmZWZ3pKdDRuZUFTR3RLT3pPSVJPYURnTGVMQjJwV2dOR1BtM0pDQnlsVE5JU1lIdFd5MFZubFp1T3Q1YXNlWGNxZjVfbThYOWMtZDZSX1JXSE5BUA?oc=5",
-      "source": "abcmais.com",
-      "language": "pt",
-      "publishedAt": "2026-07-14T20:47:53.000Z",
-      "whyItMattersKo": "리그 순위 경쟁에서 플라멩구가 파우메이라스를 제치고 상승세를 탔습니다.",
-      "fanTakeKo": "순위가 밀리니 속상하네요, 다음 경기에서 만회해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0l4RkNDTk9rbWFWQkZBZWp4ejNwd0Exd29rbUpaWXZ1TGJobGNYeWJ4ZFk",
-      "title": "Palmeiras recupera titular e esvazia DM antes de retorno ao Brasileirão - LANCE!",
-      "summaryKo": "Palmeiras는 Brasileirão로 돌아가기 전에 홀더를 복구하고 DM을 비웁니다 - 입찰!",
-      "excerpt": "Palmeiras recupera titular e esvazia DM antes de retorno ao Brasileirão&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0l4RkNDTk9rbWFWQkZBZWp4ejNwd0Exd29rbUpaWXZ1TGJobGNYeWJ4ZFk0c2x6TlY3NFdnUmpRYlFMQ05pM3d1UFlaX3VsSW4wZEI1eDJGRWo0M0M3Q3FSU3Z2SnZDbVFtN0t5S25fdG1LcFczMHA0VlpMa0FFb2hncXJFaHF1eWN6X19oU0FzcjlSWWFlY1Q3QklxSHYwX3A2MVVESkQ2RW41aWJmRUgxSnBiUQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-14T20:34:02.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUpMZmh6U1Z2TlZwRzhQTlU2dm8zSTNKZjBqTkF2QVZLdm5oRDg0b2VmTE",
-      "title": "Palmeiras encaminha venda do zagueiro Naves ao Necaxa, do México; veja valores - ESPN Brasil",
-      "summaryKo": "파우메이라스, 나베스 멕시코행 이적 추진",
-      "excerpt": "Palmeiras encaminha venda do zagueiro Naves ao Necaxa, do México; veja valores&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUpMZmh6U1Z2TlZwRzhQTlU2dm8zSTNKZjBqTkF2QVZLdm5oRDg0b2VmTEhUcHpHUm9mOXNqNVpuUGg3Zi1ncnlLSVlwallqOW9ORmdzT1I5dktqWFdqcU1qNEhCb3dOclBNZ1JFQWhNRmlLbmxOZlZSLU9Sdl9kZnVuYWFyc3RmSllDSk1iczdYb2pXTHBXbjhVclV2LUFFbDZmNkRsc0YxaGRjazhBc2YxNUtVWGstMTY4MU5DNUZidHFpemlmVjJ3?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-14T20:21:00.000Z",
-      "whyItMattersKo": "나베스의 이적이 진행되면 수비진 정리와 새 선수 영입에 영향을 줄 수 있습니다.",
-      "fanTakeKo": "나베스 이적료는 제대로 챙겼길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2xfbU5sWmU0S05Ja2poNmp6WkNTZi1mc1l5ZUc3Z1I1bU5YZ2dqa2tQQW5",
-      "title": "Palmeiras treina em dois períodos e dá sequência à intertemporada - palmeiras.com.br",
-      "summaryKo": "Palmeiras는 두 기간에 걸쳐 열차로 운행되며 임시로 계속 운행됩니다 - palmeiras.com.br",
-      "excerpt": "Palmeiras treina em dois períodos e dá sequência à intertemporada&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2xfbU5sWmU0S05Ja2poNmp6WkNTZi1mc1l5ZUc3Z1I1bU5YZ2dqa2tQQW5WVWszQnpaNUpuZGItNTlqU2RycE1oNF8waEJ1S1RpNmJmZUp4a3FlQmdYRXFRV09rWFh4Xy10TVpSRVNSdTdGYVB5VUFtNkZjbGpSa0N4dUxnN3kzOTRwckpfTzJMeFNneEpuOXdWWklMMlRUbXF0TGRYTQ?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-14T20:20:17.000Z",
       "tags": [
         "뉴스",
         "자동번역"
