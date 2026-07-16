@@ -1,8 +1,136 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-16T18:41:15.398Z",
+  "fetchedAt": "2026-07-16T20:03:05.132Z",
   "items": [
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTF",
+      "title": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20 - GE",
+      "summaryKo": "파우메이라스, 코린치안스와 U-20 8강 맞대결",
+      "excerpt": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTFrYmJzUUdNdkhEVjdjUW5FVEdiUllianlFODRkSHJzRklZUzZfZHh5VDFadks3aHN6aEFmbWRpa0NlSlRBaEZLVkZxQW1aYTJ3aEV3TkZoUkdyM1NsNWVMSzZkYVJYRkV4WGtKTmdR?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:58:44.000Z",
+      "whyItMattersKo": "유망주들의 성장을 확인하고 미래 1군 전력을 점칠 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "미래의 에이스들을 기대하며 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFlyUzJ3RWRPUG50Vl80SzlNeW04R1JaY29IV1k5SVFlUVhnR2VldW04czh",
+      "title": "Abel Ferreira será homenageado pelo Palmeiras nesta sexta - tmc.com.br",
+      "summaryKo": "Abel Ferreira는 이번 금요일에 Palmeiras의 영예를 안을 것입니다 - tmc.com.br",
+      "excerpt": "Abel Ferreira será homenageado pelo Palmeiras nesta sexta&nbsp;&nbsp;tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFlyUzJ3RWRPUG50Vl80SzlNeW04R1JaY29IV1k5SVFlUVhnR2VldW04czhiTmo5T0VxcGFiaVhHWjhibUJQYmxXVW9JRVZwa0Zfa0pZaU5JUG5TbzZqcXE5bkVZSTRmU2xLWmY0OUFtd1NGVUpUeExWMWNBMnVXYmNrdzJqM0tiNEVFUERn?oc=5",
+      "source": "tmc.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:57:27.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN1VDTWVVRlM4MEs5QWlIMGVYMld0cVlfbzU2bW1IYVU2ZzhPNGlxZHNoUmJ",
+      "title": "Barboza aparece no BID e já pode estrear pelo Palmeiras - Portal ABC do ABC",
+      "summaryKo": "Barboza는 IDB에 출연하며 이미 Palmeiras - ABC Portal에서 데뷔할 수 있습니다.",
+      "excerpt": "Barboza aparece no BID e já pode estrear pelo Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN1VDTWVVRlM4MEs5QWlIMGVYMld0cVlfbzU2bW1IYVU2ZzhPNGlxZHNoUmJFbmpaN05QUFFKMkNGN2lXLVVSeGVJUjJadEQyaU1WVTdtUFlUNTJYWG1VNw?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:57:23.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzdQMW1NbGlEa0lLa2Y1QXJZSHFiLTZ6ZFpSTVpjOTN6eWJTVDdrcFN3Umd",
+      "title": "VÍDEO: Palmeiras faz golaço do meio de campo contra o Corinthians no Sub-20 - CNN Brasil",
+      "summaryKo": "동영상: 파우메이라스가 U-20에서 코린치안스를 상대로 미드필드 골을 성공시키다 - CNN Brasil",
+      "excerpt": "VÍDEO: Palmeiras faz golaço do meio de campo contra o Corinthians no Sub-20&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzdQMW1NbGlEa0lLa2Y1QXJZSHFiLTZ6ZFpSTVpjOTN6eWJTVDdrcFN3UmdOaXZVRjh3TGhVVFlvYmtlVmNrY0hYTVNiZG1OLVViNXJldlN2elZ1RzlRUGRzaDE1bjNWamt3anhrLUZvdFh1R0s2M3NxbHdXUlFWNklXaTRHRUpkbXc4a1dDWXZvaWJrZFozUlVVcUJhX3dfNVN1QVU4VzZodEFZaVh2VVgzbnU5cmY2Qm1GMXY2R3ByblE?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:56:42.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkdVWmFEMU5NSi1CeXVWSUJ3SmpILXdZN01MbFZTQm0wR3RxWWJfaFR4cmx",
+      "title": "Barboza revela bastidores de conversa com Danilo no Palmeiras - band.com.br",
+      "summaryKo": "바르보자가 Palmeiras에서 Danilo와 나눈 비하인드 스토리를 공개합니다 - band.com.br",
+      "excerpt": "Barboza revela bastidores de conversa com Danilo no Palmeiras&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkdVWmFEMU5NSi1CeXVWSUJ3SmpILXdZN01MbFZTQm0wR3RxWWJfaFR4cmxHcU9NWWFvU21rMkxWODAxNVdDbGktUlViaFNtM3FKRWhyeHhQZ2dTTmJQaHlsY2FsNFQ2SDNDbGM4Y290WDhKWXVLZkhTaEJoX3BURXJfNWNmTW1keXlXOW9HQWQyOUJMcXE2RThLTGgyTXVNOGF2VC10NXhNdlp6ckd2MnJwZHJ2YUZuZGZ2VlF6NzhlV0dyUC1OeC1fQmkzU0NUOGVXOEh3?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:51:20.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2JRY3BmSFBPNnZiNnRBeFJVNV9ydUFuejRFeUNpdkVOUkREUkZsVHhnMm1",
+      "title": "Leila celebra Flaco na final da Copa: \"Comprova o trabalho de excelência\" - CNN Brasil",
+      "summaryKo": "레일라, 월드컵 결승전에서 플라코를 축하하다: \"탁월한 성과를 증명합니다\" - CNN Brasil",
+      "excerpt": "Leila celebra Flaco na final da Copa: \"Comprova o trabalho de excelência\"&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2JRY3BmSFBPNnZiNnRBeFJVNV9ydUFuejRFeUNpdkVOUkREUkZsVHhnMm1DSkVyLVBudkxFOXZGTFRXRWduZnVyM0Q1cXBuSWxmam9jOTVvY3BKUEN5SVF0NFF6U3NnYlZuWG1GMi11OVhpQllfRWZHeldhek5OamNQRmRhVl9YUFhBVzNXbUpsVGFWUnlFT0otR3hRdHpGaFdyT3NvZTMzZktDdWY1RzdGTU5rZFRRSnlEa1JWYmt0SFBQenNnOWF4VQ?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:02:46.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm4",
+      "title": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real - Gazeta Esportiva",
+      "summaryKo": "U-20 브라질레이랑을 위한 팔메이라스 vs 코린치안스: 실시간 점수 따라가기 - Gazeta Esportiva",
+      "excerpt": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm42THhIN3ZKQW9oWUZ6aUFjNGduYjJ5Q3h1a1MzUHM1cXlVd0dxQUQ1VFZ3RnBxT1BNTTAtMl9ySDZYT0JfSk1SeHFTZXhhaWpPeVNxOElwdW81WkRSMDQtemFFQkFIT1N6S0HSAZsBQVVfeXFMTXBjZktZNTNrMGVCUHo2Z2Q1c2VWNlYwYUk2ZlRzTEYySy04SjJCSUdEQmxZbUx3M3pHaUFFTkI4V0VfVDdfMFNRNVFLRjJPOE10bHRYbTgtRTdTcURzTHY2YzY1d3ZuRE9lX1VXejZFWk1KcDRydlV3ZmZBRElraGZMNDhFd19nd1dpVGl1dlh5Yk1QUElNZGFBaG8?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:00:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXhmVGotcVJrZDVLWXJ1MG9RU3VKcXZYMGRjbG9wQjJoZGZJTy0zaFF2c3J",
+      "title": "Palmeiras segue preparação na Academia de olho na volta do Brasileirão - Gazeta Esportiva",
+      "summaryKo": "브라질레이랑-가제타에스포르티바 아카데미아 데 올류 나 볼타 두 브라질레이랑에서 준비하는 파우메이라스",
+      "excerpt": "Palmeiras segue preparação na Academia de olho na volta do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXhmVGotcVJrZDVLWXJ1MG9RU3VKcXZYMGRjbG9wQjJoZGZJTy0zaFF2c3JKM0RzRzRZbXUtSUUxdWR2OUZleFVCMXFJTHRQaDRCSHB1bVNSejNhUFJqU19aRDYxMUtQTk5WSDhwNldyN29PWW1wTkstOHp1RXg1QktId0NBRk1pcm1PdTlIeV9yeHFJcWpJTDVtdVFYeFdacVh5ZEtzbDdKQ1BLLTNaaU9hWWdib1E4cGI00gHAAUFVX3lxTFBpYnN3RDhuZ3RtXzgtVGpwUWZUMGpQQkNvQ3lkcTljbDVLSnJhUHlJZzIxMmt2eVZZdlIwX29CbGVGX29hWExKNF93a3kzQjdLa1pBVktZR1dGY0pmLWNDeHJYUldnM1l5MXJkeTNySnotbERBRm1KTWR5ZzRfS1A1ajRyR3h2OTU1Qkx6aFZwcXhtNzAyTzRXWFZ6aFJjcFVUWWM2bHR2QjFQSThIUkVQMW9lenZYRkxVVlpRVTczNA?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-16T18:55:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW52TVNqR1VleG9mYXFHRVRWM2xrblR6bUdUU2FfdjVSajJoa1F6SW1QMkN",
+      "title": "Após classificação para final da Copa, jogador do Palmeiras encerra ciclo do futebol brasileiro - Crusoé",
+      "summaryKo": "월드컵 결승에 진출한 후, Palmeiras 선수는 브라질 축구 사이클을 종료합니다 - Crusoé",
+      "excerpt": "Após classificação para final da Copa, jogador do Palmeiras encerra ciclo do futebol brasileiro&nbsp;&nbsp;Crusoé",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW52TVNqR1VleG9mYXFHRVRWM2xrblR6bUdUU2FfdjVSajJoa1F6SW1QMkN3OVo4aU91RWV2S29sZzZCd21HVmZHVDV2ZEVrdDRqdi1xaEl5ZmFwb1NTaEtaZ1JITG5paTNlY0dBbDkwZE9BS2xpU2R2eWpDRDctemk1R0pSdThyUjd2VklNV1RUM2JBVUdqZ0gycERBdTJzZUNfTDBuN2NobXAyOUhZM0g2YW1xZDJoYmhZOHZ1YXN0QmhrQ2ppZFpHN0llNXBx?oc=5",
+      "source": "Crusoé",
+      "language": "pt",
+      "publishedAt": "2026-07-16T18:47:06.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVJSdHk2b3FoTklzN01kV3VtOUdtY09TY3RNUkIzYW0tSjh3N1VvN0xiZzl",
       "title": "Leila desconversa sobre Danilo, e Palmeiras prepara próximos passos no mercado - LANCE!",
@@ -14,22 +142,6 @@
       "publishedAt": "2026-07-16T18:36:15.000Z",
       "whyItMattersKo": "구단주의 침묵은 영입 불투명성을 높이지만, 이적 시장 움직임은 계속됨을 의미합니다.",
       "fanTakeKo": "그래도 영입은 진행 중이길 바랍니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTF",
-      "title": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20 - GE",
-      "summaryKo": "파우메이라스, 코린치안스와 U-20 8강 맞대결",
-      "excerpt": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTFrYmJzUUdNdkhEVjdjUW5FVEdiUllianlFODRkSHJzRklZUzZfZHh5VDFadks3aHN6aEFmbWRpa0NlSlRBaEZLVkZxQW1aYTJ3aEV3TkZoUkdyM1NsNWVMSzZkYVJYRkV4WGtKTmdR?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T18:34:59.000Z",
-      "whyItMattersKo": "유망주들의 성장을 확인하고 미래 1군 전력을 점칠 수 있는 중요한 경기입니다.",
-      "fanTakeKo": "미래의 에이스들을 기대하며 응원합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -176,6 +288,20 @@
       "source": "ESPN Brasil",
       "language": "pt",
       "publishedAt": "2026-07-16T17:31:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-20-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEFaNFBNdmx0eVh5NGVZRDVybC1PMTdNODljcEZ3Zk5hOHhIOEpWZ1BaZz",
+      "title": "Barboza é apresentado no Palmeiras e projeta dupla com Gómez: 'Um exemplo' - band.com.br",
+      "summaryKo": "바르보자는 고메즈와 함께 Palmeiras와 프로젝트 듀오에서 발표됩니다: '예' - band.com.br",
+      "excerpt": "Barboza é apresentado no Palmeiras e projeta dupla com Gómez: 'Um exemplo'&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEFaNFBNdmx0eVh5NGVZRDVybC1PMTdNODljcEZ3Zk5hOHhIOEpWZ1BaZzRtNktZc3Y5d0lDY19taUs5MU5DWTNyclJiZ25CdjFvTmRnWEVaUGpjRmk2ZUU5Z19NVTBPRFpXek1SUXFxU09rOW5DV1dDY09kbjR6U3JpdUpsWmFuX21GeHpNV3FXaHVpdTZqMExpenhmempPRDRLUVM2Rm5rc0ZGTTVQcTh1NzhhZ3Vk?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-16T17:27:05.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -781,148 +907,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTTU4M2gwbkcxT180U09zTEZ5V1N1X1BZaEhzMm5qRzNQZVBGMHJmeVRicUJ",
-      "title": "Boto fala de Filipe Luís, Jardim, Abel e vê hegemonia de Flamengo e Palmeiras durando bastante tempo: 'Olhando de forma realista...' - ESPN Brasil",
-      "summaryKo": "보투, 플라멩구-파우메이라스 강세 예상",
-      "excerpt": "Boto fala de Filipe Luís, Jardim, Abel e vê hegemonia de Flamengo e Palmeiras durando bastante tempo: 'Olhando de forma realista...'&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTTU4M2gwbkcxT180U09zTEZ5V1N1X1BZaEhzMm5qRzNQZVBGMHJmeVRicUJRUW5MelVCTzI0ZXpzY0wyWHdBaE90dWlvQTdVNklibEx6UHVqT0JLcndBNnN4SC1DaWFmYW5JUDRBb0JLT3Y5YzJSdFMtZElKYkcwaERST1B2VUk4X3B4RW5RMnRrbVMxZjJ4R0haQ1dNVHRNNDNXdnlGVHBvVlp5QS1rWjNvXzhMNVhnbXE0UFdZOEpFMEdPWW82cnBGSy04TE5NMzN2cjA3MHFUNVpERHJYZjg2ZXgxOXpMRGxMdEVQV2Q4aWc?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-16T06:00:00.000Z",
-      "whyItMattersKo": "전문가가 두 팀의 리그 지배력이 당분간 지속될 것이라 전망했습니다.",
-      "fanTakeKo": "우리 팀이 리그를 지배하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGxwYVhYWjJTMjZMNGlMWUE4QUpSTV9sc2xxeEVFQzFoeE1IQjNBNjhnd1",
-      "title": "A marca que Flaco López pode dar ao Brasil e Palmeiras em final da Copa do Mundo com Argentina - ESPN Brasil",
-      "summaryKo": "플라코 로페스, 월드컵서 신기록 도전",
-      "excerpt": "A marca que Flaco López pode dar ao Brasil e Palmeiras em final da Copa do Mundo com Argentina&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGxwYVhYWjJTMjZMNGlMWUE4QUpSTV9sc2xxeEVFQzFoeE1IQjNBNjhnd1FjeWJWTkJzV1VJMkJRbmdrRTNURURvT1ZHeXdESEJsWXV6ako1TXB4ejlDOWkwTVl5MTIxUkIwZ2YwdVl4NVpTYldJSldOOUdlcG9LMjhuaXhRMktnbjgyY3hwejd2ZHA2VWJTNk1mV1N5a3d4eVRZaG1TcWFURlBra2ZCMXdrcFJpenExNGozbHRpNm90emc?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-16T06:00:00.000Z",
-      "whyItMattersKo": "월드컵 결승에서 세운 기록은 브라질과 파우메이라스에도 영광이 됩니다.",
-      "fanTakeKo": "파우메이라스 출신 선수 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTURQN091VnE2dEhQYzJfcWI5b2tQVVZjTzB4aG10U25lSENqU19FMnFNcj",
-      "title": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 19ª rodada - ge",
-      "summaryKo": "브라질레이렁 19라운드 시청 방법 공개",
-      "excerpt": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 19ª rodada&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTURQN091VnE2dEhQYzJfcWI5b2tQVVZjTzB4aG10U25lSENqU19FMnFNcjNHcXpoUXl4Z3k2b1VsUW9VVFk5bmhlX19rX3dVV0lYZ0twZFB6VmtRcGJQVjRyT1A5Vm1lU1lPWVZDcnNSYjNycUh4NHRMOWQteW9mRk1VM0xVSUpVRlBVLVV6d1B4OTdOaGZUbzY5c0s2ZDg5YnZ0S3B1ZUZTckJ4ZjBCVTRMUVBRLWo5UTlXUlRyZ1M5T1owQlpFTVNLUlpCUWFlQVgwcjlveG44dm5h0gHrAUFVX3lxTE4wMVVDTlJSZU1HR29wcXE0dEhqRWNQSWY4V0Q4eFYtaDRCajVLSXQ2T2ZaMnBOdzRRMFZlRWdTVkVBWE04S1pQLTRmU3NEZE9KZUwzZTJqU0haamZHZi1ES1UxeS1XenZOS0FxOWpURG1WUWp4VjhWOEtfRmktR1ZrTER3WjlNZ0tFbG04c0ItdmZQQ0EtTm44eXN4TXlaemd1VEc2S3REMS02LUd2blNIckp2X09GYnJwVzdTb0N6QWM4S0p3QU83WE0tZlEycEdHb09jQ1dLU0NkRGFraWY4YlRtUERIeDdlcE0?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T05:00:35.000Z",
-      "whyItMattersKo": "팬들이 파우메이라스 경기를 놓치지 않고 시청할 수 있는 채널 정보입니다.",
-      "fanTakeKo": "경기 놓치지 않으려면 필수죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMimwJBVV95cUxQYXNZaFZ1aGlueGd5ZUFpNkktQ1ZYZFUzVzhYZTlTZUoyR2UzNEE1eUpFWXo",
-      "title": "Palmeiras parabeniza Flaco López por classificação da Argentina à final da Copa - Terra",
-      "summaryKo": "파우메이라스, 로페즈 아르헨티나 결승 진출 축하",
-      "excerpt": "Palmeiras parabeniza Flaco López por classificação da Argentina à final da Copa&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYXNZaFZ1aGlueGd5ZUFpNkktQ1ZYZFUzVzhYZTlTZUoyR2UzNEE1eUpFWXoyV3ZvalA2dU5XS0tUNm5CT1p4VjVQQmlOVE5ycGJIcXBjbzBQZkZLY2ZaLWxtbXp4Wk45NHlOSHNnNU1qNnpuUm9WbTVSWUpoNUNNcU9tcmx3Vjk4bm9ranhNc01LbHR3QlkxM1NMN3VrX01UdUIxekljazM1T1E0WVRmWWlYYVBmZlZMTWQ1YmZfcDQ0QWhGZDRxcjZOaS1yMW42bG5DdlVDLVhwY1Z4bmN5SnJQb01zUmlrRllIR0lrSXpnYUFPbndQTU5OZ0RRNWN1SFRxS0ZiTjM5TDh3RWM5QmpwOGx4a0VUTVI0?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-16T02:28:00.000Z",
-      "whyItMattersKo": "소속팀 선수가 국가대표팀 결승 진출을 축하받으며 팀 내 분위기가 좋아집니다.",
-      "fanTakeKo": "로페즈, 결승도 이기자 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMioAJBVV95cUxNS1d3Qm16aVZITmdNeGxMQy1peEs4RXh1aHdaSklGVjZIb1ZlMm9Ia3RHT21",
-      "title": "Murilinho, filho de ex-zagueiro do Palmeiras, revela torcida pela Argentina na Copa do Mundo - Terra",
-      "summaryKo": "전 수비수 아들, 월드컵서 아르헨티나 응원 밝혀",
-      "excerpt": "Murilinho, filho de ex-zagueiro do Palmeiras, revela torcida pela Argentina na Copa do Mundo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNS1d3Qm16aVZITmdNeGxMQy1peEs4RXh1aHdaSklGVjZIb1ZlMm9Ia3RHT21vYkVUWTZCSnJET3FtY0pLVU9wSGpkR0NCRHhMck9KSkpibnlVYldKSVg3bVB0NlR0QldpWTJ3VGZkR1ZYdHJIeXAyaVNIRE0wQjVhbTIwT3UzbWgtTDlwaU45ZzBFV2h4VUZ4MW10WnhOLVJPSmRaS2VxbWVxWUlNcWVFdldKRWVYbzI0U21raVloSG5mcFdMdENvVjBuSnZZMm55QXFaM0RNbVc5VHFSNDBwTk4zeFVJTTd2MGMyX2VMYS1OZGpvSVZwUzgwRFpqMGV1RVhIdGcyV2JJWEFvOUZvVFlYVk0yc2wtZTBHc05ycTg?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-16T01:59:33.000Z",
-      "whyItMattersKo": "전설적인 수비수의 아들이 라이벌 국가를 응원해 팬들에게 흥미로운 화제가 됩니다.",
-      "fanTakeKo": "왜 아르헨티나를 응원해?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkeVNJQ3YydDFEeVlobjg3TlRXMzAxUEYyN3lSX2kxT1RlUzJNdWJLQzJVWFV",
-      "title": "🔥 Reforço importante! @dudacabreira fala sobre o retorno de Jhons Arias ao Palmeiras após a Copa do Mundo. #palmeiras #palmeirasonline - instagram.com",
-      "summaryKo": "아리아스, 월드컵 후 파우메이라스 복귀 기대",
-      "excerpt": "🔥 Reforço importante! @dudacabreira fala sobre o retorno de Jhons Arias ao Palmeiras após a Copa do Mundo. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkeVNJQ3YydDFEeVlobjg3TlRXMzAxUEYyN3lSX2kxT1RlUzJNdWJLQzJVWFViMnhTTllzZlpNTE5xMGxSLVNyWG43d0hROUwxWWQydXZ3?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-16T01:15:40.000Z",
-      "whyItMattersKo": "주전급 선수의 복귀는 팀 전력 보강과 이후 일정 대응에 큰 도움이 됩니다.",
-      "fanTakeKo": "아리아스, 빨리 돌아와 기대할게!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS192TlRMbkNaeDVocnFyc090d3lEOENvX0tXXzc3RnRYS0pOdkZBeU1UWEp",
-      "title": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo - Terra",
-      "summaryKo": "플라코 로페즈, 월드컵서 브라질레이렁 24년 기록 깨네",
-      "excerpt": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS192TlRMbkNaeDVocnFyc090d3lEOENvX0tXXzc3RnRYS0pOdkZBeU1UWEpUX1hXbWFBeWFwM2gtLTBSN1dWV183eWZlWTNqODJpMnc1MVpibkRMUGVQT1VDaVhMM0lSaTV4N2d0QUREQ1J2RzY4a2I2bG8xOTE1Ym84c2xFQ0o0Ym8zaVpZNXRGdFNyQjNyWkJNSlVxa2dGZXVETTlBRzA5bTl2bFUya2NRYjdjWEF6dDYyZnQ2OE44amt4N3VPWTFIU0Z6dE43SDk0ZktkN2ExbWRRdmdobjhOSVFzVzQ0ME16dXNiQnhNS1ctdUtmZg?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-16T00:28:00.000Z",
-      "whyItMattersKo": "소속팀 공격수가 월드컵 무대에서 오랜 기록을 세우며 팀 위상을 높였습니다.",
-      "fanTakeKo": "우리 공격수 월드컵서 득점! 자랑스럽네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQUdyWlpDa09KNW1RS2JsYkxqSTVYSTVYWmhlc1BoSmRRNHBBLXZzUTAzY1B",
-      "title": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo - Terra",
-      "summaryKo": "플라코 로페스, 월드컵서 브라질리랑 24년 만에 기록",
-      "excerpt": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQUdyWlpDa09KNW1RS2JsYkxqSTVYSTVYWmhlc1BoSmRRNHBBLXZzUTAzY1B5TmJ0SDVMcURYX2d2NmJCbFlNZmZINzBKblY5aFg3ZW1fdXVGSnZnNklzM3lEd2lyQ240SnRKSVRPeG5BbVRQWDhxdXhyMWdUaWg3QXI1MUNkVXdFd3dhWDJGdWp2MHBzN0xDeTBjZUh6c0czMUE5c2tBbU5sXzI0cGc2VzllMS10UnNmaW9ORnc0TjVKY1ByMVAzbzgydnNCSTFIOWVQOFVpRzFKODVaaFY4ajktRTVrdTVDUDFVU3lpNThqa01ZRUNmM2JSYUg4NVpuUUkxaXpFM2k?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-16T00:28:00.000Z",
-      "whyItMattersKo": "브라질리랑 소속 선수가 월드컵 무대에서 24년 만에 기록을 세워 리그 위상을 높였습니다.",
-      "fanTakeKo": "로페스 멋진 활약이네, 응원한다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNkRUaE0zZHZNMDhvaktNaTBaRGd3ZGJOcW1nQjBpMVdTWWhwM0x4SWctTD",
-      "title": "Palmeiras na Copa 2026: Veja quanto o Verdão garantiu com a presença de Flaco na final - Portal ABC do ABC",
-      "summaryKo": "2026년 컵의 파우메이라스: 결승전에서 베르당이 플라코의 존재를 얼마나 보장했는지 확인하세요 - ABC 포털",
-      "excerpt": "Palmeiras na Copa 2026: Veja quanto o Verdão garantiu com a presença de Flaco na final&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNkRUaE0zZHZNMDhvaktNaTBaRGd3ZGJOcW1nQjBpMVdTWWhwM0x4SWctTDhXTXQtakM2R09fMWI4QXIwOHR5TTIyVHdWY3Y4cjJRT0UxeFczNUk?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-15T23:22:55.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
