@@ -1,8 +1,64 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-16T21:33:00.746Z",
+  "fetchedAt": "2026-07-16T22:57:24.664Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlNudXRmM1FURFpQUFRVMDBTMGRxWDRFRDNvN0h3SFo2cnktLU93NktnYm5",
+      "title": "Palmeiras supera Corinthians e avança à semifinal do Brasileirão Sub-20 - Olimpíada Todo Dia",
+      "summaryKo": "파우메이라스는 코린토스를 뛰어넘어 브라질레이랑 U-20 준결승까지 진출합니다 - 올림피아드 매일",
+      "excerpt": "Palmeiras supera Corinthians e avança à semifinal do Brasileirão Sub-20&nbsp;&nbsp;Olimpíada Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlNudXRmM1FURFpQUFRVMDBTMGRxWDRFRDNvN0h3SFo2cnktLU93NktnYm5xQVRFRjFmaGhRUDdIbkRwLW9NS19MZWRwUHJGdG5ZOXBvUFphcVJwX1FsMXlVREJJcTZJTE9nSnROUUIxZ0FaVVpQWGQzYnlidk1WMzk1cGx1T2ZIMXdqejk1bkwtaGpIX25YcUFJNHZSMWUwRkJ4bg?oc=5",
+      "source": "Olimpíada Todo Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-16T22:32:47.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXhhNlZtTkNoOUdZRkdmY2g5YjJuS2pOalBzcGpQQWxpM21GZ2I5akNGRkV",
+      "title": "Palmeiras x Corinthians ao vivo: Brasileirão Sub-20 quartas de final - UOL",
+      "summaryKo": "파우메이라스 vs 코린치안스 라이브: 브라질레이랑 20세 이하 준준결승 - UOL",
+      "excerpt": "Palmeiras x Corinthians ao vivo: Brasileirão Sub-20 quartas de final&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXhhNlZtTkNoOUdZRkdmY2g5YjJuS2pOalBzcGpQQWxpM21GZ2I5akNGRkVLZC12clNYN21lclhyd3ZlRW44LWNWcHZMOWVxdGp6R2hBX2Y2RXQxR0FHdFVzdmhtYmxhQ2dwSFVPTGZpYWI4dVpoLWx0cWU4dVE2U0JTenEyTXVNYVU5QnpYVEdSV1lzY2RDdmdwOUlLclJhTWlfNDVsQVM0RTBPTmlMZzVEMENmWXdSWFZkOWx3?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:47:10.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUR4TEpKM3M0VVdGQ0RWYm9ObXFZcFJsSzRuTF9EeDc4UTIybmktNG43Z24",
+      "title": "Crias da base marcam, e Palmeiras vence jogo-treino contra a Inter de Limeira - Jogada 10",
+      "summaryKo": "기본 점수에서 승무원을 확보하고, 파우메이라스는 인테르 데 리메이라와의 트레이닝 매치에서 승리합니다 - 플레이 10",
+      "excerpt": "Crias da base marcam, e Palmeiras vence jogo-treino contra a Inter de Limeira&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUR4TEpKM3M0VVdGQ0RWYm9ObXFZcFJsSzRuTF9EeDc4UTIybmktNG43Z243eHBBbTY1R1RsWklTZ3ZBLVVfaVd6QjhPUVI0ZHEteUhNeDBKRFBmM1otRnVKT0pGd1VhRkpUVkxuNXpxMUNldENfa2ZTaDB6bGFqRHNxT3VfZEx2d1QzTG9DUVdId2pBemJyb3pEODZZblZhZ2c40gGoAUFVX3lxTE53S1lwUnJKYW9QUkZVNFNRVUF2ZFhiR2VwdHhxTDQ5MjVRRlRJY3kyVi1NQUVmQVQxTkJJS0t0N25TQ1gxQkhHSlhaM2RTTllzSENxMlVRM2c2TlZZUHN6OTZHd3N4MWxYZUJDWkZVaEJ2eVcxNjdCejJiSElSdWxDVFE0cUpYZUFIcFBjdTdBeThoWWhXY19TSjA5ODV5ZS1QR081N1VrWg?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:35:44.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXhTSjM2RVduNE9TSjlFYUxMT2dPMmdwaE1td1ZzRHFfdkpTRFRlQWt6bFh",
+      "title": "Crias da base marcam, e Palmeiras vence jogo-treino contra a Inter de Limeira - Terra",
+      "summaryKo": "기본 점수에서 컵스, 그리고 Palmeiras는 Inter de Limeira - Terra와의 훈련 경기에서 승리합니다.",
+      "excerpt": "Crias da base marcam, e Palmeiras vence jogo-treino contra a Inter de Limeira&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXhTSjM2RVduNE9TSjlFYUxMT2dPMmdwaE1td1ZzRHFfdkpTRFRlQWt6bFh5S2cxVVpZbG5HR3pMVDJiTHpTVzViWWgwQzdkTE5FTlVIU0Q4d2tiMzdtd0VmX25Xd3o4S1hkQ3U2eXhYcmlCbkh0c1BGenc0WElFazFfVnB1SE5RdlNkSktsdXFOcnprZ09YRFljY2FfRTBMdE1UVVlqOXAwX0JYaUhsZ1YtdXZsaGV4LS1qNkFvWG1aS2xpaWszMl9CZXJrQ1ZtSDlpTTNvRkZyRTM2QnpYYU5IZHlTT25ERzZ6QUljbzQyR1VYUFRpTFdn?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:28:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2FvX3F5aEgzd25LTDlvNE1MdURrdlp3WWVTZE94aEZfMS1PRWhZZllWc1R",
       "title": "Palmeiras apresenta oficialmente campeão da Libertadores pelo Botafogo - Portal 96FM",
@@ -18,6 +74,20 @@
       ]
     },
     {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjdyczVvUUg4N2hObUNVbmlnT2UxQS13YmloeW13aEI5Q0ZoRkNjak4xSjd",
+      "title": "Com dois de Felipe Teresa, Palmeiras vence o Corinthians e avança no Brasileiro Sub-20 - Jogada 10",
+      "summaryKo": "펠리페 테레사 (Felipe Teresa) 의 두 명과 함께 파우메이라스는 코린치안을 이기고 브라질 U-20 진출 - 플레이 10",
+      "excerpt": "Com dois de Felipe Teresa, Palmeiras vence o Corinthians e avança no Brasileiro Sub-20&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjdyczVvUUg4N2hObUNVbmlnT2UxQS13YmloeW13aEI5Q0ZoRkNjak4xSjdJYy1BSEY3a1JmQndxRVVwMEtPVVlBa1hLOXptMmxGbXotSjZtajFTVHotSDRtNjVhc05VN1paZlA0Mk1YY0lMc3VFZDYyNF9tdk9MNDd5SUxTZ1NiU1RGUmMyMW14YXJZUUFmaDJTVDhqRnhNakRjdlE4UlA5QXpPTnBR0gG0AUFVX3lxTE5teWMzZHMzazFILWJEdUdpQnhHS1M5V1p4R1d1S2pYMWw1RmxJNGxEMnlrRk1fazcxRHhLNjNmWng2cjQtTGViLXltcDNOTVc0RkxrT19uVm5nUFdMWGVaT2ozSmdYUHo5RmpOM0I0ZzBfSms4bVFnM3owVERjREpFR2tJNWpHSVR3TjgzU19qMjFZSWZLeUF5T293MGp4MlFYM2E2OWdXR3BIeVQ2b1FLbWVZUw?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:22:05.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa1huQTJmRlBRTUNmbnAtVE5NUlNLaGU0UzV0MVQ4Y19rOTB2WkpsX0hqV2p",
       "title": "Felipe Teresa faz golaço do meio de campo em Palmeiras x Corinthians, no Brasileirão sub-20; assista - ge",
       "summaryKo": "펠리페 테레사 (Felipe Teresa) 는 U-20 브라질레이랑 (U-20 Brasileirão) 의 파우메이라스 x 코린치안스 (Palmeiras x Corinthians) 에서 미드필드 골",
@@ -26,6 +96,20 @@
       "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-16T21:21:50.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9",
+      "title": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20 - UOL",
+      "summaryKo": "스트라이커는 앤솔로지컬 골을 기록하고, 파우메이라스는 코린치안을 이기고 UOL은 U-20에서 진출합니다.",
+      "excerpt": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9RMmd4aGZmTWZoSXZzQmxhSzZuYkxKVWE0Y2tabmI3QmxmRHRpdGZ3cE5TbDVwVU5vdEFVeUZpVGxheE1RTTRYdS1hb3NEZ1laa212a2s0WlNGazNqbjNnWC1ydmV0dUx4WFd6QTlXUkZyd2xZektxYl9pWHlCeDFtZFZhMl9WOA?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:11:44.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -124,6 +208,20 @@
       "source": "palmeiras.com.br",
       "language": "pt",
       "publishedAt": "2026-07-16T20:53:18.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm4",
+      "title": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real - Gazeta Esportiva",
+      "summaryKo": "U-20 브라질레이랑을 위한 팔메이라스 vs 코린치안스: 실시간 점수 따라가기 - Gazeta Esportiva",
+      "excerpt": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm42THhIN3ZKQW9oWUZ6aUFjNGduYjJ5Q3h1a1MzUHM1cXlVd0dxQUQ1VFZ3RnBxT1BNTTAtMl9ySDZYT0JfSk1SeHFTZXhhaWpPeVNxOElwdW81WkRSMDQtemFFQkFIT1N6S0HSAZsBQVVfeXFMTXBjZktZNTNrMGVCUHo2Z2Q1c2VWNlYwYUk2ZlRzTEYySy04SjJCSUdEQmxZbUx3M3pHaUFFTkI4V0VfVDdfMFNRNVFLRjJPOE10bHRYbTgtRTdTcURzTHY2YzY1d3ZuRE9lX1VXejZFWk1KcDRydlV3ZmZBRElraGZMNDhFd19nd1dpVGl1dlh5Yk1QUElNZGFBaG8?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-16T20:52:00.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -288,6 +386,20 @@
       ]
     },
     {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbjlTMWxTVklJUUMtQlhIRHdWNloxelZpcGNPaFJTMzRiYk1JdzNyUFFSLT",
+      "title": "Barboza aparece no BID e já pode estrear pelo Palmeiras - Portal ABC do ABC",
+      "summaryKo": "Barboza는 IDB에 출연하며 이미 Palmeiras - ABC Portal에서 데뷔할 수 있습니다.",
+      "excerpt": "Barboza aparece no BID e já pode estrear pelo Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbjlTMWxTVklJUUMtQlhIRHdWNloxelZpcGNPaFJTMzRiYk1JdzNyUFFSLTNXRzVYV1FTYThTSERnV0hvcElVcDV0TGtRWWRMa1pSeUZSQ1ZldEE?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-16T19:57:23.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN1VDTWVVRlM4MEs5QWlIMGVYMld0cVlfbzU2bW1IYVU2ZzhPNGlxZHNoUmJ",
       "title": "Barboza aparece no BID e já pode estrear pelo Palmeiras - Portal ABC do ABC",
       "summaryKo": "Barboza는 IDB에 출연하며 이미 Palmeiras - ABC Portal에서 데뷔할 수 있습니다.",
@@ -352,20 +464,6 @@
       "source": "CNN Brasil",
       "language": "pt",
       "publishedAt": "2026-07-16T19:02:46.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm4",
-      "title": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real - Gazeta Esportiva",
-      "summaryKo": "U-20 브라질레이랑을 위한 팔메이라스 vs 코린치안스: 실시간 점수 따라가기 - Gazeta Esportiva",
-      "excerpt": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm42THhIN3ZKQW9oWUZ6aUFjNGduYjJ5Q3h1a1MzUHM1cXlVd0dxQUQ1VFZ3RnBxT1BNTTAtMl9ySDZYT0JfSk1SeHFTZXhhaWpPeVNxOElwdW81WkRSMDQtemFFQkFIT1N6S0HSAZsBQVVfeXFMTXBjZktZNTNrMGVCUHo2Z2Q1c2VWNlYwYUk2ZlRzTEYySy04SjJCSUdEQmxZbUx3M3pHaUFFTkI4V0VfVDdfMFNRNVFLRjJPOE10bHRYbTgtRTdTcURzTHY2YzY1d3ZuRE9lX1VXejZFWk1KcDRydlV3ZmZBRElraGZMNDhFd19nd1dpVGl1dlh5Yk1QUElNZGFBaG8?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:00:00.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -777,116 +875,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0p5UVVFbjkzYllwRGpvREh2UWMwOGJPVHVCS0RTSnNoVEpZRjU0SVVkWD",
-      "title": "Gabriel Jesus pode custar R$ 150 milhões ao Palmeiras - Tribuna de Jundiaí",
-      "summaryKo": "가브리엘 제수스, 파우메이라스 이적 150억 레알",
-      "excerpt": "Gabriel Jesus pode custar R$ 150 milhões ao Palmeiras&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0p5UVVFbjkzYllwRGpvREh2UWMwOGJPVHVCS0RTSnNoVEpZRjU0SVVkWDZDRV9heU9zMUtRQVR4Ulo0LXNqWVNBZEZ4Y3c2cXl1VXd2bE9DQ3BlMUpzLU8yZUhIOW5tVWhYV0EwWGZ6bGJOc2JZZlQybzV5Z3Utd01uYm9SOWMxNklKMTZnY0lLeHhqU1JoaWZ2YXNFdEUt?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:52:29.000Z",
-      "whyItMattersKo": "스타 공격수 영입 비용이 거론되며 공격력 강화와 재정 부담이 동시에 관심사입니다.",
-      "fanTakeKo": "제수스 영입, 꼭 성사되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOW45NnRGVnFEcWd2Q3ltS05JOTdOdi1qVDIwTWoxMm42VzFvMjNVd3NqOF",
-      "title": "Palmeiras empata com União São João: jogo-treino tem participação de Vitor Roque e gol de Barboza - ge",
-      "summaryKo": "파우메이라스, 연습경기 무승부에 호키 출전",
-      "excerpt": "Palmeiras empata com União São João: jogo-treino tem participação de Vitor Roque e gol de Barboza&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOW45NnRGVnFEcWd2Q3ltS05JOTdOdi1qVDIwTWoxMm42VzFvMjNVd3NqOFk4SFZYLTl6T25WM0E4cWx3dE1DdkpTM25oMmE5aWpxbzdLYkItWVMwdDVwUmtYZzVGOTdYZ3ZSdzZ1VDlBLXFYN1lXSl9fc2NSejkwZnd2dWdqQTNYS1NBejdrVElING1lbmstRUdlZGhEM2s4QzluNVhMNncwOU9BSFhmSnk5dThrNzA5YVhDNGRRTl9YelQ0ZGJTM3FxUmZDWkFYSXVLMk9MVTPSAecBQVVfeXFMUEthd2hBN1MtdkhPYlAwdmtuVm5CM3hYQ0QzbFlGeWFDbDJxTmlabVJBZWxTaXFyODdQdl8yLVJibUttSDlrMy1LVXVpZWRqVHd0bHprcEdPZDBRdWlWcHFFaTU3SHlHa2xhbmViWjNRSlgzTzZyWGprV083Y3lJLVpDNGpjLWo4dXlweTl2cGR0TEItQ2J6bW53ZkNfNG1nQVBkR3BWWl9vV0ZiTXRRQ1dFWm04Yllrc0hCUGJQYm5DRWFkaTNPWmdxYjBPWGVLTGZEVzJIUndqb3NLT0p1cmc0ZV9lYm9N?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:38:10.000Z",
-      "whyItMattersKo": "연습경기에서 신입 선수의 컨디션을 점검하고 공격 조합을 시험하는 과정입니다.",
-      "fanTakeKo": "호키 뛰는 거 보니 반가워",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzgwZVNwOTFuRnJHczl4cElLaHdMN25BUmFmM1BHdXh5TEhKZWNjOHg5OWF",
-      "title": "Brasileirão Sub-20: Palmeiras e Corinthians decidem vaga na semifinal - Portal Você Online",
-      "summaryKo": "U-20 파우메이라스, 코린치안스와 준결승전",
-      "excerpt": "Brasileirão Sub-20: Palmeiras e Corinthians decidem vaga na semifinal&nbsp;&nbsp;Portal Você Online",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzgwZVNwOTFuRnJHczl4cElLaHdMN25BUmFmM1BHdXh5TEhKZWNjOHg5OWFfNTByOVlVd2YxV3FJYm5JN2FtRDNneU5EVFlBRlhJZjNmc0M4a3pqeHk2SjRObHlaQzFES2dHbkVaVVdiYzlHaEx2QTVfX2tPTHNhQlRsakROLXpIZ1drWENubldCdkdRVXVZ?oc=5",
-      "source": "Portal Você Online",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:34:37.000Z",
-      "whyItMattersKo": "미래의 에이스들이 맞붙는 더비로, 4강 진출을 가리는 중요한 경기입니다.",
-      "fanTakeKo": "유소년 더비라도 이기는 게 최고죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdDZfTzVvNEc1aDJLWWZyblZLZTZXWGQxMFJFblJjaUw2cTJUYnJvdWFRQmx",
-      "title": "União São João empata com o Palmeiras em amistoso e mostra evolução antes da estreia na Copa Paulista - Repórter Beto Ribeiro",
-      "summaryKo": "파우메이라스, 친선전에서 유니앙 상주앙과 무승부",
-      "excerpt": "União São João empata com o Palmeiras em amistoso e mostra evolução antes da estreia na Copa Paulista&nbsp;&nbsp;Repórter Beto Ribeiro",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdDZfTzVvNEc1aDJLWWZyblZLZTZXWGQxMFJFblJjaUw2cTJUYnJvdWFRQmxHcnlkaHJTTXRnUDhIaHhsUWhDOUpZUW1sMDVnSHVhMUU0U1NuYVg5Z242V0VlN25ycVQ3Q1Npdm9DSWdtLUVQN2M5M1BiblJKeHczc1M3QWFRZ3NWaThwMkZadzA1MUJYeWxQV3Y5U2pfTTJGNS1XTzVmdmhMcXlZNXA2STBBZXNqSVZPamdyU3lBMzQ3UHd2S3pJdHVHMWJybHlpaXdj?oc=5",
-      "source": "Repórter Beto Ribeiro",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:26:53.000Z",
-      "whyItMattersKo": "친선 경기를 통해 선수들의 컨디션을 점검하고 팀 분위기를 다졌습니다.",
-      "fanTakeKo": "친선전이라 무난하게 넘어갔네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN0xzbnlfM29tWi16Q0xCVVlpeVNETl94bTZ4VVpVakFlYS16aGdGT25EaGt",
-      "title": "Palmeiras líder disparado e 6 pontos separando o G6 do Z4; relembre como estava o Brasileirão antes da Copa - OneFootball",
-      "summaryKo": "파우메이라스, 선두 단독 질주와 리그 현황",
-      "excerpt": "Palmeiras líder disparado e 6 pontos separando o G6 do Z4; relembre como estava o Brasileirão antes da Copa&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN0xzbnlfM29tWi16Q0xCVVlpeVNETl94bTZ4VVpVakFlYS16aGdGT25EaGtUejNacnJhdVhkUEwwUUdBM2NXMll6NHlZeXh0dEhJcWNJVm93dVBCZ3RiNjBvOFZmWjU5d2o2YnF5RktGT1k5VERtWG5jVm5INXowbV80Wnp3YzdjNjRxX3NmRDFSdGNpR1hLM2NrcFI4UE1veWpLOGEzT280bmFIOUlfT2g2cGI5TnNaY2lwVU4yZTlPcW52T1RhZE5JX1ZjQXZ5WlJHb0ZZc055LWxROHhzNjFDbk1hQQ?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:20:54.000Z",
-      "whyItMattersKo": "선두와의 격차가 벌어지며 파우메이라스의 우승 가능성이 더 커졌습니다.",
-      "fanTakeKo": "선두 달리는 기분이 최고입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-28-https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnhLajhnckc5aE9nYjM4ajRQNEF5eWNxaGM4Vm9GT2NzMHRxZGZDY1RuXz",
-      "title": "Palmeiras líder disparado e 6 pontos separando o G6 do Z4; relembre como estava o Brasileirão antes da Copa - OneFootball",
-      "summaryKo": "지도자 손바닥이 발사되고 G6와 Z4가 6포인트로 분리되었습니다. 컵 전 브라질레이랑이 어땠는지 기억하세요 - OneFootball",
-      "excerpt": "Palmeiras líder disparado e 6 pontos separando o G6 do Z4; relembre como estava o Brasileirão antes da Copa&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnhLajhnckc5aE9nYjM4ajRQNEF5eWNxaGM4Vm9GT2NzMHRxZGZDY1RuXzhlTGkzbjA2aDNpYnNWc0RZbWRpekYzbUxOWHUta3VGeG5EVFJPUG9FcDFsemFobUoyWGZFa0RxUmI3VFJadFg3UDRHUm0wUVNKM1pVZVFHLTBvNFlrLTl6MHk4dEFDU3RBQkNLa0tHRVRRLUtqM29mNXpfVEVRMDRRSlJRRS1PLTZ3dzdOWjdIMlVyZHNCRlBVN2g1MTRFRjlTbVFXMFJfZUpOQUo1cU5IMm5UTw?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:18:57.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0luNE1CejY0ZVhnM2U1NGhvUmtOdE4wZHRKVk9ZX2V5SXJzSGtBaVV6Q1l",
-      "title": "Brasileirão de volta: Confira o retrospecto dos confrontos da 19ª rodada - CBF",
-      "summaryKo": "브라질레이렁 재개, 19라운드 일정 공개",
-      "excerpt": "Brasileirão de volta: Confira o retrospecto dos confrontos da 19ª rodada&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0luNE1CejY0ZVhnM2U1NGhvUmtOdE4wZHRKVk9ZX2V5SXJzSGtBaVV6Q1lkMzR2SlV1SmFOajRxdElaUDFISGRhZW5zbFZNemNpcEFkLUtsTUNHU2tXbWtISkpHSmNKOG9leHZMSlJwZzZJUHBERzJMYUxMRFFlVXd4cHNEQ0dyR05vRF9aQnpFeTRWV3NzSzhsV1N5V2VmMXE2eDJ0Sm82SDVBcVZYYTBPTlA3Yks3Z2g3QXFmaVlHR09CSG4tWk80Y0ZheHdtY2dIZmk3T3lta1k1NERCQ3pjZDhFdjlj?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-07-16T15:05:00.000Z",
-      "whyItMattersKo": "휴식기 후 리그가 재개되어, 팀의 일정과 순위 경쟁이 다시 시작됩니다.",
-      "fanTakeKo": "리그 다시 시작되니 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
