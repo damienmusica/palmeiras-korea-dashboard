@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-07-16T13:53:44.110Z",
+  "fetchedAt": "2026-07-16T15:39:45.584Z",
   "season": "2026",
   "campaigns": [
     {
@@ -83,32 +83,6 @@
         ],
         "advanceCount": 2,
         "qualifiedKo": "조 2위로 토너먼트 진출"
-      },
-      "currentRound": {
-        "roundKo": "16강",
-        "opponentId": "2671",
-        "opponentName": "Cerro Porteño",
-        "opponentNameKo": "Cerro Porteño",
-        "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
-        "legs": [
-          {
-            "kickoff": "2026-08-12T22:00Z",
-            "venue": "home",
-            "legKo": "1차전",
-            "status": "scheduled",
-            "trackedHome": true,
-            "matchId": "espn-401874076"
-          },
-          {
-            "kickoff": "2026-08-19T22:00Z",
-            "venue": "away",
-            "legKo": "2차전",
-            "status": "scheduled",
-            "trackedHome": false,
-            "matchId": "espn-401874155"
-          }
-        ],
-        "result": "ongoing"
       }
     },
     {
