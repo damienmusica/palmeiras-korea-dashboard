@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-15T23:29:33.073Z",
+  "fetchedAt": "2026-07-16T01:00:39.016Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQUdyWlpDa09KNW1RS2JsYkxqSTVYSTVYWmhlc1BoSmRRNHBBLXZzUTAzY1B",
+      "title": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo - Terra",
+      "summaryKo": "플라코 로페스, 월드컵서 브라질리랑 24년 만에 기록",
+      "excerpt": "Flaco López quebra jejum de 24 anos do Brasileirão em Copa do Mundo&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQUdyWlpDa09KNW1RS2JsYkxqSTVYSTVYWmhlc1BoSmRRNHBBLXZzUTAzY1B5TmJ0SDVMcURYX2d2NmJCbFlNZmZINzBKblY5aFg3ZW1fdXVGSnZnNklzM3lEd2lyQ240SnRKSVRPeG5BbVRQWDhxdXhyMWdUaWg3QXI1MUNkVXdFd3dhWDJGdWp2MHBzN0xDeTBjZUh6c0czMUE5c2tBbU5sXzI0cGc2VzllMS10UnNmaW9ORnc0TjVKY1ByMVAzbzgydnNCSTFIOWVQOFVpRzFKODVaaFY4ajktRTVrdTVDUDFVU3lpNThqa01ZRUNmM2JSYUg4NVpuUUkxaXpFM2k?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-16T00:28:00.000Z",
+      "whyItMattersKo": "브라질리랑 소속 선수가 월드컵 무대에서 24년 만에 기록을 세워 리그 위상을 높였습니다.",
+      "fanTakeKo": "로페스 멋진 활약이네, 응원한다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNW9IY25UcUtTUFBUQjViNS0tWjltTjI2ZVFsN09nTm1QeXBpV19LWW9GdGR",
       "title": "🇦🇷 Histórico! Flaco López escreveu mais um capítulo da história do Palmeiras nesta quarta-feira (15)! Com a vitória da Argentina por 2 a 1 sobre a Inglaterra, pela semifinal da Copa do Mundo, o atacante garantiu vaga na decisão do torneio e se tornou o pri - instagram.com",
@@ -14,6 +30,22 @@
       "publishedAt": "2026-07-15T23:20:00.000Z",
       "whyItMattersKo": "소속 공격수가 월드컵 결승에 진출해 팀의 위상과 선수 가치를 높였습니다.",
       "fanTakeKo": "우리 선수가 월드컵 결승이라니 너무 자랑스럽다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiywFBVV95cUxPek90V2Jza3BTaEVaNDNGWEVaaTB2WktyR2wwcm9RYmNzVDhOcXlKZ1IxTUZ",
+      "title": "Flaco López é o único representante do Brasileirão na final da Copa do Mundo de 2026 - Diário 24 Horas",
+      "summaryKo": "플라코 로페스, 2026 월드컵 결승 유일한 브라질리랑",
+      "excerpt": "Flaco López é o único representante do Brasileirão na final da Copa do Mundo de 2026&nbsp;&nbsp;Diário 24 Horas",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek90V2Jza3BTaEVaNDNGWEVaaTB2WktyR2wwcm9RYmNzVDhOcXlKZ1IxTUZTR0lNbGU0Q1EtRWJmM2Ntb040OWtDWEhuMVVkeUM5Tk1aXzdHMTZET1NvSVM1b0d2R2hwRy1tejBZZHRnRHRZSW9VTWRKaFBpZ1h4a2t6dHR0TFpFQ201dmZJbzg1UlQ3THJqTlB5RF9PLW42NFhGWGtFM0F4akVHUVNjWUNIWG9haDhueUwyYjJLUFNvcUVMWlpEN3dTRQ?oc=5",
+      "source": "Diário 24 Horas",
+      "language": "pt",
+      "publishedAt": "2026-07-15T23:18:37.000Z",
+      "whyItMattersKo": "2026 월드컵 결승전에 브라질리랑 소속 선수가 오직 한 명 남았다는 의미입니다.",
+      "fanTakeKo": "2026년 결승까지 가나? 대박이다",
       "tags": [
         "뉴스",
         "AI요약"
@@ -41,7 +73,7 @@
       "summaryKo": "파우메이라스, 코린치안스와 U-20 8강 맞대결",
       "excerpt": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTFrYmJzUUdNdkhEVjdjUW5FVEdiUllianlFODRkSHJzRklZUzZfZHh5VDFadks3aHN6aEFmbWRpa0NlSlRBaEZLVkZxQW1aYTJ3aEV3TkZoUkdyM1NsNWVMSzZkYVJYRkV4WGtKTmdR?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-15T22:55:41.000Z",
       "whyItMattersKo": "유망주들의 성장을 확인하고 미래 1군 전력을 점칠 수 있는 중요한 경기입니다.",
@@ -89,7 +121,7 @@
       "summaryKo": "Flaco López, 월드컵 결승전에서 Palmeiras 선수 명단 증가; Veja - GE",
       "excerpt": "Flaco López aumenta lista de jogadores do Palmeiras em finais de Copa do Mundo; veja&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYlVZNTMwTTF0M2ZnRGNld0pjSVo2T1BkalFNVk1ybnEzOWY0a3NIUDJvamo5Y0htbFhrU1R0RjRYWmVnbHZOTS1oaHdLWjFvTTZjUXRJYl95ejNSUmdOaEUxLS10NF9xNG5XbGVVNTVqYXdYLWFyQmt3WnY4N3RreGhfbmJvdGJHWnNNU0ROVjVHb2JjaGh5dFRnZEVUQWZRc1hOTnZwVGxtR0dibDRsajN0ZDZwMnk4bkoyX0xQM1NuZFBaaVlBQXVTMzZSOExkLXgwT3prUWtWbDlFUzBzWVNSUlJGLTZrUG1ZYWlZMVlsQU4xNnJkS09R0gGIAkFVX3lxTE5vOC1wTHBfUHpEVmdMcFdaYUdORFloYXU2aUJmRUFlZHh2bXlpZGV0R0h2OXFndlN1cU1FS1ZwT3NaRVlLdWw2bllNdEx1TGxtMXdLTGpYeVFiOUsxZTYybTBkdWR1RTgyY0FYYWFPSjJoMFlwQ2oxVUlHT0JOaWlxWGdNVEJnMXRIczRlZDFLQXBDQUtJUUxTSmF6R3RpMXdCY2tPT0cydEJGX0FnUjlSYjlNYjdxWTlkX2tQaGhUc2ZzV2tUd3FmMHdicTh5QlIybWl0ZzBTNllRSUdmTnIxc2d2UjYydXVUUVgzM3J2LTZOWm1iRWo2VV9FQXIzM3l1SVNQaXBFeQ?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-15T21:21:52.000Z",
       "tags": [
@@ -250,6 +282,22 @@
       ]
     },
     {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1F6Mm1TNE1pT0YybFJXbjhRUkJTYWNXYzhKcVRSa1BodFpVcnF1X3Mtaj",
+      "title": "Palmeiras fecha maio com déficit de R$ 65,9 milhões no acumulado de 2026 - tmc.com.br",
+      "summaryKo": "파우메이라스, 5월까지 2026년 누적 적자 6천만",
+      "excerpt": "Palmeiras fecha maio com déficit de R$ 65,9 milhões no acumulado de 2026&nbsp;&nbsp;tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1F6Mm1TNE1pT0YybFJXbjhRUkJTYWNXYzhKcVRSa1BodFpVcnF1X3MtajJkWVlCcXlMRFcxcFdueTI0MWxrZGMybXpIaEFlUkZsNjd5ZFd3YWVIMVdtUE9BZlFfQ1piVmV5QjhYU0tTMWJ0dHhHeEFNY2ZMdS1PRUgxUHBIZ1NVZVl5OGFEYm9sNFpSU3h4ZmdOeUJ5QzQ?oc=5",
+      "source": "tmc.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-15T19:32:32.000Z",
+      "whyItMattersKo": "2026년 누적 재정이 적자를 기록해 클럽 운영과 이적 시장에 변수가 될 수 있습니다.",
+      "fanTakeKo": "재정은 힘들지만 팀은 잘해야죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-15-https://news.google.com/rss/articles/CBMitAFBVV95cUxQTm5RdVpDd1BJcTlKeWdxMGlmUzZ2V1lpUzhlYnJnTklmeF9qNXRLZUVJMm",
       "title": "Palmeiras fecha com Embracon e estreará marca na camisa contra o Atlético-MG - Máquina do Esporte",
       "summaryKo": "파우메이라스, 새 스폰서 계약하고 아틀레치쿠-MG전에 유니폼 선봬",
@@ -329,7 +377,7 @@
       "summaryKo": "Palmeiras는 Jhon Arias의 재도입을 정의하며 전체 캐스팅에 더 가깝습니다 - GE",
       "excerpt": "Palmeiras define reapresentação de Jhon Arias e fica mais perto de ter elenco completo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcUkwQlBnNVpHbDBpZnUyMUVRcldOUFhTcGVBdU1mU09POGExQlVxSy1CSVRtRzB5WGFmMjQ3LVJRcENlRXNIbzE3all5N1ZXRFlYc3dXV1d3M0JDdERfaHM5NFRDSUl1a0pCcm9rblQzejdTU3hRdXYxSUs1bGRyWVcxWHpfbk9LVnkzTXgwOXViMzF2RHRjM251a1JwOW1Hd0VKNUM3blQ4TVMzN0oxWlBBWFVsa3ZWUkY1cl9nM3pNcUhoQ09KYm55OHYtVVZxZHhseWl0MkJoQmtmejBWNEJIY3RTNVhsdmRTRNIB-wFBVV95cUxOWjUxLXBSR1lWUGhoLThmZ19ySnZyVWJPSjVNODk3T0FRV0dZMjh4THVqYXYwb0ZCd01FM2VMX2pROFN5cUdwSFJJUHdYRWw3U1gtdGpiZG5ZVFR4dGF1Mmh6aE1CTlV6bXRsSUY3c3c4WnZxbF92NC1BemhlaGZ2blNjYUhmSjJjYThyZ2pTOVNlbUNBbG0zSENSWWVFXzl4TFF3YmdoQUdPdE1hVU94a2RMdEZPd1RERnFrYWY3eHg2Q1hhMFQ2bmNueUJWaU90MC13R3lMTjlHcVhpMWowUFdCLXZvRVZPT3NUVG9mOGoycHpZczZFcnJwcw?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-15T18:27:56.000Z",
       "tags": [
@@ -882,52 +930,6 @@
       "publishedAt": "2026-07-15T12:03:02.000Z",
       "whyItMattersKo": "공식 경기를 앞두고 팀의 전력과 선수들의 컨디션을 점검하는 좋은 기회였습니다.",
       "fanTakeKo": "연습전이라도 이기니 기분 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUlBYdEE0U1hpdTFDc1p6eFg2SnZMaVNzMGR5el9idm8wMVBUelg2TllueFk",
-      "title": "Carlos Miguel elege Palmeiras e Flamengo como melhores do país e diz: \"Brasileirão evoluiu 80%\" - ge",
-      "summaryKo": "카를로스 미구엘, 파우메이라스와 플라멩구 최고로 평가",
-      "excerpt": "Carlos Miguel elege Palmeiras e Flamengo como melhores do país e diz: \"Brasileirão evoluiu 80%\"&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUlBYdEE0U1hpdTFDc1p6eFg2SnZMaVNzMGR5el9idm8wMVBUelg2TllueFkxb3JHRE9LaDZxMFhUSE1ldWg1UHNURUZfUC1KdlpKTmFwdVVBeUg5X1NPUm1RMVZ0NTNIMzdYcl9KRnI3cTR2Wlc5N1JPT19xVzVNTWlpOGkwTS1vczNDRGI2NUV3NldCT2FQOTNrYWRBbTN4SzhJOW1PejUwQXM0bXliay1YTnZsc0laVzVuVUc4QVlzM1EyOFFxVXRrUFFURlBLUkpsdkNTd00zbktoUHlqVHVfVkNlV3Q4Y3BFRVJWS2k1VUNxM0thc2t6Z2PSAYsCQVVfeXFMT0hScEswbDJ0LWM5ZnpnZzg2bVhYSTBURkpHUDFqbEFkbE1ZNkctOElVSzZabWFKaXdWTG5ZN3MtVC1HRDJmNVFkdG1PRDNEbHR5OTFGNW03ZkJRdEhBeGJYSHRJT0Q0azB0RVVLSmVkLURpRHFZY2hGenlwbVBnemNFX1lmQzZlYzh0UnFMUHhqQzRoR2EzTXhqY2FYdjJWZUlQeDJJTEZmRnBQd3hCck82T2xXSEFuanUtMzBjSnZsNzE4NjJrRGViaHpRUFJ4allCLUg2RWNVWGg0dEF6ZFZtTVFFQUo4RzFMTE02eFh3MWZxZktuTm1YcDN4cF8yM20wLWZabVJVNVFR?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-15T11:00:19.000Z",
-      "whyItMattersKo": "선수 동료의 인정을 받으며 파우메이라스가 리그 최고 수준임을 다시 확인했습니다.",
-      "fanTakeKo": "우리 팀 최고라는 걸 인정받아 뿌듯하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWlCWE9CTWkwZ1FnVnhYVFhTQlRlV2NPOEw3ZzNSdGR5TWlKQkh1N2RJNnU",
-      "title": "Palmeiras letal e Vasco ineficiente: os ataques do Brasileirão em números - LANCE!",
-      "summaryKo": "치명적인 야자수와 비효율적인 바스코: 숫자로 보는 브라질레이랑의 공격 - 입찰!",
-      "excerpt": "Palmeiras letal e Vasco ineficiente: os ataques do Brasileirão em números&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWlCWE9CTWkwZ1FnVnhYVFhTQlRlV2NPOEw3ZzNSdGR5TWlKQkh1N2RJNnU3YjR0RjlJY2EtOFhjREVQeDF1LXFXWVN4el93Q1UxQUdJY1pKTmRIWV9yQld3YTZRN3poODhsOS1aNGlSOEtfT1hoZ0JSQjl0WFhIOXlET041ZlByNW9EOEh0MU4wU0hkVVpoaFg1UjgxSUg1WlFaVGZYeWdPQ3lzTFh5UjJFMG9PYmZZN0JYRkpVRG1BRURtbHIwcXdNS1g?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-15T11:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGU1Z3pzMFZvNEpYMmRGVnRQZnE5U1cyNnpXUkhKR0JkNGl3R251UU1DMGN",
-      "title": "Léo Ortiz projeta 'finais' na perseguição do Flamengo ao Palmeiras - Rádio Itatiaia",
-      "summaryKo": "플라멩구 레오 오르티스, 파우메이라스 추격전 예고",
-      "excerpt": "Léo Ortiz projeta 'finais' na perseguição do Flamengo ao Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGU1Z3pzMFZvNEpYMmRGVnRQZnE5U1cyNnpXUkhKR0JkNGl3R251UU1DMGNSMHpCU1BGeG1hVjBqUEgyMUd4TmxwaDNuNkpmQTNvNTdVOExKRDdKU1RrYkR2dGtGY25VNkNHYXlWcWxHVDJiMWN0OHFGck8xbEJIYW1QUHR4cl9YeUNRYVNvSGtjY0FvQnRvdTJnVHJPX1RjZGRZdExlNHpvTkFoc2FWYWRLaUdoaGF5RmdFNUg2Q3g2Nkw5bWhWY29salNtQlVUMXNLQ0RwUUxaejNfLVJ5VjJxWENlc1E?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-15T09:47:36.000Z",
-      "whyItMattersKo": "경쟁 팀 선수가 추격전을 예고하며 선두와의 격차를 줄이겠다는 강한 의지를 보였습니다.",
-      "fanTakeKo": "추격전은 역시 긴장감이 최고죠.",
       "tags": [
         "뉴스",
         "AI요약"
