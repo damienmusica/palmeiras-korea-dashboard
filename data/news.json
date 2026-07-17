@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T03:46:54.856Z",
+  "fetchedAt": "2026-07-17T06:18:02.391Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUW8xWGlvU1htWTJrbi1NbXE0aFY0RUdlWHBaNTZqU3JMNkx5LXR0OE1qU3p",
+      "title": "A declaração de Alexander Barboza direcionada a Marlon Freitas, do Palmeiras - Terra",
+      "summaryKo": "바르보자, 말론 프레이타스 향해 발언",
+      "excerpt": "A declaração de Alexander Barboza direcionada a Marlon Freitas, do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUW8xWGlvU1htWTJrbi1NbXE0aFY0RUdlWHBaNTZqU3JMNkx5LXR0OE1qU3pRdkU5cjRuXzd2ckVVYkQybEdvUXNWS0FOY0kyVlFsdG9fYzF0MnVScU54ZU93TkVWVEhhaVB0bE8zVk5BUEdERGI3bjFYUjV3WGtyUjhXLTcxa0RtMVVudzZOWVpzbmkwWTVjY2NRc0NIX2hJbUprNnZoTFRiSHFYa2dYS1g5R09zcmswc2dqMndNNVhCQXphSWZUTVMwODFvcUE0OWREX0VWaE11UFB0dEhyY3l2UDhjeWJlR0NxM05iS2pjcjRCOGhiNw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-17T06:01:00.000Z",
+      "whyItMattersKo": "선수 간의 언급은 경기 분위기나 팀 간의 관계를 보여주는 중요한 포인트입니다.",
+      "fanTakeKo": "무슨 말을 한 건지 궁금하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkZMZmdPdy00d0g5WFB6NVNVX3pnRDRESFVTZTBEVk1JUnMzbU05MkRkTTB",
+      "title": "Palmeiras prepara nova oferta ao Botafogo por Danilo; veja detalhes - Terra",
+      "summaryKo": "파우메이라스, 보타포구에 다닐로 새 제안",
+      "excerpt": "Palmeiras prepara nova oferta ao Botafogo por Danilo; veja detalhes&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkZMZmdPdy00d0g5WFB6NVNVX3pnRDRESFVTZTBEVk1JUnMzbU05MkRkTTBnd0w2eng5dWtXalkwTHM5X3NhcFVJQ1RTanhqV2tCb3pMYVd5dUpFM3hHSnJwQXJkYlhHZlJFT1A4MFN4OFRkRzk2NXpqRndkSTN2VEhYenF5VXNkVWtfR0hjdUFZOW40M2NscTBDRlhDYmpaR2xNNmNDc1FiS05HcG5wMGhBa25QZUtqS0pUakU0TklxLXdpTTJFMmU5SFEzYmZvLW9nN05KY293ZGhNYXRUOUczWnBJN1pDUlF0dg?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-17T04:50:00.000Z",
+      "whyItMattersKo": "주축 미드필더 영입은 중원 강화와 시즌 성적 향상에 중요한 기여를 할 수 있습니다.",
+      "fanTakeKo": "다닐로 꼭 다시 데려와 주세요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdnBtOXBGT2J3QlhJR1VfVnluWVFxYjQtM0JLbm1WbXdYQjFROVRCdUtyRWp",
       "title": "Clássico e Brasileirão de volta: veja gols dos jogos desta quinta-feira - UOL",
@@ -294,11 +326,11 @@
       ]
     },
     {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMilAJBVV95cUxOTXZFbUdTZlVhRUg0cXd3SXZyQ21iS1RmWTFWbDUxRnQ4ZmluS1hVX1NzNnR",
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9",
       "title": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20 - UOL",
       "summaryKo": "스트라이커는 앤솔로지컬 골을 기록하고, 파우메이라스는 코린치안을 이기고 UOL은 U-20에서 진출합니다.",
       "excerpt": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTXZFbUdTZlVhRUg0cXd3SXZyQ21iS1RmWTFWbDUxRnQ4ZmluS1hVX1NzNnRzZENUaUs3elAtWENTV0hWeFlyaXV2b3JUejJOZ0VWRGZKOU9icEpCSGZHZ0FVWmNucm0yUU5vR21YekZHdFRJd0hoczBXamdfN2VqdUYxUEpkT3hNQ081QjRsdzZiY3hqcURzV1hYVlFrT0lnMkNCTmlTLWFBR3I5YmNibmZIVlVYbWlLZWVwdkRUZUl5bWdVR3Q4MElsQ3RSZmFUaVNnMjlUdWRkangxWmRaS1R2cGZVSld0eldQdElkNGhsc3pDTzNnRXdJdFdRdWFKem13ZElCSGpRQ3lxak9oQkRoa2k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9RMmd4aGZmTWZoSXZzQmxhSzZuYkxKVWE0Y2tabmI3QmxmRHRpdGZ3cE5TbDVwVU5vdEFVeUZpVGxheE1RTTRYdS1hb3NEZ1laa212a2s0WlNGazNqbjNnWC1ydmV0dUx4WFd6QTlXUkZyd2xZektxYl9pWHlCeDFtZFZhMl9WOA?oc=5",
       "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-16T21:11:44.000Z",
@@ -308,11 +340,11 @@
       ]
     },
     {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9",
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMilAJBVV95cUxOTXZFbUdTZlVhRUg0cXd3SXZyQ21iS1RmWTFWbDUxRnQ4ZmluS1hVX1NzNnR",
       "title": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20 - UOL",
       "summaryKo": "스트라이커는 앤솔로지컬 골을 기록하고, 파우메이라스는 코린치안을 이기고 UOL은 U-20에서 진출합니다.",
       "excerpt": "Atacante faz gol antológico, Palmeiras bate Corinthians e avança no sub-20&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTExdnUtTmt4Wjk3OEZnMXo2ODlmSF9LdGlhMEluWXhMUmowek9yZEFQYl9RMmd4aGZmTWZoSXZzQmxhSzZuYkxKVWE0Y2tabmI3QmxmRHRpdGZ3cE5TbDVwVU5vdEFVeUZpVGxheE1RTTRYdS1hb3NEZ1laa212a2s0WlNGazNqbjNnWC1ydmV0dUx4WFd6QTlXUkZyd2xZektxYl9pWHlCeDFtZFZhMl9WOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTXZFbUdTZlVhRUg0cXd3SXZyQ21iS1RmWTFWbDUxRnQ4ZmluS1hVX1NzNnRzZENUaUs3elAtWENTV0hWeFlyaXV2b3JUejJOZ0VWRGZKOU9icEpCSGZHZ0FVWmNucm0yUU5vR21YekZHdFRJd0hoczBXamdfN2VqdUYxUEpkT3hNQ081QjRsdzZiY3hqcURzV1hYVlFrT0lnMkNCTmlTLWFBR3I5YmNibmZIVlVYbWlLZWVwdkRUZUl5bWdVR3Q4MElsQ3RSZmFUaVNnMjlUdWRkangxWmRaS1R2cGZVSld0eldQdElkNGhsc3pDTzNnRXdJdFdRdWFKem13ZElCSGpRQ3lxak9oQkRoa2k?oc=5",
       "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-16T21:11:44.000Z",
@@ -848,34 +880,6 @@
       "source": "Tribuna de Jundiaí",
       "language": "pt",
       "publishedAt": "2026-07-16T17:35:27.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmZZZjJVWEFZT2EtYk40OW5KVGJ4bEo3RXJzOWJfTDE2LXEzWjB3OFBFaX",
-      "title": "Apresentado no Palmeiras, Barboza diz que 'sempre brinca' para Danilo voltar ao clube: 'A negociação é algo...' - ESPN Brasil",
-      "summaryKo": "Palmeiras에서 발표한 Barboza는 Danilo가 클럽에 복귀하기 위해 '항상 경기를 한다' 고 말합니다. '협상은 뭔가...' - ESPN Brasil",
-      "excerpt": "Apresentado no Palmeiras, Barboza diz que 'sempre brinca' para Danilo voltar ao clube: 'A negociação é algo...'&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmZZZjJVWEFZT2EtYk40OW5KVGJ4bEo3RXJzOWJfTDE2LXEzWjB3OFBFaXRtd3N3NHBiSlcwVTVwdWpJNUVyZlAzNW1ENXlUWmNNMGFZU2pGQXFJYnlYaV9MdDMtdDlQWUJiVmI1NmxfaGk5d0l3YjMxdFNKMG8yd0w1a21UcWxhZ19RV1NaSURDeW5uZG1mSkRXaXZTVW1VY2UtYUswamw2dVNNMzM1UXVISldrdkY2ZHI1ci1XWVo3dkVldFJYTWxhemtIQ0x6RzFN?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-16T17:31:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-20-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEFaNFBNdmx0eVh5NGVZRDVybC1PMTdNODljcEZ3Zk5hOHhIOEpWZ1BaZz",
-      "title": "Barboza é apresentado no Palmeiras e projeta dupla com Gómez: 'Um exemplo' - band.com.br",
-      "summaryKo": "바르보자는 고메즈와 함께 Palmeiras와 프로젝트 듀오에서 발표됩니다: '예' - band.com.br",
-      "excerpt": "Barboza é apresentado no Palmeiras e projeta dupla com Gómez: 'Um exemplo'&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEFaNFBNdmx0eVh5NGVZRDVybC1PMTdNODljcEZ3Zk5hOHhIOEpWZ1BaZzRtNktZc3Y5d0lDY19taUs5MU5DWTNyclJiZ25CdjFvTmRnWEVaUGpjRmk2ZUU5Z19NVTBPRFpXek1SUXFxU09rOW5DV1dDY09kbjR6U3JpdUpsWmFuX21GeHpNV3FXaHVpdTZqMExpenhmempPRDRLUVM2Rm5rc0ZGTTVQcTh1NzhhZ3Vk?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T17:27:05.000Z",
       "tags": [
         "뉴스",
         "자동번역"
