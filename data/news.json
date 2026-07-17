@@ -1,8 +1,136 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T14:12:23.755Z",
+  "fetchedAt": "2026-07-17T15:55:56.359Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW4zVDRIaHdiUVhYTGczVWhuckZ6MmJlaUFHMnBwZm1ncVVvQm0zc0hzLXR",
+      "title": "Palmeiras planeja férias para Flaco, mesmo com a retomada do Brasileirão - R7 Esportes",
+      "summaryKo": "파우메이라스, 브라질레이렁 재개 중 플라코 휴가 계획",
+      "excerpt": "Palmeiras planeja férias para Flaco, mesmo com a retomada do Brasileirão&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW4zVDRIaHdiUVhYTGczVWhuckZ6MmJlaUFHMnBwZm1ncVVvQm0zc0hzLXRCSWNmdlM2NVdESWk3QXo3S2xkNENfMVM2VnE5LWNMZWtZQjVwNWR4cURaYWJzU0xKX25CQldXQUlRNnZVa1BGZDMzSURIbFlQWGdtN2tlX3FkZWxxcUxISklQUGJneDRwS3owNmhTR3RpWllfMzBCRkFDMmYwWi04QXFfV1pBYlJEZw?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-17T15:22:53.000Z",
+      "whyItMattersKo": "시즌 재개 중에도 베테랑 선수의 컨디션 조절을 위해 휴식을 계획했습니다.",
+      "fanTakeKo": "플라코 쉬어가고 다시 힘내길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYVZVWldlaTJuV24wQUpCTGJoZnVDbDBDYmh2MjQtYUhqRGtHbmJUSzg2blR",
+      "title": "Palmeiras faz palestra de Abel Ferreira para técnicos da base - Portal ABC do ABC",
+      "summaryKo": "아벨 페헤이라 감독, 유소년 코치들 특강",
+      "excerpt": "Palmeiras faz palestra de Abel Ferreira para técnicos da base&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYVZVWldlaTJuV24wQUpCTGJoZnVDbDBDYmh2MjQtYUhqRGtHbmJUSzg2blRHSmM0dER5aGxLRXgzbExPTVBBellPU0FJaUI1dzlORThuOEp4ZXZYUHE4bg?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-17T15:19:09.000Z",
+      "whyItMattersKo": "1군 전술을 유소년 팀까지 전파해 클럽 전체의 전력 강화를 꾀합니다.",
+      "fanTakeKo": "유소년도 아벨볼로 통일되길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMioAFBVV95cUxObWlkN0hCeEdISU8tY3M1eVl0cWVBN3BrTThIbHQ0YldQMEFFUmpuV2hkbDU",
+      "title": "Gabriel Jesus tem valor especificado para voltar ao Palmeiras - ABCD Jornal",
+      "summaryKo": "가브리엘 제수스 복귀 이적료 책정설",
+      "excerpt": "Gabriel Jesus tem valor especificado para voltar ao Palmeiras&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWlkN0hCeEdISU8tY3M1eVl0cWVBN3BrTThIbHQ0YldQMEFFUmpuV2hkbDUta2FoZ2ZVc0JYNmtYREJEYjdaUU5hd3dHNzVWQzhIeWUxTXJvSWUwZzBHQktjZnNqZFVHWVowX2FOQURjLURkbktoTll3aDV2Qnl1QWswbHdMVGJ4S3hDZGl1SGQwNEFWMXVmTGdKOGZLazRf?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-17T15:09:34.000Z",
+      "whyItMattersKo": "그리운 공격수의 복귀 가능성과 구체적인 이적료 금액이 언급되었습니다.",
+      "fanTakeKo": "제수스 제발 돌아와주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1JPaTRERWhhc3JzamZ0Yk1TUlB1OTlfSDdrLWxRYUppN3VhV1ZHeGdWa3d",
+      "title": "Sub-15 e Sub-17 do Verdão visitam União Mogi pelo Paulista - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유소년팀, 주말 원정 경기",
+      "excerpt": "Sub-15 e Sub-17 do Verdão visitam União Mogi pelo Paulista&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1JPaTRERWhhc3JzamZ0Yk1TUlB1OTlfSDdrLWxRYUppN3VhV1ZHeGdWa3dxYi1FWlQ2cE5vcWxtZ3lDY3hiRFIzRFUyZXp5RWtlNlN0WUpjTGszUnVBcmJMTGVEVnFyVFJDRDF5VEVhRTVJOEZLTVZLSFhjVEM5ZWNEWjh2ZUFNVzVmUmUzWUJnS1VTQ19adkNsSUVKZi1m?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T15:03:22.000Z",
+      "whyItMattersKo": "유망주들의 실전 경험을 쌓는 주말 리그로 미래 전력을 점검할 기회입니다.",
+      "fanTakeKo": "유망주들 활약 기대한다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSzl5dzRKa0hPREF5R0J4QTNNb2dBYUhta1N1c3VjXzREaW5scjRCR2tucFN",
+      "title": "Joia da base do Remo, “Gustagol” é emprestado ao Palmeiras e balança as redes em estreia - ge",
+      "summaryKo": "구스타골, 파우메이라스 임대 데뷔전 골 신고",
+      "excerpt": "Joia da base do Remo, “Gustagol” é emprestado ao Palmeiras e balança as redes em estreia&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSzl5dzRKa0hPREF5R0J4QTNNb2dBYUhta1N1c3VjXzREaW5scjRCR2tucFNCdENhNE5NNW1JOTNwUG9Ed29Pa2tLSWJGa1NoQUxOTlRNbFlQV0JQWlFPRlItamlEWTVFWlJfUGFHVkZjZjYwRFRVeWZHLVJ6QVNjRnktZlJnNDR3MkFJZEhoWDRManNjdmFsRFFMS05jV1NxUlJzRThtY3c2NmU5d0RfNU9zOUV4MmI2aC00U2JGRDJGdVZlNmNHNERnZjVZYzEyUmlhV1J1VEZyYTBBWENja1VPM3VmemFK0gH3AUFVX3lxTE4wUHphX0o1emhDOFE3bWg0M2JXRDJFMlpyT0hSUDlIZVFIam9mRmdwbElqLWRxQWtwdGxOVWV0TGZ2YmFMOFVZOG8ybF9fdHdjZkZoUG9wd3lZMmhvTXYtdm03UW10Z2FZck9QVFhjanM4eWk4dkplMllzZ3Z5cS1sNzdyelNHaHU1T201cVdsS3NwWVpITWRQUnI0TXctWHFmWnM2YUI5akd2R283d0VnX0EtVXNEemk2dUcyclBaRmU0VWo5RjNWYkFtREQtUEtyaEhOMm9GTE5rem9yeVRZeElpNU1KSzlkYWVtQ1REWTFzNGJ5Y00?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-17T14:54:58.000Z",
+      "whyItMattersKo": "유망주가 데뷔전에서 득점하며 미래 공격 옵션으로서 기대감을 높였습니다.",
+      "fanTakeKo": "유망주 데뷔골이라니, 미래가 밝네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMipAFBVV95cUxQc25hLW9ISVZmVVVZT1llRjMtRjUyUUtHS2xYME5ka2dCM3NUMElNa2s3TFF",
+      "title": "Palmeiras promove palestra de Abel aos técnicos da base - Tribuna de Jundiaí",
+      "summaryKo": "아벨 감독, 유스 코치들 앞에서 특강 진행",
+      "excerpt": "Palmeiras promove palestra de Abel aos técnicos da base&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc25hLW9ISVZmVVVZT1llRjMtRjUyUUtHS2xYME5ka2dCM3NUMElNa2s3TFFFNnZ4c0d2WXlHLTUyN0xFOF9vUHRiTWhwLVY5R3BPN1NXZmtoazRPdFlpR1dlUHZ4T2FvZEtvSEloMG1WemExd1RkMjZxUmRuUVQtZnZWMy1QbXNUZ3BjVGtraENRZURoN0NRS3hHQ2ZkT0pFYUhqYg?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-17T14:52:18.000Z",
+      "whyItMattersKo": "감독이 유스 코치들과 소통하며 팀의 철학을 아래로까지 전파하려 합니다.",
+      "fanTakeKo": "1군과 유스가 하나라니 좋은 신호네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMilwJBVV95cUxQTmphcllwQm9zSW9aOUFlNTZrUnRsTlZHR2pZRzEtNzI2YW5FblR5TkQ4d3M",
+      "title": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel - UOL",
+      "summaryKo": "파우메이라스, 플라멩구 출신 공격수 재영입",
+      "excerpt": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTmphcllwQm9zSW9aOUFlNTZrUnRsTlZHR2pZRzEtNzI2YW5FblR5TkQ4d3M0Wk04QU9ZNUxzS08tQzlwTTJWZG1VUnJaOURra3VCaDAwNUpIVUJ2TEwtano1Z0NQTmsxcWhCNDJZc2toODhKUHBsYlZGdzctOXZ3S0p5RWYzUXV1V3BqLVNjbjJPd3dGYTJ4cFR3dGFDbmc0ckNaalpFOXhDVlEtVldSbUNPTjJDUHNJa1I2V3VvaE1pS01raGtSY1dBZU4xaGtpZDNnUnJUWEhHS3VoUzRzWm9GWlNHQndONE5FWHd1eW5ZMWFTWGRlWHJHLUQtakFpVDhwb0xsUDNNOWJNTnZqZnRib0J3Uzg?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-17T14:21:07.000Z",
+      "whyItMattersKo": "과거 유망주를 다시 데려와 아벨 감독이 직접 살피며 공격력 보강을 노립니다.",
+      "fanTakeKo": "플라멩구에서 데려온 선수라 더 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjJwQ3R3cWFvQm5HdjI0NU1jZFpDRE8xLTFnMmFIYTdaRzhiQ2MxVjQ4UUt",
+      "title": "Coordenador do Palmeiras proíbe vídeos pré-jogo na base e diz: \"Falta quem pense o futebol brasileiro\" - ge",
+      "summaryKo": "파우메이라스 유스, 경기 전 영상 촬영 금지",
+      "excerpt": "Coordenador do Palmeiras proíbe vídeos pré-jogo na base e diz: \"Falta quem pense o futebol brasileiro\"&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjJwQ3R3cWFvQm5HdjI0NU1jZFpDRE8xLTFnMmFIYTdaRzhiQ2MxVjQ4UUtOWjZzX1VScmtPTHMwQzdZdjk2dFp5Q1U4SUxzQlZVTzRMX3ptcnZrQnhubnQwbWtYYUNoTzV5aXBCanJzQU9MOU9hRjVCOEw2N2pIVHVhQnd6Q2ZVZ3VHR1ZnTjNfRGJwTng0MU00OGY4UnF3ZGVvWkRNd0lOa3p0cjdTUG55UEVNOUtEbjcyOHpwaFRqaEk3MUpQQ3hDeWhqZWhUVjNoUlVXNkhHVFJmaXh2ZnA0YzRCUldCMThqaEpxZlpvTTg3M2FTOWZNNVBOQdIBjAJBVV95cUxOcnNxRzVDbnEzZnpKQ3BabllmZ2hwQk1fZGlEbkJSVEtzclNfOEluY0pKaHhhbXFxNmRBb2NkMXN5NHZ1czhxWmo5TDhIWUpNWERiblFQYkZfQzJGNWI5MnY1dk01SjVVSGVjbncyc21RZ1BKSkYtandnZGRRel9SU091NEJkdDZFeURXV0kydDVZWHZaNW9SVDVXMEx2cldKRjZUZ1hFVm5yVXZ6Rm9JeVFNY2t3TFBLRXdybXpGZDd6bDh2b0VHbExLWlhoTDNXVERnUGFiSTBDM0ZsY1RsUjRGMWtEdFdSQV9sVjAwTHRNNkdlM21ZaG8wVk1ybUJrWGo2Z3p1N2lCaHlK?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-17T14:00:09.000Z",
+      "whyItMattersKo": "유스 선수들의 행동을 교정해 진지한 프로 정신을 심어주려는 조치입니다.",
+      "fanTakeKo": "유스 선수들이 좀 더 진지해졌으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmJsN0tKV3NScTQ0WVRhbUx1WnRvREdxb1c3NXlGckE0Ny1iU0NsRThjY25",
       "title": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras - Terra",
@@ -60,6 +188,22 @@
       ]
     },
     {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0x",
+      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
+      "summaryKo": "파우메이라스, 플라코 휴식 준비 중",
+      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0xvZjJWMmRPVjhnMzJJTTFkYXkzQm9sWGN5VkFva3k0aXVWNlN4S0VHMW9aOVJaNUJtcmhrUkI5bFM1VUhZVGljenRjZGpYbU1TeTR1cmJvWmNVNUdaVEpodk1lS2luN0RoWlBUMmg1TzFkSG5wS0N4OE5PUmJDMUtYUWdsZ1hFd2JvU2x1Vk5HaTVQem5UQzkwaWtLcVhka3VHZXpFVFk0T190cUtGV00?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:30:00.000Z",
+      "whyItMattersKo": "국대 대회 출전 시간이 적었어도 선수 컨디션 회복을 위해 휴식을 준비했습니다.",
+      "fanTakeKo": "쉬고 와서 시즌 후반부 폭발하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlJVRldveWM4YWlSY3o0UDg4aTBqVWJvdmNMX1RONDRjcUVjMGQwWERsS1J",
       "title": "Dirigente do Flamengo diz que Abel Ferreira deve a carreira ao Brasil - band.com.br",
       "summaryKo": "Flamengo의 매니저는 Abel Ferreira가 브라질에서 경력을 쌓아야 한다고 말합니다 - band.com.br",
@@ -71,22 +215,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0x",
-      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
-      "summaryKo": "파우메이라스, 플라코 휴식 준비 중",
-      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0xvZjJWMmRPVjhnMzJJTTFkYXkzQm9sWGN5VkFva3k0aXVWNlN4S0VHMW9aOVJaNUJtcmhrUkI5bFM1VUhZVGljenRjZGpYbU1TeTR1cmJvWmNVNUdaVEpodk1lS2luN0RoWlBUMmg1TzFkSG5wS0N4OE5PUmJDMUtYUWdsZ1hFd2JvU2x1Vk5HaTVQem5UQzkwaWtLcVhka3VHZXpFVFk0T190cUtGV00?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T12:11:11.000Z",
-      "whyItMattersKo": "국대 대회 출전 시간이 적었어도 선수 컨디션 회복을 위해 휴식을 준비했습니다.",
-      "fanTakeKo": "쉬고 와서 시즌 후반부 폭발하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     },
     {
@@ -136,6 +264,20 @@
       ]
     },
     {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHVfY0F3WWc2U0JFQUs2azVmTnpnbDFaLVdydzFpYW9vWW1ydmNwd3ctUl",
+      "title": "Coritiba aumenta valor dos ingressos para volta do Brasileirão contra o Palmeiras - UmDois Esportes",
+      "summaryKo": "코리치바는 파우메이라스를 상대로 브라질레이랑 복귀 티켓의 가치를 높입니다 - OneTwo Sports",
+      "excerpt": "Coritiba aumenta valor dos ingressos para volta do Brasileirão contra o Palmeiras&nbsp;&nbsp;UmDois Esportes",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHVfY0F3WWc2U0JFQUs2azVmTnpnbDFaLVdydzFpYW9vWW1ydmNwd3ctUlROWWdTZnRBR0hsSkM2R3ZjRF9yc1pOVnZ1TER3N1dfTWk2bGN0cFRBYzUtNENqVGxvY2hZRXRkVld0YmcwdlJSV0FkUXVqX2N3dnJCTTZjY2VfVTk3cFQ1bQ?oc=5",
+      "source": "UmDois Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-17T11:32:08.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjBhOVFkaUNlcWc2ZDN1YWk1eUQxTE1SQmgycXdhRkFXcXhmdW14SDZmNE0",
       "title": "José Boto, do Flamengo, provoca Abel Ferreira, do Palmeiras - Terra",
       "summaryKo": "플라멩구 보토, 아벨 감독에 도발장",
@@ -159,7 +301,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2doTjV2NHpNY2lSaFhhR1hpam9hTzR4WjExUHpETHJmWFgtY0k5U1dZT2ZvTW1UT2QtelBCQ1pubjRzWFJCR2RaaVdCZXFfR2o4dmZsOXRiWjcyTHBoR2tRa09yY2RmUk5pYUZTX3p6UUJVejBPRjEwSE9RRHJ0VS1R?oc=5",
       "source": "Fato Paulista",
       "language": "pt",
-      "publishedAt": "2026-07-17T09:17:11.000Z",
+      "publishedAt": "2026-07-17T09:18:44.000Z",
       "whyItMattersKo": "주전 선수들의 결석은 리그 재개 후 팀 전력과 성적에 큰 변수가 될 수 있습니다.",
       "fanTakeKo": "빨리 쾌차해서 돌아오길 바랍니다.",
       "tags": [
@@ -760,138 +902,6 @@
       "source": "Rádio Itatiaia",
       "language": "pt",
       "publishedAt": "2026-07-16T20:51:14.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMikwFBVV95cUxNSV93NlZwZUFrS0dXWm9MVmowWWtQd0NESjRyeC00czNuaVI1SDNuQVRONF",
-      "title": "Palmeiras vence Inter de Limeira com gols de Crias - palmeiras.com.br",
-      "summaryKo": "Palmeiras, Crias의 골로 Inter de Limeira 우승 - palmeiras.com.br",
-      "excerpt": "Palmeiras vence Inter de Limeira com gols de Crias&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSV93NlZwZUFrS0dXWm9MVmowWWtQd0NESjRyeC00czNuaVI1SDNuQVRONFpMV1FWdENlbG90WnRYTUphUkxMYzg2XzFCd25uQWdsdHJwc2RSSG1paDRwT0FQN2RyMGw5OC1YRlVVeTlkZnY2RUVpTjRIZmNWbXVUQ2FOWjVkNWo1VHlrNGZaM25kVDA?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:51:04.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjFsS2xDWDU2d0QwZDdhN09XWkhGd0d0TkppOXE0NUVkaW1YU05RUGZjR1",
-      "title": "Corinthians sofre virada do Palmeiras e dá adeus ao Brasileirão Sub-20 - meutimao.com.br",
-      "summaryKo": "고린도 교도들은 파우메이라스 (Palmeiras) 에서 차례를 보내고 브라질레이랑 (Brasileirão) 20세 미만과 작별을 고합니다 - meutimao.com.br",
-      "excerpt": "Corinthians sofre virada do Palmeiras e dá adeus ao Brasileirão Sub-20&nbsp;&nbsp;meutimao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjFsS2xDWDU2d0QwZDdhN09XWkhGd0d0TkppOXE0NUVkaW1YU05RUGZjR1lMdnhNeFVjcHUxaFpEbkhwUi1OR3FPR3lSXzhhQmpYdDUtaVdCeU5QbkFlT2V4TjRaQWMwWHBhclJOU1RDODhFbEZMdWtrUHM0bjVUeGZfV0hOeThyV2RTbTJ5ZnFBUUtBN0JvSHhNMEhhZWZ3T3RYbnBESWxEc1VRODdQaVdsNnE0ay00WEFJSzRhT1RTLUg0RUJGUdIBuAFBVV95cUxPMHBYaGZBaTNkNU9LME1iV1V6TFNLZlFPaVVHRWpDbVRwTWNCRWd0MHRLMHdQZV82NzA5dzNKalRTQy1hT0xfZ3BBM0lHTGlmeU1kZzFfZEZqSlhHdk5ISXRaUWh6dUQ5NklkcHllaEFaalJXUzFLTHhFZG5lc0J5NXJ0ZGNvWVNTSUM0RkoxUUZDTHpDaU42WWJleUFqc3JZT3AyQXNveFpvYm5NeHpiZGwxdGJrU25x?oc=5",
-      "source": "meutimao.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:51:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmQ3ZGRDdGpZSVByZExMTzhNRUZyWTBOWTdtSTNZVjk5OUxRQjNzVXBmT0I",
-      "title": "Barboza chega ao Palmeiras: 'Botafogo queria me vender de qualquer jeito' - UOL",
-      "summaryKo": "보타포구 출신 바르보자, 파우메이라스 입단",
-      "excerpt": "Barboza chega ao Palmeiras: 'Botafogo queria me vender de qualquer jeito'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmQ3ZGRDdGpZSVByZExMTzhNRUZyWTBOWTdtSTNZVjk5OUxRQjNzVXBmT0I4c2RucE5ldjZVcGZiNS03azZZMU5QVU0xWnBvWEFnbTF5RG9VcHc0WUw3b21FY2d4UEFWN1REMDg3UkNTU1JsSUJEMzVZMVlpMTRwYnluZk5jOFMxbUh1enlMSDRFRXQyWDlkRnA0S3ZmMEU1VlF4WA?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:42:24.000Z",
-      "whyItMattersKo": "보타포구에서 영입한 바르보자가 팀 전력 보강에 어떤 영향을 줄지 주목됩니다.",
-      "fanTakeKo": "바르보자 영입을 환영한다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTHdZdDVmV2ItNUlJa1RNWDFEbUVyM0ZHbVJETHBxWDZLLUp5WXYxaDFZdz",
-      "title": "A declaração de Carlos Miguel envolvendo Palmeiras e Flamengo - Terra",
-      "summaryKo": "카를루스 미구엘, 파우메이라스-플라멩구 언급",
-      "excerpt": "A declaração de Carlos Miguel envolvendo Palmeiras e Flamengo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTHdZdDVmV2ItNUlJa1RNWDFEbUVyM0ZHbVJETHBxWDZLLUp5WXYxaDFZdzc5SWs1ZHhXRTI0UG5aNjE5U3lMRS0zX1FFbzljN3ZjeHUzSld6N0tKSzhMQ2JzbFhPeWdyQkVfOU1SN212elpaTGFNRGtfSlRJWVUtejZ1SnpBNE8yMzVRR3V5cVpvUEF4Q1U5VVVkcVNxUEZsbmRMQ1E5MTQxcmZRZjdwME9QU3A0ZUlubTh6R0ZUNS1nV3phR2R3SXNIUE1HbW5hbHJpdXNYSmEyZDFIa2plVGpqVEJYQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:40:00.000Z",
-      "whyItMattersKo": "선수가 두 팀을 언급하며 이적 시장에서의 관심이나 본인의 입장을 드러냈습니다.",
-      "fanTakeKo": "어떤 말을 했을지 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzhOWnF1Ti0xQWpkUUJWcFlrN3pac1RHQzl4S3FFbGNtNm04ZkVaX1dhRj",
-      "title": "Com gol de Barboza, Palmeiras empata União São João de Araras - Galáticos Online",
-      "summaryKo": "바르보사의 목표와 함께, 파우메이라스는 União São João de Araras와 관계를 맺습니다 - Galáticos Online",
-      "excerpt": "Com gol de Barboza, Palmeiras empata União São João de Araras&nbsp;&nbsp;Galáticos Online",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzhOWnF1Ti0xQWpkUUJWcFlrN3pac1RHQzl4S3FFbGNtNm04ZkVaX1dhRjEzS2NrUnlzVVptMVNuZ3VmMVZzSGJHLTZBVHN2X2VvdkhOVkxGOTlDY3R1REwzSklsTTlRYlVKLWxxRFo5WlBCTTVlcEpRdHp1bWM3a0ppOHZKZW1EcnhGU05PMmtWakhFZDZvckNKeUJsYjktNGc3MDR5VEwxNTBNdEphVnIzMTZWSXZjTHc?oc=5",
-      "source": "Galáticos Online",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:39:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclVGSG5GOTB5TG01eEVkQmZMcC1LdjQ4bWJoRHB4dlU4NnhKdFd2ZkxxSm",
-      "title": "Palmeiras mantém negociações pelas saídas de jogadores formados na base - Rádio Itatiaia",
-      "summaryKo": "Palmeiras는 기지에서 훈련받은 선수들의 퇴장을 위한 협상을 진행합니다 - Rádio Itatiaia",
-      "excerpt": "Palmeiras mantém negociações pelas saídas de jogadores formados na base&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclVGSG5GOTB5TG01eEVkQmZMcC1LdjQ4bWJoRHB4dlU4NnhKdFd2ZkxxSmxHN2Q2M1VIMHdBSUlWVG1Vb25oUWQtSUNHUlprQjd0bjVGVVdubF9JQUpwbi1SN1E0aDV4NDZiU0gxNDJYTFRaLVdwcjVsbFNjMkxDdFZWc3o1NkxNRjd2TlNZNDVYbEV0OHhUdGlKYkJERUt1eG1uejJnS3V5NDVLaGdXYUdrVl9LQVJSMG01SjFLTGtwaEVOeHY3cjk3YTA3ak1RT2NGT3NOTE1qRGhZWnhTaUxUZjZGUGtseVp4ZWRfNEEtd2NfbDFz?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:38:18.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTF",
-      "title": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20 - GE",
-      "summaryKo": "파우메이라스, 코린치안스와 U-20 8강 맞대결",
-      "excerpt": "Ao vivo: Palmeiras x Corinthians | 4ª de final | Campeonato Brasileiro sub-20&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHNGMWRqSThvTTJHMkxLdXI1QVFlTVVmbjNlWWd2QllZcmhzdVRUVy1QUTFrYmJzUUdNdkhEVjdjUW5FVEdiUllianlFODRkSHJzRklZUzZfZHh5VDFadks3aHN6aEFmbWRpa0NlSlRBaEZLVkZxQW1aYTJ3aEV3TkZoUkdyM1NsNWVMSzZkYVJYRkV4WGtKTmdR?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:05:00.000Z",
-      "whyItMattersKo": "유망주들의 성장을 확인하고 미래 1군 전력을 점칠 수 있는 중요한 경기입니다.",
-      "fanTakeKo": "미래의 에이스들을 기대하며 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GY0l4eDYwQWlNcWpRYTlXRzM0SDlqekpuaDNVTnpUVDJjbnctejctM29YMW",
-      "title": "Apresentado oficialmente pelo Palmeiras, o zagueiro Alexander Barboza afirmou estar motivado para iniciar sua trajetória no clube e revelou detalhes das negociações que culminaram em sua transferência. O defensor assinou contrato até dezembro de 202 - instagram.com",
-      "summaryKo": "파우메이라스가 공식적으로 발표한 수비수 알렉산더 바르보자는 클럽에서 커리어를 시작하는 데 동기를 부여받았으며 이적의 절정에 달한 협상의 세부 사항을 공개했다고 말했습니다. 수비수는 202년 12월까지 계약을 체결했습니다 - instagram.com",
-      "excerpt": "Apresentado oficialmente pelo Palmeiras, o zagueiro Alexander Barboza afirmou estar motivado para iniciar sua trajetória no clube e revelou detalhes das negociações que culminaram em sua transferência. O defensor assinou contrato até dezemb",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GY0l4eDYwQWlNcWpRYTlXRzM0SDlqekpuaDNVTnpUVDJjbnctejctM29YMWQ2YUU4VThINmp0dktDMGZZWFh3ZHltQzdqbWVwZkE?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:01:58.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUlNV2FBOW11b2tVS1pzZldNMjAtUW85ZlJaemlDOFdveUxsT3YyY0VSRG",
-      "title": "Palmeiras: Barboza tem nome publicado no BID e está apto para estreia - Tribuna de Jundiaí",
-      "summaryKo": "Palmeiras: Barboza는 IDB에 이름이 게시되어 있으며 데뷔에 적합합니다 - Tribuna de Jundiaí",
-      "excerpt": "Palmeiras: Barboza tem nome publicado no BID e está apto para estreia&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUlNV2FBOW11b2tVS1pzZldNMjAtUW85ZlJaemlDOFdveUxsT3YyY0VSRGFEMXRGblRLT1FMelF3eXdQeGVxN3BObWdBUlhrQ0RoN2xtbGVhQnM1NW1qYmcxaEEzYVdXaWYxZ3hLeDVRQTNnVW43SWxoZUtmWEsyYUVEQ25TaUUxMGxKUFc3azh0a1dDeXNGUlhFMlR0X1F3Tmt1UXBXMzlhd09Ja2N5bmlQQjRVQQ?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:01:34.000Z",
       "tags": [
         "뉴스",
         "자동번역"
