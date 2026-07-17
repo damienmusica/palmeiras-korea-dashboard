@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T15:55:56.359Z",
+  "fetchedAt": "2026-07-17T17:15:21.720Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWJ3OFpZNk9EZm9waGlHamVHbnBCY01DQklYaVZpYjZMUldoSEl1NUtLV1h",
+      "title": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel Ferreira - TNH1",
+      "summaryKo": "파우메이라스, 플라멩구 신예 공격수 영입",
+      "excerpt": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel Ferreira&nbsp;&nbsp;TNH1",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWJ3OFpZNk9EZm9waGlHamVHbnBCY01DQklYaVZpYjZMUldoSEl1NUtLV1hsUlZBYlM2bnlIN3BjUWd5OElQMFZnQmFFMzZYNHdSdVlxVjJlbzhpbkdBRVNIM1E0ckFhbFZPN3Fib09Ud0pDcUtob1hRSmR5b2tEa3lMWFFMMjY4WGhKeWV2U0VuNzFBYUw1YmI5VHBydFFHSlBhNS1oVURRVEJuYzdHeGF2SnBrUdIBsAFBVV95cUxPbl9qZHNwazBRMnhjWEVPdmpnVVAxQmdrUmx4ZHN2Z05MVVcweHNsdEZBYXgxVDlGZmphNzVyampIdFJ1X3RMSHlRcDJrVGxVVUduZ2xoYUFtRjkzOGhPaDlQTnJmbjRJenpzVmNCckRDUG5QVkRqQ3VLN0VoaG5PLXpTeVJvbVczN1hCbHN6eVM4eEtnTlRCTE51ZTBWS1hiZmstdHdzaC1TSUNmeEtMbQ?oc=5",
+      "source": "TNH1",
+      "language": "pt",
+      "publishedAt": "2026-07-17T16:46:16.000Z",
+      "whyItMattersKo": "아벨 페헤이라 감독이 주목하는 유망주라 공격진 옵션이 늘어나고 미래 전력이 강화됩니다.",
+      "fanTakeKo": "기대되는 신예 영입이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEE1N0xXbEdjZDQxU2FUNEdWTXM4eGFFTWxQbFZ2bXVUcW42bGZJU3lBNmt",
+      "title": "Gi Campiolo valoriza pausa e projeta sequência decisiva do Palmeiras na temporada - LANCE!",
+      "summaryKo": "캄피올루, 휴식기 뒤 중요한 일정 기대",
+      "excerpt": "Gi Campiolo valoriza pausa e projeta sequência decisiva do Palmeiras na temporada&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEE1N0xXbEdjZDQxU2FUNEdWTXM4eGFFTWxQbFZ2bXVUcW42bGZJU3lBNmtsZGtSVUhueVJIWjZGR29melRTd3BocVJ6bndNeTNyUGlSZjU3Q1RxbFZhVDQ1bTBaWlNKVFNISGJOMG9DLS03alFKRVpXMFBEQ0hlUXJoaEQyWmJPcmV0TkotVzRObUZFODF3VmZmOEJGb2lqV0JjV3pGZHVyUnd6NHlQdG9BMmw4SEhMeXZHQTdEMXhDakZDQmgw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-17T16:38:07.000Z",
+      "whyItMattersKo": "선수들이 컨디션을 회복하고 앞으로 다가온 중요한 경기들에 대비할 수 있는 시간입니다.",
+      "fanTakeKo": "푹 쉬고 와서 좋은 경기 보여줘!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXpMREdNZDlFZHo5VmRGTEpIZWd5aUhSTkpGNTZ6Y3JpdE1tbS15YmluX0x",
+      "title": "Revelação da modalidade, Ket é a nova atacante do futebol feminino do Palmeiras - palmeiras.com.br",
+      "summaryKo": "파우메이라스 여성팀, 신예 공격수 케트 영입",
+      "excerpt": "Revelação da modalidade, Ket é a nova atacante do futebol feminino do Palmeiras&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXpMREdNZDlFZHo5VmRGTEpIZWd5aUhSTkpGNTZ6Y3JpdE1tbS15YmluX0xEUkxKbnV5RmJfV01wME03aTRkY3FjU2x2RFJuT2xaMmxvY09WNEtPb0c2UjJaMER1Z1g1ZjIwWjZfdld6T3BNOXpIdmtaX2NCRHdqcXUzSVM0X0xaQ1BGa2x0MlJJV194Y3ZqLUVDZGZWUW9fOWgxcXlvcnFWOG9TdE90dWo2QWxYVzZF?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T15:54:51.000Z",
+      "whyItMattersKo": "여자 축구팀에 유망한 득점력을 가진 신예가 합류하여 공격력이 보강되었습니다.",
+      "fanTakeKo": "여성팀도 응원할게요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW4zVDRIaHdiUVhYTGczVWhuckZ6MmJlaUFHMnBwZm1ncVVvQm0zc0hzLXR",
       "title": "Palmeiras planeja férias para Flaco, mesmo com a retomada do Brasileirão - R7 Esportes",
@@ -860,48 +908,6 @@
       "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-07-16T20:59:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW9zeEgyNWt5cG5UM2NCeTJnSjFCTng0dkRJY0ZQWXVHQUdick5MTFp5bWJ",
-      "title": "Palmeiras vence Corinthians novamente e avança à semifinal do Brasileiro Sub-20 - palmeiras.com.br",
-      "summaryKo": "Palmeiras는 코린토스를 다시 이기고 브라질 U-20 준결승에 진출합니다 - palmeiras.com.br",
-      "excerpt": "Palmeiras vence Corinthians novamente e avança à semifinal do Brasileiro Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW9zeEgyNWt5cG5UM2NCeTJnSjFCTng0dkRJY0ZQWXVHQUdick5MTFp5bWJlRkxxbmNzdkdheG9lSmg1Z2s2eERmUHI1QmtBaVFjR3RscVhqS2R5eHBSLWRwOWZ4VmlSNlJuTGxsV01IQkNIQ0ZLcXlZSjY1a1RoWHVSdXRPLWV1aVc5Um1BaV8tV2VMWWU3VTJLUGpfUVhCT2dyOEoxd2xKQS1UTXhKZ2ZPTW8wVnhKakE?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:53:18.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm4",
-      "title": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real - Gazeta Esportiva",
-      "summaryKo": "U-20 브라질레이랑을 위한 팔메이라스 vs 코린치안스: 실시간 점수 따라가기 - Gazeta Esportiva",
-      "excerpt": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFYSGp3b3FoQ0VBQnpoZ3NORERDejMyN3d5Y2tYZUNFZ0ZYNVRlSTREYm42THhIN3ZKQW9oWUZ6aUFjNGduYjJ5Q3h1a1MzUHM1cXlVd0dxQUQ1VFZ3RnBxT1BNTTAtMl9ySDZYT0JfSk1SeHFTZXhhaWpPeVNxOElwdW81WkRSMDQtemFFQkFIT1N6S0HSAZsBQVVfeXFMTXBjZktZNTNrMGVCUHo2Z2Q1c2VWNlYwYUk2ZlRzTEYySy04SjJCSUdEQmxZbUx3M3pHaUFFTkI4V0VfVDdfMFNRNVFLRjJPOE10bHRYbTgtRTdTcURzTHY2YzY1d3ZuRE9lX1VXejZFWk1KcDRydlV3ZmZBRElraGZMNDhFd19nd1dpVGl1dlh5Yk1QUElNZGFBaG8?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:52:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOTV6Zmt0aE1yYlBxRms5SmRSYkpwYWZXMnhQekpqZjdxYmhzQmRTZnN1WEJ",
-      "title": "Palmeiras faz golaço do meio-campo, bate Corinthians e avança no Brasileiro Sub-20 - Rádio Itatiaia",
-      "summaryKo": "파우메이라스는 미드필드에서 득점을 기록했고, 코린치안스를 제치고 브라질 U-20 진출 - 라디오 이타티아",
-      "excerpt": "Palmeiras faz golaço do meio-campo, bate Corinthians e avança no Brasileiro Sub-20&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOTV6Zmt0aE1yYlBxRms5SmRSYkpwYWZXMnhQekpqZjdxYmhzQmRTZnN1WEJyZFpZTXFiSmQySFozTktmOUJzYV9vNENqYjVNVU9DWEFBajBwZkJkNTkwYkRLOVp2TGJhb3dpNTlzdU9jZGdIekxOajA5Vi03UnVsYXdscENxTkxGcXdHNEl2RmRhcExkWDBDaHBXSmlzZFRPWTh1YkZfaDBEN3FfV1VEY00xREZiSzZQSDNPNTNtY2NMSkNlcVVtS2tMSkRYQ0VqVjRVS1dBYkt0LVR3anNhanI5VW1FQjVFWS04bmJIaloydUdFbV9v?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-16T20:51:14.000Z",
       "tags": [
         "뉴스",
         "자동번역"
