@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T10:48:01.038Z",
+  "fetchedAt": "2026-07-17T12:10:19.076Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2lzRHdDSmwzZG9HMWRJd2lZR1diT0NFR2dHZ1d0VWsyUllRNGc5WHFYaEp",
+      "title": "Palmeiras prepara nova proposta por Danilo, volante do Botafogo - CNN Brasil",
+      "summaryKo": "파우메이라스, 보타포구 다닐로에 새 제안 준비",
+      "excerpt": "Palmeiras prepara nova proposta por Danilo, volante do Botafogo&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2lzRHdDSmwzZG9HMWRJd2lZR1diT0NFR2dHZ1d0VWsyUllRNGc5WHFYaEp6MXhtdzZTYU1lWllvVG9YNjZWelB2WDFkU296Q3BjWTl3ejd1UU9rR1RZeV9mRlNxUThQOThFTEZ5THNyNFRoWEVnOEdLYjN2UHk4UlFuZG10Z01jUFNpMDFWWnQxMmhaOWNTOU9yQ3JEMk5RY3ZiLVJFakRCc3BkTGMwM3VJZw?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-17T11:53:49.000Z",
+      "whyItMattersKo": "미드필더 보강을 위한 새 이적 제안이라 팀 전력 강화에 긍정적 영향이 기대됩니다.",
+      "fanTakeKo": "다닐로 영입 성사되면 좋겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3d",
+      "title": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu - R7 Esportes",
+      "summaryKo": "파우메이라스 전 선수, 브라질 축구 현실 분석",
+      "excerpt": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3dSdElQbkdMSU5Qb0RRWkZrbGU0NFNkY3lKVWlYaFlrQUxxa1ZESUo3d08yYzlFcGpMQ3B3VmVPY2loYVlpQWpZZXRjQ3ZlTjczOFJFWVJiaFFvTEUweHpfQ3ZFT0s2bkYwanBudnFoOFV4Yl9neG9UQU4zV0ZmenhBSjl2SEpBaEVfSExmWVhxa19saXZCdjNQQ0d4NW12eEQxRTNnU1RqRk9CTHh5WUxjczE5eE82SjBUU2JI?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-17T11:41:43.000Z",
+      "whyItMattersKo": "현역 선수의 경험을 바탕으로 브라질 축구가 겪는 구조적 문제를 파악합니다.",
+      "fanTakeKo": "브라질 축구가 다시 일어서길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjBhOVFkaUNlcWc2ZDN1YWk1eUQxTE1SQmgycXdhRkFXcXhmdW14SDZmNE0",
       "title": "José Boto, do Flamengo, provoca Abel Ferreira, do Palmeiras - Terra",
@@ -252,22 +284,6 @@
       ]
     },
     {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3d",
-      "title": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu - R7 Esportes",
-      "summaryKo": "파우메이라스 전 선수, 브라질 축구 현실 분석",
-      "excerpt": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3dSdElQbkdMSU5Qb0RRWkZrbGU0NFNkY3lKVWlYaFlrQUxxa1ZESUo3d08yYzlFcGpMQ3B3VmVPY2loYVlpQWpZZXRjQ3ZlTjczOFJFWVJiaFFvTEUweHpfQ3ZFT0s2bkYwanBudnFoOFV4Yl9neG9UQU4zV0ZmenhBSjl2SEpBaEVfSExmWVhxa19saXZCdjNQQ0d4NW12eEQxRTNnU1RqRk9CTHh5WUxjczE5eE82SjBUU2JI?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-17T02:16:00.000Z",
-      "whyItMattersKo": "현역 선수의 경험을 바탕으로 브라질 축구가 겪는 구조적 문제를 파악합니다.",
-      "fanTakeKo": "브라질 축구가 다시 일어서길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2EydndNUXFjdjBUbzQ4eHgzRlZmOExmNlg4QllmMmRZcUE4ZTI1WFdSMm1",
       "title": "Palmeiras vira sobre o Corinthians e garante vaga na semifinal do Brasileirão sub-20 - agência esporte",
       "summaryKo": "파우메이라스 유스, 코린치안스 꺾고 4강",
@@ -437,6 +453,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXZBeVF0dlZqOXhBb09jTV9LQmU1X2NLQ2hUSG4zUWJJdjFQYTRyRjc1dU",
+      "title": "Saiba classificados e confrontos das semifinais do Brasileirão sub-20 - Gazeta Esportiva",
+      "summaryKo": "브라질레이렁 U-20 준결승 대진 공개",
+      "excerpt": "Saiba classificados e confrontos das semifinais do Brasileirão sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXZBeVF0dlZqOXhBb09jTV9LQmU1X2NLQ2hUSG4zUWJJdjFQYTRyRjc1dUdscFNRbUFqTGx4cjROd2VQc29nRjg3YlBtQXlFQWltaEY2eEZybExJYmpwcGl5UWNfY0xLSlNVRXVEcVE0ZWp1WG92djNXU292Xy1QVmt4U3c2WkNfODk5UjBYQTd2RVhSbkdIM09mb0l3OG5kaXZ0TWtjN0lzcm1HN1Y3dUhjOUoxS1c5TUHSAb8BQVVfeXFMTW5BYnJ3aWtMR1lnX0ZmOFVTS1JlSXBtYkwxdTZqMW15ZW9ZUWFSdGZVbi1uOTBRaGd4bXZqcFVsc1VLd2tqTWRVSWYzdjBiLU96N2ZrOF9ZWHQ1UXdTTHVaVEo1OTVMMTlzMWJyb3UyT0oxdHIzWVY1N1MxZEdiYTNsV3d4Z21FOUk2cGxvTC1UXzJEWXZnZjR5b3dzMEVnd2Z3Zmx3SXkwN2FvZ3g0N19yVkdiSmc1WTM3QTBnN1k?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-16T21:46:00.000Z",
+      "whyItMattersKo": "유망주들이 치르는 준결승 대진을 통해 클럽의 미래 전력을 확인할 수 있습니다.",
+      "fanTakeKo": "유망주들의 활약이 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -860,34 +892,6 @@
       "source": "band.com.br",
       "language": "pt",
       "publishedAt": "2026-07-16T19:51:20.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMiigJBVV95cUxOOU5qakk3SHNKT01fODdXVmpJMzlvTVFaekJZZTI4TC1EWVdSWmZMNW5xZj",
-      "title": "Empresa de funcionária de Textor notifica Botafogo e Palmeiras por parte do valor de eventual venda de Danilo - ge",
-      "summaryKo": "Textor 직원의 회사는 Botafogo와 Palmeiras에 Danilo - ge의 최종 판매 가치의 일부를 통지합니다.",
-      "excerpt": "Empresa de funcionária de Textor notifica Botafogo e Palmeiras por parte do valor de eventual venda de Danilo&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOU5qakk3SHNKT01fODdXVmpJMzlvTVFaekJZZTI4TC1EWVdSWmZMNW5xZjUtQ2xqNE5LV0FReFBOMjZlVGt6V2Q3SUlINGlOdEVaSExrX09OdldqYl9MclNFQWt2VWVMSm0wVUtFU3B5c2lnMWhkS1VFQjg5ZG5rSmFqaU5XOXB4QnFFRHJLa0x5OVZmU2pWakpKZzJjNllDejdaVVdMSDRvSFdWWW1CSlhEQlBoVkxGbmlrSTg3S2l0ZnhlS1pBbjFtODQwTEppanR0YjU5ZVpsc2ZuX01wOTA4Tlhta29qRnBJbzNMTTVnd0lPaFRES3R1SnZXZWhhc0tEZ085NGo4UdIBmAJBVV95cUxNSnFrTGhiUTAzei1IbXdPemJiMGhIMGx2a1p2UDNyZmxuVU1MN3dwbUhzRi1VQ3l6SVhFYlNDOEhWTXgwQnhoZUFFT21Wb0ZmQm02OE9qVGt3YWhIX1l5dVlDejRTaF9sZHBiWGRPVnlveWV0SHAxNy1ldTBJUUtuekIxdDAxQXk1clVXc1U1WDRUUkZfay1pd05xZE1MalRQMHBtSlV5QmRDX3I3UVRzRV9raWxWRThmOGtKano1TGppUVdjX0dONFhoSmxNMmVDMnVxeFVwWEZ2V0xFYUNwNXdwM0NtM1dNcmI4cTllU1VwZEdKbVJsUkFBU1RHaUptNjU3UzZvVE5Wc2l2R0htbC1nTERaQ1py?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:22:36.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2JRY3BmSFBPNnZiNnRBeFJVNV9ydUFuejRFeUNpdkVOUkREUkZsVHhnMm1",
-      "title": "Leila celebra Flaco na final da Copa: \"Comprova o trabalho de excelência\" - CNN Brasil",
-      "summaryKo": "레일라, 월드컵 결승전에서 플라코를 축하하다: \"탁월한 성과를 증명합니다\" - CNN Brasil",
-      "excerpt": "Leila celebra Flaco na final da Copa: \"Comprova o trabalho de excelência\"&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2JRY3BmSFBPNnZiNnRBeFJVNV9ydUFuejRFeUNpdkVOUkREUkZsVHhnMm1DSkVyLVBudkxFOXZGTFRXRWduZnVyM0Q1cXBuSWxmam9jOTVvY3BKUEN5SVF0NFF6U3NnYlZuWG1GMi11OVhpQllfRWZHeldhek5OamNQRmRhVl9YUFhBVzNXbUpsVGFWUnlFT0otR3hRdHpGaFdyT3NvZTMzZktDdWY1RzdGTU5rZFRRSnlEa1JWYmt0SFBQenNnOWF4VQ?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:02:46.000Z",
       "tags": [
         "뉴스",
         "자동번역"
