@@ -1,8 +1,100 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T22:22:12.806Z",
+  "fetchedAt": "2026-07-17T23:24:39.903Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjkzUzBJQmxWMDlCU25YalFPYTFqQU9zVGxzek41dmpiNlRQckg5WWVMUVB",
+      "title": "CBF divulga tabela detalhada das semifinais do Brasileirão Sub-20 A - CBF",
+      "summaryKo": "브라질레이렁 U-20 준결승 일정 확정",
+      "excerpt": "CBF divulga tabela detalhada das semifinais do Brasileirão Sub-20 A&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjkzUzBJQmxWMDlCU25YalFPYTFqQU9zVGxzek41dmpiNlRQckg5WWVMUVBrWXFaY2RReW9KU3hxb3RKVm1GbnhsUG1Rb0x5WTRnY29wcG13bko1X1o4ZzVCQU55Q21WNlZpSDdPZV80YmNnNnBjU1JHUGVlWEMwTXhDMmhhSXpEQ3EyQ2d1bFgtS2g3X1FNX3JtT0sweWhBZzBDQ2FPdXRTdl8zYV9LeWVHRE85YVRCZTVXaVhEOUo5dzJ0OFFpVUFxUTNiOG1FVXRGN241SDBkakw4cXdpZEZR?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-17T23:17:00.000Z",
+      "whyItMattersKo": "유망주들의 성장을 확인하고 미래 전력을 점칠 수 있는 중요한 경기 일정입니다.",
+      "fanTakeKo": "미래의 우리 선수들 응원할게요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiXkFVX3lxTFBad1RsTWUwRkRxclgyOUZpVkY3Q1JvMWx4ckExb0l1d3h2dWFvZjRVQlRJNDV",
+      "title": "Palmeiras homenageia Abel Ferreira com espaço no museu do clube - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 아벨 페헤이라 구단 박물관에 전시",
+      "excerpt": "Palmeiras homenageia Abel Ferreira com espaço no museu do clube&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBad1RsTWUwRkRxclgyOUZpVkY3Q1JvMWx4ckExb0l1d3h2dWFvZjRVQlRJNDVZOFJXZUs5R1FTQV9IX2puZUlFYWNrQ19iV2x3X2VqSFZmc0NqdlA0REE?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-17T23:16:19.000Z",
+      "whyItMattersKo": "감독의 구단 역사적 업적을 기려 선수단과 팬들의 결속력을 높이는 행사입니다.",
+      "fanTakeKo": "영원한 우리 감독님, 축하합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTdncTZpamhnVDlvVnZQZjhfQzZwWjFUT1ZWbDlMcFZIZEpIVHpqaFR0MjF",
+      "title": "Palmeiras homenageia Abel na Sala de Troféus - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 아벨 페헤이라 트로피룸에서 기려",
+      "excerpt": "Palmeiras homenageia Abel na Sala de Troféus&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTdncTZpamhnVDlvVnZQZjhfQzZwWjFUT1ZWbDlMcFZIZEpIVHpqaFR0MjFvUHZ5MzVrOVZjbUs4ZW5qdGtSV1VWLVk0aWhOV2Q1WElGMUpwYkNnXzZJeXNyNEU4aTJxSm5LYzN0THNONFA5WFVkRGtEQjQzalZhb1dUcjFfVkRfV25oV050WTk2UlBUekE?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-17T23:12:30.000Z",
+      "whyItMattersKo": "감독의 공로를 트로피룸에 기록하여 구단의 자부심과 역사를 더욱 강조했습니다.",
+      "fanTakeKo": "트로피룸에 이름 남으셨네, 자랑스럽다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3pGZnpSU1RPVDR4RXlKVHpmWmxNUXBULTAtRW9SaE5JWFczM2IyTFE3VWR",
+      "title": "Veja fotos da homenagem do Palmeiras ao técnico Abel Ferreira na Sala de Troféus - Gazeta Esportiva",
+      "summaryKo": "아벨 페헤이라 트로피룸 기념식 공개 사진",
+      "excerpt": "Veja fotos da homenagem do Palmeiras ao técnico Abel Ferreira na Sala de Troféus&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3pGZnpSU1RPVDR4RXlKVHpmWmxNUXBULTAtRW9SaE5JWFczM2IyTFE3VWRKQXRKSldHbVNKTVcxNFlSSWtHU084b3ZqVzNtQndqc1BDUVNwZ1MwSENsVmZCekt6Mm5JblRfM3JsUTBCNktKMW13UEhGTDdMY0JieHViRjF3RDRuM2ZScFFqbnlaVERsUzNRcEowRkxTOVRPMkZIVURsVDI2ektMU1VURnFWaW9kbTVobzJUNkJoMmh1aWFNYkc0atIBzgFBVV95cUxNOV93Mk9FaGxCNDEzenBITEJqMFM0M3RuX3JuOHRmUUZBOEw0dGVXTDVrc3RXVEFJanRZM21sTHJZOE1zMVhQcXMxNW9QNDhQUk1kU0NTTlc0d2RMVnRIaElCZ3BKd29VVnEyc2ZUcTZPd2ZfYXU1dWJFTkxRcjRHeTAzS3ZkYXlzR0dWeHVJWjJLNnZpYmsyRERLbUVQNUVRQTVLWS0zay1nVVlLZ1I0d01UU1BZTDFKUmtJcFRfTFY2OFR0bDFydjR3alJidw?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-17T22:41:00.000Z",
+      "whyItMattersKo": "감독을 향한 구단의 애정을 시각적으로 확인할 수 있는 뜻깊은 사진 자료입니다.",
+      "fanTakeKo": "사진 속 감독님 표정이 좋아 보이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDBZSnpnVjdtZF9CWUNPMWZfVmNCVEZ3amxqbHpOaU5qWURqanBTbjkwOWx",
+      "title": "Leila reforça interesse em Danilo e quer Gustavo Gómez por 'longo período' no Palmeiras - Terra",
+      "summaryKo": "Leila는 Danilo에 대한 관심을 강화하고 Gustavo Gómez를 Palmeiras - Terra에서 '장기적' 으로 원합니다.",
+      "excerpt": "Leila reforça interesse em Danilo e quer Gustavo Gómez por 'longo período' no Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDBZSnpnVjdtZF9CWUNPMWZfVmNCVEZ3amxqbHpOaU5qWURqanBTbjkwOWx2ekp4Qjl4UlZDN1UyNS1tSDJEUkJHOFY5MjhsLU5nNnpkLWdGRmFuVEJIV0NZMVNZcnNreTFfZjdGb08wbktvMEI4Rmluc2hRTTNuWmJRVkJhS2puZDdXMnE2c3hmLWx0c2VrWEc2SW5PNnpyd1hLMEVMU1dXTmIzSnREMEk2SHJvdVZuMmNkcENxYlNTZFRPZ0xNanVTVXN6WTEyakJWRWN3Z2lUb0dUeUVqYU82Z05ySC16QWNyLVRjYXhmejFfTGlKQWl0TTVtWUJ0dklv?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-17T22:33:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9PNU9WU3FVRldqeUdiTGNheGhuX1Zxc2xTX1NYSFFaMm9MRlU2aG02aGN",
+      "title": "Homenageado, Abel exalta Leila e revela sonho no Palmeiras: “Voltar a ganhar a Libertadores” - Gazeta Esportiva",
+      "summaryKo": "영광스럽게도 Abel은 Leila를 높이고 Palmeiras에서 자신의 꿈을 밝힙니다. “Libertadores에서 다시 우승하기 위해” - Gazeta Esportiva",
+      "excerpt": "Homenageado, Abel exalta Leila e revela sonho no Palmeiras: “Voltar a ganhar a Libertadores”&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9PNU9WU3FVRldqeUdiTGNheGhuX1Zxc2xTX1NYSFFaMm9MRlU2aG02aGNEaHFPajhPTTM5YzQ1dmNveGVEazlWb0h0ZlB5Qkp3dFpreDFpMGNsUFFvanlsS3ZubFp0Rm1ScHZGQlBYazBCNk9kT2NqQ0FRaTNkZmpYUjlfWmpQWGfSAY8BQVVfeXFMTWExemk1NjFvbkxrLW90RnBfTHNleUl2R0phWDJmbFhKczdDWF9YNWNldDB0ZjdZLUlFbnJ4TnN4ZEVnQTZxZkxEaG1aMm00TGV6S2gtRWhjNWhWLXB2U3ZBZEhvVUI3RnJxNkx2a0F1S2tNY3dTekdDV0Z6QldZNm5mTDdORk5vX1dleHpuT2c?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-17T22:32:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxOdkRBZFBKU05Bckk4TDB5QTI3YkxEWEVlYW1uS0RveWRFZ0EyMi1qQV90VVd",
       "title": "Palmeiras mantém ritmo intenso de treino com foco na Libertadores - ABC Repórter",
@@ -848,102 +940,6 @@
       "publishedAt": "2026-07-17T10:40:00.000Z",
       "whyItMattersKo": "라이벌 구단 임원의 감독 도발은 두 팀 간 긴장감을 더욱 고조시킬 수 있습니다.",
       "fanTakeKo": "감독 응원하는 마음만 뜨겁네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2doTjV2NHpNY2lSaFhhR1hpam9hTzR4WjExUHpETHJmWFgtY0k5U1dZT2Z",
-      "title": "Desfalques de Allan e Paulinho preocupam Palmeiras para o retorno do Brasileirão - Fato Paulista",
-      "summaryKo": "알란과 파울리뉴 부상, 복귀전 우려",
-      "excerpt": "Desfalques de Allan e Paulinho preocupam Palmeiras para o retorno do Brasileirão&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2doTjV2NHpNY2lSaFhhR1hpam9hTzR4WjExUHpETHJmWFgtY0k5U1dZT2ZvTW1UT2QtelBCQ1pubjRzWFJCR2RaaVdCZXFfR2o4dmZsOXRiWjcyTHBoR2tRa09yY2RmUk5pYUZTX3p6UUJVejBPRjEwSE9RRHJ0VS1R?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-17T09:18:44.000Z",
-      "whyItMattersKo": "주전 선수들의 결석은 리그 재개 후 팀 전력과 성적에 큰 변수가 될 수 있습니다.",
-      "fanTakeKo": "빨리 쾌차해서 돌아오길 바랍니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTFg3ekV0T21USFBNWmFreTNCWWw1VVZIYkNTckxnVEJKTklMbUU2RV94ZHR",
-      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
-      "summaryKo": "파우메이라스, 플라코 휴가 계획 짜는 중",
-      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTFg3ekV0T21USFBNWmFreTNCWWw1VVZIYkNTckxnVEJKTklMbUU2RV94ZHR2UGVkc09HY0hBcXdIZ09tVWVObW1iZnVGR0xKSkw1dGlhdXFBSGlxUzJnNjVuNkxIcjAxczZwb2wxX0lQaDl3SXQ3Z2RxUHVhd3VoR2d2WXhMMTZ6SG9yNy1uRVZtMTB6YjZXYnFrNDE4ZFpCTllDbWVxWlF6a1RlWnNNOER6bVZsZXNuTHBTRW00NU5WRUN4WDJ0d0JyU3JxMGJ4eDJrSUY1LUY0ck85X21IeEVBQlFuUk0?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T08:33:20.000Z",
-      "whyItMattersKo": "국가대표 경기가 적었어도 선수 관리 위해 휴식을 줍니다.",
-      "fanTakeKo": "플라코 쉬고 와서 시즌 후반부 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmxDQ2hHbjFLd0ZFVTJlTUMtdzN3MDZ1Q21DYXhoZF81ZncwZzAxTkZEUDh",
-      "title": "Palmeiras: joia que marcou do meio-campo já foi herói de título do Flamengo - UOL",
-      "summaryKo": "파우메이라스 보석, 미드필더 골의 주인공",
-      "excerpt": "Palmeiras: joia que marcou do meio-campo já foi herói de título do Flamengo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmxDQ2hHbjFLd0ZFVTJlTUMtdzN3MDZ1Q21DYXhoZF81ZncwZzAxTkZEUDhmLVA1T2RTYmJqb3k2N1RMX2N3cDh1ZldiYjFyU2Q3VFp1UGNNUXlnaTNTOW85VzJob25veDFvOFdFSG5sREFsR21DMWI5OXdqZlF0c0x1UWJPNHlNZGdnaEd6b002dnJ3bnNmTlhUcUdrcTloRU1VYmZ2bC1rU2c2TDFmV2hnR0YydHpNcTlLaWltbld4Ml9ZUF9DZTRVT0RsS0h6Q1VOOFFBLWd5bGFuMld2MHBDa1ZpQ3M?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T08:33:16.000Z",
-      "whyItMattersKo": "플라멩구 우승 경험이 있는 선수라 팀에 큰 힘이 됩니다.",
-      "fanTakeKo": "우승 경험 있는 선수라 믿음이 가네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXBlN3JpMGgzWG5KbHV2a1JSSlhWNGpWNi1vS0I4S3ZBRnNkaF9jNDVCR2Z",
-      "title": "Palmeiras: joia que marcou do meio-campo já foi herói de título do Flamengo - UOL",
-      "summaryKo": "플라멩구 영웅이었던 미드필더 신동",
-      "excerpt": "Palmeiras: joia que marcou do meio-campo já foi herói de título do Flamengo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXBlN3JpMGgzWG5KbHV2a1JSSlhWNGpWNi1vS0I4S3ZBRnNkaF9jNDVCR2ZjazZXZy1NYVFCTExkNERra3JmWExRVUdTaVBBRkROcVo1SmNidVo2a0pzLVI4WXhnbUJVb0l1cElSdmdSMW5UWWN6eV9uVGZ5aE5kbTR6eUl6RDlvb3NjVjBZdktxUGwxZHdId1hPS01ZUjVBOXdqRHo5MjUzb0hHUk12Tl81MFhjY25Hb0ZtTDZvWFBaWUlseDNVUzZueG1UcGVWOWd4cWtLWDhWN1NSeHhLYTJkcl9oNHk0eFRJUlctbFAza3p0cGJLU0xRRGVNWG1VNTBIVVJMUG1kaHZjVzVSX3lyazZIeEU?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T08:33:10.000Z",
-      "whyItMattersKo": "라이벌 팀 영웅 출신 선수의 이력은 팀 전력 보강 가능성과 팬들의 기대를 높입니다.",
-      "fanTakeKo": "과거 이력이 화려하네, 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0x",
-      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
-      "summaryKo": "파우메이라스, 플라코 휴식 준비 중",
-      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0xvZjJWMmRPVjhnMzJJTTFkYXkzQm9sWGN5VkFva3k0aXVWNlN4S0VHMW9aOVJaNUJtcmhrUkI5bFM1VUhZVGljenRjZGpYbU1TeTR1cmJvWmNVNUdaVEpodk1lS2luN0RoWlBUMmg1TzFkSG5wS0N4OE5PUmJDMUtYUWdsZ1hFd2JvU2x1Vk5HaTVQem5UQzkwaWtLcVhka3VHZXpFVFk0T190cUtGV00?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T08:30:00.000Z",
-      "whyItMattersKo": "국대 대회 출전 시간이 적었어도 선수 컨디션 회복을 위해 휴식을 준비했습니다.",
-      "fanTakeKo": "쉬고 와서 시즌 후반부 폭발하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMinwJBVV95cUxQX253cnd5R0xyRlR6LXNoSk05ZTRoMndjdTlfMkVRVDNPMHNEYTB3TzQ0N2Z",
-      "title": "Corinthians x Ferroviária no Paulista Feminino: onde assistir ao vivo e horário - ge",
-      "summaryKo": "코린치안스 여자부, 페로비아리아전 중계",
-      "excerpt": "Corinthians x Ferroviária no Paulista Feminino: onde assistir ao vivo e horário&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX253cnd5R0xyRlR6LXNoSk05ZTRoMndjdTlfMkVRVDNPMHNEYTB3TzQ0N2ZsZ2N6c2NTWkhjdkhjNzNZQUFhcGdpTlVTUG1PbVBTNW9Yb285RS1JeFZOSnNmRWNvam9LRXdpNDR6eTktMDlZZXZOakUwc1JjZmJUMDB0LVVSNENrQTVXSE1rZlZVTzVlTTRRdE9vdDExYUxZcGRDdmFOenhuRWdJcjNEaDh0cnVNQ2xhcWdBQTNwSGhxaVA5dEgyNXFMY3pqWmFMMTJNNUlGR2VkNlAyMy15bTdiVjl2Z0JRVG9OUS1HSHRiTTRDLWkwNm1fblUyLW9JR1lJZEl3ck00Rnh6Tm1GejNNUjBKOGo4bFpPTXpxb9IBrgJBVV95cUxONDV0UjhScjd1MzFVWWZkcE0ycEoyU0RMRnFGNThKdmpFSlRISHo0WHdjRWp0MUZkYUllVFFyaExTSXJZT0pxQXBCbVhsekRlWGN2N3htckRUYUgzYWc1YUZsYjZYbHZvY3hQMzJqQXFMWjlQajFZaWNWeWRCSDVTRWg4LXBneHgxNHE2dWpoRUZBUElqQUpaNTlrZXFoenBiekIxNFNTWDF0TTFHUVp3NkYySzBmSFZwWV8zaGdMR2M3dDBQUlA1YUwxY25ZWXRvXzZzNElKNUd6V2xDcDU5T0RCN2hDTWtkT2tCdDRHbDJ5V0gzSDFmVVZVeG5STkFEelpKT21maHRpRllsQnFvUnlxX3JldXQ0SWE5bGZsQWlVa2hqMHZZbDNLRmRXdw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-17T07:01:43.000Z",
-      "whyItMattersKo": "팬들이 경기 일정을 확인하고 선수들을 응원할 수 있습니다.",
-      "fanTakeKo": "여자부 경기도 많은 관심 부탁해요!",
       "tags": [
         "뉴스",
         "AI요약"
