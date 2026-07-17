@@ -1,8 +1,108 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T12:10:19.076Z",
+  "fetchedAt": "2026-07-17T14:12:23.755Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmJsN0tKV3NScTQ0WVRhbUx1WnRvREdxb1c3NXlGckE0Ny1iU0NsRThjY25",
+      "title": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras - Terra",
+      "summaryKo": "바르보자는 우루과이를 선택하고 파우메이라스 - 테라에 도착한 후 소환을 목표로 합니다.",
+      "excerpt": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmJsN0tKV3NScTQ0WVRhbUx1WnRvREdxb1c3NXlGckE0Ny1iU0NsRThjY25WdUdBQWpDUGFOd0poZXY2b205anY4WDhUbDVmTUNlQTNMYnJ2NGdablpQSV83bk1GM2hOMDRvaXV6UHhhTmdkQUk3OC1mTEdKM2RfOUZDOXlBYV9YUkI0Z3phdWNCSE5XSWxPeWM0Mkx4T3hyY29YYnpwSGlVMWtBVzRnTm8xNDdKNHdjaGRIUzdOUG5Jdjc1a09Yc3pNU1cyUHlHYnI4enlWeFd2bkJqTHFBT3hqSi04bV9RQmNIcm1UYURsUQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-17T13:28:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkpSQXBjQXV1cmhCUlp2QlpEaHl0c0hGNTVTNHFydE9XRXVpanZrR3I2Q00",
+      "title": "Do Flamengo ao Palmeiras: joia dispensada por indisciplina brilha contra o Corinthians - LANCE!",
+      "summaryKo": "플라멩고에서 파우메이라스까지: 고린도 교도에 대한 무분별한 반짝임으로 인해 해고된 보석 - 입찰!",
+      "excerpt": "Do Flamengo ao Palmeiras: joia dispensada por indisciplina brilha contra o Corinthians&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkpSQXBjQXV1cmhCUlp2QlpEaHl0c0hGNTVTNHFydE9XRXVpanZrR3I2Q000NUdGR0JRQ1p3ODY3VjVXZlkyTGhvaVk0QzVlNEVldWJfLWVLcmhROE12dTFSUTB6U3ItNWhaQXRlc3d5SFhzaUZzZEpaSzU4U2hlNTNRbHpVVFBlTEprY2RMZGpYaGVxMnl1b2pMYlFjSHdDY0RPY3c3MEdRZUR2RzVsYzB6VWtfZktVX2pFa2txRVg3Z3c?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-17T13:16:17.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFZpaGJiZ243WFRIZFhPd2tpX0E2N2dkTzltOF9iVlVxdHA5ZUwtYzA5Szl",
+      "title": "Técnicos da base têm palestra com Abel Ferreira na Academia de Futebol - palmeiras.com.br",
+      "summaryKo": "베이스 코치는 풋볼 아카데미에서 Abel Ferreira와 함께 강의합니다 - palmeiras.com.br",
+      "excerpt": "Técnicos da base têm palestra com Abel Ferreira na Academia de Futebol&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFZpaGJiZ243WFRIZFhPd2tpX0E2N2dkTzltOF9iVlVxdHA5ZUwtYzA5SzliSjc2aHpHdGIwSHJVeGh0YWx6ZzFLYkc5OXBtY0ZSNmlfUXFJTjBLdGFCbWhmWFRHUWVmOFZSZWZmc1FwbURhWGw5OGYwN0FhQTc4bThicUtYOUhkSXRTeUdHSW8waUhpMzdmVm04b2p4Zzg4QmVSX1ljdWVIWHo4blE?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:57:44.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlJSZTI0V09GaGFjY2dKdnlZaW03RGh5clI2VXZfelUzN1YzNXlyZ09YYWh",
+      "title": "Contratação abre espaço para mudanças de Abel no Palmeiras - LANCE!",
+      "summaryKo": "채용은 Palmeiras에서 Abel의 변화를 위한 여지를 만듭니다 - 입찰!",
+      "excerpt": "Contratação abre espaço para mudanças de Abel no Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlJSZTI0V09GaGFjY2dKdnlZaW03RGh5clI2VXZfelUzN1YzNXlyZ09YYWh0RGhZVjZYOVVPUk9hMHFZaVBYN0w5bkVxdDdYV1VUWGdiaEkzTlNmVXl2YWZ5NnhfRHRmWWloRU1BX1dBSXhYMDVWWHpIcXV5a2tiYVhROGNRdWxnTEhfNDlLSXVQYkRLMzRzOGlKOHM0Umc?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:41:25.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlJVRldveWM4YWlSY3o0UDg4aTBqVWJvdmNMX1RONDRjcUVjMGQwWERsS1J",
+      "title": "Dirigente do Flamengo diz que Abel Ferreira deve a carreira ao Brasil - band.com.br",
+      "summaryKo": "Flamengo의 매니저는 Abel Ferreira가 브라질에서 경력을 쌓아야 한다고 말합니다 - band.com.br",
+      "excerpt": "Dirigente do Flamengo diz que Abel Ferreira deve a carreira ao Brasil&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlJVRldveWM4YWlSY3o0UDg4aTBqVWJvdmNMX1RONDRjcUVjMGQwWERsS1JpTm5yVEVfeE8wZFNpYTh1aHc5ZW9yLWgzQzIteWg4OGRNQmE1YzlQNWtFdEs0RG4xRTJwd09JcTNpcUViWkRiWGxQMHJEUmRHSnJBMF94WWpiWUtyYnluRF9hZHJwdE5jT1dOb1E2dS10NW9yRm9BZENXVnNJd3pVZTRJWUtPRXpnc2UzajZsM3ZNN3ZEZw?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:15:49.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0x",
+      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
+      "summaryKo": "파우메이라스, 플라코 휴식 준비 중",
+      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0xvZjJWMmRPVjhnMzJJTTFkYXkzQm9sWGN5VkFva3k0aXVWNlN4S0VHMW9aOVJaNUJtcmhrUkI5bFM1VUhZVGljenRjZGpYbU1TeTR1cmJvWmNVNUdaVEpodk1lS2luN0RoWlBUMmg1TzFkSG5wS0N4OE5PUmJDMUtYUWdsZ1hFd2JvU2x1Vk5HaTVQem5UQzkwaWtLcVhka3VHZXpFVFk0T190cUtGV00?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:11:11.000Z",
+      "whyItMattersKo": "국대 대회 출전 시간이 적었어도 선수 컨디션 회복을 위해 휴식을 준비했습니다.",
+      "fanTakeKo": "쉬고 와서 시즌 후반부 폭발하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeDFHNlpRNmduWXNpWF84TWxIZmJXMU1SbXNlRXdVZ2tHYUhzNVpGZjFsREd",
+      "title": "Abel Ferreira decide dar chances para atacante na mira do City; Corinthians pode vender volante para a Juventus - jornalcruzeiro.com.br",
+      "summaryKo": "아벨 페레이라 (Abel Ferreira) 는 도시의 십자선에서 스트라이커에게 기회를 주기로 결정했습니다. 고린도 인은 유벤투스에게 운전대를 팔 수 있습니다 - jornalcruzeiro.com.br",
+      "excerpt": "Abel Ferreira decide dar chances para atacante na mira do City; Corinthians pode vender volante para a Juventus&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeDFHNlpRNmduWXNpWF84TWxIZmJXMU1SbXNlRXdVZ2tHYUhzNVpGZjFsREdzT09aWGoyYjdqZFdraDRWNGp3NFoyRFBMeW1JQ2tRc09aZHZoTmNNUVNPLS1QUURseW1qQVpUVGN6cmZVRjluck5HcWJjMUZzUVNTb09wNE9FT19PeHpHNjNhNzZxemo1ZnZobzg3S0R4dzFXSGsyMkpLek9ieWNpeWlSRjllTDZXTU1fYjJqYVo2TEE2Ny1YZ3o4TERFMlJJOW9YWGZTZGF0NGtNYThWMFc5Snc1X3JHckVnSzF0eg?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2lzRHdDSmwzZG9HMWRJd2lZR1diT0NFR2dHZ1d0VWsyUllRNGc5WHFYaEp",
       "title": "Palmeiras prepara nova proposta por Danilo, volante do Botafogo - CNN Brasil",
@@ -46,22 +146,6 @@
       "publishedAt": "2026-07-17T10:40:00.000Z",
       "whyItMattersKo": "라이벌 구단 임원의 감독 도발은 두 팀 간 긴장감을 더욱 고조시킬 수 있습니다.",
       "fanTakeKo": "감독 응원하는 마음만 뜨겁네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0x",
-      "title": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa - UOL",
-      "summaryKo": "파우메이라스, 플라코 휴식 준비 중",
-      "excerpt": "Palmeiras planeja férias para Flaco mesmo com apenas 18 minutos na Copa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZyU3h2T1JQX2NGNnREbEVHM1pFejJZeFYyeldXSzBnREhrM3NDTTNWM0xvZjJWMmRPVjhnMzJJTTFkYXkzQm9sWGN5VkFva3k0aXVWNlN4S0VHMW9aOVJaNUJtcmhrUkI5bFM1VUhZVGljenRjZGpYbU1TeTR1cmJvWmNVNUdaVEpodk1lS2luN0RoWlBUMmg1TzFkSG5wS0N4OE5PUmJDMUtYUWdsZ1hFd2JvU2x1Vk5HaTVQem5UQzkwaWtLcVhka3VHZXpFVFk0T190cUtGV00?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T09:34:12.000Z",
-      "whyItMattersKo": "국대 대회 출전 시간이 적었어도 선수 컨디션 회복을 위해 휴식을 준비했습니다.",
-      "fanTakeKo": "쉬고 와서 시즌 후반부 폭발하길!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -808,90 +892,6 @@
       "source": "Tribuna de Jundiaí",
       "language": "pt",
       "publishedAt": "2026-07-16T20:01:34.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUW1uZjAydFBpMmRvZy1sdU5FYzlPQm5BNTJfWFBIZUlGTWpHUTFRakpzNm",
-      "title": "Atacante do Palmeiras faz golaço do meio-campo contra o Corinthians no Sub-20; assista - LANCE!",
-      "summaryKo": "파우메이라스 스트라이커가 20세 이하 코린치아인들을 상대로 미드필더 득점을 기록했습니다. 시청하세요 - 이동하세요!",
-      "excerpt": "Atacante do Palmeiras faz golaço do meio-campo contra o Corinthians no Sub-20; assista&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUW1uZjAydFBpMmRvZy1sdU5FYzlPQm5BNTJfWFBIZUlGTWpHUTFRakpzNmJLQmt6bHR5bUN2WE9yUXRfbDlmd244OW9nVDhNZnJ5M01XMEZ3ZUptc1RzajlxY3pMVlV1UEJISm9EdDFSVkFnQzJjMVU0R2xmV2Y4VG04OThMV2ZycFI2dkw1ZUFtSVJMWkNvWjhLU1B4MHQ3R0N1SjlDanliUmM4RG1aVUhCa0NEMWp0akZISEVMTzV3UUtRYTdJLQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:59:16.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFlyUzJ3RWRPUG50Vl80SzlNeW04R1JaY29IV1k5SVFlUVhnR2VldW04czh",
-      "title": "Abel Ferreira será homenageado pelo Palmeiras nesta sexta - tmc.com.br",
-      "summaryKo": "Abel Ferreira는 이번 금요일에 Palmeiras의 영예를 안을 것입니다 - tmc.com.br",
-      "excerpt": "Abel Ferreira será homenageado pelo Palmeiras nesta sexta&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFlyUzJ3RWRPUG50Vl80SzlNeW04R1JaY29IV1k5SVFlUVhnR2VldW04czhiTmo5T0VxcGFiaVhHWjhibUJQYmxXVW9JRVZwa0Zfa0pZaU5JUG5TbzZqcXE5bkVZSTRmU2xLWmY0OUFtd1NGVUpUeExWMWNBMnVXYmNrdzJqM0tiNEVFUERn?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:57:27.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbjlTMWxTVklJUUMtQlhIRHdWNloxelZpcGNPaFJTMzRiYk1JdzNyUFFSLT",
-      "title": "Barboza aparece no BID e já pode estrear pelo Palmeiras - Portal ABC do ABC",
-      "summaryKo": "Barboza는 IDB에 출연하며 이미 Palmeiras - ABC Portal에서 데뷔할 수 있습니다.",
-      "excerpt": "Barboza aparece no BID e já pode estrear pelo Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbjlTMWxTVklJUUMtQlhIRHdWNloxelZpcGNPaFJTMzRiYk1JdzNyUFFSLTNXRzVYV1FTYThTSERnV0hvcElVcDV0TGtRWWRMa1pSeUZSQ1ZldEE?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:57:23.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN1VDTWVVRlM4MEs5QWlIMGVYMld0cVlfbzU2bW1IYVU2ZzhPNGlxZHNoUmJ",
-      "title": "Barboza aparece no BID e já pode estrear pelo Palmeiras - Portal ABC do ABC",
-      "summaryKo": "Barboza는 IDB에 출연하며 이미 Palmeiras - ABC Portal에서 데뷔할 수 있습니다.",
-      "excerpt": "Barboza aparece no BID e já pode estrear pelo Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN1VDTWVVRlM4MEs5QWlIMGVYMld0cVlfbzU2bW1IYVU2ZzhPNGlxZHNoUmJFbmpaN05QUFFKMkNGN2lXLVVSeGVJUjJadEQyaU1WVTdtUFlUNTJYWG1VNw?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:57:23.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzdQMW1NbGlEa0lLa2Y1QXJZSHFiLTZ6ZFpSTVpjOTN6eWJTVDdrcFN3Umd",
-      "title": "VÍDEO: Palmeiras faz golaço do meio de campo contra o Corinthians no Sub-20 - CNN Brasil",
-      "summaryKo": "동영상: 파우메이라스가 U-20에서 코린치안스를 상대로 미드필드 골을 성공시키다 - CNN Brasil",
-      "excerpt": "VÍDEO: Palmeiras faz golaço do meio de campo contra o Corinthians no Sub-20&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzdQMW1NbGlEa0lLa2Y1QXJZSHFiLTZ6ZFpSTVpjOTN6eWJTVDdrcFN3UmdOaXZVRjh3TGhVVFlvYmtlVmNrY0hYTVNiZG1OLVViNXJldlN2elZ1RzlRUGRzaDE1bjNWamt3anhrLUZvdFh1R0s2M3NxbHdXUlFWNklXaTRHRUpkbXc4a1dDWXZvaWJrZFozUlVVcUJhX3dfNVN1QVU4VzZodEFZaVh2VVgzbnU5cmY2Qm1GMXY2R3ByblE?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:56:42.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkdVWmFEMU5NSi1CeXVWSUJ3SmpILXdZN01MbFZTQm0wR3RxWWJfaFR4cmx",
-      "title": "Barboza revela bastidores de conversa com Danilo no Palmeiras - band.com.br",
-      "summaryKo": "바르보자가 Palmeiras에서 Danilo와 나눈 비하인드 스토리를 공개합니다 - band.com.br",
-      "excerpt": "Barboza revela bastidores de conversa com Danilo no Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkdVWmFEMU5NSi1CeXVWSUJ3SmpILXdZN01MbFZTQm0wR3RxWWJfaFR4cmxHcU9NWWFvU21rMkxWODAxNVdDbGktUlViaFNtM3FKRWhyeHhQZ2dTTmJQaHlsY2FsNFQ2SDNDbGM4Y290WDhKWXVLZkhTaEJoX3BURXJfNWNmTW1keXlXOW9HQWQyOUJMcXE2RThLTGgyTXVNOGF2VC10NXhNdlp6ckd2MnJwZHJ2YUZuZGZ2VlF6NzhlV0dyUC1OeC1fQmkzU0NUOGVXOEh3?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-16T19:51:20.000Z",
       "tags": [
         "뉴스",
         "자동번역"
