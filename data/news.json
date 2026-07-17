@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-16T22:57:24.664Z",
+  "fetchedAt": "2026-07-17T00:04:17.014Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBWDgxRUNBZS1yV0tIMTFsWGpGU05zalFwTWFxcFRpcFhheEZxWVE0WXRQa3M",
+      "title": "🐷 Tigrinho jogou e o Barboza marcou! @dudacabreira traz detalhes do jogo-treino disputado pelo Palmeiras nesta quinta-feira (16). #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "훈련경기서 티그리뉴 플레이, 바르보자 골",
+      "excerpt": "🐷 Tigrinho jogou e o Barboza marcou! @dudacabreira traz detalhes do jogo-treino disputado pelo Palmeiras nesta quinta-feira (16). #palmeiras #palmeirasonline&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBWDgxRUNBZS1yV0tIMTFsWGpGU05zalFwTWFxcFRpcFhheEZxWVE0WXRQa3M4VUZxQWpCYllnUDBkTVF2V1NTWmx0bGRvd2g0YnJjd1pR?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-16T23:47:48.000Z",
+      "whyItMattersKo": "훈련경기에서 선수들의 활약은 팀 전력 점검과 전술 적용에 긍정적 신호입니다.",
+      "fanTakeKo": "훈련경기라도 득점하니 반갑네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQektJRUdWZ0JUbmVjU2h6VWNnY2RRRW81RUdGRkxPNVVlSHlRMXBNMWJqdmo",
+      "title": "Andreas Pereira poderá ser afetado por reforço desejado pelo Palmeiras - Terra",
+      "summaryKo": "안드레아스, 파우메이라스 영입설에 영향?",
+      "excerpt": "Andreas Pereira poderá ser afetado por reforço desejado pelo Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQektJRUdWZ0JUbmVjU2h6VWNnY2RRRW81RUdGRkxPNVVlSHlRMXBNMWJqdmo2RkVhdkRQc2FISDVEdnZEemZSQWtNSUhPWGhJamFubjR4ZUVDQVJjRkhBUDl1eXJsSWJ6WU9mN1VKWnBKS1NjdG1OQmZEQXdqRlJNS0NhcUg1bmxkNmtheTE0bEtMa1hzWS1NcXZPcWRyT181NnVXZ3Y0YVd6dmxtMjhKUnhNR0ZtQmdyaGFPVnRLeFE3WV94N05RbVJ4bXNKUXhQTGlndjRZTnNNMEk5ZkN3Qm85eDJscnBQNGtWd0VjcVRyQQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-16T23:12:00.000Z",
+      "whyItMattersKo": "새 선수 영입이 성사되면 미드필더 안드레아스의 출전 시간과 역할이 줄어들 수 있습니다.",
+      "fanTakeKo": "경쟁은 치열하니 더 분발해야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZlRTd1dtTk5Mam1KTkxaelBWWUtXWS0xWVlxUVJ6eXlySlBQQVFhT0dxRW9",
+      "title": "Barboza sobre acerto com o Palmeiras: ‘Botafogo precisava do dinheiro’ - No Ataque",
+      "summaryKo": "바르보자 “보타포구, 돈 필요해서 이적”",
+      "excerpt": "Barboza sobre acerto com o Palmeiras: ‘Botafogo precisava do dinheiro’&nbsp;&nbsp;No Ataque",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZlRTd1dtTk5Mam1KTkxaelBWWUtXWS0xWVlxUVJ6eXlySlBQQVFhT0dxRW9Fcmlrd05ocUpEUkVIME9oclZlM1pzVFBLRjQ4X09DUktVQXM0VTBNRGRNVER3V0xncjJ0S1B0dEVfMFNvWG5XZ08wQkVrX1d5TlpyQXVER1R6VjIxMTJ5WnhkMDNYZEZRYkRJeDkxbnh5WVoxR09PZDl0SmUzMmxjQ21lcHdhdEJvc0Jsd1VjaUllU3phMFVNTWhYcUpGMW5kaDhnMExZZHZiTHgzYXh2TVJ2d2lsWGJGMTkzdmc?oc=5",
+      "source": "No Ataque",
+      "language": "pt",
+      "publishedAt": "2026-07-16T23:02:27.000Z",
+      "whyItMattersKo": "이적 과정에서 상대팀의 재정적 사정이 크게 작용했다는 점이 확인되었습니다.",
+      "fanTakeKo": "어쨌든 우리 팀에 왔으니 환영!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMitwFBVV95cUxPSy01Q0U2bUdHY200dHIwZ0R2UkxZMzV1ZUtsNG9UbVVBc2laRG1ZYjJpWDJ",
+      "title": "Palmeiras intensifica preparação para retomada do Brasileirão e mira sequência decisiva - boca.com.br",
+      "summaryKo": "파우메이라스, 리그 재개 앞두고 훈련 강화",
+      "excerpt": "Palmeiras intensifica preparação para retomada do Brasileirão e mira sequência decisiva&nbsp;&nbsp;boca.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSy01Q0U2bUdHY200dHIwZ0R2UkxZMzV1ZUtsNG9UbVVBc2laRG1ZYjJpWDJ3Q1VvT2kwdU5BZW40endaMG9HZk9JdnFkblkwdUE1R2VKOU5DMjNfeGJ5SFhvWC1NNUo3b3hrWmh3a2N4RzFpS08xTTRyRm90Z0hqYnkwRG5HRktOZzhwS2hZSEI2YVFnZG9ZRTJyN2pVZGZzdTZPREFRcGc5S2R6RnNuNFhDV3duLTA?oc=5",
+      "source": "boca.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-16T22:57:17.000Z",
+      "whyItMattersKo": "리그 재개 후 중요한 일정을 앞두고 훈련 강도를 높여 순위 경쟁에 대비하고 있습니다.",
+      "fanTakeKo": "휴식 후 페이스 찾는 게 중요하겠죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlNudXRmM1FURFpQUFRVMDBTMGRxWDRFRDNvN0h3SFo2cnktLU93NktnYm5",
       "title": "Palmeiras supera Corinthians e avança à semifinal do Brasileirão Sub-20 - Olimpíada Todo Dia",
@@ -15,6 +79,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaTU2RVhkNmlYbWNadktVVjVEU0ltS0t1aHN0SWdyVHBWZFQxdnVSNzZzaWl",
+      "title": "Corinthians estende invencibilidade diante do Palmeiras após vitória no Paulistão Feminino Sub-20 - meutimao.com.br",
+      "summaryKo": "코린치안스, U-20 여자 대회서 파우메이라스 격파",
+      "excerpt": "Corinthians estende invencibilidade diante do Palmeiras após vitória no Paulistão Feminino Sub-20&nbsp;&nbsp;meutimao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaTU2RVhkNmlYbWNadktVVjVEU0ltS0t1aHN0SWdyVHBWZFQxdnVSNzZzaWl2RVI5YkRHd0VrbVhwRXYtQVdGYUpKS1NJNE44alNJQ2tWYTJwX1dma0dVem91cUNvWWpHMFpZV05xZVFQWS14U3lCZld1OFUyMGlUVnN5amNNaUhhdk0zQ3JsT3dHS1JPdmZSdWNnU2dQMjNQYVVCelBFUU01a1Jvdi1iUkc4WXVxVXBvLUNYd0M0QnF2aEZjdjJYUWJfY1hMTXhxR18yRzFXeDgtOVREVHRsckZkSmo5VGJhLVNRUNIB3AFBVV95cUxNTzl1cW11M3lEQUYtMWJfMVlOTXJrRTZzeEl4M0xUR0dZNW5ibTA0aUpJQi1PdjZHVVNOOWRFd0ZudWlYM1d5MmM4dXRYNW5TRkZJejlFbk53WGljQlFDLW9VMU5WeGlVWlE2VzlBMnNiZGVFd1dVN2lxTzJDWmRpby0xekwxU0U3a3ZlOGdHZ2JLRndmRlhuOVBlYmxpSkVLVUhPOVB0czVOR2NENXhtUGRVdHZlbG1OSGRzUHNXSy1adk95UE9FZTNrRzVjY1RJUGRYTy14OHY0Q3Nq?oc=5",
+      "source": "meutimao.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-16T22:30:00.000Z",
+      "whyItMattersKo": "1군 경기는 아니지만, U-20 여자팀이 라이벌에게 패하며 미래 전력 점검이 필요해 보입니다.",
+      "fanTakeKo": "U-20라지만 라이벌에게 지니 너무 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -797,84 +877,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXFHOEpfWFFOS0ZLLUlDaDlMVVEydFRUMEY1SFJoN1pmaHU2TjFVN2tKQy1",
-      "title": "Barboza detalha posição do Botafogo em negociação com o Palmeiras: 'Queria vender' - LANCE!",
-      "summaryKo": "바르보자, 보타포구가 팔려고 했다고 밝혀",
-      "excerpt": "Barboza detalha posição do Botafogo em negociação com o Palmeiras: 'Queria vender'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXFHOEpfWFFOS0ZLLUlDaDlMVVEydFRUMEY1SFJoN1pmaHU2TjFVN2tKQy1wUTNrYlJQcUwtaDdtMmtkS1k4ZEhmOTNpRzI0U2RLOFdBcUxsQkFXSEVJeDdtRVZsbGQ1OTlqXy12VklEb0dNU0hBQl9NZ0d3akc1NjYwMWFzTmxfdWs2SDFjYkJhU2NSTS1TNHM4eFotSkRnT2l2dHFUQ0ZCTXBFLVJGejgza0NrYm5zUXpN?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-16T16:44:00.000Z",
-      "whyItMattersKo": "이적 과정에서 구단의 적극적인 의지를 확인해 영입 배경을 알 수 있습니다.",
-      "fanTakeKo": "영입 과정이 순탄치 않았군요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHFVTjE1ejcwdUxRTXVoUTNwUndfWFczTmpqYmpOcnl1NWwyWlY5WTFfVG",
-      "title": "Barboza abre o jogo sobre troca do Botafogo pelo Palmeiras: 'Queriam me vender' - Rádio Itatiaia",
-      "summaryKo": "바르보자, 보타포구 이적 당시 상황 언급",
-      "excerpt": "Barboza abre o jogo sobre troca do Botafogo pelo Palmeiras: 'Queriam me vender'&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHFVTjE1ejcwdUxRTXVoUTNwUndfWFczTmpqYmpOcnl1NWwyWlY5WTFfVGxnRjQ4U1MtV1hqbEhmeThYV0xWbVlVaExHUlNmUFdKU1RfZ2MwWW9TekhWNHZxNTdfdGg4bW04X0VYZTVMYkpkWjZQemZEdzRnWnpYbURPOGhUYWxIR1VhNXJOTVJIVGxvYWZrc0szRnV2TG9CSmswNTRCeHJrbDQ4S3JWaEw1WE1mMURDMnJUa05QYnhwMTluX0tvREs3b1pmMzhFQkZFTnpOdko3eXQyeHM3bHZ2a1VORzFfdWpVcE4ydEhzTkwyWm1XUk1R?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-16T16:43:37.000Z",
-      "whyItMattersKo": "선수 본인의 증언을 통해 이적 과정에서의 갈등이나 상황을 파악할 수 있습니다.",
-      "fanTakeKo": "그래도 우리 팀으로 와서 다행이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi-AFBVV95cUxObk1USzlxcHpDQ2tDX0I3enNyUlAxU1ZGQURBMUNmMzRCeERFdDJDVi00Rn",
-      "title": "Barboza recusa repetir número do Botafogo e fala sobre Danilo no Palmeiras: \"Brinco com ele para vir\" - ge",
-      "summaryKo": "바르보자, 옛 등번호 안 쓰고 다닐로 언급",
-      "excerpt": "Barboza recusa repetir número do Botafogo e fala sobre Danilo no Palmeiras: \"Brinco com ele para vir\"&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObk1USzlxcHpDQ2tDX0I3enNyUlAxU1ZGQURBMUNmMzRCeERFdDJDVi00RnhtWjl2d0JPbFFmX3ByV0gwYUtUWTZEZk1GWnNnM1FRdncxSVc4akhWSFN4UHZ6RWppMzJwcHJIa1JGSzR2RmZGdE0xUmlvZ01nN09LRUp5dHpYNjRoR0UzMU9Ha2FPdmx4Q1ZJLUtuNXVrV0NoSTk0WWdXRDFOUjRnWU1rUTRHOHE1a3lWMS1wWjZzX2pyTmJ5bjE2OWVvQy1HcHE2eGlYZTItbWw4SnAtSFd4aFA0cmNoRmlvSzlTN0VTZGNUX1BWa1FERtIBhwJBVV95cUxPYUVBeXFmR1NSXzNoY01UTFU2aDYzVGYwenhUWFFRUG1vd0xVd29ISjI3SXBjT3NNWE1RYURaQW1CQWl4QUdnalZlbHlSS21tMUhQUHViRmNUaEVtRWxJZm1paE1kd1BFUHRDVjh6bm5iS1F3VXEwanBrek45MzZNbUlkbXR0enBSbktFbndXbkd0WlhuOGpJREhFSE0yYzhxb3M4NkpwZUZNbVJ4X2lmNXdlSVBxNU9yWmFEcUcxOWdsdTVyQXdISF9ZV3lRTk5QV2NNd1BhazdDdzE3WVBpZld6U0ZCbXZNc0pjMkNRdTZHeEIzVjYtN1Zha1kzdGNidU5scGxGQQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-16T16:33:36.000Z",
-      "whyItMattersKo": "새 팀에서의 적응 의지를 보이며 기존 선수들과의 관계 형성에 관심이 모입니다.",
-      "fanTakeKo": "새 등번호, 새 출발 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFRQajdCRk5Mb01Xb1c0NHZxWE94UUlkX2xKbTBvS2lYajlHVXFQWGxtNC",
-      "title": "Palmeiras empata jogo-treino com o União São João com gol de Barboza - Jogada 10",
-      "summaryKo": "파우메이라스, 연습전 무승부·바르보자 득점",
-      "excerpt": "Palmeiras empata jogo-treino com o União São João com gol de Barboza&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFRQajdCRk5Mb01Xb1c0NHZxWE94UUlkX2xKbTBvS2lYajlHVXFQWGxtNC0yNmhGcFUxTEFUYmRNODZtV0QtRDFWdnFpYk1IaF9ma1RiNVZSSHdVczNhVF83eUdHXy14b3RUSFVlWTlCdDE3VXo2bk9fXzdyVFd4T0FNazFzZ291MTZMemdfSlRTVzJzaWo5ONIBngFBVV95cUxOVHpmZ0xQUTZDS19RbEYxZWp4c0Nma1ZwdGxjWW5tUlI5bFRSZmFHbjZNaWwzTTk2aWszanlweFNjZ2VCaERseUlhcGpmVGVuSHRZZG5CQlZhR054QVd3MEFodWVaOWhuQkZoeDBjSm9Mb21aeXlUeWdEQ1RWWVRiZVRnVmlJZWdHczJOcTJWbFlIUHZsNzdSNUV1WU00QQ?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-16T16:22:05.000Z",
-      "whyItMattersKo": "새 선수의 득점으로 팀 전력 보강의 긍정적 신호를 확인할 수 있는 기회였습니다.",
-      "fanTakeKo": "바르보자 득점이라니 좋은 신호네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUtORXR0dEs3STEtTFpXMWFKQXNJQ0paaUM2NUwyZ2NlRzI3cGlObFRCM2",
-      "title": "Barboza é registrado no BID e pode estrear pelo Palmeiras no retorno do Brasileirão - Gazeta Esportiva",
-      "summaryKo": "Barboza는 IDB에 등록되어 있으며 Brasileirão - Gazeta Esportiva의 복귀에 따라 Palmeiras로 데뷔할 수 있습니다.",
-      "excerpt": "Barboza é registrado no BID e pode estrear pelo Palmeiras no retorno do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUtORXR0dEs3STEtTFpXMWFKQXNJQ0paaUM2NUwyZ2NlRzI3cGlObFRCM25FaVFmMzVGY2xTb3NPTkx3ZFhBY1hZOHFNUTNwMUZFVmdwM003ZWpsal9NVlFjZW43SXhicVFtMV9wYmhIUk4zSlEyRWdCNmhhMkMwYUMxOUM1SnRzczMyTnpheDNfQlZySERZRlNkNkFsY21qUEdiTjFzSkFTazV5SHRBSDdHNEdhbmlZUHhORXJ5eENueFhaQ2ZXYmM5M2TSAdIBQVVfeXFMUGlKdURlMGZ5MzYxQzhSNzRJVGdsUFdsdDZmeXVMNC1PSUdVNkdwZC1UUDRIc0lHeWdRYlVabHFLbXRBZDBzZFI2T05RNTBkcVJWd2JockNHQ2JJeGdpS3kteXVIOTJGWE93dUtnZzFvNE9hTmp3emJUZG13RTdKbVByblM4T2hwQUJGc0NQUG5rUUE5a1BvMS1XVHRSQ2Z4a0lEd0RWbHUwSDhJencxN1hja2VweHNtWTJlTlhycWpydm5NNWF1MmVtdTExTlN3VFNR?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-16T16:06:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
