@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T16:27:10.869Z",
+  "fetchedAt": "2026-07-18T17:32:12.699Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxOZktaRVNDRGFrb1VMU2l4Rk5BZzRyeXBlT3hPRWVSQ0lNQXg5LVQwYUt3eHV",
+      "title": "Emily decide clássico, Palmeiras bate São Paulo e ganha posições no Paulista - Olimpíada Todo Dia",
+      "summaryKo": "여자팀 에밀리, 상파울루전 결승골로 승리",
+      "excerpt": "Emily decide clássico, Palmeiras bate São Paulo e ganha posições no Paulista&nbsp;&nbsp;Olimpíada Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZktaRVNDRGFrb1VMU2l4Rk5BZzRyeXBlT3hPRWVSQ0lNQXg5LVQwYUt3eHVvTzJnMWJyaEhrMkw4TTRfTWRpcm1SRlpURk1qZWhmVHNtZ3h5Z3ZPQ2Q1akFGeENrRlJ6c29UYXQtQWRrYzY3R05NMFVZbWdSajB6MFZfUlR1d29RZDBVU2s4QmpUSUZqTUlQMEpGZ1lpUFRQQmc?oc=5",
+      "source": "Olimpíada Todo Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-18T17:11:58.000Z",
+      "whyItMattersKo": "여자 상파울루 주리그 더비 승리로 순위를 올리며 팀 사기를 북돋았습니다.",
+      "fanTakeKo": "에밀리 멋진 결승골이었어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWpSR1NFUTdQVnhlX0QtYUU2RG9XTEpJMnluV1pIeWRCRmphN285TGFIR19",
+      "title": "Arias se reapresenta, e Palmeiras ganha reforço para volta do Brasileirão - UOL",
+      "summaryKo": "아리아스 복귀, 브라질레이렁 강화됐다",
+      "excerpt": "Arias se reapresenta, e Palmeiras ganha reforço para volta do Brasileirão&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWpSR1NFUTdQVnhlX0QtYUU2RG9XTEpJMnluV1pIeWRCRmphN285TGFIR19jaGg5VFRYZ1NZZVBKLXNBcnRiRXhtV1ozWmRvZWMzbVVQbm04U3AxT191R2VWVTlKbXVCQUlGckRDd1AtVThDbDFFZ3FKX2J1OXJaYzl5OGk1Rzlwc1h3cnJLX28tYzMzUWE1UmpwSTFQY2s3b0dlNGItT1pUaFN3OGlVT1o2WXRxNHNTN3EtTlBTUXpTTXNqaHR6QTFVM0ktSkVjd0FzUkR0LWV5WnQ4QU1uSmZlRHN2dExMTHpyUVdGOGZuRVktaVE?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-18T17:06:16.000Z",
+      "whyItMattersKo": "주전급 선수의 복귀로 브라질레이렁 재개 후 전력 보강에 힘이 실렸습니다.",
+      "fanTakeKo": "아리아스 돌아와서 든든합니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTFzM0xRYW5GdlJvUmpYRjh4WnVqMkJtYV9uU3U3YURKYXRkQXBkUmZjS3o",
+      "title": "Derrota no clássico: São Paulo perde para o Palmeiras no Paulista Feminino - Arquibancada Tricolor",
+      "summaryKo": "상파울루전 승리, 여자 파우메이라스 기세",
+      "excerpt": "Derrota no clássico: São Paulo perde para o Palmeiras no Paulista Feminino&nbsp;&nbsp;Arquibancada Tricolor",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTFzM0xRYW5GdlJvUmpYRjh4WnVqMkJtYV9uU3U3YURKYXRkQXBkUmZjS3o1LUstc2ZXNmxEbU9LdnJMLXd6THVEeGRmckJTck5KbnRMTGFINE9QRjhBUGlSb0lWMzVkWnhDZmx5dnBzMTlNejVsT2EwZUFNNFhMZklMckl6aTJM?oc=5",
+      "source": "Arquibancada Tricolor",
+      "language": "pt",
+      "publishedAt": "2026-07-18T16:53:27.000Z",
+      "whyItMattersKo": "라이벌전 승리가 여자 상파울루 주리그 순위 경쟁에서 큰 힘이 됩니다.",
+      "fanTakeKo": "여자팀도 더비 승이라 너무 좋아요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkFWZmQzSHM3d1hldGswcDlKUXB2ZVZCamxtSURzODlWWFZWM1JXSkZaNmV",
+      "title": "Palmeiras treina e Arias retorna ao grupo - ABCD Jornal",
+      "summaryKo": "파우메이라스 훈련, 아리아스 팀 합류",
+      "excerpt": "Palmeiras treina e Arias retorna ao grupo&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkFWZmQzSHM3d1hldGswcDlKUXB2ZVZCamxtSURzODlWWFZWM1JXSkZaNmV5MnE2cHdndzloQWRqMDQwSks4OGJSdm9ZSTFfR1dLRWJ6OHJ3ZGJndU1sMjZ4OVE5NU5SWVFpaldHc2c5UjRiSWhpNGR2Nng0QjBfb1JuVkJpUzlOQmhJaldUS010RXctWjNZQkFzd9IBoAFBVV95cUxPZ3pGZ0pUTjhfc001bVhuTUxXcnFteTVEUmV6d3RBS3BoY0tEOU9DWGtPZlozY3pPTVFmd2l6VnJjM0xlR1BJdlNkbkJtNGl6dm9PUTJnZG1kZU9kNEJQbjdtME9RbGhTZ2JXMmFMem84TnNxcWZ3bnpPMEViZlRuakxvZzNaSVJPY0ctM2VjOFRZNTVyY2pzRGs0Uzl2d29v?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-18T16:20:21.000Z",
+      "whyItMattersKo": "아리아스의 팀 훈련 복귀는 향후 경기 선발 명단 구성에 긍정적 신호입니다.",
+      "fanTakeKo": "훈련장에 복귀했다니 반가워요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWhrWlBFZkJnaWVhUU9FRG9RcUtpZ1ZnQlhLX3hZRkZHTVVad1ZmamNhcWd",
       "title": "Palmeiras prioriza títulos ao lucro e mantém rota por desejo de Leila - LANCE!",
@@ -51,12 +115,28 @@
       "summaryKo": "파울리뉴는 2025년 파우메이라스에서 골절상을 입었고 \"나는 45분 이상 경기하기에 적합하게 돌아왔다\" 고 말합니다. - GE",
       "excerpt": "Paulinho teve refratura em 2025 no Palmeiras e diz: \"Volto apto para jogar mais de 45 minutos\"&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVVPTDVxNUJlaml4djZVU1kyMXFJWk0za2pkaFBPWWFUQWV6N2gyRUZjR1ZUNXFzQ04zdHJSZ2pTdVBZSlQzcTlEdEUwQm1aSjBieTNLNWktbWFJbnNSTEhhdjR3T09GOFpJeFpsM3NvckpncU0tZzRWbXFjVFpRdDFOeG1kOTIwdUM0NFF4bE1uMVJ1S1N3ZV82ZUI3TDJsWExqZ2NPYXZ0enZRNEVaa2Jia1Y3OWUzc096MEFkaDY3ZDF4a24xVWtzSS1qcngyd1VOV1dvVmJYU29nS1lqLUx5T005WjVteFJoeW9CWVExWjjSAYICQVVfeXFMTndHeG1nWU54MklXZldyX0EwbHZmNHhDZ0IxN1pmaFV4UmdFYnIwNm91TzBKekpzVEFTaW9LY2RPOC1lTUJsQXZMWFEwVm9uZFlNa1BEa0lOR0JEWEd0SUQzaTExcmVuaDJCMTdOOElNdl9QSjFSblh2WjBzT2t0dkVIRkpOdWQ1bWhlTUozT1FEblJtdDE1UVA0UWRObHRfcUJJRTZSSUx4cTM4dlNGem5MX09jNzRnZFRwRURoNFhpODMwVU9scmFzMGlmdnB5WWsxVmlBb2JzWF9CTDlLX2lqWGRvYUtHRDdlTFgyeVpTWWQyUkhiSVA3RnkzQk80Q3JR?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T16:01:58.000Z",
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczM",
+      "title": "Arias volta aos treinos do Palmeiras após Copa do Mundo - CNN Brasil",
+      "summaryKo": "아리아스, 월드컵 마치고 훈련 복귀",
+      "excerpt": "Arias volta aos treinos do Palmeiras após Copa do Mundo&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczMtMmpaa0RzVEljbG4zTXA4cmZJajNuYnZPam5NSWJsZHlIb2FuS0NISjNTa29HQVNrSHZEeUpOYmJRYkdOTU8wT2JQNEZaRno5ZE1jRlBqNktjMlloWDhGRE1WUVhvQ1VfN1k4RzM3Y1FMYkdwZk5ZLXRYbm9JLUlTc0hRZjRR?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-18T15:58:56.000Z",
+      "whyItMattersKo": "주전 선수가 국가대표 일정을 마치고 복귀하여 팀 전력 보강에 큰 도움이 됩니다.",
+      "fanTakeKo": "아리아스 복귀 반가워요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -70,22 +150,6 @@
       "publishedAt": "2026-07-18T15:56:25.000Z",
       "whyItMattersKo": "유망주들이 원정에서 대승을 거두며 팀의 미래와 유소년 시스템의 건재함을 보여줬습니다.",
       "fanTakeKo": "미래가 든든한 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczM",
-      "title": "Arias volta aos treinos do Palmeiras após Copa do Mundo - CNN Brasil",
-      "summaryKo": "아리아스, 월드컵 마치고 훈련 복귀",
-      "excerpt": "Arias volta aos treinos do Palmeiras após Copa do Mundo&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczMtMmpaa0RzVEljbG4zTXA4cmZJajNuYnZPam5NSWJsZHlIb2FuS0NISjNTa29HQVNrSHZEeUpOYmJRYkdOTU8wT2JQNEZaRno5ZE1jRlBqNktjMlloWDhGRE1WUVhvQ1VfN1k4RzM3Y1FMYkdwZk5ZLXRYbm9JLUlTc0hRZjRR?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:55:59.000Z",
-      "whyItMattersKo": "주전 선수가 국가대표 일정을 마치고 복귀하여 팀 전력 보강에 큰 도움이 됩니다.",
-      "fanTakeKo": "아리아스 복귀 반가워요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -129,7 +193,7 @@
       "summaryKo": "아리아스, 월드컵 끝나고 파우메이라스 복귀",
       "excerpt": "Jhon Arias se reapresenta e reforça Palmeiras depois da Copa do Mundo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3ZDMTlpcy1xeFRrUjRERzRnX0FNczVERVlUQ0xmVU9wVmRUdWpQYTFKRl9NbEktZXRuOGFrdlN0bHBMM29EclhHNFMxYVRyZFA5M3RwTEl1U1ROM283TzI5WXZJaFZacUo3a0J0Zk1ZUW82eU4tLVNZUkh2TmV4Qlh1WmI4elBsRThPdVU4bjI2Y09XcVk4WFFVaDRsWUw3NkZyWGJfSGhjV0lvSmNBOWZpTmlPNTNnbU9yakI3WndoWlRSOGFXUUF2QW1GQ0NfY1BNWEZR0gHkAUFVX3lxTFBPOTJKVGwzaWMwSGx3OV9CU0duMEdrdzU2WUU2aEl4ZW9nMXdSdzRTT19rUzJLQms4U2RpZVFBT29vQzRWUTdmd3IwcmhKZTljWXN4bldPQTh6VHJwY3Eza0R1bW9RdWFFTDl5ZERZaVFCNGg2QnFyWjg1QkF5dmpGMHhMYTlUWlRqUm55dUpCRVNxaHdoSG02eHJfcFpJdWQ1TUV0VFZ0d0R2S2FFXzhZeTczWVR5RjVGY3dvcm1jdGpkdWlZUkhkWXdjY0J4aTc0MTFnSXpwMHN1YVdsYldBdmh6SA?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T15:40:07.000Z",
       "whyItMattersKo": "주전 자원 복귀로 팀 전력이 보강돼 다음 경기 승리에 도움이 됩니다.",
@@ -257,7 +321,7 @@
       "summaryKo": "파우메이라스, '보석' 첫 프로 계약 체결",
       "excerpt": "Joia do Palmeiras assina primeiro contrato profissional; multa é de R$ 580 milhões&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmRQTERHR3JoaVd3Y0gtZWtmVlhxMHhKaE9QZkQtRzhQRWpOQmJvSm9CTDhFLUhQX0VlY1NZTjJNbjFOMzR0TWJmZVh4bVh4Q0QxMHduaF9JbVRBZXM2TnVjQU5KTExGZ0c3MGgxaEJhWEZvdXNfQTBhRHJnSDlEU3RXcWFRV2kzZDM5N2VLTzAyTDN5THdobXpJWGxWR2FvdDBSeG53bkRld2hzMVBFelp6RTRUSkZXN01leXJNeWg4dk44SGdPTm1pTHlrVk5ybVlLMm00SU5yMV8xalJfOHctNWHSAfMBQVVfeXFMTzRFUFQ3cjdoaHQ4Yk5od3R6ZjViV1Q5MDBaRGNmbXAxdlllYXBFUlQwRnJlX0FWSVBycnhaVm5RWmRIUExPOW4yWVlXTW5xVTA5dWdiU2lsb2lFSWl4Vk01STRWVkNnUGFlcG82NjZsYnpmNzR6R1FsTk5YazdUSlk3THZhMkFjZW1DZHFPRjJxcVAxV3JpS3ZBU2t0TE9idGlWTlJvRGNsbmVnVjVlbGNnR0pYTFBEc1AyOVdOejk3d1g2VlU0bEdvSHJwMmY4eEI3YS0xdDY5UlJxVnYxZlU0LURiei1QSFQ1TG1wVlJnaFpv?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T14:00:11.000Z",
       "whyItMattersKo": "높은 이적료를 책정한 첫 프로 계약으로 미래 에이스를 확실히 지키려는 의지입니다.",
@@ -337,7 +401,7 @@
       "summaryKo": "파우메이라스 대 상파울루 여자 리그 경기",
       "excerpt": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGxPSWo0TmN4d2lvTm8xLWNLNkZ4dDZPSXJVV0RDdUdHX1d5dk9UVzIzT1Fxc1pOMElkRy1YZEdiQ2pWVXVrdVVOdk8xaldTVkF3c3dELVRuQVdNYnV0bVNiTzlXcjFWRW82SEh3YWlZV0lYbjZyM2ZwNVVkWGxSR3dqZ09RcUJIWFpwVHN5b1pmRmdtbmFvb1E?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T13:12:38.000Z",
       "whyItMattersKo": "여자 팀의 리그 성적과 경기력을 실시간으로 확인할 수 있는 중요한 경기입니다.",
@@ -882,70 +946,6 @@
       "publishedAt": "2026-07-17T21:54:41.000Z",
       "whyItMattersKo": "최다 우승 감독으로서의 업적이 공식적으로 기념되는 역사적인 순간입니다.",
       "fanTakeKo": "전설의 감독, 영원히 기억될 거야!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEtlVU5Hc0dMb29XdlJqdTVWM2J6THZrM0E3Q3B1TFdjU0FVZ2MtQ05WNFE",
-      "title": "Leila Pereira revela que Palmeiras mantém contato com Botafogo por Danilo - Jogada 10",
-      "summaryKo": "파우메이라스, 보타포구와 다닐로 이적 접촉",
-      "excerpt": "Leila Pereira revela que Palmeiras mantém contato com Botafogo por Danilo&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEtlVU5Hc0dMb29XdlJqdTVWM2J6THZrM0E3Q3B1TFdjU0FVZ2MtQ05WNFE0ZU90U3Z5NXRzRkVLWEtzaE5DS3NST0xJcjd1dVZXSWxJaU9fVUdyQm1ULWc0WmhKbzUzVGp0NHBwSlBaWjhGWUI1ZGZvME50VkMwUmdGN0JzWXdHcjFYX2o4UFNUM1JlSXlqdF9XdzR5VzDSAaQBQVVfeXFMTmJSNzBmYlF1Y05POTlIeWJQN0Z0d09PVUJhT3FJeGtGelVwQ3IwRVhGbmdOZ3plX2hSenAxTjhUMXlvcUo4T3Q0ZDEyQ3ppeUF6VWRTQzBJUVk1dWkxZ0VNcXk1cVlNa25pcTI4RF9DREF0UlZOZXN2ajQ1VklvQ0JkZFBuOWQyaGk1NzVqOU8zM2tYbzA3S3RFcEFqMzJpTXZKdVQ?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:36:27.000Z",
-      "whyItMattersKo": "주전 미드필더 영입 가능성이 커지면서 팀 중원 강화에 기대감이 높아집니다.",
-      "fanTakeKo": "다닐로 오면 진짜 중신이겠네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjB",
-      "title": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras - band.com.br",
-      "summaryKo": "레일라 회장, 다닐로 복귀 관련 입장 털어놔",
-      "excerpt": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjBBbVhVQjJ5OTVjcFlnV3ByMDVWeE4xREJrWmZJN1ZsdkJ2YlZoVkRqLUVMaldIeHZiMElQbVlzWlZvSFFxcHhydVZpUXQxbzZ2VHV6cm8yMTloZXkyV19EUGF2djk2Vm9nQlhkSUplblZyYUsxWUlkRFpfTXRWdw?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:31:00.000Z",
-      "whyItMattersKo": "핵심 선수의 복귀 가능성은 미드필더 전력 보강과 팀 분위기 개선에 큰 변수가 됩니다.",
-      "fanTakeKo": "다닐로 복귀하면 진짜 좋을 텐데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV3hZOWluRnFoZy12Z2VEMGlBMnBkOE1wX3Y2dGF1YlJBRmdPdWdQQm4ta2",
-      "title": "Leila Pereira revela que Palmeiras mantém contato com Botafogo por Danilo - Terra",
-      "summaryKo": "파우메이라스, 보타포구와 다닐로 이적 접촉 중",
-      "excerpt": "Leila Pereira revela que Palmeiras mantém contato com Botafogo por Danilo&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV3hZOWluRnFoZy12Z2VEMGlBMnBkOE1wX3Y2dGF1YlJBRmdPdWdQQm4ta2pDS0NaOVVoYUJDTUNlYUtfZkZCOUswbHVKMFM2My1rcGJONzItMnBzR0ZEclRBNDNkRTdOb0dXNFllV3ltNE1JN0pWeWRRVlZHclI2cWtoS2pXaURiRjFYclljVkxBOHprdnRiV2ZnaXpaMmJyNmo2ZDRmMFRyNUc2cWNQOEctMVdvRlItZDVRYTAzT054YmpWMEZ5WERJV3VSUGlCQ0hCQzVjQzNKbTZnbk5hSlpjNTM3Z01hQ2lBdXFWMFB6UGF2WVE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:22:00.000Z",
-      "whyItMattersKo": "보타포구와의 접촉으로 다닐로 영입 가능성이 생겨 팀 전력 강화에 큰 기대가 됩니다.",
-      "fanTakeKo": "다닐로 오면 팀이 더 강해질 거야!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnE5SjZzUTlDZmNQdkl5Y1lGLXVENGtON2ZRR0F5U28yTlNaVWk0d0hFNFF",
-      "title": "Abel cita Guardiola e Klopp para elogiar Leila: 'Muito difícil encontrar clubes com presidentes que pensam como ela' - ESPN Brasil",
-      "summaryKo": "아벨 감독, 레일라 회장에 극찬 쏟아냈다",
-      "excerpt": "Abel cita Guardiola e Klopp para elogiar Leila: 'Muito difícil encontrar clubes com presidentes que pensam como ela'&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnE5SjZzUTlDZmNQdkl5Y1lGLXVENGtON2ZRR0F5U28yTlNaVWk0d0hFNFF0WDh3N1p5QVlTeUlyQTdRSTVfLXhyQXl1Mmc0MUlYS3BQSTZYelBjQkhtcnhIUS1qWVp2MXg5Y0d0TWVQb2hpQXZjMUZBOEd1U1M1eHVncjVzZHRGZFB1WWVHTTZ1SU1YMjViLWF2RkUyNDBER1BLTXBYQ2E4Y1RZeFdpNlRuV2ZocXo5WkxLbHNEQUFBTWthNnZKQWVUYnBuWGo0SFoyVjZQbWhfWDNsOUppVTlmdmJGU1RaR3JxeWNHYXF0QkFVT0JKWEVxYXBtRC00dnY2ZA?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:21:00.000Z",
-      "whyItMattersKo": "감독과 구단주의 신뢰 관계는 팀 장기적인 성적과 분위기에 아주 중요합니다.",
-      "fanTakeKo": "레일라 회장 최고야, 든든하다!",
       "tags": [
         "뉴스",
         "AI요약"
