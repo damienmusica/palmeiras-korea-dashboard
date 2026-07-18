@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T06:08:44.970Z",
+  "fetchedAt": "2026-07-18T08:20:09.118Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRW45RU1NQ3Q5SmVTa2xuQlpXazJRaTVNSmJLX2RVeDVRM2UtZUg2ZmtzQkk",
+      "title": "Contratações e saídas: Leila Pereira abre o jogo sobre mercado do Palmeiras - Rádio Itatiaia",
+      "summaryKo": "파우메이라스 영입·이적, 레일라 회장이 공개",
+      "excerpt": "Contratações e saídas: Leila Pereira abre o jogo sobre mercado do Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRW45RU1NQ3Q5SmVTa2xuQlpXazJRaTVNSmJLX2RVeDVRM2UtZUg2ZmtzQkktUUlwMy1XdWVFTFQyamY4Q1hnWlVGY2d3X294aW5PN3lOZnFLUlBJTk1hcmpfX1NfbjdXQ09fdElfS2pEZTdJdEFmX3doTXRyVjVRVVh4bkNsbzNHTHlna25BRVBHSEZObzNHWHRQUGZMNUpISlBpSDAyYTRFN1FubEo3djhzNzVqay1DWVI0RWIwVWpPT2E4OGc4Q2RocW5ZOW5qQ2lCMjd3RG5iSmNMSmFYTzI5Q1gtQUludHhoYjVLdWdlWlRUamtB?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-18T07:05:47.000Z",
+      "whyItMattersKo": "팀 전력 보강을 위한 영입 방향성과 선수단 구성이 드러나는 중요한 시점입니다.",
+      "fanTakeKo": "드디어 영입 소식이 들리네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalljNndRUS1ud1ZfNW5pZXRqV1hpQlFLRUJneW9uVzhhUGNBVlh3amdVQl9",
+      "title": "Leila quer renovação de Gómez e deixa futuro de Abel para próximo presidente do Palmeiras - ge",
+      "summaryKo": "레일라 회장, 고메스 재계약 추진·아벨 감독은 차기에",
+      "excerpt": "Leila quer renovação de Gómez e deixa futuro de Abel para próximo presidente do Palmeiras&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalljNndRUS1ud1ZfNW5pZXRqV1hpQlFLRUJneW9uVzhhUGNBVlh3amdVQl9jTXEtNHJpNWZDTmVZcTBGQkcyRUg3LWJZM2h3aGdIbFI3M1R1SDRiLU9sY0w2ZXBkZlNIQ1FjclpoYzZWRUVwWHFtSHhTU0dTa2hNUVdad1hZX2NRSTdORXE1bVlrdWVOYlJIUUNnQy1UTHJNb29NQXZ2ZkZpRVNQS0pOWENwNHd1RUdzWENXeTNFUnhHdGFyMUwyc19hekctRnh3bGhWdU5VNjZwZ1RZWkFBWGR1T0JuMjJWZGxGVnNPSUfSAf8BQVVfeXFMTm10YTVSVmljQmt2RGJJYk54SG11b3JSUExtcGZzcklFeFV5Y3ExaTJ1eHNRdGs4UnlSUk5Cak95MkZpMFhUTWt4U2dVRThobU1JcE1LV1NOMVczQWFpWVY4Z1NMdHg2a2pRcVFfeUZuRy1VTEt5bTRPdGNmWGdsbjFreC14TjgzMnFhUkhRSzAwQk5HMjU1YjJCaThUS0FfcklQc21RWmlZVHhrWVVuRllCN0Robi1LTDJvajFZVFY0cm1Na240WVlMUnk2eW1jblNRelgyTkg5anZmaUV1TmtfUlZKTko4MVJueC1NX2twU2JodVZzV2c1XzVfbVFv?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-18T07:01:03.000Z",
+      "whyItMattersKo": "핵심 선수 고메스는 잡고 감독 연장은 차기에 맡긴다는 방침이 확인되었습니다.",
+      "fanTakeKo": "고메스는 남고 아벨 감독은?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd19zME1hVW1oWVBfeEdnTGstcWs0Ty1TQlYza05KM0pETkFPdVZORkUzNnF",
       "title": "Abel Ferreira ganha exposição exclusiva na Sala de Troféus do Palmeiras - R7 Esportes",
@@ -922,38 +954,6 @@
       "publishedAt": "2026-07-17T14:21:07.000Z",
       "whyItMattersKo": "과거 유망주를 다시 데려와 아벨 감독이 직접 살피며 공격력 보강을 노립니다.",
       "fanTakeKo": "플라멩구에서 데려온 선수라 더 기대되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjJwQ3R3cWFvQm5HdjI0NU1jZFpDRE8xLTFnMmFIYTdaRzhiQ2MxVjQ4UUt",
-      "title": "Coordenador do Palmeiras proíbe vídeos pré-jogo na base e diz: \"Falta quem pense o futebol brasileiro\" - ge",
-      "summaryKo": "파우메이라스 유스, 경기 전 영상 촬영 금지",
-      "excerpt": "Coordenador do Palmeiras proíbe vídeos pré-jogo na base e diz: \"Falta quem pense o futebol brasileiro\"&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjJwQ3R3cWFvQm5HdjI0NU1jZFpDRE8xLTFnMmFIYTdaRzhiQ2MxVjQ4UUtOWjZzX1VScmtPTHMwQzdZdjk2dFp5Q1U4SUxzQlZVTzRMX3ptcnZrQnhubnQwbWtYYUNoTzV5aXBCanJzQU9MOU9hRjVCOEw2N2pIVHVhQnd6Q2ZVZ3VHR1ZnTjNfRGJwTng0MU00OGY4UnF3ZGVvWkRNd0lOa3p0cjdTUG55UEVNOUtEbjcyOHpwaFRqaEk3MUpQQ3hDeWhqZWhUVjNoUlVXNkhHVFJmaXh2ZnA0YzRCUldCMThqaEpxZlpvTTg3M2FTOWZNNVBOQdIBjAJBVV95cUxOcnNxRzVDbnEzZnpKQ3BabllmZ2hwQk1fZGlEbkJSVEtzclNfOEluY0pKaHhhbXFxNmRBb2NkMXN5NHZ1czhxWmo5TDhIWUpNWERiblFQYkZfQzJGNWI5MnY1dk01SjVVSGVjbncyc21RZ1BKSkYtandnZGRRel9SU091NEJkdDZFeURXV0kydDVZWHZaNW9SVDVXMEx2cldKRjZUZ1hFVm5yVXZ6Rm9JeVFNY2t3TFBLRXdybXpGZDd6bDh2b0VHbExLWlhoTDNXVERnUGFiSTBDM0ZsY1RsUjRGMWtEdFdSQV9sVjAwTHRNNkdlM21ZaG8wVk1ybUJrWGo2Z3p1N2lCaHlK?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-17T14:00:09.000Z",
-      "whyItMattersKo": "유스 선수들의 행동을 교정해 진지한 프로 정신을 심어주려는 조치입니다.",
-      "fanTakeKo": "유스 선수들이 좀 더 진지해졌으면 좋겠어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVpKZlFRWkhqYlpqUnFIdGZ3Y1lOMkpWRzl0S3FCQTdPTGR6a2RXVjJIb2",
-      "title": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras - Jogada 10",
-      "summaryKo": "바르보자, 우루과이 대표팀 택하고 파우메이라스 입단",
-      "excerpt": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVpKZlFRWkhqYlpqUnFIdGZ3Y1lOMkpWRzl0S3FCQTdPTGR6a2RXVjJIb2ljbnJodjFvdG40Nk1aYnpRZUk5aXNxdm95Qkp0Vzl2aW9uUHV0cl9FeVJlNHBfOC1ZdDNUMDB5VnBpdkwwSk1NSmpiczUyakJIU0t3X2dKNVo5R0U0MzR5QVFlQUQ0dDBVNGFxVUZSVdIBoAFBVV95cUxORjk4MWRmNHg5aEZZdWlEcnNtREtDNGpISERoX0kxXzNDLVUwNlM5SkRfVlcxVnE5bDE2NGxuT0p5TkRfSzJ3UEpkNjdPRnYzV3IxRDFpc2U5aWdXUkthMTFOeVNzYmVyRmNvdkNHVWR0Y29FZUNjcTlnQ3hYUEVYT0RWY0tLbS0yNWtIdi02Ykk5V05fdFFWbGMxRDcyelk2?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-17T13:54:43.000Z",
-      "whyItMattersKo": "신입 선수가 국가대표로 발탁되겠다는 의지는 팀 전력 강화에 긍정적인 신호입니다.",
-      "fanTakeKo": "국가대표 나올 선수 영입이라니 좋네요!",
       "tags": [
         "뉴스",
         "AI요약"
