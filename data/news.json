@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T20:12:22.057Z",
+  "fetchedAt": "2026-07-18T21:23:57.447Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHJYMWotdVV3WlRuSldyenpFWkY5cWl6ZTRmcnlCeTViU1RINFU5N1IzSWt",
+      "title": "Eliminação amplia sequência negativa do Corinthians contra o Palmeiras no Sub-20 - meutimao.com.br",
+      "summaryKo": "코린치안스 유스, 파우메이라스에 또 탈락",
+      "excerpt": "Eliminação amplia sequência negativa do Corinthians contra o Palmeiras no Sub-20&nbsp;&nbsp;meutimao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHJYMWotdVV3WlRuSldyenpFWkY5cWl6ZTRmcnlCeTViU1RINFU5N1IzSWtaREEtNmRFeS1ab3Z3QXVKRXY1V2NBY0FWZ0UyVEFLVTk0cl9Palphal9LX0FCTkdlcmJPakFKMU9TQi1sWHUwMHl0SnJZT3hlSXpjLXNINzc0bEc1VHE1bEpNbnJKX2Q5eXNWNW9LVG5SbW9CelpnSUFrSGhLV0VFUVlzWTdEb1h4OHN0VTA2SjJIemFnRWp3NVVUU1JFY0M3U2dpQ1BoQjdR0gHGAUFVX3lxTE44QUg0WEI3QXY5Ulg0cEZ4WE12T29hZkFaQ2Zncmxhb2hVdTRuc19FWkloYlpjX3A2MmRoTFdPdHV6Q2RUTnJCS24yT1d1OHdiMmtpaEU0MTF4aXVYcnJ0bnAzX0tJUmk3QW0waFR6aXVydHhwc3RUakh3NmQtVGhLWjBCemlNN0ZmT0lxRnB3UnJJdDdma2ExZmJXVVQ1V1h1WDg0dm5jQ3NOUWxFTzktaVJGbm4tQnNaaFc4cG9hc2RVb2dhUQ?oc=5",
+      "source": "meutimao.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-18T21:05:00.000Z",
+      "whyItMattersKo": "라이벌전 약세가 이어지면서 유스팀 전력과 자신감에 대한 우려가 커지고 있습니다.",
+      "fanTakeKo": "라이벌전 승리는 역시 짜릿하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGFZaGNaN2tsbndlWDZ1aHhPSEQyUnFkaWoxZkE3Zm5xUFhLLVVQY3FrbWs",
+      "title": "Paulinho explica processo de recuperação após refratura e promete mais minutagem no Palmeiras - LANCE!",
+      "summaryKo": "파울리뉴, 재골절 복귀 \"출전 시간 늘리겠다\"",
+      "excerpt": "Paulinho explica processo de recuperação após refratura e promete mais minutagem no Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGFZaGNaN2tsbndlWDZ1aHhPSEQyUnFkaWoxZkE3Zm5xUFhLLVVQY3FrbWs3V2ZUZ2o3VFktT2JjR1FLZG1HT1JMUWxrOUpkYzlJWE8tMWJxZ1ExX1RKcW9wZU9ybC1zeFZLZVJjTU0xOVYzVFNXQU9qNW1SWEV4NnZNc1FCSnB2Z29UVzdwUmJGOV9XbG1DSkdnRFU3UkRYVU1Hb3A5Y1JaZXpVc0hOZG9fSk1lWC1hbEl0ODVEMGkwc3BpUHRxbVJFRktZQQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-18T20:44:51.000Z",
+      "whyItMattersKo": "주축 미드필더의 복귀가 임박해 중원 경쟁력과 팀 전력 보강에 도움이 됩니다.",
+      "fanTakeKo": "파울리뉴, 빨리 그라운드 보고 싶다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWpTaklXazVqczdzV1lnNU9DaHluaGxzTGhhN1pvcWFQSzJ0QWZSVjJxZnF",
+      "title": "Flaco López pode fazer história por Palmeiras e Brasileirão na final da Copa do Mundo - Goal.com",
+      "summaryKo": "플라코 로페스, 월드컵 결승서 역사 쓸까",
+      "excerpt": "Flaco López pode fazer história por Palmeiras e Brasileirão na final da Copa do Mundo&nbsp;&nbsp;Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWpTaklXazVqczdzV1lnNU9DaHluaGxzTGhhN1pvcWFQSzJ0QWZSVjJxZnF2NVQ1c0czNkwzZFFHZ2FfdnhuLVZuaURSaWtfSTg2WGx2REFBT2QwUldwaDJqU2s0dXRPTHE4ZHFFUTNzR3VjQzVKSkVsdnBjZlVUNDJoZGVuamVpYll4c3BTWjBObTEyZS1qQmVjLTdnS0xlcDU4UGh0WGJuQk9LNUQ3eElWT1lOck0?oc=5",
+      "source": "Goal.com",
+      "language": "pt",
+      "publishedAt": "2026-07-18T20:39:37.000Z",
+      "whyItMattersKo": "선수의 활약이 클럽과 리그의 위상을 높일 기회라 팬들의 관심이 집중됩니다.",
+      "fanTakeKo": "로페스, 역사를 만들어주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTV9GQUp0NXU1bUVtZ1dNOWtRMTNfaHA2OWdRLUJIckRYa3ZyN1dBRzlUaWZ",
+      "title": "Com Palmeiras e Santos, CBF define detalhes das semifinais do Brasileiro sub-20 - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 산투스와 유스 준결승 확정",
+      "excerpt": "Com Palmeiras e Santos, CBF define detalhes das semifinais do Brasileiro sub-20&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTV9GQUp0NXU1bUVtZ1dNOWtRMTNfaHA2OWdRLUJIckRYa3ZyN1dBRzlUaWZEbnYwbGIwUkhSYjdiOEZLenM5V2hkSlI3MEswcXR1bDVtdXNHZGFMazc2a2xBeDVQWURDaW4ydTdrY2RFc0V1Yl9jdFdrRi1NQUZpSV9VN0dpWmk5RFRibXB6YV9xR1RFN0VuQWc0TUNiamNURGFwMkRvcjlGZHlfN0lZUVQ0Z2xnTWJqdlNF0gHAAUFVX3lxTE9VZjRsSnJmdVd1Z0tBTUtOcDdndHdXaE5kcVA2cEpwR3M0b29vMmg5SFNxSzlnM0tYWUpJaWpZUnAwT0dCZTBFVjdCQzRrMWZaOFFrVkx5X0pQRE5zdERDQzJ1NHlMVGpwUVBzQWxZTDJrX1B6NWVOUldRTHR2b2oxclh2UGhwT2x5dGNYWFlSSGZfN3FEcXdvamRyWHBNZURtcl9nV1U1T1RhYXRCOXIyUldnaGRwdlppVDcyVWRUNg?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-18T20:17:00.000Z",
+      "whyItMattersKo": "준결승 일정 확정으로 다음 라운드 상대 산투스와의 대진을 준비할 수 있습니다.",
+      "fanTakeKo": "산투스 잡고 결승 가야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxORFlHODJfOGtVS0tOZU0xaU5oUXV6Q1VhenI2Sl8tQXNOMVN2RWFwY0lYVlE",
       "title": "Palmeiras quer 'definição rápida' em caso Danilo; clubes têm 'certo incômodo' com nova postura do Botafogo, de 'não rifar seus ativos no mercado' - FogãoNET",
@@ -886,70 +950,6 @@
       "publishedAt": "2026-07-17T23:55:47.000Z",
       "whyItMattersKo": "최다 우승 감독으로서의 위상을 공식적으로 인정받는 뜻깊은 순간입니다.",
       "fanTakeKo": "우리 아벨 감독님, 영원한 전설이시죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGpyamdmaFpfQUJzNTBya2Uya1hhdmlQZTRKZ3NCZVpUd2ZrMzJOTVlvTXJ",
-      "title": "Déficit milionário pode impedir novas contratações do Palmeiras? - Terra",
-      "summaryKo": "적자 때문에 파우메이라스 이적 시장 어려워",
-      "excerpt": "Déficit milionário pode impedir novas contratações do Palmeiras?&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGpyamdmaFpfQUJzNTBya2Uya1hhdmlQZTRKZ3NCZVpUd2ZrMzJOTVlvTXJFVjJac2F1Q0dTUl82SXU2N1RaWlhKQ3VnMXJjamRpOWljVHJKNzFCaDY4TDV2VE5yeHdNUXptMF9xVHZxUW54eFYyQ2FhZXV4eU5nb3FXOUJMbkdlZDBjdklVYTFacjdaYmdqTllPeFlQeXNSZGIzQThaRGN2X2pQSWU3d3NFR2NsWVFfM1FtTnVtWjU3bGthRDlSY2Y2ZDZOZnFjeVBadGhvT19zWlZTeHB0UWJtOVVKbURf?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-17T23:19:00.000Z",
-      "whyItMattersKo": "구단의 재정 상황은 새 선수 영입 가능성과 팀 전력 보강에 직접적인 영향을 줍니다.",
-      "fanTakeKo": "재정은 빨리 회복되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjkzUzBJQmxWMDlCU25YalFPYTFqQU9zVGxzek41dmpiNlRQckg5WWVMUVB",
-      "title": "CBF divulga tabela detalhada das semifinais do Brasileirão Sub-20 A - CBF",
-      "summaryKo": "브라질레이렁 U-20 준결승 일정 확정",
-      "excerpt": "CBF divulga tabela detalhada das semifinais do Brasileirão Sub-20 A&nbsp;&nbsp;CBF",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjkzUzBJQmxWMDlCU25YalFPYTFqQU9zVGxzek41dmpiNlRQckg5WWVMUVBrWXFaY2RReW9KU3hxb3RKVm1GbnhsUG1Rb0x5WTRnY29wcG13bko1X1o4ZzVCQU55Q21WNlZpSDdPZV80YmNnNnBjU1JHUGVlWEMwTXhDMmhhSXpEQ3EyQ2d1bFgtS2g3X1FNX3JtT0sweWhBZzBDQ2FPdXRTdl8zYV9LeWVHRE85YVRCZTVXaVhEOUo5dzJ0OFFpVUFxUTNiOG1FVXRGN241SDBkakw4cXdpZEZR?oc=5",
-      "source": "CBF",
-      "language": "pt",
-      "publishedAt": "2026-07-17T23:17:00.000Z",
-      "whyItMattersKo": "유망주들의 성장을 확인하고 미래 전력을 점칠 수 있는 중요한 경기 일정입니다.",
-      "fanTakeKo": "미래의 우리 선수들 응원할게요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiXkFVX3lxTFBad1RsTWUwRkRxclgyOUZpVkY3Q1JvMWx4ckExb0l1d3h2dWFvZjRVQlRJNDV",
-      "title": "Palmeiras homenageia Abel Ferreira com espaço no museu do clube - Portal ABC do ABC",
-      "summaryKo": "파우메이라스, 아벨 페헤이라 구단 박물관에 전시",
-      "excerpt": "Palmeiras homenageia Abel Ferreira com espaço no museu do clube&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBad1RsTWUwRkRxclgyOUZpVkY3Q1JvMWx4ckExb0l1d3h2dWFvZjRVQlRJNDVZOFJXZUs5R1FTQV9IX2puZUlFYWNrQ19iV2x3X2VqSFZmc0NqdlA0REE?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-17T23:16:19.000Z",
-      "whyItMattersKo": "감독의 구단 역사적 업적을 기려 선수단과 팬들의 결속력을 높이는 행사입니다.",
-      "fanTakeKo": "영원한 우리 감독님, 축하합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTdncTZpamhnVDlvVnZQZjhfQzZwWjFUT1ZWbDlMcFZIZEpIVHpqaFR0MjF",
-      "title": "Palmeiras homenageia Abel na Sala de Troféus - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스, 아벨 페헤이라 트로피룸에서 기려",
-      "excerpt": "Palmeiras homenageia Abel na Sala de Troféus&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTdncTZpamhnVDlvVnZQZjhfQzZwWjFUT1ZWbDlMcFZIZEpIVHpqaFR0MjFvUHZ5MzVrOVZjbUs4ZW5qdGtSV1VWLVk0aWhOV2Q1WElGMUpwYkNnXzZJeXNyNEU4aTJxSm5LYzN0THNONFA5WFVkRGtEQjQzalZhb1dUcjFfVkRfV25oV050WTk2UlBUekE?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-17T23:12:30.000Z",
-      "whyItMattersKo": "감독의 공로를 트로피룸에 기록하여 구단의 자부심과 역사를 더욱 강조했습니다.",
-      "fanTakeKo": "트로피룸에 이름 남으셨네, 자랑스럽다!",
       "tags": [
         "뉴스",
         "AI요약"
