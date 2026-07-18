@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T11:09:15.571Z",
+  "fetchedAt": "2026-07-18T12:13:16.589Z",
   "items": [
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1naEExd0MzdXJYZ0MxYWprdWhfcm1oMXp3bmFqaHBaUkg3TS0xMWFpLWp",
+      "title": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel - UOL",
+      "summaryKo": "16세 유망주 이적 제안 거절, 아벨 믿고 성장",
+      "excerpt": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1naEExd0MzdXJYZ0MxYWprdWhfcm1oMXp3bmFqaHBaUkg3TS0xMWFpLWpSTV9QRVNsZ1NDZEQxRDBHcjAxd1dRUHpHZGF3eWhDajhXUnRGaTdaek5MTXJKNG10SlplNEFDS0dBbUJyZDMyWlpmS1d1WnNERmRhWG1GbnVjakw5WkhxMF9ySGtseV90SjZjTDJOTjBmaDlnTDlZNGR3QzFDbXF2N2NUX0FucVJkWDdEazF2SXhrREdNNTg1VUozS09WUTQ5bTQ2aDlKcS0xck4wVFp0cHNPSw?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-18T12:06:07.000Z",
+      "whyItMattersKo": "팀의 미래 자원을 지키는 결정은 유망주 육성과 팀의 장기적 전력 강화에 도움이 됩니다.",
+      "fanTakeKo": "우리 유망주 꼭 잘 키워줘야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitgJBVV95cUxQaC1xc25zdmVNdnJHZGdJYUZfM185MTZVMjNkZWpJUVJqNXRjUG9fRUd6SmZ",
       "title": "Novidade para o próximo jogo, planejamento com Flaco López e novas regras na Libertadores: as últimas notícias do Palmeiras - Terra",
@@ -36,6 +52,22 @@
       ]
     },
     {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRm9HcXQxU3FjcFdBbGZXMWhNdXNCWE9pR0xTY1JpOHpLV0pNaU16aGMwMS1",
+      "title": "Paulistão F - Federação Paulista de Futebol",
+      "summaryKo": "파울리스탕 대회, 공식 소식 전해드려요",
+      "excerpt": "Paulistão F&nbsp;&nbsp;Federação Paulista de Futebol",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRm9HcXQxU3FjcFdBbGZXMWhNdXNCWE9pR0xTY1JpOHpLV0pNaU16aGMwMS1FdlEyeEI4WEU3Z052NS03TFFtZVBQaDRrakRlaFhwNk9QZTZTZDAycmlSelM4djR5bGFsWE1rMmZJeXhBd1NR?oc=5",
+      "source": "Federação Paulista de Futebol",
+      "language": "pt",
+      "publishedAt": "2026-07-18T10:00:00.000Z",
+      "whyItMattersKo": "파우메이라스가 참가하는 주 대회의 일정과 규정을 파악하는 데 중요합니다.",
+      "fanTakeKo": "파울리스탕도 꼭 우승했으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUNOb2JXNERYc1doQks5UFpjSVRMc3VxRGZYb1hITUtRb09DQ2tzVF9OVmY",
       "title": "Abel aponta principal prioridade à frente do Palmeiras - LANCE!",
       "summaryKo": "아벨 감독, 파우메이라스 최우선 과제 언급",
@@ -46,22 +78,6 @@
       "publishedAt": "2026-07-18T09:45:00.000Z",
       "whyItMattersKo": "감독이 강조하는 목표는 팀의 시즌 방향성과 선수들의 집중도를 보여줍니다.",
       "fanTakeKo": "우리 팀의 목표가 뭔지 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1naEExd0MzdXJYZ0MxYWprdWhfcm1oMXp3bmFqaHBaUkg3TS0xMWFpLWp",
-      "title": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel - UOL",
-      "summaryKo": "16세 유망주 이적 제안 거절, 아벨 믿고 성장",
-      "excerpt": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1naEExd0MzdXJYZ0MxYWprdWhfcm1oMXp3bmFqaHBaUkg3TS0xMWFpLWpSTV9QRVNsZ1NDZEQxRDBHcjAxd1dRUHpHZGF3eWhDajhXUnRGaTdaek5MTXJKNG10SlplNEFDS0dBbUJyZDMyWlpmS1d1WnNERmRhWG1GbnVjakw5WkhxMF9ySGtseV90SjZjTDJOTjBmaDlnTDlZNGR3QzFDbXF2N2NUX0FucVJkWDdEazF2SXhrREdNNTg1VUozS09WUTQ5bTQ2aDlKcS0xck4wVFp0cHNPSw?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-18T09:41:33.000Z",
-      "whyItMattersKo": "팀의 미래 자원을 지키는 결정은 유망주 육성과 팀의 장기적 전력 강화에 도움이 됩니다.",
-      "fanTakeKo": "우리 유망주 꼭 잘 키워줘야죠.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -137,7 +153,7 @@
       "summaryKo": "레일라 회장, 고메스 재계약 추진·아벨 감독은 차기에",
       "excerpt": "Leila quer renovação de Gómez e deixa futuro de Abel para próximo presidente do Palmeiras&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalljNndRUS1ud1ZfNW5pZXRqV1hpQlFLRUJneW9uVzhhUGNBVlh3amdVQl9jTXEtNHJpNWZDTmVZcTBGQkcyRUg3LWJZM2h3aGdIbFI3M1R1SDRiLU9sY0w2ZXBkZlNIQ1FjclpoYzZWRUVwWHFtSHhTU0dTa2hNUVdad1hZX2NRSTdORXE1bVlrdWVOYlJIUUNnQy1UTHJNb29NQXZ2ZkZpRVNQS0pOWENwNHd1RUdzWENXeTNFUnhHdGFyMUwyc19hekctRnh3bGhWdU5VNjZwZ1RZWkFBWGR1T0JuMjJWZGxGVnNPSUfSAf8BQVVfeXFMTm10YTVSVmljQmt2RGJJYk54SG11b3JSUExtcGZzcklFeFV5Y3ExaTJ1eHNRdGs4UnlSUk5Cak95MkZpMFhUTWt4U2dVRThobU1JcE1LV1NOMVczQWFpWVY4Z1NMdHg2a2pRcVFfeUZuRy1VTEt5bTRPdGNmWGdsbjFreC14TjgzMnFhUkhRSzAwQk5HMjU1YjJCaThUS0FfcklQc21RWmlZVHhrWVVuRllCN0Robi1LTDJvajFZVFY0cm1Na240WVlMUnk2eW1jblNRelgyTkg5anZmaUV1TmtfUlZKTko4MVJueC1NX2twU2JodVZzV2c1XzVfbVFv?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T07:01:03.000Z",
       "whyItMattersKo": "핵심 선수 고메스는 잡고 감독 연장은 차기에 맡긴다는 방침이 확인되었습니다.",
@@ -201,7 +217,7 @@
       "summaryKo": "파우메이라스 대 상파울루 여자 리그 경기",
       "excerpt": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGxPSWo0TmN4d2lvTm8xLWNLNkZ4dDZPSXJVV0RDdUdHX1d5dk9UVzIzT1Fxc1pOMElkRy1YZEdiQ2pWVXVrdVVOdk8xaldTVkF3c3dELVRuQVdNYnV0bVNiTzlXcjFWRW82SEh3YWlZV0lYbjZyM2ZwNVVkWGxSR3dqZ09RcUJIWFpwVHN5b1pmRmdtbmFvb1E?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T01:02:56.000Z",
       "whyItMattersKo": "여자 팀의 리그 성적과 경기력을 실시간으로 확인할 수 있는 중요한 경기입니다.",
@@ -329,7 +345,7 @@
       "summaryKo": "여자 파우메이라스, 상파울루전 중계 안내",
       "excerpt": "Palmeiras x São Paulo no Paulista Feminino: onde assistir ao vivo e horário&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUkljVGFjbDV4LXFxNWpXSDFwd3EtTld0Ym1Lb05UQ0JVS0w4anNvR0JzZzBySjNybmRXQ1YwRUh2Sk50SXBtdDNFM0ZWUExqNEN6OUc5MWZwQm56OWo4RlRRcnhLQ21WaUNHRmFmU1NldlNEeV9MOUV4dTVjM0Y3T2NQWVR5QkIwYlBNenB6bnptNnp3VFgtX1NJNVlXZmUxX244aExkaDB0bWFpakoxS1pTN21IMFUtbkNLYjVBRDBJNm5aSTdlOWUtSEFtM1JzWmRHNkxBXzAyM084Y2duMWpPQkRmVFlnN3ltYU0tN21VQ0lhWnlQNDJNbmNWSmJ5eThsbXdVWEZFMjlMMk8taUNR0gGgAkFVX3lxTE02dHZ0WU1HNjhXc0FpYXhvd3h0bG5BQmVMS1pHOG5LLXh3b0Y2UmFXZ1doRnByYzI1Wmh5OU8wTHRUWDlHNjlPNk5CLWVPd3VBVnRYNVI4TGFwMVk2Tk8xQm9GdXdPX1pxeVlKY2twTGc2clZDMkViZHhmNHBsRkM3RHh5TWJKblVpU1U2eWFrWE5ITVJmcUlBaFExbE85ZVhiX3h4ckZnMURMZXFMSEc0bFlFZFRIWUhTcEYwaUJYRXNTUmZSRXpuNDluT1EzMDByMmpZQ1pPUGw5Wm1xZGxIVHdPTE00dWgxT1lvTHdtbVNaeVNfNEtYTHQ1bGFIT1M1dlNIblNtSmppLXF2UHg0ZGtJZVhKbi1LbHRtQlR4Wg?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-17T23:00:11.000Z",
       "whyItMattersKo": "여자팀 경기 중계 정보를 확인해 상파울루와의 경기를 놓치지 않고 응원할 수 있습니다.",
@@ -938,22 +954,6 @@
       "publishedAt": "2026-07-17T15:22:53.000Z",
       "whyItMattersKo": "시즌 재개 중에도 베테랑 선수의 컨디션 조절을 위해 휴식을 계획했습니다.",
       "fanTakeKo": "플라코 쉬어가고 다시 힘내길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYVZVWldlaTJuV24wQUpCTGJoZnVDbDBDYmh2MjQtYUhqRGtHbmJUSzg2blR",
-      "title": "Palmeiras faz palestra de Abel Ferreira para técnicos da base - Portal ABC do ABC",
-      "summaryKo": "아벨 페헤이라 감독, 유소년 코치들 특강",
-      "excerpt": "Palmeiras faz palestra de Abel Ferreira para técnicos da base&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYVZVWldlaTJuV24wQUpCTGJoZnVDbDBDYmh2MjQtYUhqRGtHbmJUSzg2blRHSmM0dER5aGxLRXgzbExPTVBBellPU0FJaUI1dzlORThuOEp4ZXZYUHE4bg?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-17T15:19:09.000Z",
-      "whyItMattersKo": "1군 전술을 유소년 팀까지 전파해 클럽 전체의 전력 강화를 꾀합니다.",
-      "fanTakeKo": "유소년도 아벨볼로 통일되길!",
       "tags": [
         "뉴스",
         "AI요약"
