@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-17T23:24:39.903Z",
+  "fetchedAt": "2026-07-18T00:55:48.070Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHh",
+      "title": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar' - UOL",
+      "summaryKo": "아벨 페헤이라, 파우메이라스 전당에 남다",
+      "excerpt": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHhZSVFsWEF0SFpnaDlOV0hwVU1UMW1QVnpubFhoQ2VKVjNpRHJYOVVQV0d4dFZGaC1xb09BbkpSNnBueVVUVE1tNGh1NFlrU0ZuamZucS1YaTVQVEVWRjA5VHY2LVNQSVcwcjhNQW9uUWN5TVZHamIxeGxjMUZRdnNpUmJoV3RoT21ZMzNJenhoNmxkWVVKVXJYSGtYcExCMDZJTzdiQVE?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-17T23:55:47.000Z",
+      "whyItMattersKo": "최다 우승 감독으로서의 위상을 공식적으로 인정받는 뜻깊은 순간입니다.",
+      "fanTakeKo": "우리 아벨 감독님, 영원한 전설이시죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjkzUzBJQmxWMDlCU25YalFPYTFqQU9zVGxzek41dmpiNlRQckg5WWVMUVB",
       "title": "CBF divulga tabela detalhada das semifinais do Brasileirão Sub-20 A - CBF",
@@ -52,6 +68,22 @@
       ]
     },
     {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3pGZnpSU1RPVDR4RXlKVHpmWmxNUXBULTAtRW9SaE5JWFczM2IyTFE3VWR",
+      "title": "Veja fotos da homenagem do Palmeiras ao técnico Abel Ferreira na Sala de Troféus - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 아벨 페헤이라에 트로피룸 기념식 공개",
+      "excerpt": "Veja fotos da homenagem do Palmeiras ao técnico Abel Ferreira na Sala de Troféus&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3pGZnpSU1RPVDR4RXlKVHpmWmxNUXBULTAtRW9SaE5JWFczM2IyTFE3VWRKQXRKSldHbVNKTVcxNFlSSWtHU084b3ZqVzNtQndqc1BDUVNwZ1MwSENsVmZCekt6Mm5JblRfM3JsUTBCNktKMW13UEhGTDdMY0JieHViRjF3RDRuM2ZScFFqbnlaVERsUzNRcEowRkxTOVRPMkZIVURsVDI2ektMU1VURnFWaW9kbTVobzJUNkJoMmh1aWFNYkc0ag?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-17T22:41:00.000Z",
+      "whyItMattersKo": "감독의 업적을 기리는 행사로, 구단과 감독의 관계가 돈독함을 보여줍니다.",
+      "fanTakeKo": "아벨 페헤이라, 영원한 파우메이라스의 전설!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3pGZnpSU1RPVDR4RXlKVHpmWmxNUXBULTAtRW9SaE5JWFczM2IyTFE3VWR",
       "title": "Veja fotos da homenagem do Palmeiras ao técnico Abel Ferreira na Sala de Troféus - Gazeta Esportiva",
       "summaryKo": "아벨 페헤이라 트로피룸 기념식 공개 사진",
@@ -75,7 +107,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDBZSnpnVjdtZF9CWUNPMWZfVmNCVEZ3amxqbHpOaU5qWURqanBTbjkwOWx2ekp4Qjl4UlZDN1UyNS1tSDJEUkJHOFY5MjhsLU5nNnpkLWdGRmFuVEJIV0NZMVNZcnNreTFfZjdGb08wbktvMEI4Rmluc2hRTTNuWmJRVkJhS2puZDdXMnE2c3hmLWx0c2VrWEc2SW5PNnpyd1hLMEVMU1dXTmIzSnREMEk2SHJvdVZuMmNkcENxYlNTZFRPZ0xNanVTVXN6WTEyakJWRWN3Z2lUb0dUeUVqYU82Z05ySC16QWNyLVRjYXhmejFfTGlKQWl0TTVtWUJ0dklv?oc=5",
       "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-17T22:33:00.000Z",
+      "publishedAt": "2026-07-17T22:33:01.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -144,6 +176,22 @@
       ]
     },
     {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhybURRa3NiQWxjX1EySm4xQU9pQ2ptaTF5R3Y4X2RRUWdJYnVFYkY1Yl",
+      "title": "Abel Ferreira recebeu uma homenagem no Palmeiras pelos 11 títulos que conquistou - ge",
+      "summaryKo": "아벨 페헤이라, 11회 우승 공로로 클럽의 예우 받아",
+      "excerpt": "Abel Ferreira recebeu uma homenagem no Palmeiras pelos 11 títulos que conquistou&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhybURRa3NiQWxjX1EySm4xQU9pQ2ptaTF5R3Y4X2RRUWdJYnVFYkY1YlBoZHMwMmNLTG5HU2sxRVJhSEpMVWdvUUJrLWtua1RnSG9MS0xoS2xLNVo5cW9aVklFaXZWeXZodDRubHpkTE5MYmUxTTVtdmxBdDE2MlUxZFFvNzJQc0FfSGt5V2hyWklBYzlieFJibHczLW9ocURoQW13VnFjTTk4TWV5S3lyaG1sTmN0elgwaDVWMNIBzgFBVV95cUxPV1Y0blFOQkFBZERqcHlScUI5RldyZWtpU3cxRlVVT3duVk96UjByZE5BT2VPZXpHYUFkYl9MMzQyZ09URXdELXhvVlFETThPT3VRMGFVNUdLWTdsTENCNlpZM3RnaUJSY0dZcXFsOHR4MW5Nb25vbmpQVldmNWV5cHlLMWJ1eW1fTURQcWFvelU1eU5MeWNLYXIwMVpldlRlRzJQdnBleThORjdrRWwyZ0NmSVZZdmZDaWpOWWJVa2hjdkVJU0VTSEJVd0FPdw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-17T22:06:23.000Z",
+      "whyItMattersKo": "다수의 우승을 이끈 감독의 위상을 확인시키며 팬들에게 자부심을 줍니다.",
+      "fanTakeKo": "11회 우승, 진짜 대단한 감독이에요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWdHcUt4NDFWcWJNaHQ1eWF6al9yNjl6dnNDdWNESVpXMzZwSXFrQm9YTVV",
       "title": "Maior campeão, Abel Ferreira recebe espaço na Sala de Troféus do Palmeiras - palmeiras.com.br",
       "summaryKo": "아벨 페헤이라, 파우메이라스 트로피룸에 이름 남겨",
@@ -170,6 +218,22 @@
       "publishedAt": "2026-07-17T21:36:27.000Z",
       "whyItMattersKo": "주전 미드필더 영입 가능성이 커지면서 팀 중원 강화에 기대감이 높아집니다.",
       "fanTakeKo": "다닐로 오면 진짜 중신이겠네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjB",
+      "title": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras - band.com.br",
+      "summaryKo": "레일라 회장, 다닐로 복귀 관련 입장 털어놔",
+      "excerpt": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjBBbVhVQjJ5OTVjcFlnV3ByMDVWeE4xREJrWmZJN1ZsdkJ2YlZoVkRqLUVMaldIeHZiMElQbVlzWlZvSFFxcHhydVZpUXQxbzZ2VHV6cm8yMTloZXkyV19EUGF2djk2Vm9nQlhkSUplblZyYUsxWUlkRFpfTXRWdw?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-17T21:31:00.000Z",
+      "whyItMattersKo": "핵심 선수의 복귀 가능성은 미드필더 전력 보강과 팀 분위기 개선에 큰 변수가 됩니다.",
+      "fanTakeKo": "다닐로 복귀하면 진짜 좋을 텐데!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -234,22 +298,6 @@
       "publishedAt": "2026-07-17T21:08:00.000Z",
       "whyItMattersKo": "선수 본인의 영입 의지가 확인됐으니 협상 타결 가능성이 더 높아졌습니다.",
       "fanTakeKo": "다닐로가 정말 오고 싶다니 믿는다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjB",
-      "title": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras - band.com.br",
-      "summaryKo": "레일라 회장, 다닐로 복귀 관련 입장 털어놔",
-      "excerpt": "Leila Pereira abre o jogo sobre volta de Danilo ao Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeENudUhEamp2bnBOTnlQdUxqdktkV2lWNlF1QmlxbWJueUhFRUowMnJPSjBBbVhVQjJ5OTVjcFlnV3ByMDVWeE4xREJrWmZJN1ZsdkJ2YlZoVkRqLUVMaldIeHZiMElQbVlzWlZvSFFxcHhydVZpUXQxbzZ2VHV6cm8yMTloZXkyV19EUGF2djk2Vm9nQlhkSUplblZyYUsxWUlkRFpfTXRWdw?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:05:57.000Z",
-      "whyItMattersKo": "핵심 선수의 복귀 가능성은 미드필더 전력 보강과 팀 분위기 개선에 큰 변수가 됩니다.",
-      "fanTakeKo": "다닐로 복귀하면 진짜 좋을 텐데!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -375,7 +423,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUtKMkQwMVpGUTIyX1FTOHhBbW5ZaWJ5eFI1bERSdlZVM0lGTDkyVGhFUkpmTXQ4SEpwdlRRV3dOejFZaGg0eFEwdklnQVpjdHQ0eURQNlhWZkZXZXAtV2xqdHVnVTlBdUlzYmcwQTFtTVNBTXd6NVhIQUxQeWVJazZtVkI1ZUp2RzVmb001VzZmLUphZi10SldKZUEweHZXdGw3YUhINHg5b1BrUHRpRjNpZnVsQQ?oc=5",
       "source": "band.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-17T20:27:15.000Z",
+      "publishedAt": "2026-07-17T20:27:23.000Z",
       "whyItMattersKo": "감독이 구단에 애정을 표현하여 선수들과 팬들에게 긍정적인 에너지를 줍니다.",
       "fanTakeKo": "아벨 감독 오래오래 함께해요!",
       "tags": [
@@ -400,6 +448,22 @@
       ]
     },
     {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTZhT2E2UUY5R2Vxc1ZLRmpKZXluN1I2bUdxX0xQc3VheF94dUJQaXBEWl",
+      "title": "Abel exalta Leila, diz que Palmeiras tem 'lugar especial' em sua vida e mira a Libertadores - LANCE!",
+      "summaryKo": "아벨 페헤이라, 구단 사랑과 리베르타도레스 도전 강조",
+      "excerpt": "Abel exalta Leila, diz que Palmeiras tem 'lugar especial' em sua vida e mira a Libertadores&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTZhT2E2UUY5R2Vxc1ZLRmpKZXluN1I2bUdxX0xQc3VheF94dUJQaXBEWlVIM3lXbUlJZnY4dENaemdpSFVxS25DWk1oV0JoMGtxUy10Wi1wQ3piM3VSUmg3VHJiZUgxZjM0bFNJd3QwQ1VJNnJ6YUt5T1hCb0liTEdaeUh2dVpGTDJ1ZV8yakwtVDN3WnQ5S21lZUhJNy15X0MwN2NIS2ZoSVd1QThERFVZSmpxb3lXYWllM2U2eHdkZmxITDBn?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-17T20:17:21.000Z",
+      "whyItMattersKo": "감독의 구단 애정과 최대 목표인 리베르타도레스 우승 의지를 보여줍니다.",
+      "fanTakeKo": "리베르타도레스 꼭 다시 가져오자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-12-https://news.google.com/rss/articles/CBMizgFBVV95cUxPMERYYlZwQXFKbkFFaVYxZzlfdGFRZzc2c0JWY0d1S2RWNi1jbkVjT0FHZG",
       "title": "Palmeiras mantém ritmo intenso de treino com foco na Libertadores, Brasileirão e Copa do Brasil - ABC Repórter",
       "summaryKo": "파우메이라스, 3개 대회 겨냥해 강도 높은 훈련",
@@ -410,22 +474,6 @@
       "publishedAt": "2026-07-17T20:01:49.000Z",
       "whyItMattersKo": "리베르타도레스와 브라질레이렁 등 3개 대회를 소화하기 위한 체력 관리가 중요합니다.",
       "fanTakeKo": "일정이 빡빡한데 컨디션 최고로 유지하자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHh",
-      "title": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar' - UOL",
-      "summaryKo": "아벨 페헤이라, 파우메이라스 전당에 남다",
-      "excerpt": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHhZSVFsWEF0SFpnaDlOV0hwVU1UMW1QVnpubFhoQ2VKVjNpRHJYOVVQV0d4dFZGaC1xb09BbkpSNnBueVVUVE1tNGh1NFlrU0ZuamZucS1YaTVQVEVWRjA5VHY2LVNQSVcwcjhNQW9uUWN5TVZHamIxeGxjMUZRdnNpUmJoV3RoT21ZMzNJenhoNmxkWVVKVXJYSGtYcExCMDZJTzdiQVE?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T19:55:47.000Z",
-      "whyItMattersKo": "최다 우승 감독으로서의 위상을 공식적으로 인정받는 뜻깊은 순간입니다.",
-      "fanTakeKo": "우리 아벨 감독님, 영원한 전설이시죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -894,52 +942,6 @@
       "publishedAt": "2026-07-17T11:53:49.000Z",
       "whyItMattersKo": "미드필더 보강을 위한 새 이적 제안이라 팀 전력 강화에 긍정적 영향이 기대됩니다.",
       "fanTakeKo": "다닐로 영입 성사되면 좋겠네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3d",
-      "title": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu - R7 Esportes",
-      "summaryKo": "파우메이라스 전 선수, 브라질 축구 현실 분석",
-      "excerpt": "Ex-jogador do Palmeiras explica por que futebol brasileiro está cada dia mais distante do europeu&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejVDdUtFdzRQWGZrMHUtdmF1YnBqcVA5OWhhTklFa0lFekNGTDNQT3Q0c3dSdElQbkdMSU5Qb0RRWkZrbGU0NFNkY3lKVWlYaFlrQUxxa1ZESUo3d08yYzlFcGpMQ3B3VmVPY2loYVlpQWpZZXRjQ3ZlTjczOFJFWVJiaFFvTEUweHpfQ3ZFT0s2bkYwanBudnFoOFV4Yl9neG9UQU4zV0ZmenhBSjl2SEpBaEVfSExmWVhxa19saXZCdjNQQ0d4NW12eEQxRTNnU1RqRk9CTHh5WUxjczE5eE82SjBUU2JI?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-17T11:41:43.000Z",
-      "whyItMattersKo": "현역 선수의 경험을 바탕으로 브라질 축구가 겪는 구조적 문제를 파악합니다.",
-      "fanTakeKo": "브라질 축구가 다시 일어서길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHVfY0F3WWc2U0JFQUs2azVmTnpnbDFaLVdydzFpYW9vWW1ydmNwd3ctUl",
-      "title": "Coritiba aumenta valor dos ingressos para volta do Brasileirão contra o Palmeiras - UmDois Esportes",
-      "summaryKo": "코리치바는 파우메이라스를 상대로 브라질레이랑 복귀 티켓의 가치를 높입니다 - OneTwo Sports",
-      "excerpt": "Coritiba aumenta valor dos ingressos para volta do Brasileirão contra o Palmeiras&nbsp;&nbsp;UmDois Esportes",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHVfY0F3WWc2U0JFQUs2azVmTnpnbDFaLVdydzFpYW9vWW1ydmNwd3ctUlROWWdTZnRBR0hsSkM2R3ZjRF9yc1pOVnZ1TER3N1dfTWk2bGN0cFRBYzUtNENqVGxvY2hZRXRkVld0YmcwdlJSV0FkUXVqX2N3dnJCTTZjY2VfVTk3cFQ1bQ?oc=5",
-      "source": "UmDois Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-17T11:32:08.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjBhOVFkaUNlcWc2ZDN1YWk1eUQxTE1SQmgycXdhRkFXcXhmdW14SDZmNE0",
-      "title": "José Boto, do Flamengo, provoca Abel Ferreira, do Palmeiras - Terra",
-      "summaryKo": "플라멩구 보토, 아벨 감독에 도발장",
-      "excerpt": "José Boto, do Flamengo, provoca Abel Ferreira, do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjBhOVFkaUNlcWc2ZDN1YWk1eUQxTE1SQmgycXdhRkFXcXhmdW14SDZmNE05ZHhTQ3lrbGZJM3JSekx4eUxTZTVtYkF5ZXU5bnptdS0tTmZNUUhOZVRLRmNpMFFlam9LVXNjS0duc0RKM0RkeHVLQTdlMTNYTjl3cU5uWkRxZExMZXpwdnpZOHgyWXJEa2R2VlpQd28zZGs1dVRpSVFLaE9YMG43MVViMVlLTzI2N0NPYWRmN1RsNXJlaFFZSzI0bFZPZmVUazFjNTRiZ3BzS1ZMR2I3SFE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-17T10:40:00.000Z",
-      "whyItMattersKo": "라이벌 구단 임원의 감독 도발은 두 팀 간 긴장감을 더욱 고조시킬 수 있습니다.",
-      "fanTakeKo": "감독 응원하는 마음만 뜨겁네요.",
       "tags": [
         "뉴스",
         "AI요약"
