@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T21:23:57.447Z",
+  "fetchedAt": "2026-07-18T22:23:37.566Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWWduOWFOcGFCS0xQaHNvbHBzWm9MZ1pFa2JLNkFwTnpFZlViTzJZT2kwdEE",
+      "title": "A renovação de Gustavo Gómez já faz parte do planejamento do Palmeiras para as próximas temporadas. Em entrevista coletiva nesta sexta-feira (17) durante o evento em homenagem ao técnico Abel Ferreira, a presidente Leila Pereira afirmou que pretend - instagram.com",
+      "summaryKo": "구스타보 고메스 연장, 파우메이라스 계획에 있다",
+      "excerpt": "A renovação de Gustavo Gómez já faz parte do planejamento do Palmeiras para as próximas temporadas. Em entrevista coletiva nesta sexta-feira (17) durante o evento em homenagem ao técnico Abel Ferreira, a presidente Leila Pereira afirmou que",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWWduOWFOcGFCS0xQaHNvbHBzWm9MZ1pFa2JLNkFwTnpFZlViTzJZT2kwdEEwYmUwUFRoZkItRmlOTXE2bFBxeVN1dWtiYTJnLWc?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-18T21:24:31.000Z",
+      "whyItMattersKo": "수비 핵심인 주장의 잔류가 확정되면 팀 전력 유지에 큰 도움이 됩니다.",
+      "fanTakeKo": "주장이 계속 팀에 있어주길 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHJYMWotdVV3WlRuSldyenpFWkY5cWl6ZTRmcnlCeTViU1RINFU5N1IzSWt",
       "title": "Eliminação amplia sequência negativa do Corinthians contra o Palmeiras no Sub-20 - meutimao.com.br",
@@ -46,6 +62,22 @@
       "publishedAt": "2026-07-18T20:39:37.000Z",
       "whyItMattersKo": "선수의 활약이 클럽과 리그의 위상을 높일 기회라 팬들의 관심이 집중됩니다.",
       "fanTakeKo": "로페스, 역사를 만들어주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVl2VW84R2Y3eDBmNGY5YXVwVG9wOUl4MExycjhWc0U1QXdod3c3MDd3Wk1",
+      "title": "Arias treina no Palmeiras após disputar a Copa do Mundo - Jogada 10",
+      "summaryKo": "아리아스, 월드컵 뒤 파우메이라스 훈련 합류",
+      "excerpt": "Arias treina no Palmeiras após disputar a Copa do Mundo&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVl2VW84R2Y3eDBmNGY5YXVwVG9wOUl4MExycjhWc0U1QXdod3c3MDd3Wk1menlyei00Wjdyb2drZXQ5a0pQOWh5N0Q4SDB2UzVoblptYjJnU2JtMjI3cFhiYnlLMHVHRS1oZ1Q2dFpTMk04X0JlVmtmYmJtNFl0cUV3NFd2Q2fSAYwBQVVfeXFMT3FiSkVOeUdjZmJQdUxoSzVhYTdhVGMzekdYYWRONWowelNNb19YejVOVHMwNDZLZ3REUWRGWFpDSDlkV0FwektzTTdzZHZHdGIzcHp2LW52SjEwWF9wS1hWMjdLNGRISU1leVhxZm93LVVlTWprZjEzQ2JQTDNNS09sUjJIb0xqZWxNWXU?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-18T20:19:43.000Z",
+      "whyItMattersKo": "월드컵을 치른 주전급 선수가 복귀하여 수비 옵션이 늘어났습니다.",
+      "fanTakeKo": "아리아스 복귀를 환영합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -401,7 +433,7 @@
       "summaryKo": "아리아스, 월드컵 끝나고 파우메이라스 복귀",
       "excerpt": "Jhon Arias se reapresenta e reforça Palmeiras depois da Copa do Mundo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3ZDMTlpcy1xeFRrUjRERzRnX0FNczVERVlUQ0xmVU9wVmRUdWpQYTFKRl9NbEktZXRuOGFrdlN0bHBMM29EclhHNFMxYVRyZFA5M3RwTEl1U1ROM283TzI5WXZJaFZacUo3a0J0Zk1ZUW82eU4tLVNZUkh2TmV4Qlh1WmI4elBsRThPdVU4bjI2Y09XcVk4WFFVaDRsWUw3NkZyWGJfSGhjV0lvSmNBOWZpTmlPNTNnbU9yakI3WndoWlRSOGFXUUF2QW1GQ0NfY1BNWEZR0gHkAUFVX3lxTFBPOTJKVGwzaWMwSGx3OV9CU0duMEdrdzU2WUU2aEl4ZW9nMXdSdzRTT19rUzJLQms4U2RpZVFBT29vQzRWUTdmd3IwcmhKZTljWXN4bldPQTh6VHJwY3Eza0R1bW9RdWFFTDl5ZERZaVFCNGg2QnFyWjg1QkF5dmpGMHhMYTlUWlRqUm55dUpCRVNxaHdoSG02eHJfcFpJdWQ1TUV0VFZ0d0R2S2FFXzhZeTczWVR5RjVGY3dvcm1jdGpkdWlZUkhkWXdjY0J4aTc0MTFnSXpwMHN1YVdsYldBdmh6SA?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-18T15:40:07.000Z",
       "whyItMattersKo": "주전 자원 복귀로 팀 전력이 보강돼 다음 경기 승리에 도움이 됩니다.",
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-18T00:55:00.000Z",
       "whyItMattersKo": "구단 역사에 남을 감독의 업적을 기념하며 팬들에게 큰 영감을 줍니다.",
       "fanTakeKo": "전설의 감독님 존경합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0pWTzU3bGs3ZXRPcWJka3JTYkpIU1RNd2l6a0pkc05DVG9nTWtJclRXeWR",
-      "title": "Abel Ferreira diz que ‘maior sonho’ continua sendo a Libertadores: 'Vamos tentar' - Terra",
-      "summaryKo": "아벨 감독, “리베르타도레스 우승이 꿈”",
-      "excerpt": "Abel Ferreira diz que ‘maior sonho’ continua sendo a Libertadores: 'Vamos tentar'&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0pWTzU3bGs3ZXRPcWJka3JTYkpIU1RNd2l6a0pkc05DVG9nTWtJclRXeWRnMEp6X3MzSHE1bkpDQzZNVkFoZWxNZjdfTFlVQWppV0JOMGIzamFTQnlOaTljRmJVdkRJQkh3VURTWERjVkowOXBfOVNwSExuM3A1NzNTbjBaS3dzMENUNnI1OE5aaC1nVU11aVBIenVEMGZzc29QeXlwei0yLW5sS0x5cm5WTXg4RU5jVFctYkhsbUJtWW1NUFA3WFNBcWxiUFItdHpaSHVQUjZuZVN6RHNwbW95NXVxb0VmODhYUEpFMFBIeFZFTXJKUHBrbEYwWk8wTFRN?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-18T00:48:43.000Z",
-      "whyItMattersKo": "감독의 강한 의지는 선수들의 사기 진작과 시즌 목표 설정에 중요합니다.",
-      "fanTakeKo": "꼭 다시 한번 들어올려주세요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHh",
-      "title": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar' - UOL",
-      "summaryKo": "아벨 페헤이라, 파우메이라스 전당에 남다",
-      "excerpt": "Abel é eternizado em sala de troféus do Palmeiras: 'Aprendi a amar'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3V5MWMtTjlOWUNQei15aUhYLXBVY3JnX2lIWWRDS21nUDhMVFdWX2pRVHhZSVFsWEF0SFpnaDlOV0hwVU1UMW1QVnpubFhoQ2VKVjNpRHJYOVVQV0d4dFZGaC1xb09BbkpSNnBueVVUVE1tNGh1NFlrU0ZuamZucS1YaTVQVEVWRjA5VHY2LVNQSVcwcjhNQW9uUWN5TVZHamIxeGxjMUZRdnNpUmJoV3RoT21ZMzNJenhoNmxkWVVKVXJYSGtYcExCMDZJTzdiQVE?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-17T23:55:47.000Z",
-      "whyItMattersKo": "최다 우승 감독으로서의 위상을 공식적으로 인정받는 뜻깊은 순간입니다.",
-      "fanTakeKo": "우리 아벨 감독님, 영원한 전설이시죠!",
       "tags": [
         "뉴스",
         "AI요약"
