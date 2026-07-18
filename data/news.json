@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T17:32:12.699Z",
+  "fetchedAt": "2026-07-18T19:05:55.332Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDhBTkRtWEY1LXBmWUtiU1duOHZJUkpQZlFmMDlJdE9VbWhlZVg0Vjg0YWV",
+      "title": "Palmeiras prepara novidade para a próxima semana - Terra",
+      "summaryKo": "파우메이라스, 다음주 새로운 변화 예고",
+      "excerpt": "Palmeiras prepara novidade para a próxima semana&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDhBTkRtWEY1LXBmWUtiU1duOHZJUkpQZlFmMDlJdE9VbWhlZVg0Vjg0YWVycWxkanBldEFEUzFKU2EwNXNfQ2ZmRmloY2FWRlYtQUhSSFZxSkU4Q2ozekh5Zm9KNXNFZHpyODRYYmVjSndYU3BCMEdmVTBRcXJqeXd0NHpGajVYc0ZrZ2p0U3V4N1cxQkhVMUZDWHhRNnRNZUNaTmViby05ODZ0LXhOa2hFNW1pajdEczdMRXZqRTZwdHltanAyYkEtbzFEaFRWMlNCYQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-18T18:33:00.000Z",
+      "whyItMattersKo": "구체적인 내용은 알 수 없으나 팀 전력이나 전술에 중요한 변화가 생길 수 있습니다.",
+      "fanTakeKo": "무슨 일이 일어날지 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDJIYW1IVndwVEZhMDVmamxaYzROMWJyYmlPYnRwTjZRS0tsYUQ2SmZld1Q",
+      "title": "Abel Ferreira faz palestra a treinadores da base no Palmeiras - ABCD Jornal",
+      "summaryKo": "아벨 감독, 유소년 코치들에게 강연",
+      "excerpt": "Abel Ferreira faz palestra a treinadores da base no Palmeiras&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDJIYW1IVndwVEZhMDVmamxaYzROMWJyYmlPYnRwTjZRS0tsYUQ2SmZld1Q2VVg0VDVXNDdLaE9QTjFHT3JUQ1FzelM5U1hpbUFwdjdzRnE1cHZNb3BEVWxoWFI3OTQ4ZzM1a1BwLXNhb1FfWWl5Y0pqbXgtU3JSUndWM0tVNFNJRE1fX1Bqb1pFekRRWDR1bGE2NkU4RkVo?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-18T18:04:43.000Z",
+      "whyItMattersKo": "유소년과 1군의 철학을 통일하면 미래 유망주 육성에 큰 도움이 됩니다.",
+      "fanTakeKo": "철학 하나는 확실한 감독이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnFiOUFrM1BrblI1RjdtT0c4amRoUVRnb1d2bGtWNU5UampUZjBvRXJfOVJ",
+      "title": "Abel Ferreira é homenageado pelo Palmeiras e diz que sonha com a Libertadores - ABCD Jornal",
+      "summaryKo": "아벨 감독, 리베르타도레스 꿈 밝혀",
+      "excerpt": "Abel Ferreira é homenageado pelo Palmeiras e diz que sonha com a Libertadores&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnFiOUFrM1BrblI1RjdtT0c4amRoUVRnb1d2bGtWNU5UampUZjBvRXJfOVJicjVHRWliaU1zeW5Pd3VsR2VnYVpKUWh4NFM2VXpnTWN4UktGd0phZW5VU252Y19YTFBLZjBNbnlGU2hhWG5TQk5iUXc1NDVZa0gzVjZhWEg0Q0hucmNSdUswbTA0QlZWV2V4YzgwVm5sUWZOc21xTG1MTnJXbUlsQ1VxLUoyUkVydw?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-18T18:04:43.000Z",
+      "whyItMattersKo": "감독의 우승 의지가 뚜렷하다는 건 팀 전체의 사기와 목표 의식을 높입니다.",
+      "fanTakeKo": "꼭 다시 한번 들어올려주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEZQdG1hWGNzMWVsa3JraXg2ZzBhQlgxbXVDbHBPb1I2VzZXX1R0Njk2a0s",
+      "title": "Em busca de reforços, Vasco faz sondagem por zagueiro do Palmeiras - O Dia",
+      "summaryKo": "바스쿠, 파우메이라스 수비수 영입 타진",
+      "excerpt": "Em busca de reforços, Vasco faz sondagem por zagueiro do Palmeiras&nbsp;&nbsp;O Dia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEZQdG1hWGNzMWVsa3JraXg2ZzBhQlgxbXVDbHBPb1I2VzZXX1R0Njk2a0s0WmtIV21YWVVvN2Nvc1M4RnVOMFdwOGhvS0t0UkQ2MzV5NHdCNzZ0WHZJSi1TZTNab28yR1ROaVFGLUhWRWV2ZXYwdW5PX2xpNXJLSlVxTDMyUDlnZ1dMZFd6cTZObHhSZlRxNGxBaGJ1OC00YjhIUS1NLXBucEdhQm9WUDRtN3NPSjVVclpvTHJFVl_SAcYBQVVfeXFMT0ljeG1OWDBCd01qMzBrd0gxV1dubGlqd0NOXzdUTXBRaHFiRjc0OUpJR2thUDgyZGd1UjdWeTV2U3hMblhORVU0aElfMTRSWkpxYnNjbGNMcEdwS2d3QVBteUJ1ZXRscUNUaE4wSTFmaVY2MnJ4Zzh1MExkNkN6dXh4NmVwby1rU0pvWGR3VGFjdkp5R2dTQWdwZEhNakUtdFhLRlE1dS15MGtUS05RRjVtbEpkNVFTVGNaU1Z6dWM5QkJqa2lR?oc=5",
+      "source": "O Dia",
+      "language": "pt",
+      "publishedAt": "2026-07-18T17:23:29.000Z",
+      "whyItMattersKo": "타 팀에서 우리 팀 수비수에 관심을 보인 건 선수의 가치를 증명하는 일입니다.",
+      "fanTakeKo": "우리 선수 인기 많은가 봐요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTAza3BpUFdaVVcyVUx0Rnc3d3BXM2ZzaFRfNVFPSl91SGZ0SXVva0s0Z0Q",
+      "title": "Abel Ferreira ganha ala especial na sala de troféus do Palmeiras - band.com.br",
+      "summaryKo": "아벨 페헤이라, 트로피룸에 특별 공간 마련",
+      "excerpt": "Abel Ferreira ganha ala especial na sala de troféus do Palmeiras&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTAza3BpUFdaVVcyVUx0Rnc3d3BXM2ZzaFRfNVFPSl91SGZ0SXVva0s0Z0QzYVQ1ZzVMQ3RPNkNOVG5iMmRDd2tvSjRJUW8xMEdTaVljREFJa2ZzUXBqUU5MTWpVN3JqVzEzU3Zoczg3dE5BVzZNdHFiWm5reUhKTEVPME1qS3V2Qmh0MTVpc1BVb3RhazB0X0YzVjYxaEc5bEpVR3lORHc1RV9QbzlnY203aFRhOEVoN3FIUm92NFVMeUVraUZUUjAtSkI2LUdjcGc?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-18T17:22:13.000Z",
+      "whyItMattersKo": "감독의 업적을 기리는 공간 조성은 팀의 역사와 감독의 위상을 보여줍니다.",
+      "fanTakeKo": "아벨 감독은 전설이 확실하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxOZktaRVNDRGFrb1VMU2l4Rk5BZzRyeXBlT3hPRWVSQ0lNQXg5LVQwYUt3eHV",
       "title": "Emily decide clássico, Palmeiras bate São Paulo e ganha posições no Paulista - Olimpíada Todo Dia",
@@ -278,6 +358,22 @@
       "publishedAt": "2026-07-18T14:46:27.000Z",
       "whyItMattersKo": "주전 선수의 공백은 브라질레이렁 일정 중 팀 전력과 성적에 영향을 줍니다.",
       "fanTakeKo": "플라코 없는 경기가 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnExN1poeXZLOFJWTjltOXdSTXlURWNfSjBKWmgybkdiUjkzSTRFV05fcS",
+      "title": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel - Notícias ao Minuto Brasil",
+      "summaryKo": "파우메이라스, 16세 신동 이적 제안 거절",
+      "excerpt": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel&nbsp;&nbsp;Notícias ao Minuto Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnExN1poeXZLOFJWTjltOXdSTXlURWNfSjBKWmgybkdiUjkzSTRFV05fcS1Hb0VfWkFuYnNNSXU0ZTJkaEhKMFJMRzFtMmltQVF6TElzN3dZT1Y1VlpsRE1mQjJnbjBjTUc5ZFJSazVtbEFLSHAtSFJ6SWlYMV9odGw1SmI5QnY1a1BaWFZ1YWlxVXdpMEZZMjAwbU1lQVk1cHdVSmdkUld2SnhsQm0xV2N1WElVdlh1SDNuQks1b0pJbGQ5cEE?oc=5",
+      "source": "Notícias ao Minuto Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-18T14:36:00.000Z",
+      "whyItMattersKo": "유망주를 지키는 결정은 아벨 감독의 육성 능력에 대한 믿음을 보여줍니다.",
+      "fanTakeKo": "미래를 위해 잘한 결정이에요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -855,100 +951,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9PNU9WU3FVRldqeUdiTGNheGhuX1Zxc2xTX1NYSFFaMm9MRlU2aG02aGN",
-      "title": "Homenageado, Abel exalta Leila e revela sonho no Palmeiras: “Voltar a ganhar a Libertadores” - Gazeta Esportiva",
-      "summaryKo": "영광스럽게도 Abel은 Leila를 높이고 Palmeiras에서 자신의 꿈을 밝힙니다. “Libertadores에서 다시 우승하기 위해” - Gazeta Esportiva",
-      "excerpt": "Homenageado, Abel exalta Leila e revela sonho no Palmeiras: “Voltar a ganhar a Libertadores”&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9PNU9WU3FVRldqeUdiTGNheGhuX1Zxc2xTX1NYSFFaMm9MRlU2aG02aGNEaHFPajhPTTM5YzQ1dmNveGVEazlWb0h0ZlB5Qkp3dFpreDFpMGNsUFFvanlsS3ZubFp0Rm1ScHZGQlBYazBCNk9kT2NqQ0FRaTNkZmpYUjlfWmpQWGfSAY8BQVVfeXFMTWExemk1NjFvbkxrLW90RnBfTHNleUl2R0phWDJmbFhKczdDWF9YNWNldDB0ZjdZLUlFbnJ4TnN4ZEVnQTZxZkxEaG1aMm00TGV6S2gtRWhjNWhWLXB2U3ZBZEhvVUI3RnJxNkx2a0F1S2tNY3dTekdDV0Z6QldZNm5mTDdORk5vX1dleHpuT2c?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-17T22:32:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxOdkRBZFBKU05Bckk4TDB5QTI3YkxEWEVlYW1uS0RveWRFZ0EyMi1qQV90VVd",
-      "title": "Palmeiras mantém ritmo intenso de treino com foco na Libertadores - ABC Repórter",
-      "summaryKo": "파우메이라스, 리베르타도레스 겨냥 고강도 훈련",
-      "excerpt": "Palmeiras mantém ritmo intenso de treino com foco na Libertadores&nbsp;&nbsp;ABC Repórter",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkRBZFBKU05Bckk4TDB5QTI3YkxEWEVlYW1uS0RveWRFZ0EyMi1qQV90VVdOMGllN0xJNWd2R25uak13eVFTbzNpQXdJUkRQM0pONF9qLXJEb2xobGlRSGRtX25OeDdjQWJiNUdvVndZb3JQdUdxMjhucE5XTy1vRGNLMjd0T1RLazRlTWdWY3ljNkhlME5Fc0FfSUdDUQ?oc=5",
-      "source": "ABC Repórter",
-      "language": "pt",
-      "publishedAt": "2026-07-17T22:10:08.000Z",
-      "whyItMattersKo": "리베르타도레스 우승을 위해 팀 전체의 컨디션을 최상으로 끌어올리는 과정입니다.",
-      "fanTakeKo": "리베르타도레스 꼭 가져와야지!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMikAFBVV95cUxNX21aUlhSM0l1WEV3VWNNSlgzcEV0eFI2T1lJS0x0R09FY1I3LUNPQjFLTmh",
-      "title": "Palmeiras: do desespero à referência do futebol nacional - ABC Repórter",
-      "summaryKo": "파우메이라스, 위기 극복하고 브라질 축구 대표팀으로",
-      "excerpt": "Palmeiras: do desespero à referência do futebol nacional&nbsp;&nbsp;ABC Repórter",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX21aUlhSM0l1WEV3VWNNSlgzcEV0eFI2T1lJS0x0R09FY1I3LUNPQjFLTmh0dDI5SXJlZWtjRW9XUkN2UHNqYWUtaUhKV0lIRmkxTGZRMWxFSC0yUmFXSkVGb1BmdW10bjR4ZFBCOTMxZmQ2dUVRMHMtbVVQbi10WUppOWZYU2YzX1FtVlhWelU?oc=5",
-      "source": "ABC Repórter",
-      "language": "pt",
-      "publishedAt": "2026-07-17T22:10:08.000Z",
-      "whyItMattersKo": "과거 위기를 딛고 일어선 팀의 성장세가 현재 브라질 축구의 기준이 되었습니다.",
-      "fanTakeKo": "우리 팀이 이렇게 컸네, 자랑스럽다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5REt5MDZra1FEYmVMM2UySTM1QjROUVNBLXB5X2huRjRjdWhtNTVkNml",
-      "title": "Homenageado no Palmeiras, Abel Ferreira diz: \"sonho voltar a ganhar a Libertadores\" - tmc.com.br",
-      "summaryKo": "아벨 페헤이라, \"리베르타도레스 또 꿈꿔\"",
-      "excerpt": "Homenageado no Palmeiras, Abel Ferreira diz: \"sonho voltar a ganhar a Libertadores\"&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5REt5MDZra1FEYmVMM2UySTM1QjROUVNBLXB5X2huRjRjdWhtNTVkNmlXSjB6NnhremYwSkw3YVNiQUpMSUw1TTBhOXd3OU1tcVd6WFN5ZkgyVXBaRlU1M0YzdVNsZ2t2T1RvM2hGZUdtZWVteWJ4QlZCdlotV2stTHM3ZWh1ZkpaUnJvTENjYXJDaEpUVTlrT0EyNG94WUNYR0tDSmpraWs?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-17T22:06:36.000Z",
-      "whyItMattersKo": "감독의 우승에 대한 강한 열망은 선수들과 팬들에게 큰 동기부여가 됩니다.",
-      "fanTakeKo": "아벨 감독 덕분에 우승이 기대돼!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhybURRa3NiQWxjX1EySm4xQU9pQ2ptaTF5R3Y4X2RRUWdJYnVFYkY1Yl",
-      "title": "Abel Ferreira recebeu uma homenagem no Palmeiras pelos 11 títulos que conquistou - ge",
-      "summaryKo": "아벨 페헤이라, 11회 우승 공로로 클럽의 예우 받아",
-      "excerpt": "Abel Ferreira recebeu uma homenagem no Palmeiras pelos 11 títulos que conquistou&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhybURRa3NiQWxjX1EySm4xQU9pQ2ptaTF5R3Y4X2RRUWdJYnVFYkY1YlBoZHMwMmNLTG5HU2sxRVJhSEpMVWdvUUJrLWtua1RnSG9MS0xoS2xLNVo5cW9aVklFaXZWeXZodDRubHpkTE5MYmUxTTVtdmxBdDE2MlUxZFFvNzJQc0FfSGt5V2hyWklBYzlieFJibHczLW9ocURoQW13VnFjTTk4TWV5S3lyaG1sTmN0elgwaDVWMNIBzgFBVV95cUxPV1Y0blFOQkFBZERqcHlScUI5RldyZWtpU3cxRlVVT3duVk96UjByZE5BT2VPZXpHYUFkYl9MMzQyZ09URXdELXhvVlFETThPT3VRMGFVNUdLWTdsTENCNlpZM3RnaUJSY0dZcXFsOHR4MW5Nb25vbmpQVldmNWV5cHlLMWJ1eW1fTURQcWFvelU1eU5MeWNLYXIwMVpldlRlRzJQdnBleThORjdrRWwyZ0NmSVZZdmZDaWpOWWJVa2hjdkVJU0VTSEJVd0FPdw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-17T22:06:23.000Z",
-      "whyItMattersKo": "다수의 우승을 이끈 감독의 위상을 확인시키며 팬들에게 자부심을 줍니다.",
-      "fanTakeKo": "11회 우승, 진짜 대단한 감독이에요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWdHcUt4NDFWcWJNaHQ1eWF6al9yNjl6dnNDdWNESVpXMzZwSXFrQm9YTVV",
-      "title": "Maior campeão, Abel Ferreira recebe espaço na Sala de Troféus do Palmeiras - palmeiras.com.br",
-      "summaryKo": "아벨 페헤이라, 파우메이라스 트로피룸에 이름 남겨",
-      "excerpt": "Maior campeão, Abel Ferreira recebe espaço na Sala de Troféus do Palmeiras&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWdHcUt4NDFWcWJNaHQ1eWF6al9yNjl6dnNDdWNESVpXMzZwSXFrQm9YTVVhREFPRGxDUHJxaFhYV2JjeF9sd3JXSEgwQUFrLWNXMkpxaXVEWkFsb1BHTzZpdUpnSmpsZ0F0YnN4QUdkU2p6cWIwcFh6RU00WDNSbzM3ejdld1c1aDFrUGdsbkxIVXkxMGdDNW9yYXlmQmhlVU1mRlpoSVpjS0IwSkIzaWVB?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-17T21:54:41.000Z",
-      "whyItMattersKo": "최다 우승 감독으로서의 업적이 공식적으로 기념되는 역사적인 순간입니다.",
-      "fanTakeKo": "전설의 감독, 영원히 기억될 거야!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
