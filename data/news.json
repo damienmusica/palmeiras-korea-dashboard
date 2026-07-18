@@ -1,8 +1,104 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T12:13:16.589Z",
+  "fetchedAt": "2026-07-18T13:57:29.984Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWWhOR1JDUFJUZ19Yek1YS19JMEpRa1c2ZnFSNWdLdmtUVE5RN0RMaV83TFZ",
+      "title": "Palmeiras de Pará de Minas viaja para participar de competição na Argentina - Rádio Santa Cruz FM",
+      "summaryKo": "파우지나 파우메이라스, 아르헨티나 대회 참가",
+      "excerpt": "Palmeiras de Pará de Minas viaja para participar de competição na Argentina&nbsp;&nbsp;Rádio Santa Cruz FM",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWWhOR1JDUFJUZ19Yek1YS19JMEpRa1c2ZnFSNWdLdmtUVE5RN0RMaV83TFZ2b1JiRS1XRXVqYUJMTjFVdURCbERiRmc3bHpkSXdBdTh3QzZpTm9jNFRNUEktQ0JmWjUtZ3p5dWhTRlI0SEdwd1ZnWjMzZUZydGlrRmNwWFpYdzRoM1JrWGlQYk52cFdvYlBDVkZKbC1ES2ZONGRRYjB3OEplRWR1YTYycDg4WXNhUFdQNTJ0ZmxrSDM4ajl5cEFjR3JZeVJTenRqOXpYZEN4WQ?oc=5",
+      "source": "Rádio Santa Cruz FM",
+      "language": "pt",
+      "publishedAt": "2026-07-18T13:51:58.000Z",
+      "whyItMattersKo": "이는 유명 파우메이라스가 아닌 지역 팀의 소식이니, 혼동하지 않도록 주의해야 합니다.",
+      "fanTakeKo": "이름 같아서 헷갈리네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2xxOUhMREF3MWo5c2IwazBCVFFHU3ZyX1FjT0Y1UWtQeWNpcGpYOWd6cEE",
+      "title": "Estafe de Danilo, do Botafogo, traz versão diferente da de presidente do Palmeiras, diz jornalista: ‘Futebol brasileiro só no último caso’ - FogãoNET",
+      "summaryKo": "다닐로 측, 파우메이라스와 다른 입장 전해",
+      "excerpt": "Estafe de Danilo, do Botafogo, traz versão diferente da de presidente do Palmeiras, diz jornalista: ‘Futebol brasileiro só no último caso’&nbsp;&nbsp;FogãoNET",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2xxOUhMREF3MWo5c2IwazBCVFFHU3ZyX1FjT0Y1UWtQeWNpcGpYOWd6cEEzMVlkeG1NZnUzcGJKeWxpMkFQRFZ6MXNvUEpzZDZzbEdFcWhvcXVZajZIcENkY1NPZlNfZUo0U1NrUWoxME1ueDhpbUZ6Vl8zWGM3Vy1FR1FZbnhxOUpiVUFSbFVxR2kydzZSczQydy1iYVFGN0xGT2MzemFrZTg?oc=5",
+      "source": "FogãoNET",
+      "language": "pt",
+      "publishedAt": "2026-07-18T13:51:29.000Z",
+      "whyItMattersKo": "선수 측이 브라질 잔류를 꺼린다는 보도는 파우메이라스의 영입 계획에 큰 변수가 됩니다.",
+      "fanTakeKo": "입장이 다르면 힘들겠네.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlBHMzZ6bXBvRF80NzNEVEJiQWFtYWJwbkVHZ2lpdHBLeW1tcHhYcFhrOWZ",
+      "title": "Palmeiras faz dois jogos-treino, apresenta Barboza e segue atrás de Danilo - ABC Repórter",
+      "summaryKo": "파우메이라스, 연습전 치르고 바르보자 공개",
+      "excerpt": "Palmeiras faz dois jogos-treino, apresenta Barboza e segue atrás de Danilo&nbsp;&nbsp;ABC Repórter",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlBHMzZ6bXBvRF80NzNEVEJiQWFtYWJwbkVHZ2lpdHBLeW1tcHhYcFhrOWZaeVhySmJFQTBheTVHS3A5ZjBHM2QxNnhwcXBKR1pmaW9HMkdOSVJhdVRGaTlkXzhyVGpVbWlRcXNTdXp1YVlNV0wyVjdTT0FxdDk0QkZHV0tsS3F1SXRCOXZNVVdSdDZGYkY5cnVIYkI5WkIzZmRLWEJra1BxN1FLUUdoYjdB?oc=5",
+      "source": "ABC Repórter",
+      "language": "pt",
+      "publishedAt": "2026-07-18T13:49:23.000Z",
+      "whyItMattersKo": "새 선수 바르보자를 공개하고 실전 감각을 익히며, 다닐로 영입을 위해 시장에 계속 남아있습니다.",
+      "fanTakeKo": "다닐로 영입만 기다리겠다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGR4Mkk1QjhxTUMxUF8tOXpKQ2NRNlZlV1FsTHVQd3lHb2VFTUpCcWNaVnM",
+      "title": "Palmeiras: Abel Ferreira é sincero ao revelar sonho pessoal - Terra",
+      "summaryKo": "아벨 페헤이라 감독, 개인적 꿈 밝혀",
+      "excerpt": "Palmeiras: Abel Ferreira é sincero ao revelar sonho pessoal&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGR4Mkk1QjhxTUMxUF8tOXpKQ2NRNlZlV1FsTHVQd3lHb2VFTUpCcWNaVnM5MkpQd2JYTXMza19qZldWaGQtb3ZFRVF5aVNCTThLUXNEQk9Qa0JXbDY0cXl0d3gteEswV3JrZk1XQ2ZJenNvQWV6Z2x2UWxpTW5SOFNGLWlMMXpqOHRkaDhaUWJXSGdSblhlZmdXM1ZpWElUd0RiV1dXMmZqVThiSUZ2M0ZxWHJOOWVndndsbTRzUXo3SEljTXZKM3VwSElnNUNLeXFHRFZJMkI1c0tEVDNkd09n?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-18T13:30:00.000Z",
+      "whyItMattersKo": "감독이 솔직한 마음을 밝히는 행동은 팬들과의 정서적 유대감을 높이는 긍정적인 신호입니다.",
+      "fanTakeKo": "우리 감독님 꿈 이루자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGx",
+      "title": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino - ge",
+      "summaryKo": "파우메이라스 대 상파울루 여자 리그 경기",
+      "excerpt": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGxPSWo0TmN4d2lvTm8xLWNLNkZ4dDZPSXJVV0RDdUdHX1d5dk9UVzIzT1Fxc1pOMElkRy1YZEdiQ2pWVXVrdVVOdk8xaldTVkF3c3dELVRuQVdNYnV0bVNiTzlXcjFWRW82SEh3YWlZV0lYbjZyM2ZwNVVkWGxSR3dqZ09RcUJIWFpwVHN5b1pmRmdtbmFvb1E?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-18T13:12:38.000Z",
+      "whyItMattersKo": "여자 팀의 리그 성적과 경기력을 실시간으로 확인할 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "여자 파우메이라스 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMikAJBVV95cUxOaEhURjQ3SldpVWZrdC1ITWd6Q01QdkJ3NWduTU41SnlzNkFaaGZOU0V5anF",
+      "title": "A declaração de Alexander Barboza envolvendo o Botafogo durante sua apresentação no Palmeiras - Terra",
+      "summaryKo": "바르보자 입단식서 보타포구 언급 화제",
+      "excerpt": "A declaração de Alexander Barboza envolvendo o Botafogo durante sua apresentação no Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOaEhURjQ3SldpVWZrdC1ITWd6Q01QdkJ3NWduTU41SnlzNkFaaGZOU0V5anFhMzBMR2x5LUlmOGh3SEtuMHM0OUJaSTZsakJRb0Zhd2o1NmczbUVBLWl1eTlyTkxCMGQwNzhEZGpPS2FrOUtNX3BXY2tSQlZDMnFlVWxJcE9nOU9hOGgxbWliZlFhdnEzUzlTVU9sTWExQkZWQVBkdUNnUEllN1BZc29ZdnFRTGJCeE5Ed3Z6U0Q0Zmx5Z1VRNjFHU3cxS1RsMlplV0hiZGRBNEtEekJlVkhpSm00MDE4b1k5WENKVEt0a05GTUtQdndfN3hUOWZlSlRaMjQyaHR5TVRyMWpkaU5jTw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-18T12:20:00.000Z",
+      "whyItMattersKo": "신인 선수의 라이벌 언급은 팬들과 팀 분위기에 미묘한 영향을 줄 수 있습니다.",
+      "fanTakeKo": "파우메이라스에만 집중하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1naEExd0MzdXJYZ0MxYWprdWhfcm1oMXp3bmFqaHBaUkg3TS0xMWFpLWp",
       "title": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel - UOL",
@@ -14,6 +110,38 @@
       "publishedAt": "2026-07-18T12:06:07.000Z",
       "whyItMattersKo": "팀의 미래 자원을 지키는 결정은 유망주 육성과 팀의 장기적 전력 강화에 도움이 됩니다.",
       "fanTakeKo": "우리 유망주 꼭 잘 키워줘야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9nTEJxZGtzTlJLVlBNbHZpenBhM29lSE9CdWZWa3VuNU44bW01MXVOcHR",
+      "title": "Com gols de Rodrigo Nestor e Román Gómez, Bahia supera a Chapecoense pelo Brasileirão - Blog do Valente",
+      "summaryKo": "바이아, 샤페코엔세 꺾고 브라질레이렁 승리",
+      "excerpt": "Com gols de Rodrigo Nestor e Román Gómez, Bahia supera a Chapecoense pelo Brasileirão&nbsp;&nbsp;Blog do Valente",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9nTEJxZGtzTlJLVlBNbHZpenBhM29lSE9CdWZWa3VuNU44bW01MXVOcHRocVJBVi1Idno2RXlkaHI1TC1kYmpRY1lSYmtOcWtqV284TGY1empvQ2lUd0E1NG5kMElvU2pkRFgyWE9NYUJ4MzI5ZGdVb2R2VTY0blZBSUhtOVJPa29kN05CSXQ2MWFNNGxDanpSa3J1dDdHS0lZTW50MEFOdVZVUVZlMXlaVFlxTWVtMU9rUWRqY1pIM09OcVNScldR?oc=5",
+      "source": "Blog do Valente",
+      "language": "pt",
+      "publishedAt": "2026-07-18T11:02:54.000Z",
+      "whyItMattersKo": "리그 경기 결과 변화는 파우메이라스의 순위 경쟁에 영향을 줄 수 있습니다.",
+      "fanTakeKo": "순위표 변화에 촉각을 세우네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2IxSF9CTWNWYlBkRnp3S1F4bjJ0OUNPa1B5c2VrVHJlR2s1Z192YmpxZVh",
+      "title": "Joia da base do Remo, Gustagol é emprestado ao Palmeiras - Ver-o-Fato",
+      "summaryKo": "레모 유망주 구스타골, 파우메이라스 임대",
+      "excerpt": "Joia da base do Remo, Gustagol é emprestado ao Palmeiras&nbsp;&nbsp;Ver-o-Fato",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2IxSF9CTWNWYlBkRnp3S1F4bjJ0OUNPa1B5c2VrVHJlR2s1Z192YmpxZVhVODRrTlN4LU9wRnlISU5RQjZ3TlJZM0YyRm4yQWZYWXpWdlBLSHo4MHFfWVIyMkxVSURfVUpmbzBGLUN0QXh0a1lKNHh1SnRWVUtZREdiOUc1RWVNUFE?oc=5",
+      "source": "Ver-o-Fato",
+      "language": "pt",
+      "publishedAt": "2026-07-18T11:00:00.000Z",
+      "whyItMattersKo": "유망주 영입은 팀의 미래 전력 보강과 공격 옵션을 늘리는 기회입니다.",
+      "fanTakeKo": "유망주 영입, 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -206,22 +334,6 @@
       "publishedAt": "2026-07-18T01:34:00.000Z",
       "whyItMattersKo": "리그 운영 전반에 관한 내용이라 파우메이라스 일정에도 영향이 있을 수 있습니다.",
       "fanTakeKo": "리그 일정은 꼭 챙겨봐야죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGx",
-      "title": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino - ge",
-      "summaryKo": "파우메이라스 대 상파울루 여자 리그 경기",
-      "excerpt": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGxPSWo0TmN4d2lvTm8xLWNLNkZ4dDZPSXJVV0RDdUdHX1d5dk9UVzIzT1Fxc1pOMElkRy1YZEdiQ2pWVXVrdVVOdk8xaldTVkF3c3dELVRuQVdNYnV0bVNiTzlXcjFWRW82SEh3YWlZV0lYbjZyM2ZwNVVkWGxSR3dqZ09RcUJIWFpwVHN5b1pmRmdtbmFvb1E?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-18T01:02:56.000Z",
-      "whyItMattersKo": "여자 팀의 리그 성적과 경기력을 실시간으로 확인할 수 있는 중요한 경기입니다.",
-      "fanTakeKo": "여자 파우메이라스 파이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -842,118 +954,6 @@
       "publishedAt": "2026-07-17T18:35:59.000Z",
       "whyItMattersKo": "라이벌 팀에서 유망주를 영입해 미래 공격진에 새로운 활력을 불어넣을 수 있습니다.",
       "fanTakeKo": "플라멩구서 데려온 거라 더 기대되네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0NjTEo1UmVqTGpnLTZqNzRyVXE4UGstUWFLbU9rMldaRm11SnI1TEpmcFd",
-      "title": "Palmeiras x São Paulo no Paulista Feminino: confira onde assistir - Arquibancada Tricolor",
-      "summaryKo": "파우메이라스 여성부, 상파울루전 중계 안내",
-      "excerpt": "Palmeiras x São Paulo no Paulista Feminino: confira onde assistir&nbsp;&nbsp;Arquibancada Tricolor",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0NjTEo1UmVqTGpnLTZqNzRyVXE4UGstUWFLbU9rMldaRm11SnI1TEpmcFdUeU5pM0Z0b0dmejhZbVJScjhFRkN0Yk1pSFFJYU5Fei1mTVloVGlPT1pBR0syVlJ3NU9wZ0VfSU9mVEZRU0xFT2MzUl8xa0MwNGNMQ3h6azA5ZElVUFZhS3ZDMy1EQldYTHc?oc=5",
-      "source": "Arquibancada Tricolor",
-      "language": "pt",
-      "publishedAt": "2026-07-17T18:00:00.000Z",
-      "whyItMattersKo": "여성부 경기 중계 정보라 팬들이 팀 경기를 지켜볼 수 있는 좋은 기회입니다.",
-      "fanTakeKo": "여성부 경기도 응원하러 갑니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMic0FVX3lxTE15cFVyekFiMUlLT3BSMzVzM3Q2Z2hhRUhoSDZPekxxWmhMNzBIRFFnSldNN3d",
-      "title": "Palmeiras intensifica saídas: Luighi e Naves rumam ao futebol internacional - Fato Paulista",
-      "summaryKo": "루이기와 나베스, 해외 진출 움직임",
-      "excerpt": "Palmeiras intensifica saídas: Luighi e Naves rumam ao futebol internacional&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15cFVyekFiMUlLT3BSMzVzM3Q2Z2hhRUhoSDZPekxxWmhMNzBIRFFnSldNN3d0dWZPYmNNT0ZkeXFsZWVFVzMyLVFmZV91Q0FzR2luSndfdEYzWDdrYlpSajNjR0hiVWY0OWVZMGJ6SU5Zczg?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-17T17:19:46.000Z",
-      "whyItMattersKo": "주전급 자원들의 이탈 가능성은 팀 전력과 뎁스 관리에 변수가 됩니다.",
-      "fanTakeKo": "보내주기 아쉽지만 응원할게요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1RsSnZYSHNMejhvUkh5YVphLUdBTGptak5GeDFaejMzZk9uUFZ3aS1GVFh",
-      "title": "Palmeiras abre o cofre e confirma contratação de peso para o 2º semestre - RD1",
-      "summaryKo": "파우메이라스, 후반기 대형 영입 확정",
-      "excerpt": "Palmeiras abre o cofre e confirma contratação de peso para o 2º semestre&nbsp;&nbsp;RD1",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1RsSnZYSHNMejhvUkh5YVphLUdBTGptak5GeDFaejMzZk9uUFZ3aS1GVFh0TTB5cTZHWXNlczFsc3pEbXROcjU2NXExOGJySTdCYzh4X2ZTMkx6S0dqWEVZaFc3S3JhMVdyNU1UOFcxMGpzRVNXRVJJWHA4V1VidWtac3lRdUplTDNMSTl3V3JMbXQtbnc?oc=5",
-      "source": "RD1",
-      "language": "pt",
-      "publishedAt": "2026-07-17T17:10:52.000Z",
-      "whyItMattersKo": "팀 전력 보강을 위해 대규모 투자를 한 만큼 후반기 성적 향상에 기대가 큽니다.",
-      "fanTakeKo": "드디어 대형 영입이라니 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWJ3OFpZNk9EZm9waGlHamVHbnBCY01DQklYaVZpYjZMUldoSEl1NUtLV1h",
-      "title": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel Ferreira - TNH1",
-      "summaryKo": "파우메이라스, 플라멩구 신예 공격수 영입",
-      "excerpt": "Palmeiras resgata joia do Flamengo, e atacante já é observado por Abel Ferreira&nbsp;&nbsp;TNH1",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWJ3OFpZNk9EZm9waGlHamVHbnBCY01DQklYaVZpYjZMUldoSEl1NUtLV1hsUlZBYlM2bnlIN3BjUWd5OElQMFZnQmFFMzZYNHdSdVlxVjJlbzhpbkdBRVNIM1E0ckFhbFZPN3Fib09Ud0pDcUtob1hRSmR5b2tEa3lMWFFMMjY4WGhKeWV2U0VuNzFBYUw1YmI5VHBydFFHSlBhNS1oVURRVEJuYzdHeGF2SnBrUdIBsAFBVV95cUxPbl9qZHNwazBRMnhjWEVPdmpnVVAxQmdrUmx4ZHN2Z05MVVcweHNsdEZBYXgxVDlGZmphNzVyampIdFJ1X3RMSHlRcDJrVGxVVUduZ2xoYUFtRjkzOGhPaDlQTnJmbjRJenpzVmNCckRDUG5QVkRqQ3VLN0VoaG5PLXpTeVJvbVczN1hCbHN6eVM4eEtnTlRCTE51ZTBWS1hiZmstdHdzaC1TSUNmeEtMbQ?oc=5",
-      "source": "TNH1",
-      "language": "pt",
-      "publishedAt": "2026-07-17T16:46:16.000Z",
-      "whyItMattersKo": "아벨 페헤이라 감독이 주목하는 유망주라 공격진 옵션이 늘어나고 미래 전력이 강화됩니다.",
-      "fanTakeKo": "기대되는 신예 영입이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEE1N0xXbEdjZDQxU2FUNEdWTXM4eGFFTWxQbFZ2bXVUcW42bGZJU3lBNmt",
-      "title": "Gi Campiolo valoriza pausa e projeta sequência decisiva do Palmeiras na temporada - LANCE!",
-      "summaryKo": "캄피올루, 휴식기 뒤 중요한 일정 기대",
-      "excerpt": "Gi Campiolo valoriza pausa e projeta sequência decisiva do Palmeiras na temporada&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEE1N0xXbEdjZDQxU2FUNEdWTXM4eGFFTWxQbFZ2bXVUcW42bGZJU3lBNmtsZGtSVUhueVJIWjZGR29melRTd3BocVJ6bndNeTNyUGlSZjU3Q1RxbFZhVDQ1bTBaWlNKVFNISGJOMG9DLS03alFKRVpXMFBEQ0hlUXJoaEQyWmJPcmV0TkotVzRObUZFODF3VmZmOEJGb2lqV0JjV3pGZHVyUnd6NHlQdG9BMmw4SEhMeXZHQTdEMXhDakZDQmgw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-17T16:38:07.000Z",
-      "whyItMattersKo": "선수들이 컨디션을 회복하고 앞으로 다가온 중요한 경기들에 대비할 수 있는 시간입니다.",
-      "fanTakeKo": "푹 쉬고 와서 좋은 경기 보여줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXpMREdNZDlFZHo5VmRGTEpIZWd5aUhSTkpGNTZ6Y3JpdE1tbS15YmluX0x",
-      "title": "Revelação da modalidade, Ket é a nova atacante do futebol feminino do Palmeiras - palmeiras.com.br",
-      "summaryKo": "파우메이라스 여성팀, 신예 공격수 케트 영입",
-      "excerpt": "Revelação da modalidade, Ket é a nova atacante do futebol feminino do Palmeiras&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXpMREdNZDlFZHo5VmRGTEpIZWd5aUhSTkpGNTZ6Y3JpdE1tbS15YmluX0xEUkxKbnV5RmJfV01wME03aTRkY3FjU2x2RFJuT2xaMmxvY09WNEtPb0c2UjJaMER1Z1g1ZjIwWjZfdld6T3BNOXpIdmtaX2NCRHdqcXUzSVM0X0xaQ1BGa2x0MlJJV194Y3ZqLUVDZGZWUW9fOWgxcXlvcnFWOG9TdE90dWo2QWxYVzZF?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-17T15:54:51.000Z",
-      "whyItMattersKo": "여자 축구팀에 유망한 득점력을 가진 신예가 합류하여 공격력이 보강되었습니다.",
-      "fanTakeKo": "여성팀도 응원할게요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW4zVDRIaHdiUVhYTGczVWhuckZ6MmJlaUFHMnBwZm1ncVVvQm0zc0hzLXR",
-      "title": "Palmeiras planeja férias para Flaco, mesmo com a retomada do Brasileirão - R7 Esportes",
-      "summaryKo": "파우메이라스, 브라질레이렁 재개 중 플라코 휴가 계획",
-      "excerpt": "Palmeiras planeja férias para Flaco, mesmo com a retomada do Brasileirão&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW4zVDRIaHdiUVhYTGczVWhuckZ6MmJlaUFHMnBwZm1ncVVvQm0zc0hzLXRCSWNmdlM2NVdESWk3QXo3S2xkNENfMVM2VnE5LWNMZWtZQjVwNWR4cURaYWJzU0xKX25CQldXQUlRNnZVa1BGZDMzSURIbFlQWGdtN2tlX3FkZWxxcUxISklQUGJneDRwS3owNmhTR3RpWllfMzBCRkFDMmYwWi04QXFfV1pBYlJEZw?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-17T15:22:53.000Z",
-      "whyItMattersKo": "시즌 재개 중에도 베테랑 선수의 컨디션 조절을 위해 휴식을 계획했습니다.",
-      "fanTakeKo": "플라코 쉬어가고 다시 힘내길!",
       "tags": [
         "뉴스",
         "AI요약"
