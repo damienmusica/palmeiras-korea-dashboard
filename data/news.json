@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-18T03:56:35.572Z",
+  "fetchedAt": "2026-07-18T06:08:44.970Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd19zME1hVW1oWVBfeEdnTGstcWs0Ty1TQlYza05KM0pETkFPdVZORkUzNnF",
+      "title": "Abel Ferreira ganha exposição exclusiva na Sala de Troféus do Palmeiras - R7 Esportes",
+      "summaryKo": "아벨 감독, 구단 트로피 룸서 독점 전시",
+      "excerpt": "Abel Ferreira ganha exposição exclusiva na Sala de Troféus do Palmeiras&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd19zME1hVW1oWVBfeEdnTGstcWs0Ty1TQlYza05KM0pETkFPdVZORkUzNnFINWVHV2tkSEktSE5EY1hnUmZoRHpMRFg1cUVOQlF2dXh6d0tCNGRkTk4zSHRtTnNHSVd0VUtvYmM4bThyUk1ha0w5TXg0YmhIZUNWc1NUaHQ2OVNRWXdUWXltZ0xmdTR0UC1sSmxrSm9SQkxLVnVvdW9HVmluNzNTTG9ZWUpvMEx5SGZlNTdDZklHcmZIdw?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-18T05:00:01.000Z",
+      "whyItMattersKo": "구단 역사에 큰 족적을 남긴 아벨 감독의 위상을 공식적으로 인정받았습니다.",
+      "fanTakeKo": "아벨 감독님 영원한 전설이시죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFhfN3FXWERwbk9yc0dPdV9tM1NDYm9mQV9pWjFQaFQ2cklnelduUVNOMFR",
       "title": "Brasileirão Sub-20: Braga conhece datas e locais da semifinal diante do Palmeiras - Red Bull Bragantino",
@@ -14,6 +30,22 @@
       "publishedAt": "2026-07-18T02:19:00.000Z",
       "whyItMattersKo": "유망주들의 성장과 미래 전력을 확인할 중요한 준결승 일정이 정해졌습니다.",
       "fanTakeKo": "유망주들의 활약 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGx",
+      "title": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino - ge",
+      "summaryKo": "파우메이라스 대 상파울루 여자 리그 경기",
+      "excerpt": "Ao vivo: Palmeiras x São Paulo | Rodada 4 | Campeonato Paulista Feminino&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnRXamFVMjJSUVpWcjZDVmRERlF5SGViQnROTE9QdW1RbTA0Q0lFeE9qTGxPSWo0TmN4d2lvTm8xLWNLNkZ4dDZPSXJVV0RDdUdHX1d5dk9UVzIzT1Fxc1pOMElkRy1YZEdiQ2pWVXVrdVVOdk8xaldTVkF3c3dELVRuQVdNYnV0bVNiTzlXcjFWRW82SEh3YWlZV0lYbjZyM2ZwNVVkWGxSR3dqZ09RcUJIWFpwVHN5b1pmRmdtbmFvb1E?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-18T01:02:56.000Z",
+      "whyItMattersKo": "여자 팀의 리그 성적과 경기력을 실시간으로 확인할 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "여자 파우메이라스 파이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -925,36 +957,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5pTTF2SE1MSThXUC1JQ3ZzR3BwaS1LeDlUclljOVJzcVJ3a1c5N1I2VE",
-      "title": "Abel Ferreira troca experiências com técnicos da base do Palmeiras em palestra na Academia - Gazeta Esportiva",
-      "summaryKo": "아벨 페헤이라, 유소년 코치들과 소통",
-      "excerpt": "Abel Ferreira troca experiências com técnicos da base do Palmeiras em palestra na Academia&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5pTTF2SE1MSThXUC1JQ3ZzR3BwaS1LeDlUclljOVJzcVJ3a1c5N1I2VEdhTHZ4NlJsX21BYWZhc1BYUGRpNl9iVm56RmdTN3llUU50djlTVUpUbFlRcmZtT056S0ZELVRDYW0tQUxqd29WWk1HQXJwZXZpRHdWQ3l3aUpDbGZxa2U2NVV2RdIBlAFBVV95cUxQMzJEQXpDbzk5YWhBaHZfZGc1VE5vVzQ5NjhuRk1EWk54eWF1cmRyaG1BZjVlMHAtVnB2SkYzN3RZVFp2U1UxZmUwQmZycVY3WnFSMVQ4YmRGbHp1M2l3ei15ZzBMMkpkS1FZcHdtT2g2ZXNmVnlWZEVfRlo0XzFJVlFsbzZsOGtIb25RaFZ6blA5UUpN?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-17T13:35:00.000Z",
-      "whyItMattersKo": "감독의 철학을 유소년부까지 공유하면 미래 전력 통합에 도움이 됩니다.",
-      "fanTakeKo": "아벨 감독의 열정 대단하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmJsN0tKV3NScTQ0WVRhbUx1WnRvREdxb1c3NXlGckE0Ny1iU0NsRThjY25",
-      "title": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras - Terra",
-      "summaryKo": "바르보자는 우루과이를 선택하고 파우메이라스 - 테라에 도착한 후 소환을 목표로 합니다.",
-      "excerpt": "Barboza escolhe o Uruguai e mira convocações após chegada ao Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmJsN0tKV3NScTQ0WVRhbUx1WnRvREdxb1c3NXlGckE0Ny1iU0NsRThjY25WdUdBQWpDUGFOd0poZXY2b205anY4WDhUbDVmTUNlQTNMYnJ2NGdablpQSV83bk1GM2hOMDRvaXV6UHhhTmdkQUk3OC1mTEdKM2RfOUZDOXlBYV9YUkI0Z3phdWNCSE5XSWxPeWM0Mkx4T3hyY29YYnpwSGlVMWtBVzRnTm8xNDdKNHdjaGRIUzdOUG5Jdjc1a09Yc3pNU1cyUHlHYnI4enlWeFd2bkJqTHFBT3hqSi04bV9RQmNIcm1UYURsUQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-17T13:28:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
