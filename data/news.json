@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T07:27:17.407Z",
+  "fetchedAt": "2026-07-19T09:29:07.991Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiygFBVV95cUxOSS1ZMTlGWXE0ZDg1akw1R25JMUl2ckljeUVYX3VVcFFUNjBGRlVRLXBQVXZ",
+      "title": "'Caçador' do Palmeiras, Paulinho quebra tabus e levanta a voz contra a intolerância religiosa - LANCE!",
+      "summaryKo": "파울리뉴, 종교 편견 깨고 목소리 높여",
+      "excerpt": "'Caçador' do Palmeiras, Paulinho quebra tabus e levanta a voz contra a intolerância religiosa&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSS1ZMTlGWXE0ZDg1akw1R25JMUl2ckljeUVYX3VVcFFUNjBGRlVRLXBQVXZoLThnSm0tYnlYVHQybXlSTE5oTFhRNUc4Yk15OEJhdnU2ZDJHYUZqM0h5MFZJNWFHLWtmcDlERm42N2lVaWEyWTE4Rk1aekQwQVBKZGF3cUxQd2l1SlNqX25ZNHlTWS10SWxRRTBnWEhDSkdzNlpuREN2VTlFeWRlWjlPVk5KbVR4MjFSXy1rQUdhLVRnU0xHc0VhTmZn?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-19T09:15:00.000Z",
+      "whyItMattersKo": "주장급 선수의 사회적 목소리는 팀의 응집력과 이미지에 큰 영향을 줍니다.",
+      "fanTakeKo": "파울리뉴, 멋진 용기 보여줬어!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N",
+      "title": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras - UOL",
+      "summaryKo": "구스타보 고메스, 파우메이라스와 장기 계약",
+      "excerpt": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N6bE0tVklRaDFrYUxadG9VZjNib1JMc3U3c2FaQ1lsTEx4MHNZQ2ZnZHFxbndqRFlZNnlpTkhNTDZSQUVHa3pUa09pTEpnc3U1ZFRJLTRDSnFPTzg4dFVmaGpjc3VyU3ItcmRXM2ZMUi1TX1FaZEp3X0F4a2lDMG11XzZtc3lhWFdhU1B6cW5LdVF4MGw0SW5SZG5Fck92VnBEcVZVVVZnVGhyMmxCRHBNR2NV?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-19T08:36:13.000Z",
+      "whyItMattersKo": "주장과 수비의 핵심을 오랫동안 잡아두면 팀 전력 안정성이 크게 올라갑니다.",
+      "fanTakeKo": "주장이 계속 남는다니 다행이야!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbktsUFBpMXdub0F3N05HRnR0U2FYMno4RG1DeHN2VVlVRDcyUDBpendaekl",
+      "title": "'Muita dor de cabeça': o desafio de Abel e Palmeiras que levou Flaco à Copa - UOL",
+      "summaryKo": "아벨 감독, 플라코 코파 아메리카로 이끌어",
+      "excerpt": "'Muita dor de cabeça': o desafio de Abel e Palmeiras que levou Flaco à Copa&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbktsUFBpMXdub0F3N05HRnR0U2FYMno4RG1DeHN2VVlVRDcyUDBpendaeklGa19WYTZhU1d0MGd0MzBiaFFIeTU5dHRBc0lMWGVocEtfMlJTRElnbmpmSUdLMVFrNzF4NXBRZVZIOENzdjVvQzJoM2FoUFdkc01kWHg2Z1lPTVV2djd2d0pROERCUXkyWWs5aGdiTk1kelZXdTM5YWJUU1kyNzRpZUplbWVOano2SUdiMWNxcUxIUWNLSHNqX2RVM2RXTFZ5VjJqN2VuM09mMzJZQ2p1TEhndWtKSnR0QzMyNjFVRHZzdTBZXzl0dVNraTR3?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-19T08:33:23.000Z",
+      "whyItMattersKo": "감독의 지도로 선수가 국가대표로 발탁되면 팀의 가치와 선수 의지가 올라갑니다.",
+      "fanTakeKo": "플라코 국가대표 가네! 대박이다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMifkFVX3lxTFB3aEd4TjlPVFMta0UteGdSVFhkUHRtdlp2M2VPUG9vNUUyUFNJV3dEMUNReHU",
       "title": "Abel Ferreira no Palmeiras: entenda a situação contratual do treinador - Fato Paulista",
@@ -25,7 +73,7 @@
       "summaryKo": "나베스, 멕시코 네카사 이적 위해 계약 완료",
       "excerpt": "Naves assina contrato e viaja para concluir venda do Palmeiras ao Necaxa, do México&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUW5BWkgyd0hCOUloMXp4THJ2WmhfVHhvTHpMcmEtRTlhM2JlZVZCdVllWHZER1RmRFQ5YVdEV19tSjc0UlU0b2w1aFo1cnFVNURBeXBVRWFfRUZPeVpQSEd6RnhsTFNoTHYzOEtXZGg2UUpmek9Vb0hUZjZoelVHQ09HYlJwU0N3S1ZFdExEdVM1MmM3VXZfNnRfcHRSNFVtV1ktQVZhU3Nrcmd4TVJhZ0ZEVVYzWE8yQ3lxdUxSMjJieWEzaUdwUTNhdmhGVFZuM2JONjhZOGFUQTVDVExyZ2I4eElPRFHSAfYBQVVfeXFMTUNnR25wWmJ2QmY0d0ZiSHg4UmhYYVlxUkplaUszTndaLWp1bFFIeHlqQVRiTkJQZDNmUEZNelFqS0RsOGxvdEZzMmZrZXJEbDQ2RFFIUkFDSGlfY0ViQVA4VDZOdl9FNVd5WnRmR0VUa050ZHMtckxIYnBfOGl3RG0zNlpfTmNFcmJxR1J6WUtsVXB1NXpub0ZvaGlJdDNxQUItR3JSSVNMdnlRVUVFa2pmcTVNbHAtaDBzMnBxdVU3ektkcWVzWWU5bHo3T0lrcTZkNkw5WlZBdHc0LWlIR1FxOEN6aUxfOFJwekktRTZWdDN2Wll3?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-19T01:16:15.000Z",
       "whyItMattersKo": "선수의 이적 확정은 팀의 로스터 정리와 이적료 수입에 직접적인 도움이 됩니다.",
@@ -371,7 +419,7 @@
       "summaryKo": "파울리뉴는 2025년 파우메이라스에서 골절상을 입었고 \"나는 45분 이상 경기하기에 적합하게 돌아왔다\" 고 말합니다. - GE",
       "excerpt": "Paulinho teve refratura em 2025 no Palmeiras e diz: \"Volto apto para jogar mais de 45 minutos\"&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVVPTDVxNUJlaml4djZVU1kyMXFJWk0za2pkaFBPWWFUQWV6N2gyRUZjR1ZUNXFzQ04zdHJSZ2pTdVBZSlQzcTlEdEUwQm1aSjBieTNLNWktbWFJbnNSTEhhdjR3T09GOFpJeFpsM3NvckpncU0tZzRWbXFjVFpRdDFOeG1kOTIwdUM0NFF4bE1uMVJ1S1N3ZV82ZUI3TDJsWExqZ2NPYXZ0enZRNEVaa2Jia1Y3OWUzc096MEFkaDY3ZDF4a24xVWtzSS1qcngyd1VOV1dvVmJYU29nS1lqLUx5T005WjVteFJoeW9CWVExWjjSAYICQVVfeXFMTndHeG1nWU54MklXZldyX0EwbHZmNHhDZ0IxN1pmaFV4UmdFYnIwNm91TzBKekpzVEFTaW9LY2RPOC1lTUJsQXZMWFEwVm9uZFlNa1BEa0lOR0JEWEd0SUQzaTExcmVuaDJCMTdOOElNdl9QSjFSblh2WjBzT2t0dkVIRkpOdWQ1bWhlTUozT1FEblJtdDE1UVA0UWRObHRfcUJJRTZSSUx4cTM4dlNGem5MX09jNzRnZFRwRURoNFhpODMwVU9scmFzMGlmdnB5WWsxVmlBb2JzWF9CTDlLX2lqWGRvYUtHRDdlTFgyeVpTWWQyUkhiSVA3RnkzQk80Q3JR?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T16:01:58.000Z",
       "tags": [
@@ -481,7 +529,7 @@
       "summaryKo": "아리아스, 월드컵 끝나고 파우메이라스 복귀",
       "excerpt": "Jhon Arias se reapresenta e reforça Palmeiras depois da Copa do Mundo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3ZDMTlpcy1xeFRrUjRERzRnX0FNczVERVlUQ0xmVU9wVmRUdWpQYTFKRl9NbEktZXRuOGFrdlN0bHBMM29EclhHNFMxYVRyZFA5M3RwTEl1U1ROM283TzI5WXZJaFZacUo3a0J0Zk1ZUW82eU4tLVNZUkh2TmV4Qlh1WmI4elBsRThPdVU4bjI2Y09XcVk4WFFVaDRsWUw3NkZyWGJfSGhjV0lvSmNBOWZpTmlPNTNnbU9yakI3WndoWlRSOGFXUUF2QW1GQ0NfY1BNWEZR0gHkAUFVX3lxTFBPOTJKVGwzaWMwSGx3OV9CU0duMEdrdzU2WUU2aEl4ZW9nMXdSdzRTT19rUzJLQms4U2RpZVFBT29vQzRWUTdmd3IwcmhKZTljWXN4bldPQTh6VHJwY3Eza0R1bW9RdWFFTDl5ZERZaVFCNGg2QnFyWjg1QkF5dmpGMHhMYTlUWlRqUm55dUpCRVNxaHdoSG02eHJfcFpJdWQ1TUV0VFZ0d0R2S2FFXzhZeTczWVR5RjVGY3dvcm1jdGpkdWlZUkhkWXdjY0J4aTc0MTFnSXpwMHN1YVdsYldBdmh6SA?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-18T15:40:07.000Z",
       "whyItMattersKo": "주전 자원 복귀로 팀 전력이 보강돼 다음 경기 승리에 도움이 됩니다.",
@@ -902,54 +950,6 @@
       "publishedAt": "2026-07-18T08:15:00.000Z",
       "whyItMattersKo": "다닐로 이적 제안과 주요 선수들의 상황은 팀 전력 유지에 중요한 변수입니다.",
       "fanTakeKo": "이적 시장 소식이 왜 이리 설레죠?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRW45RU1NQ3Q5SmVTa2xuQlpXazJRaTVNSmJLX2RVeDVRM2UtZUg2ZmtzQkk",
-      "title": "Contratações e saídas: Leila Pereira abre o jogo sobre mercado do Palmeiras - Rádio Itatiaia",
-      "summaryKo": "파우메이라스 영입·이적, 레일라 회장이 공개",
-      "excerpt": "Contratações e saídas: Leila Pereira abre o jogo sobre mercado do Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRW45RU1NQ3Q5SmVTa2xuQlpXazJRaTVNSmJLX2RVeDVRM2UtZUg2ZmtzQkktUUlwMy1XdWVFTFQyamY4Q1hnWlVGY2d3X294aW5PN3lOZnFLUlBJTk1hcmpfX1NfbjdXQ09fdElfS2pEZTdJdEFmX3doTXRyVjVRVVh4bkNsbzNHTHlna25BRVBHSEZObzNHWHRQUGZMNUpISlBpSDAyYTRFN1FubEo3djhzNzVqay1DWVI0RWIwVWpPT2E4OGc4Q2RocW5ZOW5qQ2lCMjd3RG5iSmNMSmFYTzI5Q1gtQUludHhoYjVLdWdlWlRUamtB?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-18T07:05:47.000Z",
-      "whyItMattersKo": "팀 전력 보강을 위한 영입 방향성과 선수단 구성이 드러나는 중요한 시점입니다.",
-      "fanTakeKo": "드디어 영입 소식이 들리네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalljNndRUS1ud1ZfNW5pZXRqV1hpQlFLRUJneW9uVzhhUGNBVlh3amdVQl9",
-      "title": "Leila quer renovação de Gómez e deixa futuro de Abel para próximo presidente do Palmeiras - ge",
-      "summaryKo": "레일라 회장, 고메스 재계약 추진·아벨 감독은 차기에",
-      "excerpt": "Leila quer renovação de Gómez e deixa futuro de Abel para próximo presidente do Palmeiras&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalljNndRUS1ud1ZfNW5pZXRqV1hpQlFLRUJneW9uVzhhUGNBVlh3amdVQl9jTXEtNHJpNWZDTmVZcTBGQkcyRUg3LWJZM2h3aGdIbFI3M1R1SDRiLU9sY0w2ZXBkZlNIQ1FjclpoYzZWRUVwWHFtSHhTU0dTa2hNUVdad1hZX2NRSTdORXE1bVlrdWVOYlJIUUNnQy1UTHJNb29NQXZ2ZkZpRVNQS0pOWENwNHd1RUdzWENXeTNFUnhHdGFyMUwyc19hekctRnh3bGhWdU5VNjZwZ1RZWkFBWGR1T0JuMjJWZGxGVnNPSUfSAf8BQVVfeXFMTm10YTVSVmljQmt2RGJJYk54SG11b3JSUExtcGZzcklFeFV5Y3ExaTJ1eHNRdGs4UnlSUk5Cak95MkZpMFhUTWt4U2dVRThobU1JcE1LV1NOMVczQWFpWVY4Z1NMdHg2a2pRcVFfeUZuRy1VTEt5bTRPdGNmWGdsbjFreC14TjgzMnFhUkhRSzAwQk5HMjU1YjJCaThUS0FfcklQc21RWmlZVHhrWVVuRllCN0Robi1LTDJvajFZVFY0cm1Na240WVlMUnk2eW1jblNRelgyTkg5anZmaUV1TmtfUlZKTko4MVJueC1NX2twU2JodVZzV2c1XzVfbVFv?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-18T07:01:03.000Z",
-      "whyItMattersKo": "핵심 선수 고메스는 잡고 감독 연장은 차기에 맡긴다는 방침이 확인되었습니다.",
-      "fanTakeKo": "고메스는 남고 아벨 감독은?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd19zME1hVW1oWVBfeEdnTGstcWs0Ty1TQlYza05KM0pETkFPdVZORkUzNnF",
-      "title": "Abel Ferreira ganha exposição exclusiva na Sala de Troféus do Palmeiras - R7 Esportes",
-      "summaryKo": "아벨 감독, 구단 트로피 룸서 독점 전시",
-      "excerpt": "Abel Ferreira ganha exposição exclusiva na Sala de Troféus do Palmeiras&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd19zME1hVW1oWVBfeEdnTGstcWs0Ty1TQlYza05KM0pETkFPdVZORkUzNnFINWVHV2tkSEktSE5EY1hnUmZoRHpMRFg1cUVOQlF2dXh6d0tCNGRkTk4zSHRtTnNHSVd0VUtvYmM4bThyUk1ha0w5TXg0YmhIZUNWc1NUaHQ2OVNRWXdUWXltZ0xmdTR0UC1sSmxrSm9SQkxLVnVvdW9HVmluNzNTTG9ZWUpvMEx5SGZlNTdDZklHcmZIdw?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-18T05:00:01.000Z",
-      "whyItMattersKo": "구단 역사에 큰 족적을 남긴 아벨 감독의 위상을 공식적으로 인정받았습니다.",
-      "fanTakeKo": "아벨 감독님 영원한 전설이시죠!",
       "tags": [
         "뉴스",
         "AI요약"
