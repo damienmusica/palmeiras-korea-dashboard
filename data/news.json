@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T22:53:56.376Z",
+  "fetchedAt": "2026-07-19T23:58:42.338Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMihAJBVV95cUxQUm9kYzZVeVNEUmg4eGJacVpWZktFM25GcXJpdDNZZHJuQXVkZW4yWjlrNlE",
@@ -178,6 +178,22 @@
       ]
     },
     {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJTS3pPb2RUd2lwaGtYMkNiTXpxWGVCQ3pJeHlHcTgzbzh0YU90bTM2cT",
+      "title": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras - jornalcruzeiro.com.br",
+      "summaryKo": "바르보자, 파우메이라스 새 선수 영입 추진",
+      "excerpt": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJTS3pPb2RUd2lwaGtYMkNiTXpxWGVCQ3pJeHlHcTgzbzh0YU90bTM2cThEbDVYMVRIZGVNeEE0Y2FvMVRQOTYtczlLUXM5dllINE5UZy1kR0xraGdBTFlLV2tRenZ5cHctMFBLSThQMldVdVd0WXhlQmprdmtZSlZqT3diQ21LYy1LWG9yT2UzNEU5VnZFYVNEYVVTRUllNkk3Y2lMdTRqM3RHdkE4Y3NwLWIwVTJLMDhXdW5yZ2lxM3VHSlRF?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:33:00.000Z",
+      "whyItMattersKo": "새 선수 영입 움직임은 팀 전력 강화와 남은 시즌 성적에 큰 영향을 줄 수 있습니다.",
+      "fanTakeKo": "든든한 보강 소식 기대된다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-5-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHZ6LXZwWmh1OTZkSWx1cjdWVkN1WHcweEZ1Z0kya0I3SHJlSWx6M09UenV",
       "title": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras - jornalcruzeiro.com.br",
       "summaryKo": "Barboza는 Palmeiras를 강화하기 위해 뒤에서 행동하고 있음을 밝힙니다 - jornalcruzeiro.com.br",
@@ -342,6 +358,22 @@
       "publishedAt": "2026-07-19T16:14:25.000Z",
       "whyItMattersKo": "브라질레이렁 준결승을 앞두고 팀 분위기와 전술 점검을 마무리하는 단계입니다.",
       "fanTakeKo": "준결승 잘 치르길 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-21-https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYzhVR1dDM0Q0T0hiMWtKamxDTzVtLUlMajhkeEFIZ21MdEhwcVV1Z2FaQV",
+      "title": "Entenda a tradição do anel de campeão; atacante do Palmeiras pode ganhar pela segunda vez - ge",
+      "summaryKo": "파우메이라스 공격수, 두 번째 우승 반지 가능성",
+      "excerpt": "Entenda a tradição do anel de campeão; atacante do Palmeiras pode ganhar pela segunda vez&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYzhVR1dDM0Q0T0hiMWtKamxDTzVtLUlMajhkeEFIZ21MdEhwcVV1Z2FaQVc5MGctR1JEb3Nzb0xqWE5iZTFCbjY2S18wX1B6d2hwY0poUmRXSVdadTJxQnk1dmVCajBXdHNGVXR4NWV1SHZ1WXdOejlzX3BIWm5hbGgyd3lSYWZCZ3Nqc0J1MlF4NXduQmh6TTQtSDQtSFpGaUJkRHFsRnV6WXZ2QVZFXzF3SkgwYzJuaXpOMlFzc1NxVlc3eHI5VjBXNDc1am9wMDJYMHdlcEppdVFBNDRXQ3p1Zm5zSjRHY1I2LdIB-wFBVV95cUxPZlBCdHFhUkZOSmZMcnZZY2lUZ1djeEMxNS15WkJYZEhIajFSWGpHX2wtcExfNVpHSFMwS3pBR1BMSk9hbUFwSzZZWWw2VW1jVVIzWW1uT2lLLUFBLXBEaWVOZEFJa3RtVkFuLXhNWENobHEzWUJPa0VzMFdRYkpGYnMtWEN6LU95MkxLQnZBcU9zRXJKM1hZU2tTT01tZmo3OFNCZGVVMnU4aWpxcG9fdTVLTHpkOW1Mc2VERUUySzk0QlR6aGRFVEk1RmlOQUQ0TUV3eUxUeENmOEQtbkNRMDk1RjFMa2dqbFNmenFwWUZaN2ltUnRrb2JGNA?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-19T16:00:08.000Z",
+      "whyItMattersKo": "우승 반지 전통과 선수의 또 다른 우승 기회를 보여주는 흥미로운 소식입니다.",
+      "fanTakeKo": "우승 반지 두 개면 진짜 멋지겠네.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -918,38 +950,6 @@
       "publishedAt": "2026-07-18T17:06:16.000Z",
       "whyItMattersKo": "주전급 선수의 복귀로 브라질레이렁 재개 후 전력 보강에 힘이 실렸습니다.",
       "fanTakeKo": "아리아스 돌아와서 든든합니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTFzM0xRYW5GdlJvUmpYRjh4WnVqMkJtYV9uU3U3YURKYXRkQXBkUmZjS3o",
-      "title": "Derrota no clássico: São Paulo perde para o Palmeiras no Paulista Feminino - Arquibancada Tricolor",
-      "summaryKo": "상파울루전 승리, 여자 파우메이라스 기세",
-      "excerpt": "Derrota no clássico: São Paulo perde para o Palmeiras no Paulista Feminino&nbsp;&nbsp;Arquibancada Tricolor",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTFzM0xRYW5GdlJvUmpYRjh4WnVqMkJtYV9uU3U3YURKYXRkQXBkUmZjS3o1LUstc2ZXNmxEbU9LdnJMLXd6THVEeGRmckJTck5KbnRMTGFINE9QRjhBUGlSb0lWMzVkWnhDZmx5dnBzMTlNejVsT2EwZUFNNFhMZklMckl6aTJM?oc=5",
-      "source": "Arquibancada Tricolor",
-      "language": "pt",
-      "publishedAt": "2026-07-18T16:53:27.000Z",
-      "whyItMattersKo": "라이벌전 승리가 여자 상파울루 주리그 순위 경쟁에서 큰 힘이 됩니다.",
-      "fanTakeKo": "여자팀도 더비 승이라 너무 좋아요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkFWZmQzSHM3d1hldGswcDlKUXB2ZVZCamxtSURzODlWWFZWM1JXSkZaNmV",
-      "title": "Palmeiras treina e Arias retorna ao grupo - ABCD Jornal",
-      "summaryKo": "파우메이라스 훈련, 아리아스 팀 합류",
-      "excerpt": "Palmeiras treina e Arias retorna ao grupo&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkFWZmQzSHM3d1hldGswcDlKUXB2ZVZCamxtSURzODlWWFZWM1JXSkZaNmV5MnE2cHdndzloQWRqMDQwSks4OGJSdm9ZSTFfR1dLRWJ6OHJ3ZGJndU1sMjZ4OVE5NU5SWVFpaldHc2c5UjRiSWhpNGR2Nng0QjBfb1JuVkJpUzlOQmhJaldUS010RXctWjNZQkFzd9IBoAFBVV95cUxPZ3pGZ0pUTjhfc001bVhuTUxXcnFteTVEUmV6d3RBS3BoY0tEOU9DWGtPZlozY3pPTVFmd2l6VnJjM0xlR1BJdlNkbkJtNGl6dm9PUTJnZG1kZU9kNEJQbjdtME9RbGhTZ2JXMmFMem84TnNxcWZ3bnpPMEViZlRuakxvZzNaSVJPY0ctM2VjOFRZNTVyY2pzRGs0Uzl2d29v?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-07-18T16:20:21.000Z",
-      "whyItMattersKo": "아리아스의 팀 훈련 복귀는 향후 경기 선발 명단 구성에 긍정적 신호입니다.",
-      "fanTakeKo": "훈련장에 복귀했다니 반가워요!",
       "tags": [
         "뉴스",
         "AI요약"
