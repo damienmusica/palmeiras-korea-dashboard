@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T16:59:02.774Z",
+  "fetchedAt": "2026-07-19T18:02:42.133Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVVRDAzTEVNa1pHVWlHTWgtdWhETVlSb0pWQktaUUhiX09MNzVTUUYzdGJ",
+      "title": "Palmeiras empata com Flamengo-SP pelo Paulista às vésperas das semis do Brasileiro - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 플라멩구와 무승부로 마무리",
+      "excerpt": "Palmeiras empata com Flamengo-SP pelo Paulista às vésperas das semis do Brasileiro&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVVRDAzTEVNa1pHVWlHTWgtdWhETVlSb0pWQktaUUhiX09MNzVTUUYzdGJtcklsVXcxUFBlcUFuemVGUGhQVlFsQlJwZVA0bkFuYWFGeTNtbDBtWWZwbEV4bDRRUEl6ODk0M0taSThxb0k3T1VtejA3U1RmNWdyMkpZNFhheDZzanJaVVRvWnBzSzNVejFNdllha3A1NWVRRW9YRC1aZ2I2TFFweERNS2xpd2lWa1FEVElkVTJUbjFCeDhJeFItZlJDWdIB0AFBVV95cUxNQW9XUUpJWWg3blFNczQwT3NNMVhOWkE0MENnZ3loQVppbTlKWnZSWFVLb3VUSFBUS1dlaFNMam9VYnBleUlTLWdEMnFkc1VJSEFjRTJvQ09MVlRYQjVmZ3Bsa1h2bGZ1dVE2NVpGUy11ZlFrLXNXTk4wY3BwNTZSeXZFck52aTRPUDNESmt0WHZ1cHRCd0s5NkVJWXNtM05uVjNqWENEdE4wd251aThzdTFpek0xdTljT0d0ekt6TTlHeVBCOGYwUkNxcGFuNEpK?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:23:00.000Z",
+      "whyItMattersKo": "브라질레이렁 4강 앞두고 치른 경기라 선수 관리와 컨디션 조절에 주목할 만합니다.",
+      "fanTakeKo": "무승부라 아쉽지만 4강이 중요하죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2tublMtUkNPRktfQTFFdmszZ0Y4VFF2RkhERmlRZmF0cm5yYS1sVjlhdms",
+      "title": "Treino do Palmeiras: Carlos Miguel e Vitor Roque trabalham com o elenco - ge",
+      "summaryKo": "카를루스 미겔, 비토르 호키 팀 훈련 합류",
+      "excerpt": "Treino do Palmeiras: Carlos Miguel e Vitor Roque trabalham com o elenco&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2tublMtUkNPRktfQTFFdmszZ0Y4VFF2RkhERmlRZmF0cm5yYS1sVjlhdmswbVBua3FQV2x5SXdrU2V6azh3WEEtY18zOVZ1bWViSUFmQ0hOWVlGaS1hRmJWZUpHTDNMT1hWQTBDdERjdFZsYjBsc1BLX2JySHRZeTh1d19SVDBPUnpiNEdrNFpPZHJ2amxYWFJmQ1E3TGF4LTB6QVdFZmVySDJleDlfbl9vRDk0M3RRQ1VuMnFodEVDNnVyUUswd2lhUkxKVUg2XzJHUjhERdIB5gFBVV95cUxQZDV4NHlEbWVXbE5NX2dsNlBRMHdiRVdxTnBmSEpELUNuRVhneVJXTGUtN2t4dVptTkJDMEx4QTVYT3lSZmNRVVliU1BNb25MOWVsYXRGN0xPbURiMDJCQUZaTnhUc3QyM3dROW0tTEpKWWFYMXl4VTR6RjVzYWo5aXNmTG5IMzJaQjlvUWpDdnZ3ZEV6UUczdlIxTVRfM0wyX2ZIYkV4eHZDMU42UHJ2S256ejI1SFhxbzZvTzNEajBQWFB3Nkt3ZWNkT3Z4Mm5ycHJIODdyeV9wVURCUU9vTHV4TzJ1UQ?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:11:38.000Z",
+      "whyItMattersKo": "두 선수의 팀 훈련 복귀는 다음 경기 선발 명단 구성에 긍정적인 신호입니다.",
+      "fanTakeKo": "둘 다 훈련 참여하니 든든하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMizAFBVV95cUxPY3JMaUJpMVlYUlkxY3RYZGwteHd0cU11VjNLOGI0YWZnX1hxS0ptdjVkOTR",
+      "title": "Hoje no Palmeiras, Barboza detona Botafogo nas redes após clube tirar suas fotos de estádio - ESPN Brasil",
+      "summaryKo": "바르보자, 보타포구에 SNS로 강한 불만 토로",
+      "excerpt": "Hoje no Palmeiras, Barboza detona Botafogo nas redes após clube tirar suas fotos de estádio&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY3JMaUJpMVlYUlkxY3RYZGwteHd0cU11VjNLOGI0YWZnX1hxS0ptdjVkOTRlLW8zbTFsT0tjdmJZTVBFQVN5SWNJTGg2M0FOYi1MU0pjdVpGMUFzVE42d09yaUFvU0wwcjZldjdFQlNoa1BzQWx1U0hRSFNaMmZmLURSSHRZMlFQVTZyWG5Jb1dOUEVyT0dFVU95YVk4azY4N0Y1RFZPTmROMjJ4TGJuUmxodlV3UWxmN1dqLVg4OGNoMWx3WVR4NW5YLUY?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:08:00.000Z",
+      "whyItMattersKo": "라이벌 팀과의 갈등은 다음 맞대결의 긴장감과 팬들의 관심을 높일 수 있습니다.",
+      "fanTakeKo": "라이벌이랑은 원래 안 맞아주죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSm5sUXZSTVVjWlRxbTBodnN5Rk83ZU1icndLU3d2OWJ6dUN1dGtJRW5GbWl",
+      "title": "Atacante ex-Flamengo pode ganhar oportunidades, recado de Alexander Barboza para Marlon Freitas e retorno de Jhon Arias: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "전 플라멩구 공격수 기회 잡을 듯, 아리아스 복귀",
+      "excerpt": "Atacante ex-Flamengo pode ganhar oportunidades, recado de Alexander Barboza para Marlon Freitas e retorno de Jhon Arias: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSm5sUXZSTVVjWlRxbTBodnN5Rk83ZU1icndLU3d2OWJ6dUN1dGtJRW5GbWlaSGNReG1wQldEN2hYTU5oUU5BanpBNFR5cDlERmF3Tms3c3RzcVNwbnZjUFhzV3ZhMWlMdHNLLTRfaV9PSDhUOW5QVmtKd0tFb3dWSlZPOUJxYS1IQ3plYldVZ0xubzVkdExPUU9vanNabmJsZnpWc0lyNG55QnlaSWVVLU5nbGtDYktteEZsUUFuSnhESTl0bGVySVVJS2prZzZMN1R0UXB1SVM3bjBMRHdSVGVWWDFqaHBUUWl1N1cxQXVjUlJFT1EzX3ZVVE9UVzM0Q2dzOU9MV3ZSMm5QaHhiS25WdWozbXZkZmljMzlkTlUyZFM5OE5PU2tDd0xIS1IxRl9vQ1dCRnpielI4ejVlbFItTS1fWEQxaXZKWkQzd3haWXc0TjhTZXg2d21yUQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:07:00.000Z",
+      "whyItMattersKo": "공격수 기용과 핵심 선수의 복귀 소식은 팀의 전력 보강에 중요한 변수입니다.",
+      "fanTakeKo": "아리아스 복귀하니 공격력이 올라가겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM29nOUNMc1RScXBoUjRGYldvRTJmYm5mcUVYV3VvU1R6YVRsY0g2ZFZaYXF",
+      "title": "É verdade que Flaco López pode ser o primeiro jogador estrangeiro do Brasileirão a chegar numa final da Copa? - sportingnews.com",
+      "summaryKo": "플라코 로페스, 외국인 최초 결승 진출할까",
+      "excerpt": "É verdade que Flaco López pode ser o primeiro jogador estrangeiro do Brasileirão a chegar numa final da Copa?&nbsp;&nbsp;sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM29nOUNMc1RScXBoUjRGYldvRTJmYm5mcUVYV3VvU1R6YVRsY0g2ZFZaYXFQRmN3eElGUzZrbGx3VllxbDRxWWF4eDRROHJ0WUx4VVpIcFFjd21yakVwMGZYM1hCVGtXNGFKUENvdEFIblByLWloazFPLURiS1A3V2c0djhfTVFmWUdlNnNocGZhYUFTQ0o0T212dUtNLWh3NVZsUzhWcS1DQklhaE1Tc2pLVUU4MkNNWHBwOEJTZHYwbDhpbHJkVTlCRWlpMFljd3JaRTZRZ0RIVFU2cDNvcks1bUJ1UQ?oc=5",
+      "source": "sportingnews.com",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:00:00.000Z",
+      "whyItMattersKo": "외국인 선수가 코파 두 브라질 결승에 오르면 역사적인 기록이 되어 주목받습니다.",
+      "fanTakeKo": "새로운 역사가 쓰일까요? 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnVJa1VPVWVmdW5IRThMQUdjZ2NUb0NqQWY4OGFZSFZOa3MtOUtScHQ5VVp",
       "title": "Palmeiras aprimora fundamentos e finalizações na Academia de Futebol - palmeiras.com.br",
@@ -870,86 +950,6 @@
       "publishedAt": "2026-07-18T15:03:46.000Z",
       "whyItMattersKo": "무패 행진을 이어가며 미래 자원들의 성장과 팀의 기세를 확인합니다.",
       "fanTakeKo": "청소년팀도 응원할게요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWtib3I5QXVtelpaRTNvVDkyS0VFYS1YMl9FTVlQclNkaHAzY1RCXzRzME",
-      "title": "Como relação entre Abel e Mourinho ajudou Palmeiras em jogo histórico e rendeu até 'desafio' para Pep Guardiola - ESPN Brasil",
-      "summaryKo": "아벨-무리뉴 관계, 파우메이라스 역사적 경기 도왔다",
-      "excerpt": "Como relação entre Abel e Mourinho ajudou Palmeiras em jogo histórico e rendeu até 'desafio' para Pep Guardiola&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWtib3I5QXVtelpaRTNvVDkyS0VFYS1YMl9FTVlQclNkaHAzY1RCXzRzME5UTmt1N3Z1YnlUVEFvMmlKYk94Sl9QTkFsWkk0ejhSelFJN25FeUJ5X0V5VmMzYmhzc0RueVE1X3ZDNGZZQ0VtM1ZRM0JXWU1GUG4zcUZQQW9qZjZIYmZPZUxjckI3Vl9jeEpLSjBfUWp2QVFHazlpc1lZQml3QlNpTUQ1WDBreThIRkJrTktjNXA2ejUtNk1NSlQxaXdUWnp6QUxRNWs4Qkp5NFN0eFFOYmFqMlhUUkM?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:03:00.000Z",
-      "whyItMattersKo": "감독의 인맥이 대형 경기 승리와 전술적인 면에서 큰 도움이 되었음을 보여줍니다.",
-      "fanTakeKo": "아벨 감독의 인맥이 대단하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BeURJakJ0T2lHU1FOdEdlUGJsbURuZjM2RWZkazJsTUI2c0l1RldEQ1JDOT",
-      "title": "🇦🇷 Férias para Flaco! @dudacabreira fala sobre o recesso que o Palmeiras dará ao Flaco López após a disputa da Copa do Mundo, que fará com que o argentino desfalque o Verdão no Brasileirão. #palmeiras #palmeirasonline - instagram.com",
-      "summaryKo": "플라코 로페스, 월드컵 후 리그 잠시 결석",
-      "excerpt": "🇦🇷 Férias para Flaco! @dudacabreira fala sobre o recesso que o Palmeiras dará ao Flaco López após a disputa da Copa do Mundo, que fará com que o argentino desfalque o Verdão no Brasileirão. #palmeiras #palmeirasonline&nbsp;&nbsp;instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BeURJakJ0T2lHU1FOdEdlUGJsbURuZjM2RWZkazJsTUI2c0l1RldEQ1JDOTNxWXlLZnZFM0NjdlBIZHV1RV9Kb0hWTFU2Y184Q082RGNR?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-18T14:46:27.000Z",
-      "whyItMattersKo": "주전 선수의 공백은 브라질레이렁 일정 중 팀 전력과 성적에 영향을 줍니다.",
-      "fanTakeKo": "플라코 없는 경기가 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnExN1poeXZLOFJWTjltOXdSTXlURWNfSjBKWmgybkdiUjkzSTRFV05fcS",
-      "title": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel - Notícias ao Minuto Brasil",
-      "summaryKo": "파우메이라스, 16세 신동 이적 제안 거절",
-      "excerpt": "Palmeiras rejeita ofertas por joia de 16 anos e aposta em evolução com Abel&nbsp;&nbsp;Notícias ao Minuto Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnExN1poeXZLOFJWTjltOXdSTXlURWNfSjBKWmgybkdiUjkzSTRFV05fcS1Hb0VfWkFuYnNNSXU0ZTJkaEhKMFJMRzFtMmltQVF6TElzN3dZT1Y1VlpsRE1mQjJnbjBjTUc5ZFJSazVtbEFLSHAtSFJ6SWlYMV9odGw1SmI5QnY1a1BaWFZ1YWlxVXdpMEZZMjAwbU1lQVk1cHdVSmdkUld2SnhsQm0xV2N1WElVdlh1SDNuQks1b0pJbGQ5cEE?oc=5",
-      "source": "Notícias ao Minuto Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-18T14:36:00.000Z",
-      "whyItMattersKo": "유망주를 지키는 결정은 아벨 감독의 육성 능력에 대한 믿음을 보여줍니다.",
-      "fanTakeKo": "미래를 위해 잘한 결정이에요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMijAJBVV95cUxPZzhFVFFNaWVhZjc4bllpeU9Yald6ZU1sNlRuMXk3WlRwUDJRT2JabDZPLUh",
-      "title": "Palpites para Palmeiras x São Paulo: Choque-Rainha Agita o Paulista Feminino - Terra",
-      "summaryKo": "파우메이라스 대 상파울루, 여자부 빅매치",
-      "excerpt": "Palpites para Palmeiras x São Paulo: Choque-Rainha Agita o Paulista Feminino&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZzhFVFFNaWVhZjc4bllpeU9Yald6ZU1sNlRuMXk3WlRwUDJRT2JabDZPLUhFOE02bTA2aVpMbE1tT3h6LXFJTEhnTkdkSGNvbFlqZ2xhb0E2QlhMdTZEOTlrZDQ0UlRkaXlrdkhySTh2TDU2djAwcDNoM0hVNVIzMVplTmY4TjAyTWpEQ19ad2M2U3BUS1Nnay0tRk5DOHAxVy1zQlhyZ0pmZVljVEctaGh1a3FzR1dkaFZOc2pkSHd1ZGtHd1dleTluX3JTeEJYSGhHc1lZbFRJWHlqYXFGNWZHMERkR2c1SnFKWC1KR2ZOZ3UwbWxvNXIyamJCQ3VVamxCelA3Z1g1eXds?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-18T14:34:00.000Z",
-      "whyItMattersKo": "여자부 최상위 라이벌 간의 맞대결이라 경기력과 승리에 팬들의 기대가 큽니다.",
-      "fanTakeKo": "여자부 더비도 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFRqMGk4REs4R2toWDNMSFc1b3BiNkFGM3ZEQVNoMDAwS1QtTmFmeldBOTZ",
-      "title": "Paulinho diz que terá mais minutos, mas avisa: 'Não vai ser na loucura' - UOL",
-      "summaryKo": "파울리뉴, 출전 시간 늘리지만 조심스레",
-      "excerpt": "Paulinho diz que terá mais minutos, mas avisa: 'Não vai ser na loucura'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFRqMGk4REs4R2toWDNMSFc1b3BiNkFGM3ZEQVNoMDAwS1QtTmFmeldBOTZYcWNRWEdZdzdLeTgzSXFQMkE2LXY3OTdYcjJrTHVXV3FRQ3VYajBZcmtJa1RwU3FMX050ZWp0QXk0ZGNxVmhqVTRnTkd5WEZuaVBNcFRaWTlVWEJQOWRac2dzMkliZENlZmZManNlUFJ0bnU4Q3Z4bzVoZlJLa2JPaFU3S1IzcU5oa2o2ZGEwVkloQTVGOGoweE13bHpXQm1fakREVDNReUFCWTRUbkxTYlE?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-18T14:22:29.000Z",
-      "whyItMattersKo": "주전 미드필더의 컨디션 회복과 출전 시간 확보는 팀 중원 강화에 중요합니다.",
-      "fanTakeKo": "파울리뉴, 천천히 복귀하길!",
       "tags": [
         "뉴스",
         "AI요약"
