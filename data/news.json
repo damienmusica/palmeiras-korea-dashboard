@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T20:51:12.861Z",
+  "fetchedAt": "2026-07-19T21:54:02.294Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHdfcXdtaEk1SW1OR0VoRFF0LWhxLUlTQUg5UXBLY1lfRTB6ZWI0UmU0emR",
+      "title": "Palmeiras aprimora fundamentos e finalizações visando retomada do Brasileirão - LANCE!",
+      "summaryKo": "파우메이라스, 브라질레이렁 재개 앞두고 기초 다지기",
+      "excerpt": "Palmeiras aprimora fundamentos e finalizações visando retomada do Brasileirão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHdfcXdtaEk1SW1OR0VoRFF0LWhxLUlTQUg5UXBLY1lfRTB6ZWI0UmU0emRRNWFPRXppVW9tWGJUcnR4WGIzS2N5blF6NUxaVkQ0a0FUSnZfT0RvSjVCSkRYTlRlU1BKY2RuTzY5SDNldkNBUTV3R2pockhQMGNCcExpYXBNcFZGVWlOcFJWT2hZNjVXOEpUbHRvRkZLN1VDdEI0ODZpejR5VklaUnN5VVVwMzBud3hf?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-19T21:46:59.000Z",
+      "whyItMattersKo": "휴식 후 리그 재개를 앞두고 기초를 다져 경기력을 높이고 순위 경쟁에 대비합니다.",
+      "fanTakeKo": "리그 시작 전 준비를 철저히 하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSjcyd2NVY3pjbUtGc09NcnhHeFU0ck0yc0NZc1pXaE04UXhnaVQyWFo0eDA",
+      "title": "Barboza, do Palmeiras, assiste à final da Copa do Mundo em bar na Mooca - ge",
+      "summaryKo": "파우메이라스 바르보자, 월드컵 결승을 바에서 관람",
+      "excerpt": "Barboza, do Palmeiras, assiste à final da Copa do Mundo em bar na Mooca&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSjcyd2NVY3pjbUtGc09NcnhHeFU0ck0yc0NZc1pXaE04UXhnaVQyWFo0eDA2QnJ5ZGJYcGVxZnQ1eXM5UjhoWlBaeHJfQnkwbHZ3dlVZMjV3Y0xHZjB5cmR4cFRGTm9LbE83cE11d3NzblVyOEcta1FyZ2NRYjZ5dzJJTW9SV1AyMlpPcmk3Tk9GNkNzemViQmpJTEhVVk9Vc01zaWZ3N09jVEQ2TlBucm9BdDRxMVlEa2ZJLUlDUnBjbmJhR1AwWjlsMkxUR3JGVzZpYU1R0gHkAUFVX3lxTE0xbUZoTTllWmE1dFVGVzZHWHlzLW5fZG1ZZFdycVBXb1M2U0dNQzVfaW1tQ2pNRmZ5U0JfTnJqbWxWTHdzUVVMM3B0TVpWVXVnQkxPaExNZ3FGN0pZcDIxX1RTeENqY1VVUnFMaWFDNVdZSEpvOGZyeHZaX0xHYlFsTFNDaXNDSVZvUldScWhxTWJlVy1zZmpWWnNwMXBYMmoxemF6Sm5xV01McTNNNzhfMkV6ekhzZEVVc2xzbTVTZlFSUG8tZWZnZzJnaG1yZjBaUlg1VlluY0VNUFFxS1pla1JkaQ?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-19T20:35:07.000Z",
+      "whyItMattersKo": "선수가 휴식을 즐기는 모습을 보여 팀 분위기가 여유롭고 긍정적임을 보여줍니다.",
+      "fanTakeKo": "푹 쉬고 돌아와서 좋은 모습 보여줘!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lrOVkzOHRmM0VIWUVuWkU4NlVDYU0xRWJSdWVHR1BZLU5QTkxzejJ0Z2R",
       "title": "Com Carlos Miguel e Vitor Roque, Palmeiras treina e abre semana de retomada do Brasileirão - Gazeta Esportiva",
@@ -915,36 +947,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVVPTDVxNUJlaml4djZVU1kyMXFJWk0za2pkaFBPWWFUQWV6N2gyRUZjR1Z",
-      "title": "Paulinho teve refratura em 2025 no Palmeiras e diz: \"Volto apto para jogar mais de 45 minutos\" - GE",
-      "summaryKo": "파울리뉴는 2025년 파우메이라스에서 골절상을 입었고 \"나는 45분 이상 경기하기에 적합하게 돌아왔다\" 고 말합니다. - GE",
-      "excerpt": "Paulinho teve refratura em 2025 no Palmeiras e diz: \"Volto apto para jogar mais de 45 minutos\"&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVVPTDVxNUJlaml4djZVU1kyMXFJWk0za2pkaFBPWWFUQWV6N2gyRUZjR1ZUNXFzQ04zdHJSZ2pTdVBZSlQzcTlEdEUwQm1aSjBieTNLNWktbWFJbnNSTEhhdjR3T09GOFpJeFpsM3NvckpncU0tZzRWbXFjVFpRdDFOeG1kOTIwdUM0NFF4bE1uMVJ1S1N3ZV82ZUI3TDJsWExqZ2NPYXZ0enZRNEVaa2Jia1Y3OWUzc096MEFkaDY3ZDF4a24xVWtzSS1qcngyd1VOV1dvVmJYU29nS1lqLUx5T005WjVteFJoeW9CWVExWjjSAYICQVVfeXFMTndHeG1nWU54MklXZldyX0EwbHZmNHhDZ0IxN1pmaFV4UmdFYnIwNm91TzBKekpzVEFTaW9LY2RPOC1lTUJsQXZMWFEwVm9uZFlNa1BEa0lOR0JEWEd0SUQzaTExcmVuaDJCMTdOOElNdl9QSjFSblh2WjBzT2t0dkVIRkpOdWQ1bWhlTUozT1FEblJtdDE1UVA0UWRObHRfcUJJRTZSSUx4cTM4dlNGem5MX09jNzRnZFRwRURoNFhpODMwVU9scmFzMGlmdnB5WWsxVmlBb2JzWF9CTDlLX2lqWGRvYUtHRDdlTFgyeVpTWWQyUkhiSVA3RnkzQk80Q3JR?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-18T16:01:58.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczM",
-      "title": "Arias volta aos treinos do Palmeiras após Copa do Mundo - CNN Brasil",
-      "summaryKo": "아리아스, 월드컵 마치고 훈련 복귀",
-      "excerpt": "Arias volta aos treinos do Palmeiras após Copa do Mundo&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTlReEtraFZkSXV4N2hqM0g3S2NHeEktMHZqdkhBZG1oSWc2NFRxcWZvczMtMmpaa0RzVEljbG4zTXA4cmZJajNuYnZPam5NSWJsZHlIb2FuS0NISjNTa29HQVNrSHZEeUpOYmJRYkdOTU8wT2JQNEZaRno5ZE1jRlBqNktjMlloWDhGRE1WUVhvQ1VfN1k4RzM3Y1FMYkdwZk5ZLXRYbm9JLUlTc0hRZjRR?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:58:56.000Z",
-      "whyItMattersKo": "주전 선수가 국가대표 일정을 마치고 복귀하여 팀 전력 보강에 큰 도움이 됩니다.",
-      "fanTakeKo": "아리아스 복귀 반가워요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
