@@ -1,8 +1,114 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T18:02:42.133Z",
+  "fetchedAt": "2026-07-19T19:41:00.657Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0pPVUIwUzVjT1RpQm5meXFGSS1ZdmlZellMSnBiTzNldkFubmk5UjRHYWx",
+      "title": "Palmeiras faz treino técnico no antepenúltimo dia de intertemporada - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 휴식기 막바지 기술 훈련",
+      "excerpt": "Palmeiras faz treino técnico no antepenúltimo dia de intertemporada&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0pPVUIwUzVjT1RpQm5meXFGSS1ZdmlZellMSnBiTzNldkFubmk5UjRHYWxNQkQxZFM0NDY1eGpIUEhQSWVpbWhSTDlYc1d4MWRmUnpvVWZDM1NoQjdDME5HbmhFbGU0UmpFV2VkTi1iMXFWYWNVTmpELXZjZXlBbFY4anhsTjhtZTZwUmc0YUZ6U0RnVDNtZHZWdkN3UW9JdDRkcVJqZ05SUE5XYVNKbGdDdVE?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-19T19:06:16.000Z",
+      "whyItMattersKo": "휴식기가 거의 끝나가며 선수들이 경기 감각을 서서히 되찾고 있음을 보여줍니다.",
+      "fanTakeKo": "곧 경기 뛸 생각에 벌써 설렌다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUTVVV0dxWHNNc0Z6aWpaTGVZdHFqZWpXTjFBcmNJWDVPc0R3czFkenYzNmt",
+      "title": "Palmeiras investe na base e contrata promessa Ket para reforçar elenco - Fato Paulista",
+      "summaryKo": "파우메이라스, 유망주 케트 영입으로 미래 투자",
+      "excerpt": "Palmeiras investe na base e contrata promessa Ket para reforçar elenco&nbsp;&nbsp;Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUTVVV0dxWHNNc0Z6aWpaTGVZdHFqZWpXTjFBcmNJWDVPc0R3czFkenYzNmtobkpsZmU5VmFEQlBpYS16R2FaVWFiRVFHaGNodmhOcDA3a3JQM3Etdkt2UjNRTlJQWUZTMWZrUDBZWE9MTEE?oc=5",
+      "source": "Fato Paulista",
+      "language": "pt",
+      "publishedAt": "2026-07-19T19:02:01.000Z",
+      "whyItMattersKo": "팀의 미래를 위한 유소년 투자가 이어지며 전력 강화에도 보탬이 될 것입니다.",
+      "fanTakeKo": "유망주 영입은 언제나 반가워요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMie0FVX3lxTE9DRWc2cHhzdWw1RXIzdGZnZk40el9Gd1A3cEs4aDJkM1g1OFhsM3E3RDdDWEl",
+      "title": "Palmeiras treina finalizações na reta final da intertemporada - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 휴식기 막판 슈팅 훈련 집중",
+      "excerpt": "Palmeiras treina finalizações na reta final da intertemporada&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DRWc2cHhzdWw1RXIzdGZnZk40el9Gd1A3cEs4aDJkM1g1OFhsM3E3RDdDWElTZ2tfVWthbmdOUU05WkdLOWRRTk81MU5tbGZzSEJiaWxMbzh5SkdXNVlsb0VmOEs3N05mTWFKd0Z5eWNSVEdiVzg0MF8wSQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:57:35.000Z",
+      "whyItMattersKo": "공격 포인트를 늘리기 위해 막바지 훈련에서 슈팅 감각을 다지고 있습니다.",
+      "fanTakeKo": "득점력이 올라가길 기대해요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTkxbzlEV3NBczVaeTdHaXFzemxiLTRJZWQzTmo2LTlGWENjamdPODhNTFp",
+      "title": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino - Jogada 10",
+      "summaryKo": "카를루스 미겔과 비토르 호키, 팀 훈련 복귀",
+      "excerpt": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTkxbzlEV3NBczVaeTdHaXFzemxiLTRJZWQzTmo2LTlGWENjamdPODhNTFp4NjJweTFHOFY0a1dSQ3QxMlNiNU93YU1YY0h6UENIUXRIOW9FTlZ3S1QtQ2NISkRXVEFmeGNjQmFtS1dfQlo1dTgyOWpvdmNBVTR2NjBCdEE4Y3dpaWVaajd6TmRGUdIBlwFBVV95cUxPbi1rV293dng1dnhvdFZETzlmRnZSOVlrel9vRExjX3V6SGlvcS1qbVdIbFBuUjVkM3ZCcy04LXJEMnNERlFOYmxBVXhCUlBOSmZGb1h6ZmZXQmllMmZ1Z0lBM1FIc3NCbVV3MlRfNERfeWt6YTRzWktaNTBDT29TaDhFSmFMd0xyMTM3bzZWSmFvVHFaUnpv?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:57:03.000Z",
+      "whyItMattersKo": "주전 선수들이 훈련에 복귀하여 다음 경기 라인업 구성에 긍정적 신호입니다.",
+      "fanTakeKo": "두 선수 다 건강해서 다행이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFk4ZXFkTFd4Umpqc1U1ZjBRd1A2Rm9GX0oxcVgwNVlEZlY5MkZVQ3pyR2l",
+      "title": "Palmeiras: treino tem volta de dois titulares para duelo contra Coritiba - band.com.br",
+      "summaryKo": "파우메이라스: 코리치바와 대결할 두 명의 스타터가 훈련에 복귀했습니다 - band.com.br",
+      "excerpt": "Palmeiras: treino tem volta de dois titulares para duelo contra Coritiba&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFk4ZXFkTFd4Umpqc1U1ZjBRd1A2Rm9GX0oxcVgwNVlEZlY5MkZVQ3pyR2lTNmdOSXNPUGxKeEhTTXRoc2M4T1BqenMyQV9RZkhXdVBITWZfQlAzUG5OT2pZemdDVlZNMjB3a0dNRk5adzhEV3pCaU1CbFNMX2M4cWk1WkVGQ3h0WVZZOEhfSGstNWZwYnFWYTl0UmhNWXMxb3hYd1dmZkZFbnlZNmx0WTVTX2Nma3VoZnc?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:43:59.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHZ6LXZwWmh1OTZkSWx1cjdWVkN1WHcweEZ1Z0kya0I3SHJlSWx6M09UenV",
+      "title": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras - jornalcruzeiro.com.br",
+      "summaryKo": "Barboza는 Palmeiras를 강화하기 위해 뒤에서 행동하고 있음을 밝힙니다 - jornalcruzeiro.com.br",
+      "excerpt": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHZ6LXZwWmh1OTZkSWx1cjdWVkN1WHcweEZ1Z0kya0I3SHJlSWx6M09UenV5MHJuRkhub2ZJQUtaMnBuVmphcDZCUzNPU2s0c2NmNEdjQTRxTVlTYWM1ZEZ6TEl4bi1uSklwTC04RDhrWGE4aXBzM0pkTmNKVndDM2FiNVNuZlNnT0lzZFA3TDBmZXdJUFo4cW9kWlBHZUZzUkk0eGhaZG84ZVhpZ2FoeHBFYnBPdEhMREF3eGppUVpyZDI0dFpabDM1eXNpZGxPeWktUERHY2JZbFRXekVoSHZDSDhnQQ?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:33:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDJQMkFleUpVaVYtYXNhOWNqekdCY1lwZ1d0aV9xUkNibHBndDlRM1NRTHV",
+      "title": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino - Terra",
+      "summaryKo": "파우메이라스는 훈련 중인 카를로스 미겔과 비토르 로케에게서 돌아왔습니다 - 테라",
+      "excerpt": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDJQMkFleUpVaVYtYXNhOWNqekdCY1lwZ1d0aV9xUkNibHBndDlRM1NRTHVKQ2RGa1FEZDFTYnRCMmh4dTdkTTlMU0lGY2VNdC0tWXd3bXdJWHZ4c1lJdnY0eW9KNnVlNVNlczU0d0lWbTVmMzR6M3ZtOHVyQjVSaWl1TXJIMXZ4Y1RTUUlLWm5zWkt3SXoyUDgwc05KV3MyMXFjXzV1OEs3Qzd0VXJaY00wSE1GSm1IYjBxNDhvWjlxSHBCbFJsZi1iSTBhQkFhYzFZSTV0ckdUN1c1bmYtY2hPeDRJVFFq?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-19T18:11:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVVRDAzTEVNa1pHVWlHTWgtdWhETVlSb0pWQktaUUhiX09MNzVTUUYzdGJ",
       "title": "Palmeiras empata com Flamengo-SP pelo Paulista às vésperas das semis do Brasileiro - Gazeta Esportiva",
@@ -65,6 +171,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUtETE1jb1ZrcW80clJfS01ITnJKeHViT3pRNXFzZDVWZ2xDUmlNZmoyUj",
+      "title": "580 milhões: atacante assina com o Palmeiras - Terra",
+      "summaryKo": "5억 8천만 달러: 파우메이라스 - 테라와 스트라이커 계약 체결",
+      "excerpt": "580 milhões: atacante assina com o Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUtETE1jb1ZrcW80clJfS01ITnJKeHViT3pRNXFzZDVWZ2xDUmlNZmoyUjFpZUpuRkowVnpLd2FiX1lDWWFFdjcwZHZVWnVpbWxaSnRwdEJGb0pKOUpGTWFTNWpMdlE5WXpxQVk3dGlJSkJReUlJbi1yZDA3QVgtNFlSNE5OcnluX1JrR1BOMm5yWkNMMWZTVDdZREcyVUJqTmtWZEhTT3B6eXU1WUhQZWhna25SOENRWHB3aC1ONXNsd09CRElNTW1IMlRhUQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-19T17:07:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -822,134 +942,6 @@
       "publishedAt": "2026-07-18T15:56:25.000Z",
       "whyItMattersKo": "유망주들이 원정에서 대승을 거두며 팀의 미래와 유소년 시스템의 건재함을 보여줬습니다.",
       "fanTakeKo": "미래가 든든한 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMidEFVX3lxTE9XSmozN0tucFItaG9zTExpaXRVQzRtOWIwblV2WXFXQ2NWVExrZEd3Z3ZoSk",
-      "title": "Paulistão F - Federação Paulista de Futebol",
-      "summaryKo": "상파울루 연맹, 파울리스탄 공식 소식 전해",
-      "excerpt": "Paulistão F&nbsp;&nbsp;Federação Paulista de Futebol",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XSmozN0tucFItaG9zTExpaXRVQzRtOWIwblV2WXFXQ2NWVExrZEd3Z3ZoSkZoT0ZlV0w2bFhfbmhUdFZETlE3UldBU3NacTRkRkg0UWR3OUdPY0hEQS1BNUFRUEtjMU53RUp2RDV1TFo4c0tJ?oc=5",
-      "source": "Federação Paulista de Futebol",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:48:00.000Z",
-      "whyItMattersKo": "파우메이라스가 뛰는 주요 대회 소식이라 팀 일정과 경기 운영에 중요한 영향을 줍니다.",
-      "fanTakeKo": "파우메이라스 일정 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTlhhQW5HeFNqZW9oR3E0Slc0UmlmRXRJT2JTeFNjOUJZQ1pNMTdIUzNYMDB",
-      "title": "Arias retorna aos treinos do Palmeiras após Copa do Mundo - Rádio Itatiaia",
-      "summaryKo": "아리아스, 파우메이라스 훈련장 복귀",
-      "excerpt": "Arias retorna aos treinos do Palmeiras após Copa do Mundo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTlhhQW5HeFNqZW9oR3E0Slc0UmlmRXRJT2JTeFNjOUJZQ1pNMTdIUzNYMDB2ZGQ2RWR0VEFlVjRpSkM1bDFiU09KSkxVYUlzdHh1ZXUwcFcxcjRqQ2FzejY0VzRzdFZfZmhndXRwSWJLOEFndjI3a2FpUG9JZURFZEpEWUhfeHNad2VvYkljYjJuamwyeENRNGtPT0lvek8tVlBUcXE4bTRFb1Qxdk5SSHRzdVhZTE5oQ1JyN3hNbkNBRzNnbUpQSlVMVWs2MUc0UVRjMFBFdmNXU0sxZlczSw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:46:39.000Z",
-      "whyItMattersKo": "선수의 복귀로 감독이 다음 경기를 위한 전력 운용에 더 많은 선택지를 갖게 됩니다.",
-      "fanTakeKo": "전력이 풀충전되는 기분",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1l4ajRIV0NraGU5aDZGdjdXdTFjbG8tRmVJZ0tILWlMY1RpZzVOOExJdE",
-      "title": "Palmeiras vence Choque-Rei pela quarta rodada do Paulistão F - palmeiras.com.br",
-      "summaryKo": "파우메이라스, 쇼크헤이 더비서 승리 거둬",
-      "excerpt": "Palmeiras vence Choque-Rei pela quarta rodada do Paulistão F&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1l4ajRIV0NraGU5aDZGdjdXdTFjbG8tRmVJZ0tILWlMY1RpZzVOOExJdEdYSndqTElNWmVXaW5qTmpmRmxWdlNXcWk1Q0Q2QmhhUE5aXzBRWDQxZGxUMy0xNG5OZjRrRWtsOHVJSzBHVEVhOW9fak9yS2U5ODA3S3NWZFQxcE9DUFRKV29nU2ZUSGtFcmduTFJ1Z0FIZDdt?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:43:00.000Z",
-      "whyItMattersKo": "쇼크헤이 더비 승리로 지역 리그 순위 경쟁에서 유리한 고지를 점했습니다.",
-      "fanTakeKo": "더비 승리는 역시 최고죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFh4Z1EzNGVrY19TUWs3aFNlV1JvUWE2dGtzY1BZWnpqemZ5UGRvckhwVFp",
-      "title": "Jhon Arias volta, e Palmeiras segue preparação para o retorno do Brasileirão; saiba como foi - LANCE!",
-      "summaryKo": "아리아스 돌아오고 리그 재개 준비",
-      "excerpt": "Jhon Arias volta, e Palmeiras segue preparação para o retorno do Brasileirão; saiba como foi&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFh4Z1EzNGVrY19TUWs3aFNlV1JvUWE2dGtzY1BZWnpqemZ5UGRvckhwVFpRbjFoTFdGUzB6Zk0tcWNCakFJU0tRSmJSSVF1TkV6MEVLRDM3TWF6WDUzTnE3MkxHdmwzTkx2b3llNE5yVEdGYU1UUnVFQzJwRERoRkJtLTRYVHpBX1FPbFlqMUxQLVNJNnFuOHBJdGZqeERQTmp1VnRHd1Zhd2Z5VGt6bHAyRHV6a2RZZzRzMnAzbjZHTF83YmktdDZlT3U?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:42:46.000Z",
-      "whyItMattersKo": "브라질레이렁 재개를 앞두고 핵심 공격수가 훈련에 복귀하여 경기력 회복에 힘쓰고 있습니다.",
-      "fanTakeKo": "리그 복귀가 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3ZDMTlpcy1xeFRrUjRERzRnX0FNczVERVlUQ0xmVU9wVmRUdWpQYTFKRl9",
-      "title": "Jhon Arias se reapresenta e reforça Palmeiras depois da Copa do Mundo - GE",
-      "summaryKo": "아리아스, 월드컵 끝나고 파우메이라스 복귀",
-      "excerpt": "Jhon Arias se reapresenta e reforça Palmeiras depois da Copa do Mundo&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3ZDMTlpcy1xeFRrUjRERzRnX0FNczVERVlUQ0xmVU9wVmRUdWpQYTFKRl9NbEktZXRuOGFrdlN0bHBMM29EclhHNFMxYVRyZFA5M3RwTEl1U1ROM283TzI5WXZJaFZacUo3a0J0Zk1ZUW82eU4tLVNZUkh2TmV4Qlh1WmI4elBsRThPdVU4bjI2Y09XcVk4WFFVaDRsWUw3NkZyWGJfSGhjV0lvSmNBOWZpTmlPNTNnbU9yakI3WndoWlRSOGFXUUF2QW1GQ0NfY1BNWEZR0gHkAUFVX3lxTFBPOTJKVGwzaWMwSGx3OV9CU0duMEdrdzU2WUU2aEl4ZW9nMXdSdzRTT19rUzJLQms4U2RpZVFBT29vQzRWUTdmd3IwcmhKZTljWXN4bldPQTh6VHJwY3Eza0R1bW9RdWFFTDl5ZERZaVFCNGg2QnFyWjg1QkF5dmpGMHhMYTlUWlRqUm55dUpCRVNxaHdoSG02eHJfcFpJdWQ1TUV0VFZ0d0R2S2FFXzhZeTczWVR5RjVGY3dvcm1jdGpkdWlZUkhkWXdjY0J4aTc0MTFnSXpwMHN1YVdsYldBdmh6SA?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:40:07.000Z",
-      "whyItMattersKo": "주전 자원 복귀로 팀 전력이 보강돼 다음 경기 승리에 도움이 됩니다.",
-      "fanTakeKo": "아리아스 복귀가 반갑네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2dnTzA4TWRLSmk5T2Zfa3lINkxCalExTnlCRWUwWHRZampoVzk4Y0pLU0F",
-      "title": "Palmeiras vence e ultrapassa o São Paulo no Paulista feminino - Gazeta Esportiva",
-      "summaryKo": "파우메이라스 여성부, 상파울루 제치고 승리",
-      "excerpt": "Palmeiras vence e ultrapassa o São Paulo no Paulista feminino&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2dnTzA4TWRLSmk5T2Zfa3lINkxCalExTnlCRWUwWHRZampoVzk4Y0pLU0FBZHg1MmZCTDJYZUxoWlltdHo3bFB4dTQzdmdxcWRuZkJLRW15Q0ZXT3NQZ3JyWkMzZHhGRXNaZVQ1ZWNZMmZyazFkTFNNNWpxM0pyaHlEa3RQa0xMT2tBSF9QeXlhTDJUOWwwTlUyYmxmSkZqQzhqZ0lDMGFfWGhDZ1Jz0gG0AUFVX3lxTE5yejV6eFBvVWk1UTlNakFpeW42bWtSMVhEZnREX2VpOEQyYjF1d2NpT3BoYUhqdTI0c21VZTZUSWZrYUZnbG1LLUlabnVRbzNvcjN2VXJqUXpjcElabTZPalhDLXpFUDZwQTAzNWZsbzVhbDdBMThBNnJSWUdHUHQ2dGw2Rk9ZOXJOVUpwek1ZbFhWZkFMSHNsSGd0SmVFZlVzelV1Ykh2S3diR1hzbjhUeFNIbw?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:30:00.000Z",
-      "whyItMattersKo": "라이벌 상파울루를 제치고 순위를 올려 우승 경쟁에서 우위를 점했습니다.",
-      "fanTakeKo": "여성부도 잘하고 있어 자랑스러워요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTBRUTNVeVotbVU3cmgtMEtSak5Gd05HS0FGbTRXYXpNOHVlSldSc1NyST",
-      "title": "Com Arias de volta, Palmeiras segue preparação visando Coritiba pelo Brasileiro - palmeiras.com.br",
-      "summaryKo": "아리아스 복귀, 코리치아전 앞두고 훈련",
-      "excerpt": "Com Arias de volta, Palmeiras segue preparação visando Coritiba pelo Brasileiro&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTBRUTNVeVotbVU3cmgtMEtSak5Gd05HS0FGbTRXYXpNOHVlSldSc1NySTU5R1ljd3BqeXJmUEotZlViVjEwNGFfM215aE9ZODRQaDRNQ2pSOC1CbWVhd2pkbkJDWWxxT0N2c3VtMkM3QVY2eFR1emVjY3lxa3J1U2J3Z1N6WHpxeG5BeHdIeERVclZhZ3N5NG9QY1NaeG5WblhFcDg5UEZCRnZ0RGdHSm1KYnRnQ0U3?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:20:21.000Z",
-      "whyItMattersKo": "리그 경기를 앞두고 주전이 합류하며 팀 전력이 최적화되고 있습니다.",
-      "fanTakeKo": "코리치아전 승리 기대합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2w1am9uLUYybVV1RnRwRnlVSUZCNE5pd2pkODZ6ZUFjbmVPeTFWMjNRQm",
-      "title": "Invicto no Paulista Sub-20, Palmeiras encara Flamengo-SP - palmeiras.com.br",
-      "summaryKo": "U-20 무패 행진, 이번엔 플라멩구 상대",
-      "excerpt": "Invicto no Paulista Sub-20, Palmeiras encara Flamengo-SP&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2w1am9uLUYybVV1RnRwRnlVSUZCNE5pd2pkODZ6ZUFjbmVPeTFWMjNRQm9hRzJXblhHaWU5bHQ4VXdHNEttVnlfSzVralFLLVZwMDdzend5MlVsM2VYdjlrYm91UW95ZFd6RmMwblhfRURETzhmdldsZHpqVG8tSmhSY3VRRlBPM09lZzM3T3lOMEZKX1ZfbVZ3?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:03:46.000Z",
-      "whyItMattersKo": "무패 행진을 이어가며 미래 자원들의 성장과 팀의 기세를 확인합니다.",
-      "fanTakeKo": "청소년팀도 응원할게요!",
       "tags": [
         "뉴스",
         "AI요약"
