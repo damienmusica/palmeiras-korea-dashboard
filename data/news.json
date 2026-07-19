@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T19:41:00.657Z",
+  "fetchedAt": "2026-07-19T20:51:12.861Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lrOVkzOHRmM0VIWUVuWkU4NlVDYU0xRWJSdWVHR1BZLU5QTkxzejJ0Z2R",
+      "title": "Com Carlos Miguel e Vitor Roque, Palmeiras treina e abre semana de retomada do Brasileirão - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 카를루스 미겔·호키와 훈련 시작",
+      "excerpt": "Com Carlos Miguel e Vitor Roque, Palmeiras treina e abre semana de retomada do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lrOVkzOHRmM0VIWUVuWkU4NlVDYU0xRWJSdWVHR1BZLU5QTkxzejJ0Z2RDOHM5dDJsLUwwU1l0SDFkQzJKcVl5MGRqc1I2SlYzcjlSTE10Sk41Rkg3VG1UeWk4aUphQmRQRmZKS3FvSXE4TlJuckIzWGxfb3Ezb2pJekQtMWlMT2dWaGJqVS1yQklNQTcwLW9qR0theDA1dnkzVDYyNnFNSVlJQ0NBeHVVdW9BT2Q5cEo4dlpjTDZ2cHB2ejB4LThaRHYzQVlrUk8tR9IB2gFBVV95cUxPVDNPTHJtY2kwMzgzd2dWZ1Zlbmh3YW9VdXNkbzFaeEpKZGdqOUtydENLTS1EYm1rWHFQZU5xRFRHNXMxYXFnaWJ2QmlPX3ZIdE5xZy1maXAtMUg2dXZ6NFZmZUh3eGlzbThjWE9TWTlkU2k4Rl9peng5LUh1U3JpRE5EWnpfZUFuOFZsdzctZGIycmU1LVR5T0wyemZlR2FONG5zS2NRbG81bXdEcXhfcW1NV21xeFJQcWFybl9EQVdnTUxuY1Z5THhGWm1VODRkUHpiYVZfQ0JwQQ?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-19T19:27:00.000Z",
+      "whyItMattersKo": "브라질레이렁 재개를 앞두고 주요 선수들이 훈련에 합류해 팀 전력 점검에 도움이 됩니다.",
+      "fanTakeKo": "두 선수가 훈련에 참여해서 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0pPVUIwUzVjT1RpQm5meXFGSS1ZdmlZellMSnBiTzNldkFubmk5UjRHYWx",
       "title": "Palmeiras faz treino técnico no antepenúltimo dia de intertemporada - Tribuna de Jundiaí",
@@ -926,22 +942,6 @@
       "publishedAt": "2026-07-18T15:58:56.000Z",
       "whyItMattersKo": "주전 선수가 국가대표 일정을 마치고 복귀하여 팀 전력 보강에 큰 도움이 됩니다.",
       "fanTakeKo": "아리아스 복귀 반가워요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGVmVENnY3l4YzF4eG1nR05WSEdUMEdFVWlrOGdvcF9WOE5QZ3NmUlN6bFl",
-      "title": "Sub-15 e Sub-17 do Verdão goleiam União Mogi fora de casa pelo Paulista - palmeiras.com.br",
-      "summaryKo": "파우메이라스 유소년팀, 원정서 대승",
-      "excerpt": "Sub-15 e Sub-17 do Verdão goleiam União Mogi fora de casa pelo Paulista&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGVmVENnY3l4YzF4eG1nR05WSEdUMEdFVWlrOGdvcF9WOE5QZ3NmUlN6bFlic0hHcTlBVjhnVHhjYmJhUDhuUUg4YlJVX2RGYUNqZGxqQVNrR1pYSWlCbVpjbnQwekhlLWJyVlJHRVF6Z0F5TXdnUTFYWUxQSzRGb3ZRS0c3Z0Znb1AwZTJrZ19DOUFKSTFwTVBtU0UxLUdpZ0ZiZWpXejV1VHhDTi1r?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-18T15:56:25.000Z",
-      "whyItMattersKo": "유망주들이 원정에서 대승을 거두며 팀의 미래와 유소년 시스템의 건재함을 보여줬습니다.",
-      "fanTakeKo": "미래가 든든한 파우메이라스!",
       "tags": [
         "뉴스",
         "AI요약"
