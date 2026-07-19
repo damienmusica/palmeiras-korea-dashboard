@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T09:29:07.991Z",
+  "fetchedAt": "2026-07-19T10:56:02.509Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiygFBVV95cUxOSS1ZMTlGWXE0ZDg1akw1R25JMUl2ckljeUVYX3VVcFFUNjBGRlVRLXBQVXZ",
@@ -20,16 +20,16 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N",
-      "title": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras - UOL",
-      "summaryKo": "구스타보 고메스, 파우메이라스와 장기 계약",
-      "excerpt": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N6bE0tVklRaDFrYUxadG9VZjNib1JMc3U3c2FaQ1lsTEx4MHNZQ2ZnZHFxbndqRFlZNnlpTkhNTDZSQUVHa3pUa09pTEpnc3U1ZFRJLTRDSnFPTzg4dFVmaGpjc3VyU3ItcmRXM2ZMUi1TX1FaZEp3X0F4a2lDMG11XzZtc3lhWFdhU1B6cW5LdVF4MGw0SW5SZG5Fck92VnBEcVZVVVZnVGhyMmxCRHBNR2NV?oc=5",
-      "source": "UOL",
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijwJBVV95cUxQQmQxZkswQVpTcWFlNDktWnFtSDRxTjctREJmajlCMTN1dG9EVmJtUFBqVTg",
+      "title": "Saiba quanto o Fortaleza faturará com a venda do mando diante do Palmeiras pela Copa do Brasil - Terra",
+      "summaryKo": "포르탈레자, 파우메이라스전 홈 경기권 판매 수익 공개",
+      "excerpt": "Saiba quanto o Fortaleza faturará com a venda do mando diante do Palmeiras pela Copa do Brasil&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQmQxZkswQVpTcWFlNDktWnFtSDRxTjctREJmajlCMTN1dG9EVmJtUFBqVTg5Z3psMjRJSVc5ODdHRGcybTdBejV3akU5NkxJWl9WU3ZMOVIyaEF6MGVoTDdtZE13dU9jTjlWcmZjXzlGQVNPSFUxbXlkMFh0a2lTS0FWRERtR0JwMmtNdVZ6VmhTbmZQbGZZTkFSQkRZMXN3RXRCT3p0RTl0em5xc3BGYVpQRkFjc3BjeXZsQl9GRVhwQUdXRnplcEhIeWlmVXFtamhGUFh3bnFQQzV2NThhOTJGRFJOaWZvckdnVXNtRzQ4S3RFSFVmNndvbjJjWVB5WEZMMW5CZ2MtalN4bEJN?oc=5",
+      "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-19T08:36:13.000Z",
-      "whyItMattersKo": "주장과 수비의 핵심을 오랫동안 잡아두면 팀 전력 안정성이 크게 올라갑니다.",
-      "fanTakeKo": "주장이 계속 남는다니 다행이야!",
+      "publishedAt": "2026-07-19T09:11:00.000Z",
+      "whyItMattersKo": "홈 경기권을 확보해 코파 두 브라질 경기에서 유리한 고지를 점했습니다.",
+      "fanTakeKo": "홈에서 편하게 경기할 수 있어서 좋네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -46,6 +46,22 @@
       "publishedAt": "2026-07-19T08:33:23.000Z",
       "whyItMattersKo": "감독의 지도로 선수가 국가대표로 발탁되면 팀의 가치와 선수 의지가 올라갑니다.",
       "fanTakeKo": "플라코 국가대표 가네! 대박이다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N",
+      "title": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras - UOL",
+      "summaryKo": "구스타보 고메스, 파우메이라스와 장기 계약",
+      "excerpt": "Gustavo Gómez foge à regra e terá renovação por longo período no Palmeiras&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0x5aTY2ZGdzZHNWakdKSUVCOVBiSkxwcHp5M3dKbkxmUnU0dzhIVmpNd1N6bE0tVklRaDFrYUxadG9VZjNib1JMc3U3c2FaQ1lsTEx4MHNZQ2ZnZHFxbndqRFlZNnlpTkhNTDZSQUVHa3pUa09pTEpnc3U1ZFRJLTRDSnFPTzg4dFVmaGpjc3VyU3ItcmRXM2ZMUi1TX1FaZEp3X0F4a2lDMG11XzZtc3lhWFdhU1B6cW5LdVF4MGw0SW5SZG5Fck92VnBEcVZVVVZnVGhyMmxCRHBNR2NV?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-19T08:30:00.000Z",
+      "whyItMattersKo": "주장과 수비의 핵심을 오랫동안 잡아두면 팀 전력 안정성이 크게 올라갑니다.",
+      "fanTakeKo": "주장이 계속 남는다니 다행이야!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -934,22 +950,6 @@
       "publishedAt": "2026-07-18T09:15:09.000Z",
       "whyItMattersKo": "구단주와 감독 간의 신뢰는 팀 운영의 안정성을 지키고 선수단 통솔력에도 긍정적입니다.",
       "fanTakeKo": "레일라 회장님 감사합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMivgJBVV95cUxPRFRPUlFIY1F5SGwyNjVFdkx4R1E0RnlUdktwbTFCcVZLOUdIQ0FLTGJUeVA",
-      "title": "Proposta ainda maior por Danilo, recado de Leila para Flaco López e situação de Andreas Pereira: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "다닐로 이적 제안, 레일라 회장의 메시지",
-      "excerpt": "Proposta ainda maior por Danilo, recado de Leila para Flaco López e situação de Andreas Pereira: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPRFRPUlFIY1F5SGwyNjVFdkx4R1E0RnlUdktwbTFCcVZLOUdIQ0FLTGJUeVA2dFY4WkdIUzJGUXBhb1RfSm84RFRUUHVDOVh3SVNiV00wQ2NnSWwyQnRlbERib29JQkx1ZnRxSVNUdUlkbzE5ektRZTVIakpnb0UxQjBNSms4WTZtdUhyNFQ1RnU5U0UwLTNMajd0c3EtM0VhWnVfbmtEUGtobG5USFh6b3JtaEhXYTBLdElLZkp6cTFxdmRicEtSZzE4LVFEOF9aaVB5dDNneFY4aDR3emVlWGRBdVNWcnNGTXlJY1JSWkNuZFhGMU13a09SOFZBTTh0RG94REdfdFotRjcyeWRXb1NaOUVHcHBBQ1RHRjBlQUVHSzdkQm4ybkdCSVhWTm0zM3Q0Sjh3X1UwWEQ1NlE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-18T08:15:00.000Z",
-      "whyItMattersKo": "다닐로 이적 제안과 주요 선수들의 상황은 팀 전력 유지에 중요한 변수입니다.",
-      "fanTakeKo": "이적 시장 소식이 왜 이리 설레죠?",
       "tags": [
         "뉴스",
         "AI요약"
