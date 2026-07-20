@@ -1,8 +1,230 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-20T16:56:24.702Z",
+  "fetchedAt": "2026-07-20T18:55:46.662Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWlyaE5ydGxwTHFfU0FnV1FpVGNpa3VrUlp2NWxzX1J1UGx1dWtLTnBOUGd",
+      "title": "Flamengo traça meta para diminuir vantagem do Palmeiras na liderança - Goal.com",
+      "summaryKo": "플라멩구, 선두 파우메이라스 추격 선언",
+      "excerpt": "Flamengo traça meta para diminuir vantagem do Palmeiras na liderança&nbsp;&nbsp;Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWlyaE5ydGxwTHFfU0FnV1FpVGNpa3VrUlp2NWxzX1J1UGx1dWtLTnBOUGd5aWpFcV90X1F0RG9IajNkbUFVVkliTXpiQmJVNmZJTTl2Y0lnSW5tZHp2UTVTQmtrbm1oWktndHpsYnkzT0tBRnhRVUw3Und4ejFKVWhZRHg0SFEtX3NuekkzWlFPRGt0WkhkcmVKdjNKQktwaEtDbUM3amVyYnJU?oc=5",
+      "source": "Goal.com",
+      "language": "pt",
+      "publishedAt": "2026-07-20T18:53:59.000Z",
+      "whyItMattersKo": "리그 우승 경쟁에서 플라멩구가 추격 의지를 보여 선두 경쟁이 더 치열해질 수 있습니다.",
+      "fanTakeKo": "격차 유지가 관건이겠죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHBRWDEwc0tpQ0F3RXQ3SmNkSVNFUXAzTm9GMDVSQjJOaURiNVd2NkUyby0",
+      "title": "Vitor Roque treina no Palmeiras e pode jogar contra Coritiba - CNN Brasil",
+      "summaryKo": "비토르 호키, 팀 훈련 참여하고 경기 뛸 수도",
+      "excerpt": "Vitor Roque treina no Palmeiras e pode jogar contra Coritiba&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHBRWDEwc0tpQ0F3RXQ3SmNkSVNFUXAzTm9GMDVSQjJOaURiNVd2NkUyby01OHlCbkJBQmNBTnlxRjFDbDlSU3d6VUVxSnlNSlJFRjlSY0tiWFFyUF9TSDJfX1ZBS1k1NEN2a2h4RTFYZ19mbngxQ0lMMUlEV3pnMFhnT1dTSklRZWo5UG9qZkZEcHZCWTFOeXlNVXBTbnBYMkNIN0FYRzhsR3NOQ3lDUw?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-20T18:48:09.000Z",
+      "whyItMattersKo": "새 영입 비토르 호키의 합류 여부는 공격진 옵션을 넓히고 득점력을 높일 수 있습니다.",
+      "fanTakeKo": "드디어 호키 볼 볼 수 있나요?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFZGQ184TEZLaE1sR1VQMEVMQ2ZTSWpwWE8taUp1VERyVlMxWlMzOU82akF",
+      "title": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba no Brasileirão - Estadão",
+      "summaryKo": "비토르 호키, 코리치바전 선발 데뷔 유력",
+      "excerpt": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba no Brasileirão&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFZGQ184TEZLaE1sR1VQMEVMQ2ZTSWpwWE8taUp1VERyVlMxWlMzOU82akFmUjV1NmM0ZndWR0hGbHJTU2pmSGFFMkFmajdEM0JaVlFscmRaMjhCVW15TjFFc3VWQ1h4eGRJVXRWRXd4ZlluMEpXbmJfMkM3WFBCcXhUSk1CbkJ5MFNkSjVqaF9HUHJwUWVTazdRakRCNXZaeTQ4YUJOdkRwQ21jQ3VXMllfTzdqUWRyOE9FQ0h0ZlUtVmMySVVBdnRWWnIybllWU0xF?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-20T18:43:15.000Z",
+      "whyItMattersKo": "주전 공격수로 기용될 경우 팀의 공격 패턴이 바뀌고 득점력이 강화될 것입니다.",
+      "fanTakeKo": "호키 선발이라니 너무 기대돼요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFFVeHA2ZDA5RXNkXzBhZlRTTzdPZUpPSjNseEhaNmtRRTcxb01ZZ3FiRUx",
+      "title": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba no Brasileirão - BOL",
+      "summaryKo": "비토르 호키, 브라질레이렁 선발로 예상",
+      "excerpt": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba no Brasileirão&nbsp;&nbsp;BOL",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFFVeHA2ZDA5RXNkXzBhZlRTTzdPZUpPSjNseEhaNmtRRTcxb01ZZ3FiRUxWVjVZVUVRVFV0YklHT3ZVVjgtRjdhZjlyT21YcnRiUFVaWmRkNlpuUkxGV2hvTW5tZ0RGbXlMRkJWaFdaZnFNaFAxRWxfLU1ncGNnSzJ1dTgwYXFsb3hqamFSNUxFTTdSY18zLXZzTHNUY0l2RHVUaHBNNWRiVjJLbDJ0YkdvWlFWbFZkWllqX0tEQ3pfR09SS05QMTk4b3h4Sm5lRnhYRdIB1AFBVV95cUxORFFVeHA2ZDA5RXNkXzBhZlRTTzdPZUpPSjNseEhaNmtRRTcxb01ZZ3FiRUxWVjVZVUVRVFV0YklHT3ZVVjgtRjdhZjlyT21YcnRiUFVaWmRkNlpuUkxGV2hvTW5tZ0RGbXlMRkJWaFdaZnFNaFAxRWxfLU1ncGNnSzJ1dTgwYXFsb3hqamFSNUxFTTdSY18zLXZzTHNUY0l2RHVUaHBNNWRiVjJLbDJ0YkdvWlFWbFZkWllqX0tEQ3pfR09SS05QMTk4b3h4Sm5lRnhYRQ?oc=5",
+      "source": "BOL",
+      "language": "pt",
+      "publishedAt": "2026-07-20T18:35:00.000Z",
+      "whyItMattersKo": "새 공격수의 선발 출전은 팀 공격력을 높이고 승리에 중요한 역할을 할 수 있습니다.",
+      "fanTakeKo": "득점하면 완벽할 텐데요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcVAyWng4dFlmVTJoTXluN3A1Y1VnSmdqSTdCRExUUWRLS1p0djhxN21wMUV",
+      "title": "Danilo chegando? Palmeiras estuda outra forma de proposta, diz Latif - UOL",
+      "summaryKo": "다닐로 영입, 파우메이라스 새 제안 검토",
+      "excerpt": "Danilo chegando? Palmeiras estuda outra forma de proposta, diz Latif&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcVAyWng4dFlmVTJoTXluN3A1Y1VnSmdqSTdCRExUUWRLS1p0djhxN21wMUV0a1pmM05YVHJHVDNoMjdEZU9YVEt5dHRvQkRqVGZrZFJubENZUG9jY3VvQWROWTZlWlhSRjlIM3lSZzVESmdtTGk5RjY5UFpsUlJRTEFYdkpHZzlNTzdGOG41SlhKeGNQODZ2V2dsdDlUSWh6Vk5DYW83V1paZ0RiblRwaDdEQXVFMUFmaWFERUF0V0xkOXZVOGRueno0OHhJc3hTYUxveG8tbnFvTloyWENaS1lFekhXZjhVcHZMN2ZvVWI1aGoyMEk1NWdLd0RzQQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-20T18:02:43.000Z",
+      "whyItMattersKo": "주전급 미드필더 영입 제안이 나오면서 팀 중원 보강 가능성이 커졌습니다.",
+      "fanTakeKo": "다닐로 꼭 왔으면 좋겠다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpU2F4S0tkdy1tdEZGODJCWUhFQzB6em53M2k4QjBjUDFIVm5aQjlWUmIyNkl",
+      "title": "❌❌❌ Nosso post preparado para o título do Flaco López acabou indo para o cemitério das artes perdidas. Se o Lionel Scaloni usasse mais o Flaco, talvez essa imagem pudesse ter virado realidade. #Palmeiras #PalmeirasOnline - instagram.com",
+      "summaryKo": "❌❌❌ Flaco López의 타이틀을 위해 준비한 게시물은 결국 잃어버린 예술의 묘지로 갔습니다. 라이오넬 스칼로니가 플라코를 더 많이 사용했다면 이 이미지가 실현될 수 있었을 것입니다. # Palmeiras # PalmeirasOnline - instagram.com",
+      "excerpt": "❌❌❌ Nosso post preparado para o título do Flaco López acabou indo para o cemitério das artes perdidas. Se o Lionel Scaloni usasse mais o Flaco, talvez essa imagem pudesse ter virado realidade. #Palmeiras #PalmeirasOnline&nbsp;&nbsp;instagra",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpU2F4S0tkdy1tdEZGODJCWUhFQzB6em53M2k4QjBjUDFIVm5aQjlWUmIyNklVb0o4amFYMDFXVndLb0ljQUxYU1BjdS1iSXV6NHc?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:46:03.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdF9vUTdGekdqbkJyZGRuUTF0SDlFWmhqSWw4dzhubUhFanBscU5BUmJLSGN",
+      "title": "Palmeiras acelera renovação de ex-Flamengo após explosão de gols na base - Terra",
+      "summaryKo": "전 플라멩구 유망주, 득점 폭발에 계약 연장",
+      "excerpt": "Palmeiras acelera renovação de ex-Flamengo após explosão de gols na base&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdF9vUTdGekdqbkJyZGRuUTF0SDlFWmhqSWw4dzhubUhFanBscU5BUmJLSGNOS1VYcDBZaW5FVG84dFNXZFZGTDJOcFlwRTA3NjdBNGNsd2YySU95Mmc0Slk0eGZjdGZoSVQwN21iQnJxU09keDEtbTRwZVZFaE1KU1lkenJIVU93LVYtSkllT2dwVEVnbmlCYlBXQ1Nsd2xJZDh5MlFxNjhrMFVSSzFQOHR2Q0ZNc1FrSk9tbmNJV2M4R1hiMnVYdnQyX29tX3YtazJMMkRyUTR1WHpRYldqVVZmQndyckR1eXNDamFRcXlDZw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:43:00.000Z",
+      "whyItMattersKo": "유소년팀에서의 맹활약 덕분에 미래의 핵심 선수를 미리 확보하려는 움직임입니다.",
+      "fanTakeKo": "유망주 잡는 건 늘 좋죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3gwbTBjWmpHQzVGMHFMQkNOYkxfQmVQb0l5THl5NjNSaUxXaEdUUE1PcDV",
+      "title": "Palmeiras treina e Arthur projeta duelo contra o Coritiba pelo Brasileirão - O POVO",
+      "summaryKo": "아르투르, 코리치바전 대결 점친다",
+      "excerpt": "Palmeiras treina e Arthur projeta duelo contra o Coritiba pelo Brasileirão&nbsp;&nbsp;O POVO",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3gwbTBjWmpHQzVGMHFMQkNOYkxfQmVQb0l5THl5NjNSaUxXaEdUUE1PcDVmRy1hbXFxYS02eTBPcWsza3NWLVdfVWZkLWFuVVhlQzRvaEdTSEZrUmFCanNoeUJIYjEtTWlJeFVRamN4VDg5S0V3eTZDS2U1UFJBOGJNWVFYMVB1cWhaWnBHbVVqTWlOcU4yaWFTZm85dTJHMnFmcmtVbndhNlFYOS1iM1BwbVpWTmttMm5idnpkamc0QzdTek1md0hJR2Q?oc=5",
+      "source": "O POVO",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:39:38.000Z",
+      "whyItMattersKo": "선수들의 경기 준비 상태와 상대 분석이 브라질레이렁 승패를 가를 핵심입니다.",
+      "fanTakeKo": "이번 경기도 무조건 이겨야 해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMizgFBVV95cUxNQXRrWldKcjVELXFaRjkyMDVsMzJaS2ROT01ocXRYeGYwTzZYdVRIa0NJVGJ",
+      "title": "Quem pode brigar com Palmeiras e Fla pelo título do Brasileirão? - band.com.br",
+      "summaryKo": "파우메, 플라멩구 제치고 우승할 팀은?",
+      "excerpt": "Quem pode brigar com Palmeiras e Fla pelo título do Brasileirão?&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQXRrWldKcjVELXFaRjkyMDVsMzJaS2ROT01ocXRYeGYwTzZYdVRIa0NJVGJ4YWREWXo2QnI0VExzQTlLYV9oUTBNa01uYS1pcElsTmZYbTRzUHk1UUM2OXJ1TTN3dVNFUFlJaF9YWWgxTE9fbllHU0lHRGVTS1NsVnlGcGhhcEkxdTZ2NEtFSnEyV2lSVTNWcmpUX3VLOHU3QjdSZ1MzUXNXMksyVkNSWEtnMjd0ZzBLbWRUaUF3SFdnNkxMSEZZZUJMd1hLQQ?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:31:13.000Z",
+      "whyItMattersKo": "브라질레이렁 우승 경쟁 구도를 파악하면 남은 일정에서 우리 팀의 경쟁력을 알 수 있습니다.",
+      "fanTakeKo": "우승은 파우메이라스 몫이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmVLOXlEU3JrOEctOXJPOUdya0tVQkJNR3RVV0xvaUgwOEVJcl9sdWlzcnB",
+      "title": "Palmeiras treina e Arthur projeta duelo contra o Coritiba pelo Brasileirão - Terra",
+      "summaryKo": "파우메이라스, 아서와 함께 코리치바전 훈련",
+      "excerpt": "Palmeiras treina e Arthur projeta duelo contra o Coritiba pelo Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmVLOXlEU3JrOEctOXJPOUdya0tVQkJNR3RVV0xvaUgwOEVJcl9sdWlzcnBPZTVOY1FDV3dWZ0pDREZLZHRKdXZ4eGh3cElTSUozcUZheGpkYkxCNmhleExRN040NWJUdS1sZHRGRkxmYnhucUFQdjNyblR0Tm5jYUtNOU1rNGplbWtVU1BsY3FEOG91amxHWVhaNzU3YlJMbUNvV0ZnazZDcnFyVGEzd29XbnJ6Wi1jLWFkSHZNczBuNlVsNmlGR3VyeGRQcjhlRXg2NWltc0h4Wk5iTUtSd0UtTXZMb2lxZktLeGxneGxIbTdkOW9r?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:28:00.000Z",
+      "whyItMattersKo": "주전 선수의 경기 전 발언과 훈련 참여는 팀의 사기와 전략을 보여주는 지표입니다.",
+      "fanTakeKo": "아서의 컨디션이 궁금하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDJGb3FFUkJQYU96ZGxKRER6RUFtS1ZMS1RTbVJHMVN0bmZUNzl4M1R0LT",
+      "title": "Com retorno próximo, relembre como está o Flamengo no Brasileirão - Terra",
+      "summaryKo": "플라멩구, 리그 복귀 앞두고 순위 점검",
+      "excerpt": "Com retorno próximo, relembre como está o Flamengo no Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDJGb3FFUkJQYU96ZGxKRER6RUFtS1ZMS1RTbVJHMVN0bmZUNzl4M1R0LTBRbUdmdkZBUTlmdUk2SlZTT29WQmNOdE16X2lCdENaZno2M2xCMG41VlIzMzBrdmxwZ280RjkzbEFiQmVrQVA4ckphODJCNHlaQ2JkSktjOHludmNEQ1pjQWlhSmd6Z2llNktFenQ4VV9XMVhtZ3dtcWF2Uk1jcU5leXlRZVdkV3U5d1V1UnRiWDVKWkItZHZIVS1PVEZwYUhVMm1SZ0NJVGp0My1nc21qYmI4RzhnX0M1ZDMy?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:28:00.000Z",
+      "whyItMattersKo": "강팀 플라멩구의 리그 복귀와 현재 순위는 파우메이라스의 향후 경쟁에 중요한 변수입니다.",
+      "fanTakeKo": "플라멩구도 만만치 않겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeVVNOXc1Q0p2TWtlblo3SjFTeDhXQ0czMDRHRFgwVkYzSFNUVVBpUVRCYU",
+      "title": "Escalação do Palmeiras: Abel comanda treino tático e tem participação de Vitor Roque - ge",
+      "summaryKo": "아벨 감독, 비토르 호키와 전술 훈련 진행",
+      "excerpt": "Escalação do Palmeiras: Abel comanda treino tático e tem participação de Vitor Roque&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeVVNOXc1Q0p2TWtlblo3SjFTeDhXQ0czMDRHRFgwVkYzSFNUVVBpUVRCYUNUbnpNdEdGSWdGd1l1MGlUdFZSSXVhaHlFaXlCTVNNU09xZXE2T2o5Vk5CSE9RSFYxd0RpOXBiNTBsLWd0S3Ayb1ZLWEY5X3dDWW9RRy13TklQcU40Z2c1UUxOOENiNnlHdV9idExVeDlRcUtSODkwUnlaRU5lRW1oVFV5YVVaV2FxYjVnWXNEaXBXbmhFMTRwT252RG9UdlJwU1RkSk9DbVBQZ21BVWJTd1FVR0k1YkRBNGpm0gH3AUFVX3lxTFBGbEFpajc0TXIzMS1JakJiaHRpRVpueGl4VHJXZVQxQWs2dlRQQmxzR3QyY2pIQVlXWmxtZzNtTE82dXZkWF9OSnNUTk5EOUszMmRPaW9IUGtubDJhMDVzMFdva1U0cXFXY2g2R1I3QWNsVXpfb2lIVVBCTlhRRXU2X2xCYzg1ZE5FRmdZZUpQYkVXWFFzYlF0TUlPZmU5Ri1qaV9pZzdEbnlaSzFCUWZ5R09hTnZzbm5ud2xld2diUk1rRG54UUJaY1RYcHdqNUxSSVVjTHRsTC1RamhVQlU3UFpUZW1FWGI3WEFDRWVmUjl4a044WVk?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-20T17:10:22.000Z",
+      "whyItMattersKo": "감독의 전술 훈련과 비토르 호키의 합류는 다음 경기 라인업 힌트가 될 수 있습니다.",
+      "fanTakeKo": "호키가 훈련에 참여했군요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNHFlZjhXRTJwWWFPYmtYUUI1bUhJX09aMWltOGFYbUJzM0NHSTZwNmdkOS",
+      "title": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba - Rádio Itatiaia",
+      "summaryKo": "비토르 호키, 코리치바전 선발 예상",
+      "excerpt": "Vitor Roque treina e deve ser novidade do Palmeiras contra o Coritiba&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNHFlZjhXRTJwWWFPYmtYUUI1bUhJX09aMWltOGFYbUJzM0NHSTZwNmdkOS1iRmNQQ0o2akNnTXpsZmtFUnIzeExXeF8ycGJ6NlRSeUJjZ0syQzcwY1Iwakp5U0NleVVUajZoSlBWOThjUXRKbzFtLXVtendGX1FwQVl2OU41M2pRSGJtUmxrQUNYckJXZFBXOF81b2wxZzlLMmd0a0h1anp3dU9IWEcybV9pSU43aHhJcHpvS3M0UFQ0NV9pcDdpSmFsZksxdzNNcHVrbENVSnRXRk83d2lVWXBBYXY2YTU5b045NVpFbWE?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-20T16:59:55.000Z",
+      "whyItMattersKo": "새 선수의 선발 출전은 공격력 강화와 팀 전술의 변화를 의미할 수 있습니다.",
+      "fanTakeKo": "호키 선발 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlBmV2xjWUlHZ2pBeGJYS0tRMW9WbHlmbENUckVsekI0Mm1WZkktZlBJMm",
+      "title": "Entrada gratuita! Mixto convoca torcida para duelo com o Palmeiras pelo Brasileirão Feminino - MixtoNet",
+      "summaryKo": "파우메이라스 여성부, 미스토전 무료 입장",
+      "excerpt": "Entrada gratuita! Mixto convoca torcida para duelo com o Palmeiras pelo Brasileirão Feminino&nbsp;&nbsp;MixtoNet",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlBmV2xjWUlHZ2pBeGJYS0tRMW9WbHlmbENUckVsekI0Mm1WZkktZlBJMmFVSGllR1NqWm9lRGZLZlZ6NWhPa3dDcXFNZkRmU2RjRFR2dFpkZE9ycUhpQjBKbm5fNVRhSDVVYU9sZnN1WnRIU3ZWcFNsZ215RnA1dkJB?oc=5",
+      "source": "MixtoNet",
+      "language": "pt",
+      "publishedAt": "2026-07-20T16:57:00.000Z",
+      "whyItMattersKo": "여성부 경기 관중 동원을 위해 무료 입장을 진행해 팬 참여를 유도합니다.",
+      "fanTakeKo": "여성부 응원하러 가야겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXY1eXVnNGU2VUE5LXFhOVlYeHVhNWlfMXlheU9jZGVXU2NUVWRrQXFtcHJ",
       "title": "Luana Maluf, da GeTV, critica post do canal envolvendo Palmeiras: 'Decepção' - LANCE!",
@@ -68,6 +290,38 @@
       ]
     },
     {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWdIWWFGWU55M3lTaWpIOEFsUC0tTWRNeU1iNlZUcGRiRTV0TmllNFpVVH",
+      "title": "Outro Canal: Estêvão, ex-Palmeiras, fecha contrato com a Disney para promover transmissões de futebol europeu - UOL",
+      "summaryKo": "전 파우메이라스 에스테방, 디즈니와 계약",
+      "excerpt": "Outro Canal: Estêvão, ex-Palmeiras, fecha contrato com a Disney para promover transmissões de futebol europeu&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWdIWWFGWU55M3lTaWpIOEFsUC0tTWRNeU1iNlZUcGRiRTV0TmllNFpVVHhmbW1RamE3S2hJT0x2ZnE5M2tSUk1ycHA5UUhJZE9OdU9RV2VlS2pVVFdGekh0VHEyZ2xPY2lZT2EwSmJCbEU5OEpuVUVYVGNfV1VVcGt2RjRBLTRsZXVYWDZYY2VtMTV5TlVWcUNMNnRWRGN4QVJJb1RiTEF5NFI5b3hRMjl2d3NIakZJNFJaLWhicklKUTVMZDM3dUlENVNxZ0ZMc1FwWC1GYllWVkI2MnBjNG5XQy16UTJrQ1BqUVVQOW0?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-20T16:09:39.000Z",
+      "whyItMattersKo": "유럽 축구 중계 홍보를 위해 디즈니와 계약을 맺어 새로운 활동을 시작합니다.",
+      "fanTakeKo": "디즈니랑 손잡다니 대단하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWVvaWxObVFaWTBUcFpWQzRDUUI3cFFTcVM0R3I4SEdhb2xJeGdCQXAwN1",
+      "title": "Após passagem vitoriosa, Isadora Amaral se despede do Palmeiras - palmeiras.com.br",
+      "summaryKo": "이사도라 아마랄, 파우메이라스와 작별",
+      "excerpt": "Após passagem vitoriosa, Isadora Amaral se despede do Palmeiras&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWVvaWxObVFaWTBUcFpWQzRDUUI3cFFTcVM0R3I4SEdhb2xJeGdCQXAwN1RTRF9XWjVhc29xdWFOanFRQ3RQN1pHMURLQjIxbU5LWGF5c0ZHRi1qWGlYbDVaY3N1a19TTlFDRy1yOGN6bWRzRjRvZmhMbUh6U21DMWNNODlMVUFmSm1tM3p2UTI1ZFNOZlNUV0RTS1MyQWtTWVlv?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-20T15:55:21.000Z",
+      "whyItMattersKo": "성공적인 시즌을 보낸 선수가 팀을 떠나며 새로운 행보를 시작하게 됩니다.",
+      "fanTakeKo": "고생했고 행복하길 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUtKbEtEdFF0a3lpaEJ0WlJDbmRQSURPSDNnTlhIWmdsSHl5RHlQMXdTSkF",
       "title": "Palmeiras treina de olho na volta do Brasileirão contra o Coritiba - Gazeta Esportiva",
       "summaryKo": "파우메이라스는 브라질레이랑의 복귀를 눈으로 바라보며 코리치바 - 가제타 에스포르티바와의 훈련을 합니다.",
@@ -90,20 +344,6 @@
       "source": "365Scores",
       "language": "pt",
       "publishedAt": "2026-07-20T15:50:10.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpU2F4S0tkdy1tdEZGODJCWUhFQzB6em53M2k4QjBjUDFIVm5aQjlWUmIyNkl",
-      "title": "❌❌❌ Nosso post preparado para o título do Flaco López acabou indo para o cemitério das artes perdidas. Se o Lionel Scaloni usasse mais o Flaco, talvez essa imagem pudesse ter virado realidade. #Palmeiras #PalmeirasOnline - instagram.com",
-      "summaryKo": "❌❌❌ Flaco López의 타이틀을 위해 준비한 게시물은 결국 잃어버린 예술의 묘지로 갔습니다. 라이오넬 스칼로니가 플라코를 더 많이 사용했다면 이 이미지가 실현될 수 있었을 것입니다. # Palmeiras # PalmeirasOnline - instagram.com",
-      "excerpt": "❌❌❌ Nosso post preparado para o título do Flaco López acabou indo para o cemitério das artes perdidas. Se o Lionel Scaloni usasse mais o Flaco, talvez essa imagem pudesse ter virado realidade. #Palmeiras #PalmeirasOnline&nbsp;&nbsp;instagra",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpU2F4S0tkdy1tdEZGODJCWUhFQzB6em53M2k4QjBjUDFIVm5aQjlWUmIyNklVb0o4amFYMDFXVndLb0ljQUxYU1BjdS1iSXV6NHc?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-20T15:33:24.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -135,6 +375,22 @@
       "tags": [
         "뉴스",
         "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-24-https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QbWdtLU1KdGtSNWhpZWlDZk8zdndEbGR3WXBjSGVtZlpYNUJnY2VNWUpYd1",
+      "title": "Palmeiras entra em semana decisiva por Danilo - Portal ABC do ABC",
+      "summaryKo": "파우메이라스, 다닐로 영주권 두고 결정적 한 주",
+      "excerpt": "Palmeiras entra em semana decisiva por Danilo&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QbWdtLU1KdGtSNWhpZWlDZk8zdndEbGR3WXBjSGVtZlpYNUJnY2VNWUpYd1BkNDZ1REgyeFBZY3R0enN4VGgzY25xNUF0d241OTh6eEJBWldTU1VjYk5wTVRZNkg?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-20T14:38:40.000Z",
+      "whyItMattersKo": "핵심 선수의 영입 협상이 마지막 단계에 접어들어 팀 전력 보강에 영향이 큽니다.",
+      "fanTakeKo": "빨리 영입 소식 듣고 싶어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -676,254 +932,6 @@
       "publishedAt": "2026-07-19T18:57:03.000Z",
       "whyItMattersKo": "주전 선수들이 훈련에 복귀하여 다음 경기 라인업 구성에 긍정적 신호입니다.",
       "fanTakeKo": "두 선수 다 건강해서 다행이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFk4ZXFkTFd4Umpqc1U1ZjBRd1A2Rm9GX0oxcVgwNVlEZlY5MkZVQ3pyR2l",
-      "title": "Palmeiras: treino tem volta de dois titulares para duelo contra Coritiba - band.com.br",
-      "summaryKo": "파우메이라스: 코리치바와 대결할 두 명의 스타터가 훈련에 복귀했습니다 - band.com.br",
-      "excerpt": "Palmeiras: treino tem volta de dois titulares para duelo contra Coritiba&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFk4ZXFkTFd4Umpqc1U1ZjBRd1A2Rm9GX0oxcVgwNVlEZlY5MkZVQ3pyR2lTNmdOSXNPUGxKeEhTTXRoc2M4T1BqenMyQV9RZkhXdVBITWZfQlAzUG5OT2pZemdDVlZNMjB3a0dNRk5adzhEV3pCaU1CbFNMX2M4cWk1WkVGQ3h0WVZZOEhfSGstNWZwYnFWYTl0UmhNWXMxb3hYd1dmZkZFbnlZNmx0WTVTX2Nma3VoZnc?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T18:43:59.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJTS3pPb2RUd2lwaGtYMkNiTXpxWGVCQ3pJeHlHcTgzbzh0YU90bTM2cT",
-      "title": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras - jornalcruzeiro.com.br",
-      "summaryKo": "바르보자, 파우메이라스 새 선수 영입 추진",
-      "excerpt": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras&nbsp;&nbsp;jornalcruzeiro.com.br",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJTS3pPb2RUd2lwaGtYMkNiTXpxWGVCQ3pJeHlHcTgzbzh0YU90bTM2cThEbDVYMVRIZGVNeEE0Y2FvMVRQOTYtczlLUXM5dllINE5UZy1kR0xraGdBTFlLV2tRenZ5cHctMFBLSThQMldVdVd0WXhlQmprdmtZSlZqT3diQ21LYy1LWG9yT2UzNEU5VnZFYVNEYVVTRUllNkk3Y2lMdTRqM3RHdkE4Y3NwLWIwVTJLMDhXdW5yZ2lxM3VHSlRF?oc=5",
-      "source": "jornalcruzeiro.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T18:33:00.000Z",
-      "whyItMattersKo": "새 선수 영입 움직임은 팀 전력 강화와 남은 시즌 성적에 큰 영향을 줄 수 있습니다.",
-      "fanTakeKo": "든든한 보강 소식 기대된다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHZ6LXZwWmh1OTZkSWx1cjdWVkN1WHcweEZ1Z0kya0I3SHJlSWx6M09UenV",
-      "title": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras - jornalcruzeiro.com.br",
-      "summaryKo": "Barboza는 Palmeiras를 강화하기 위해 뒤에서 행동하고 있음을 밝힙니다 - jornalcruzeiro.com.br",
-      "excerpt": "Barboza revela que está agindo nos bastidores para trazer reforço para o Palmeiras&nbsp;&nbsp;jornalcruzeiro.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHZ6LXZwWmh1OTZkSWx1cjdWVkN1WHcweEZ1Z0kya0I3SHJlSWx6M09UenV5MHJuRkhub2ZJQUtaMnBuVmphcDZCUzNPU2s0c2NmNEdjQTRxTVlTYWM1ZEZ6TEl4bi1uSklwTC04RDhrWGE4aXBzM0pkTmNKVndDM2FiNVNuZlNnT0lzZFA3TDBmZXdJUFo4cW9kWlBHZUZzUkk0eGhaZG84ZVhpZ2FoeHBFYnBPdEhMREF3eGppUVpyZDI0dFpabDM1eXNpZGxPeWktUERHY2JZbFRXekVoSHZDSDhnQQ?oc=5",
-      "source": "jornalcruzeiro.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T18:33:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDJQMkFleUpVaVYtYXNhOWNqekdCY1lwZ1d0aV9xUkNibHBndDlRM1NRTHV",
-      "title": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino - Terra",
-      "summaryKo": "파우메이라스는 훈련 중인 카를로스 미겔과 비토르 로케에게서 돌아왔습니다 - 테라",
-      "excerpt": "Palmeiras tem retornos de Carlos Miguel e Vitor Roque em treino&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDJQMkFleUpVaVYtYXNhOWNqekdCY1lwZ1d0aV9xUkNibHBndDlRM1NRTHVKQ2RGa1FEZDFTYnRCMmh4dTdkTTlMU0lGY2VNdC0tWXd3bXdJWHZ4c1lJdnY0eW9KNnVlNVNlczU0d0lWbTVmMzR6M3ZtOHVyQjVSaWl1TXJIMXZ4Y1RTUUlLWm5zWkt3SXoyUDgwc05KV3MyMXFjXzV1OEs3Qzd0VXJaY00wSE1GSm1IYjBxNDhvWjlxSHBCbFJsZi1iSTBhQkFhYzFZSTV0ckdUN1c1bmYtY2hPeDRJVFFq?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-19T18:11:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVVRDAzTEVNa1pHVWlHTWgtdWhETVlSb0pWQktaUUhiX09MNzVTUUYzdGJ",
-      "title": "Palmeiras empata com Flamengo-SP pelo Paulista às vésperas das semis do Brasileiro - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 플라멩구와 무승부로 마무리",
-      "excerpt": "Palmeiras empata com Flamengo-SP pelo Paulista às vésperas das semis do Brasileiro&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVVRDAzTEVNa1pHVWlHTWgtdWhETVlSb0pWQktaUUhiX09MNzVTUUYzdGJtcklsVXcxUFBlcUFuemVGUGhQVlFsQlJwZVA0bkFuYWFGeTNtbDBtWWZwbEV4bDRRUEl6ODk0M0taSThxb0k3T1VtejA3U1RmNWdyMkpZNFhheDZzanJaVVRvWnBzSzNVejFNdllha3A1NWVRRW9YRC1aZ2I2TFFweERNS2xpd2lWa1FEVElkVTJUbjFCeDhJeFItZlJDWdIB0AFBVV95cUxNQW9XUUpJWWg3blFNczQwT3NNMVhOWkE0MENnZ3loQVppbTlKWnZSWFVLb3VUSFBUS1dlaFNMam9VYnBleUlTLWdEMnFkc1VJSEFjRTJvQ09MVlRYQjVmZ3Bsa1h2bGZ1dVE2NVpGUy11ZlFrLXNXTk4wY3BwNTZSeXZFck52aTRPUDNESmt0WHZ1cHRCd0s5NkVJWXNtM05uVjNqWENEdE4wd251aThzdTFpek0xdTljT0d0ekt6TTlHeVBCOGYwUkNxcGFuNEpK?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:23:00.000Z",
-      "whyItMattersKo": "브라질레이렁 4강 앞두고 치른 경기라 선수 관리와 컨디션 조절에 주목할 만합니다.",
-      "fanTakeKo": "무승부라 아쉽지만 4강이 중요하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2tublMtUkNPRktfQTFFdmszZ0Y4VFF2RkhERmlRZmF0cm5yYS1sVjlhdms",
-      "title": "Treino do Palmeiras: Carlos Miguel e Vitor Roque trabalham com o elenco - ge",
-      "summaryKo": "카를루스 미겔, 비토르 호키 팀 훈련 합류",
-      "excerpt": "Treino do Palmeiras: Carlos Miguel e Vitor Roque trabalham com o elenco&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2tublMtUkNPRktfQTFFdmszZ0Y4VFF2RkhERmlRZmF0cm5yYS1sVjlhdmswbVBua3FQV2x5SXdrU2V6azh3WEEtY18zOVZ1bWViSUFmQ0hOWVlGaS1hRmJWZUpHTDNMT1hWQTBDdERjdFZsYjBsc1BLX2JySHRZeTh1d19SVDBPUnpiNEdrNFpPZHJ2amxYWFJmQ1E3TGF4LTB6QVdFZmVySDJleDlfbl9vRDk0M3RRQ1VuMnFodEVDNnVyUUswd2lhUkxKVUg2XzJHUjhERdIB5gFBVV95cUxQZDV4NHlEbWVXbE5NX2dsNlBRMHdiRVdxTnBmSEpELUNuRVhneVJXTGUtN2t4dVptTkJDMEx4QTVYT3lSZmNRVVliU1BNb25MOWVsYXRGN0xPbURiMDJCQUZaTnhUc3QyM3dROW0tTEpKWWFYMXl4VTR6RjVzYWo5aXNmTG5IMzJaQjlvUWpDdnZ3ZEV6UUczdlIxTVRfM0wyX2ZIYkV4eHZDMU42UHJ2S256ejI1SFhxbzZvTzNEajBQWFB3Nkt3ZWNkT3Z4Mm5ycHJIODdyeV9wVURCUU9vTHV4TzJ1UQ?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:11:38.000Z",
-      "whyItMattersKo": "두 선수의 팀 훈련 복귀는 다음 경기 선발 명단 구성에 긍정적인 신호입니다.",
-      "fanTakeKo": "둘 다 훈련 참여하니 든든하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMizAFBVV95cUxPY3JMaUJpMVlYUlkxY3RYZGwteHd0cU11VjNLOGI0YWZnX1hxS0ptdjVkOTR",
-      "title": "Hoje no Palmeiras, Barboza detona Botafogo nas redes após clube tirar suas fotos de estádio - ESPN Brasil",
-      "summaryKo": "바르보자, 보타포구에 SNS로 강한 불만 토로",
-      "excerpt": "Hoje no Palmeiras, Barboza detona Botafogo nas redes após clube tirar suas fotos de estádio&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY3JMaUJpMVlYUlkxY3RYZGwteHd0cU11VjNLOGI0YWZnX1hxS0ptdjVkOTRlLW8zbTFsT0tjdmJZTVBFQVN5SWNJTGg2M0FOYi1MU0pjdVpGMUFzVE42d09yaUFvU0wwcjZldjdFQlNoa1BzQWx1U0hRSFNaMmZmLURSSHRZMlFQVTZyWG5Jb1dOUEVyT0dFVU95YVk4azY4N0Y1RFZPTmROMjJ4TGJuUmxodlV3UWxmN1dqLVg4OGNoMWx3WVR4NW5YLUY?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:08:00.000Z",
-      "whyItMattersKo": "라이벌 팀과의 갈등은 다음 맞대결의 긴장감과 팬들의 관심을 높일 수 있습니다.",
-      "fanTakeKo": "라이벌이랑은 원래 안 맞아주죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSm5sUXZSTVVjWlRxbTBodnN5Rk83ZU1icndLU3d2OWJ6dUN1dGtJRW5GbWl",
-      "title": "Atacante ex-Flamengo pode ganhar oportunidades, recado de Alexander Barboza para Marlon Freitas e retorno de Jhon Arias: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "전 플라멩구 공격수 기회 잡을 듯, 아리아스 복귀",
-      "excerpt": "Atacante ex-Flamengo pode ganhar oportunidades, recado de Alexander Barboza para Marlon Freitas e retorno de Jhon Arias: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSm5sUXZSTVVjWlRxbTBodnN5Rk83ZU1icndLU3d2OWJ6dUN1dGtJRW5GbWlaSGNReG1wQldEN2hYTU5oUU5BanpBNFR5cDlERmF3Tms3c3RzcVNwbnZjUFhzV3ZhMWlMdHNLLTRfaV9PSDhUOW5QVmtKd0tFb3dWSlZPOUJxYS1IQ3plYldVZ0xubzVkdExPUU9vanNabmJsZnpWc0lyNG55QnlaSWVVLU5nbGtDYktteEZsUUFuSnhESTl0bGVySVVJS2prZzZMN1R0UXB1SVM3bjBMRHdSVGVWWDFqaHBUUWl1N1cxQXVjUlJFT1EzX3ZVVE9UVzM0Q2dzOU9MV3ZSMm5QaHhiS25WdWozbXZkZmljMzlkTlUyZFM5OE5PU2tDd0xIS1IxRl9vQ1dCRnpielI4ejVlbFItTS1fWEQxaXZKWkQzd3haWXc0TjhTZXg2d21yUQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:07:00.000Z",
-      "whyItMattersKo": "공격수 기용과 핵심 선수의 복귀 소식은 팀의 전력 보강에 중요한 변수입니다.",
-      "fanTakeKo": "아리아스 복귀하니 공격력이 올라가겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUtETE1jb1ZrcW80clJfS01ITnJKeHViT3pRNXFzZDVWZ2xDUmlNZmoyUj",
-      "title": "580 milhões: atacante assina com o Palmeiras - Terra",
-      "summaryKo": "5억 8천만 달러: 파우메이라스 - 테라와 스트라이커 계약 체결",
-      "excerpt": "580 milhões: atacante assina com o Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUtETE1jb1ZrcW80clJfS01ITnJKeHViT3pRNXFzZDVWZ2xDUmlNZmoyUjFpZUpuRkowVnpLd2FiX1lDWWFFdjcwZHZVWnVpbWxaSnRwdEJGb0pKOUpGTWFTNWpMdlE5WXpxQVk3dGlJSkJReUlJbi1yZDA3QVgtNFlSNE5OcnluX1JrR1BOMm5yWkNMMWZTVDdZREcyVUJqTmtWZEhTT3B6eXU1WUhQZWhna25SOENRWHB3aC1ONXNsd09CRElNTW1IMlRhUQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:07:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM29nOUNMc1RScXBoUjRGYldvRTJmYm5mcUVYV3VvU1R6YVRsY0g2ZFZaYXF",
-      "title": "É verdade que Flaco López pode ser o primeiro jogador estrangeiro do Brasileirão a chegar numa final da Copa? - sportingnews.com",
-      "summaryKo": "플라코 로페스, 외국인 최초 결승 진출할까",
-      "excerpt": "É verdade que Flaco López pode ser o primeiro jogador estrangeiro do Brasileirão a chegar numa final da Copa?&nbsp;&nbsp;sportingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM29nOUNMc1RScXBoUjRGYldvRTJmYm5mcUVYV3VvU1R6YVRsY0g2ZFZaYXFQRmN3eElGUzZrbGx3VllxbDRxWWF4eDRROHJ0WUx4VVpIcFFjd21yakVwMGZYM1hCVGtXNGFKUENvdEFIblByLWloazFPLURiS1A3V2c0djhfTVFmWUdlNnNocGZhYUFTQ0o0T212dUtNLWh3NVZsUzhWcS1DQklhaE1Tc2pLVUU4MkNNWHBwOEJTZHYwbDhpbHJkVTlCRWlpMFljd3JaRTZRZ0RIVFU2cDNvcks1bUJ1UQ?oc=5",
-      "source": "sportingnews.com",
-      "language": "pt",
-      "publishedAt": "2026-07-19T17:00:00.000Z",
-      "whyItMattersKo": "외국인 선수가 코파 두 브라질 결승에 오르면 역사적인 기록이 되어 주목받습니다.",
-      "fanTakeKo": "새로운 역사가 쓰일까요? 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnVJa1VPVWVmdW5IRThMQUdjZ2NUb0NqQWY4OGFZSFZOa3MtOUtScHQ5VVp",
-      "title": "Palmeiras aprimora fundamentos e finalizações na Academia de Futebol - palmeiras.com.br",
-      "summaryKo": "파우메이라스, 훈련장에서 기본기와 슈팅 다진다",
-      "excerpt": "Palmeiras aprimora fundamentos e finalizações na Academia de Futebol&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnVJa1VPVWVmdW5IRThMQUdjZ2NUb0NqQWY4OGFZSFZOa3MtOUtScHQ5VVpDVnQ5cjFUVGFSWE5sNC1wRjlWV3lmM2p5WVNXekp4QTdpbU1Ec1A4U1hsVEMzTGctRENDYzFxWGtncUtyYW9mZ3pEZVZtYk9UUTZqNWtSUjN2ZVRXd1ZHMUdKQ1c2V2YteWlZdkFkTC1EZWt4bTBMRG81NW9PeDQ?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T16:43:48.000Z",
-      "whyItMattersKo": "기본기와 마무리 슈팅 집중 연습은 다음 경기 승리와 득점력 향상에 중요합니다.",
-      "fanTakeKo": "기본기가 튼튼해야 승리하죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeXI3MVpJTXlKSDVMbWczZmNudm5QckdHUDRzVC1OcGR2LXRZd2MyTGtEQ0g",
-      "title": "É oficial! Palmeiras acerta contratação de atacante - Terra",
-      "summaryKo": "파우메이라스, 새 공격수 영입 공식 발표",
-      "excerpt": "É oficial! Palmeiras acerta contratação de atacante&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeXI3MVpJTXlKSDVMbWczZmNudm5QckdHUDRzVC1OcGR2LXRZd2MyTGtEQ0g2bkFDWU5OaThOdVNCV2llaXVpaGxvUEFtT1phM3FFWnl2cnBBc0J1T0EzMW13b0hBWU1POVNNMVhRX2R6N1Q4MExPdzFSaXJOTE9BRVNnN3M0VkRETktzQnV6aFA0NkVublZnYkFoa1hObkdrcGxvcmhLVjRTdnU3WTdrajBLdVV5WVY2TjRQZkxlcXk2ckotc21Eazh1c3drZWFZWFNNcGZuOA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-19T16:32:00.000Z",
-      "whyItMattersKo": "공격진에 새 옵션이 생겨 득점력 보강과 전술 다양화에 도움이 될 것입니다.",
-      "fanTakeKo": "새 공격수 영입, 득점력 보강에 기대!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMitwFBVV95cUxOOG1CZ2pYdXJNZmFLTGgzTnZRVnZ6UlNXYi1ld0FDSjlfUUJ0dWkxdFh6WnR",
-      "title": "Às vésperas da semi do Brasileiro, Sub-20 empata com Flamengo-SP pelo Paulista - palmeiras.com.br",
-      "summaryKo": "U-20팀, 리그 준결승 앞두고 플라멩구와 무승부",
-      "excerpt": "Às vésperas da semi do Brasileiro, Sub-20 empata com Flamengo-SP pelo Paulista&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOG1CZ2pYdXJNZmFLTGgzTnZRVnZ6UlNXYi1ld0FDSjlfUUJ0dWkxdFh6WnRVUjBrb1c5cWp4TjJrYndGX0ZOLUxoajFxbjZrb2FBY192Tm1VRHdpdHFhbUN5UVF1aHJTTGFITW9Ta2l5cmRyempsTHpaSlpEZHJZUG1zNjZwR0lWNUlXYm9ZODQwam1XMS1OQXlTNW5STmZybDBaS21jVWNMbGlfUGlRQkhNQnVOQW8?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T16:14:25.000Z",
-      "whyItMattersKo": "브라질레이렁 준결승을 앞두고 팀 분위기와 전술 점검을 마무리하는 단계입니다.",
-      "fanTakeKo": "준결승 잘 치르길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYzhVR1dDM0Q0T0hiMWtKamxDTzVtLUlMajhkeEFIZ21MdEhwcVV1Z2FaQV",
-      "title": "Entenda a tradição do anel de campeão; atacante do Palmeiras pode ganhar pela segunda vez - ge",
-      "summaryKo": "파우메이라스 공격수, 두 번째 우승 반지 가능성",
-      "excerpt": "Entenda a tradição do anel de campeão; atacante do Palmeiras pode ganhar pela segunda vez&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYzhVR1dDM0Q0T0hiMWtKamxDTzVtLUlMajhkeEFIZ21MdEhwcVV1Z2FaQVc5MGctR1JEb3Nzb0xqWE5iZTFCbjY2S18wX1B6d2hwY0poUmRXSVdadTJxQnk1dmVCajBXdHNGVXR4NWV1SHZ1WXdOejlzX3BIWm5hbGgyd3lSYWZCZ3Nqc0J1MlF4NXduQmh6TTQtSDQtSFpGaUJkRHFsRnV6WXZ2QVZFXzF3SkgwYzJuaXpOMlFzc1NxVlc3eHI5VjBXNDc1am9wMDJYMHdlcEppdVFBNDRXQ3p1Zm5zSjRHY1I2LdIB-wFBVV95cUxPZlBCdHFhUkZOSmZMcnZZY2lUZ1djeEMxNS15WkJYZEhIajFSWGpHX2wtcExfNVpHSFMwS3pBR1BMSk9hbUFwSzZZWWw2VW1jVVIzWW1uT2lLLUFBLXBEaWVOZEFJa3RtVkFuLXhNWENobHEzWUJPa0VzMFdRYkpGYnMtWEN6LU95MkxLQnZBcU9zRXJKM1hZU2tTT01tZmo3OFNCZGVVMnU4aWpxcG9fdTVLTHpkOW1Mc2VERUUySzk0QlR6aGRFVEk1RmlOQUQ0TUV3eUxUeENmOEQtbkNRMDk1RjFMa2dqbFNmenFwWUZaN2ltUnRrb2JGNA?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-19T16:00:08.000Z",
-      "whyItMattersKo": "우승 반지 전통과 선수의 또 다른 우승 기회를 보여주는 흥미로운 소식입니다.",
-      "fanTakeKo": "우승 반지 두 개면 진짜 멋지겠네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEg5QnQ2LWxaRzBKUXlocWM0TGR1TGZlVDMxV0N3RjlKd0t0Q0VxRUc5Q1I",
-      "title": "Palmeiras fará nova proposta por Danilo e vê salários se aproximarem de desfecho - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스, 다닐로 영입에 새 제안",
-      "excerpt": "Palmeiras fará nova proposta por Danilo e vê salários se aproximarem de desfecho&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEg5QnQ2LWxaRzBKUXlocWM0TGR1TGZlVDMxV0N3RjlKd0t0Q0VxRUc5Q1IxOU9MTHg3TmYxTVBhVFBMSkNWUUJubUNRYlVLUnA2MFlGNVljbzJGMS1oT3ZMVnpTTEZIU0VWZENuOEJ5cVdkVm14Z2VFNGdVTWNUTGhha3E4UFIxNy1WZnpzVEtjVXhISHB4WVNZQkZ4X3BoRXd3eGg5U2hRQW4zYktrNXNZbHpOWU5fV3c4am8wOGVhb0dmMHc?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-19T15:05:12.000Z",
-      "whyItMattersKo": "연봉 협상이 마무리 단계라, 팀 전력 보강을 위한 영입 성사 가능성이 높아졌습니다.",
-      "fanTakeKo": "다닐로 꼭 데려오고 싶어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOclJzNlhQVGRPTV9qNHlaaVQwMjZhaHBxZTNEeEt6enJxN1RLSHNZNnBsb2s",
-      "title": "Espanha x Argentina: único duelo em Copas foi decidido por ex-Palmeiras - band.com.br",
-      "summaryKo": "스페인전 승부, 파우메이라스 출신이 결정",
-      "excerpt": "Espanha x Argentina: único duelo em Copas foi decidido por ex-Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOclJzNlhQVGRPTV9qNHlaaVQwMjZhaHBxZTNEeEt6enJxN1RLSHNZNnBsb2swd2hmek43blM3eW5wRmdYUDFmM0Z6QTlsenlPdnVxSGp6cHhHbXgtOVdwX21HemNkakw3UmNjZ1g4dFh2bzJNR1ZyVVNJYUtiRllCdzNEdXlKZmR5TjdmSE5KUmY5T3ZES0pldkd4cHV1ZGpDWWFsVVRnRFJlZ1dJMUVPY3BsNDFrSklKQ1JoVktMWC1haUI1Uk9kbWlHaWljdHlPbUlKV3JBZkxkZHlXaXo4NQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-19T15:04:53.000Z",
-      "whyItMattersKo": "월드컵 역사 속 유일한 맞대결의 승부를 파우메이라스 출신 선수가 결정지었다는 흥미로운 기록입니다.",
-      "fanTakeKo": "우리 팀 출신 선수 자랑스럽네요!",
       "tags": [
         "뉴스",
         "AI요약"
