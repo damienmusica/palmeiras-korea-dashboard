@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-19T23:58:42.338Z",
+  "fetchedAt": "2026-07-20T03:53:52.829Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiggJBVV95cUxORFl1emlFMUZYQ2Z2VmhMSmFRYWNJV3VtZ2VNZ1g2bmp0bEtuYmxZS1hhMHV",
+      "title": "Palmeiras: Abel Ferreira recebe boas notícias durante treino na Academia de Futebol - Terra",
+      "summaryKo": "아벨 감독, 훈련장에서 반가운 소식 접해",
+      "excerpt": "Palmeiras: Abel Ferreira recebe boas notícias durante treino na Academia de Futebol&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORFl1emlFMUZYQ2Z2VmhMSmFRYWNJV3VtZ2VNZ1g2bmp0bEtuYmxZS1hhMHVIemx0NHM0eU1VYzZCUXY0dXB5OUFOTGtCT084THpma0NsdmtpSXpvSEJIMTdhaHpqVWlpUE9NR2s5S1ZYeG1QYnpEd0tsUjBpT1JvX0tyYlA5MlROalhwNmRNbHJhOE5aU2xpc2dKd1Y1WFpGdWk0SDRJZGJBQTlqY25UMWpULXlUUy1PRU43ZmE3MnRKVE5reUJpYUh0S2FGV0lzVHZxVzNJMU8zMlhULXFrcXluSWdNQ0Z4TnVLdFZ1T2gwNnJ2Qkk4WlBocHpXNTBDLVE?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T02:50:00.000Z",
+      "whyItMattersKo": "선수단 상태 호전 신호라 다음 경기 선발 구성에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "드디어 좋은 소식이 들려오네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcm80VmpfQThIc0dxS2VDS3VIeWxaa3owbENpNmJReEpXam02TTVEbmsta3l",
+      "title": "O planejamento de Leila Pereira sobre o futuro Gustavo Gómez - Terra",
+      "summaryKo": "레일라 페레이라, 구스타보 고메스 향후 계획",
+      "excerpt": "O planejamento de Leila Pereira sobre o futuro Gustavo Gómez&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcm80VmpfQThIc0dxS2VDS3VIeWxaa3owbENpNmJReEpXam02TTVEbmsta3lmeDBMOGRiT3BPMmxOaWhrZ0tTNXdUdUctWG01QmpLOFo1cmNBeF9QU3dNdWxQeUpJYnVHZm8zU3I5X21PWnZmTUR2UWFxUWdLdGlTWF85NVNmc0NaZV9GS1JyWnpCTU9HUEY0VE11dzY4UXcwYkozaHlSeUdPYlRUSi1tVDA3NFNmcWczdUlPNTZ1LW1scHNVVEljekE3Tk5JVkxOZ3NLaXJMVmo3eXRTdnowS0J4OU0?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T00:53:00.000Z",
+      "whyItMattersKo": "주장의 미래가 결정되면 팀 방어력과 핵심 리더십 유지에 큰 영향을 줍니다.",
+      "fanTakeKo": "주장은 꼭 팀에 남아줘야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVE42ckZFVVVCMWpFVVZpbTdtM2ZtU1hWQ0JET1ZfUWVZeFU2MmFiZG1zYTZ",
+      "title": "Recado de Barboza para Danilo, déficit de R$ 65 milhões e sonho de Abel Ferreira: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "바르보자 메시지와 재정 적자 등 최신 소식",
+      "excerpt": "Recado de Barboza para Danilo, déficit de R$ 65 milhões e sonho de Abel Ferreira: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVE42ckZFVVVCMWpFVVZpbTdtM2ZtU1hWQ0JET1ZfUWVZeFU2MmFiZG1zYTZRME5MUmJxTW16Z1hfSm90dXJoQWV6X2xBMldOTkxycjhMbEhoWVQxLVRTazZJSGRFd2RWeEpLM0dIdGtPN09YRTRPb0MtazJnR254OWNyZTg0cUNNYlBYY1dOWmlCUDAxSENjUGFwdnVlN1ZVb0lMdDlfRG5uU05sblNRNmZTRXRDNUhHaGo5bmh4QTZEQXRrTDZnZjkzM1Q1SF9yRU5vLVpfLTU3d3ljaDBmSmdETE5VUnkzMFVRajRxU05IekdaSktESWJTMVlreEFjcGluZFpMUFdWV1VqU0xyMDFsN3BlNFJ1dVYzRHVQRzM5NDlPRFZETw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-20T00:30:00.000Z",
+      "whyItMattersKo": "재정 문제와 선수 간 소통은 팀의 안정적인 운영과 분위기를 보여줍니다.",
+      "fanTakeKo": "재정은 걱정이네, 소식은 기대됩니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMihAJBVV95cUxQUm9kYzZVeVNEUmg4eGJacVpWZktFM25GcXJpdDNZZHJuQXVkZW4yWjlrNlE",
       "title": "Copa do Mundo valoriza Flaco López, e Palmeiras trabalha para mantê-lo até o fim do ano - Terra",
@@ -902,54 +950,6 @@
       "publishedAt": "2026-07-18T17:23:29.000Z",
       "whyItMattersKo": "타 팀에서 우리 팀 수비수에 관심을 보인 건 선수의 가치를 증명하는 일입니다.",
       "fanTakeKo": "우리 선수 인기 많은가 봐요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTAza3BpUFdaVVcyVUx0Rnc3d3BXM2ZzaFRfNVFPSl91SGZ0SXVva0s0Z0Q",
-      "title": "Abel Ferreira ganha ala especial na sala de troféus do Palmeiras - band.com.br",
-      "summaryKo": "아벨 페헤이라, 트로피룸에 특별 공간 마련",
-      "excerpt": "Abel Ferreira ganha ala especial na sala de troféus do Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTAza3BpUFdaVVcyVUx0Rnc3d3BXM2ZzaFRfNVFPSl91SGZ0SXVva0s0Z0QzYVQ1ZzVMQ3RPNkNOVG5iMmRDd2tvSjRJUW8xMEdTaVljREFJa2ZzUXBqUU5MTWpVN3JqVzEzU3Zoczg3dE5BVzZNdHFiWm5reUhKTEVPME1qS3V2Qmh0MTVpc1BVb3RhazB0X0YzVjYxaEc5bEpVR3lORHc1RV9QbzlnY203aFRhOEVoN3FIUm92NFVMeUVraUZUUjAtSkI2LUdjcGc?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-18T17:22:13.000Z",
-      "whyItMattersKo": "감독의 업적을 기리는 공간 조성은 팀의 역사와 감독의 위상을 보여줍니다.",
-      "fanTakeKo": "아벨 감독은 전설이 확실하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxOZktaRVNDRGFrb1VMU2l4Rk5BZzRyeXBlT3hPRWVSQ0lNQXg5LVQwYUt3eHV",
-      "title": "Emily decide clássico, Palmeiras bate São Paulo e ganha posições no Paulista - Olimpíada Todo Dia",
-      "summaryKo": "여자팀 에밀리, 상파울루전 결승골로 승리",
-      "excerpt": "Emily decide clássico, Palmeiras bate São Paulo e ganha posições no Paulista&nbsp;&nbsp;Olimpíada Todo Dia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZktaRVNDRGFrb1VMU2l4Rk5BZzRyeXBlT3hPRWVSQ0lNQXg5LVQwYUt3eHVvTzJnMWJyaEhrMkw4TTRfTWRpcm1SRlpURk1qZWhmVHNtZ3h5Z3ZPQ2Q1akFGeENrRlJ6c29UYXQtQWRrYzY3R05NMFVZbWdSajB6MFZfUlR1d29RZDBVU2s4QmpUSUZqTUlQMEpGZ1lpUFRQQmc?oc=5",
-      "source": "Olimpíada Todo Dia",
-      "language": "pt",
-      "publishedAt": "2026-07-18T17:11:58.000Z",
-      "whyItMattersKo": "여자 상파울루 주리그 더비 승리로 순위를 올리며 팀 사기를 북돋았습니다.",
-      "fanTakeKo": "에밀리 멋진 결승골이었어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWpSR1NFUTdQVnhlX0QtYUU2RG9XTEpJMnluV1pIeWRCRmphN285TGFIR19",
-      "title": "Arias se reapresenta, e Palmeiras ganha reforço para volta do Brasileirão - UOL",
-      "summaryKo": "아리아스 복귀, 브라질레이렁 강화됐다",
-      "excerpt": "Arias se reapresenta, e Palmeiras ganha reforço para volta do Brasileirão&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWpSR1NFUTdQVnhlX0QtYUU2RG9XTEpJMnluV1pIeWRCRmphN285TGFIR19jaGg5VFRYZ1NZZVBKLXNBcnRiRXhtV1ozWmRvZWMzbVVQbm04U3AxT191R2VWVTlKbXVCQUlGckRDd1AtVThDbDFFZ3FKX2J1OXJaYzl5OGk1Rzlwc1h3cnJLX28tYzMzUWE1UmpwSTFQY2s3b0dlNGItT1pUaFN3OGlVT1o2WXRxNHNTN3EtTlBTUXpTTXNqaHR6QTFVM0ktSkVjd0FzUkR0LWV5WnQ4QU1uSmZlRHN2dExMTHpyUVdGOGZuRVktaVE?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-18T17:06:16.000Z",
-      "whyItMattersKo": "주전급 선수의 복귀로 브라질레이렁 재개 후 전력 보강에 힘이 실렸습니다.",
-      "fanTakeKo": "아리아스 돌아와서 든든합니다.",
       "tags": [
         "뉴스",
         "AI요약"
