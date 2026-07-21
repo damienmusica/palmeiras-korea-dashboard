@@ -1,20 +1,38 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-21T07:07:54.053Z",
+  "fetchedAt": "2026-07-21T10:02:25.104Z",
   "items": [
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNUk0UW1VWkJWWTNGa09VNzc3MGEyQzZiVHlUT0VpcS1YdXBJV01MS09VZ2Q",
-      "title": "Poucos atacantes, mas elenco amplo: as opções para Abel escalar o Palmeiras - Rádio Itatiaia",
-      "summaryKo": "스트라이커는 거의 없지만 넓은 캐스팅: 아벨이 파우메이라스를 오를 수 있는 옵션 - Rádio Itatiaia",
-      "excerpt": "Poucos atacantes, mas elenco amplo: as opções para Abel escalar o Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNUk0UW1VWkJWWTNGa09VNzc3MGEyQzZiVHlUT0VpcS1YdXBJV01MS09VZ2QwRG5KVFFaT2dheHJsOGIxVWswRlRQUmI5TWhDY1h6WC1rTVFkaXRjVG5VMDd3eUNkNW5iaFhsUmhBVjRJeE11Qml3VVJfbnFjZWFibVNlUm1UeDczQkJLSjFDLWZTLUlWbzdJNjZjQW5BWFJHOE5tUU91RkF4TExadmhRUGZUamYxV1RqMkRrYUdPOW02d0NDOWpFUElXb0oya0VhS3dueTM4eGxFbnJGQUVaYlNKYnd5aV9NcDVSSmNuV3ZxdS10Rmc?oc=5",
-      "source": "Rádio Itatiaia",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqwJBVV95cUxQV2xTWURCQkhHV3JjaUxJd3htREx1VGFsV005b2JEMDhHN3IwcnVkX0hVTS1",
+      "title": "'Treta' com o Botafogo, futuro de Gustavo Gómez e Flaco López entra para a história: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "보타포구 갈등과 주요 선수들의 이적설",
+      "excerpt": "'Treta' com o Botafogo, futuro de Gustavo Gómez e Flaco López entra para a história: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQV2xTWURCQkhHV3JjaUxJd3htREx1VGFsV005b2JEMDhHN3IwcnVkX0hVTS1fbnJub2lFM2NBUnpjX2dFdFpwUzRmc1FGMWlieUMwQjRqVTJxWVFRMzByUXJlT09kWmp6SW9uMXp0SFNTYzZHNnpENG1qWnZGcnFoTlJ2enNPV0RkSnl2UFhRT1BlTlZpRWVPbjRGd01aR2JzSHRiNHE5RUI5eUtXWEJiZGVmTUstVE1idTJ5Tm8wVUtST0hyMEU5TDBaVTBFN2dPT25sLVBJZlNTMVVsbnQ4bFR3WWRjNmduaW00REZibHYwcUZDSDhiMHRNVjFnZkdfR0tpeHFqREdIeWs0RWRHQWp4VFpBenVacEVUOGJlUWwwVDA0eDJQaV9OTQ?oc=5",
+      "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-21T07:05:11.000Z",
+      "publishedAt": "2026-07-21T09:33:00.000Z",
+      "whyItMattersKo": "팀 분위기와 주축 선수들의 이적 이슈는 향후 성적과 전력에 큰 영향을 줍니다.",
+      "fanTakeKo": "고메스는 꼭 남았으면 좋겠다!",
       "tags": [
         "뉴스",
-        "자동번역"
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbEp0SDdPT05obXdvTmhKeFZDY3c2NTFSNFhib29EY2J3NV9ia0xoZzlpVXB",
+      "title": "Palmeiras se recusa a fazer negócio com o Vasco - Terra",
+      "summaryKo": "파우메이라스, 바스코와의 거래 거절 의사",
+      "excerpt": "Palmeiras se recusa a fazer negócio com o Vasco&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbEp0SDdPT05obXdvTmhKeFZDY3c2NTFSNFhib29EY2J3NV9ia0xoZzlpVXBRckR5OXA5a01qVjd3ZkZmVlZOTWtVUlp0RFVxczg1MXBlLXZ6dW5GdGM3SFo5VmRYREJ1MjRFX3daQkdJa1VpbGRlQnFQZ3VQMDMxbXRSNXpNT1JvWFhjZDMxTDFiUkFwc0lwQ2xKMXZlZEYwNXRSYnBBa0ZsRXFVbTc4S3ZmRWVFM2tkWngzaHNacmxsWFI2ZngxRW5fTzI1X1JnYi1N?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T09:10:00.000Z",
+      "whyItMattersKo": "특정 구단과의 거절은 이적 시장 전략과 팀 전력 유지에 중요한 신호입니다.",
+      "fanTakeKo": "바스코에 보내지 말아주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
       ]
     },
     {
@@ -25,7 +43,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVEzT0RXdzJRQlJBVFA5T0lmVTdIeU0tQ2RlOW5EUHJNdWdBR0JSQXZ4WU9lUk9GVjM1WmdfcGctWE93N3E0RUU1a0R0SlYtQmZGSU9oekFQbXBvUkVEc2tZSG01NA?oc=5",
       "source": "UmDois Esportes",
       "language": "pt",
-      "publishedAt": "2026-07-21T06:02:32.000Z",
+      "publishedAt": "2026-07-21T09:02:32.000Z",
       "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 가능성을 미리 점쳐볼 수 있습니다.",
       "fanTakeKo": "이번 경기는 무조건 3점이죠!",
       "tags": [
@@ -41,9 +59,103 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDUtaUtULXAwUEh0dWt3d18wNXNsQi1IWU9VSTFJcnJRX1V1aGR4SVRVc0llRlVJMTY5SmpVZjNvemZXd3NtNXpFN0ZFczNOUnUwZXhTWEhfbmpSYzFTWlVkejVsbExqMVVOeTU2RkZ3S1lMdU5vS2ItcFF1NE54MDVBN1JZUXdHalRJUDIxZThMTDQ?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-07-21T06:02:13.000Z",
+      "publishedAt": "2026-07-21T09:02:16.000Z",
       "whyItMattersKo": "브라질레이랑 경기의 실시간 득점 상황을 빠르게 파악해 승패를 확인할 수 있습니다.",
       "fanTakeKo": "경기 시작이다 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQmxZYk1EMEJ1dFhXd0lnXzJ5b0dUSDBWQndFdnowVVdNZGxoNkVXaWEySl8",
+      "title": "A próvavel escalação do Palmeiras para o jogo contra o Coritiba, pelo Brasileirão - Terra",
+      "summaryKo": "파우메이라스, 코리치바전 예상 선발 공개",
+      "excerpt": "A próvavel escalação do Palmeiras para o jogo contra o Coritiba, pelo Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQmxZYk1EMEJ1dFhXd0lnXzJ5b0dUSDBWQndFdnowVVdNZGxoNkVXaWEySl84RFJQLTg5V1RkU3B4QkszODdiczdVWGpZeUJyQ0Z0SFBvdmpNWFFlUDc0TE1VUERFRnNNYW9qTjc0MTRDTmhmS0N6bGlFUDc3NEhsU0l1d1hKaTM0YXVCcktFbEtuMzF5eHlmQXJsLWNXTUloa0F4d1lUQmVNdElITUx3dzN3UW5aNmZGVS05V2lsVm1ueG5RTG5kT0NJUjRMZWJ0MHBpbU1OY0I2eDhEaVZHQU9Wd1FZVjhfa3hIbVNTeFZ6UzRlQ2FaR1VYS3ZMQXc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T08:58:00.000Z",
+      "whyItMattersKo": "브라질리앙 경기 선발 명단은 승리를 위한 아벨 감독의 전략을 보여줍니다.",
+      "fanTakeKo": "이번 선발로 무조건 이기자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTQzR0xsOFRVOVduZDZiaUNtU18yVDFIeTVLZktiVHUzMDkyeC1UZnpiRlN",
+      "title": "Palmeiras terá ataque desfigurado em retorno. Veja quais as opções de Abel - UOL",
+      "summaryKo": "파우메이라스, 복귀전 공격진 대변화 예상이다",
+      "excerpt": "Palmeiras terá ataque desfigurado em retorno. Veja quais as opções de Abel&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTQzR0xsOFRVOVduZDZiaUNtU18yVDFIeTVLZktiVHUzMDkyeC1UZnpiRlNxaDgwUVNwYUtnN0Rqc2pGY3NmSnowWHJWUVdjQVZzeGljTDd2cU5mZEdzT0NMMnlEMmFxc2o3Y0NKZHBSYTEzSUo4Njl1SHdJUW9uQUh5ZU8tZUNtbzV5WHA1QjdjUzZxSXkwaXhMNnQybEFQeXpNcTdHUWhfMktUNWpxVVNiOGN3aHdzMzlHelZEb085bUdwV1MtVWJSQlN0RFRYU2dsUUozVGc5MVZzUmE0WDFQSzJvRFUt?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-21T08:33:22.000Z",
+      "whyItMattersKo": "주전 공격수들의 부재는 아벨 감독의 새로운 전술 운용을 필요로 합니다.",
+      "fanTakeKo": "아벨 감독의 묘수가 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMihwJBVV95cUxNaG5EaldTLVN3eDBlUlRxNWU1V0h2M2pNVFh3ZFlBM0J5dktYMEVaZzRUQm8",
+      "title": "Grêmio corre contra o tempo para renovar com Carlos Vinícius após interesse do Palmeiras - Terra",
+      "summaryKo": "파우메이라스 관심에 그레미우, 비니시우스와 급히 재계약",
+      "excerpt": "Grêmio corre contra o tempo para renovar com Carlos Vinícius após interesse do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaG5EaldTLVN3eDBlUlRxNWU1V0h2M2pNVFh3ZFlBM0J5dktYMEVaZzRUQm8tUHRjaXdjYmIxZU5fSXFLSHBxdFJRRndvNy1lMjBIajZ6dDZvYTF5WGNBUVpKVE1TbDNlamJyT3Q2SFJNS1ZCc01wb00zZmduSjFGMGVRZTZ4SGJyUEhKRUJvNkhhRkZta2RRUVZ3X2RyWHMxOEo3WWlGM3dPUjROM2laOV9ydFh4Z2swQ2NoS09XNGFZLURIQjhKa1dhNzE1WWVHUF9wV3ZLX3V2bmxDb0hpQ0dkVDRZZ05jV1hSOU04WUFzN2tpdGM5UTEyNEpkeUJwX0RPRERacw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T07:55:00.000Z",
+      "whyItMattersKo": "파우메이라스의 영입 제안을 막기 위해 그레미우가 비니시우스와의 계약 연장을 서두르고 있습니다.",
+      "fanTakeKo": "영입이 성사될지, 아니면 재계약할지 궁금하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNUk0UW1VWkJWWTNGa09VNzc3MGEyQzZiVHlUT0VpcS1YdXBJV01MS09VZ2Q",
+      "title": "Poucos atacantes, mas elenco amplo: as opções para Abel escalar o Palmeiras - Rádio Itatiaia",
+      "summaryKo": "스트라이커는 거의 없지만 넓은 캐스팅: 아벨이 파우메이라스를 오를 수 있는 옵션 - Rádio Itatiaia",
+      "excerpt": "Poucos atacantes, mas elenco amplo: as opções para Abel escalar o Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNUk0UW1VWkJWWTNGa09VNzc3MGEyQzZiVHlUT0VpcS1YdXBJV01MS09VZ2QwRG5KVFFaT2dheHJsOGIxVWswRlRQUmI5TWhDY1h6WC1rTVFkaXRjVG5VMDd3eUNkNW5iaFhsUmhBVjRJeE11Qml3VVJfbnFjZWFibVNlUm1UeDczQkJLSjFDLWZTLUlWbzdJNjZjQW5BWFJHOE5tUU91RkF4TExadmhRUGZUamYxV1RqMkRrYUdPOW02d0NDOWpFUElXb0oya0VhS3dueTM4eGxFbnJGQUVaYlNKYnd5aV9NcDVSSmNuV3ZxdS10Rmc?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-21T07:05:11.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTdVOFhET0xzQ0ltTHQ5UDFXTFFhOHlBSGFsYk5iNmdJbE1XZEo4WTlGZEx",
+      "title": "Decisões, reforços e finanças: o que está em jogo para o Palmeiras no segundo semestre de 2026 - ge",
+      "summaryKo": "2026년 후반기, 파우메이라스의 중요한 이슈들",
+      "excerpt": "Decisões, reforços e finanças: o que está em jogo para o Palmeiras no segundo semestre de 2026&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTdVOFhET0xzQ0ltTHQ5UDFXTFFhOHlBSGFsYk5iNmdJbE1XZEo4WTlGZExleFM1N3ZkV01sYnpkTTZORDI0SFU5dDQ2MFdxTF9wV2czQl9ZTjRyUUhoUkRZR2JSd0VFZ0JEbGhaRVIyaVA0MGs4TXdQNUZRM2ktMV9yV2h4R2liY3JNQldabFJMVnV4aWlYM24tS25HdGo0dkExQmxqM196X3pmbWdwalFqME1ucHBWZDRqTU1ybWRyS3ZFVkdyZlFYOWgydVQyLWJiYWNKMlZQeEYxak12QlJCeWtQSnRGYVNaMldZdWxwOGd00gGDAkFVX3lxTE5IZ1BIM3RhTkJNNFJFWnpJTjVXX0FhaXp6aXl5LXF0T3dONGJzdzNqYkJKaHlUOS1OLWhGQUxXVWItc0JJUEFtVV9rM3VMUFozUGI2TEdUM1dzUk9NMF9XbmdNWDdpRUNPdE52N0pWbDVtQXZiakEyM3VJZXRDSGZTR2tPX0xQQ0ZSa3dUaktEY1FQX2RWXzVQOEJsY3JZVlhYTVZXRUptUWRGbXBmeVZHNlYwdVJsVzFTZzR5Vjc2RUZaNDkxOEExSXMtY1ZRWTZYenkxRU1EaTBzS0ZBckpLUFR4YmlJRi1vTlJmdUJDeGx0V2ltOVVzeVptZ2tyWDdrTmM?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-21T07:01:03.000Z",
+      "whyItMattersKo": "팀의 향후 전략과 재정 건전성, 새 선수 영입 등이 결정될 중요한 시기입니다.",
+      "fanTakeKo": "미래를 위한 멋진 결정들이 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUXc0RVFXQWhydzBWUnE1TjFsamNwM0VFQ1FqX29Hc2xpaEJMaENVWEFZTm1",
+      "title": "Coritiba x Palmeiras marca encontro inédito entre clubes da Série A presididos por mulheres - ge",
+      "summaryKo": "파우메이라스, 코리치바와 여성 회장 간 첫 맞대결",
+      "excerpt": "Coritiba x Palmeiras marca encontro inédito entre clubes da Série A presididos por mulheres&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUXc0RVFXQWhydzBWUnE1TjFsamNwM0VFQ1FqX29Hc2xpaEJMaENVWEFZTm1FXzdjUFByc0ZRdzlpQUYzYUtIWk96RExxMW0wZ3VxbV83T3RGTERBOFF6TGR4LUJJXy1STjJWUExlT2x2WUpmcXA5a3VVMXBGYzBGRFVaalVVekxhMXVibWVuRDlYZy1TeUhkTUVQMDVyVEN6MC1hTjFfYW9jVmt3MjhyNmc1SjIyc1NwX2VpaUw3LTVWbk9GbXh4ZnYwZ2ZSMkxKbXpCb1FwM2syVDBwMTlBcDh1clR0R1owVnZnSDIxX215NnliTEc2MUNmajLSAYsCQVVfeXFMUFJ5Vk1wMmlfTkNtRHhpMnI0SkdIRml2eFYtT3cwUWhQTlhvQnFzSTV2Z1kzTHBkWDJfZEhDeU9HdW42ei1zUm1nZm94ZHJDVmpCbUJzY2w3czJ5MVl6YUdVeG5XNktybjJLQnNZdEhkVkFwU1lHa3BFb0R3dUhfckdOMGlKQlliYWZ1V1VWT3ZhdmtNLW9jUUZSbWRrOFVVc3JoM2d6ajNoaUdEVEVoS0JLcEpWdjBVMXdkbHNSX09fRUk1TjhzUUotb1FqR1JXNGVpTlpiRTlWb1BlYzZLbmI4OTIzd0lMTW9iSUlRX2VSRFVsU0Zrb0xENjVUUlViWFZVMGpfUHNqeUI4?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-21T07:00:47.000Z",
+      "whyItMattersKo": "브라질 세리이 A 역사상 최초로 여성 회장이 이끄는 두 클럽의 경기가 성사되었습니다.",
+      "fanTakeKo": "역사적인 경기, 꼭 이겼으면 좋겠어요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -838,118 +950,6 @@
       "publishedAt": "2026-07-20T16:59:55.000Z",
       "whyItMattersKo": "새 선수의 선발 출전은 공격력 강화와 팀 전술의 변화를 의미할 수 있습니다.",
       "fanTakeKo": "호키 선발 기대됩니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlBmV2xjWUlHZ2pBeGJYS0tRMW9WbHlmbENUckVsekI0Mm1WZkktZlBJMm",
-      "title": "Entrada gratuita! Mixto convoca torcida para duelo com o Palmeiras pelo Brasileirão Feminino - MixtoNet",
-      "summaryKo": "파우메이라스 여성부, 미스토전 무료 입장",
-      "excerpt": "Entrada gratuita! Mixto convoca torcida para duelo com o Palmeiras pelo Brasileirão Feminino&nbsp;&nbsp;MixtoNet",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlBmV2xjWUlHZ2pBeGJYS0tRMW9WbHlmbENUckVsekI0Mm1WZkktZlBJMmFVSGllR1NqWm9lRGZLZlZ6NWhPa3dDcXFNZkRmU2RjRFR2dFpkZE9ycUhpQjBKbm5fNVRhSDVVYU9sZnN1WnRIU3ZWcFNsZ215RnA1dkJB?oc=5",
-      "source": "MixtoNet",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:57:00.000Z",
-      "whyItMattersKo": "여성부 경기 관중 동원을 위해 무료 입장을 진행해 팬 참여를 유도합니다.",
-      "fanTakeKo": "여성부 응원하러 가야겠네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-25-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeS02YlJuelRfNXJ5S01UYUF0ZDN0c0d5bkoyQzdMaG9GVUVhaThEUFhubk",
-      "title": "Danilo no Palmeiras: como está 'jogo de xadrez' além do dinheiro em negociações com Botafogo - ESPN Brasil",
-      "summaryKo": "다닐로 이적, 보타포구와 복잡한 협상 진행",
-      "excerpt": "Danilo no Palmeiras: como está 'jogo de xadrez' além do dinheiro em negociações com Botafogo&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeS02YlJuelRfNXJ5S01UYUF0ZDN0c0d5bkoyQzdMaG9GVUVhaThEUFhubk1FdnNXYVN1ekhzU1UwWm15el92dFRlLXdnQTBOQnJlWnlqdW5NSEhuMXpMQzJmOHAwaHM3RGpCeWFwRFA0LUx2RGJFaHpqTzZSdzd3TGI2ZHcydGgxUFNFRzBlRmtvaEcwYUN1S2ZENWd6cVpNYW1wSlRWdDZoZ25oWktiLVpXSm9JcEgwREY2Qzg1ZkwwR2RSbENQU2hJaW56d2ZQUVE?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:45:00.000Z",
-      "whyItMattersKo": "핵심 선수의 이적 협상 귀추가 팀의 미드필더 전력과 시즌 전략에 영향을 줍니다.",
-      "fanTakeKo": "다닐로 잔류만 빌게요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXY1eXVnNGU2VUE5LXFhOVlYeHVhNWlfMXlheU9jZGVXU2NUVWRrQXFtcHJ",
-      "title": "Luana Maluf, da GeTV, critica post do canal envolvendo Palmeiras: 'Decepção' - LANCE!",
-      "summaryKo": "GeTV 관계자, 파우메이라스 관련 게시물에 실망",
-      "excerpt": "Luana Maluf, da GeTV, critica post do canal envolvendo Palmeiras: 'Decepção'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXY1eXVnNGU2VUE5LXFhOVlYeHVhNWlfMXlheU9jZGVXU2NUVWRrQXFtcHJSTFk2WW0tZkhrQXROSXJGd3hyUlRoZHAwS0Jsc2tYQnE1S1N6UXlERWVNV1pybVV0d0M1QkFQMXN4MHZUR2F5amEtV2lCN3NPS0xLLVFxdUo0a3JxYjFwWWNBLUVLYnBINFhaQ3RBRVpQQ18tc3MxbldqWk5WQmhkaGVONHBuQlQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:25:39.000Z",
-      "whyItMattersKo": "언론의 부적절한 보도는 팀 이미지와 팬 감정에 나쁜 영향을 줄 수 있습니다.",
-      "fanTakeKo": "제발 편파적인 보도 좀 줄여주세요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWUNIQjNBMU1SczFvOGNZV0JadThLNVBLTjNTdHBRMnFjZm1yWmFpOTNEdFd",
-      "title": "FLAMENGO DEFINE PRÓXIMAS QUATRO RODADAS COMO DECISIVAS PARA CAÇAR O PALMEIRAS NO BRASILEIRÃO - instagram.com",
-      "summaryKo": "플라멩구, 파우메이라스 추격 위해 4경기 집중",
-      "excerpt": "FLAMENGO DEFINE PRÓXIMAS QUATRO RODADAS COMO DECISIVAS PARA CAÇAR O PALMEIRAS NO BRASILEIRÃO&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWUNIQjNBMU1SczFvOGNZV0JadThLNVBLTjNTdHBRMnFjZm1yWmFpOTNEdFdqeTdVS3VMclVJcXlpd3laUDFHX1BEQ3BVb3d3Tjl2SEt3?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:20:49.000Z",
-      "whyItMattersKo": "최대 라이벌이 추격을 선언한 만큼 선두 경쟁이 더 치열해질 것입니다.",
-      "fanTakeKo": "우리가 1위니까 긴장 늦추지 말자.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlBZU2I2UVNseDdVRzNTZ2Q5ckduVlBhMzBOWmZ2cHUyVmRuZDhsVTdkQ3l",
-      "title": "Palmeiras faz treino tático e Arthur projeta segundo semestre: ‘Preparados e focados’ - palmeiras.com.br",
-      "summaryKo": "파우메이라스, 전술 훈련으로 하반기 대비",
-      "excerpt": "Palmeiras faz treino tático e Arthur projeta segundo semestre: ‘Preparados e focados’&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlBZU2I2UVNseDdVRzNTZ2Q5ckduVlBhMzBOWmZ2cHUyVmRuZDhsVTdkQ3l1NVhWT056UHFLWUpZRTVQLWI3a2xfaEhueUhxSGtxbFRSdGgtbk1CVEFFWGpQVFNGQXY4N0p3OTJVNlZDSGwwbnRXSTJKY0NwcFd6Q2tkbjc2Nk9MbVVMNE41YXVFd2F6TVc4c1ZjdkYwNU1fU1BnQTJBY2kzTzVvNkZBa2tfeFVyU3JDdjdpZTlR?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:15:20.000Z",
-      "whyItMattersKo": "전술 훈련과 선수들의 집중력은 하반기 혹독한 일정 대비에 필수적입니다.",
-      "fanTakeKo": "준비된 모습이 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFZUZDI5UXc4dml0Y3hHamI4NUp3d0JxYXlITndDalVzYlA0M09kdTU4ckp",
-      "title": "Comentarista da Ge TV detona a própria equipe após post com piada ao Palmeiras - Notícias da TV",
-      "summaryKo": "해설위원, 파우메이라스 비하 포스트에 분노",
-      "excerpt": "Comentarista da Ge TV detona a própria equipe após post com piada ao Palmeiras&nbsp;&nbsp;Notícias da TV",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFZUZDI5UXc4dml0Y3hHamI4NUp3d0JxYXlITndDalVzYlA0M09kdTU4ckpPcEhhcXhIX1JCSl9vRGVCdzVTekVKcjNoZER3U2VwMjZfTWtPZXdabzZDZnRRTTRhYi1ubWV6Yzd0SzdpblRZVF9jTEtOMTF3VWFCajZvMjZMSkM1TkJUeU5UVmpvWi1lanV2WmhqYjhNOTFGNmxBMEJFbkF2YU5OcjZPR2pDRTItV1BRenczaUcyUFlRclZsS0FZQmowRU5ob09E0gHfAUFVX3lxTE95NGY2RXlqWFpZXzQwTlRVU2VDdXNucC1JeVdtY0liV0hhLVl0WTY4RWRGV0FoTU5wX0tkbzRNVlVqY1hJOFRCZXZSYXloX3NiQ094NGY1T3lBY3F6ZVZfWUJvZndiaTBIQ0xCT2NWaThfd09ULURXZXlzM1NOTnZxSkR2STVOay1nYWZJcGhScTd0VnFMbjN4MENFbkR4ampTbTFSM092WUZNRUdGei1fX241LUctUEttU3NFeERhSGVXR09LV2Z3SmV4X2VEU01vcGFnMHdIMFpWVnMxcEU?oc=5",
-      "source": "Notícias da TV",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:10:00.000Z",
-      "whyItMattersKo": "방송국 내부에서도 비판이 나온 만큼 해당 보도의 문제점이 큽니다.",
-      "fanTakeKo": "그래도 이해해주는 사람이 있네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWdIWWFGWU55M3lTaWpIOEFsUC0tTWRNeU1iNlZUcGRiRTV0TmllNFpVVH",
-      "title": "Outro Canal: Estêvão, ex-Palmeiras, fecha contrato com a Disney para promover transmissões de futebol europeu - UOL",
-      "summaryKo": "전 파우메이라스 에스테방, 디즈니와 계약",
-      "excerpt": "Outro Canal: Estêvão, ex-Palmeiras, fecha contrato com a Disney para promover transmissões de futebol europeu&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWdIWWFGWU55M3lTaWpIOEFsUC0tTWRNeU1iNlZUcGRiRTV0TmllNFpVVHhmbW1RamE3S2hJT0x2ZnE5M2tSUk1ycHA5UUhJZE9OdU9RV2VlS2pVVFdGekh0VHEyZ2xPY2lZT2EwSmJCbEU5OEpuVUVYVGNfV1VVcGt2RjRBLTRsZXVYWDZYY2VtMTV5TlVWcUNMNnRWRGN4QVJJb1RiTEF5NFI5b3hRMjl2d3NIakZJNFJaLWhicklKUTVMZDM3dUlENVNxZ0ZMc1FwWC1GYllWVkI2MnBjNG5XQy16UTJrQ1BqUVVQOW0?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-20T16:09:39.000Z",
-      "whyItMattersKo": "유럽 축구 중계 홍보를 위해 디즈니와 계약을 맺어 새로운 활동을 시작합니다.",
-      "fanTakeKo": "디즈니랑 손잡다니 대단하네요!",
       "tags": [
         "뉴스",
         "AI요약"
