@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-20T23:01:31.757Z",
+  "fetchedAt": "2026-07-21T00:58:17.816Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0RsQnB3LXZRNTZZeTlvNEJkbVVMNUFsbTZtUXZYUXRTaXQ4Tk9tVGxWanY",
+      "title": "Adeus! Palmeiras dá mais um passo e encaminha saída de zagueiro - Terra",
+      "summaryKo": "파우메이라스, 수비수 이적 가시권 진입",
+      "excerpt": "Adeus! Palmeiras dá mais um passo e encaminha saída de zagueiro&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0RsQnB3LXZRNTZZeTlvNEJkbVVMNUFsbTZtUXZYUXRTaXQ4Tk9tVGxWanY2TGJZY0dkcUpEZG41amhJQVBMaGFYSHQ2amdtQ0VlZWswNURqbVB5cEFCc0w3MUxWZTBXRDh0NVdDcXVHSEJCZnl5a1pRcEdqSnloQzZSQlhlMC1xc1hkZVlMOV81dGpxbFN3SUprVk1JX0l2dHk2NFppNmc1Z25BNko0UUhmbHJaS19QcGw3RGRVVm5XTFFJRUtsbFlkZ2FWdW1PLUo3b1dIY0gzSFNWemxFQ2kwODdwemM?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T00:14:00.000Z",
+      "whyItMattersKo": "수비수가 떠나면 수비 라인 재편과 새 선수 영입이 필요해 팀 전력에 변화가 생깁니다.",
+      "fanTakeKo": "수비진은 흔들리면 안 되는데...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVE",
+      "title": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07) - UmDois Esportes",
+      "summaryKo": "코리치바전 전망과 승부 예측 총정리",
+      "excerpt": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07)&nbsp;&nbsp;UmDois Esportes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVEzT0RXdzJRQlJBVFA5T0lmVTdIeU0tQ2RlOW5EUHJNdWdBR0JSQXZ4WU9lUk9GVjM1WmdfcGctWE93N3E0RUU1a0R0SlYtQmZGSU9oekFQbXBvUkVEc2tZSG01NA?oc=5",
+      "source": "UmDois Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-21T00:02:32.000Z",
+      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 가능성을 미리 점쳐볼 수 있습니다.",
+      "fanTakeKo": "이번 경기는 무조건 3점이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1Y0SUZzc2NjM3l1ZmVPRmhURGNkS1RRSndabEllaXNhV0JXaXZiMDV2LXE",
       "title": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07) - Trivela",
@@ -11,7 +43,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1Y0SUZzc2NjM3l1ZmVPRmhURGNkS1RRSndabEllaXNhV0JXaXZiMDV2LXEySVZSdGYxX3pDX2xHcEk4WTNCNzJUZ3ZOQ0lFaVFwZ2FRQVRhZHJGaDlXcl9MaXprY1cyeW1hb1FTVzhqajlNX2NqZWxkUzFKZ1hGMHZLYUowQlhRenZJ?oc=5",
       "source": "Trivela",
       "language": "pt",
-      "publishedAt": "2026-07-20T22:54:11.000Z",
+      "publishedAt": "2026-07-20T23:26:22.000Z",
       "whyItMattersKo": "경기 전 분석을 통해 팀의 승리 가능성과 전력을 미리 파악하는 데 도움이 됩니다.",
       "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
       "tags": [
@@ -36,6 +68,54 @@
       ]
     },
     {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMimAFBVV95cUxQREROQlpGTUJXNVNXUHBfRUlrS0k2aTZQMlBuM2t6YjE5ajFJQWQwdFpfeTR",
+      "title": "Palmeiras inaugura o Espaço Literário Abel Ferreira - ge",
+      "summaryKo": "파우메이라스, 아벨 페헤이라 문학관 개관",
+      "excerpt": "Palmeiras inaugura o Espaço Literário Abel Ferreira&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREROQlpGTUJXNVNXUHBfRUlrS0k2aTZQMlBuM2t6YjE5ajFJQWQwdFpfeTRRZ1hLN3BjVUkyTEhyUnJWTmNNbXVHbkNlYzFWUlVDMnoyd1B6dTVTU3V3Y3RtWk0xQTZ2d2dteVh3eHBkNW1LZ3hRUmo1Wl9OZzl2ZFBLZnZqOGM3dGtqOENBazBsZjREV2drN9IBpwFBVV95cUxNaEF0LTM3VUFuMVZ3cFBoN1daOWFRRDQ3VGtWZWlpRndteWk5WnZ5QnNDTmFIQ3ltcEROLWUtSzQ1WGN4RTZwVHJSdENnTU53NGR4RURiakVSYi1HMXh3bE9odmxNdm43RXdZUFFPUVpCWDY2cmRvTUE4MGktZGpwYjZMZE5GNlRoMzZ3dUE5SnNNYjI3ZlFuNjg2b29CTEhzb2hpS2FYdw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-20T22:01:52.000Z",
+      "whyItMattersKo": "감독을 기리는 공간이 생긴 만큼 구단과 팬들의 결속력이 더욱 강해질 것입니다.",
+      "fanTakeKo": "우리 감독님 이름을 딴 공간이라니!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUpITnNPcWpZNzhpbVF5dUp5YXhQdk1MdEdsNWVWSUp2YVNZbERFdExhSkF",
+      "title": "Recuperação de Piquerez abre caminho para volta de Vitor Roque no Palmeiras - Goal.com",
+      "summaryKo": "피케레스 회복, 비토르 호키 복귀 길 열어",
+      "excerpt": "Recuperação de Piquerez abre caminho para volta de Vitor Roque no Palmeiras&nbsp;&nbsp;Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUpITnNPcWpZNzhpbVF5dUp5YXhQdk1MdEdsNWVWSUp2YVNZbERFdExhSkFGcGwxOVlVLThOT2tydGh1NW9KbG5FajA1SFhBMDlDUXRXUHlTQTBSSWlhdGM2ajRsUWV1LTlnb1JnQmxreHJPS2FCdEFIX013RnVhbHlTNF96Q1ZzaE54bjlwVFlXazJLdlFuN0xrd2hPN3VlWVVKY25YTWZBak13ckItWkpVTnpnRWpiSl9V?oc=5",
+      "source": "Goal.com",
+      "language": "pt",
+      "publishedAt": "2026-07-20T21:16:54.000Z",
+      "whyItMattersKo": "주전 풀백의 컨디션 회복은 팀 전력 보강과 공격수 선발 기용에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "호키도 빨리 같이 뛰게 해주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xZGZBaENMeFlFbHVid0RVYV9KQVh0dnNfdDZjNjZ2X3FSUEVyNVhPVjJGR1d",
+      "title": "Líder, Palmeiras volta a jogar pelo Brasileirão; RELEMBRE últimos gols 'eletrizantes' pelo campeonato - ESPN Brasil",
+      "summaryKo": "선두 파우메이라스, 리그 복귀 앞두고 골 모음",
+      "excerpt": "Líder, Palmeiras volta a jogar pelo Brasileirão; RELEMBRE últimos gols 'eletrizantes' pelo campeonato&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xZGZBaENMeFlFbHVid0RVYV9KQVh0dnNfdDZjNjZ2X3FSUEVyNVhPVjJGR1dJWENScWZOV1pybXRVcmtPc0JSbFFBV0xGc0FCQVBIS25yUjdNcmFFaVE?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-20T20:52:41.000Z",
+      "whyItMattersKo": "리그 선두로 복귀하는 경기 전, 최근 득점력을 돌아보며 기대감을 높입니다.",
+      "fanTakeKo": "멋진 골 영상 보니 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3ltSFpNd1FlX01hTC1yUnF5azZ0Y2tSdjEyUWVBM1VhR043UjZZSkd1RFg",
       "title": "Cruzeiro acerta contratação de meia que foi multicampeã no Palmeiras; confira - Diário Celeste",
       "summaryKo": "크루제이루, 파우메이라스 출신 미드필더 영입",
@@ -46,6 +126,22 @@
       "publishedAt": "2026-07-20T20:45:00.000Z",
       "whyItMattersKo": "우리 팀 전성기 멀티 챔피언 미드필더가 크루제이루로 이적한 소식입니다.",
       "fanTakeKo": "우리 전설이 떠나다니 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHpDZndZMUZWSHV2UmxXRDhNX2k2NUl1Y19GWmFIVEdZTVRvdkNPN2dzYU5",
+      "title": "Comentarista critica post da GETV com provocação ao Palmeiras: 'Decepção' - Correio Braziliense",
+      "summaryKo": "해설위원, 파우메이라스 도발 GETV에 비판",
+      "excerpt": "Comentarista critica post da GETV com provocação ao Palmeiras: 'Decepção'&nbsp;&nbsp;Correio Braziliense",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHpDZndZMUZWSHV2UmxXRDhNX2k2NUl1Y19GWmFIVEdZTVRvdkNPN2dzYU5DSjY5N2oyNTlXUjhyUWJmenNlTS1IaG9PeG1ibnY4SW9UWFBLaUxFaWFLWEJjMm03ZVRjWlZQQUhHMVdRck92UE05OGREQ09kNDJEWnFBeVBBVzVZTG5SenNjbjViWmt3SWkwVFN4YVMwYXdtRnVQREF3aW0ybFVjT0tEbEZraVNmLUVQRTd3aEJQRVZlQWR2bW9zdG9RLVhELXB0NnA5VdIB2gFBVV95cUxPRnBuSDlDeXNKRXlIc1p1cFVLd0x5YTdpNzhxNVVIOXFvVmFTa2w5UFh0ajN1U0NQd2hFWXlWejVYVlcxR2tyUXk0TGtSUzJ4S210cUp2ODdnSDNlVzRlM2tjMktqTFlxcEZENC0wNTVwclZGczgwdkJ4RWlleURyY2x3Q25DLXBHRjdJdDlwUzRUNlpqRnZFSU9yODdwZ1hZNTJDSjZ3YVRQQ1hkQmpwT0wtVkcwRm9hS0RsOFNBSlNjODFMa3lyRkJqVHg1bS05d2RKVXl4a1hEQQ?oc=5",
+      "source": "Correio Braziliense",
+      "language": "pt",
+      "publishedAt": "2026-07-20T20:44:00.000Z",
+      "whyItMattersKo": "타 팀 미디어의 도발적인 게시물이 논란이 되며 팀 간 갈등 분위기가 조성되었습니다.",
+      "fanTakeKo": "쓸데없는 도발로 시끄럽네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -78,6 +174,22 @@
       "publishedAt": "2026-07-20T20:06:18.000Z",
       "whyItMattersKo": "새 공격수의 등록이 완료되면 코리치바전에서 득점력을 높일 수 있는 옵션이 생깁니다.",
       "fanTakeKo": "빨리 등록 돼서 뛰었으면 좋겠다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMijAFBVV95cUxObGEwdDdIaEZ4WGxReFlvaGFNWklYUk1ndm1pc3lEc2xNdjZoUW5EX0t0NV",
+      "title": "‘Único que respeitou’: Flaco López chama atenção com postura após vice da Argentina na Copa - ND Mais",
+      "summaryKo": "플라코 로페스, 아르헨티나 준우승 후 태도로 화제",
+      "excerpt": "‘Único que respeitou’: Flaco López chama atenção com postura após vice da Argentina na Copa&nbsp;&nbsp;ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGEwdDdIaEZ4WGxReFlvaGFNWklYUk1ndm1pc3lEc2xNdjZoUW5EX0t0NVpKaVlkOWlldEE2Q3h0MlpwUW55M0ZpT19kYmxxcEZtWllDenZUaHB3SEJyQkd0UlRBODBkZFJGNFc1WFNvZWNvalVMUVdOUXpOUzc4RG5oLTc5bGpJcWlQNA?oc=5",
+      "source": "ND Mais",
+      "language": "pt",
+      "publishedAt": "2026-07-20T19:56:13.000Z",
+      "whyItMattersKo": "과거 선수의 예의 바른 행동이 화제가 되며 팬들에게 긍정적인 인상을 남겼습니다.",
+      "fanTakeKo": "역시 로페스는 클래스가 다르네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -829,116 +941,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSGZHTmRnaGdyUi1JcU5aWGh1TGplR3ZsclFKemVkNjNpY2d4b19sREstc09",
-      "title": "Leila manterá Palmeiras 'forte' mesmo com déficit: 'A presidente resolve' - UOL",
-      "summaryKo": "Leila는 적자에도 Palmeiras를 '강하게' 유지할 것입니다: '대통령이 해결합니다' - UOL",
-      "excerpt": "Leila manterá Palmeiras 'forte' mesmo com déficit: 'A presidente resolve'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSGZHTmRnaGdyUi1JcU5aWGh1TGplR3ZsclFKemVkNjNpY2d4b19sREstc09hZkFkSU41QVFrLTRqTGFpYlBuUVN4TDcycllLd1BwZFI2Z24wdTUxRVdRSlBpQVg0T3dGWTYtUktNckZsZFR5dllEaTY2d2UyczJYRUw2MWVQVkZCUV9rUUR1UGx4NzNUazBfRmJvekVtWC03TjNpcnZRWVE4MXlISG1ZSnBYdjZOZnRrMWNzQS1yd1JHYXE0R1QyaDN1Nmh6QUZvMlF2a3NBbw?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-20T12:30:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJWcHR5U055dXJjY2QzNW55eWdIQ0ZzMVdvaW5sRURINng3dnR1dXplYlN",
-      "title": "Palmeiras retoma disputa do Brasileirão e se prepara para estreia do Nubank Parque; veja programação - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 리그 재개와 새 홈구장 개장 준비",
-      "excerpt": "Palmeiras retoma disputa do Brasileirão e se prepara para estreia do Nubank Parque; veja programação&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJWcHR5U055dXJjY2QzNW55eWdIQ0ZzMVdvaW5sRURINng3dnR1dXplYlNxeUV3YzRCM05icno3Y2NkZVAzOGwzdlZZSG9waHdXZ0ZfWDJGdnNYZnpTdkVpQ2dPOV82bTQwTEc4bnpjOHhJYVljOVR2b0hqTHU2cjVTdkgxU1ZfVi11UkFFbnJqb0xKTEZGY085VkNSNTZ3OG5WTlhVdFRRWVNPTU1ZSl8ta9IBuAFBVV95cUxOa3JoU1psZkloOGRfQlRFZkV0emNDME1tMzJLeHVfUVJnTk1GUnE4b25WOTlMZTMyelVNVlJlWFFoemdOZXl2bTJPdGhoYXBJX0N3UDRubFFoRm8zUmRIWXlaZExrSWRfRWpNX2trTkFHN0FHb2JldDBXVEdIN3Y0TXFJeE1uQ0xOY0NMcEkyaFl3d2pqeGhILVdkcjlka2JhVkx4ZWowallLa09XcmNza3lQTTZoZFFk?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
-      "whyItMattersKo": "브라질레이렁 일정이 다시 시작되고 팬들이 기다리는 새 홈구장 첫 경기가 다가옵니다.",
-      "fanTakeKo": "드디어 새 구장에서 응원할 날이 왔다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaEQ2Mk5IUUl0X3lPZXVoTlEtMzdBWnRRZzhZbzMtRHc1cjl3cWhOeU9zbEI",
-      "title": "Coritiba pode ter recorde de público do Couto na temporada contra Palmeiras - Rádio Itatiaia",
-      "summaryKo": "코리치바전, 홈구장 관중 신기록 기대",
-      "excerpt": "Coritiba pode ter recorde de público do Couto na temporada contra Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaEQ2Mk5IUUl0X3lPZXVoTlEtMzdBWnRRZzhZbzMtRHc1cjl3cWhOeU9zbEI2Z0oyN0FtQnR0cXVETXlTWUNIRDRDVDZuZEVGUEJKNlA0cHBFbmhSd294RHkteTBOM2VsblRKMEt0SXNqNmVZaHpscnJUd3JhYThCVFhmXzNDU1RLWmQ3X1dIRmVCbjhwNFZ6QVFZYU4xYkY2UXB1SWpDMGhUZWYxOVlXQ0s1LVVJMkFtQ0JQay11bGhMbktKYmEyZmhsUUlva21lWFg0TDBMZUNXcFp2VnA3bVZJYklRelRrLXR2ZmY0QlBaNFV2?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-20T09:59:18.000Z",
-      "whyItMattersKo": "원정 경기지만 파우메이라스의 인기를 보여주듯 상대 홈구장 관중 동원이 예상됩니다.",
-      "fanTakeKo": "우리 팀 인기 어디 안 가죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3gtRUdYaXI4MWc5UWZ5ZjdRMUMyZUcxUV96RHZHcjRjUW50UjlvdllzU0x",
-      "title": "Paulista Sub20: Corinthians goleia a Ponte Preta e dispara na liderança; Palmeiras empata - PortalR3",
-      "summaryKo": "U20 리그, 코린치안스 선두·파우메이라스 무승부",
-      "excerpt": "Paulista Sub20: Corinthians goleia a Ponte Preta e dispara na liderança; Palmeiras empata&nbsp;&nbsp;PortalR3",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3gtRUdYaXI4MWc5UWZ5ZjdRMUMyZUcxUV96RHZHcjRjUW50UjlvdllzU0xaOXQ5d3A1NVhVOE1wUU9OcTNFUmEwWGdldDZYYUI1bGN2OUFwd2NqbjJXU1lNb2JEMHV2aWlKdU1mSXFzYlNJTUpTYmhqUExPR2lJME0zZnRBOW42b2V6MHVQbHQ3TTFDSGtEYmtjanVZdWRocElsX1F4OU1mSXhhUHZEcml3N3RwdTkxQWlqa1VPZkJKZklk?oc=5",
-      "source": "PortalR3",
-      "language": "pt",
-      "publishedAt": "2026-07-20T09:34:37.000Z",
-      "whyItMattersKo": "유스팀 성적은 미래 전력을 보여주는 지표로, 라이벌의 선두 도약과 무승부가 의미 있습니다.",
-      "fanTakeKo": "유스팀도 더 분발해야 할 텐데",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMie0FVX3lxTE1UTUZrWmhiRGo5alIyLTdTaV9rTXN5RUZZUWt6S1JWOHF2YlJhMUd5M1laeG1",
-      "title": "Flaco López: Palmeiras terá atacante argentino como desfalque em três jogos - Fato Paulista",
-      "summaryKo": "공격수 플라코 로페스, 3경기 결석 확정",
-      "excerpt": "Flaco López: Palmeiras terá atacante argentino como desfalque em três jogos&nbsp;&nbsp;Fato Paulista",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UTUZrWmhiRGo5alIyLTdTaV9rTXN5RUZZUWt6S1JWOHF2YlJhMUd5M1laeG1rLVJaY2JYaXpKREw5d2ltdDJvUmk1ZkpuS0ZTRW1VcXF4MW14M3FsREtUb1RNb3JfRG1qemZMUHFVZzRDbjRkXzBWN0dJcw?oc=5",
-      "source": "Fato Paulista",
-      "language": "pt",
-      "publishedAt": "2026-07-20T09:08:28.000Z",
-      "whyItMattersKo": "주요 공격 옵션이 빠지는 동안 아벨 감독이 대체 공격수를 어떻게 기용할지 주목됩니다.",
-      "fanTakeKo": "빈자리 누가 채워줄지 궁금하네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMijgJBVV95cUxPcGZZZE92U25VUWVBNHBjUVBBZHRGOU5MUm9WZi1wdEhzX29ESUw2SnRRcUF",
-      "title": "Leila manterá Palmeiras 'forte' mesmo com déficit: 'A presidente resolve' - UOL",
-      "summaryKo": "레일라 회장, 적자 속에서도 파우메이라스 강팀 유지",
-      "excerpt": "Leila manterá Palmeiras 'forte' mesmo com déficit: 'A presidente resolve'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcGZZZE92U25VUWVBNHBjUVBBZHRGOU5MUm9WZi1wdEhzX29ESUw2SnRRcUFaSDh6Y1ZzTGh1clhHNzlGdTFwcVBuR0h2NmdsLTYtcy1lTGZqOVpkS0oxQ2JWVWl5SWxIa1h3dERqaEJ2RlFHOV9WTFJUMzJQSFZOX1BsSzJKenNfOU1ZbjIwVkVaOTZwQzB2ZzJSTjQ0VUU3MW10MGtBeThsOThTck5MeG1fY3VTaU9aUENudzdVNTl1OVJ0TjZCMG1lWDhRREZ6NmpIZ1JzQUxvNUVndVpyZDJJZWV6dXVYV05aNUJTdVo0Nzlvd3dpNjBuVUlDamQ1azlOMXY1SlpydG9ic2c?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-20T08:33:08.000Z",
-      "whyItMattersKo": "구단주의 재정적 확신은 선수 영입과 팀 전력 유지에 긍정적인 신호입니다.",
-      "fanTakeKo": "레일라 회장님 믿고 갑니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeVVSVUdPV3hCZUVWanptWElMZlBGam1UVHlLd3ZNX016T1pMTmVDMXlYVm5",
-      "title": "Horário e onde assistir ao vivo Coritiba x Palmeiras, pelo Brasileirão - Rádio Itatiaia",
-      "summaryKo": "파우메이라스 코리치바전 시간과 중계 채널",
-      "excerpt": "Horário e onde assistir ao vivo Coritiba x Palmeiras, pelo Brasileirão&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeVVSVUdPV3hCZUVWanptWElMZlBGam1UVHlLd3ZNX016T1pMTmVDMXlYVm5pU2JaZ05oMF9WQzRsLXpKVk5sVW1YcndHYUJIVTlteEF5b3gxZUY0dG5famdkRjdrZTNIQVQ2a29HeFVjbnFkWWhqcEdjZU5xYmMtdXdTbXlWSGFNcmhjYi1qQ0twU1FNbll5STRVZllhaW9xOVpnajNZMFZ3Z1dJZVQydndFenZGNXN5cV8xS1dlbzBaS0UzM3Q5cWhVUzJ1MTZ1N0NkZ3JhYzRyeVppS3J2UFZ1bTEwSWs?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-20T08:00:26.000Z",
-      "whyItMattersKo": "브라질리이웅 일정을 확인하고 경기를 시청할 수 있어 팬들에게 필수 정보입니다.",
-      "fanTakeKo": "꼭 챙겨 봐야 할 경기네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
