@@ -1,8 +1,328 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-21T20:45:12.721Z",
+  "fetchedAt": "2026-07-21T23:29:19.571Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFZBb0R3VDRzR0hUMjlGV2s0djVfWjQzaVlVVlBfM2U4TE9QQmdJbUZha2c",
+      "title": "Palmeiras tem 56% de chance de ser campeão brasileiro, e Flamengo, 30% - Notícias ao Minuto Brasil",
+      "summaryKo": "파우메이라스, 우승 확률 56%로 압도",
+      "excerpt": "Palmeiras tem 56% de chance de ser campeão brasileiro, e Flamengo, 30%&nbsp;&nbsp;Notícias ao Minuto Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFZBb0R3VDRzR0hUMjlGV2s0djVfWjQzaVlVVlBfM2U4TE9QQmdJbUZha2c0RFFFTDBmTndYSVBoY21PdjFBZUJ5UVZwMHFacXBxQkNpcU1fWFJnNlF5V01MWUN5VDgxSUc1X09YcDFuYkR1Z0NhMjlqellweDFrZzlWNlZ6OW1FSmZSSktjLUZRMDZrZlJPeWU2ZkZaeHR2Y2lLRGtheE1yWFk3dWFuYTlNZktNOS1DNXc?oc=5",
+      "source": "Notícias ao Minuto Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-21T23:12:05.000Z",
+      "whyItMattersKo": "통계상 우승 가능성이 가장 높아 팀의 선두 경쟁에서 유리한 고지를 점하고 있음을 보여줍니다.",
+      "fanTakeKo": "우승은 이제 거의 확정 같네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMizwFBVV95cUxNRTU5bmY2M3d1YWwxazl3TEFwLTNGRFB5czNlaE5oRmxWc1M3U3hNQWdaMDl",
+      "title": "Palmeiras deixa Vitor Roque em SP e convoca atacante do sub-20 - UOL",
+      "summaryKo": "비토르 호키 남겨두고 유소부 공격수 소환",
+      "excerpt": "Palmeiras deixa Vitor Roque em SP e convoca atacante do sub-20&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRTU5bmY2M3d1YWwxazl3TEFwLTNGRFB5czNlaE5oRmxWc1M3U3hNQWdaMDlqWWdtR0F2bTZmdlk1UERzVjJlLWNlVzlWbXJFUkwzaGFCaExpclZuZko4XzdxMkZhWG44cl80VDhIMGpmQUJkN18wR3ZLWEhFQktNREphQmttbXk2Y1h6bFRaZ1BmalphN1d4cW1DNGZvaTY1bXFPWENjUkFjZ3B0QWJqX2RaQWJyNXZ5NWlKdXpoX3d5eXVnMXczcTh1dUJjakE?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-21T23:11:22.000Z",
+      "whyItMattersKo": "주전 공격수의 부재로 인해 선수 명단 변화가 생기며 유망주에게 기회가 주어질 수 있습니다.",
+      "fanTakeKo": "호키는 왜 안 데려간 걸까요?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDUtaUtULXAwUEh0dWt3d18wNXNsQi1IWU9VSTFJcnJRX1V1aGR4SVRVc0l",
+      "title": "Coritiba x Palmeiras ao vivo hoje 22/07: siga placar agora | Brasileirão - UOL",
+      "summaryKo": "코리치바전 실시간 스코어 안내",
+      "excerpt": "Coritiba x Palmeiras ao vivo hoje 22/07: siga placar agora | Brasileirão&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDUtaUtULXAwUEh0dWt3d18wNXNsQi1IWU9VSTFJcnJRX1V1aGR4SVRVc0llRlVJMTY5SmpVZjNvemZXd3NtNXpFN0ZFczNOUnUwZXhTWEhfbmpSYzFTWlVkejVsbExqMVVOeTU2RkZ3S1lMdU5vS2ItcFF1NE54MDVBN1JZUXdHalRJUDIxZThMTDQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-21T23:08:13.000Z",
+      "whyItMattersKo": "브라질레이랑 경기의 실시간 득점 상황을 빠르게 파악해 승패를 확인할 수 있습니다.",
+      "fanTakeKo": "경기 시작이다 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2wzakEzOGpzNFNVc2NJWnZvQ3dCNWJFQzdBQVRPLU5vZ1JCTnBPNWs0NWx",
+      "title": "Bahia x Palmeiras: prováveis escalações e onde assistir ao jogo pelo Brasileirão sub-17 - Gazeta Esportiva",
+      "summaryKo": "U-17 바이아전, 예상 라인업과 중계 안내",
+      "excerpt": "Bahia x Palmeiras: prováveis escalações e onde assistir ao jogo pelo Brasileirão sub-17&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2wzakEzOGpzNFNVc2NJWnZvQ3dCNWJFQzdBQVRPLU5vZ1JCTnBPNWs0NWxMTEdfUlZqNnZVeU80bUFnN1VCV1cwaDNLOWExR0JyMDZ0bk94VUxmd1FLQUJHQ25ybEJMaXBMVVdQWUV0VUN2ZzBxd0JsYWF0ejJwRHp5NU51Zi1COGs4cE9sbWxxZWxFZ0FFNGk5RFhxcEViMFNvaHZyLWlULUNiaVduRDhqOS1PM0xNV3FNeXlkeTA2a2NnUXhPVW52OFNiZXBG0gHWAUFVX3lxTE43Ym5wN2FXaVM0eDduMEVSNVZNTnpLS3hBaTdmeXVYdkRSNFpPSFdaSjluUFpabkZQQ3lZZjF5OFlKQ3VtV1NGUmdFY2VCSmh3dnpHZnFpcnVYbGZDcFp3UGNLbHBRN2t1UDRvcmdjN0l0bTdhZVJlZVVXSjJyZk9EUGRUdFc2a0xONHA3S1dCeUIyc1RocDJvTGhDSjJrNnBIeHVZMFdUdU1XcUtKcm1qVlEzaWEyZFplSnNrcnFIZnFpTG91Q3RKRTNsYXlneFJ3OUxMcWc?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-21T23:00:00.000Z",
+      "whyItMattersKo": "미래의 주전을 볼 수 있는 유소부 경기 정보를 통해 팀의 미래 전력을 점검할 수 있습니다.",
+      "fanTakeKo": "유망주들의 활약 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMihAFBVV95cUxNenFfcVhiUWtuZk1XWEZrclcwM0ljb2w5TXJQenZJY0V5MjdXMy1QcE1Nbzd",
+      "title": "Coritiba x Palmeiras pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações - Gazeta Esportiva",
+      "summaryKo": "코리치바전, 시간과 라인업 미리 체크",
+      "excerpt": "Coritiba x Palmeiras pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenFfcVhiUWtuZk1XWEZrclcwM0ljb2w5TXJQenZJY0V5MjdXMy1QcE1NbzdmbmwxanZkMHZIOHdQeDhlM2VJR2hVV01JejNLTFFIRHh3R09nenFvQTJLUGdGTlhJRGMwNVpQeDZOdjUtLTBhYkZDclp2OWxRXzEwWTFwY0jSAYoBQVVfeXFMTUN4cVR6SDlWRUlFQkNyLXBrSEdZRFZ0TGlZUFdtem9Kc3pDanZKTnN3TWtCV21ORm4yRG40MWhCdVVQbmQ2eUVxSDZJTlFHb0pKTTlYU0JGNVpvMk9NTldqdTByYndQNHVOZW91UFF5SFUwTjROZVMxNGlWc1lyRXFOclFTeXNaU0Nn?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-21T23:00:00.000Z",
+      "whyItMattersKo": "리그 일정에 맞춰 경기 시간과 선수 명단을 확인해 팀의 준비 상태와 전력을 파악할 수 있습니다.",
+      "fanTakeKo": "이번 경기도 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVE",
+      "title": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07) - UmDois Esportes",
+      "summaryKo": "코리치바전 전망과 승부 예측 총정리",
+      "excerpt": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07)&nbsp;&nbsp;UmDois Esportes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVEzT0RXdzJRQlJBVFA5T0lmVTdIeU0tQ2RlOW5EUHJNdWdBR0JSQXZ4WU9lUk9GVjM1WmdfcGctWE93N3E0RUU1a0R0SlYtQmZGSU9oekFQbXBvUkVEc2tZSG01NA?oc=5",
+      "source": "UmDois Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-21T22:48:28.000Z",
+      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 가능성을 미리 점쳐볼 수 있습니다.",
+      "fanTakeKo": "이번 경기는 무조건 3점이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGJyUDNXdkwzQnJCUHo3UThXMUlvN1JBeUNRdzA3N0RnWmlKRld1NnczXzU",
+      "title": "Coritiba x Palmeiras pelo Brasileirão; acompanhe ao vivo - GZH",
+      "summaryKo": "파우메이라스, 코리치바전 생중계 시작",
+      "excerpt": "Coritiba x Palmeiras pelo Brasileirão; acompanhe ao vivo&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGJyUDNXdkwzQnJCUHo3UThXMUlvN1JBeUNRdzA3N0RnWmlKRld1NnczXzUzb3YtSGpPdjZfSFV5OHlwTms0OThFYWdGWTNreGVON1U5QjVEOTA3N0Z1RmRHem80Zk5aQ21lM2lOUFlrd0lJMmZNcUJKVzhMekZseGpZMG52bkNyUTZ3RmNKZWZtcVJkNFZmeTFFVmpEYnFfMGRySE05a01halNEY1VJaVNjWmRGU2hKOFlnZkdFQlg3Um1BOUhlamZpa2psQ1Y4OTlKSklsNXhOTEctVTJNM0RhTUJsY0xoQ1VJ?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-07-21T22:33:55.000Z",
+      "whyItMattersKo": "브라질레이렁 일정에 따른 경기로, 승점을 위해 실시간으로 상황을 지켜봐야 합니다.",
+      "fanTakeKo": "오늘 경기도 무조건 승리해야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVRPRlJrcS1lXzh1V04wNnFtWnBQN280MVZhWDhxWVZTLXc3a2p1ZmlQOGt",
+      "title": "Sem Vitor Roque, Palmeiras tem promessa camaronesa relacionado contra o Coritiba - tmc.com.br",
+      "summaryKo": "호키 빠진 경기, 카메룬 유망주 기대",
+      "excerpt": "Sem Vitor Roque, Palmeiras tem promessa camaronesa relacionado contra o Coritiba&nbsp;&nbsp;tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVRPRlJrcS1lXzh1V04wNnFtWnBQN280MVZhWDhxWVZTLXc3a2p1ZmlQOGtDU3pfYVdvSF9zUFVOZGVLY1Z4M2RfSFhrNDNLZm5kRUF3dkxYMENoSWFiTmhtbERFellEdmxyLWU3VDhIa1pNVVBLaTk4Tl9jWFJYMWpYZGFab3JzeF9zdElPSE1jYTA2WlpMWmhLanhGdDlFNVBvT01BNUpfcGM?oc=5",
+      "source": "tmc.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-21T22:25:11.000Z",
+      "whyItMattersKo": "주전 공격수 비토르 호키가 없어 카메룬 유망주가 기회를 잡을지 주목됩니다.",
+      "fanTakeKo": "호키는 아쉽고 유망주는 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMitwFBVV95cUxOQV92VkVEQWEwSlNSYWpMRnl4WGlXOF8wclNpQnNXT3V4TzRBcVl5Z0lzazB",
+      "title": "Ao vivo: Bragantino x Palmeiras | Semifinal | Campeonato Brasileiro sub-20 - ge",
+      "summaryKo": "파우메이라스 U-20, 준결승전 치른다",
+      "excerpt": "Ao vivo: Bragantino x Palmeiras | Semifinal | Campeonato Brasileiro sub-20&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQV92VkVEQWEwSlNSYWpMRnl4WGlXOF8wclNpQnNXT3V4TzRBcVl5Z0lzazBXejc2ZWhoYWNWcFBWVkcwcGgzY2lYc2doMjQ1ZHFGNnI2b0ZtS0NEa1BjUGVYbE9VR2hRcFpGMlRDczJGRlJwaU5LR2Q3SzZkT0NIb1pXbnlwS0VIazh3TUxJNE5LZ0psR0Y0UjhnWjFGbnBjc2REWjFjM2pZd1NNOXZ3VkFvRFc1QVU?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-21T22:23:30.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 준결승이라 유망주들의 성장을 확인할 수 있습니다.",
+      "fanTakeKo": "유망주들의 활약 기대해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlBmVUpKb3lLY3BBTmRiQmRqRUM1b1JXRllRYXFvTlE2c3diQUZqVnJtV3p",
+      "title": "Coritiba x Palmeiras: informações, estatísticas e curiosidades - palmeiras.com.br",
+      "summaryKo": "코리치바전 정보와 주요 통계 정리",
+      "excerpt": "Coritiba x Palmeiras: informações, estatísticas e curiosidades&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlBmVUpKb3lLY3BBTmRiQmRqRUM1b1JXRllRYXFvTlE2c3diQUZqVnJtV3pTLUZoVzdQQ3liM0UwS284UTltTURBY0VwSTM3QnhndmNOZjFMVGpMeXZtSkdMUFFnTS12ZVB5TUYyUkx1bTRHT1NrMWhQZjduaEhvTlRCdVpUNHFJTWpYNndpaFJsRnJ2cTNsQkdvenk3QXhicGNB?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-21T22:05:28.000Z",
+      "whyItMattersKo": "경기 전 상대 전력과 팀 통계를 미리 파악하면 승부 예측에 도움이 됩니다.",
+      "fanTakeKo": "미리 정보 보고 경기 보면 더 재밌죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVNUWkczZ0x3OVdPRi1GM0xVN3d3c3ZxdmhsTTk0OUg5SXo3NzZJalJ1Nm",
+      "title": "Palmeiras confirma venda de zagueiro para futebol mexicano; veja valores - band.com.br",
+      "summaryKo": "파우메이라스, 수비수 멕시코로 이적 확정",
+      "excerpt": "Palmeiras confirma venda de zagueiro para futebol mexicano; veja valores&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVNUWkczZ0x3OVdPRi1GM0xVN3d3c3ZxdmhsTTk0OUg5SXo3NzZJalJ1Nm9JcDZxRTFqNXMyaTR2bTNyVE9KazktdUdILXUyWFBkSm1HQUxhbVFmclZtODVqdVFnR2NaMVdjTzJKNnpEOXdEOFptMUxnQ2VNTnFYeDVkV3B1QTRzWllCa1MxbTlFV2pqX0tQYXN4dVFxaVlNdzVtcHFiTUk4N3JZWEY4ZGxFSEk5VkVNdGxkY2w3VUpHVGU4V2c?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:25:31.000Z",
+      "whyItMattersKo": "수비수의 이적 확정으로 팀 수비력 변화와 영입 자금 확보에 영향을 줍니다.",
+      "fanTakeKo": "수비수 빠자니 허전하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnV0Ny1DbUlQYlAwejBDZWEyYlBfSTA1aUFuZ2pRQWxUcThkbkI2TlRDVU",
+      "title": "Coritiba x Palmeiras: o que esperar do jogo e como chegam os times; assista - GE",
+      "summaryKo": "코리치바전, 경기 전망과 팀 분위기",
+      "excerpt": "Coritiba x Palmeiras: o que esperar do jogo e como chegam os times; assista&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnV0Ny1DbUlQYlAwejBDZWEyYlBfSTA1aUFuZ2pRQWxUcThkbkI2TlRDVU9RT3hITEttdGtnV0Itb1JGa29MLTNvN2xqdDNBa0p4aElnVkJoN2duV081Zm1hRWdBc0p6bi1KVHBDZlMwVWRVYUxUUGROWV9YcnhwUzY1UU9SOGhpRV83TWJFa2ZxRXZsMVBzRkIyLXVWSW5XSVRVSkg3YVk3MVV1b0M0WlNjbTVsUEYxT09ia2lBRVgxZ0JuQlJDdEIzbmVEbV9sUXExZnlZUUlsRGFSVzhPT0I4aVPSAfMBQVVfeXFMUE5SQWY3OHZhQzllTi1xSUVEYkUzcEhGSlA2MEFmSTluektuUmY5clBRT1NpN3hzSHZrNUdva0tQc1pFeVB4VFk1S2hCZzBRcExCNGhpc01ad19OR3NMbmxETjFka1Zsb0I1cjF5ZDlBWDNRNEIxRktWc05pUVlVSTNBbzlPVkpCQkIxUGdaNkh6R0dzRWpfUlVQZnBxbTBxUV9kSlhGUC1ITVhyV0Z6cnZhVkNoZU1UWGdzNW96N25pblQtTC05LXhPbDZkaXRUTXZkaFAycHJtNFV2RnpUSFZVd2g3Q2kxenZGRkdEa2JWMzJj?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:20:03.000Z",
+      "whyItMattersKo": "경기 전 팀 상황과 전력 분석을 통해 이번 경기 승부를 예측하는 데 도움이 됩니다.",
+      "fanTakeKo": "경기 전 분위기 좋아 보이네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFk1Y0hyNXBrRUh0UlBybFNSbHQyeHFTSUhqQkxWTmtXa2d4VDcyaTdGY2",
+      "title": "Coritiba X Palmeiras pelo Brasileirão: veja onde assistir e as prováveis escalações - Diário do Grande ABC",
+      "summaryKo": "코리치바전, 시청법과 예상 선발 명단",
+      "excerpt": "Coritiba X Palmeiras pelo Brasileirão: veja onde assistir e as prováveis escalações&nbsp;&nbsp;Diário do Grande ABC",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFk1Y0hyNXBrRUh0UlBybFNSbHQyeHFTSUhqQkxWTmtXa2d4VDcyaTdGY2g2emlUdnlIM21RTE03MUpyRHJ5RFNKVUNwWmEydGtuamVZYkFDYkVQaEd2LUNoRDlaeGdSUTdLanZ6YldtbjlfRUFGZmkxNHdva21pd3JiVk9jUWdlaTBMb1BkTGFjSm1OS1NFVXlTdnBnTlZKRVFmX0xuQnZ2LUxVTE5ETmtoSHoxWUd4eDRnOXZDcVhKTjRyNUFRb2lB?oc=5",
+      "source": "Diário do Grande ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:20:00.000Z",
+      "whyItMattersKo": "경기를 보는 방법과 감독이 세울 예상 선발 명단을 미리 파악해 경기를 더 잘 즐길 수 있습니다.",
+      "fanTakeKo": "오늘 선발 누구일지 궁금해",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMigAJBVV95cUxPYWMzVWpPLUxVVnJGdC1PSVlrVEVvczBfbUZvNjliV3V4WFhaQ1FtVVpSYW",
+      "title": "Palmeiras confirma venda de Naves ao Necaxa e mantém participação em futura venda - Terra",
+      "summaryKo": "파우메이라스, 나베스 넥사카 이적 확정",
+      "excerpt": "Palmeiras confirma venda de Naves ao Necaxa e mantém participação em futura venda&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYWMzVWpPLUxVVnJGdC1PSVlrVEVvczBfbUZvNjliV3V4WFhaQ1FtVVpSYWF3X3ZIRkZQYWxtdExSRWVMYjl2ZE5QaU9DalpUQUFqamtTcWljTmFFQkk3Z05McVdnODY5MkFoLVlsak1GeFlIWlNyNG5uN1ZoeTdpX1N0amFnajdfdVFIUVQ2WG5BRGVobXBwdmdjLWQ4alV2U2FQTElFcFcyY3o2QmtCcDYwYU9fRW9hU1VERkVOZm1IblRNNWYzamx6UGNILWhYdHZYRXVZOFVGQUFGZ2tUQ1Z5NnIyTnJNSHpEeGYwZ19CMDZRbU5wazFOYkZxRDNq?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:11:00.000Z",
+      "whyItMattersKo": "선수 이적이 확정되면서 팀의 영입 자금 확보와 향후 이적료 분배 계획이 명확해졌습니다.",
+      "fanTakeKo": "나베스, 새 팀에서 잘 하길",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMisgFBVV95cUxObmhKeV8xZE1vbEp0aHZ6bU14OENQUzZmNHhGUlhLem1sNzFuTnJiQnFSR2",
+      "title": "Coritiba x Palmeiras: escalações, onde assistir e duelo de ‘garçons’ - Bem Paraná",
+      "summaryKo": "코리치바전, 라인업과 '가르송' 대결",
+      "excerpt": "Coritiba x Palmeiras: escalações, onde assistir e duelo de ‘garçons’&nbsp;&nbsp;Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmhKeV8xZE1vbEp0aHZ6bU14OENQUzZmNHhGUlhLem1sNzFuTnJiQnFSR2ZqVnM2NkpqUmlmLVVnTFU2ekdOMExhMlM3cWJXWWRpSVBhRUZySnNMQ3MzYmpvUXVOWG5JcUZiZlhSMHpma0hBbk8yYXRwVUtfR2U0eGQyMWVTeXBCOVVBeF9Bc3EyeWZNbzFCWUktRkhoMHFUNWtvbTd1QVhKbjNuVlNSZGt30gG3AUFVX3lxTE15amRYaTdGTDlESW1BaVBXaE1aNHlzV3JqYjJiWUFlNlJWd1RHdURhYWVmdWZON1dEVTNCT1ducjlSTWJQTVd1SU5LSGpXamhSQ2ppR2ZjNnAxT21HaEdTSUhfR1ZMbnVyYnUxaGJtekpmUFVVSzBsVzdjWVNWWWNCeWhDSS03M09RMktuVVBBdzdPLVZkdk54ajkxbmMwSmlrQ1cyZTc4aHA1a3dkeFh3a1l6WUdGVQ?oc=5",
+      "source": "Bem Paraná",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:04:00.000Z",
+      "whyItMattersKo": "양 팀의 핵심 플레이메이커인 '가르송'들의 대결 구도가 경기 흐름을 좌우할 핵심 포인트입니다.",
+      "fanTakeKo": "미드필더 싸움이 관건이겠네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0JwbTBOdVVpRUhPeG9rN1BocTA4bDB4aF9kN0wxbGdyNlU2R0tTX1h0LW",
+      "title": "Palmeiras afia últimos detalhes para volta ao Brasileirão, e Arthur celebra retorno de Piquerez - ABCD Jornal",
+      "summaryKo": "파우메이라스, 리그 복귀 준비 중 피케레스 환영",
+      "excerpt": "Palmeiras afia últimos detalhes para volta ao Brasileirão, e Arthur celebra retorno de Piquerez&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0JwbTBOdVVpRUhPeG9rN1BocTA4bDB4aF9kN0wxbGdyNlU2R0tTX1h0LWlBb1otMDlDQnJIZXE3OXBmOTNUUG9LVjZZNHJJR1pOTlQtUl83X2NPYjljb2NGMHhmRW90RS1UVGpyY0tMMUF3WTZjdEE0NHRGVWtXdk1CZ1BhUGVpaEhXdDVva0x5eENEQXU0b1pvRlotcjA3WmllRkVkUmp0NlhzSG81YWlEOURRTUV4VFRtRFBpWXRZTmVnaURnTDBZb2c?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:03:01.000Z",
+      "whyItMattersKo": "주전 수비수 피케레스의 복귀는 팀 수비 안정화와 리그 출발에 큰 힘이 됩니다.",
+      "fanTakeKo": "피케레스 돌아와서 든든하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnhrb21Od3BKN2U3dV9MODBSWld0Mm0yN2dvajRzRE9SVUxnQzVnZ09uY0",
+      "title": "Palmeiras confirma venda de Naves ao Necaxa e mantém participação em futura venda - Estadão",
+      "summaryKo": "파우메이라스, 나베스 네카사로 이적 확정",
+      "excerpt": "Palmeiras confirma venda de Naves ao Necaxa e mantém participação em futura venda&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnhrb21Od3BKN2U3dV9MODBSWld0Mm0yN2dvajRzRE9SVUxnQzVnZ09uY0JmMkJfZ0JCREFhM0J1T0tmWU5UTC1kOEpaenQ2M1VFbHpaTnRIYTVoX0NZa05DNlVYU29lRnoyWUZEcW1aQlFnWEFXUU5kSk05UzJFUmp1SmRMdlNrX2hYUnd4c2RLd3BCaENZc1pHSmZOeVlXV0UwN1hEWXpSNGl0ZnhvdEF3UkpsNU8tQW4tcWVURFhjbVIwUVNkV2RWN0XSAdIBQVVfeXFMT09IMzFqNGcwanc3d2QwUTY0LUR3ZDhOaWZtVDhYWDR4SlhtczE2YnFvWGwzVHpQTVV4cmo2cFRkamY5YjU3QnJIalNCelc4RTJYQUNaODBST3ltWDRSbE54eDNucTdUc0tCazU2MFBtTzA3V01VeUh1LVdoY1VhbE9KNHc0eXFrRHBIUllkLXU2enRibjZrYjhxZDdXY0l0RDRMYUJiMlZhU1VMajVkczVLbVBKY2xqdDNQS0k0Z1ItcC1TUkp3cVNXU1Jfd1g2T2F3?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-21T21:02:00.000Z",
+      "whyItMattersKo": "선수 이적료 수입과 향후 이적 시 차익 분담권 확보로 재정에 도움이 됩니다.",
+      "fanTakeKo": "나베스 잘 가길 바라며 이적료 기대합니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMijgFBVV95cUxQeF9saEg2SUhFZm95b1R5cEpGbmlaVEs5VXpZcE1KN1IwNkNHSlRlcE5nWn",
+      "title": "Coritiba x Palmeiras: onde assistir, escalações e arbitragem - Jogada 10",
+      "summaryKo": "코리치바전 시간, 라인업, 심판 정보",
+      "excerpt": "Coritiba x Palmeiras: onde assistir, escalações e arbitragem&nbsp;&nbsp;Jogada 10",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeF9saEg2SUhFZm95b1R5cEpGbmlaVEs5VXpZcE1KN1IwNkNHSlRlcE5nWnllcnlENzlMTS0yVmxCUXI3VWR6MVdiX3dXQU9mOVd5dVRtb2xuTHNSR1J5aFE2V1dTWXExRFRhTzMzajVFUEZidEg3UVlDVWRhQ1hYVXNXaUJSSjQ2QmRvUDJn0gGTAUFVX3lxTFA1VlNXdnNwZDV0T2pqT2lhWXFsMEY0S1NWX0RNOHYwTkc4QWFVSTk0V05zeER6ajFlUENsXzF2bk93Z1FtM0hZeTRCMXhsckFmc2c5eERURFBuaDRzOWhxVTMzUF9aQUQwdVRvalNOM1hNc2pENnZ2aUtFaGUweGNCV1Y1U21aUE1HME9qdGpHSmJNUQ?oc=5",
+      "source": "Jogada 10",
+      "language": "pt",
+      "publishedAt": "2026-07-21T20:53:38.000Z",
+      "whyItMattersKo": "경기 일정과 선발 명단을 미리 파악하면 경기 관람 준비를 할 수 있습니다.",
+      "fanTakeKo": "오늘 경기 라인업 궁금하네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFFsOThCRzRqaW5pblZnaHc4LUlQVllpRE5jWG14bVVFdnNnRk5aLXBGSi",
+      "title": "Palmeiras oficializa saída de Naves; veja valores e divisão - LANCE!",
+      "summaryKo": "파우메이라스, 나베스 이적 공식 발표",
+      "excerpt": "Palmeiras oficializa saída de Naves; veja valores e divisão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFFsOThCRzRqaW5pblZnaHc4LUlQVllpRE5jWG14bVVFdnNnRk5aLXBGSi1LRWp5Vm5xdnJDSDZmTE9kek12RHNEeTdxZ2ZCODlBbE95ZThqS0U4MlN2V2I0SnBLWEw3SEJWRWwxWUlqTnFSRFhtMGl2UFFWVXk0MEhQa2d3a0RZbHBHNUxfU1RtUDl5eFVobFNpZnNwQ00?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-21T20:49:20.000Z",
+      "whyItMattersKo": "이적이 확정되면 팀 로스터 정리와 새 선수 영입 계획에 속도가 납니다.",
+      "fanTakeKo": "공식 발표됐으니 응원하겠습니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUWJrMUYxRVlSb0ZxRjE3V3FjVjlnSzAtQy1yLWxxZFM3Q0N5bk54ZEZ3cE",
+      "title": "Coritiba x Palmeiras: onde assistir, escalações e arbitragem - Terra",
+      "summaryKo": "파우메이라스, 코리치바전 라인업과 중계 안내",
+      "excerpt": "Coritiba x Palmeiras: onde assistir, escalações e arbitragem&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUWJrMUYxRVlSb0ZxRjE3V3FjVjlnSzAtQy1yLWxxZFM3Q0N5bk54ZEZ3cEpfcVVZT3E1aEhLd3Q4NzNjS0NvX2V1VmVBdWpyTl9ZN1lfRnY1VjZNRkZpb0RmV0FNMTRPakYybXJnUE01MmdjNUcyMmZRb0pNTzNhdGlzY19xMEZXODFqZ0V3LW9uSDJRbXBKdDFRNlpRS1R5RjFzYnlWTkQxWE03bU5senM3ejRnUGZaSmJUWHB3NllDSjdTZUVlLUx1ZzRvN0Q1a0l1NEZUVDJXdGRPaVQ5TVJn?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-21T20:37:00.000Z",
+      "whyItMattersKo": "경기 전 선발 명단을 확인해 팀 전력과 전술을 미리 파악할 수 있습니다.",
+      "fanTakeKo": "오늘 경기, 승리를 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0ZCSDZfVWM0ZGJJSThyWGs5d2lyel84U014enJxZU9FRG9Ham9NWnp0czA",
       "title": "Coritiba x Palmeiras: onde assistir e escalações do jogo pelo Brasileirão - LANCE!",
@@ -116,22 +436,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVE",
-      "title": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07) - UmDois Esportes",
-      "summaryKo": "코리치바전 전망과 승부 예측 총정리",
-      "excerpt": "Coritiba x Palmeiras Palpite – Dicas e notícias (22/07)&nbsp;&nbsp;UmDois Esportes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0djaHhwdHRUcWh4MXhUbnlUOUt0cmR1SjE2NTRyR2tmN1RyaHltUFcycVEzT0RXdzJRQlJBVFA5T0lmVTdIeU0tQ2RlOW5EUHJNdWdBR0JSQXZ4WU9lUk9GVjM1WmdfcGctWE93N3E0RUU1a0R0SlYtQmZGSU9oekFQbXBvUkVEc2tZSG01NA?oc=5",
-      "source": "UmDois Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-21T19:47:32.000Z",
-      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 가능성을 미리 점쳐볼 수 있습니다.",
-      "fanTakeKo": "이번 경기는 무조건 3점이죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-8-https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2M5cTc1X1ctVTJLSjZ3SW1yUHFySFI1M2UwN3kyeWhrRl9ZOUVUUkJmOUk",
       "title": "Palmeiras perde Giay e Felipe Anderson para jogo contra o Coritiba no Brasileirão - A Crítica de Campo Grande",
       "summaryKo": "파우메이라스, 코리치아전 주전 두 명 결장",
@@ -142,22 +446,6 @@
       "publishedAt": "2026-07-21T19:30:00.000Z",
       "whyItMattersKo": "주전 선수들의 부상 결장으로 다음 경기 선발 라인업 구성에 변화가 예상됩니다.",
       "fanTakeKo": "부상 없이 빨리 복귀하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMitwFBVV95cUxOQV92VkVEQWEwSlNSYWpMRnl4WGlXOF8wclNpQnNXT3V4TzRBcVl5Z0lzazB",
-      "title": "Ao vivo: Bragantino x Palmeiras | Semifinal | Campeonato Brasileiro sub-20 - ge",
-      "summaryKo": "파우메이라스 U-20, 준결승전 치른다",
-      "excerpt": "Ao vivo: Bragantino x Palmeiras | Semifinal | Campeonato Brasileiro sub-20&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQV92VkVEQWEwSlNSYWpMRnl4WGlXOF8wclNpQnNXT3V4TzRBcVl5Z0lzazBXejc2ZWhoYWNWcFBWVkcwcGgzY2lYc2doMjQ1ZHFGNnI2b0ZtS0NEa1BjUGVYbE9VR2hRcFpGMlRDczJGRlJwaU5LR2Q3SzZkT0NIb1pXbnlwS0VIazh3TUxJNE5LZ0psR0Y0UjhnWjFGbnBjc2REWjFjM2pZd1NNOXZ3VkFvRFc1QVU?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-21T19:23:37.000Z",
-      "whyItMattersKo": "미래의 주역들이 뛰는 준결승이라 유망주들의 성장을 확인할 수 있습니다.",
-      "fanTakeKo": "유망주들의 활약 기대해요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -180,6 +468,22 @@
       ]
     },
     {
+      "id": "gnews-28-https://news.google.com/rss/articles/CBMitwFBVV95cUxOdktvRU1FUUZMOGxRMGltSzJqOGtXR2lJZnctSnpISi1LY3VKaUViWVJ3LT",
+      "title": "Edu Dracena é sincero sobre chegada de Barboza ao Palmeiras: 'Cabe ao Abel' - LANCE!",
+      "summaryKo": "바르보자 영입, 아벨 페헤이라 결정에 달렸다",
+      "excerpt": "Edu Dracena é sincero sobre chegada de Barboza ao Palmeiras: 'Cabe ao Abel'&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdktvRU1FUUZMOGxRMGltSzJqOGtXR2lJZnctSnpISi1LY3VKaUViWVJ3LTQ2dFZqaTlQUHBETTJEblpuakxQSFNVbTNwSGpWTGZMSndYaG1zOWVDUVRmUmpZM1FYQzdoc2JXbHNMQVk3R0hyanNmbFlfbG1odTRnZURzMG12R0dhanYzMTZZRnUzdWdveXMzOHRQaURoaTNRUFdYcXd0MFRBVGJsdDNKUDlHSGJxb0E?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-21T19:14:06.000Z",
+      "whyItMattersKo": "이적 시장에서 아벨 페헤이라 감독의 의견이 영입 결정에 큰 영향을 줍니다.",
+      "fanTakeKo": "아벨 페헤이라 감독 믿고 영입 기대!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzREZ21xUWxFYm5vWDZBaGUxZmctWk1JbWFWbjNmN055WlJMSElLLTJicVk",
       "title": "Escalação do Palmeiras: Abel Ferreira tem seis desfalques contra Coritiba - band.com.br",
       "summaryKo": "아벨 감독, 코리치바전 6명 결장 예정",
@@ -187,7 +491,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzREZ21xUWxFYm5vWDZBaGUxZmctWk1JbWFWbjNmN055WlJMSElLLTJicVk4cGZYSjMxN1BvdlpqVHRBRzhTdG5rRnU3SU9sSGtxNFZ4cDlHWkNZTHVOQ05maFdTRjljNUUxWjBMQnIzN3pXemdBUzJTamY4NDFyU2ltYV9DRDZHSzZPSUtpTXIyYm5jUDk0REZDMGpfbVM1aEJHRXdMaHFacmx5Q2FNMUJrUHh2TC1UN3plT2tNUU5Ydl9saHZ0MUxubw?oc=5",
       "source": "band.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-21T19:09:42.000Z",
+      "publishedAt": "2026-07-21T19:11:56.000Z",
       "whyItMattersKo": "핵심 선수들이 빠져서 라인업 변화가 불가피하지만, 기회를 잡은 선수들의 활약이 기대됩니다.",
       "fanTakeKo": "부상자가 너무 많아 걱정이네요",
       "tags": [
@@ -516,22 +820,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDUtaUtULXAwUEh0dWt3d18wNXNsQi1IWU9VSTFJcnJRX1V1aGR4SVRVc0l",
-      "title": "Coritiba x Palmeiras ao vivo hoje 22/07: siga placar agora | Brasileirão - UOL",
-      "summaryKo": "코리치바전 실시간 스코어 안내",
-      "excerpt": "Coritiba x Palmeiras ao vivo hoje 22/07: siga placar agora | Brasileirão&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDUtaUtULXAwUEh0dWt3d18wNXNsQi1IWU9VSTFJcnJRX1V1aGR4SVRVc0llRlVJMTY5SmpVZjNvemZXd3NtNXpFN0ZFczNOUnUwZXhTWEhfbmpSYzFTWlVkejVsbExqMVVOeTU2RkZ3S1lMdU5vS2ItcFF1NE54MDVBN1JZUXdHalRJUDIxZThMTDQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-21T17:03:14.000Z",
-      "whyItMattersKo": "브라질레이랑 경기의 실시간 득점 상황을 빠르게 파악해 승패를 확인할 수 있습니다.",
-      "fanTakeKo": "경기 시작이다 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-7-https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZ0xYZ3BxaGVIZk9ya0xFTzd3NFhvOXNRdjVOSmh2WC1wZTloX25MaTZ1S3M",
       "title": "Palmeiras perde lateral-direito por torção no tornozelo e acumula desfalques - Portal ABC do ABC",
       "summaryKo": "파우메이라스, 라이트백 부상으로 전력 누수 심화",
@@ -667,292 +955,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHBGWXN3U0RFOXdwYmJNUzU0dDBZVnVDRDFKUjhGZGFCa1dfdXFhaUNJZ3d",
-      "title": "Palmeiras x Coritiba: Análise e odds para o Palmeiras marcar - Terra",
-      "summaryKo": "파우메이라스 x 코리치바: 분석 및 파우메이라스의 득점 확률 - 테라",
-      "excerpt": "Palmeiras x Coritiba: Análise e odds para o Palmeiras marcar&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHBGWXN3U0RFOXdwYmJNUzU0dDBZVnVDRDFKUjhGZGFCa1dfdXFhaUNJZ3dQR0dUekliWFJoZ2E5SW82Ym5yMlFYLUpUY0x2bGN3Rk9pRmVsVEhkR3hBem5aSkhCRDFfZEdtMTdXc2RNYU5NTnNHczFvZFJWNVVXWGMtTjNNaHB4VkZVUnZ6NVAwa0NSUnk2VFViOWJrS1FjM192NVRGSnNDUHhrTlIzX3FFMURqZW04ZmNyRDFoQVpMdXVVUXRXWEowdTZ5OW8xODlwRjVqSHBEOW9lSXdDeEhBMmx3Mnp6a3c?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:59:05.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUZIcGZaMGFncFd6Rl9zNnY5VjNSM1otQ0VVVC1UYzJXVzAxSzFQNl9PNHp",
-      "title": "Palmeiras focado no treino tático para a volta do Brasileirão - O POVO",
-      "summaryKo": "파우메이라스, 브라질레이렁 복귀 앞두고 전술 점검",
-      "excerpt": "Palmeiras focado no treino tático para a volta do Brasileirão&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUZIcGZaMGFncFd6Rl9zNnY5VjNSM1otQ0VVVC1UYzJXVzAxSzFQNl9PNHphSzlya3FGTnkzazRsVXVPUTlsdEZlVE5zZFVaMUQ5RDVzeVI4OVhuaWJRYTc2RnBZNHJ0OUZNS3RyTjFLTGJvU0xYeHUzaGhIM2w0NGJkUmRPOUVCaXNNRFJWS2U0dlJGMzQtc0ppTWpoN2czdnlNZExiZExoQVJ3QWxpMDYzVzVSbE50V0l3?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:34:59.000Z",
-      "whyItMattersKo": "리그 재개를 앞두고 전술을 다듬어 선수들의 컨디션과 조직력을 끌어올리는 과정입니다.",
-      "fanTakeKo": "휴식 후 팀이 잘 단합되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1dRWS11cVdmNFhGNkE0S2JqdGoxVmFOd0ZFRmFCU0JFTk5Yb1lXamE4cDd",
-      "title": "Palmeiras focado no treino tático para a volta do Brasileirão - OneFootball",
-      "summaryKo": "파우메이라스, 브라질레이렁 복귀 맞아 전술 훈련 집중",
-      "excerpt": "Palmeiras focado no treino tático para a volta do Brasileirão&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1dRWS11cVdmNFhGNkE0S2JqdGoxVmFOd0ZFRmFCU0JFTk5Yb1lXamE4cDd4TzZpb2dsb1lZVGlNTDdpY0gzdlZiaHZwTlM4SWYtTXpQUFFIbF94Ti1TX1UwX1FjRkVDTTNIOThZYWg5eEhiR3R4NEJlUFprQ0FxcTYyU0NwRlVOajBHQ1gzNmRIdF8zYnhPeDV4V1VZMXJaQTZFLXcwcjVLZw?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:30:08.000Z",
-      "whyItMattersKo": "리그 일정이 다시 시작되는 만큼, 전술적인 완성도를 높여 경기력을 점검하는 시기입니다.",
-      "fanTakeKo": "다시 시작되는 리그 기대된다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMimwFBVV95cUxOekJwYnVURkZEZ2RaTzlObE5BTGtZZ2JaUHQ5NE5STzBKNXN2WjVSSFA2Qzc",
-      "title": "Adversário do Palmeiras por Danilo sobe proposta - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스 다닐로 영입 제안 받았다",
-      "excerpt": "Adversário do Palmeiras por Danilo sobe proposta&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekJwYnVURkZEZ2RaTzlObE5BTGtZZ2JaUHQ5NE5STzBKNXN2WjVSSFA2Qzc1WDQ5U3dabmdRWkZfWE5pVnR4dnVDTzFZTFVUWExoLWJmOTlRM3FKbWpTdlRhRkxYdXdXSHB2aDdpSXFQN2RKeUZ3a3g4QVJFdjZoeFlucnRrYmRQMjIzdnBMeEZIa0FiR1cybXJjYw?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:29:28.000Z",
-      "whyItMattersKo": "주전 선수를 노리는 이적 제안이 들어왔으니, 팀 전력 유지와 이적 시장의 흐름을 주목해야 합니다.",
-      "fanTakeKo": "다닐로는 절대 보내지 마세요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMigAJBVV95cUxNWk9qZlBpWDhZcklxRzFkVnpxdlctOEJNZEt5X013dmVyVDNBVjM1WHlhVUw",
-      "title": "Joia do Palmeiras tem contrato registrado no BID e pode estrear pelo profissional - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 영재 계약 등록하고 1군 데뷔 가능",
-      "excerpt": "Joia do Palmeiras tem contrato registrado no BID e pode estrear pelo profissional&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWk9qZlBpWDhZcklxRzFkVnpxdlctOEJNZEt5X013dmVyVDNBVjM1WHlhVUw1VjlERWFLZ3pIcUp4d21uWDhfVkphQ3ljNkw2R2F4dkREMmt1cklwdFJJS3ZwSFQtX2xwTTNMYzg1UnctVkNpNkhmWjM5akpjWE1RR1hCc0hlWmVDbEgwbGVUdWlwUVNGQjFPQUxIQ0QyM0lfMnNvSVdQWFc1V2Rqa2QyeWxkQ3BuNEh3ek9CSF94Y2xOTGd5X3UtUG05X1M1VF9XbUhZcVlocnR2RVZhVTVnLUdPSldKVE1VaWozcnZBdXcwMGRfSHdYVUFsakgzSFVj?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:17:47.000Z",
-      "whyItMattersKo": "유망주가 공식 등록을 마쳐 1군 전력 보강에 힘을 보탤 수 있는 상황이 되었습니다.",
-      "fanTakeKo": "드디어 우리 영재 볼 수 있다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBoVEdGeHdaS2puRUR3dTNZZE4xTjUwelcxUzFNcU1wcHlKdkJKdG5NdTg",
-      "title": "Palmeiras fecha venda de jogador para o futebol mexicano após a Copa do Mundo - NSC Total",
-      "summaryKo": "파우메이라스, 선수 멕시코행 이적 확정",
-      "excerpt": "Palmeiras fecha venda de jogador para o futebol mexicano após a Copa do Mundo&nbsp;&nbsp;NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBoVEdGeHdaS2puRUR3dTNZZE4xTjUwelcxUzFNcU1wcHlKdkJKdG5NdTg4VGFuZWFfbFJyMzJRRGZsRlJlYUY2SGVqRXN2dFA5VTB2QkNwcFg5Zmpld2U3UFcxQXNnaHFENnJJMFVZSm41bTdSNzJQamFIbGRrMjBVbGlOVTFYNDRGT2dHN04tRU11cmpvZldoMEZXRFVoZnp0MTlNTUVOY2hlZ0xtX2tGY0o?oc=5",
-      "source": "NSC Total",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:16:00.000Z",
-      "whyItMattersKo": "월드컵 후 선수 이적이 확정되어 팀 자금력과 전력 보강에 도움이 됩니다.",
-      "fanTakeKo": "이적료로 좋은 영입 기대합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMitgFBVV95cUxQREJWMGgwNXNGRnpnYldIb241bnA2Q3FVRjl2ejAxWllEUHNER0REaWN6eW",
-      "title": "Quem é a jornalista que ficou ofendida com zoeira com o Palmeiras - iG Esportes",
-      "summaryKo": "파우메이라스 놀려서 화난 기자 누구일까",
-      "excerpt": "Quem é a jornalista que ficou ofendida com zoeira com o Palmeiras&nbsp;&nbsp;iG Esportes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREJWMGgwNXNGRnpnYldIb241bnA2Q3FVRjl2ejAxWllEUHNER0REaWN6eWN2U014X3ZrX3V2cC1pRmcxVU0xTGN6RDJDNXoyMHR2VzA5ZDVaTEdkMFA2aVFUMHlfcE0yWXBSVm9LQkVHdHJId2FSV3JpTzlBVUd1VE1VV1BwU0pCNXNJVmE1OXBkN21JVENEeTdINERUQjJHUXNqRjViQVlSNUVSUDJVSEdqNkpQZ9IBuwFBVV95cUxPVF9idmJqQmZOLXlRRm9iLUgtWUZSOVlkNHVRV1lEZFB0UzZ5S0ZTYkpHb0VnY0J4b1BjU3lzMXh4RFVsMHFqTzBlaGtHN295czVHd0h6OHZUMjZSY0V6bDBqVlJmWHZVSWNMMDlsYktkVW0zaFBIcGRzckpXa00zV2Z1MGNKeWJHNE5Zb1g1RHRFUzFmR0hKMHVNMVZWUDZEZUgzM1V4d2liYjJnd0JpSUNWdjl6YnpPNWVR?oc=5",
-      "source": "iG Esportes",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:01:00.000Z",
-      "whyItMattersKo": "팬들의 농담을 두고 언론인과 갈등이 생겨 팀 분위기나 이미지에 영향을 줄 수 있습니다.",
-      "fanTakeKo": "기분 상하게 했다니 미안하네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZTBnMnh2bmpaLTFicEhwNzIyTWgwYm1oQ3U3b0lCQlRCNk13VDFybnN6Uz",
-      "title": "Coritiba x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "summaryKo": "코리치바전 시청법과 예상 라인업 공개",
-      "excerpt": "Coritiba x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZTBnMnh2bmpaLTFicEhwNzIyTWgwYm1oQ3U3b0lCQlRCNk13VDFybnN6UzdZbW9ndmwyLU9wN25tRzlnMFJZN0lyWEU5VzhyQnA1d2RzNE51NUpvbmxVS1B6MFdVa0NZRExmbkxuSUZNYVVBSExFaWlmZWlqSnQtekxvUmItcWhuN3NseHNaWnpjV0o0M1hjNkFFVWtHZ3haSzFPZjZLcFFmNkhaQ0xRc0NadkJCYU9CME9FWWNpU0RFcFVZOGw0TDdITkgtX2ZBM2xlcDBUaUNPODhSNnpYeUhIbk40VTU2YldLWFVMZTBpTFk?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "whyItMattersKo": "브라질레이렁 경기 시청법과 선발 명단을 확인해 응원 준비를 할 수 있습니다.",
-      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWG9oelB2cjJqVmhhZFhtM2FFZlExN3JmbUwweHdOaGlmYWRFV1dxMXUyQV",
-      "title": "Palmeiras registra no BID contrato de camaronês que brilhou em jogo-treino; multa é de R$ 581 milhões - ge",
-      "summaryKo": "카메룬 유망주 계약 등록, 바이아웃 5억 8천만",
-      "excerpt": "Palmeiras registra no BID contrato de camaronês que brilhou em jogo-treino; multa é de R$ 581 milhões&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWG9oelB2cjJqVmhhZFhtM2FFZlExN3JmbUwweHdOaGlmYWRFV1dxMXUyQVhXMGI1cXQwZWowX2hKWmRhRWtGU2VWa2ppcU5rdW9haFRzc1AxdG9EaktmNG5TbFo4WnRWTmVQck96Q2lDWlNVMWlqRVBDVlpOdERLNjFqNmNIS3BMeWFsNDBNdlZobXJwdF8wS1VhNW41aEZBSGpzVV9ROV9uaHJnbnFIRlNLTzM0cXVENXY4YnZmS09qbjRVekFORFlIdEVWRmpUZ3BKSF85SE50Y0JzZFJUTVUxQUlWU3M1T0I2emwySnpBVWc1Xy11ckR0emVDUdIBjAJBVV95cUxOTHBCVzFJdHdJTkljNmNuQ1liYTA3U19SX1EwLXE5UjNzOEZUMmVHQnE5aU9TQ21KTW9nNlotbk1pOXJ1c0o2VlhXdUxqTVVOVGsxMWl5THNkUVJ3eGNib0FXWGtCckVVcXBQWDB1T2wxRFNzYk4xSHVQUU5XZDZ1MVhkREpxaTZZREg1Q0tNR21OdEU3RWxSTGlhSTZHLTMxUzB6VlBBeHlKZnMwdVp2TEJmd1pXdHRPT190N2RwTGJiYUZOeWpMeFJESzNlRXo3RnNIeHRyQ0lEc3lJNklTTUU2bFNDa1dCVVJ6dTAxWUU5SHI4YXREUmtQRnR6N1BVdlZxLWhFWFR3Z3Yt?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:51:03.000Z",
-      "whyItMattersKo": "훈련 경기에서 활약한 신예를 고액 바이아웃으로 확보하여 미래를 위한 투자를 했습니다.",
-      "fanTakeKo": "고액 바이아웃이라니 기대되네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUdkanBTMzRNZUMtNGV1ckNjSmZmQVBhZUYzMXZGVzlEV1N0OWlyMWFNOF",
-      "title": "Danilo e Almada: Palmeiras e Flamengo agem para ampliar domínio no Brasil - band.com.br",
-      "summaryKo": "파우메이라스-플라멩구, 다닐로-알마다 영입 경쟁",
-      "excerpt": "Danilo e Almada: Palmeiras e Flamengo agem para ampliar domínio no Brasil&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUdkanBTMzRNZUMtNGV1ckNjSmZmQVBhZUYzMXZGVzlEV1N0OWlyMWFNOFlQNUhuYWNIS1Zyc2VrdEZ5ODQyckxVc1RTR2llekN2ZU1Fa0tqQkJVbXBEdkN6YjdYWkFWNVhzUHFReTlzZHpiZjdGemRWa2NsYkNycWJGU2thd3dfc044UjZOYWQzUjBodGtVY2tqUzV4WUFoX2tTMnpNR3NEdTVLSGNuSUlFa2VpTU54ZXJnUVJUb2x0WXJLRDBsbEg2RTMwOUk?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:45:56.000Z",
-      "whyItMattersKo": "두 팀이 주요 선수 영입에 나서며 브라질 내 패권 경쟁이 더 치열해질 수 있습니다.",
-      "fanTakeKo": "우리 팀이 꼭 영입해야 해요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGZTR21wSTJMbUFFeDNQUDRqZ0d5VTF3NVhuYk9lSWdfWjlpXzBuWWdPcW",
-      "title": "Verdão visita Bahia pelo Campeonato Brasileiro Sub-17 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 U-17, 바이아 원정 경기 치른다",
-      "excerpt": "Verdão visita Bahia pelo Campeonato Brasileiro Sub-17&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGZTR21wSTJMbUFFeDNQUDRqZ0d5VTF3NVhuYk9lSWdfWjlpXzBuWWdPcWJnNG5CMFp5NW1XajVRTkhUeFZueHVpTVJ4VE9rVDBRRmtwNGRCWlliay00RV9ZX3VzVkx4VEdMU2kyM1pKeFN0dEQxM1ZPeVBzaHVQN1p6eDJxa0VvOUVycW9SX1otT1hZVmxv?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:43:27.000Z",
-      "whyItMattersKo": "유소년 리그 경기지만 팀의 미래를 책임질 에이스를 발굴하는 중요한 과정입니다.",
-      "fanTakeKo": "유스팀 경기도 놓치지 않겠습니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXk3QmdJNnYzOUdDeVAxNEdHMmdSQWhWYktNSUctRHVtMU5iNTl5b2Q5OV",
-      "title": "Ao vivo: Vitória x Palmeiras | Rodada 21 | Campeonato Brasileiro - ge",
-      "summaryKo": "브라질레이렁 21라운드, 비토리아전 생중계",
-      "excerpt": "Ao vivo: Vitória x Palmeiras | Rodada 21 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXk3QmdJNnYzOUdDeVAxNEdHMmdSQWhWYktNSUctRHVtMU5iNTl5b2Q5OVN1cE5oWTdKUVJ0NDFwMWtlNExtT0FhamFqSVVKd29McHp5dDJLUUdVUkg1ZU9HaThDejhob3I2ZWttRTlxUHcwVVh0cW9JNUpkRDQxM0Q4bDItWk1Ockh3Rmp1dS1PdXRBY0E?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:40:03.000Z",
-      "whyItMattersKo": "21라운드 경기라 승점을 챙겨 상위권 순위 경쟁에서 더 유리한 고지를 점할 수 있습니다.",
-      "fanTakeKo": "오늘도 무조건 3점 가져오자 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmE3WjM3bGxtYXhCaFhMOHFyWENwV2tMN2NrbHNjdmJ3Z3R1NDJ0RWc2cF",
-      "title": "Palmeiras duela com Osasco Audax pela sétima rodada do Paulista F Sub-20 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 U-20, 오사스코와 맞대결 펼친다",
-      "excerpt": "Palmeiras duela com Osasco Audax pela sétima rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmE3WjM3bGxtYXhCaFhMOHFyWENwV2tMN2NrbHNjdmJ3Z3R1NDJ0RWc2cFJGTlllYnhYU1dBb0JoQkktV1dEcUpwNXZvNjBfVHZZcjlsSVprZ3dOWjh3cXdaRmZqMFNibHl6bEFoT01nOV9LcGlZR213U3k2a1ZHV25LcTFvUU5OU1BwcG5oYjhUN2M2NnpQY0E1MTY1MFhaME1YS3k1M0hJeUlub05peg?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:36:11.000Z",
-      "whyItMattersKo": "U-20 팀 경기 결과는 2군 전력을 점검하고 선수들의 성장을 확인하는 기준이 됩니다.",
-      "fanTakeKo": "2군 선수들도 오늘은 파이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzVVVE5qdVZnM21TSGtScWlNck5FZW96aW5nSDk0cnhyaUE0Q2o0eHRsTz",
-      "title": "Coritiba e Palmeiras terão duelo histórico com presidentes mulheres - Portal Você Online",
-      "summaryKo": "코리티바전, 양팀 여성 회장 간 역사적 대결",
-      "excerpt": "Coritiba e Palmeiras terão duelo histórico com presidentes mulheres&nbsp;&nbsp;Portal Você Online",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzVVVE5qdVZnM21TSGtScWlNck5FZW96aW5nSDk0cnhyaUE0Q2o0eHRsTzhkMUFzUUpTSkpVYWZ5QWh6dlp2SHZZbERYWFBYdVJOU3NoT0dzbWxzc3VzYlA5ejFDN1FUS1M4U1dLMzdYY3Y2aldiOVN2bFBrOEpfR2ptWWxwM0FhdFNmbTI4THlBTFlGenc?oc=5",
-      "source": "Portal Você Online",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:35:43.000Z",
-      "whyItMattersKo": "양 팀 회장이 모두 여성이라 브라질 축구 역사에 남을 특별하고 의미 있는 경기입니다.",
-      "fanTakeKo": "역사적인 경기, 더욱 뜻깊네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMigAJBVV95cUxOaEdPV2g5dVJUXzVpZmYwYzRwYXRHTWtTMm5Oblh0MnJtZ3lJOEdYVGRXY1",
-      "title": "Com DM vazio, Palmeiras ainda tem desfalques no ataque para retorno do Brasileirão - Terra",
-      "summaryKo": "파우메이라스, 브라질레이렁 복귀 앞두고 공격진 부족",
-      "excerpt": "Com DM vazio, Palmeiras ainda tem desfalques no ataque para retorno do Brasileirão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaEdPV2g5dVJUXzVpZmYwYzRwYXRHTWtTMm5Oblh0MnJtZ3lJOEdYVGRXY1dwZzk4a3RMbzJCMGNKanlBRXBYS0NQQXFwcHZwRVhQOXNOZTF1ZTNoZlZORnpJblQwWlZQVEwzVlpSaHE0ZWhNTFJ6cjNsYVNHX0F1ejRoMENhMHJwSXVIVVRISS02aGlmeS1VT1hRWGg5cm84N01xYkxmQ0RuYkczVDVWSDl5dlFPYWxUVUVxZGhvR0hDbUg1VmZRUm42bVptS0stYXlOdFhsSl81RDNSZFRZaDA4bF9jelljcEhPMGViZmViQnQxQnB2eWprVTRfbjVT?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:31:00.000Z",
-      "whyItMattersKo": "공격수 공백이 커서 브라질레이렁 재개 후 팀의 득점력에 우려가 남아 있습니다.",
-      "fanTakeKo": "공격수 영입이 너무 늦는 것 같아요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWndMNnFWajdrRDRQVmwxaUc3aml5ellBcFE3c1JVcDNhNnA2SkhrbHZEV0d",
-      "title": "Com DM vazio, Palmeiras ainda tem desfalques no ataque para retorno do Brasileirão - Jogada 10",
-      "summaryKo": "파우메이라스, 브라질레이렁 복귀에 공격진 결석",
-      "excerpt": "Com DM vazio, Palmeiras ainda tem desfalques no ataque para retorno do Brasileirão&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWndMNnFWajdrRDRQVmwxaUc3aml5ellBcFE3c1JVcDNhNnA2SkhrbHZEV0dBZGYtZlV0aVdYMU1MMDA1cF9HclNZVlJtcDVsQjlWVDU3UHl1aXN2amVfZXBsZW03UkhwYlNVSFRnSk1xZ2t5LVVQUnBtNEtHTVhydEt2VDRWM3Nsam5aaV80YmNvaGpNSWxoeUEyTzlrR0NMVVZpZnQ0QmRGQdIBrwFBVV95cUxPa0VIWENkZGdxV2xCX1NWMG1VS2pCTDZnZXZBeXhQd1I3T1hzSWk1LV82LU45YzFFYS04SXd2V25DWlRCY2F0Zk1XTEdLRmRDWGNKSTNRbEI1MjFySk1EVE9wZ1ZvZUJFNVJfazhFRnlqMS1PUWZNSHc3MUVCWEptZUdXdEF1MTFZQVhUOC1sczI2YVNpdlhiS3pfNGJSSXEta1lqT01FR0RoaVJnbGRV?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:28:04.000Z",
-      "whyItMattersKo": "주요 공격수들이 빠진 상태로 리그에 복귀해 득점력에 대한 우려가 큽니다.",
-      "fanTakeKo": "공격수는 언제 보충되나요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnlmakdyUUVZTUtNN1BFUXIzZm40bC14U0o5a3pPVy1nRnhYamVuNnc5bXh",
-      "title": "Cartola 2026: veja suspensos, lesionados e escalações prováveis da rodada #19 do Brasileirão - ge",
-      "summaryKo": "브라질레이렁 19라운드 선발 라인업 예상",
-      "excerpt": "Cartola 2026: veja suspensos, lesionados e escalações prováveis da rodada #19 do Brasileirão&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnlmakdyUUVZTUtNN1BFUXIzZm40bC14U0o5a3pPVy1nRnhYamVuNnc5bXhRWXVKM0doY3JGN2tud3FZUlA1aGJKM3k1Tm1FLUJYbDlGem1GX1p5blJ0OXpQRHF0ME9hUnNoR2lhNlRrQXVoSEpTelB5c3NQeGZwU3RxX0Y2RkU3M1VSUTNjRzVmbThkWW1NeTVJdVlmZXpCb1VCdGk2Y1oxRXdIU3BsVV9hQ3NzMmkxeDdrUGM0WFpXaUpWSUV3Vkx0QnlMbWFpV05KOG5JbEl6eVXSAeoBQVVfeXFMT0w1bWF3SVdScGhTMWFlQUtEanpXdDZvOTNSQjhlZkxLellubVhScEVFS0x6ZkNuWVoxS0R6UkM0TjlHN3cyMm9ZUVo0MjZ2Z1UzWEtVaWxZeGdFcExUNFJsYTdLaTFJcmZZOXcxLUJ6dTJGbHpheUc4T2dEem1fazgwTE14dFU2RTdtbXEybG00OENKdmpMSmI3cEUzQ2dmV3Qwakd0c1B0cnQ4cUprY2g5anhBeTBqdVU5bUNjWXRuQ3g1MFRrc1NHR1RweEd3ZVJnYm1PTUZkT2pGYW1OcTFCbEJicXBndWx3?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:26:01.000Z",
-      "whyItMattersKo": "다음 라운드를 앞두고 부상자와 선발 명단을 확인해 전력을 파악해야 합니다.",
-      "fanTakeKo": "이번 주 선발 누구일지 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHJ3aUNsdGlta3dadzJkM25TX1BHdnQ3UXYwMzVrY0pXMjFRTWYyakQ4cmt",
-      "title": "Coritiba x Palmeiras marca primeiro confronto da Série A com duas presidentes mulheres - Estadão",
-      "summaryKo": "파우메이라스, 코리치바전 역사적 매치",
-      "excerpt": "Coritiba x Palmeiras marca primeiro confronto da Série A com duas presidentes mulheres&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHJ3aUNsdGlta3dadzJkM25TX1BHdnQ3UXYwMzVrY0pXMjFRTWYyakQ4cmtac0xuWFpiWmhvbGVnZmU2X3EyeG5fTDFkT1BtaUpMVlRtdG10XzRyQzU4UTZGN2huTXpWMUtiX0FaNkdrQllncFlaWkpkWGRaSHFsb29BbVVMaENrZmttNC1lRzI3SGdsWGJvc0drV19aTkxXY0lHaFFIZk15c3hvWC1qNTlaYTdCUTR0RXpBZzRDa3E1MnBjSHlLMjFZQWN0UGdvdXZn0gHYAUFVX3lxTFBmcHA0dEJhNU1YOGlfT0xjb015RVF5dG5Hb09haTdVa1lTVHE4eXJDWXNjVDlJOWJweVdRM3FiVktvWUxVYXd1WTlnVjMzTFhPT1VhVWhzSWJJT2IyaHZ0Yk1CNExnYlhFdVJRU1NZdVV0UDZXNVBPTzNJN2xDYWRtSWhwUmlpb3RXT3ZCT2FmZ2FhbzJnT1lfMS1LdHI4a2lPb2R2WXFsNnBSQkUzdDlfRmJxd1p0b2RUb1ZJLTljbnROMEEyNHlBSEV2OEgyVmxqUGZZa3hSNw?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-21T14:23:00.000Z",
-      "whyItMattersKo": "양 팀 여성 구단주가 맞붙는 첫 경기라 브라질 축구 역사에 특별한 의미가 있습니다.",
-      "fanTakeKo": "의미 있는 경기네요, 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
