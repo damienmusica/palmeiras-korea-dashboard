@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-23T19:24:21.103Z",
+  "fetchedAt": "2026-07-23T20:36:02.166Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXlsdU5TVkNrMzBGMG9zVTJJSUpVdHo1Tm1EbU9uU1dKSk5POWl1ajVnYkF",
+      "title": "John Textor revela valor de multa rescisória de Danilo, alvo do Palmeiras - Rádio Itatiaia",
+      "summaryKo": "파우메이라스 영입 대상 다닐로, 이적료 공개",
+      "excerpt": "John Textor revela valor de multa rescisória de Danilo, alvo do Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXlsdU5TVkNrMzBGMG9zVTJJSUpVdHo1Tm1EbU9uU1dKSk5POWl1ajVnYkFubkFORnI3cVNzMHZYVnNxS2c4NGY0UVc4T0RRakpLWk9XRFlwM1cwa1FYeVlXQThxSl9XUGpaQVZUUDFMb2YxUDVrNUhNaUJjbnR3TnIyZG1aODFmdGxneUVEbi1VSzB1QWZKMlhIZ2xPWW9ZcWYwaWRYVVN5QnZmZFRBaHRuWTdmZmRhajVpeW1JcDRJSHltS0lrUDlDZ0gxZFFaWGpSNHYwdG5UTzhvekZJVzM3WUg5Sml1VGpub0ZoT0ZUZw?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-23T20:00:01.000Z",
+      "whyItMattersKo": "영입 대상의 이적료가 공개되어 여름 이적 시장에서 영입 가능성을 가늠할 수 있습니다.",
+      "fanTakeKo": "이적료 공개됐으니 빨리 영입하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUJMWEE1dFI5WVlJN2c5MGRMVS1UNy1UMlQ5VTlVUmlIeWRtbWhySTZOMHN",
+      "title": "Barboza destaca momento do Palmeiras no Brasileirão e celebra estreia com vitória: \"Vai ficar marcado\" - Gazeta Esportiva",
+      "summaryKo": "바르보자, 데뷔전 승리와 팀 분위기 극찬",
+      "excerpt": "Barboza destaca momento do Palmeiras no Brasileirão e celebra estreia com vitória: \"Vai ficar marcado\"&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUJMWEE1dFI5WVlJN2c5MGRMVS1UNy1UMlQ5VTlVUmlIeWRtbWhySTZOMHNNX0tCQmV6V3RjNjV3U3NJWWR4Y2VaQVVIRU1acWxQUnpscmo5YUpzS3haM3ZmN1dPUHJOTm5BOVhvZjBacnNTenFvOEh1MlV1SlhBZ2V0cVRQa1ZITGpYb1lGRk52c1lISGJaeVg2VEJlWWFPRXA0RjVqWjBkT3VBQjAya2FmWXBGNzNVcHJsczVEZjJ4aXRXelRtWURiWm9RYVY0Z2FvNDRFQUJBWWxGMmlWakd3?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-23T20:00:00.000Z",
+      "whyItMattersKo": "신규 영입 선수가 데뷔전에서 승리하며 팀 전력 보강 효과를 즉시 보여주고 있습니다.",
+      "fanTakeKo": "바르보자 데뷔전 승리, 완벽한 시작이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzFpeXh6OVBvZlZWWDBELUZsV1hKOEdTc2xxWFA5WEZuUDc0N3dhTVlMbkY",
+      "title": "Vitor Roque e Felipe Anderson podem reforçar o Palmeiras contra o Atlético-MG - LANCE!",
+      "summaryKo": "비토르 호키와 펠리페 안데르손, 아틀레치쿠전 복귀 가능",
+      "excerpt": "Vitor Roque e Felipe Anderson podem reforçar o Palmeiras contra o Atlético-MG&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzFpeXh6OVBvZlZWWDBELUZsV1hKOEdTc2xxWFA5WEZuUDc0N3dhTVlMbkY0OWtjVjJ0YTJiRWlNN1pCVTRpU3lVOFJ2SlNGeTRMX3ozTkVoblZEeHVvWG9FX2R0eWhCY3AxVFM2ZmVoTWxHR2lCMDNoOHljVDlucG9zSmVHYVhfTGlQaWQzSmNSaTFzeVMyRUh2aHEtLUNPVkYyc3dtOTlKZWljMkVyQkxqSERoY3RE?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-23T19:41:58.000Z",
+      "whyItMattersKo": "주전 선수들의 복귀는 다음 경기 승리와 공격력 강화에 큰 도움이 될 수 있습니다.",
+      "fanTakeKo": "호키랑 안데르손이 뛴다면 이길 것 같아요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjVLcXV0NXFQbFJjMlJ5b1lYcDEzQjN4LUc1eFdNdmJVNEdkd1BPMW9YMS1",
+      "title": "Aos 4 min do 1º tempo - Gol do Palmeiras! Após escanteio, Pimenta cabeceia e abre o placar - ge",
+      "summaryKo": "피멘타, 코너킥 헤딩골로 파우메이라스 선제",
+      "excerpt": "Aos 4 min do 1º tempo - Gol do Palmeiras! Após escanteio, Pimenta cabeceia e abre o placar&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjVLcXV0NXFQbFJjMlJ5b1lYcDEzQjN4LUc1eFdNdmJVNEdkd1BPMW9YMS11aXBhV095UXE1ZmFMU3RCQk85T0ljS3Nsb204RngyLVRRVENOTVlDZl9kNjdFUkkxaTY3RlpOTTFhV0VvN044UVEtTDBoeUxzR2xDYUtmdTdlVmNoRndrT3RYVUdlOHFnUncxb29ra2o5RUhsbjdsMGc3OGlRR3FBRkRCY0dvWWFSUC1BZS1PQVZ6Rk9OMWh1Z0NfakRKeXU5eUVYV3fSAeABQVVfeXFMTlZGZFNveTdxUTNkanpCckRaQk1IeVB0VHJrSVhtbkMxNGhSM2wzTWtlTW9rc3VFY1VzYXVDQmFjdU5ZUExCUndoTk9URDJwckU2bzdHdFBqUWdUaE1XSk9Va1dZQ0EwMVRYcld1OU1wZEszY2FpM2JGcExlaElHVk9CYVVpOXBhT0Z5a0lFdDRCRjVPdDU1bUpjTFR0c25RWDZ3YXJNY2cyZWdNd0JTcG1jOFFOVW14ODlyWVRpOFRtNGVZaGFxMDhNdloxdVZfOWd0QWkxeXI2MFVaRzA4Zlo?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-23T19:14:44.000Z",
+      "whyItMattersKo": "초반 선제골은 경기 흐름을 우리 쪽으로 가져와 승리에 유리한 고지를 만듭니다.",
+      "fanTakeKo": "초반 선제골, 오늘 완승 가보자고요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzVDMVJqWkNhTHM3emdjRmhfSlNGcGZGQURicXJnZUpPaEowSUN0ajdlN1R",
       "title": "Palmeiras se reapresenta com reforços - Tribuna de Jundiaí",
@@ -140,6 +204,22 @@
       "publishedAt": "2026-07-23T17:28:35.000Z",
       "whyItMattersKo": "신인 선수의 감격스러운 데뷔는 팀의 미래 전력과 분위기에 긍정적인 신호입니다.",
       "fanTakeKo": "바르보자 데뷔 진짜 기뻐!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWVzLW54UTZCLTRqQ3F5MGZndUYxdXRkcGJWTlRtV0NfSm1FVzdVUlVtM3",
+      "title": "Botafogo recusa oferta milionária do Palmeiras por Danilo - iG Esportes",
+      "summaryKo": "보타포구, 파우메이라스의 다닐로 제안 거절",
+      "excerpt": "Botafogo recusa oferta milionária do Palmeiras por Danilo&nbsp;&nbsp;iG Esportes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWVzLW54UTZCLTRqQ3F5MGZndUYxdXRkcGJWTlRtV0NfSm1FVzdVUlVtM3NlTktEYWVFLVlfQmx3OHVVODl1X1VvVzY1ekZsOXkzSGRlM0k0VG5TOHllOExXVFdVU0J6NzRMcW5wYVZaSUtodjBQTTJPZFNad0RIblNOSFhCTmdzQTl2UWFQQzhlcE9hb3Z2Ulg4aTQ2MFdRM054akRZYmh1OGvSAbABQVVfeXFMTUNqVHlZVWZXTWZBNmhtbVJuMG4zeVNkbzRSRzlqSDdsZ3IzamNJQTYxSGtCeGgzRTQ3UjlvaVl5cUZGMEZlU3VWWXJHbUZIOERoWXRTN2Fva1A5YVRJc2F0emk2d1VMTFFMd0FOMk93bGtqV3dFb1dsRXI4WkQwQ3JRRXRkdXFSTVBUNEg4eDZaeEdKMzJmT1FiZjdtWGxMQ3otX2YtRmpfdnhsaHg5Tlo?oc=5",
+      "source": "iG Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-23T17:28:00.000Z",
+      "whyItMattersKo": "주전급 미드필더 영입이 무산되어 시즌 중반 전력 보강에 난항을 겪을 수 있습니다.",
+      "fanTakeKo": "제안이 거절되다니, 영입이 쉽지 않겠네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -846,86 +926,6 @@
       "publishedAt": "2026-07-23T10:30:00.000Z",
       "whyItMattersKo": "다수의 부상 결장으로 다음 경기 선발 구성에 변수가 생겼습니다.",
       "fanTakeKo": "부상만 없었으면 얼마나 좋았을까요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ1NUbHhLNnZFOW56Um5icnl4ejNWMzM4VUVqSGxHS0oyQmYxU3Z2bWQ4eEZ",
-      "title": "Abel Ferreira terá “dor de cabeça” para escalar o Palmeiras contra o Atlético-MG - O POVO",
-      "summaryKo": "아벨 감독, 아틀레치쿠전 선발 두고 고민",
-      "excerpt": "Abel Ferreira terá “dor de cabeça” para escalar o Palmeiras contra o Atlético-MG&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ1NUbHhLNnZFOW56Um5icnl4ejNWMzM4VUVqSGxHS0oyQmYxU3Z2bWQ4eEZuTEN1a0xQUFIxa1hIMk5lU3hYVk9hOUtyZWtxNXZNYmcxX3FDY0ltZzhkSFJMb3BVWTdFZjk3TE5BTFM1cTNNMnJOS09jeThDREVnMFJ2NlpDTjNGOU9VaTZXYnhZa2JOZVZoUlhEek4tOU1JTWV2UjJsaFFrUU85djAtY283bmlRSGlHVlFieEVWS2FwS1YyWFE4c3ZONVJ5VVo0dVBsNXk1VWlld2RTdXc?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-07-23T10:15:03.000Z",
-      "whyItMattersKo": "아벨 감독의 선발 선택은 팀 전술과 이번 경기 승패에 직접적인 영향을 줍니다.",
-      "fanTakeKo": "최고의 조합 보여줘, 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb0NOLUI5YzFhRjJYMmhnTGhNa3NwcWFIMlZGSzFTYWU1alBMeG8wNDdCb1J",
-      "title": "Abel Ferreira terá \"dor de cabeça\" para escalar o Palmeiras contra o Atlético-MG - Terra",
-      "summaryKo": "아벨 감독, 아틀레치쿠전 선발 명단 고민",
-      "excerpt": "Abel Ferreira terá \"dor de cabeça\" para escalar o Palmeiras contra o Atlético-MG&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb0NOLUI5YzFhRjJYMmhnTGhNa3NwcWFIMlZGSzFTYWU1alBMeG8wNDdCb1JNd1JhSDZGaWI3NVZUa0lyRTFXVG5qRWFrdDJhTldPaTAzOG1JNGdGeFRQajE2dzNzRDRZUzBVZ3RlZFZBdkljX2ZoMXpJblhUc3BYZ3hGQ3VEUER2WHFtdjBXVkZSWUdDOXZ6cC1ZOG05czZLQkpSc2ozazVVdXl4TnlQVDFZZVR4c192c0tqNjNUVENnRkJiUkhSTGNFVmpFWV9lOEFzbHcyUHFqTFFXMVpHUmgyVjY5NEthSnBwWWZybzZtMVlmMVNmU1FWQXY?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-23T10:01:00.000Z",
-      "whyItMattersKo": "선수 기용에 따라 팀 전술과 경기 승패가 크게 달라질 수 있어 매우 주목됩니다.",
-      "fanTakeKo": "믿고 보는 아벨 감독의 선택입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOE5SV1BUTkdkZlUtR1RwRGxFb1lLT0hvUVRDcTBYS1lDcVA4RFI5Rm9qWFV",
-      "title": "Palmeiras manda recado aos concorrentes na volta do Brasileirão - ge",
-      "summaryKo": "파우메이라스, 브라질레이렁 복귀 후 기세 올린다",
-      "excerpt": "Palmeiras manda recado aos concorrentes na volta do Brasileirão&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOE5SV1BUTkdkZlUtR1RwRGxFb1lLT0hvUVRDcTBYS1lDcVA4RFI5Rm9qWFVXV0xqOU0wYVN0dm1iUGhEYlFmTGZZeDdPRE5zeThiT0VLMHJxT1JzQ25iS3JYZ0U1dHp0bDdzTGduNnBXSzIwc0c2Si1SRXJEUHptQ2tMbm5NR01HVjR3ZHVGOEYzajhuemRNeEx4ZGtJY3pKQjBEMkU1MUJXMF85VnhXQ1FOR28wTFRnaXdGYUdPN1Q5aVJuaWRMbdIB1wFBVV95cUxPRzhSeDBRM3FIQWFqNnV5Z2c0dVJsSHJtdlZuZTdfSE5kUy1Sbzd5UTFSdE82YVJackw5S0Z0RW9ndEo5YmxFR094WXFuTlduRkpOcjh5LUtpYzc5NldPU3R3YV9MVDhiYTFPWHlWWEp0VnBiUXg0cERvaXdybV9uV2NZQXJJS0dDSzFoUnh5amEtdDVlc0tGVTNqYkdTd3NOTXZQUV9udEVSdUVYS3hJSV9DR2ZyZGJVV3JlZXVsZUlvRVJoclNHcVdlWGZ4cE41VHRyMlVNQQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-23T10:00:18.000Z",
-      "whyItMattersKo": "리그 재개 후 강한 모습을 보여주며 우승 경쟁에서 우위를 점하겠다는 의지입니다.",
-      "fanTakeKo": "우승 향해 파우메이라스 전진!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiswFBVV95cUxONk00bVJNRVpsUlRUVHFuQjZOUUZ4UjI1WEN3NVo0TDJKaWJjc2RzQ2t6S2l",
-      "title": "Balanço do primeiro turno do Brasileirão; veja destaques e decepções - band.com.br",
-      "summaryKo": "브라질레이렁 전반기, 기대와 실망 교차",
-      "excerpt": "Balanço do primeiro turno do Brasileirão; veja destaques e decepções&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONk00bVJNRVpsUlRUVHFuQjZOUUZ4UjI1WEN3NVo0TDJKaWJjc2RzQ2t6S2lyY0xkWjhWcVRLaHNFYWE5RXZUSGlpbmpfV1ZJN2ZaZDhpWkNWZUhWdFRpbjJTNzJIR053S0pMUGZSWDdEdldXSFJWZzJXb2owVWRiUEZIZW5lV21tT1V0ZXRtZGhqTTFBbEx5QVdwQnA4R0lfSkYwS2U2bFBSRE5MMzVscUNjZw?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-23T10:00:02.000Z",
-      "whyItMattersKo": "전반기 성적을 분석하면 팀의 현재 실력과 후반기 보완점을 파악할 수 있습니다.",
-      "fanTakeKo": "후반기는 더 강해진 모습 보여줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXBjektZQzJlNUFHclBQMll5OENDdHBrVXBnSHpJZDE4eE9Tc3k2RE9oQ0N",
-      "title": "BRASILEIRÃO: Flamengo goleia; Palmeiras, Athletico e Cruzeiro vencem - Alagoas 24 Horas",
-      "summaryKo": "플라멩구 대승에 파우메이라스도 승리 질주",
-      "excerpt": "BRASILEIRÃO: Flamengo goleia; Palmeiras, Athletico e Cruzeiro vencem&nbsp;&nbsp;Alagoas 24 Horas",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXBjektZQzJlNUFHclBQMll5OENDdHBrVXBnSHpJZDE4eE9Tc3k2RE9oQ0NWcUR3SE1HZFQtUm9ZZXZFQVJvbUJQc1NiaEFzQmxtQi14d1czR2ZOeW9Ba2oxRjRYUjQ0QWZ5V3Vtc3A4NGszUXVFLWUyZHpBVGlPc0FyTEYtQUdtdWlXY19LY3E2SHJGM1JLWVdWSU5kZHJydGpKUkNsUU4yRTli0gGyAUFVX3lxTE5XeDRsTXZDVjlXbWlxNktZZWFqSDBuUXp4Sm5DLUNSTXdQVUxNOXNJOV9tOEs2ZEc2YkxZMS12UzAyVzBZcS1PbTVwRjZNYXNoU2tFbnZYZWF4NGRDUTBOb1pmYzdRUHVvYzN0Q05RQnQtZi1ReklPZEYydkxDZE5oN2tPYUgxenlxYkFOVjlZRURNUklMT0JVaWhUNXBrR3VadkNRRldKNzNEamdCZ0toOXc?oc=5",
-      "source": "Alagoas 24 Horas",
-      "language": "pt",
-      "publishedAt": "2026-07-23T09:52:00.000Z",
-      "whyItMattersKo": "리더 플라멩구가 대승을 거둬 파우메이라스도 승점을 챙겨 추격을 이어갔습니다.",
-      "fanTakeKo": "경쟁 팀들이 다 이겨서 긴장되네요.",
       "tags": [
         "뉴스",
         "AI요약"
