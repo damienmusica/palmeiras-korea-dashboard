@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "API-Football 스쿼드 + ESPN 2026 시즌 스탯",
-  "fetchedAt": "2026-07-23T07:33:37.953Z",
+  "fetchedAt": "2026-07-23T10:24:29.224Z",
   "statsSeason": "2026",
   "players": [
     {
@@ -37,13 +37,13 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 17,
+          "appearances": 18,
           "goals": 0,
           "assists": 0,
           "yellowCards": 3,
           "redCards": 0,
-          "saves": 51,
-          "goalsConceded": 13
+          "saves": 56,
+          "goalsConceded": 14
         }
       ]
     },
@@ -250,7 +250,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 16,
+          "appearances": 17,
           "goals": 3,
           "assists": 0,
           "yellowCards": 0,
@@ -302,10 +302,10 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 13,
+          "appearances": 14,
           "goals": 0,
           "assists": 0,
-          "yellowCards": 2,
+          "yellowCards": 3,
           "redCards": 0
         }
       ]
@@ -353,7 +353,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 15,
+          "appearances": 16,
           "goals": 1,
           "assists": 1,
           "yellowCards": 1,
@@ -379,9 +379,9 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 6,
+          "appearances": 7,
           "goals": 0,
-          "assists": 1,
+          "assists": 2,
           "yellowCards": 0,
           "redCards": 0
         }
@@ -431,7 +431,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 17,
+          "appearances": 18,
           "goals": 1,
           "assists": 9,
           "yellowCards": 3,
@@ -482,7 +482,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 16,
+          "appearances": 17,
           "goals": 0,
           "assists": 1,
           "yellowCards": 0,
@@ -532,7 +532,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 17,
+          "appearances": 18,
           "goals": 2,
           "assists": 1,
           "yellowCards": 3,
@@ -557,7 +557,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 6,
+          "appearances": 7,
           "goals": 0,
           "assists": 0,
           "yellowCards": 1,
@@ -583,8 +583,8 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 15,
-          "goals": 1,
+          "appearances": 16,
+          "goals": 3,
           "assists": 1,
           "yellowCards": 1,
           "redCards": 0
@@ -634,10 +634,10 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 15,
-          "goals": 2,
-          "assists": 1,
-          "yellowCards": 2,
+          "appearances": 16,
+          "goals": 3,
+          "assists": 2,
+          "yellowCards": 3,
           "redCards": 0
         }
       ]
@@ -673,7 +673,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 13,
+          "appearances": 14,
           "goals": 3,
           "assists": 0,
           "yellowCards": 4,
@@ -773,7 +773,7 @@
         {
           "season": "2026",
           "competition": "브라질 세리이 A",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "assists": 0,
           "yellowCards": 0,
