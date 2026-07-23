@@ -1,8 +1,324 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-23T12:10:35.983Z",
+  "fetchedAt": "2026-07-23T14:41:49.600Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnI2YW1UQmtwdzg4MTBUTzhZS09tRTFmVkw5ZjZqV2lGdG1DeWp1Nkg0cmh",
+      "title": "Red Bull Bragantino e Palmeiras buscam vaga na final do Brasileirão Sub-20 - BOL",
+      "summaryKo": "파우메이라스, U-20 결승행 향해 달린다",
+      "excerpt": "Red Bull Bragantino e Palmeiras buscam vaga na final do Brasileirão Sub-20&nbsp;&nbsp;BOL",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnI2YW1UQmtwdzg4MTBUTzhZS09tRTFmVkw5ZjZqV2lGdG1DeWp1Nkg0cmh5d0ZhODV3bmZ0azVLQTlHSEk1MDd4dlhHOGk0UG4tYXlQT3p0cWNVeXY1SWp5SG5ZWlB6a21ndXI2SFg2QjFpVGNwLTdvT2pWc192NTh2ekpvMlBFLWxmVl8yUTB3M2JQeEhreVdJSUgyWG5WZ0xoN0hsUWFkdGw3bGJYMlJ4S1MwV0hq0gG8AUFVX3lxTE0zRkhKR29oSV9CU0hwRFpSdmY5SDM2dklkekI4WldZaWhPZVVWMWpiRVQ2cVZUdkZaUVdxbWFsZ25aekNvTmdRLVNIdnI4TlNnTkg4cm1zSmozVi1PT1lYRkVnLW1WZHM1bjBuRGxFbjJwaTViTW9XdnlLY2tXWHBwQ0JHUUlFbnlTb1dUTG1RVUZfM041eFg0a3FJZ091Y0RUam1VOGZQQ09yYlBTOTlSbENBbkI0Z1pYSUhC?oc=5",
+      "source": "BOL",
+      "language": "pt",
+      "publishedAt": "2026-07-23T14:35:19.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 브라질레이렁 U-20 결승 진출은 팀의 미래 자원 확보에 중요합니다.",
+      "fanTakeKo": "유망주들의 활약 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2NCdkNPSkIxZTBUaV9XN1BWeWJCbE5Ta2tqWWJ4QVpRcVJRQ3o3czE1Yld",
+      "title": "Palmeiras mostra melhor versão com Abel no Brasileirão e empilha recordes mesmo sem Danilo - LANCE!",
+      "summaryKo": "아벨 감독, 다닐로 없이도 최고 전력 보여줘",
+      "excerpt": "Palmeiras mostra melhor versão com Abel no Brasileirão e empilha recordes mesmo sem Danilo&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2NCdkNPSkIxZTBUaV9XN1BWeWJCbE5Ta2tqWWJ4QVpRcVJRQ3o3czE1YldqSl9PMEFlcnFhVDFjajdCTmVDRTl4ckpwLXJ1b25pM0NQSFZKS3FuQkJna2NZRVFJY1R0R0tPX2gxMkFrNUNTMHh4UU9pTjloN0hGZHZJV0hIV0JnVDd5NHFVTWdid2cwZ0FJZGVMcEpGRURfUHljZ3IxbHZPTmpGV2NxNndjOXZaWm0waldUdUVR?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-23T14:30:00.000Z",
+      "whyItMattersKo": "주장 다닐로가 없어도 팀 전력이 최고조에 달해 브라질레이렁 우승 경쟁력을 입증했습니다.",
+      "fanTakeKo": "다닐로 없어도 강하니 믿음이 갑니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMihAJBVV95cUxOR0tKQks1SWJGRGFDM0Jjcm9LYzZFMFNlbzhrMFY4T01CcEpPUTRBd2l1Zlp",
+      "title": "Palmeiras vive dia decisivo por Danilo e aguarda definição do Botafogo - Terra",
+      "summaryKo": "파우메이라스, 다닐로 이적에 보타포구 결정 대기",
+      "excerpt": "Palmeiras vive dia decisivo por Danilo e aguarda definição do Botafogo&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR0tKQks1SWJGRGFDM0Jjcm9LYzZFMFNlbzhrMFY4T01CcEpPUTRBd2l1ZlpsU0VTUFhZeTljbDZSV2tzcm5GR2J2NEZZRFB0WHF1LXJjOUpTU1VJM2lRZ1gzUGFrZlZGM3RRUURoS2dldnBETEhUT2VmMmxzRzhqS09MWDJYc2VHOVJjd3haNF9DTU1kMXZ3dTNLM3F6RkNaUE1OLXMwQXFIS2VkZmVMdkZ4Q0J3blM2c1FWLV81OWZ3d21iV3dUcmRTendtOUQ3bEtJOExWaFUyTlhGSi1yOHEyaUdvalVTS0ZzclRoLXQ3QnVQNHQ2Tm5vM2Z6MnZzNm9SZQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-23T14:22:00.000Z",
+      "whyItMattersKo": "주전 선수의 이적 결정은 팀의 중앙 미언 전력과 시즌 남은 일정에 큰 영향을 줍니다.",
+      "fanTakeKo": "다닐로는 꼭 남았으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmNzVXV6eXZEbDVOcDZSYkNldUU2RU9VdEkzU194c1FDeXlRZGNON3BJeVB",
+      "title": "Espanhóis comparam joia do Palmeiras a Eto'o: 'Garantiu o futuro' - LANCE!",
+      "summaryKo": "파우메이라스 신예, 에투오와 비교되며 화제",
+      "excerpt": "Espanhóis comparam joia do Palmeiras a Eto'o: 'Garantiu o futuro'&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmNzVXV6eXZEbDVOcDZSYkNldUU2RU9VdEkzU194c1FDeXlRZGNON3BJeVBkajk2YXBSaHFaNFpRUFdLR0lpTjZEdTd4bHhadGozcmJzX2U5ZF9YRDZ0MFFJNlBsYkhOeWI3czFVdWtnaWFTNDZZZThkek5IWWlFY2dsX0lrLUZsYWhuRkxQRzFBY0RVbzc0VVVfNnduMTZhY2h0VXZOUkFUdWFMMnNocVJsUQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-23T14:08:29.000Z",
+      "whyItMattersKo": "해외 언론에서 유망주를 에투오와 비교할 정도로 선수의 가치와 잠재력을 인정받았습니다.",
+      "fanTakeKo": "에투오라니, 대단한 칭찬이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzJBTWl2RHgwSkxnSlNVeFU4NTlpNEhFUEhUcE9lOW9teWZVYmYzUTNtbDR",
+      "title": "Palmeiras e Flamengo vencem e seguem isolados na briga pelo título do Brasileirão - capitalnews.com.br",
+      "summaryKo": "파우메이라스, 플라멩구와 우승 경쟁 단독 주도",
+      "excerpt": "Palmeiras e Flamengo vencem e seguem isolados na briga pelo título do Brasileirão&nbsp;&nbsp;capitalnews.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzJBTWl2RHgwSkxnSlNVeFU4NTlpNEhFUEhUcE9lOW9teWZVYmYzUTNtbDRneWViMWRibGpTRFlTdWV1cVBxbkRES0JCNmlUT25FTHBMM1YwN2hsUVhXSGtDSlE3LVFlZVFHVWlIMnVLZm5vZkNnQXlfUzVKVDlWNFlIMFBldHB2blg4TEF1TWdGUFhPOUV6OFpUS2hxYlV1X3NrWGk5d05lQm1DRXh6UFZGM2syX0o2WXNMdUE5VEhZc1VpRnc?oc=5",
+      "source": "capitalnews.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-23T14:05:00.000Z",
+      "whyItMattersKo": "두 팀이 승리하며 나머지를 따돌리고 우승 경쟁 구도를 확실히 했습니다.",
+      "fanTakeKo": "우승 경쟁이 치열하네요, 파우메이라스 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnk4OU5KMjRScFpUVFBMQkd3Vmlob0cweElXM2ZoVkZMNzBkWi1QMWpVRFl",
+      "title": "Brasileirão: com Palmeiras líder, veja todos os campeões do 1º turno - band.com.br",
+      "summaryKo": "파우메이라스, 1라운드 챔피언 등극",
+      "excerpt": "Brasileirão: com Palmeiras líder, veja todos os campeões do 1º turno&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnk4OU5KMjRScFpUVFBMQkd3Vmlob0cweElXM2ZoVkZMNzBkWi1QMWpVRFlmRHU4dEpkRWdQU0d6emhyLWNXTDA1cU1CR1NuSmNoTFFFam42U21fWVhhS0VKQTY3X3A4TC1oanJlRlgzcU1sZG1vRXVDaExhdzRObk1XRHBvbHlfU1BuSURQZ2pkbmk5ZUhSMV9lejhTM3psaXU0SmtrQUxkUzk4akNXNA?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-23T13:55:45.000Z",
+      "whyItMattersKo": "시즌 전반을 선두로 마치며 후반기 우승 경쟁에서 유리한 고지를 점했습니다.",
+      "fanTakeKo": "전반기 1위, 후반기도 기대됩니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2R6SVpyOTNOR2lFSmFMX1FLUjhKb0lESURWQ3c1X0dYTHNYQzFMM2ZidTN",
+      "title": "Palmeiras aguarda decisão do Botafogo sobre Danilo - Tribuna do Agreste",
+      "summaryKo": "파우메이라스, 보타포구의 다닐루 영입 대기",
+      "excerpt": "Palmeiras aguarda decisão do Botafogo sobre Danilo&nbsp;&nbsp;Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2R6SVpyOTNOR2lFSmFMX1FLUjhKb0lESURWQ3c1X0dYTHNYQzFMM2ZidTNuaVBDbDVvVm51M0RwZ2NhZ3JUS2lfcGtrUkJkYU5FUDlvT1Zld2tuTWRGSnVUWG9rc3hseDJKdk1RXzNNRjlkOUhKZDE3U3p5U1hsVGlxeUw0dmxMRXFRRHc5X28yUVhrcy1NSTVMLUhxMU1SUjE1amMxSi1jX1l1ck8wZVVSbw?oc=5",
+      "source": "Tribuna do Agreste",
+      "language": "pt",
+      "publishedAt": "2026-07-23T13:50:00.000Z",
+      "whyItMattersKo": "보타포구의 결정에 따라 다닐루 영입이 결정되어 팀 전력 보강에 영향을 줍니다.",
+      "fanTakeKo": "다닐루 영입 기대해 봅니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlFJcjJMaUxUbUw0NXJobWdzNFFTUG9Nd3lKSFdEMW1ubVZtUThTb1lXaHY",
+      "title": "Maurício destaca seriedade do Palmeiras e define futuro: ‘Estou feliz aqui e quero continuar’ - Estadão",
+      "summaryKo": "마우리시우, 파우메이라스 잔류 의사 밝혀",
+      "excerpt": "Maurício destaca seriedade do Palmeiras e define futuro: ‘Estou feliz aqui e quero continuar’&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlFJcjJMaUxUbUw0NXJobWdzNFFTUG9Nd3lKSFdEMW1ubVZtUThTb1lXaHY4anNBVTlmM1RKN2RUT1A0ai1RQ1hnei1FZFpiN2NDdnhKTl9aSS1acFhrWV9HMmJHR05Fem5TSUI4eC15TGxOQkM5NUJSWkIzUDc5RFJRRzh1Ulhoc0xxSEJCbTNtSGVfUC15NHdxRmowbUxCY1RJa1VraHJJeTRMTlNkSlRQNUZ2Y3FLRUNXRS1wcWJxbGtxUExoaGFQTGJTVDRI0gHWAUFVX3lxTE5PQkVLMHRMM3piaWJUWmQ5WXp5NUs4aHNNR1BmYXdfZnpjN3gzb2JlWFBxeXJBOThkVDBPTk83blAxWWNacllIbGVFNGtIelc4VlNpTzJxTEc5bEN3TkkzRE41UmxPTjlXbXg2UVpPRkhFQkNqcDc2bnpZb052eVNVQVM1TFhDcDZvQUdPZkdwVVg0cm1QWnV0aXlTRWRldnhNb0VSSWV2cUt3Z2E2VTBDTEFaLXNaOFFNWnczQzF3dGhfcTlmYXM4SzQ1OGExampNUGI3TVE?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-23T13:49:03.000Z",
+      "whyItMattersKo": "주전 선수가 잔류를 원해 팀 분위기 안정과 전력 유지에 긍정적인 신호입니다.",
+      "fanTakeKo": "마우리시우 계속 봐서 좋아요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0pCRmRiOFJaT0taQ2hjQm43U0xCMjhONlF4dmprX29tWWdjb1BZdGo0M0V",
+      "title": "Visitantes dominam noite de Brasileirão Betano - CBF",
+      "summaryKo": "원정팀이 브라질레이렁 밤을 장악",
+      "excerpt": "Visitantes dominam noite de Brasileirão Betano&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0pCRmRiOFJaT0taQ2hjQm43U0xCMjhONlF4dmprX29tWWdjb1BZdGo0M0VfQWVjT21IbmVyeG9hXzBldGRkY29rSTk0ckRzQWhKWHFqenh1clB6WnNHbm54RThWUGRKNDNDUHpBR2VYMjJZVGlNUVVzUHdfc3lDR0I3UkxiYnBWaDJmYmV2WlA3OWlaWHRLbDBxX0ZJWUVkbVRGcmcxS0dkakdYcUdISmRkcnBEbFIya2VoZ0N6NGt5SjBhOUlyOA?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-07-23T13:36:00.000Z",
+      "whyItMattersKo": "이번 라운드는 원정팀들이 강세를 보여 리그 흐름이 변화하고 있습니다.",
+      "fanTakeKo": "원정 승리가 많으니 경기가 더 재밌네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0x0eXBpbkU5Z0w5SXBLbTdHVEFNOXRNU1V4V0lCN216QTEyZlJuYWRoTzZ",
+      "title": "Palmeiras encontrou 'antídoto' ao Flamengo? Arnaldo e Casagrande debatem - UOL",
+      "summaryKo": "파우메이라스, 플라멩구 상대로 해법 찾았나?",
+      "excerpt": "Palmeiras encontrou 'antídoto' ao Flamengo? Arnaldo e Casagrande debatem&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0x0eXBpbkU5Z0w5SXBLbTdHVEFNOXRNU1V4V0lCN216QTEyZlJuYWRoTzZoUWFydDF1OWJoMW9LSzNBcThLYURMcWpHalFoY2RLZFVBUEYwRnBDLWtJc3dVbm9xdTd2alJmVjRJYTZzSjRfVWNLY3hhNXZYYXNpeEJOMUVxUjlkWDRBOGlaVnBJYms0SmVRUjBWbDhRbThjWEpVVHlpZnFNRzFKNXlWbkthRUttb29YOWRWcVdsMm13NHBKN0pTaDZuUDAzWjJzaUZJ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-23T13:23:20.000Z",
+      "whyItMattersKo": "강팀 플라멩구를 이기는 전술적 해법을 찾았는지는 향후 빅매치 승패에 큰 영향을 줍니다.",
+      "fanTakeKo": "플라멩구만 잘 잡으면 우승은 문제없죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHJlajNndTU4RHNYUHIzV29xczhBeGFmQXBqLXl4c0FKUzNjM3J5M1JvWW",
+      "title": "Flamengo goleia a Chapecoense e segue na cola do Palmeiras no Brasileirão - Terra",
+      "summaryKo": "플라멩구 대승, 파우메이라스 뒤바짝 추격",
+      "excerpt": "Flamengo goleia a Chapecoense e segue na cola do Palmeiras no Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHJlajNndTU4RHNYUHIzV29xczhBeGFmQXBqLXl4c0FKUzNjM3J5M1JvWWFZMlNGM01UOG0yd0xsbWJ6NndhYkNPbE9NUERlb3JYekRCZ3NXVnlDZVdWeHBmbE5rckZKNkxrTTlGMkZjdWxpN2plUDZBWHVfbnFrcVVNa1lyZ3d5TWVVcDZXWlNaamw1TlRlT1VEaC0wNmw3Qmc1aDFEd1JxOGNKODJ1OUxGWlRrck5YbTZGY1ozelMyMnJvcURTYWhsYWF6Yk9ydWZZdnF4SU5ScEgxYXdLZXg2NHZXd183WXVDMzNMNDBEY2RRSzhweQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:46:00.000Z",
+      "whyItMattersKo": "경쟁팀인 플라멩구가 승점을 챙기며 선두 파우메이라스와의 격차를 계속 좁혀왔습니다.",
+      "fanTakeKo": "플라멩구가 잘하니까 우리도 더 분발해야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTNLenZRVW0wSVJ5eFJXbTZPMHJTaG5rUlBXdEdWdm5pV2hPSzRkRUdqSV",
+      "title": "OPINIÃO: Palmeiras não tem mais rivais dentro de campo em São Paulo - ESPN Brasil",
+      "summaryKo": "상파울루 내 파우메이라스의 라이벌은 없다",
+      "excerpt": "OPINIÃO: Palmeiras não tem mais rivais dentro de campo em São Paulo&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTNLenZRVW0wSVJ5eFJXbTZPMHJTaG5rUlBXdEdWdm5pV2hPSzRkRUdqSVJpelFycHJEQW82VnhnRVNDVGJZcWM3LUNlcFNqcHpCVW5fQ0EwN3dXNko0MlgybEM1bEUtYzBlQlhKZ2hia2F0QjNRNWo1bjdxYklXVW9wRGRKcWVQRS1COWNJQmUwWGFhY3EzRktqNWN3UWpvQlMxTzdvR2lIV3RRMDc3WTdPVWk1QzlzZDlSdEdacUI?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:32:00.000Z",
+      "whyItMattersKo": "지역 내 경쟁 구도에서 압도적 우위를 점했다는 평가는 팀의 자신감을 높여줍니다.",
+      "fanTakeKo": "역시 우리가 상파울루 최강이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1lHOHA4ZjYyY2FNZV9sNnlIb1JFVE96WHNhdTZfOVhaMFRBRlBnRUloVD",
+      "title": "Brasileirão 2026: Flamengo aplica goleada, Palmeiras dispara na liderança e Athletico assume o terceiro lugar - Muita Informação",
+      "summaryKo": "파우메이라스 선두 질주, 플라멩구 대승",
+      "excerpt": "Brasileirão 2026: Flamengo aplica goleada, Palmeiras dispara na liderança e Athletico assume o terceiro lugar&nbsp;&nbsp;Muita Informação",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1lHOHA4ZjYyY2FNZV9sNnlIb1JFVE96WHNhdTZfOVhaMFRBRlBnRUloVDRzR280YWF0VU1MTE51T0NPRS1md0xOM1doQXRvUjN1ZTQ5bFdnMEJNUThMbnVxekwtaFVyWGZleWJmMmNvLVI5SEd6ZzRua1NQQjNnRDlCcmp2cGZoTTdDTmwtT2oxQVB5ZTV2blJ3eXJxSXZOcmI1eW9SaEJoLUFMU3ozbWV6YUZ1SkRJNFVLWVhvX0RtT1FhZm5adjBIaWxOTFc1ZGdqZ2laWE03OXdHX0UzQQ?oc=5",
+      "source": "Muita Informação",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:28:00.000Z",
+      "whyItMattersKo": "선두로 도약하며 우승 경쟁에서 주도권을 쥐는 중요한 고비를 넘겼습니다.",
+      "fanTakeKo": "선두 달리는 모습이 든든합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVDhsZ0JHZ25wSUFXMXNNUXNkaENnaG51XzZEVFhPdHMzZXVacHFtUHVwYT",
+      "title": "Palmeiras fecha primeiro turno com campanha histórica e abre vantagem na ponta - Terra",
+      "summaryKo": "파우메이라스, 전반기 역사적 성적에 선두 확보",
+      "excerpt": "Palmeiras fecha primeiro turno com campanha histórica e abre vantagem na ponta&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVDhsZ0JHZ25wSUFXMXNNUXNkaENnaG51XzZEVFhPdHMzZXVacHFtUHVwYTJOTmN3TmhWSUN6RTZmUnN2QTNPcXh6VlNoNDdlSVhTTzhDOFZsYmdqR0hmeVVNSnBaX1YxaTdZLXp0djJQNURUWklPZ2N5cVBRRlZwUndESWxGQ1ZrR1FqaWF0emUtaE4wemg5aEhzRzk5eFVCQ3VXQ0dFTm1GY2Z0MlZVeWZnS2ZpRjFScUM2aS1MLVh3TzVqTWhXek9TTWoyOVJtallTSHFIcGtFaEZKcllSSkhROEFFYWZxTlh4WkUzUFctcGt2XzItUGxSeEc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:22:00.000Z",
+      "whyItMattersKo": "전반기를 강하게 마무리하며 우승 경쟁에서 유리한 고지를 확실히 점했습니다.",
+      "fanTakeKo": "전반기 성적 정말 대박이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWtyLURZcDJ1VHVVMEpDREI2d1A5eEFpR3YwNU50SzhJT3FYLVd0dTZYNE",
+      "title": "Palmeiras vive 'Dia D' por Danilo e aguarda definição do Botafogo para fechar contratação - Terra",
+      "summaryKo": "파우메이라스, 다닐로 영입 위해 보타포구 기다려",
+      "excerpt": "Palmeiras vive 'Dia D' por Danilo e aguarda definição do Botafogo para fechar contratação&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWtyLURZcDJ1VHVVMEpDREI2d1A5eEFpR3YwNU50SzhJT3FYLVd0dTZYNEZ4VjVXcnczMlJnRVpXNm1MVjBsbHM4RVNmYkJYVF9hMmZUNEE5d2FyYlgwLWg1QlB6WW1wWnNkYmxyRkhHX0Nsb0tfVHBvRUh0djRLN2lFZkE4eWRMMG1zUXktUWJVYnREWDVSMDEweG9hYVl3U3d1Qzk3d0VnQ1ZCd3ZWdkw5MDdLRXNYdVVyU0otaGFzaUlDd2NMcXdfVGtGUVNBOExTMzl6eW9QeWl5bXBXLXUwNldOV1kzellldHE5T1VVbGRUZnRianp3VXFaeGFqUm5PZkt3?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:21:00.000Z",
+      "whyItMattersKo": "주전급 미드필더 영입이 성사되면 중원 경쟁력이 크게 강화될 수 있습니다.",
+      "fanTakeKo": "다닐로 영입 제발 부탁해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1NMYmFvR3VLbnJBaGZqOTFrU3VhclJqMXF5Mk1nT1dDSW1JVmg1dm9ZLW",
+      "title": "Palmeiras vence o Coritiba e segue isolado na liderança do Brasileirão - pnbonline.com.br",
+      "summaryKo": "파우메이라스, 코리치바 꺾고 브라질레이렁 단독 1위",
+      "excerpt": "Palmeiras vence o Coritiba e segue isolado na liderança do Brasileirão&nbsp;&nbsp;pnbonline.com.br",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1NMYmFvR3VLbnJBaGZqOTFrU3VhclJqMXF5Mk1nT1dDSW1JVmg1dm9ZLWc4SDA2ZG91TEtYZWpZc3FITkU4ZEVlZDRJcGJVX09IdVh1a3otajZaNk1PNllNdWFlbnRBaUthUWhRNWt2VnJCckhhbWd6bFNEVUVyekxWOXgtTXpfbVdvQW1rbmdETU92dGVub1A0TVE?oc=5",
+      "source": "pnbonline.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:14:00.000Z",
+      "whyItMattersKo": "승리로 추격을 따돌리며 리그 선두 자리를 단독으로 더욱 공고히 했습니다.",
+      "fanTakeKo": "단독 1위라니 너무 기뻐요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEpkNXV1UUREYVV1NGJQR3h0aXBJMkM4WThWQXFwTDJ6alFIQU9WT0IxUT",
+      "title": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio - UOL",
+      "summaryKo": "파우메이라스, 다닐로 이적 결정적 날... 선발 나오면 계약 불발",
+      "excerpt": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEpkNXV1UUREYVV1NGJQR3h0aXBJMkM4WThWQXFwTDJ6alFIQU9WT0IxUTliWG1iOHFsMVVsMHZnUWZpU0J0MDhPV2MwWkljcFhyb25YckRSTGRPczhGQzZaVDl2cTFJZkxZUmpSUzlJcURVazNYTVZ4TnNyS3FQRUREQThzdFR6cUo3SUdRbHp0QnlPQm04VVdWSW5yWUJ6M2w0cGJ6ek01V0V0SDVRZkhhbS05TVBHTGF5NFBoRllvZDJLcGJZbjhkTDdyV0Zqd0dwTXRR?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:11:55.000Z",
+      "whyItMattersKo": "선발 출전 여부가 이적 협상 결렬 여부를 가를 중요한 기준이 됩니다.",
+      "fanTakeKo": "다닐로 잡고 싶은데 상황이 참 복잡하네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDFualdnaTdOamdVMFJ4ZTV1R3ZQVjZrck1iZE1hMmYxOW8tR2c4ZkxMQk",
+      "title": "Palmeiras tem trio suspenso e soma sete desfalques para sequência do Brasileirão - LANCE!",
+      "summaryKo": "파우메이라스, 3명 출전 정지로 7명 결원 위기",
+      "excerpt": "Palmeiras tem trio suspenso e soma sete desfalques para sequência do Brasileirão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDFualdnaTdOamdVMFJ4ZTV1R3ZQVjZrck1iZE1hMmYxOW8tR2c4ZkxMQkZ4NnIzTXRjM1M5eUNmajE2NEpYX3BuN0VfSy1YLUNMRjZIa3MyVWU0UWx4Vkp5eVVHYnVrN3VyUGlsQ3cySGlIZUdkeDFmQkNPbEhLQ3REUDEzRUVLWjl6SjV6YzJUUVlqb1hDWGpLT2NyWllVaHVxMzlIZy05bkxyV3o2cnNFM1F6S1hXZV9YMQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:09:00.000Z",
+      "whyItMattersKo": "주전들의 누적 결장으로 다음 경기 선수 구성과 승리에 큰 변수가 생겼습니다.",
+      "fanTakeKo": "부상자 너무 많아 걱정이에요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVlLUFd5ZDlOZ2RUN3p2STBaVE5wZUFaV21VSjZIX3VJM1dIM3ZwQ0JwXz",
+      "title": "Palmeiras e Flamengo ampliam vantagem sobre rivais na briga pelo primeiro penta dos pontos corridos - Folha de S.Paulo",
+      "summaryKo": "Palmeiras와 Flamengo는 첫 번째 펜타 러닝 포인트인 Folha de S.Paulo를 위해 라이벌보다 우위를 확장합니다.",
+      "excerpt": "Palmeiras e Flamengo ampliam vantagem sobre rivais na briga pelo primeiro penta dos pontos corridos&nbsp;&nbsp;Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVlLUFd5ZDlOZ2RUN3p2STBaVE5wZUFaV21VSjZIX3VJM1dIM3ZwQ0JwXzlrZkYxdmt1QmRXYkdVY1ljNnpjU0ZhZFJsZm5FR0pGdWZ5YTNWWUJNdzU1UlY3VE0wTFlLQVp2M2NpeGs3MTd1V2NGWF9SZkt6ejhGc0Zxc19iRzVOVkJqcDk5Y0tDWGpLWWZlT2lSb0x3VmV4dlZpZlA1RmRtcFJXTEVqWE5ZQmtHLTAtaWxHV2VERzZHUllpUEItdzVSQmlLWWlPT2VnajlkVEZGZWlLRnFtT2dNaDctdw?oc=5",
+      "source": "Folha de S.Paulo",
+      "language": "pt",
+      "publishedAt": "2026-07-23T12:06:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEZQWDgxNHR1eWRscnI2emVGcGd2RzdKb2VJRXVpLTk1OWNudk1TODd4V2",
+      "title": "BRASILEIRÃO: DISPUTA PELA LIDERANÇA E CONTRA O Z-4 FICA AINDA MAIS ACIRRADA - - Bahia Economica",
+      "summaryKo": "브라질레이랑: 리더십과 Z-4에 대한 분쟁이 더욱 격렬해짐 - - 바이아 이코노미카",
+      "excerpt": "BRASILEIRÃO: DISPUTA PELA LIDERANÇA E CONTRA O Z-4 FICA AINDA MAIS ACIRRADA&nbsp;&nbsp;- Bahia Economica",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEZQWDgxNHR1eWRscnI2emVGcGd2RzdKb2VJRXVpLTk1OWNudk1TODd4V2tGZE9DQkRBT0ZIcVQ4ajdmQXU3MGNrZnNvNWRWbkdPQXhDOHBrSGF6SWxQZ1FOSVY1MjJhd2lFWkYtR0k5dWpiWXdadnJ3dGVRcExWdHVYUkM1a1FSbnUtb1BRaHJEQ1FWVG1udHpndWRveVhaWFhUdFpwS1lBSmw5QUx3bkhRd2tSSjNnZVhj?oc=5",
+      "source": "- Bahia Economica",
+      "language": "pt",
+      "publishedAt": "2026-07-23T11:56:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnU1dHRkd1ZUb1NlWHRSOVR4amZ6SEpzMTI2YkZPX2FuRFpXVFZsaTVNUnp",
       "title": "Tabela do Brasileirão 2026 atualizada: Palmeiras lidera com 44 pontos - ncnews.com.br",
@@ -32,19 +348,17 @@
       ]
     },
     {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHJlajNndTU4RHNYUHIzV29xczhBeGFmQXBqLXl4c0FKUzNjM3J5M1JvWW",
-      "title": "Flamengo goleia a Chapecoense e segue na cola do Palmeiras no Brasileirão - Terra",
-      "summaryKo": "플라멩구 대승, 파우메이라스 뒤바짝 추격",
-      "excerpt": "Flamengo goleia a Chapecoense e segue na cola do Palmeiras no Brasileirão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHJlajNndTU4RHNYUHIzV29xczhBeGFmQXBqLXl4c0FKUzNjM3J5M1JvWWFZMlNGM01UOG0yd0xsbWJ6NndhYkNPbE9NUERlb3JYekRCZ3NXVnlDZVdWeHBmbE5rckZKNkxrTTlGMkZjdWxpN2plUDZBWHVfbnFrcVVNa1lyZ3d5TWVVcDZXWlNaamw1TlRlT1VEaC0wNmw3Qmc1aDFEd1JxOGNKODJ1OUxGWlRrck5YbTZGY1ozelMyMnJvcURTYWhsYWF6Yk9ydWZZdnF4SU5ScEgxYXdLZXg2NHZXd183WXVDMzNMNDBEY2RRSzhweQ?oc=5",
-      "source": "Terra",
+      "id": "gnews-22-https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVllZnRTclU5YmNTbmFLNGplaXhXanBVbWFlNmJDNS1FVHc0b0VOeVhQY1",
+      "title": "Flamengo goleia, Palmeiras vence e amplia vantagem na liderança - Hojemais.com.br",
+      "summaryKo": "플라멩고 골레이아, 팔메이라스 우승 및 리더십 우위 확대 - Hojemais.com.br",
+      "excerpt": "Flamengo goleia, Palmeiras vence e amplia vantagem na liderança&nbsp;&nbsp;Hojemais.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVllZnRTclU5YmNTbmFLNGplaXhXanBVbWFlNmJDNS1FVHc0b0VOeVhQY1JNQnlGbmtVWXptVG15Z2JoNWlTa2dPTkZfQnhEbE9tNElPcTlUX3poZ2hDMXNmQ2FsQTZ3amJDRkVEMjJZcmdwX0xLRldxRUZTQlBpM3UyLTF6ekJRRXF2Ti0wMEo5cDhNVnBqemh2S28zcGU1NHEwdlkwLVVjSG9MdXZtMTF4a2RXZ0lzVUE?oc=5",
+      "source": "Hojemais.com.br",
       "language": "pt",
-      "publishedAt": "2026-07-23T11:29:00.000Z",
-      "whyItMattersKo": "경쟁팀인 플라멩구가 승점을 챙기며 선두 파우메이라스와의 격차를 계속 좁혀왔습니다.",
-      "fanTakeKo": "플라멩구가 잘하니까 우리도 더 분발해야죠.",
+      "publishedAt": "2026-07-23T11:33:00.000Z",
       "tags": [
         "뉴스",
-        "AI요약"
+        "자동번역"
       ]
     },
     {
@@ -81,7 +395,7 @@
       "summaryKo": "파우메이라스, 역대 최다 승점으로 브라질레이렁 전반기 마감",
       "excerpt": "Palmeiras fecha primeiro turno do Brasileirão com melhor campanha da sua história nos pontos corridos&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbFZmVVFJQTRJZ0R3WlhvNkVweF91RjdwNjZQX056dTBpWThldXBxY1pJNVJkOGJma2hiSkhpTmNDb19sb19Zcm03YnRvMFNWOG5EZU1LX21UVDVxSWNtU1luNzdZQ3hfNGV0b1J0alotcU1vdjBIalNSZERMa3k4UWlDQWtwZWtRZHVBMEZYT2dwNExLZEVvbUFMbTFDS2Rmc2RRUUN1RTFfZmNkcW9UX0FRVFNVbHBvQVZCTWFja0JGX2lXNVVVTWxzVklUVHVCdHNIUXVSX3JCc1V0Z0hEM1JzZWlieFZLMzk4S0FaZkNYcjZuanN1R2lFRTZZc3l60gGPAkFVX3lxTE1xSUFDYkxMTzl2enpORmNJa0pmMks4VGhJZ3VxcERjRUNnNDQ4NlZLWllMVlFKR1NmdmQ3OUdGTER6UzlOTlhIX2RGNy05dXVQRlk3U3FJUFpCbVNHaDhOaUJMZlNhbDFVY2hiZUF1Y1FadTV6eElQdEtvM0ZOVS15SGFFU0lnUGh6MGhhbkN6U1ZIc2c2Vkt1NHVudVFobVBIdENkS1A3cjZBMVhmU3M5bGk4d2JaQW1EcllUNE96NWhEMFlxYlVmSDBpbDF1SHB2OHI0T3RBU1Y2dHNoa3hMMjRxSXphSGVnWFZjQk5adUNqYmx0UDZ1RGhjRjRRSHNyaE5yVTRZcEJkNEE1RW8?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-23T11:00:21.000Z",
       "whyItMattersKo": "역대급 전반기 성적으로 우승을 향해 강력한 기반을 다졌습니다.",
@@ -214,22 +528,6 @@
       "publishedAt": "2026-07-23T09:45:00.000Z",
       "whyItMattersKo": "주전 다닐로의 미래가 결정될 시기이며, 보타포구의 결과에 따라 순위 변동이 있을 수 있습니다.",
       "fanTakeKo": "다닐로는 꼭 남아줘야 하는데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEpkNXV1UUREYVV1NGJQR3h0aXBJMkM4WThWQXFwTDJ6alFIQU9WT0IxUT",
-      "title": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio - UOL",
-      "summaryKo": "파우메이라스, 다닐로 이적 결정적 날... 선발 나오면 계약 불발",
-      "excerpt": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEpkNXV1UUREYVV1NGJQR3h0aXBJMkM4WThWQXFwTDJ6alFIQU9WT0IxUTliWG1iOHFsMVVsMHZnUWZpU0J0MDhPV2MwWkljcFhyb25YckRSTGRPczhGQzZaVDl2cTFJZkxZUmpSUzlJcURVazNYTVZ4TnNyS3FQRUREQThzdFR6cUo3SUdRbHp0QnlPQm04VVdWSW5yWUJ6M2w0cGJ6ek01V0V0SDVRZkhhbS05TVBHTGF5NFBoRllvZDJLcGJZbjhkTDdyV0Zqd0dwTXRR?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-23T09:22:41.000Z",
-      "whyItMattersKo": "선발 출전 여부가 이적 협상 결렬 여부를 가를 중요한 기준이 됩니다.",
-      "fanTakeKo": "다닐로 잡고 싶은데 상황이 참 복잡하네요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -634,306 +932,6 @@
       "publishedAt": "2026-07-23T02:39:00.000Z",
       "whyItMattersKo": "주요 라이벌 플라멩구가 승리하며 선두 파우메이라스를 바짝 추격했습니다.",
       "fanTakeKo": "아우, 플라멩구가 쫓아오니 긴장되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdzgyTUtZT0VXVVlfeTBmczFvSFFuUTU3cGY0bU1TMzFzWEtGNzNJN3pJOU",
-      "title": "Palmeiras: João Martins detona gramados do futebol brasileiro - Terra",
-      "summaryKo": "파우메이라스 선수, 브라질 리그 구장 비판",
-      "excerpt": "Palmeiras: João Martins detona gramados do futebol brasileiro&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdzgyTUtZT0VXVVlfeTBmczFvSFFuUTU3cGY0bU1TMzFzWEtGNzNJN3pJOUI5V0JiRHlEOWl6ZjdsbXVYekhkMTFWX2F4TXBwdVcxRjdoOTIyLWdVeDlRTW5pUGEzdEd0YnBPZkt3ZGdTcU5CdXdaS0R0aXJ6eDMyT1RmSTB0Um9jUE1HQzdvRHBpMFlfa0pkdTNRYzZ6V0RSTzdSQ0RsMWFtV1hhS3llOUhfbmNkNG95NUZFN21YMzA1Ynp1NWI4aXQyLTE0Y240cERTRmtUTXlmM1hGY28wRGQzU0s?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:35:00.000Z",
-      "whyItMattersKo": "구장 상태가 좋지 않아 선수들의 부상 위험이 높아지고 팀 플레이 질도 떨어질 수 있습니다.",
-      "fanTakeKo": "맞아, 구장 상태 정말 개선이 필요하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMitgFBVV95cUxQUE9xVmh6WkF3Z1RBQk1oNXFOR3RZSnpRUU82aWNibnFIaGFCREdoYk1ZUj",
-      "title": "Flamengo goleia a Chapecoense e segue na caça ao líder do Brasileirão - band.com.br",
-      "summaryKo": "플라멩구, 샤페코엔세 격파하고 선두 사냥",
-      "excerpt": "Flamengo goleia a Chapecoense e segue na caça ao líder do Brasileirão&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUE9xVmh6WkF3Z1RBQk1oNXFOR3RZSnpRUU82aWNibnFIaGFCREdoYk1ZUjZDUENYX3ZnYkt4c1ZmNmRobTQybHkxX2lyNWNpT0lIaDdLY1psTjdsbk5ZLWJwQ2hkNFpXdlBsa1BXNER6RjFBODBUUnk5UVNwTU5oRnlhWVhJZGVoOVRERGtIYmZzRlczUkY4RGxPQlJHQXlHLVViUmpkMkxQcHpZMkRLWFNjaEFVQQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:25:03.000Z",
-      "whyItMattersKo": "브라질레이렁 선두 경쟁이 치열해지는 가운데, 플라멩구가 파우메이라스를 계속 압박하고 있습니다.",
-      "fanTakeKo": "으이구, 격차가 계속 줄어드니 불안하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMivgFBVV95cUxPak9GWnRzT1JRamVzbjl2ODlwQXp0QU5JYjZOclI5dzJNODgzV2dhV1lhaF",
-      "title": "Pedro dá show, Flamengo goleia Chapecoense e não deixa Palmeiras disparar - UOL",
-      "summaryKo": "플라멩구 대승, 파우메이라스와 격차 벌리지 못해",
-      "excerpt": "Pedro dá show, Flamengo goleia Chapecoense e não deixa Palmeiras disparar&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPak9GWnRzT1JRamVzbjl2ODlwQXp0QU5JYjZOclI5dzJNODgzV2dhV1lhaFNXSUc2SF9NeDR4WVRHZGxKdnE2WUVyUUFPRXNHa3psZEZ1alBFdDZjZTZRSFZ4bHVkRllDenlKWFRNclM4d3YySjhGRzRUV1lxV3ZSa0pneER0RFBBNXdhNXk0N3psd1ZSekdKXy04a2xJLTFyUWZRUl9ZVDZuMkFIZkR4Z09ZOHhTNHpDRzNzUXVn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:24:08.000Z",
-      "whyItMattersKo": "경쟁팀이 승리를 챙기며 선두 파우메이라스를 계속 압박하고 있습니다.",
-      "fanTakeKo": "페드로 진짜 무섭네, 경쟁 더 치열해질 듯.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzdPMDZNcDlLWVdaTHRacGVTVWxwU2dqSkZtZHRHdWFFdVV3dnhlWnlkSU",
-      "title": "Auxiliar de Abel exalta Maurício, mas é direto sobre possível saída do meia: 'O Palmeiras é uma empresa...' - ESPN Brasil",
-      "summaryKo": "코치진, 마우리시오 칭찬…이적설에선 사무적 발언",
-      "excerpt": "Auxiliar de Abel exalta Maurício, mas é direto sobre possível saída do meia: 'O Palmeiras é uma empresa...'&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzdPMDZNcDlLWVdaTHRacGVTVWxwU2dqSkZtZHRHdWFFdVV3dnhlWnlkSUUwTnYyZndJYUVYZHcwYXFPVC1ySjJIYU5iSlREdENfV1I5aWR4R1BjaWJ1R29jMHZkT01mNVhjOEZVcHN3WXhIVVVqQk9NYlItN0JpWE51N3gyam90LU9Mck9jc0poUXh5QzlNLWtqZUlKSm5ZeDNWR1VNbTVUU3pONzlSWWFqdHEwOE1yMkVrSjRkMGxjUWFHRTA4YUduN3NHb3p0cEg4bndzWGJZb3NuSzUwUk9laDFfdw?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:22:00.000Z",
-      "whyItMattersKo": "주축 미드필더의 이적설이 나오는 가운데 팀 내부 분위기가 주목됩니다.",
-      "fanTakeKo": "가기 싫다! 그래도 프로구단이라 어쩔 수 없나.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-20-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc0VrY1lKU0FHbkN6dFRwQWk5TmREWlJLc3JodUxZSkVkM3BEMmIxWXl2TE",
-      "title": "Coritiba 1x3 Palmeiras: assista aos gols e melhores momentos do jogo pela Série A - GE",
-      "summaryKo": "코리치바전 3-1 승리, 파우메이라스 하이라이트 공개",
-      "excerpt": "Coritiba 1x3 Palmeiras: assista aos gols e melhores momentos do jogo pela Série A&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc0VrY1lKU0FHbkN6dFRwQWk5TmREWlJLc3JodUxZSkVkM3BEMmIxWXl2TEEzcEN1d084MmVnY0U2eGtRTUQ4OGtnTHRqemp3TTVfVVhMUlJtZjA0QWNNRXhIaWU4TklRS0hyNVBEdEJhcnA4TldkUVNjcHU5QWp2T0M2ZzZZZUVUcjdvOHFTYjBOOXZfMkEyUGpyVEZ3T1p0MnVTTDJORTNGbGVQTTF6N1RHQVN4c25nM2JwRzY1VlZtaFhpMWptNXl5Z0NuNFdsYjcyREdtaHhzYVpocjFTS1Z1cDlRUkFTa1U3SFdR0gH8AUFVX3lxTE9PZ3NUa1o3YkRsZ2JYa19nVW91ZjlHVEJHVzl6T195Wi1pNTRKZHR6cExiTzNfd2J1UXlrZDJFVjZoZUFEblpURnk2ZXMwVGRSdEhnM0NaOXlTLUoyQUNER2lQd2lDVTlkTTBxSjB5cmduSTBldGNvTDBVaFBpVGRIWVVtcnBtMThsanhEMUhjX1hUREJIZHNubUVPbW9zS2VrM1hWcHJadktPU2ZuZmlYR0pGaFktWUlyS2NuZUE4NVFBb0hGV2M4aGFSZmdWSjNZNC1oN05OVWdicGxEdHY3MGtULTM3VTBEUm5TenFBTzFRQjY4QnFtOGF5Ug?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:15:14.000Z",
-      "whyItMattersKo": "경기 하이라이트를 통해 팀의 득점 장면과 경기력을 확인할 수 있습니다.",
-      "fanTakeKo": "골 장면 빨리 보고 싶다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdk5iMnVOWlVoWUNOekNiODhaUURueDZ0Z0RBRGotNzFmVm54dkJsZnJfTE",
-      "title": "Fica ou sai? Veja o que Maurício disse sobre o futuro no Palmeiras - band.com.br",
-      "summaryKo": "마우리시우, 파우메이라스 잔류 의사 밝혔다",
-      "excerpt": "Fica ou sai? Veja o que Maurício disse sobre o futuro no Palmeiras&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdk5iMnVOWlVoWUNOekNiODhaUURueDZ0Z0RBRGotNzFmVm54dkJsZnJfTE1ZQ1hjNm5NOE9sVDYtek9nRGNNSkVFMWxMT0VpV3FXb2xvNUxiSklKNDBpSkNqYjBtNDZiYkt6aWhLSFV5Smg2eF9DTmdOWFE4a1l3eERPalctUkItYWs5Z2pJLUtPNTNiUFdHNjhITUlIQ1JjTUx3YTF4N3JyYy1leEFubGhKczdfeHBhMjFtLVB2TUNuQ0plUnBDWUZ5ekhDRDVIcmc?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:10:16.000Z",
-      "whyItMattersKo": "주전 선수의 잔류는 팀 수비력과 분위기 유지에 중요한 역할을 합니다.",
-      "fanTakeKo": "마우리시우는 꼭 남았으면 좋겠어요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTJ1djhmaEY4OVVETEFWcm0yb2RYZE9YWWMtTWhJcW5IODRSVjhsZzg1dn",
-      "title": "Auxiliar do Palmeiras desconversa sobre interesse em Danilo: \"Apenas suposição\" - Terra",
-      "summaryKo": "코치진, 다닐로 영입 관련 질문에 회피",
-      "excerpt": "Auxiliar do Palmeiras desconversa sobre interesse em Danilo: \"Apenas suposição\"&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTJ1djhmaEY4OVVETEFWcm0yb2RYZE9YWWMtTWhJcW5IODRSVjhsZzg1dnB4aDNlYTFrSTY4R2pvSGZySlllTnBiQThialpxYlZnMndyODZIanZ3MFlZU18yWVNtNmRha2JQNWRBRG9mVTlmMjAwTHFKZ1lHTEc1Nk1sckJSb3p5S29XcWRRdGRMbkJiN051WS00Snc2UktOWGlsb19XTm1Vd19sUUZuTkE0QXh3MU9vNDBVWkVheFhGaUlDVUJGNklQTjRsSmtudTRlV1BxNmR2MHBWWi1PYW5qNGFsZFVzc1hjNW1zeVZwV2ZvN1FfQg?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-23T02:07:00.000Z",
-      "whyItMattersKo": "영입 시장에서의 공격수 보강 설은 팀 전력 보강 계획에 관심을 모읍니다.",
-      "fanTakeKo": "다닐로 오면 좋겠지만 루머인가요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnpCTnRqRU5sQ2Jxc0ZodjAtVFA5d0xHMEJ6YXQzQzI4aWlDblhEb2FfX2",
-      "title": "Auxiliar do Palmeiras fala sobre desejo de contratar Danilo, do Botafogo - Rádio Itatiaia",
-      "summaryKo": "코치진, 보타포구 다닐로 영입 희망 언급",
-      "excerpt": "Auxiliar do Palmeiras fala sobre desejo de contratar Danilo, do Botafogo&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnpCTnRqRU5sQ2Jxc0ZodjAtVFA5d0xHMEJ6YXQzQzI4aWlDblhEb2FfX2lPNDU0ZjFTWlJTQlNZZmdCNmU4SVBzT0pqVFJaclptQXk4NDNjWmpEb3kzZXFTRGNKazQ0T1lZY0NQODh6LW5BclU4bUVWVmV6ZjRjUU0ydTFUX1M1dW52M2E1cDk3V2dndXQ3ZTBYZkRYNDZZTHlPOFoybmw0Z0dfdlItdFlXeW5jRUF5ZmdyY2IzZ3N4dHZCcm5CV3lmVDM5QV84N1dEMk92ZXlyRjVMQlBzSjU4SXpFT3F6UkswWFEtaGoxVm8?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:51:45.000Z",
-      "whyItMattersKo": "보타포구의 주력 선수 영입은 팀 중원 강화에 큰 도움이 될 수 있습니다.",
-      "fanTakeKo": "다닐로면 정말 좋겠는데요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWNSbWJBSEtFU01HRGd4WGw3UmxvUHhhUVB3Y0FsVV9MZklZR0NPOF9UVV",
-      "title": "Palmeiras fecha primeiro turno com 44 pontos e entra no ranking das melhores campanhas do Brasileirão - Goal.com",
-      "summaryKo": "파우메이라스, 전반기 44점으로 역대급 시즌",
-      "excerpt": "Palmeiras fecha primeiro turno com 44 pontos e entra no ranking das melhores campanhas do Brasileirão&nbsp;&nbsp;Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWNSbWJBSEtFU01HRGd4WGw3UmxvUHhhUVB3Y0FsVV9MZklZR0NPOF9UVVZNcFI1QTBmZjZMRy0zeWxRa0pRWGJ2VGgxMHd2VFRWWmlhOTlMWFdqMGJ6X1Z5RFFWRWVlTFlXQmljM0tJQk5FekFhY3lMNGNRTUc4bDdBZkJNTXBRSkw2eWhkX3A4eFBZVTJadVNqSU9haUVQYzRUZW9wajROY2xta3lDY1lwTmU4aHdPekhuUnJLdEg4YXBpYVFWTVZkMTg2dw?oc=5",
-      "source": "Goal.com",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:43:45.000Z",
-      "whyItMattersKo": "전반기 44점이라는 성적은 리그 우승 경쟁에서 매우 유리한 고지를 점하게 합니다.",
-      "fanTakeKo": "역대급 성적, 정말 대단해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-25-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZGlTTExicDV4UUVid3NOMHV1Wm9FajlORXYtWndxX1QyY2VsSjk2QVdLQT",
-      "title": "Auxiliar do Palmeiras elogia Barboza e comenta interesse em Danilo: \"Conhecemos muito bem\" - GE",
-      "summaryKo": "코치진, 바르보자 칭찬하며 다닐로 영입 언급",
-      "excerpt": "Auxiliar do Palmeiras elogia Barboza e comenta interesse em Danilo: \"Conhecemos muito bem\"&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZGlTTExicDV4UUVid3NOMHV1Wm9FajlORXYtWndxX1QyY2VsSjk2QVdLQTRObnZidkx5OUI5TWljVFM0SGhZRHJGdlR1cTZ3aGlOTG41OC0xbEZfSnNybDZGVmhGckFSVThtMTRsM1ZyTTJfQzdjN3R5Qm9NZFVSQnM4d2NIdnBXQlc0T2lwRTRLaWJaY0kzRW9HNjJDbkpndkp5WDNPX3JCVHl0dEd4eGVCZGlqbWU4VWxpbm1VQzVxbWtYbk5LT2NPMG1BMHhJWW9EVUd6amR4YUZoSVV3YURaT2Q4dkNwdXZibVNR0gH8AUFVX3lxTFBtaFRIdjU0bGN0dFFDa2puQktBRl92clNOZWI1eFB3Q29LNW8wWV9Tc1J0NnlCcDVIUDF0bXJndkhmeW11Y09SaWx1d0VPVExYcC1mY0o5d2drLVlBeDR0NXBJTHNzTF9PaE10VTd0em9nVVotd01HZFNVcmJsbUdOU2lfSzNUd0hMbzgxNGktUG1vdXhiR2QzV1E2Q0tlT3FPQ1VYanhuRUpTbHA4Q2oyQ0VUd2x4Y1NuS2ktTEZQN1VueHZKakQ0cTZsUUpOQjJmLVQ1TDBMOVpJNk9GeDNtMGlEUG9USVBNcEdyempJSGdBWXZTTjlVVTFsVA?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:41:59.000Z",
-      "whyItMattersKo": "바르보자의 기량을 인정하며 다닐로 영입 의지를 보여 팀 전력 보강에 힘쓰고 있습니다.",
-      "fanTakeKo": "다닐로 영입, 진짜 되길 바라요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGQwellhVkJqOGlnXzR2ZU1Hck1lTHV0VGFNZmNzS3kzRHdzdmhWdWRJSH",
-      "title": "Auxiliar de Abel comenta negociações do Palmeiras por Danilo e defende elenco: 'Melhores são nossos' - LANCE!",
-      "summaryKo": "코치진, 다닐로 영입 언급과 현 선수들 옹호",
-      "excerpt": "Auxiliar de Abel comenta negociações do Palmeiras por Danilo e defende elenco: 'Melhores são nossos'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGQwellhVkJqOGlnXzR2ZU1Hck1lTHV0VGFNZmNzS3kzRHdzdmhWdWRJSHZEaEdhZGEzZkNxdmhpOTI0VkFzQkVKT2tmb21pbzI4cFcweEI4SHFuVkMtZjFWdG9ZcmVmSndKcE5ZcDVLbElJUGhnSENiVUFpd1JoV0tiVjRmT0FYSHpmdk9GQ3U3N254SXJ0aUt4bGpCWmxKR2M0c3JWMnU1UERXNjVOWVZ0Rk90S2Z3a3R5T1lZUHl3VnNtRGI1ZEFhTzFibnUyS1pr?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:39:06.000Z",
-      "whyItMattersKo": "영입설 속에서도 현 선수들에 대한 자신감을 보여 팀 분위기를 안정시키는 모습입니다.",
-      "fanTakeKo": "현 선수 믿어주는 모습이 좋아요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2tUa3E0ZnFiRWo2OU5LVzBGc0p5X0VGVUtUQmpjd3lPa25hQTZHRHMwV0",
-      "title": "Abel escala Palmeiras com 3 zagueiros e Barboza contra Coritiba; veja time - UOL",
-      "summaryKo": "Abel은 Coritiba를 상대로 3명의 수비수 및 Barboza와 함께 Palmeiras를 격상시킵니다. 팀 참조 - UOL",
-      "excerpt": "Abel escala Palmeiras com 3 zagueiros e Barboza contra Coritiba; veja time&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2tUa3E0ZnFiRWo2OU5LVzBGc0p5X0VGVUtUQmpjd3lPa25hQTZHRHMwV0d2WXRsRWJhb2lnRThCcnZXUktobTdpQnRmT1dyZjhnUEhVT3I0NGQ5Y2d2UzQ5cGYzSmxoM0RVUmhUTnRnbkRQMjl3Z1VUMTlRdktFbTlPOHBvNGtuUmM4cnNhYWEzei1XMGNsNUxlam5GZDBwQVZzTWowMERsZTBNZ25Zdm83bjhQSUVzc3B6dTdQUm9Zbk02dkVmdE5oNkdtWUgxYkQzaWtEeXU4eGlaZUE?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:38:21.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0dPNGxGSnJOMXctbXJDZXQxQlJBSFhzQTJjd0ZKMC1aMHNrZnFvYW5vaU1",
-      "title": "Veja gols em Coritiba x Palmeiras: Maurício marca duas vezes - LANCE!",
-      "summaryKo": "코리치바 x 파우메이라스에서 목표 보기: 모리셔스는 두 번 득점합니다 - 이동!",
-      "excerpt": "Veja gols em Coritiba x Palmeiras: Maurício marca duas vezes&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0dPNGxGSnJOMXctbXJDZXQxQlJBSFhzQTJjd0ZKMC1aMHNrZnFvYW5vaU1fTU1YUHhBVGY2c2tmcnlsc2RDQjJ2WFN6eVZ0Ylg3N2o4NmYxY3MyOEhGaWRFNXN1SUV1cHBTSlM0ZjFlY2huZlU1X2haZ0FMTmdCSnAxbHZneTMwVGI4WmNMOXdmVXhWZVFHUURtY0N2QlRQNnNxSGpXQno?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:38:02.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS2g5LWV6ZE9iZEVzQ2sydExMeFZDdEh0MGRFRm1lUFJlRU94bDJKOEpsRU",
-      "title": "Mais líder do que nunca! 🔥 Em noite paraguaia, Palmeiras vence o Coritiba por 3x1 no Couto Pereira, com gols de Maurício (2) e Ramon Sosa. Com o resultado, o Verdão chega aos 44 pontos e amplia a vantagem na liderança para 10 pontos em relação ao - instagram.com",
-      "summaryKo": "파우메이라스 3-1 승, 10점 차 선두로 질주",
-      "excerpt": "Mais líder do que nunca! 🔥 Em noite paraguaia, Palmeiras vence o Coritiba por 3x1 no Couto Pereira, com gols de Maurício (2) e Ramon Sosa. Com o resultado, o Verdão chega aos 44 pontos e amplia a vantagem na liderança para 10 pontos em rel",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS2g5LWV6ZE9iZEVzQ2sydExMeFZDdEh0MGRFRm1lUFJlRU94bDJKOEpsRUh4Zl9TcjZIa3pQMEdPNl9JM2FVS2JEN0xiSDVYYmc?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:36:27.000Z",
-      "whyItMattersKo": "3-1 승리로 2위와 10점 차를 벌려 우승을 향해 독주 체제를 굳혔습니다.",
-      "fanTakeKo": "10점 차라니, 이제 우승 확정 기다리는 기분이에요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilgJBVV95cUxQeUh6ZVdtaXUwS0tHOWVNM21Cbk1ySTRBcG9IUHA4UEM2VGoxN1lfUlE1ZWF",
-      "title": "Maurício fala sobre futuro no Palmeiras após sondagens: 'Quero continuar' - UOL",
-      "summaryKo": "마우리시우, 이적설 속 파우메이라스 잔류 의사 밝혀",
-      "excerpt": "Maurício fala sobre futuro no Palmeiras após sondagens: 'Quero continuar'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeUh6ZVdtaXUwS0tHOWVNM21Cbk1ySTRBcG9IUHA4UEM2VGoxN1lfUlE1ZWFxM1c0UVN6UmVGMTRhaUdZaGRPNzFjWnZBM2NRSHFhdFRXcllpMFZlVFh2QmxRN1VnNFdheno2eG93ejl5eDNvbmtUa0pWM0xzYWFCQUJGQy0zMHQzb1VpOWVUT1BCdHF3YVhRV1BiNEtycDhjdEh0SkNkOS03YXl3bWlNXzhvQ2lfM2ZXWGdvdEFoTk5fcXRRNXdRVkR3YWY4ek04RUxlYXdfUmRBZUY4Z29xM2xUZkx3QnhaRzRFUWZENHNnVFZ0RWRZSVYyQV9iXzZCeS10VThSSkk2QU9ja3JkWmZwMC1Idw?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-23T01:04:34.000Z",
-      "whyItMattersKo": "주전 선수의 잔류 의사는 팀 전력 유지와 분위기 안정에 중요한 영향을 줍니다.",
-      "fanTakeKo": "마우리시우는 꼭 남겨야 해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlF4THB2OUNCNFhPSFZ2dUN1NlgwOG5VRDhhZmJZZ1o5WXpEUGU4SldIM0p",
-      "title": "Palmeiras atropela Coritiba fora de casa e mantém liderança do Brasileirão com vitória por 3 a 1 - ncnews.com.br",
-      "summaryKo": "파우메이라스, 코리치바 원정 3-1 승리로 선두 유지",
-      "excerpt": "Palmeiras atropela Coritiba fora de casa e mantém liderança do Brasileirão com vitória por 3 a 1&nbsp;&nbsp;ncnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlF4THB2OUNCNFhPSFZ2dUN1NlgwOG5VRDhhZmJZZ1o5WXpEUGU4SldIM0piSk5CWF9lMzBKcXhHNzR0V1hxYVI0eFVGa0Y3elNrTGhFd1lMYl9XelRiUnF1aXJKRnlFZXhsMGdZYXE2eWxWSVROcTRCeXBaQnRWdDRPTjZ3NmFaN0ozV1d5aUNsTlp0QUI3QjZNUVRtUWxTR3VWZHgxdjAxYkF1amduVmNaRWozeHRyNGNWa09IVmtFTHBycFByX053?oc=5",
-      "source": "ncnews.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-23T00:46:57.000Z",
-      "whyItMattersKo": "원정 승리로 승점 차이를 벌려 브라질레이렁 선두 경쟁에서 우위를 점했습니다.",
-      "fanTakeKo": "선두 계속 지켜서 너무 좋아요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiigJBVV95cUxOUjRYZm54ajNWRjRRQjFqamZfbW42OU8tWURiLXB1Y3lCNzNMa21XOUJFek5",
-      "title": "Maurício e Sosa voltam inspirados da Copa e garantem vitória do Palmeiras sobre o Coritiba - Terra",
-      "summaryKo": "마우리시우, 소사 국대 대표팀 복귀 후 승리 견인",
-      "excerpt": "Maurício e Sosa voltam inspirados da Copa e garantem vitória do Palmeiras sobre o Coritiba&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUjRYZm54ajNWRjRRQjFqamZfbW42OU8tWURiLXB1Y3lCNzNMa21XOUJFek5Ibk9VUWJUc091V09ybXh6c05TUW84VDVSZDJ3a1NPLVpyUS1nM2M1N0JmUlFPdXZZY0o3RXpBYW9VbzdBVlV0Q1Bwci1yLU56YlJXdWpkdVl3ZXEzTnVVUURkSllZdWd3REUzeGMtbmczamcxUXM2WC1aSkh5aVQyaVc0WHdTLXhLc0Z6eXBsVGd0RDZReHlYOHVrSFd1dmx6UjdyMjRLcjhBbC0yTEFBZFpXZTc3LWl1QUdxZU1IS2J5Z09oUlNIYktuZVVnOVZEUFJiejhkbW8xWEMzdw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-23T00:42:00.000Z",
-      "whyItMattersKo": "국대에서 돌아온 주전들의 컨디션 회복은 팀의 승리 행진에 큰 힘이 됩니다.",
-      "fanTakeKo": "두 선수 다 잘 돌아왔네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHpFcXRfRUtRT2puQ2tWM0Z5dFFaMlJ0MGRwajc5c3hjT1FRX3QwMWVsaEF",
-      "title": "Palmeiras vence o Coritiba e se isola na liderança do Brasileirão - vtvnews.com.br",
-      "summaryKo": "파우메이라스, 코리치바 제압하며 선두 독주",
-      "excerpt": "Palmeiras vence o Coritiba e se isola na liderança do Brasileirão&nbsp;&nbsp;vtvnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHpFcXRfRUtRT2puQ2tWM0Z5dFFaMlJ0MGRwajc5c3hjT1FRX3QwMWVsaEFuZ0M2cUY3Z29XNzNraHRMeC0zbzBZZERrbXNTLUNOak9vNnQ5NFgxSHpyMklNVmJBTnZIaTdUanRYUUlGbkNqSm1sVnU2UTlEOWFWZ3RjNXBiVWZUSjJmU05hRnM5ZVB3RHAwYVdMOTNmWkk0WWpzQ2Vfbll5dUlOcUdz?oc=5",
-      "source": "vtvnews.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-23T00:42:00.000Z",
-      "whyItMattersKo": "승리로 추격 팀들과 격차를 벌려 리그 우승 경쟁에서 유리한 고지를 석권했습니다.",
-      "fanTakeKo": "이대로 우승 가보자고요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM2FMM2ZBYUpDWUc2YlBoN0JfTTZCZ1l6UWZ3X2xuOVZRT1JiejB0VTVaMWF",
-      "title": "Palmeiras perde três atletas e amplia lista de desfalques contra o Atlético - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 아틀레전 앞두고 부상자 속출",
-      "excerpt": "Palmeiras perde três atletas e amplia lista de desfalques contra o Atlético&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM2FMM2ZBYUpDWUc2YlBoN0JfTTZCZ1l6UWZ3X2xuOVZRT1JiejB0VTVaMWFMU3dXMlVxN1V0UzlrQjFaRVNFQjlRZXZSN04wYnM2Y3N5Tnp2WVl4ei1lT205TlBMUlFGMnhOa2JDeXZBdlF0eXdGTlZhV1RYYkFMenZXNDJibkJTZV91bW95WDFPNm1Gd2NJWWhRbU5qbnZ2WkNabFZGVG9aTW1NWldOTDJSOEtCM0xSYV9yQ2R3bGMtMkt6eE5CV0Z6cGhkYTAteFJkMTlCZlJkUmZ5NERtS3NvemFmYTZrRVAydkJEdXk2bUx1ekstTg?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-23T00:39:32.000Z",
-      "whyItMattersKo": "주전 이탈이 늘면서 다음 경기 선수 기용과 팀 전력에 큰 타격이 생겼습니다.",
-      "fanTakeKo": "부상만 좀 멈췄으면 좋겠어요",
       "tags": [
         "뉴스",
         "AI요약"
