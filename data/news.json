@@ -1,8 +1,134 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-23T17:56:37.112Z",
+  "fetchedAt": "2026-07-23T19:24:21.103Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzVDMVJqWkNhTHM3emdjRmhfSlNGcGZGQURicXJnZUpPaEowSUN0ajdlN1R",
+      "title": "Palmeiras se reapresenta com reforços - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스는 다시 지원군을 선보입니다 - Tribuna de Jundiaí",
+      "excerpt": "Palmeiras se reapresenta com reforços&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzVDMVJqWkNhTHM3emdjRmhfSlNGcGZGQURicXJnZUpPaEowSUN0ajdlN1RXaVV4d3poUm9OeERDR1ZKRzdGYWtma2FTY2Q3X1gtTUEyTnlzRGNLemxmbkNNZkpMWGFScERTUHBVUm83RjhJSHFuZFE4bDFOcVJQOHk1OUtRdTFsWUMtSw?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-23T19:01:17.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMieEFVX3lxTE5mVWdnY2l0NEMxelFEYmI1NlRCQ055QW9wbUVFdTdsY1Qwc1pPTjdJaGFSaTV",
+      "title": "Palmeiras se reapresenta e tem novidades na recuperação de lesionados - Portal ABC do ABC",
+      "summaryKo": "파우메이라스는 부상자의 회복에 대한 소식을 전합니다 - ABC 포털",
+      "excerpt": "Palmeiras se reapresenta e tem novidades na recuperação de lesionados&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mVWdnY2l0NEMxelFEYmI1NlRCQ055QW9wbUVFdTdsY1Qwc1pPTjdJaGFSaTVEb0dGaWJoS0pxMFlkNXhjd3V4UFlnSERqcjJpNTZRM25KVWk0OThSdHhGQUVNcEcwSDV1LTB0NnVrRllHcnp6cERqRQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:54:23.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNlBQX1p6SllDaWJBM2pyNWR3WlB5RUZXOEVwNGlVRURDdHY3N2FQR0tVTnV",
+      "title": "Palmeiras vence com três zagueiros - Agora RN",
+      "summaryKo": "파우메이라스는 세 명의 수비수로 승리합니다 - 이제 RN",
+      "excerpt": "Palmeiras vence com três zagueiros&nbsp;&nbsp;Agora RN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNlBQX1p6SllDaWJBM2pyNWR3WlB5RUZXOEVwNGlVRURDdHY3N2FQR0tVTnVuamNESDNPTEstaEdEOXVEdUNMbWY1STdNN1BKS3lHaXljQmVZX1BaSERmWVRpWVdYSzNKLTd3dVoxZ0xWYjZZ?oc=5",
+      "source": "Agora RN",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:47:10.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMingJBVV95cUxPWUtQZTU4bVdhM1ZGeTFGcHZJNk9VUllDbTNGOEVmWEVIY0o5SFlfSnV3VVR",
+      "title": "Massini: Leila Pereira é quem faz questão do Danilo; não é pedido do Abel - UOL",
+      "summaryKo": "마시니: 레일라 페레이라는 다닐로의 주장을 하는 사람입니다. 아벨의 요청이 아닙니다 - UOL",
+      "excerpt": "Massini: Leila Pereira é quem faz questão do Danilo; não é pedido do Abel&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWUtQZTU4bVdhM1ZGeTFGcHZJNk9VUllDbTNGOEVmWEVIY0o5SFlfSnV3VVRQb2Q4ME1RWEFJZmQ1aTBrTmJ5UWxJMkE3UFBKVEpzbEJBS25oVzV2a29QLXFvNXJTVExmQml4NC0yQWFwSmtPWHBEa0xJOUhpeFJqUFRGVnB5MS1OdVQ4a045WHE5UUJzeVoxeGQzY0Y4U1NlWjd4WWs3WUN3cEs0MlBWZGNUeklBanRsT2o5T21zaW83VEZKX1lXakFpbU15WUlXeTZjdTBaMTI1cWRWR1YtajJnNFFfQjJzUmI1b0RsZVVac25nTmZnVWx3YzBuT0NQSDJxQUNzN3FQel9qSmdaQklJemFzTk5ySnF2SmZ3?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:28:57.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVJnaENSTkZNblJGbF84UHVrVGJBaXV3LURwbU5zYmN1MFhpdTVOOEVuTTQ",
+      "title": "Palmeiras rasga dinheiro e aumenta valor por craque do Brasileirão - RD1",
+      "summaryKo": "파우메이라스는 브라질레이랑 스타당 돈을 뜯어내고 가치를 높입니다 - RD1",
+      "excerpt": "Palmeiras rasga dinheiro e aumenta valor por craque do Brasileirão&nbsp;&nbsp;RD1",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVJnaENSTkZNblJGbF84UHVrVGJBaXV3LURwbU5zYmN1MFhpdTVOOEVuTTQ3UEZhM1pNVXY5MGVES0ktVkN5N195QVFrQThiNXpmZGdIdlB2cDRMRWhiX196aHlhNXdOOHRwRkh4VHVTUzFYUHBET01YRHhsMTBDeGx5SXIzVXNFbWxkN1NTOA?oc=5",
+      "source": "RD1",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:18:11.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUWx1dUtvM2lyb0pZcTlIZmdIMzVZX3cwOVY4VWxQd0t0cF9TdFZHMHV6Zm9",
+      "title": "Técnico do Botafogo avisa Danilo que ele jogará contra Vitória, e negócio com Palmeiras pode cair - ESPN Brasil",
+      "summaryKo": "Botafogo 코치는 Danilo에게 Vitória를 상대로 경기를 할 것이며 Palmeiras와의 비즈니스가 떨어질 수 있다고 경고합니다. - ESPN Brasil",
+      "excerpt": "Técnico do Botafogo avisa Danilo que ele jogará contra Vitória, e negócio com Palmeiras pode cair&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUWx1dUtvM2lyb0pZcTlIZmdIMzVZX3cwOVY4VWxQd0t0cF9TdFZHMHV6Zm9SelhqbjNQVE1XcHNzQk9mbW5MLURsTnN4X0pnSDBwcFpCa2JIQl9wZlk4UFNSNVg4Rm1TNzVJb3hYb2dqTU9odjFQUExJYllfVXV5Q2U3c25OcGxLRDltSzZuNENHZGthaGVWcFFNYnl6Y0dVRk5nbkt6eDJtMlV4bmJuVlZnN3FESWI5S0NnYkxYNEdlYnp1cUloQ2FNUkV5bW0xYmxpN0lfcWJDU3JHeVE?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:06:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUdfWWpuOG16RWhYX1E4MWxXc1BNdEpkRUVoc3BaX0FTQVp4b0N0aEF3Z19",
+      "title": "Dupla treina com o elenco em reapresentação do Palmeiras, e Giay avança em tratamento de lesão - Gazeta Esportiva",
+      "summaryKo": "듀오는 파우메이라스 재발표에서 출연진과 함께 훈련하고, 지아이는 부상 치료에 진출합니다 - Gazeta Esportiva",
+      "excerpt": "Dupla treina com o elenco em reapresentação do Palmeiras, e Giay avança em tratamento de lesão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUdfWWpuOG16RWhYX1E4MWxXc1BNdEpkRUVoc3BaX0FTQVp4b0N0aEF3Z19jU3g5OU1FM2dwNHVsWU5rU1pCaWp4LW9VdjNOUWNST2Z5eEQ4d1phdFdpLXkwWkRRMjVVdjd1UkZOR2huSXR2R2JTQkFGX3FXc3RYelZWalRNeDlUWGRjSFFuUjZXZ2JkNnJsUHZ3Y3FMdEloMWFOYXRRVlFjUUZTNHBWR0duejBwdFNYYWR0MU9vU01ER2ZyZ2hleUtzdm1yeFdzWFJmMFd5clZqTzI5bnRR0gHfAUFVX3lxTE5FR19Zam44bXpFaFhfUTgxbFdzUE10SmRFRWhzcFpfQVNBWnhvQ3RoQXdnX2NTeDk5TUUzZ3A0dWxZTmtTWkJpangtb1V2M05RY1JPZnl4RDh3WmF0V2kteTBaRFEyNVV2N3VSRk5HaG5JdHZHYlNCQUZfcVdzdFh6VlZqVE14OVRYZGNIUW5SNldnYmQ2cmxQdndjcUx0SWgxYU5hdFFWUWNRRlM0cFZHR256MHB0U1hhZHQxT29TTURHZnJnaGV5S3N2bXJ4V3NYUmYwV3lyVmpPMjludFE?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:02:41.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0dYSnZ5d3BldlptNlB1Q3NNLVZzNnRtRWJEOEc2aTFha2ZqdkV6dGtPSlF",
+      "title": "Joia do Palmeiras aparece em seleção de promessas para a Copa do Mundo 2030 - Diario de Cuiabá",
+      "summaryKo": "Joia do Palmeiras, 2030년 월드컵의 약속 선정에 등장 - Diario de Cuiabá",
+      "excerpt": "Joia do Palmeiras aparece em seleção de promessas para a Copa do Mundo 2030&nbsp;&nbsp;Diario de Cuiabá",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0dYSnZ5d3BldlptNlB1Q3NNLVZzNnRtRWJEOEc2aTFha2ZqdkV6dGtPSlF0c0dkazJ6TjRIZTluOHlHQmZpcFdNUlQzTXdWaUlENDliV0NjOTY3eXpQYURXMHh4MmhjSWJ6d3R5MEZYMkNiNEYzSmRLM2FKVWRSdlJJN3B4YmZFNTlsWkZrM0ptS3hsVXRJVTg2VWotWU14Z0xVTjQ4WWJiYm1pa05LWk44MFNXU2FNeDFPRzJlckJjS1k?oc=5",
+      "source": "Diario de Cuiabá",
+      "language": "pt",
+      "publishedAt": "2026-07-23T18:00:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemRUcHZxVjA5NGM2dDhzZ1NxbVBuQVZ3X3o5d1BOSEdjUF9GRWF5dnNTNGV",
+      "title": "A declaração de Mauricio após a vitória do Palmeiras - Terra",
+      "summaryKo": "파우메이라스의 승리 후 마우리시오의 선언 - 테라",
+      "excerpt": "A declaração de Mauricio após a vitória do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemRUcHZxVjA5NGM2dDhzZ1NxbVBuQVZ3X3o5d1BOSEdjUF9GRWF5dnNTNGVjaUdFenEybXNHTUVIMmx6LVloZ0VEYzBlT0VTNlBvQUxtMU1HTEx0aTc0Zm1oM2lsN2RQajZsZkZjU2FNYTJHakkyWkluMWhMSG5Fb3JhTHMtd3g0UkdTM3JQTms3NGprZjFWR0JEdjF6VDIzdExfeGdJVWJvdmxaMHpudmE0clFGb0l6UDhoRlNsMnBFQzZ0UHRFVE5wcWl2dEczWGRGTnZVU082Zw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-23T17:45:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMl9nQkpkZmY0LTRwZUpkSDl2YXVjcER6TGJWcnZjRHYyUmRvcGNIR181a0R",
       "title": "Barboza não esconde emoção após estreia no Palmeiras: 'Vai ficar marcado' - Rádio Itatiaia",
@@ -803,144 +929,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzB1Zm5Nd25uVUdiZ0hCYzFyVHJsRjdQREttZ1JVcVI5aXZRcHFidTFXQkl",
-      "title": "Palmeiras vive momento decisivo por Danilo e aguarda definição do Botafogo no Brasileirão - LANCE!",
-      "summaryKo": "파우메이라스, 다닐로 협상과 보타포구전 주목",
-      "excerpt": "Palmeiras vive momento decisivo por Danilo e aguarda definição do Botafogo no Brasileirão&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzB1Zm5Nd25uVUdiZ0hCYzFyVHJsRjdQREttZ1JVcVI5aXZRcHFidTFXQkl2UU1ydTJvWWxpclFaYkRxelpxdDYteFc4VVpfOGhxMDJFLWtYUTFIWk5TMTFJUTNrQmVOS1cwRHZwNDI1VWZBWXpiWU5YTW4xTUFYaGE1Rms4bGRRbXVzaTdtb292alEtMGN4SVlRX2ZwTktZMTA3VW5zU09WR2daXzVtTUNzM1ZMQ3prbGtEUzVOQVFkRkJERHV1bg?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-23T09:45:00.000Z",
-      "whyItMattersKo": "주전 다닐로의 미래가 결정될 시기이며, 보타포구의 결과에 따라 순위 변동이 있을 수 있습니다.",
-      "fanTakeKo": "다닐로는 꼭 남아줘야 하는데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWE2U3ZGVEZrNlFqSjh5MkJ5NjFwUzltNjZwVFN3M1d3RUt4ZTBjd01pSi0",
-      "title": "Palmeiras vence o Coritiba por 3 a 1 no retorno ao Brasileirão - CBN",
-      "summaryKo": "파우메이라스, 코리치바 3-1로 완승",
-      "excerpt": "Palmeiras vence o Coritiba por 3 a 1 no retorno ao Brasileirão&nbsp;&nbsp;CBN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWE2U3ZGVEZrNlFqSjh5MkJ5NjFwUzltNjZwVFN3M1d3RUt4ZTBjd01pSi00T3U2S3F1Zi1nV211N2JuV0k5X3JycURpeGdhLVg4d0pUVnhXZnVMYWxsbmd6bmFVd05JV1c5MWRhZVZTSHF5b2tEOV9JS1pOa1YtczdxMWE2RkM0MGpnR3V2MUh1NDdJQ2dodWpZZWdOQmlpM1pySEdXRGNjdzRZNU1QTW9BTzBLQlpP0gHHAUFVX3lxTE1WeGFlc3FTbjJBaVZDYkRlbVUtSE5WRmNIZkdqUWtzMml4ZEg1OFg1R0VkVWMwX1lLN245SE1PY1VkT1lfdXlVMFlHZ0l6WGxGY3UwRlN5YXBjLWItbmhDa0Z3S0dubFp3aUVoU29feVlteTlIZkhETDVsMlU4ME1KTXc2UjdRQ0ozOWY3TkkxbGc4Tjl0aElfRXk5ZEpYbGo0WmpoWURENm9hVHAzTTBrMkdJaC12T3lxc2hCay1uSzNYZWVBOTA?oc=5",
-      "source": "CBN",
-      "language": "pt",
-      "publishedAt": "2026-07-23T09:08:41.000Z",
-      "whyItMattersKo": "리그 복귀전에서 3골을 폭발하며 팀 분위기를 끌어올리고 승점 차이를 좁혔습니다.",
-      "fanTakeKo": "복귀전 승이라 기분 최상이다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMiowJBVV95cUxPTWZERm0tNTNiMDY2a3RlMjVnWFozWmZhTUNUZlpMN0hHc1otazA5Ym9OLVE",
-      "title": "Em reedição da final de 2025, Bragantino encara o Palmeiras pelo 1º jogo da semi do Brasileiro Sub-20 - ge",
-      "summaryKo": "브라긴티누와 U-20 준결승서 맞붙는다",
-      "excerpt": "Em reedição da final de 2025, Bragantino encara o Palmeiras pelo 1º jogo da semi do Brasileiro Sub-20&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTWZERm0tNTNiMDY2a3RlMjVnWFozWmZhTUNUZlpMN0hHc1otazA5Ym9OLVE0QjZua3hzQmdnajRrVHRSUW9RSXFDcnc4cFltTkdyWTZFZTFlX1U1MW9UcTh3bmxIMU9SeDZvX250MmpJNmE1ZXlETzJNcFg5WTVKWVZJUDMxVnF6Y3VWMTVVWkFOcGs2R3l5RjRVTDJ4UE16bE5zVXA2S0loOHZCUXNEUE5rUm81MUhncnZsVFdwNDljaWxScE1kSmdOVnZWa1NhQkZadVFXNmpGVWlDWXlkUTdNT3o4cFZ3N3ZacDdxSGlyZVJWZVE5WFhiOENyRUtYU0p4T28yWmgtREJ4TnlBdExYYzdPV1hHRlpTbDFjSURieFHSAbICQVVfeXFMUFh4T3RFakViS2hkbWZsV0N1RnFQX2ZndFVJd2lLbHJydjZXRGlucjZPMFh5aVRjUHZkY1pYRnZhMzh4WkpHRjJnYV9HamVQZzNvdHJ1OU5HX3doWWJ5bVhXeDE0eE04TncxN1pjeFQ5T1U0aFo0MV9xLVl3OFF3c1ZLSHVSR3FiMDhXdzdKNXV1WF9qVXZROHpua2Nyd1ExNHlLWk5IWUJBblFuSy1XTV92dGJVWGFsSWtNQ0l3Vi1HdDc2T0MxdlN5SFV4MkZsZ3dYWk1rTW5uakJSSmlJN0ZsLWFJdjUxdnZMcElyTjNKZmI2cHM3R09mQ2RmUzUwT0Q0ek1PUGNvald0U3JGMDI4UHZDdzRNTXc4TXExQTUwVnpHV3lmWkNjT0NzY3QwWm93?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-23T09:00:32.000Z",
-      "whyItMattersKo": "미래의 주전들을 기르는 유소년 대회 준결승이라 팀의 내실을 다지는 중요한 경기입니다.",
-      "fanTakeKo": "유소년팀도 응원할게, 파이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMitwJBVV95cUxPcWZldGFCek5idVlPTzFqZVJ2d2lWQ2o5Y0tlbExOcy1sSjVhdkNfWS1yWHd",
-      "title": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio - UOL",
-      "summaryKo": "파우메이라스, 다닐로 이적에 결정적 날",
-      "excerpt": "Palmeiras tem dia decisivo por Danilo; escalação inviabiliza negócio&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPcWZldGFCek5idVlPTzFqZVJ2d2lWQ2o5Y0tlbExOcy1sSjVhdkNfWS1yWHdPWHlVNlAyeHg3cTJkV2s0ME5hazNmLUE3Z1RJUWE4bGNBQmd1QUIwN3gyaDl0N1M2ZUNfbjRSZ05UVmNDOEZTR25EN0xwVzJyRFN4VGJEQm1kU0hOWlhfaWVsR0NyTFc1S3hVUkJiOXU2TlhUM3pwZHRmUGhMTUI1QXJhVVBxWjNJR3hxNmRyYnJmd3BJS0lwU0RrSGMydnowMzM4SFM5MHlSSzBLTENra0hURklkYUJrVG12Z19VRXhrUHFmS1FKZ3VkZmN4NkRDWDB1MVNodDJjT0o2OFdvaHQ2M2tDbW4xbW5zQnktdFpIU1VzMTR4Nl9qb0ZOWmhyZmRRS3lrLVdaWQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-23T08:34:17.000Z",
-      "whyItMattersKo": "선발 명단 구성에 따라 다닐로의 이적 거래 성사 여부가 결정될 수 있습니다.",
-      "fanTakeKo": "다닐로는 꼭 팀에 남았으면 좋겠어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRXbG1KRE9VOFUyS0tIVGhqVGlZRXA5Umlxcnh4d2hRaHB4TmlsWjFsTm",
-      "title": "Palmeiras vence o Coritiba e segue isolado na liderança do Brasileirão - agência esporte",
-      "summaryKo": "파우메이라스, 코리치바 꺾고 브라질레이렁 선두 고수",
-      "excerpt": "Palmeiras vence o Coritiba e segue isolado na liderança do Brasileirão&nbsp;&nbsp;agência esporte",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRXbG1KRE9VOFUyS0tIVGhqVGlZRXA5Umlxcnh4d2hRaHB4TmlsWjFsTm82dHZETlhhTDFrMnF6RlRPanZjaExZOXZfQjV3MjBXZGVWdEFPZUtrSkt2ZEhvelhzYWZFeUxZOGNvVmlJSk1hZDUyNXowOXU1aTJKM3lodVZjbGFUN1JPakJ1Um9VdWF1aDItZVNXa0VjUEdLVm5hZGJwUW9xWC1JVHdfNg?oc=5",
-      "source": "agência esporte",
-      "language": "pt",
-      "publishedAt": "2026-07-23T07:54:13.000Z",
-      "whyItMattersKo": "승리로 선두 자리를 단단히 지키며 리그 우승을 향해 기세를 올렸습니다.",
-      "fanTakeKo": "선두 잘 지키고 있네, 이대로만 가자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMDlBaWlQTWxLbkdRNm44OHRXLUFRM0luZGJCNDJtRUF4emI3Yl9GZVZuVW",
-      "title": "Palmeiras x Atlético: Abel tem muitas baixas, mas espera Paulinho e Vitor Roque - Rádio Itatiaia",
-      "summaryKo": "아벨 감독, 결속 많지만 주전 복귀 기대",
-      "excerpt": "Palmeiras x Atlético: Abel tem muitas baixas, mas espera Paulinho e Vitor Roque&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMDlBaWlQTWxLbkdRNm44OHRXLUFRM0luZGJCNDJtRUF4emI3Yl9GZVZuVW55ckJvdlRxNE0zTlc2THNBTUFYZ0ZNUUJySjYydFY3SFdVcnVhQk9hTnAxWTJNaUFBMDB5TlhXdmNwbzN1Y2I2Ul9KcjJ1V0Q2OHdrdWFZbUVLS0tjVkRuSlduNlJfUHJCNnRpNU9DN1dCeTFQeElUdmloaHhwX3RIdlZXQkgwRUFnVFdPd3h6U3pta3J4azNSZzZlQ0I1WEk4bUd1VDhadC1qYzlyTm5xb1VHMGwya2FHMEtjMTJvZExVcXNpdC1GU3ZQRW9YTQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-23T07:30:58.000Z",
-      "whyItMattersKo": "많은 결속 속에서도 파울리뉴와 비토르 호키의 복귀가 공격에 중요합니다.",
-      "fanTakeKo": "주전들이 빨리 돌아와주길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd2JOc1RvekM4WDNqcjF1dEc2VEFaNW12RS02SlVtOUhJb3EtSFNteEJ5TEs",
-      "title": "Veja os resultados de ontem (22/7) no Brasileirão - GZH",
-      "summaryKo": "어제 Brasileirão - GZH에서 (7/22) 의 검색 결과 보기",
-      "excerpt": "Veja os resultados de ontem (22/7) no Brasileirão&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd2JOc1RvekM4WDNqcjF1dEc2VEFaNW12RS02SlVtOUhJb3EtSFNteEJ5TEstSFNtYXRzbFpTZXJYVlAzdWlrOHpfV1BrMUlveWszVENfTDFaX3d2dkFucWpaNnhlNktQN2kwa3MzdGxiSDNfSVJuSk1vUmZaa3VmVHo3Rk1kQzVCT0JLSjltcG5XNmp4Mm1qTVhkVlFBMjN3TjQ5MjlPMjd6UkV4U181MWF0amFHeWRRZjU4RktNc0RmU2paWjJMNjVKbmN2Zk9ic3BxRU5ubjNOVks0TnhtZQ?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-07-23T07:03:36.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMihAJBVV95cUxQR1VjNHEyTUFXR0pCQndWcHlKVjFqVUpENUd1T19YLS15ZTVpSTZra1BiSVV",
-      "title": "Análise: vitória com autoridade do líder Palmeiras fora de casa reforça tese de Abel sobre três zagueiros - ge",
-      "summaryKo": "분석: 집에서 멀리 떨어진 지도자 Palmeiras의 권위로 승리하면 3 명의 수비수에 대한 Abel의 논지가 강화됩니다.",
-      "excerpt": "Análise: vitória com autoridade do líder Palmeiras fora de casa reforça tese de Abel sobre três zagueiros&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQR1VjNHEyTUFXR0pCQndWcHlKVjFqVUpENUd1T19YLS15ZTVpSTZra1BiSVVTT0s3S0xVRURYSExqbTFvVDRvcmJjUWdyX08zZlRpMDdiaTFNWWo3aHIweUhoUmpfMEF4Y2RORGtYTEMwQlVqZkdWU3pLVWxTOU5BUlQxRGRjNVMtTnFmUHZTcmVfUlZaVjJLRzdyUWt2MTRiNXlEQ09JVm0zbDRFVVk3NjNaRGhUQVR2VFJvRDFXT3NJbzVNbXB3RUZ6T01senBEYmxnUWJrQ2tJUHlzV1pSQ2NMcHJJcGdCR0s3YnozY3dwbkZBQ0RCcGdiTmprakktS1BHMNIBkwJBVV95cUxNV1VrTVdCN2cybkFteHVhSWtyeUpNNXR6R2VtZ2JFWWtGVGY3U2lRb08xc2k2azNzQVJKdFR1aFFOaElmQjkwVlZHeWtoM2VVY1EydDY3Wkh6SWFrUFcxOGhfdkFLc2QyWWFmckFEQWZvZFdJSS1KeGtCSVZ5WkxzQ2NfMTBDTlpMMXdhSnpkTzY2WXlaMkZFRnMyOF9rZnlFRFVnYU5LMjVWUGZ5T19MUUE1emlObENhOHA2ampDRDF0WEh6TWU5WVEwV0lRTXZyUlBoY2FveVVzTXRnRDE2ZjVXNElINVhORFdpLThlS1h1cHM1YUVreDJUOEFsV2lqWkw3Tjd4ZmJlOXE5Vkdrd2JvZw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-23T07:00:18.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR0dlbGd4QWRqMHlBczBoQUozdnpRN1hQcWRYUzB2a1E5TV9od1ZDZ0V6Nk9",
-      "title": "Análise: Coritiba paga caro por início passivo contra um Palmeiras que não costuma perdoar - ge",
-      "summaryKo": "분석: Coritiba는 일반적으로 용서하지 않는 Palmeiras에 대한 수동적 인 시작에 대해 비열한 대가를 지불합니다.",
-      "excerpt": "Análise: Coritiba paga caro por início passivo contra um Palmeiras que não costuma perdoar&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR0dlbGd4QWRqMHlBczBoQUozdnpRN1hQcWRYUzB2a1E5TV9od1ZDZ0V6Nk9SRXAzaFNKZm92eGNrenRwYVVzTkJBTTRGU1JUalZDQ2luSHY1LTRad3BNbjNfT3o5cGE5QTJrVERfWXEwNG5jSnZkdVVqVk9yXzh6MGM5MWtvd3VmczEtMFNxemRoNVFyTVR3OEY1UUFkTXpVM2tCMlUwUWZrNzFyRFFrYjlMZzUxU1hEby03WW9XdTB0T0ZLVGgwWElFaXFrczdZdUI3SFNHNlNYd2UyX2NFRFBUdzJFVnFSY2x3XzVXczRHbGfSAYICQVVfeXFMTjM1OTl2eDZRejE3ZVJCek96b19vSUNfNE9SMUlUMmdMRXJFYVY5ckRUTmVIOXBHbmZ6eEx3RTdmdmstMWdmYUNWcFFIRENpZGZOTXRtdWNvRUY5VkJPNTBFb28xbXotWnNzaVBaUzRsVmp0UXlCR0NLMGNRQ1ZXdC1PbmtsVllIR0trNGhlNURRRE4wY0gxeFcyRXV0NlFnLS1IUWZUQk9ORmFqa1owUS0yZmFiS1BxaUZpRWF3b29xbjhCQnFnY0Z5bkxBazBCeXc0ZXBDbHVpQmhSY2FOU2pud3BPeDE4LTRleXpkaTY2S0Y0cnBRaWg3dHFUVUh3bGh3?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-23T07:00:12.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
