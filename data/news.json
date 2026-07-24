@@ -1,15 +1,31 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-24T04:23:47.388Z",
+  "fetchedAt": "2026-07-24T07:08:04.468Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS19EcVprSndaSk9UcWktZVBKelNJdlJTYUxPWFlxbE05cHQ2M0hnUlkyZ0F",
+      "title": "Palmeiras vai a 52% de chances de título do Brasileirão, Flamengo tem 38%, e os outros somam 10% - ge",
+      "summaryKo": "파우메이라스, 브라질레이렁 우승 확률 52%",
+      "excerpt": "Palmeiras vai a 52% de chances de título do Brasileirão, Flamengo tem 38%, e os outros somam 10%&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS19EcVprSndaSk9UcWktZVBKelNJdlJTYUxPWFlxbE05cHQ2M0hnUlkyZ0FpMEd3MDMyVXUyX2RVYVVVbGRZN0o2V0xXM0NfSFZVMGN4Z2JVY1hORjRNZUVPVXlxN19EYXpJRG81cGEtQ0dFYjh3OUp3NkIwbG5PeEJDM1RYWFdtUnF4YWJEOUxFLTR2aHF5RkdsMlNOR1R0VlVGZnJsUVgxYzNULUdGYVFSQW5HZ09WOTZENkpwaEtLNlNnS2dpOVNhTmxiZXhtUnRaejAwWjNaQlE5RHkwazFOTy1QU1hQQ0JDZlVkX1JDUHJxMTZYc0VhQmVGWHPSAY4CQVVfeXFMTWppVFlCS0dOYkxacXFLaTlNMjZEbHZKZkhxdTRSODM1b3ozY0c1LTY4NHU0aDJYSEZGUjBjcTJnUmxqSDZRcENud1BDR0l1MnZqb1hlMVZuM1VFUms1N2V0MzAxelZ5OU9FRkdfanplVjB2RDNoQ1otRzRFT2YwMkR0Y3RhSnFsNlRDdkFiSVpoSEcxNHU0MlFmei1wTTR4bE5VM3R2T0YxWnRHaVNMZHhEck93eEQ5RnFtM3VQUHdYVzJiNExLVXRrSnktTE9fSm1UTUIyeXNDNE1jd2xmUzl2eUNmejZGQ2wzYzRsa3VqdGhSekJzSUdQa2V0SXl4S3hPRWotV2RDMnI3c0ZB?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-24T04:32:09.000Z",
+      "whyItMattersKo": "통계상 우승 가능성이 절반을 넘어 플라멩구와의 경쟁에서 유리한 고지를 점했습니다.",
+      "fanTakeKo": "우승 확률만 봐도 안심이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTNJaXhOOTZsNXhxdEFKOTZmVlVaRjBGSG8teDhMeTJ1QnpSaGphZkk2d2c",
       "title": "Como recusa à proposta do Palmeiras impacta futuro de Danilo no Botafogo - GE",
       "summaryKo": "파우메이라스 제안 거절, 다닐로 보타포구 미지수",
       "excerpt": "Como recusa à proposta do Palmeiras impacta futuro de Danilo no Botafogo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTNJaXhOOTZsNXhxdEFKOTZmVlVaRjBGSG8teDhMeTJ1QnpSaGphZkk2d2cwa2FKRmJSVTdUTXd0OERrQi03WWZFRkFDTWFydUlwQ05QMVZRcjVVTHhqS0RpQkJWcnBLX09Wd2tzVjRJZ0dvTk4zUGVhaTZydkdCUUhxM3BqSXRWZF9OX0tXNElaRldhNUdqeGVtM01uNnRVRng5TWkxZUN5ZEY2R0lGM3R5ZWhMcFNuNzA4eWQwNkFFTVF1N2VzZE90WHlwOFNBX3hzWlNjaUvSAecBQVVfeXFMTUZOLUFEWXd3Z2Q2OFBPbDRjbmRMOWdKazd3eG1iWWpiZHM1QVRKSUd3MFp1Nm5vVTR6eWNjbjh2ODZFM0QxTUJTQXoxcVI3UEtsSEdQaTg3bXBqOHdkajJJVXZ5ZVNDY043blhCTzRmeDM5bktIOVdOX1FUNTMyV2FGR19RTDB2TkNrSDdHNkpkanh2NjVwX0kzemdZc0hWWWQ5bVAyWjNWd0l5VWJxbnRIY0x0QzMteVJLRVZudHI4aEdBT0RWRVNxakYzQlhRMUNFdVA5RjZxZUJ1SnpGemxWV2pKdU53?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-24T04:00:12.000Z",
       "whyItMattersKo": "이적 제안이 거절되면서 다닐로의 잔류 여부와 파우메이라스의 영입 계획에 변화가 생겼습니다.",
@@ -36,6 +52,22 @@
       ]
     },
     {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiywFBVV95cUxNZk9PSWNBRFZ3dUtoY1h5UHZTRExOem9MeDJDbnoyVUxTZDF6WUtyS3ZiZTB",
+      "title": "Leila Pereira se manifesta sobre fim das negociações com Botafogo por Danilo - LANCE!",
+      "summaryKo": "레일라 회장, 다닐로 이적 협상 종료 언급",
+      "excerpt": "Leila Pereira se manifesta sobre fim das negociações com Botafogo por Danilo&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZk9PSWNBRFZ3dUtoY1h5UHZTRExOem9MeDJDbnoyVUxTZDF6WUtyS3ZiZTBmLVdpVkVZcWpGVV85REktblZvSWNCc0podDVEZTZNSWRjQ0MzSENfNFdzbV9PZ2N5OHh0TGNBTldBVVZ4a0RSRXpBUTY1d1JrM19QR3JjM2V1dzlFQVVnSXM5UEpSOXQxVU9SWGpBaDktcGJWbmFSdFhyOFM2dHI2RzFjbUNGa3R3U0gtLXlNT01CQ1EtdXV5clVhZW9pTQ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-24T03:00:24.000Z",
+      "whyItMattersKo": "보타포구와의 협상이 끝나며 다닐로의 이적 여부가 정리되는 중요한 시점입니다.",
+      "fanTakeKo": "협상이 끝났으니 결과가 궁금하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTVUVkcxWUlla3VieVoyVWQ5OXdCSWxmZDF2R0toOXFpOFU1Vk5BT19ESEx",
       "title": "Danilo se pronuncia e deixa futuro em aberto após negociação com Palmeiras - band.com.br",
       "summaryKo": "다닐로, 파우메이라스 협상 후 미래 묘연",
@@ -46,6 +78,22 @@
       "publishedAt": "2026-07-24T02:55:23.000Z",
       "whyItMattersKo": "선수 본인이 입장을 정리하지 않아, 이적 시장 마감 전까지 그의 행방에 대한 관심이 집중됩니다.",
       "fanTakeKo": "얼른 결정해 주면 좋겠는데요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjV2aTRYQVVxUDRjX1BHd0FCWkVHbGRBV2RRTFBMWFhEal81OFY2TUwxclQ",
+      "title": "Leila diz que Palmeiras fez grande esforço por Danilo: ‘Certamente vai voltar para casa no futuro’ - Estadão",
+      "summaryKo": "레일라 회장, 다닐로 복귀 가능성 시사",
+      "excerpt": "Leila diz que Palmeiras fez grande esforço por Danilo: ‘Certamente vai voltar para casa no futuro’&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjV2aTRYQVVxUDRjX1BHd0FCWkVHbGRBV2RRTFBMWFhEal81OFY2TUwxclQ1TlAtX2RZS3N6RUtiQVpCVVdpTlZ1Mnd2dm01MFBYVkVmeG92VDRSM0ltYlAxamFVdVJLRXFoZXBXWjY2dEl3NUN4ZzNNVXdOZUQ2Q09nOXN3aVZlcHFvY2Z3T0dpMW1VVUdMY1JwRlg0M3dhYTlxakxHaXF1VWJqMXhJS0RnY2d1MUE1VWt2MUZOZjdPSE8xbzA5UjcxTDRtYWxPYXVfeEhKZ9IB3AFBVV95cUxNVVhoOEtZblBsUGJzQlhPMkswMU9ueHowazdaSEpfWTI4QkZ5SUljU2RUWWhCeWtwY3M4R3QwdHpMOUxoWm9wdTF5YWF4bGNuMlRUVUthNjVrbk1xZ2d0S2lQMWVwLVVJWkMxRnZtSDIyVmZYMUY5a2ZTSl9VQUF5eG1DOWxrcDktOW1KeGIzVlRLR3JKNElNeWN1YWlqT0NsM3A2dzI4RU1Ga1BHdTV6YUNPX0xLZnlWNkdfWWotWFcyMVRaUUxHWG1WWGdwZFE5VWZfTGdSaGJ2VnRp?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-24T02:51:00.000Z",
+      "whyItMattersKo": "다닐로의 이적과 관련해 구단이 최선을 다했고, 미래 복귀를 약속했습니다.",
+      "fanTakeKo": "떠나더라도 언젠가 다시 오길!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -169,7 +217,7 @@
       "summaryKo": "다닐로, 러시아 이적 강요 말라고 요청",
       "excerpt": "Danilo se manifesta após oferta do Palmeiras e pede que Botafogo não force saída para Rússia&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmRuZ245U1BNYUg5eHAweDNJWjR1LTJxZDRNN0tTM1JvMGpJc1hyWTl1WHo2WV93WGF6M192MzRUR2ZRaWhnVlBPQ0lZbTcySjZTSzdxeW43eTdCR0tUNEQzb3JMQnMwQUNjeTNKUWotWS1PbXFBbVRpZ3BoUHJqcjltOTRxOFFobEhIa3pXQmtxT0lMQmY4WWZzQ3RfMjJvTG0zYS01NkxfM2Y0R2lDc1hzUDBvaWp2bWgtTnM1M0hVdFZ5aGZWYUU2V3A4YmR3dUV6TkFIRUZRS0NxWi1CVnlVbExLd9IB9AFBVV95cUxNMl9BNndCRDMyRlk4QmRMRU9hVGlEeUUyc2RwVlF6cEdsX1ZvemhMWDc4TXNnYUkzWXFzUnhKZ2JRRldHQWJyMnFDYTltSlVhbEdFZ1ZOSGdodWt2NkVRZkIwN1FlaFItaHc3QjZlY3BzM1VFN3duU2JtYlNzVjlnb3c4VDdWTmdjVGpRaVgwaDQ3dy02Q1pfbnZsOEUxUXZZblNKZ3Z1cWNhQ1hnN0NkUFZnbG1PNy1EdGJxUzVHRUZsSGRDdlpjYXl5eUNVdUx4enpxbzJNa2dWSFpjbU42TjBkNUs1QU9vX1ZMVVFNaGgxLWVp?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-24T02:08:15.000Z",
       "whyItMattersKo": "선수 본인이 파우메이라스 이적을 희망하고 러시아행을 거부하는 등 이적 시장 변수가 생겼습니다.",
@@ -321,7 +369,7 @@
       "summaryKo": "프랑클림 단장, 다닐로 이적 보도에 불만 토로",
       "excerpt": "Franclim se irrita em entrevista e critica cobertura da negociação entre Botafogo, Palmeiras e Danilo&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXI2Y0RDQm9lVzk5enpscGVDMlAwaHBMRGxrbWIyVGIxU0RSMHlRUy0zZFI2dzVCU1kyVEJJSUw3bjVLQmdkSFprVGk4UFNrbURidGxWZTVlVlJVU3lVRTFkVUZpc0NtTVdORHUySVBtUEpGSnNIelE2bnRIeWhkbUlVUkpndDVaWkdNYmF5WFFVeGt0UjdZd3NUQzQ5Zk1jWUtyNHNNbk1PRUVtVnhkUUlnSU80bHBrdXZB0gHKAUFVX3lxTE91cTU3cXRBR1JhZVJpdVo3N0t3TjhDeUstTEpxNk9FV0QtbXUwX0VOajFSRkNRbVZwSVJUUkpDUlVRTnl0eG5lY2tmUG5TNnBSd3RZaVZzUmR6VGZTa1MxWkd1UlFaa0t5WDgzU0h6Q2tqbm1UZDBjSFpLVWNobjdYc2dNZUU0XzZSMG9sNGtkaDRvVThaaHcxUmhEckpkVzFkVF9ZZ2VaNk9PWHFTMFgwRFRhUnd1eGtRaDV3aWNmbFEzd2YxdC0wOGc?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-24T00:53:25.000Z",
       "whyItMattersKo": "구단 임원의 불만 표출은 다닐로 이적 협상의 분위기와 구단 간 관계에 영향을 줄 수 있습니다.",
@@ -902,54 +950,6 @@
       "publishedAt": "2026-07-23T21:32:00.000Z",
       "whyItMattersKo": "이적료 규모가 드러나면서 영입 가능성과 협상의 윤곽이 더욱 명확해졌습니다.",
       "fanTakeKo": "적당한 가격에 데려오길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWHFBaXpGWmIyYTJPNFhFR0xlVlEteWhnQTBBa0RnYkVYbTRSekZFOEtQa3V",
-      "title": "Em jogo eletrizante, Bragantino e Palmeiras empatam pela semifinal do Brasileirão Sub-20 - Terra",
-      "summaryKo": "U-20 준결승, 파우메이라스와 브라간치누 무승부",
-      "excerpt": "Em jogo eletrizante, Bragantino e Palmeiras empatam pela semifinal do Brasileirão Sub-20&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWHFBaXpGWmIyYTJPNFhFR0xlVlEteWhnQTBBa0RnYkVYbTRSekZFOEtQa3VodkNPVzFMV2M4bGhTcGJaZFFJYjA3MjFmVVJyVXdFXzhBbDU1MjRaR2JkOGJWNmRHVlpkMVFDTGptX21JeF80VjZfVHJ5Rkh3NXlfY2JjbnhQVjZmRUdEazRtcURQbjBUVjNHUmRfTjRZOHo4QmtjWEliZnprN0FDSzUzdm5zaEN6NmNEbTVkUExvSVdmV2tmSVNqU1lQcFY1cGpPLXNVNFo4Y2pyOGVxczRqeGF4ajZmNzZSSkRHYTl1RTZwbDVDTnh2bHkzRmZSYnFPbXozWlc0eF8?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-23T21:22:00.000Z",
-      "whyItMattersKo": "청소년팀의 준결승 무승부는 결승 진출 가능성을 열어두며 미래 유망주들의 경험을 쌓게 합니다.",
-      "fanTakeKo": "유망주들의 활약 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXpxN19SdzVCU2pxUUtvcjRNbkw0bHdaeldCMlQ2X29WelFuNU1QXzFaMUN",
-      "title": "Palmeiras empata com Bragantino em jogo de seis gols pelo Brasileiro Sub-20 - Rádio Itatiaia",
-      "summaryKo": "U-20 6골 대결, 파우메이라스 무승부",
-      "excerpt": "Palmeiras empata com Bragantino em jogo de seis gols pelo Brasileiro Sub-20&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXpxN19SdzVCU2pxUUtvcjRNbkw0bHdaeldCMlQ2X29WelFuNU1QXzFaMUNiUE9NVk5BTm5LYzkyQzVidXlicjRSLXdTQXhfNUJDNldSMXVxYTZ2VVlpMGhrZnZSZmltTkJBU09sNHRRLURXeDRWVGtOQXo1azBWazJFeW4tMFhlcThqNWtKcDMwUEFJNi14QnVEamVjalNRNncxYW1fdU92QnNZUzVseWdOTENjSzZBUEktV2hVcVQ0YTZVNGdjakVERTRyMWxoNnhWTlYzcy15cTlaQ2hiVjNVclZWSXplM1BjQy1vRXRJa3JOdVJLeA?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-23T21:16:46.000Z",
-      "whyItMattersKo": "6골이 터진 공방전은 공격진의 득점력은 높지만 수비 보강이 필요함을 보여줍니다.",
-      "fanTakeKo": "골 잔치라니 정말 재밌겠다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzdLZElZTHFRS21laS15MF9CWjljc0F0YlgxdVdaNVIxaGpxdE85SHVUX1",
-      "title": "Bragantino 3 x 3 Palmeiras | Gols | Semifinal | Brasileirão Sub-20 - ge",
-      "summaryKo": "U-20 준결승, 파우메이라스 3대3 무승부",
-      "excerpt": "Bragantino 3 x 3 Palmeiras | Gols | Semifinal | Brasileirão Sub-20&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzdLZElZTHFRS21laS15MF9CWjljc0F0YlgxdVdaNVIxaGpxdE85SHVUX1UzRVp6OVpxZXQwaU02UUduYjZLRmZ4SGhxTkhBaVhsc3BWNHVhUEtYNWZ3ZjNYWWZydk8yTFdBUDFwb3h1djdsMmE5SkxydGFEcTh6TkcxaUs5eTlDUUs0NnV5YkxnTlk5RVlOWG51eDZlSGNHN1lBVEFfRFExX0xueU800gG-AUFVX3lxTE45TXhqT0lCSW1IVnZfNU0tTGszSEJ2Y29Ja3FzbFg1NUJ5aEpaaVNYcVc1VHdSNGQ1MEhWZkVXWTdOUHZoY2ltX2dub0FzdTZlaUxyNHJXUU9tcEsyaFlFdlFGbXR5T0djRzRrT3AwVl9zR3NocHhud3pvdm9HaHZWNV9QVFZpS1Jtd2Y0TjRXcWp6U1R2TW5Bdk13WVJpQWp1R2gzMkxFNmFWdDJhc2xYZGtYRzBsV1kzcUp3dnc?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-23T21:12:43.000Z",
-      "whyItMattersKo": "3대3 무승부는 치열한 경기 속에서도 결승행을 위한 중요한 기회를 남겨두었습니다.",
-      "fanTakeKo": "3대3이라니 숨이 막히네요!",
       "tags": [
         "뉴스",
         "AI요약"
