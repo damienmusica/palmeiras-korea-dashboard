@@ -1,19 +1,195 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-24T17:06:42.333Z",
+  "fetchedAt": "2026-07-24T18:58:07.288Z",
   "items": [
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzJQN3JmMFZrbTZMTVoyRXVGaFFMaF81dWhlN0xaV2ZSNlh5bURiWDl2STE",
-      "title": "PALPITES DO BRASILEIRÃO PARA DOMINGO 26/07/2026 | PALMEIRAS x ATLÉTICO-MG + FLAMENGO x SÃO PAULO - LANCE!",
-      "summaryKo": "브라질레이랑, 파우메이라스전 관전 포인트",
-      "excerpt": "PALPITES DO BRASILEIRÃO PARA DOMINGO 26/07/2026 | PALMEIRAS x ATLÉTICO-MG + FLAMENGO x SÃO PAULO&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzJQN3JmMFZrbTZMTVoyRXVGaFFMaF81dWhlN0xaV2ZSNlh5bURiWDl2STEzYVRfWmN2UWh0TzNoUG01UUVxRndRb0xjYVhZT3FvYTRjX0x2QTFHQ1Z2V0pBOGExVFJIc1hCSFkwSHpGVFB0TkZVeXdmZGpNVV9tYnVVMXlRVFdNUDdOZzZfUDQxMHJCQ3d1aWNKRTVPN3pwc1h3M2hDREJIbVgwZUFsN3ltaC1MU2JPU3dVcjlnb1R6Zw?oc=5",
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2NYZ0taTFlpNU04eUUtU1J5OTZsTmtzWXZUSkRoZjUyZ3VQTVBmZ1BYUFR",
+      "title": "Sem Danilo, Palmeiras muda rota e não prevê novas contratações - Goal.com",
+      "summaryKo": "다닐로 떠난 파우메이라스, 이적 시장 방향 선회",
+      "excerpt": "Sem Danilo, Palmeiras muda rota e não prevê novas contratações&nbsp;&nbsp;Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2NYZ0taTFlpNU04eUUtU1J5OTZsTmtzWXZUSkRoZjUyZ3VQTVBmZ1BYUFREOFJpOW1namJJdmFHZWwwTXNTMDJpMGtfVllkcW02Z0FFZWZmLUNINkZDZnVNNV9NY3VFcWJEMy1TdjdpZWR2NlFGTFdCZkNVX2VxX3o4OUVITGZyQl9OUDZHWktFYkZrbUNjbFFYQ0Q1Sm9SaW45c21RQWNSdw?oc=5",
+      "source": "Goal.com",
+      "language": "pt",
+      "publishedAt": "2026-07-24T18:44:16.000Z",
+      "whyItMattersKo": "주축 선수의 공백을 외부 영입이 아닌 내부 육성으로 메울 계획임을 시사합니다.",
+      "fanTakeKo": "영입 없이 버틸 수 있을까 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExYdndlSm83dEVoR2lCcHBsM0IzVUhaajRUdzN1ZDlrdWxHWEtDMzd5Nnd",
+      "title": "Escalação: Abel ganha retornos, e Paulinho disputa vaga como titular do Palmeiras - LANCE!",
+      "summaryKo": "아벨 감독, 주전 멤버 복귀에 파울리뉴 경쟁 가열",
+      "excerpt": "Escalação: Abel ganha retornos, e Paulinho disputa vaga como titular do Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExYdndlSm83dEVoR2lCcHBsM0IzVUhaajRUdzN1ZDlrdWxHWEtDMzd5NndqRE5HNFRuX2RGX3VCa3dsS1pGUnI0bkdVLTZZZm9KdVNhUFp5bGhZLXFyNXk4UldmRjhxSGEyb1FsdGRLZUlEbkxfZndWTmNKcFQzYUxpWWloWTZ6N2hlSncxQ2xGbWtxNktXcjVoazRwMHJ2bWRiczJNOFdFQ1NPRHhweDFNaXFxdHRrUkFBeA?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-07-24T16:47:49.000Z",
-      "whyItMattersKo": "일요일 열릴 리그 경기의 승부 예측과 관전 포인트를 미리 확인할 수 있습니다.",
-      "fanTakeKo": "이번 경기 승리 기대합니다!",
+      "publishedAt": "2026-07-24T18:39:12.000Z",
+      "whyItMattersKo": "부상 복귀 선수들이 팀 전력을 보강하고, 주전 경쟁이 치열해질 수 있습니다.",
+      "fanTakeKo": "주전 경쟁은 팀에 좋은 거죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWlSUm4yZU9WWEpzeTFOQW1sZEJ3SkJiMFhCdGtnOHQtRi1TTHJ0TVhiTDJ",
+      "title": "Mixto-MT x Palmeiras (Feminino): onde assistir, escalações e arbitragem - Terra",
+      "summaryKo": "파우메이라스 여자부, 미슈투전 시합 정보 안내",
+      "excerpt": "Mixto-MT x Palmeiras (Feminino): onde assistir, escalações e arbitragem&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWlSUm4yZU9WWEpzeTFOQW1sZEJ3SkJiMFhCdGtnOHQtRi1TTHJ0TVhiTDJsNENRcHZBRFNVbnhqbXZJZlJWMGJWaWpteEtsQmx0elpuc0M4V2dkRTZfMXRKWFlwOFpVWlJlcWxIQWU5ZG5LVXFVcWZZcmRlVlhmV0NJem14VGN4TC1STzAzZnlpUmRWeG1iMUo2VE5VVDJMc2FqNHk5ZElpSElzWjNsTFZZWlhQYlczN2l1Snk2dmFHYUJMRVc5V19IZUxmSUxoejlXckk3NGJ3NjNyaXo0aEdET3JmVzlQUWl3VDJn?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-24T18:37:00.000Z",
+      "whyItMattersKo": "여자부 경기 일정과 중계 정보를 확인해 선수들을 응원할 수 있습니다.",
+      "fanTakeKo": "여자부 경기도 응원하러 가야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTFSNEJFT3p5cGs0NGxYeC1HTkRZbWFsQk1LamNUcVRCSFk0T1BJR0d4eT",
+      "title": "Mixto desafia o Palmeiras no Dutrinha na retomada do Brasileirão Feminino - O Mato Grosso",
+      "summaryKo": "파우메이라스 여성부, 브라질레이렁 재개 후 첫 경기",
+      "excerpt": "Mixto desafia o Palmeiras no Dutrinha na retomada do Brasileirão Feminino&nbsp;&nbsp;O Mato Grosso",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTFSNEJFT3p5cGs0NGxYeC1HTkRZbWFsQk1LamNUcVRCSFk0T1BJR0d4eTZlbk8yV1JzQlp6UGpDTDZXemtzVTZJZXdMQlVjVGtuWU1hNU91Q3ZMVHYtb0htQkI0eV80VmptYjRpX3JGVWpwZmJjV3RBQmliYTFuYmRwdzZib1lrWVRMdTVVUUROX1gtRER5Wl9YdTlYR2M?oc=5",
+      "source": "O Mato Grosso",
+      "language": "pt",
+      "publishedAt": "2026-07-24T18:30:00.000Z",
+      "whyItMattersKo": "여자 축구 리그가 재개되며 파우메이라스가 시즌 후반을 어떻게 시작할지 주목됩니다.",
+      "fanTakeKo": "여성부 경기도 기대가 큽니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRnS184TVRtTmZ2bnVYR01hbDdkanpTUHZObGdsRmVFdE4wOFN0R3Z3SVB",
+      "title": "Casagrande: Yuri volta a marcar pelo Corinthians; Palmeiras lidera, mas fica sem Danilo - UOL",
+      "summaryKo": "파우메이라스, 선두지만 다닐로 결장",
+      "excerpt": "Casagrande: Yuri volta a marcar pelo Corinthians; Palmeiras lidera, mas fica sem Danilo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRnS184TVRtTmZ2bnVYR01hbDdkanpTUHZObGdsRmVFdE4wOFN0R3Z3SVBxekc3M3ljNXB0emN0WFFnWUlVSXQxbklJZXVmYjAyaUFua053cTdYYURUSmVxdl8zU2pzZEtyMXhEZUdjd2NvTnVzUFJ2Y2ktUXl5NVRzTlRhcEFsaWg2OFVBVzRrQ3BFR3dUZzZzUUZfanJuQURTUkJ4ZXRZYkJRZ2hSY0huUnlXOWJDNC1MbWZxX0k3UDRUWHdTTmMxUjhvVzFaOTlmaExYVXM0SkhQcks0?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-24T18:26:07.000Z",
+      "whyItMattersKo": "주전 다닐로의 결장은 팀의 수비 안정성과 선두 경쟁에 변수가 될 수 있습니다.",
+      "fanTakeKo": "다닐로 없으면 너무 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOHNLWHNoUjMyYjBrZ3JWLU5Ock1fLWQ0eDR5dUs0SlFxMm1uOC13dHRpdnh",
+      "title": "Escalação do Coritiba: Sebastián Gómez é desfalque, mas ataque tem novidade e dúvida - ge",
+      "summaryKo": "코리치바전 상대, 공격진 변화와 주전 공백",
+      "excerpt": "Escalação do Coritiba: Sebastián Gómez é desfalque, mas ataque tem novidade e dúvida&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOHNLWHNoUjMyYjBrZ3JWLU5Ock1fLWQ0eDR5dUs0SlFxMm1uOC13dHRpdnhKMDIwUzRvMEhJYWpwLWt4TlNGbTFZRFZ3SkNtaGItSHVsTW4zUGV6WGw3MWdvZGFxYUZ6Ynh6UXIyand4MHlDajJlVVdya2dRUVZhQ20zM2x4d0hFNVlfeFZRaFQ2Y2JNWGlCbUNBOGVXSml3dEN6M1RQS2VQcVJCa0FqZUFpZFk4M0tRSnAwamZoU3VjMUg4OFFQVE02bURtQ2ZSS3pCdGNBWjloczhWSzVmT0VFYXBXOGpVcHfSAfgBQVVfeXFMTndyUW1HVDh1OFZCTmlId2o1UTJDMzU4QkFVcUhfT21zMzc1dkh1cnhseGZ4U041SEItcFFyMEc0S0VDcVNteEpsclQ5UGUwT3pmZzM5bFJvV0ItYWcwRW93WXNFeTB6MWRhT0pTU2pITExXYkJod0REbXNlSDdYRXpKLS1pbW5PRFotMlo1Vzl5RzNYZUpjS2J1MV9FMTJKbEN3REpsX3Y5dDNwU0F3d0I1WTlfX29tZmZPYzJuOVZSWnZEZjB1X0NfYURLQ0U2N0pMYnZiY3VBTFJyTXc1TndKX05QbkUxb0tjQUt6VjJqMTlRMnpLMF8?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:49:00.000Z",
+      "whyItMattersKo": "상대팀의 주전 결장과 공격 조합 변화는 우리 팀 수비 전략에 영향을 줍니다.",
+      "fanTakeKo": "상대 전력 파악은 필수죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMinwJBVV95cUxOQnNCZjJyblVOLXBUdFVkbHJERFdSQWMwZy1WQlJncEtZQWViMlZ4LXp3Nk5",
+      "title": "Palmeiras confirma saída, recado de Barboza e declaração de João Martins: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "파우메이라스, 팀 이탈 확정과 바르보자 메시지",
+      "excerpt": "Palmeiras confirma saída, recado de Barboza e declaração de João Martins: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQnNCZjJyblVOLXBUdFVkbHJERFdSQWMwZy1WQlJncEtZQWViMlZ4LXp3Nk53eExHS2tFZUh5cGQ0b0NBRk5oY1A0ekswcm1CRjBaYmFhWXpGVmtPck1GUXhvVTVhcmxrWkg5Z0VvLXdsWk5CN2ZJSkQyV1ZsNUxjVXh4dmFLOExXOUFqdlJKSHdqejBtcEo2T1kwVTNmaXJONVJ2a3BqbXFUNEwyWjYtUXZzQ1MxZlNkaGRuVHhWTm1PY1dnRmRGbERxVjJqbWc0U3hBM3VwR1cyQUcyR1JTNWlwLUNhZ2U0LTk2V2VqWkF4bHFvOTFqOVdUejJMc2xqajJnR05Jc3JQeUxuNVBqU0xHMjB2bHNLM1lzQ1lQMA?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:40:00.000Z",
+      "whyItMattersKo": "선수 이탈이 확정되어 남은 시즌을 위해 전력 보강 필요성이 커졌습니다.",
+      "fanTakeKo": "이탈이 아쉽지만 새로운 시작을 응원해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNRHcwU2g2amhoOEVNampQS3drLXk4anVpUkxCYzNrOHZmTGFWOGJlbVdSdkV",
+      "title": "BOTAFOGUENSES TÃO ZOANDO MUITO OS PALMEIRENSES POR CAUSA DO DANILO! CONFIRA O PANTERA ALVINEGRO! @panterareserva01 - instagram.com",
+      "summaryKo": "보타포구 팬들, 다닐로 이유로 파우메이라스 조롱",
+      "excerpt": "BOTAFOGUENSES TÃO ZOANDO MUITO OS PALMEIRENSES POR CAUSA DO DANILO! CONFIRA O PANTERA ALVINEGRO! @panterareserva01&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNRHcwU2g2amhoOEVNampQS3drLXk4anVpUkxCYzNrOHZmTGFWOGJlbVdSdkV2S1diZ3FpVXZWVDdfXzBwQzdFS09ja00xMFpEbnR6aW53?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:26:25.000Z",
+      "whyItMattersKo": "라이벌 팬들의 조롱은 다닐로 관련 상황이 팬들 사이에서 큰 이슈임을 보여줍니다.",
+      "fanTakeKo": "라이벌 팬들 놀리는 건 정말 신경 쓰여요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiigJBVV95cUxPMEh2Y3ViamwtdkViRkhaaDFqbE0yejZPZGdYWG5kV2FsOTZXdXdNNzhtb0F",
+      "title": "Chances do Brasileirão após fim do 1º turno: campeão, Libertadores e degola - UOL",
+      "summaryKo": "브라질레이렁 전반기 종료 후 우승과 강등 확률",
+      "excerpt": "Chances do Brasileirão após fim do 1º turno: campeão, Libertadores e degola&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMEh2Y3ViamwtdkViRkhaaDFqbE0yejZPZGdYWG5kV2FsOTZXdXdNNzhtb0FrdWlPaGtzbmRJVDFZWlpVcVdFd0FaVzJvbVFjSVdsbU5idGVtNEdBZ3RZRUZTa1dNQW1EdG5hMHQ5YXVRMEV2bDY1Z2FXM1ZuQ2QxZWxSQ1pOVWhXa3lWOGJDQUJZamg4MFFMLTc2b3VvRUVCY3dndWNGbUxOOTcxejJ6U1lNSEdIaXBQcnRGN0l4blRQNGNSb3dlNkRjZnp6RmRmeWJVWVlCSEViZEVZT2NBdGFoUDBrOHJrZ2FYS2g1eWNPVmxlVEtrbTgxRE4ySGktX2RfM1dXRm85QQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:22:43.000Z",
+      "whyItMattersKo": "전반기가 끝난 시점에서 팀의 우승 가능성과 리베르타도레스 진출 확률을 파악할 수 있습니다.",
+      "fanTakeKo": "남은 경기 결과가 정말 중요하겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnJXTUFZQWo5Z012TmtpcmUyREFVcVVIXzVBUXRXODJpVm5UQkVmTW9oaFN",
+      "title": "Palmeiras define retorno de Flaco e aguarda reforços contra o Atlético-MG - LANCE!",
+      "summaryKo": "파우메이라스, 플라코 복귀 확정과 아틀레치쿠전 보강",
+      "excerpt": "Palmeiras define retorno de Flaco e aguarda reforços contra o Atlético-MG&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnJXTUFZQWo5Z012TmtpcmUyREFVcVVIXzVBUXRXODJpVm5UQkVmTW9oaFN3MXdYTVhFLVRMclMxeTUycEdWQjhXc1A5M0Y3OHRpR3c2U09aYVo0MXlrSnpxTlZWVU9oVFNHclJRWW1PUFZoVUpKUjdTT0RhQnVHQ0tScEpVaF9xWjZrQXBnTC1pcl9CTlZlcjNvcm9hdy1MTTJPOFZoRkY3RzFwOFNOSVlpdw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:09:46.000Z",
+      "whyItMattersKo": "주전 선수의 복귀와 보강 여부는 아틀레치쿠전 승리와 전력 회복에 중요한 변수입니다.",
+      "fanTakeKo": "플라코 복귀한다니 든든해요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMirgJBVV95cUxNSWQ4OWx1d2hHTHVFVlROcWo0M2xNSkhnNk1LMFN1V3hkeTh2VkUzVzdqcT",
+      "title": "Oferta da Europa por atacante, promessa feita por Leila e situação de Abel Ferreira: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "파우메이라스, 유럽 제안과 아벨 페헤이라 근황",
+      "excerpt": "Oferta da Europa por atacante, promessa feita por Leila e situação de Abel Ferreira: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSWQ4OWx1d2hHTHVFVlROcWo0M2xNSkhnNk1LMFN1V3hkeTh2VkUzVzdqcTN5cy0zeDdRWXQtTnlZT3MzM0djYTVIVDVnazMxREtuZ3pXdmFDM3VldVozUlFYRElwbHZhSk15OGRXbWNoM0d4ZEtHTGtzQ25PdDd4MXlHMTM1T2o5RWMydTgyNldfZ1JOamtYaVNiRlZqck5ZUWRzX1piRUI5b2RzZFJfTkFtYVhKbGRXYWVJVWR1Z2FkSGRLb3JfbkhyVllPU09BVVNPS2RkdnhoLUlRYVQzVzM1amFab1NSM0xQMllNSTM4UDNHOWJrY3lnT1JFTzlDdnZwN09ONmtEczhWdmU4bHVYZXhwWGRPYlZiRTJZaXpKRjJkTW1yT1VEa3pmdw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:05:00.000Z",
+      "whyItMattersKo": "유럽팀의 제안과 감독의 행보는 팀 전력과 향후 시즌 방향에 중요한 영향을 줍니다.",
+      "fanTakeKo": "이적 시장 뉴스는 늘 설레네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYzZoN3liX0doM3ppdVBSRTVyR2pHZllxRVRBSG9vRXZXdHhkYmNVR2NxVz",
+      "title": "Maurício é sincero ao falar sobre o seu futuro, Piquerez impacta em retorno de Vitor Roque e João Martins ativa modo 'sincerão': as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "마우리시오 미래, 호키 복귀에 피케레스 영향",
+      "excerpt": "Maurício é sincero ao falar sobre o seu futuro, Piquerez impacta em retorno de Vitor Roque e João Martins ativa modo 'sincerão': as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYzZoN3liX0doM3ppdVBSRTVyR2pHZllxRVRBSG9vRXZXdHhkYmNVR2NxVzNSUjliZUc0eHZ1c1VwYkVwMEI1RlBHMHdOQUpqVFVSQVA2M1N6a0ZUX3lNanlMS0lacjhIaUt4WlRrZERVd09xYzhDeTVRR2hGMXN0ekJZaFRhbVRIVDZrYnFkRGhMS0FTemQ5dnpPS3dvb2FFVGxucHNQRFFOMlBTWXNXTTctZkliX2FiZlluQ05wdk1qbU5zWjVfMUhsTkRwa2s1XzJ0MjlMcnI3dDIzd2gxQmVkd1Q0UlhHQnpPZGhjQTYwWHhNZmdUOE9abXpGUGdUSUVvYmV5YVZyeHdUZXd5UWMtdlgtLVFZbEhzTHpWdnRqVGZybERFWkh2NEdzb0hKSHNpUzNBc1hCc3M3QkNfUUxNMi1kSFJOSWVXOFIzOXBETkxvbkMtMGZXb2xGMVpWSDRWTzV3?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-24T17:05:00.000Z",
+      "whyItMattersKo": "주전 선수의 미래와 새 선수의 합류는 팀의 전력 강화와 분위기에 큰 변수가 됩니다.",
+      "fanTakeKo": "마우리시오는 꼭 남아줬으면 좋겠는데요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -78,22 +254,6 @@
       "publishedAt": "2026-07-24T16:19:24.000Z",
       "whyItMattersKo": "미래의 주역들이 될 유소년 선수들의 성장과 성적을 점검할 기회입니다.",
       "fanTakeKo": "미래의 에이스들을 기대해요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRnS184TVRtTmZ2bnVYR01hbDdkanpTUHZObGdsRmVFdE4wOFN0R3Z3SVB",
-      "title": "Casagrande: Yuri volta a marcar pelo Corinthians; Palmeiras lidera, mas fica sem Danilo - UOL",
-      "summaryKo": "파우메이라스, 선두지만 다닐로 결장",
-      "excerpt": "Casagrande: Yuri volta a marcar pelo Corinthians; Palmeiras lidera, mas fica sem Danilo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRnS184TVRtTmZ2bnVYR01hbDdkanpTUHZObGdsRmVFdE4wOFN0R3Z3SVBxekc3M3ljNXB0emN0WFFnWUlVSXQxbklJZXVmYjAyaUFua053cTdYYURUSmVxdl8zU2pzZEtyMXhEZUdjd2NvTnVzUFJ2Y2ktUXl5NVRzTlRhcEFsaWg2OFVBVzRrQ3BFR3dUZzZzUUZfanJuQURTUkJ4ZXRZYkJRZ2hSY0huUnlXOWJDNC1MbWZxX0k3UDRUWHdTTmMxUjhvVzFaOTlmaExYVXM0SkhQcks0?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-24T16:16:09.000Z",
-      "whyItMattersKo": "주전 다닐로의 결장은 팀의 수비 안정성과 선두 경쟁에 변수가 될 수 있습니다.",
-      "fanTakeKo": "다닐로 없으면 너무 아쉽네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -206,6 +366,22 @@
       "publishedAt": "2026-07-24T15:36:25.000Z",
       "whyItMattersKo": "주요 선수와의 계약 실패는 팀 전력 강화와 분위기에 부정적인 영향을 줍니다.",
       "fanTakeKo": "다닐로 계약, 정말 아쉽네요 ㅠㅠ",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzJQN3JmMFZrbTZMTVoyRXVGaFFMaF81dWhlN0xaV2ZSNlh5bURiWDl2STE",
+      "title": "PALPITES DO BRASILEIRÃO PARA DOMINGO 26/07/2026 | PALMEIRAS x ATLÉTICO-MG + FLAMENGO x SÃO PAULO - LANCE!",
+      "summaryKo": "브라질레이랑, 파우메이라스전 관전 포인트",
+      "excerpt": "PALPITES DO BRASILEIRÃO PARA DOMINGO 26/07/2026 | PALMEIRAS x ATLÉTICO-MG + FLAMENGO x SÃO PAULO&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzJQN3JmMFZrbTZMTVoyRXVGaFFMaF81dWhlN0xaV2ZSNlh5bURiWDl2STEzYVRfWmN2UWh0TzNoUG01UUVxRndRb0xjYVhZT3FvYTRjX0x2QTFHQ1Z2V0pBOGExVFJIc1hCSFkwSHpGVFB0TkZVeXdmZGpNVV9tYnVVMXlRVFdNUDdOZzZfUDQxMHJCQ3d1aWNKRTVPN3pwc1h3M2hDREJIbVgwZUFsN3ltaC1MU2JPU3dVcjlnb1R6Zw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-24T15:28:58.000Z",
+      "whyItMattersKo": "일요일 열릴 리그 경기의 승부 예측과 관전 포인트를 미리 확인할 수 있습니다.",
+      "fanTakeKo": "이번 경기 승리 기대합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -660,22 +836,6 @@
       ]
     },
     {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTFSNEJFT3p5cGs0NGxYeC1HTkRZbWFsQk1LamNUcVRCSFk0T1BJR0d4eT",
-      "title": "Mixto desafia o Palmeiras no Dutrinha na retomada do Brasileirão Feminino - O Mato Grosso",
-      "summaryKo": "파우메이라스 여성부, 브라질레이렁 재개 후 첫 경기",
-      "excerpt": "Mixto desafia o Palmeiras no Dutrinha na retomada do Brasileirão Feminino&nbsp;&nbsp;O Mato Grosso",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTFSNEJFT3p5cGs0NGxYeC1HTkRZbWFsQk1LamNUcVRCSFk0T1BJR0d4eTZlbk8yV1JzQlp6UGpDTDZXemtzVTZJZXdMQlVjVGtuWU1hNU91Q3ZMVHYtb0htQkI0eV80VmptYjRpX3JGVWpwZmJjV3RBQmliYTFuYmRwdzZib1lrWVRMdTVVUUROX1gtRER5Wl9YdTlYR2M?oc=5",
-      "source": "O Mato Grosso",
-      "language": "pt",
-      "publishedAt": "2026-07-24T12:30:00.000Z",
-      "whyItMattersKo": "여자 축구 리그가 재개되며 파우메이라스가 시즌 후반을 어떻게 시작할지 주목됩니다.",
-      "fanTakeKo": "여성부 경기도 기대가 큽니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-16-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOazR5MVFkVEtHMmNLM0tIYXZ6bXhZV2VsWnZhZHgtZE45aWVmOG9aM24xTE",
       "title": "Palmeiras encerra busca por reforços após fracasso na negociação por Danilo - Terra",
       "summaryKo": "파우메이라스, 다닐로 영입 실패 후 보강 종료",
@@ -790,156 +950,6 @@
       "publishedAt": "2026-07-24T11:05:00.000Z",
       "whyItMattersKo": "2022년 우승 이후 가장 긴 무패 행진이라 팀의 철벽 수비와 우승 경쟁력을 확인했습니다.",
       "fanTakeKo": "수비 라인 완전 철벽이네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFQ5a2FQQS1zUVF4cG1RZDM1SEFKWWV2emREVHMwTUlGNWlnT25rNDUtWGZ",
-      "title": "Palmeiras fecha turno com pontuação recorde e boa perspectiva - LANCE!",
-      "summaryKo": "파우메이라스, 전반기 최다 승점으로 화려하게 마감",
-      "excerpt": "Palmeiras fecha turno com pontuação recorde e boa perspectiva&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFQ5a2FQQS1zUVF4cG1RZDM1SEFKWWV2emREVHMwTUlGNWlnT25rNDUtWGZ0eFJwa3ViZFgyTXF6RnZyeGtiLUR6cGlHdVZpbmNsUkVNR2xySEpQazVaUXNxdjdKelJpZ3JaSk9fOU5peUNaTmtTMDNPSzhaX2Q0dThZTTBJbFI3TEdUbGJqWkVLdEpuWnFldzYtc1JNTmxqSDRGRkUzUG9wSFkzTVNHUUFGV3NkMThVOVgw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-24T10:30:00.000Z",
-      "whyItMattersKo": "전반기를 최다 승점으로 마감해 후반기 우승 경쟁과 사기 진작에 매우 유리합니다.",
-      "fanTakeKo": "이대로면 우승 확실하잖아!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiggJBVV95cUxQZGJOV0hFS3FSY2UwU05pUlBzeURRTlFfRTg1RDJzeHBEdHhZVjB6TVl4Y0p",
-      "title": "Heittor estreia no profissional, encanta Abel e teve ofertas negadas pelo Palmeiras - Rádio Itatiaia",
-      "summaryKo": "신인 헤이토르 데뷔전, 아벨 감독 감탄",
-      "excerpt": "Heittor estreia no profissional, encanta Abel e teve ofertas negadas pelo Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZGJOV0hFS3FSY2UwU05pUlBzeURRTlFfRTg1RDJzeHBEdHhZVjB6TVl4Y0pYLVc3RE1hQW9rRFB3WXFUT2U5VjJkSVRFcUwxalc4dENBS3k3ZXd3Ynh6M1lJVnAtMmN3cjhOSDR5YXdTWG5YSDUyeHdTVEQ5NDh0eGZFVTFJZXFZNF9pZXU5NTduSEtqeW9YU0U3dW40R05ZWTdkU2pKbmg0eHE4WnB2clFKV25CbmVWWXcwZnJEX2dNZXZ2TFliT2ZPUWoyTlg0UGhQZjh3Y0VnRm82NDZudE1pUHBLM0kwQ0xPd1d6b2FULTVqdlBxckVPNjI2VzJ2NUE?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-24T10:15:19.000Z",
-      "whyItMattersKo": "신인이 데뷔전에서 감독을 감동시키고 이적 제안까지 거절된 만큼 미래가 기대됩니다.",
-      "fanTakeKo": "헤이토르 꼭 키워내야 하는데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaXpZZ3ZXX004S0lnSnhNbnkwd0tfd3NkWUV5V1FoOEdhakJRbUMzbmgyUVN",
-      "title": "Leila Pereira faz promessa envolvendo negociações do Palmeiras - Terra",
-      "summaryKo": "레이라 페레이라 회장, 영입 약속했다",
-      "excerpt": "Leila Pereira faz promessa envolvendo negociações do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaXpZZ3ZXX004S0lnSnhNbnkwd0tfd3NkWUV5V1FoOEdhakJRbUMzbmgyUVNzS0Z2OHl1NW9wdGFWSTdfVGhlWXpLVWxBRmc1bmlNUzF6VlFVWk42MjB6a3l3R0t0RkZLSm5EOUlhemlYZXVvbGNIanh4bTlwdkdSczNpemVLNF9Xa2QyUjVpNzQzZ3R3eG5xNFYwZ0lIVmE4YndRVy0tZXVnRVc0eEk1R24tRlNqN0hQanZnN0JBSVlXWVZCbU1IREhYUGRNNFd2emhrYXlUVTRDYWdYblg4U1FHUzY0dVE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-24T09:53:00.000Z",
-      "whyItMattersKo": "구단주가 영입과 관련해 공식적인 약속을 해서 팬들의 기대감이 높아졌습니다.",
-      "fanTakeKo": "약속 지켜주길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMizgFBVV95cUxPQl82ajZvYlhSWUJvVnN6aTkxbEtCUWt1d252WnVsM3FCU3hWbldvNVhVc2",
-      "title": "Leila Pereira lamenta fim de negociação por Danilo e diz que volante 'vai voltar' ao Palmeiras - Alagoas Alerta",
-      "summaryKo": "레일라 페레이라 (Leila Pereira) 는 다닐로 (Danilo) 의 협상이 끝난 것을 후회하며 운전대가 파우메이라스로 '돌아올 것' 이라고 말합니다. - Alagoas Alert",
-      "excerpt": "Leila Pereira lamenta fim de negociação por Danilo e diz que volante 'vai voltar' ao Palmeiras&nbsp;&nbsp;Alagoas Alerta",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQl82ajZvYlhSWUJvVnN6aTkxbEtCUWt1d252WnVsM3FCU3hWbldvNVhVc2ZaLXNxaFpoalhDT1VFS09BVm1McTZ0NldMcEtuMU9FYWlYZzh2YTVwN0xPLWpPUmVlNGlxa1ZXU2FGakhtdEdHMXl1S1F2cTFuTG1wTmlTZUxJVTJmV1ozMVdQSE5JdDJtNENhU2pPT2o1Vmh3ajJGXzdQOEI3UFQ2TUxPcnp1b2xOOHQxM2d6VkI4X3VHOUtBSmFhbWFJT3FNQQ?oc=5",
-      "source": "Alagoas Alerta",
-      "language": "pt",
-      "publishedAt": "2026-07-24T09:31:12.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDJrNGJ4WmdqQ3UtN2xCZjhZZWZaeHZwTHViYmxjam96dlRQX2ZyeUVrQll",
-      "title": "Leila Pereira lamenta fim de negociação por Danilo e diz que volante 'vai voltar' ao Palmeiras - Alagoas Alerta",
-      "summaryKo": "레일라 페레이라 (Leila Pereira) 는 다닐로 (Danilo) 의 협상이 끝난 것을 후회하며 운전대가 파우메이라스로 '돌아올 것' 이라고 말합니다. - Alagoas Alert",
-      "excerpt": "Leila Pereira lamenta fim de negociação por Danilo e diz que volante 'vai voltar' ao Palmeiras&nbsp;&nbsp;Alagoas Alerta",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDJrNGJ4WmdqQ3UtN2xCZjhZZWZaeHZwTHViYmxjam96dlRQX2ZyeUVrQllRcHdsTEhpRWViSGd4TEh0UjYtMlJjZkdtTW9ZVTl5dTh3VmJJeDRHQVMycFVJT1RWekROTkZySjF3VGhoeENqMHJBVU1LX0ZWQ0xEVndkVF9wcFRUd0l2Z1B6OHRHaVViRFg1b1g4UlZxX1BISkZlUTdSQ2pGeW9oZTNsV1BicjdkejlzZVRUSW85U0hUcU9TWG1oWQ?oc=5",
-      "source": "Alagoas Alerta",
-      "language": "pt",
-      "publishedAt": "2026-07-24T09:31:12.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDEtQmpmUlV4bkoxeXlPUGUyUkdmSmpxNTY2WTdDbzVBVmt3QUFNamRPNXV",
-      "title": "Palmeiras fica sem principal alvo da janela após permanência de Danilo no Botafogo - LANCE!",
-      "summaryKo": "Palmeiras는 Danilo가 Botafogo에 머무른 후 창문에서 주요 목표물이 없습니다 - 입찰!",
-      "excerpt": "Palmeiras fica sem principal alvo da janela após permanência de Danilo no Botafogo&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDEtQmpmUlV4bkoxeXlPUGUyUkdmSmpxNTY2WTdDbzVBVmt3QUFNamRPNXVSUGRrMnA2TFo2RGd4bUR5N0RtVC10eW1VY01vZ216VzR2Rl83MUlDdWhKbGhrSnUzZ0loTm1jeEFpWjFaRXpSU2NteVk1OXdMaGpUMG5KckNZc1pxc0FSQlV0dC1ydFJOS1lncjZId1RTX0pNM3c1TzNuVWdRMTF2VnZBSjRUNjFXc0lvWllKWXdSdw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-24T09:30:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMixwFBVV95cUxOX3VkS01IMkRKUjU4NlBMSldRVVRWZU5LMXFJQUlDMWpuVWg2TlZWSkNhclZ",
-      "title": "Cria da Academia e do Recife: atacante estreia no Palmeiras e tem Endrick como inspiração - LANCE!",
-      "summaryKo": "아카데미와 산호초의 생물: 공격자가 파우메이라스에 데뷔하여 엔드릭을 영감으로 입찰합니다!",
-      "excerpt": "Cria da Academia e do Recife: atacante estreia no Palmeiras e tem Endrick como inspiração&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX3VkS01IMkRKUjU4NlBMSldRVVRWZU5LMXFJQUlDMWpuVWg2TlZWSkNhclZYVkVwMlgtaFoxaUZkeGFVN3VYa2NLeE50Ylp5Y3k0MUMxYjliWmkzdUc2czRnMVVsbFlqekhFX3dKVjJoY1hlUU1oOVNwZWxiVWlNR3RpZmJyRWQ0ejJnLUZFQ29xS0ZGMW5UNzdFQi1YT2Izd2xBS3E0bzVCaEVTM1BsZGc3S2hKUjhDZXJwTEJLbjhSRUxMU2FV?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-24T09:05:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMixAJBVV95cUxNZzY1c3YzV25Dd0Nybzc1clBTOVFxdzRfeXhvYThYX05FSThjYWZOdkwzaF",
-      "title": "Atacante de 580 milhões assina, diretoria diz não para o Vasco e atitude de Flaco López rouba a cena: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "공격수 영입 완료, 바스코 제안 거절",
-      "excerpt": "Atacante de 580 milhões assina, diretoria diz não para o Vasco e atitude de Flaco López rouba a cena: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNZzY1c3YzV25Dd0Nybzc1clBTOVFxdzRfeXhvYThYX05FSThjYWZOdkwzaFRoZ0FtT0ZRV04ySG1lWEFSdkdrU3FYckxyY1hJZXBhbmdrVUhHaFQtdnZ2TkhJUnhOZ0x1RFloaUk1SG9PRU90MmZRZWE2dDNpVDdxMkhZdWdWRGlPYzRGNGZ0bnBLdGlXMWF2bW5SOW12MFQwNG1uanMxTHdhc1VUQkRuUGU3cXhoTU9ZUl9oVnh1Z2JDVC1FdF9pR1NkZTQ0VkxGdnRKV0lubDF5VkhUd0lKeExHaVRscDhnRnk3ZE5uZTRqNDZYSGdMaE50TldhbHhSbnU1eTllajczMzFUMkstU0RNLUdkNEk3NG5pbS15QVRhMjV4S1hjamNrT1QwajJpLUdmMXI2R05ERHpEVkxUbjl4V0s?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-24T08:55:00.000Z",
-      "whyItMattersKo": "고가의 공격수 영입이 확정되고 바스코의 제안을 거절하며 팀 전력 보강에 힘썼습니다.",
-      "fanTakeKo": "플라코 로페즈 태도가 최고였다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMingJBVV95cUxNRU5TYWkwMlk4Yk1sU1doWWpSY3B6VXFYT2dHRnhoTmJ6enh1RzBFcUlvcUR",
-      "title": "Palmeiras não vai atrás de outro reforço após ficar sem Danilo, do Botafogo - UOL",
-      "summaryKo": "Palmeiras는 Botafogo - UOL에서 Danilo를 소진한 후 다른 보강을 수행하지 않습니다.",
-      "excerpt": "Palmeiras não vai atrás de outro reforço após ficar sem Danilo, do Botafogo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRU5TYWkwMlk4Yk1sU1doWWpSY3B6VXFYT2dHRnhoTmJ6enh1RzBFcUlvcURXWXZnRXVja2pSeFJ0ZWh4cmdyTzM4d0d3Q3hvUzdRVElSZmdZaTZSR0NCT1dYODhzTl9Cb2E4MjNPZzJQaE9nei1KRHNkTlE0RnFleEgwNksydHlQdFVSeF9LM1RUZWpIQkxEQkdsNWpLUmhDNE1BWElpc3hHSHB6Wk5qLWZVRGpCa0E4a2dvWHI3SjZyYjhLaEhydDZnbExpM216bFBYdUlMMzVKN0Vxb3daM1daWVd1TV8ta2t1UUd1N0dmTHpOVzFXTUg4UC1fZTVEZV9iUWVidHhOSTBCcF9IaldwdTc2WkVtdDJmTFBn?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-24T08:33:30.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlLVGF4ejAwcklPWm5ldFFkaE82SVg2TXg3bk02aUhQeUp6ekpvcWs1c25",
-      "title": "Fala de Danilo sobre negociação com Palmeiras viraliza: 'Está certo' - LANCE!",
-      "summaryKo": "다닐로, 파우메이라스 이적설에 '맞다' 발언",
-      "excerpt": "Fala de Danilo sobre negociação com Palmeiras viraliza: 'Está certo'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlLVGF4ejAwcklPWm5ldFFkaE82SVg2TXg3bk02aUhQeUp6ekpvcWs1c25iVEZOSzdFaFM1M3lxVmQ1VWlhcjl1ZVJDSlQ2aE9mYjFDN3h4WGtrcDJWX2plaV94eU5CWWdneGlyQU1oTTh2QldPQzV5dW42TW1Jdmx5ZjFwQXBoTEZGQ19ucFdSZElCLTlJeFp5UDI5bEZQMGJZQTMzV2g0X2dWLVE?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-24T08:30:00.000Z",
-      "whyItMattersKo": "선수 본인의 언급으로 이적 시장 상황과 팬들의 관심이 다시 한번 뜨거워졌습니다.",
-      "fanTakeKo": "다닐로 꼭 데려오고 싶어요!",
       "tags": [
         "뉴스",
         "AI요약"
