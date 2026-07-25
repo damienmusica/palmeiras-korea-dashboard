@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-25T20:53:54.939Z",
+  "fetchedAt": "2026-07-25T21:57:10.919Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVRVemQxTXhGUXlsYmFidjJIV2Rua1QtMGMtSWVuRDhsa0xrSkxLNkRvNXd",
+      "title": "Palmeiras se aproxima de acordo por renovação de Gomez - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 고메스와 재계약 임박",
+      "excerpt": "Palmeiras se aproxima de acordo por renovação de Gomez&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVRVemQxTXhGUXlsYmFidjJIV2Rua1QtMGMtSWVuRDhsa0xrSkxLNkRvNXdsS2dHYkMwMEF2cl9VNkxvc0oxa3RXQ1h1VkZrSFZSSXpLSXktT3J3UHZMV0tHLWtwODZhTzNEXzlhVDRwN1QxQ2NtRGRrejdQZFhhY0R4amdfeW1LdkMzUktSaWlnOU1oMmp4Y2hheWg5ODh2bWE4?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-07-25T21:50:18.000Z",
+      "whyItMattersKo": "팀의 주장이자 수비의 핵심인 선수가 잔류하면 팀의 방어력과 리더십이 유지됩니다.",
+      "fanTakeKo": "주장이 계속 남아주길 바라요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiaEFVX3lxTE1abl9NY1pmUncxcExoRVlHdWdJWEtidTJqWk1KS3BzZjF4dGE2OVJ2bnZHVkF",
+      "title": "Gustavo Gómez fica a detalhes de renovar até 2029 - Portal ABC do ABC",
+      "summaryKo": "고메스, 2029년까지 장기 계약 설",
+      "excerpt": "Gustavo Gómez fica a detalhes de renovar até 2029&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1abl9NY1pmUncxcExoRVlHdWdJWEtidTJqWk1KS3BzZjF4dGE2OVJ2bnZHVkFDMVotY1UyRkxRNjlIVTZtUGRHdUtUUzBwWk5RY3B4X2xRaTdia2hDTjRFek05ekZVNkJk?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-07-25T21:41:40.000Z",
+      "whyItMattersKo": "장기 계약은 주장의 구심점 역할을 굳건히 하고 팀의 미래 방어선을 안정시킵니다.",
+      "fanTakeKo": "오랫동안 팀을 이끌어주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUpPODJJUUR1eUwwMmwzelk2aXFIbjZmRmpBcHVqNDM2Sk1HVlpUQlNOaTV",
+      "title": "Palmeiras tropeça no Mixto pelo Brasileirão feminino - Terra",
+      "summaryKo": "파우메이라스 여성부, 믹투전에 발목",
+      "excerpt": "Palmeiras tropeça no Mixto pelo Brasileirão feminino&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUpPODJJUUR1eUwwMmwzelk2aXFIbjZmRmpBcHVqNDM2Sk1HVlpUQlNOaTV3d2R5ZWhzM2JETG82NUVsZDI0aVZuUnQtUHVKNXJ4eXhJaVdNdl9kMFV5VFRRSEd1QzdRUUZzNEtRMFh5M0h3SWM0SjVMRERxa21NME9HTkpyaG8xbzZIa1N0REprcU81R1RtQ0pvWUdRMGw2VXVNZDJFSHh3NDlSeUxYbkNtWnh0N3BrZ3ZXMlBIN2Z5RnQ4MmNNSFByTjc2Y1gxbnRCdWhqekZDZw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-25T21:25:00.000Z",
+      "whyItMattersKo": "여성부의 경기 결과는 리그 순위 경쟁에 직접적인 영향을 미치는 중요한 승점 싸움입니다.",
+      "fanTakeKo": "아쉽네요, 다음 경기는 꼭 이겨요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1hmZXlWV0RxUFJuNVo0UkVEZXFuWWdBQmtlMTM0TGRUSllLS19UMFZkWDd",
+      "title": "Atlético tenta encerrar sequência negativa diante do Palmeiras em São Paulo - O TEMPO",
+      "summaryKo": "아틀레치쿠, 파우메이라스전 악연 끊나",
+      "excerpt": "Atlético tenta encerrar sequência negativa diante do Palmeiras em São Paulo&nbsp;&nbsp;O TEMPO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1hmZXlWV0RxUFJuNVo0UkVEZXFuWWdBQmtlMTM0TGRUSllLS19UMFZkWDdQVGtHOEtkbEtwYy1BMFJFcU5aakVkWEh0dnBtRmJVSGpjN3dGak1MZnpybW5NTTZZa21HdGd4VlRjZ245WlJpdGE3ckc1YWs5MF9xWFkwWnQ2ck9lVXlJVU5sNHd6VzhXVWM5blpQZVItZFRibGdDWmZ2NkpNMjB6NGpSb1NpTTJtWHFmNmJ2cUhEOS11SnFXcEHSAcsBQVVfeXFMTWNVYWlDMWtlTGZnbURkZmF4b2Jac293UzhXdzdUMGF5eTkwUk4tUjBSSTRCT3VJUmJRTkR5djcydmZBZXcwOGJQeHV0UVRmcHk3bXlRTl9yeVdWZUVXNXB5eGFHQzJkSGVnR09oS20wcnBacjNCN1dBSXZBVUdtYW1hYzNocmxPZThJb0hFbkVudExNZ1gweFV1VHBGcEhGR05kQkdQQ2Ewenl4OGotN3FZVVdVZF94RlBKYXdZOFpaNEU5R3VFWF8wT2c?oc=5",
+      "source": "O TEMPO",
+      "language": "pt",
+      "publishedAt": "2026-07-25T20:49:39.000Z",
+      "whyItMattersKo": "상대의 부진을 틈타 이기면 순위 경쟁에서 유리한 고지를 점할 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "이번엔 꼭 이기는 거죠?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tajB4dnJTaTFuLWdpeXg2eEg1UkpKdDk1cUxvN1ljaVpZNXZMell5UFN6b3J",
+      "title": "🐷 De volta ao chiqueiro! Neste domingo, às 19h30, o Palmeiras recebe o Atlético Mineiro no Nubank Parque, em jogo válido pela 20ª rodada do Brasileirão, a primeira do segundo turno. Líder do Brasileirão com 44 pontos, o Palmeiras entra em campo busca - instagram.com",
+      "summaryKo": "선두 파우메이라스, 미네이루전 홈서 개전",
+      "excerpt": "🐷 De volta ao chiqueiro! Neste domingo, às 19h30, o Palmeiras recebe o Atlético Mineiro no Nubank Parque, em jogo válido pela 20ª rodada do Brasileirão, a primeira do segundo turno. Líder do Brasileirão com 44 pontos, o Palmeiras entra em ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tajB4dnJTaTFuLWdpeXg2eEg1UkpKdDk1cUxvN1ljaVpZNXZMell5UFN6b3JzSTZ6cHBtSEJxNDdiQzZVTC1LdXZFSzMxUm5sU2c?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-07-25T20:38:30.000Z",
+      "whyItMattersKo": "후반기 첫 경기를 선두로 치르며 승점을 쌓아 브라질레이렁 우승 경쟁에서 우위를 점해야 합니다.",
+      "fanTakeKo": "홈 경기니까 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzZHdHo0bk45Y3ZtaGFzQ1Z3cFFPblNYamFyVDZEdm0yS0o3bURXUmlhMTR",
       "title": "Palmeiras aposta em trio de reforços para manter vantagem no Brasileirão - LANCE!",
@@ -164,6 +244,22 @@
       ]
     },
     {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMi8AFBVV95cUxObkRjcDhxX1N0cVVqOGktLXA1R2YtdW9RR0x5c3FzLWt3VGZBSFd6ZFYzTm",
+      "title": "Campeões com Palmeiras, Dudu e Scarpa buscam retomada em momento de baixa no Atlético-MG - GE",
+      "summaryKo": "두두와 스카르파, 미네이루서 부활 노린다",
+      "excerpt": "Campeões com Palmeiras, Dudu e Scarpa buscam retomada em momento de baixa no Atlético-MG&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObkRjcDhxX1N0cVVqOGktLXA1R2YtdW9RR0x5c3FzLWt3VGZBSFd6ZFYzTmxwNmNMSUNTUGk2U19jTkVIMlNfVzZWT2I5Y2dySzRudnJtOFFmY0Fqb3lrUW9qbUU0YmZzUzRNS3dudTJ5MFBnNGFGNzNia0VvdGN3U0RDTnlKS2hjUzBGQXVhMURmdkpFZEpKT0lhZ19RZlBtTFdBSlFFQ0ZsdmJmM0lZUk9BOUJvTGhmMGlxRXU1RlFldW9RTXFUdGhoaThXdl9sQ19MWk0ya1E2VlVxMjVHNXlkZU45UzkyVlRFWlBmMC3SAf8BQVVfeXFMTUliWVh1d2VMNmUtaTdxbjNmX1ZvaDAzME8tWkduZ1RiRUNibk1VTWFKUk0tWmU2aU5MTHlTYncxSENlcDdmeWZMb2JMWFM2M3hhVl95MkZkNkdUM1pWdTJPVUF0Nnh0T3RuRXNCNmpxbURKTkpQNWVmZzZaRmd0MGd1dFo4S21taFFwdHZGOVBpQ1JHeU1KWEwtOFAxeTExRGVqcU1Ma1lzQUcybnctWE5OQmVkRXVNNkhJTXV0SDk1M1lKWEpQSVNwaGFud3RTT0ZwZUJYZmRQSExkYjlOTE02aUhkOWlTUzVKbEdhdWFQWm5tWWhIUXhmczA5ekl3?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-25T18:07:34.000Z",
+      "whyItMattersKo": "파우메이라스 전설 두두와 스카르파가 현재 소속팀의 부진을 만회할지 주목됩니다.",
+      "fanTakeKo": "우리 전설들이 잘했으면 좋겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa001NlotQ2Q5cHpnQnh6b3lQeV9fVWlFWGdmaC0tS3AyRURGN2hHcWNwYWw",
       "title": "Palmeiras x Atlético: onde assistir, escalações e arbitragem - Terra",
       "summaryKo": "파우메이라스전 중계와 라인업, 심판 정보",
@@ -282,6 +378,20 @@
       "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-25T16:36:58.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM042UDlPbi1PV2J4dHVvenYwQXo3MnJBeGRyc0lqNjVEVGszeFBxQ2s2b1R",
+      "title": "Palmeiras x Atlético: prováveis times, desfalques, retornos e tudo sobre o duelo válido pela 20ª rodada do Brasileirão - FalaGalo",
+      "summaryKo": "Palmeiras x Atlético: 가능한 팀, 횡령, 반품 및 브라질레이랑 20라운드에 유효한 결투에 대한 모든 것 - FalaGalo",
+      "excerpt": "Palmeiras x Atlético: prováveis times, desfalques, retornos e tudo sobre o duelo válido pela 20ª rodada do Brasileirão&nbsp;&nbsp;FalaGalo",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM042UDlPbi1PV2J4dHVvenYwQXo3MnJBeGRyc0lqNjVEVGszeFBxQ2s2b1R2RW1aS1drS0RhZXM1bXhPZXBNYXVFa0ZXb3ZEMTZ2dFVFN2lNWWZXdE9WOGhQenltdWw5elZVZGdQMmdFNUlVY3Z5N0xfUHZ2eUFBSTlZZkpiX0lzMTM5cS1zMnZmLUtCUXdYcmVjZFQ3RkR6VDM5cWxIOVp4OHFFMTMxR2Y3cU1WN1JsVXdfWXd2NWhxSTdETmN2dHYyT2poc3NkZG9IdHFJNA?oc=5",
+      "source": "FalaGalo",
+      "language": "pt",
+      "publishedAt": "2026-07-25T16:21:22.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -473,20 +583,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM042UDlPbi1PV2J4dHVvenYwQXo3MnJBeGRyc0lqNjVEVGszeFBxQ2s2b1R",
-      "title": "Palmeiras x Atlético: prováveis times, desfalques, retornos e tudo sobre o duelo válido pela 20ª rodada do Brasileirão - FalaGalo",
-      "summaryKo": "Palmeiras x Atlético: 가능한 팀, 횡령, 반품 및 브라질레이랑 20라운드에 유효한 결투에 대한 모든 것 - FalaGalo",
-      "excerpt": "Palmeiras x Atlético: prováveis times, desfalques, retornos e tudo sobre o duelo válido pela 20ª rodada do Brasileirão&nbsp;&nbsp;FalaGalo",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM042UDlPbi1PV2J4dHVvenYwQXo3MnJBeGRyc0lqNjVEVGszeFBxQ2s2b1R2RW1aS1drS0RhZXM1bXhPZXBNYXVFa0ZXb3ZEMTZ2dFVFN2lNWWZXdE9WOGhQenltdWw5elZVZGdQMmdFNUlVY3Z5N0xfUHZ2eUFBSTlZZkpiX0lzMTM5cS1zMnZmLUtCUXdYcmVjZFQ3RkR6VDM5cWxIOVp4OHFFMTMxR2Y3cU1WN1JsVXdfWXd2NWhxSTdETmN2dHYyT2poc3NkZG9IdHFJNA?oc=5",
-      "source": "FalaGalo",
-      "language": "pt",
-      "publishedAt": "2026-07-25T12:00:05.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     },
     {
@@ -850,102 +946,6 @@
       "publishedAt": "2026-07-25T04:42:49.000Z",
       "whyItMattersKo": "다가오는 경기 분석은 승리 전략과 선수들의 컨디션을 파악하는 데 도움이 됩니다.",
       "fanTakeKo": "이번 경기도 무조건 승리!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMisAJBVV95cUxPanZTVk9kR3hjdFdRYVdYcDlIbmxOWTNDNDBaaG1mZk9GUUkwSmlMcXpRNE0",
-      "title": "Técnico do Inter avalia atuação após vitória sobre o Fluminense e fala sobre sorteio da Copa do Brasil - GZH",
-      "summaryKo": "인테르 감독, 플루미넨제 승리 후 평가",
-      "excerpt": "Técnico do Inter avalia atuação após vitória sobre o Fluminense e fala sobre sorteio da Copa do Brasil&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPanZTVk9kR3hjdFdRYVdYcDlIbmxOWTNDNDBaaG1mZk9GUUkwSmlMcXpRNE0yeFFRRmVZc3hwZVRSWDVpTGJabnV1ZnRCTVdxZnJlbER4TDE5bnc2NlBhT3Bhb3Nxb2dOcVV6R3U3ZXZubkRhc1BxZ3BSZUd6V0F2d2Jad2ZWc3VBNmxFWVFhSDAyazFGYXNGT3h0dFItQzlqTnZWYk4xTUV1TDROVTgyb1oyUjlDYlNCOHdaMVdnOUswY2JSYUdSN1pvTTZvZi1LZ0lrNGlOQmZHeHd1NHZXWWJiNnE3LTJaUlRjSTBSYTQ4eW9xV0tEQ0hYQlNjaWh4SUlIVTEyZjkxMXdhWFdXa3RCSlBkVmpVc29RLXdINHhGSG5sSlMtQWFIRk5wbW1W?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-07-25T02:56:20.000Z",
-      "whyItMattersKo": "승리로 팀 분위기를 띄우고 코파 두 브라질 대진에 관심을 모으고 있습니다.",
-      "fanTakeKo": "인테르도 잘하네, 대진은 어떨까?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3gFBVV95cUxORm91ZnFzVlJ6VmFRMmQ4blVZeEkyc293WjZ5TWtXVjNHdXVfaVpfVVluVkh",
-      "title": "A probabilidade do Palmeiras ser campeão do Brasileirão - Terra",
-      "summaryKo": "파우메이라스, 브라질레이렁 우승 확률은?",
-      "excerpt": "A probabilidade do Palmeiras ser campeão do Brasileirão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORm91ZnFzVlJ6VmFRMmQ4blVZeEkyc293WjZ5TWtXVjNHdXVfaVpfVVluVkh1SERGMFN4RExRWW5JY3VkNXR4WUZuYXc2RDJDdXBndjA2bUpQSnVKQk1MMEppeVUtZmoxSUlRSUpnSm9qSmZlQkVMWUFaNF94V0w4d1NFcElnN1NBcWlHcEF5T2MxRkZLSEVpMmthUzI5LWJMX2ZrYzg5MVVfcllYb2Z6UlZFaXlDcGJCZkNOR3pNakhHeVBPWjZhZGNscUVnal9id3FzZU91WXhFQXNsZ0E?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-25T02:48:00.000Z",
-      "whyItMattersKo": "수학적 우승 확률을 통해 남은 일정과 경쟁 구도를 객관적으로 파악할 수 있습니다.",
-      "fanTakeKo": "우승 확률 보니 기분 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3JTN2VLbE5CalpYSGc2NWZ2Z0FJQU1hNEhrSTREeWFCTmNXQXdtYnBsMWk",
-      "title": "Quem deve entrar no lugar de Barboza em Palmeiras x Atlético-MG? - Terra",
-      "summaryKo": "바르보자 빈자리, 누가 대신 뛸지 궁금",
-      "excerpt": "Quem deve entrar no lugar de Barboza em Palmeiras x Atlético-MG?&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3JTN2VLbE5CalpYSGc2NWZ2Z0FJQU1hNEhrSTREeWFCTmNXQXdtYnBsMWk0MG5vLUhremlVWjRhOGNkeHFnSERWZk10MjRkVzZIUVlzT3JTRXJyazBGbTlsc3Yzc2o5YWJEejZtS0NQT2l0bk5NckZIeFFuM2JjU29vOGs5YkFxMzVMMWxsWFgtRTZRSzJLYmNUTkIzQ2htREZoVWxzc2JRZnhkYkczWEFJYlZaYkRjSnBKSUxKazd5MTJxV25KTWRNVjVRaDQwbzZtcEtSTHdhbGducjZKWkhLNDlPcFBI?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-25T02:25:00.000Z",
-      "whyItMattersKo": "주전의 공백을 메울 대체 자원 선정은 다음 경기 전력과 승패에 큰 영향을 줍니다.",
-      "fanTakeKo": "누가 뛰든 제 몫을 해줘야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUx1TVpXSXVZNEVTMWdQZUpadnVEY3hfNUo2d250djN4NjBnR2NmRk5rb3Y",
-      "title": "Palmeiras define data retorno de Flaco López aos treinos - O POVO",
-      "summaryKo": "플라코 로페스, 훈련장 복귀일 정해졌다",
-      "excerpt": "Palmeiras define data retorno de Flaco López aos treinos&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUx1TVpXSXVZNEVTMWdQZUpadnVEY3hfNUo2d250djN4NjBnR2NmRk5rb3Y3ZkJqTXlfNXBXbUVZM1FueVhmM2plWFRPbFZ1b0lzVlQ4X3Q2anlydGc1Vnk0WWFlZ0VfXzJlMkhIOTItOTI1T081YVBOZVBvTFhkaHplOFVsX2NLVkNRdXlzMkJNYXU2NWttS2hzZkFvLXJMSjhlcjRCdFBQelhSdjJJV2VzcXY?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-07-25T00:30:31.000Z",
-      "whyItMattersKo": "부상 복귀가 임박한 만큼 팀의 공격 옵션과 전력 보강에 도움이 됩니다.",
-      "fanTakeKo": "돌아온 로페스를 기대해봐요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOakdUemE4Vnp0TG5PM2dxYTdKNTlVakJfWU1KVi1NVE11VEdfazdEb2lQYkR",
-      "title": "Palmeiras define data retorno de Flaco López aos treinos - Terra",
-      "summaryKo": "파우메이라스, 플라코 로페스 복귀일 정해져",
-      "excerpt": "Palmeiras define data retorno de Flaco López aos treinos&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOakdUemE4Vnp0TG5PM2dxYTdKNTlVakJfWU1KVi1NVE11VEdfazdEb2lQYkRTMy01cmFsdkdFd2tjc0FrSnhNckxjckdBbjlyb0t1YVNZcURRT2Yya1lDel9iSmtZSzZPckp1RkVOMkI4M19NZWhLVFR2M0gxaUVQMEtzUU9yWW5tRWlJamIyaDZfM3dybS03dE9uV1AxdXZHcHp3aXVqZXVXTkw2TUpjdGtwX3VoYTdFVm1nVnVSZW5vNExYYlF4MmxfSWMxWXBwenB2Sk1kaTd3a19ZY21SWHBMaE9QMGJHUm12a3I3ZVV4WWRiSGdRTzFEQnA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-25T00:19:00.000Z",
-      "whyItMattersKo": "부상 선수의 복귀는 팀 전력 강화와 선수단 경쟁 심화에 긍정적인 신호입니다.",
-      "fanTakeKo": "로페스 복귀하니 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMimAFBVV95cUxNODFMdmVBc0h5UHlhRDlJa2FDV25mcWlVT1h3SzhJdjVvdE40WHNLMzhqUmp",
-      "title": "Palmeiras x Atlético-MG: escalações, análise e tudo sobre o jogo do Brasileirão - 365Scores",
-      "summaryKo": "파우메이라스 대 아틀레치쿠-MG, 라인업과 분석",
-      "excerpt": "Palmeiras x Atlético-MG: escalações, análise e tudo sobre o jogo do Brasileirão&nbsp;&nbsp;365Scores",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODFMdmVBc0h5UHlhRDlJa2FDV25mcWlVT1h3SzhJdjVvdE40WHNLMzhqUmp2MkhkclBOMGlMQzZHOWxzSlU5RGxwUWZIZ1E4QzlBQjlWSjF5UFY2TVlYM0tBSzhWZzVSWm1qYVBNNWNRY0MxTThXX2wxQmIzR25CWFUtZnptV3JHQ1NjUUViSjl6UFRCYzk0WQ?oc=5",
-      "source": "365Scores",
-      "language": "pt",
-      "publishedAt": "2026-07-25T00:00:00.000Z",
-      "whyItMattersKo": "오늘 경기 라인업과 전력 분석은 승패를 가르는 중요한 변수가 됩니다.",
-      "fanTakeKo": "오늘 경기도 꼭 이겨야 해!",
       "tags": [
         "뉴스",
         "AI요약"
