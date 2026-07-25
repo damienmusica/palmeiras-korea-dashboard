@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-25T04:44:04.700Z",
+  "fetchedAt": "2026-07-25T07:18:18.354Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnVyMjhyRlZ4QndSVE9JNngzXzdwNy1VeFlVSU9pVW5YNUR4a0hQWFlUWFM",
+      "title": "Paulinho? Três na zaga? Palmeiras pode ter até nove desfalques e faz mudanças contra Atlético-MG - ge",
+      "summaryKo": "파우메이라스, 아틀레치쿠전 선수 대거 결장",
+      "excerpt": "Paulinho? Três na zaga? Palmeiras pode ter até nove desfalques e faz mudanças contra Atlético-MG&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnVyMjhyRlZ4QndSVE9JNngzXzdwNy1VeFlVSU9pVW5YNUR4a0hQWFlUWFM0eU1QZUxGUVBUdHQwT1FndVo3eU1COFZnbFRZbmFsOW52aGJ0NWh4NWFjNU8wS251c3hCYXJiS0Y3WjlRM1ZXMDQ3NE85Z2NNX295SEU2b1JYZ1lQTVlrN3lIN3h4WkMweW93dTZORGxnUnFpdGZFb0Q3ajZCR2lybGxhR1JkS0g1QXhyN0tvNlZHT1Ewd3AwcDRzb3Z4UmZSLXI1SmQ1d1dDaWJXYUFFbko5YVBSZ0dxeVFtTW0waHloM09aalhYRFBZ0gGGAkFVX3lxTFBwMWZxSjNkbklIejk1ZE1tem1FVjBxS3VKeXlWal9iaXBiTTZmTFJvdzhGVm1Sbi1waTRhd2UzclU0YnM1TVJsZTNmQTVhQlJDdVZUeDROX19YSTRZbUJPdWQ3d2l3eVp1M2xRZ2E1RE15bmd5cDBKVjBFWC1XMzZESU0wYnlDcFBaVC1tcldlSURrSmR6bVk1MEd6NmFiQ0FNNnY5bEhoX1dISUljREFBRlZoSW0zeWgzSmJLbUZITnRWSkVlVEdKNGVMRDI0YVhyaFVvUjdSZ0dfblBpOW54cUhvM2JRY1pRdDRGQmk3ZFBOd3pJU1J3Y1dCNjNRMVpSUHdjT1E?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-07-25T07:01:22.000Z",
+      "whyItMattersKo": "9명의 결장으로 파울리뉴 기용이나 3백 전환 등 전술 수정이 불가피할 수 있습니다.",
+      "fanTakeKo": "부상자들 빨리 쾌차하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQnh6ZTdZcTJLd21DZldQZ3pjQ2J3VlJfVlAxYzRtaGJuZnJTQ2x3ekp3QnB",
+      "title": "Andrés Gómez continua no Vasco? Exigência trava negociação com o Bayer Leverkusen - Terra",
+      "summaryKo": "안드레스 고메스, 레버쿠젠 이적 협상 난항",
+      "excerpt": "Andrés Gómez continua no Vasco? Exigência trava negociação com o Bayer Leverkusen&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQnh6ZTdZcTJLd21DZldQZ3pjQ2J3VlJfVlAxYzRtaGJuZnJTQ2x3ekp3QnB0elotRE9sekN3Q3ZydC05b1otUGYzN3dKck9WUzB6X2ZiQ1RsOTRSaGxFVHBaVC1lX0xHNFU2VE1ZaUo4Q29tYm9UYjZhNlBJN1BnU0tDVGtqUUcwTm9HZ09jemtTU2dIQmZhRkpIUk83aTdSbTZZemExRnd6OXhhTmd4b1JDNzJyUEU5SGNZaEtEZW9WTkdUTVVvdGVQYVVhbG1sS3VIWjlsT01ZblNRWEZUSURlV2ZGbHVfOVFsSFp4OF83am9CbDFfTGxBeXE?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-25T05:37:00.000Z",
+      "whyItMattersKo": "이적 조건 차이로 협상이 지연되고 있어, 선수가 바스쿠에 잔류할 가능성도 있습니다.",
+      "fanTakeKo": "이적 떡밥 너무 길다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdPYVNPbUY2d0FRTEFyUTlrSFhvalpNVzlJRmRpcnk0TnpkMGs3ZlQyU21",
+      "title": "Abel Ferreira terá ‘dor de cabeça’ para escalar o Palmeiras contra o Atlético-MG - R7 Esportes",
+      "summaryKo": "아벨 페헤이라 감독, 아틀레치쿠전 선발 고민",
+      "excerpt": "Abel Ferreira terá ‘dor de cabeça’ para escalar o Palmeiras contra o Atlético-MG&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdPYVNPbUY2d0FRTEFyUTlrSFhvalpNVzlJRmRpcnk0TnpkMGs3ZlQyU21tMFIyVXloc2dvTUZOcUxNcW5xT190UEtrWUFCNVV3V2JTbG1Od1lmTE83N3FrZ09fU0FnVUowSFNXUngweFRJWWc1emFkZlBVbnNLVWZVcTNaMURIelR2ZXdxdGlJYS1DaW1MSFhobDJndmpTNkxJY1FxV1ZYWU9TQU5scXh0MFo2dFJCdVhfWXl4SQ?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-25T05:00:00.000Z",
+      "whyItMattersKo": "선수 부족으로 인해 아벨 페헤이라 감독이 최적의 선발 명단을 짜기 어렵습니다.",
+      "fanTakeKo": "감독님 믿고 기다립니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMilAFBVV95cUxPekdOM3pmeDJsdW9nUWVMVUQ3MTg0MXR2RGc2MXBnU3Qydjlab1hjMGRjWXh",
+      "title": "Palmeiras x Atlético-MG Palpite – Análise e notícias (26/07) - LANCE!",
+      "summaryKo": "파우메이라스 vs 아틀레치쿠-MG, 26일 전망",
+      "excerpt": "Palmeiras x Atlético-MG Palpite – Análise e notícias (26/07)&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekdOM3pmeDJsdW9nUWVMVUQ3MTg0MXR2RGc2MXBnU3Qydjlab1hjMGRjWXhVNl9JLU5CdVhPaFE2OF9ydWdlMFl6cnppRTR3YnNsRkwyVkJhX25ZY2VwNUEzNGFvTWZaWHNIRGdZRVZ1d3kzcWlJQUFmaG5qb29lOURuUWhWWXZPbWpuX1A0SnJUUG41?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-25T04:42:49.000Z",
+      "whyItMattersKo": "다가오는 경기 분석은 승리 전략과 선수들의 컨디션을 파악하는 데 도움이 됩니다.",
+      "fanTakeKo": "이번 경기도 무조건 승리!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1SZ2pCRlhIeVVpcTFHcENtMjNScUVjTHNpTUxuNlFPc1VKNS1zRjMyMHl",
       "title": "Ao vivo: Palmeiras x Atlético-MG | Rodada 20 | Campeonato Brasileiro - ge",
@@ -27,7 +91,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPanZTVk9kR3hjdFdRYVdYcDlIbmxOWTNDNDBaaG1mZk9GUUkwSmlMcXpRNE0yeFFRRmVZc3hwZVRSWDVpTGJabnV1ZnRCTVdxZnJlbER4TDE5bnc2NlBhT3Bhb3Nxb2dOcVV6R3U3ZXZubkRhc1BxZ3BSZUd6V0F2d2Jad2ZWc3VBNmxFWVFhSDAyazFGYXNGT3h0dFItQzlqTnZWYk4xTUV1TDROVTgyb1oyUjlDYlNCOHdaMVdnOUswY2JSYUdSN1pvTTZvZi1LZ0lrNGlOQmZHeHd1NHZXWWJiNnE3LTJaUlRjSTBSYTQ4eW9xV0tEQ0hYQlNjaWh4SUlIVTEyZjkxMXdhWFdXa3RCSlBkVmpVc29RLXdINHhGSG5sSlMtQWFIRk5wbW1W?oc=5",
       "source": "GZH",
       "language": "pt",
-      "publishedAt": "2026-07-25T02:56:20.000Z",
+      "publishedAt": "2026-07-25T02:56:10.000Z",
       "whyItMattersKo": "승리로 팀 분위기를 띄우고 코파 두 브라질 대진에 관심을 모으고 있습니다.",
       "fanTakeKo": "인테르도 잘하네, 대진은 어떨까?",
       "tags": [
@@ -206,22 +270,6 @@
       "publishedAt": "2026-07-24T22:36:00.000Z",
       "whyItMattersKo": "브라질레이렁 경기를 중계로 들을 수 있어 팀의 현재 전력과 흐름을 파악하기 좋습니다.",
       "fanTakeKo": "오늘 경기 승리 기원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMilAFBVV95cUxPekdOM3pmeDJsdW9nUWVMVUQ3MTg0MXR2RGc2MXBnU3Qydjlab1hjMGRjWXh",
-      "title": "Palmeiras x Atlético-MG Palpite – Análise e notícias (26/07) - LANCE!",
-      "summaryKo": "파우메이라스 vs 아틀레치쿠-MG, 26일 전망",
-      "excerpt": "Palmeiras x Atlético-MG Palpite – Análise e notícias (26/07)&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekdOM3pmeDJsdW9nUWVMVUQ3MTg0MXR2RGc2MXBnU3Qydjlab1hjMGRjWXhVNl9JLU5CdVhPaFE2OF9ydWdlMFl6cnppRTR3YnNsRkwyVkJhX25ZY2VwNUEzNGFvTWZaWHNIRGdZRVZ1d3kzcWlJQUFmaG5qb29lOURuUWhWWXZPbWpuX1A0SnJUUG41?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-24T22:35:42.000Z",
-      "whyItMattersKo": "다가오는 경기 분석은 승리 전략과 선수들의 컨디션을 파악하는 데 도움이 됩니다.",
-      "fanTakeKo": "이번 경기도 무조건 승리!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -890,54 +938,6 @@
       "publishedAt": "2026-07-24T16:03:18.000Z",
       "whyItMattersKo": "방송사의 파우메이라스 보도 갈등은 팬들과 미디어 간의 관계에 영향을 줄 수 있습니다.",
       "fanTakeKo": "방송사 보도, 제발 좀 공정해지길",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUNoekN4RVlJZ2o2SkxvUGNEVE9UR25lLVlhTTBJa1dmZkpiS3o5YXo2SzZ",
-      "title": "Palmeiras fecha 1º turno histórico no Brasileirão e vê negociação por Danilo esfriar - ABC Repórter",
-      "summaryKo": "브라질레이렁 1라운드 역사적 마감, 다닐로 이적설 식어",
-      "excerpt": "Palmeiras fecha 1º turno histórico no Brasileirão e vê negociação por Danilo esfriar&nbsp;&nbsp;ABC Repórter",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUNoekN4RVlJZ2o2SkxvUGNEVE9UR25lLVlhTTBJa1dmZkpiS3o5YXo2SzZOQXBDakZFWklrNHV0ZXBETDdfZ09aRVUzeWpCNmU5NkJlblg5ZVRfNnpGUmJCcV9SNmNQdHBfNGNabl80UEdkRHhoOWFqWVNILUVCSmp3RWRUTlJhZU41MXlFNTFMM1dLeV9hS2VLajRaVXcwcTgtTzRFSk1YWURXczlNOWVyWnRGeWhSNVd3Um43UEE?oc=5",
-      "source": "ABC Repórter",
-      "language": "pt",
-      "publishedAt": "2026-07-24T16:00:15.000Z",
-      "whyItMattersKo": "역대급 성적으로 1라운드를 마감하고 핵심 선수 이적설이 잦아들어 긍정적입니다.",
-      "fanTakeKo": "다닐로 잔류하길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0I3U1BpdlRqMHpKaVFkYlhzMVR4bXRnVzNvQ05WdXZBOFNOUTBMeks1Zi",
-      "title": "Emi Martínez, do Palmeiras, é alvo de time da MLS; negócio frustrado por Danilo pode brecar saída - ESPN Brasil",
-      "summaryKo": "MLS, 파우메이라스 에미 마르티네스 노린다",
-      "excerpt": "Emi Martínez, do Palmeiras, é alvo de time da MLS; negócio frustrado por Danilo pode brecar saída&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0I3U1BpdlRqMHpKaVFkYlhzMVR4bXRnVzNvQ05WdXZBOFNOUTBMeks1Zi1yVDUwZDI1QjdrS28ySkNDQ3h5SGFqYm1TeDF0YUVLdlpNY2YxOTdVR1NDY1ByY3g4NWVfekJwUEt3OHdvSjdJVXRJWWJqU0VmRFR1Y2QzRkxlRnpWM0FGTXcxMzFlSG13bVBnRkYyZUhHckdkS01iYXhVSGt5bWk5ZUt6XzN6RnFDcVpVTWtOVE9DbGc5VDVQNzRfVnRyeUhPVUZ5ZTd2UVZ4YzNnTllTUkJjbUt2REJ3d1U?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-24T15:47:00.000Z",
-      "whyItMattersKo": "다닐로 이적 결렬 여파로 에미 마르티네스의 이적이 무산될 수도 있습니다.",
-      "fanTakeKo": "에미는 꼭 남았으면 좋겠는데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc0tFTFluUkxoSlBCMHh6cjZVT0g4VTJLQndNelk5LUV1cG9GeW14WGlnZk",
-      "title": "Líder, Palmeiras domina seleção do 1º turno no prêmio do Bola de Prata ESPN 2026 - ESPN Brasil",
-      "summaryKo": "파우메이라스, 1차 베스트 11 다수 선정",
-      "excerpt": "Líder, Palmeiras domina seleção do 1º turno no prêmio do Bola de Prata ESPN 2026&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc0tFTFluUkxoSlBCMHh6cjZVT0g4VTJLQndNelk5LUV1cG9GeW14WGlnZk1BNHhONlhzTGtmUWJ0amNjdi1SQkw1QWFkNmpTSVZEd1ZoblhjcVU5YTZoMUJUX05UbEhpMzI2Wk5FUEpwR0JoTGF6TG1DSFJROExKZWREWHBYMXIwamFUZE53OEJ5VEhVd0tzYnFoVHlramFldFZ2ZXdrR1A1aG1wUGFDTDVVZkVwd25Jc1FxNW1tNDhPY3ExVjhxUnpRS3FnUExXOWJmYkJHUFptMU9QeGUtcHFKQk1JZw?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-24T15:44:00.000Z",
-      "whyItMattersKo": "선수 개개인의 맹활약이 팀의 선두권 유지를 이끄는 핵심 원동력임을 보여줍니다.",
-      "fanTakeKo": "우리 선수들 진짜 잘하고 있네!",
       "tags": [
         "뉴스",
         "AI요약"
