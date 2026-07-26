@@ -1,8 +1,200 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-26T21:29:55.248Z",
+  "fetchedAt": "2026-07-26T22:34:15.738Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZlVEeUxBUVNaUTBLNUdEMTZwS0ZQTFZrMkY4U0NReFBJWFVqOHdHVkR6ekN",
+      "title": "Palmeiras: após 441 dias, Paulinho é titular em reencontro com Atlético - Rádio Itatiaia",
+      "summaryKo": "파울리뉴, 441일 만에 선발 라인업 복귀",
+      "excerpt": "Palmeiras: após 441 dias, Paulinho é titular em reencontro com Atlético&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZlVEeUxBUVNaUTBLNUdEMTZwS0ZQTFZrMkY4U0NReFBJWFVqOHdHVkR6ekNtMkhFMmJzMmhrcEVOd1JPZWZpQnE4ZFNYTkpWQ0hjZDJBdGlaaUN0MHFadGRaeDFaaV9oc3lfYlYyUnhMbFJUV2k5R29ZMUt4T2Vuem83blBSNjdUZEZmRUhweWl3OHBKZ1hZdWhIQ21pdVFjQU5UcU5tbVNoRVNMTHZjRlktcnJ1blhSS0x4Mmdid1BpbVdrVDVpOFd2R0h3NnhHY0I3amgxeWpxTWtNRDNTWkJKQXkwX0VNT2Zwdnd3bi0?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:56:06.000Z",
+      "whyItMattersKo": "오랜 공백 끝에 주전 공격수가 복귀하여 팀 공격력에 활력을 불어넣습니다.",
+      "fanTakeKo": "파울리뉴 복귀, 드디어 기다렸어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUR3NFo0eTZqU1JUdHlkbXV2R185Tk9Jb0xkZXIzYlR5LXZWZEQ2NWNuTWN",
+      "title": "Escalação: Paulinho é titular pelo Palmeiras, e Galo tem Cassierra à frente - UOL",
+      "summaryKo": "파우메이라스, 파울리뉴 선발 기용",
+      "excerpt": "Escalação: Paulinho é titular pelo Palmeiras, e Galo tem Cassierra à frente&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUR3NFo0eTZqU1JUdHlkbXV2R185Tk9Jb0xkZXIzYlR5LXZWZEQ2NWNuTWNaUnNxbUd1SzA4aDdYblc3NnY3bk1JY0VCSTFzR2FqQ0FBMHgyRWZNZmlSdHZlY2hBaEtuLWhLZlRUZDdERlZSVWRzV096cEZmZjdtMEdpeHJ3ckxnSG03Zjc5WElWcXJybVdEaEFCd3B2SmxEbGk0WWlZVHpOVlY3NUVoLVVYN1RQRHFRWTAzcDB1UkFaM1NkY3FQV3l0dS1aVUxsQ2I0S0NMYWdrakozSXUxd0hOMUdpcjk1MVAwczlNdUxfN3VfN1hmcUMtX00?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:44:55.000Z",
+      "whyItMattersKo": "주전 공격수의 선발 기용이 오늘 경기 승패의 핵심 변수가 될 것입니다.",
+      "fanTakeKo": "오늘 선발 라인업 마음에 드네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXhjYUEySlVzcDdDb0ktOFBaMEZyTm9VX3Q3RU1SY2R6dTJaTE9sZUt4VXB",
+      "title": "Palmeiras x Atlético-MG: escalações confirmadas com surpresas - band.com.br",
+      "summaryKo": "파우메이라스, 깜짝 선발 명단 발표",
+      "excerpt": "Palmeiras x Atlético-MG: escalações confirmadas com surpresas&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXhjYUEySlVzcDdDb0ktOFBaMEZyTm9VX3Q3RU1SY2R6dTJaTE9sZUt4VXBFbDlrbHJlcVFmWGNkUnpWZm5yQm9vUjVib3REXzU4X1lQbzcyLTZ3bF85cFJ4ZXlLVDgtSGo3M0ZqRTVzY19jbjlNbkFnNElRY3ZsbkpNUWxvME5XYUhEckZQakV3REtxUFZ1bU9famZGbVZUdlJkdzF3QUNlUQ?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:44:37.000Z",
+      "whyItMattersKo": "예상치 못한 선발 구성은 감독의 전술적 변화와 승부수를 의미합니다.",
+      "fanTakeKo": "오늘 라인업 의외네, 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHVfaFZ6MldpYnU0UEg5c2VvMDAzR2dtaGd3YTZ0Mld0ejhlUmxRTERkRWl",
+      "title": "Palmeiras x Atlético-MG: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
+      "summaryKo": "파우메이라스 경기, 중계 채널 확인",
+      "excerpt": "Palmeiras x Atlético-MG: onde assistir ao vivo e escalações do jogo do Brasileirão&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHVfaFZ6MldpYnU0UEg5c2VvMDAzR2dtaGd3YTZ0Mld0ejhlUmxRTERkRWlyMUVHOWdTbzNNNzlvNUczZ3lodHgxSVdaUTlaZnpyODFJYzRUQkFpRUZBUFA0OUVmMWY4WFJpS0MtbGliSG5mc2htTjJGWnZRb0E3WEQzc1F6VFR3RWNuLWlfQ19yNDN5QnJzM2hKOGJKRFFyVER1Z3FqTHdaRDE2amVCbEI4T3dsb2x4WlRSQTdR?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:44:00.000Z",
+      "whyItMattersKo": "브라질레이렁 일정에 맞춰 경기를 시청할 수 있는 방법을 확인할 수 있습니다.",
+      "fanTakeKo": "오늘 밤은 파우메이라스 시청이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUhCS3VIT2tiYWxJWXdDeElBbC1IcDdhR1pFdnB0MnEwYXhPRU56bVNHUEY",
+      "title": "Escalação: Palmeiras tem Paulinho titular e novidades no banco - LANCE!",
+      "summaryKo": "이관: Palmeiras는 Paulinho 스타터와 뉴스가 벤치에 있습니다 - 입찰!",
+      "excerpt": "Escalação: Palmeiras tem Paulinho titular e novidades no banco&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUhCS3VIT2tiYWxJWXdDeElBbC1IcDdhR1pFdnB0MnEwYXhPRU56bVNHUEY2YmdDeXBvZkJnNk01Z3poUWdMdTdld1NOcGE0eTZyTXhtampZMmNtNEN1TlFsTkxDNlYwLVpYUjBIVGQ5UG9OVXYzNVVFZ3dvYktPTzRkODJ3M050WENaN3RPTlRvNVRsODFHclNvXzF4bDdNeVlVUGxMcWtQZw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:40:32.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQTVoM2x4eXVKOXJSNGZ6SVp2YVo2SmVqZ1U2Z2xHbmhqQW9QUy0wREdlWF9",
+      "title": "Com Paulinho e baixas, Abel define 'novo Palmeiras' contra o Atlético - Rádio Itatiaia",
+      "summaryKo": "파울리뉴와 사상자와 함께, 아벨은 아틀레티코 - 라디오 이타티아를 상대로 '새로운 파우메이라스' 를 정의합니다.",
+      "excerpt": "Com Paulinho e baixas, Abel define 'novo Palmeiras' contra o Atlético&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQTVoM2x4eXVKOXJSNGZ6SVp2YVo2SmVqZ1U2Z2xHbmhqQW9QUy0wREdlWF9uV3FTaUxncXRRQU56aXNEaGdlekJ3dUZpTHFKbUg1akVEVmRRY00yYzFEcnhZMS01d3FVMFRRbC1sVVJDRGpwS1Z5V0N2TEc5QlJrSFJMYmJ6eFpSUUpGSDNPb2VzeWxrS1pIUUJHb2J0WUljbUNJNWIxQm1URkhCX1RKSnRtQkVHZ091aDVOZ0U5aG9wVERWU2c5X3c0c1dzTHZNNjI3ejk1NnVBa3Q3bjdCdHJYX05CS3JBVDZOcg?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:40:15.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp4WG94NDc2YUhWZGM2RDYyeE5tSDlBOUJ2YkNuZTZVOWxrUm1zUVRWUHV",
+      "title": "Palmeiras x Atlético-MG: onde assistir ao vivo e horário do jogo pelo Brasileirão - GZH",
+      "summaryKo": "Palmeiras x Atlético-MG: 브라질레이랑의 라이브 및 경기 시간 시청 장소 - GZH",
+      "excerpt": "Palmeiras x Atlético-MG: onde assistir ao vivo e horário do jogo pelo Brasileirão&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp4WG94NDc2YUhWZGM2RDYyeE5tSDlBOUJ2YkNuZTZVOWxrUm1zUVRWUHVONDBzOTBGdTFndjFsTy11WW40QkUzdXhKZEJ0d2xZWWo3ck9XWjVmdFc1US1JaUN3ODRVM1lhSkhIU2RsbFFBanN2enlna1dKVmtzalNubm1KVy1GczlkY1NfQmxTZFlmRzg4UzJ5S25LNlRqVGw1V3Q0Uld2LTdWemNEal9UTUJwUkliU0tyd2Fpei1XS1hjX3dIbWduVGVDSURkR2F3UWcxNjU5d3BKZDFhMW9CTWdYaVAwd2k5QXJrUy1LOGhPLV9ZR3dKT2JQeUVYczhYX19nZjZLQlJY?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:38:41.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWY0a3dLRFBKRTNGZVh4V0hpVENhWjFYdHhOdkd6WUtrdENhUzZpT09JUmR",
+      "title": "Palmeiras x Atlético: as escalações do jogo pelo Campeonato Brasileiro - Rádio Itatiaia",
+      "summaryKo": "Palmeiras vs. Atlético: 브라질 챔피언십 경기의 스쿼드 - Rádio Itatiaia",
+      "excerpt": "Palmeiras x Atlético: as escalações do jogo pelo Campeonato Brasileiro&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWY0a3dLRFBKRTNGZVh4V0hpVENhWjFYdHhOdkd6WUtrdENhUzZpT09JUmRnRkZSaF9yWEVLaG5ZdGtRbVJUWEFVU1pyVGc2ajNhTWpMNTJ5ek9UdDI4WHVxMC1fTEJLc2dneTJrNXFpMTdNVTN6UEphVE5CLWd3cFhENmduZ2dLYklnUHpmRlpYWmNpc2VHV0VTUXhfU2JKWk5aYWFTQ3pxVmVENVBNV2JVQjlrbkNVbFR0X2JiMzVMWmVuOTFsYWpwUXVKekszeEpKczZkc25zWEFmRi1Zd0xDeTlKajg?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:35:45.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1SZ2pCRlhIeVVpcTFHcENtMjNScUVjTHNpTUxuNlFPc1VKNS1zRjMyMHl",
+      "title": "Ao vivo: Palmeiras x Atlético-MG | Rodada 20 | Campeonato Brasileiro - ge",
+      "summaryKo": "파우메이라스, 아틀레치쿠-MG와 리그 20라운드 맞대결",
+      "excerpt": "Ao vivo: Palmeiras x Atlético-MG | Rodada 20 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1SZ2pCRlhIeVVpcTFHcENtMjNScUVjTHNpTUxuNlFPc1VKNS1zRjMyMHlwaGhHU1hOYlpCZWdWSEtxZUJ1MU55VllQRVdtVFdtWEd3cjN0XzQ0YVRvRl9CZnlFblpQdXdFOHg5YTRsbk1nSXk2UDN3RW55eURzMGJoUE12SDN3YVFCTDFPZC1jWVBuc2lHUEFqWQ?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:34:00.000Z",
+      "whyItMattersKo": "리그 20라운드 경기 결과는 상위권 순위 경쟁과 시즌 후반 흐름에 큰 영향을 줍니다.",
+      "fanTakeKo": "오늘 경기 꼭 이겨야 해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpUeUstX29sck0tWm82c0UxNEw2YnFKbE9FeHNmTEJBRWx0ZEhwSTRaTGt",
+      "title": "Palmeiras x Atlético-MG: veja escalações e onde assistir ao Brasileirão - CNN Brasil",
+      "summaryKo": "Palmeiras x Atlético-MG: 분대와 브라질레이랑을 볼 수 있는 곳 - CNN Brasil",
+      "excerpt": "Palmeiras x Atlético-MG: veja escalações e onde assistir ao Brasileirão&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpUeUstX29sck0tWm82c0UxNEw2YnFKbE9FeHNmTEJBRWx0ZEhwSTRaTGtKcjBybGhtMEpjUUptWHY3X3cxX1JRYWR2cGcwaGJvVHhHcE5pbUJRb0NIVzd2QmhvRUZkTkNqbk1vOG9fSlp6RmJOR1I4U2MyWGt3NVdEQWZFbFVWNzRNVUwwcWFjNzAzSm9UdWxQYnlGYXpYOHVNVUxidm9NbkdBUXg2cHYxVFJ6NmlqMkNXak5n?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:33:34.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnRwclI1QUMtbDltOGRNRTlhWE1DTWh6enZ0VkxRamNENldEbWdlRnZHSE",
+      "title": "Atlético-MG está escalado com surpresa para enfrentar o Palmeiras: confira - LANCE!",
+      "summaryKo": "아틀레티코-MG는 파우메이라스와 맞붙을 놀라운 일정으로 예정되어 있습니다: 확인해보세요 - 입찰하세요!",
+      "excerpt": "Atlético-MG está escalado com surpresa para enfrentar o Palmeiras: confira&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnRwclI1QUMtbDltOGRNRTlhWE1DTWh6enZ0VkxRamNENldEbWdlRnZHSENMSFczazVTck1VYjNBTm9jVjZ0MWlMRUcydXpBZk1QcnJ5SUZBck9WMEpodjVvS2JhZWZjM0RtWUQ2ZFY1LVJUVmFYak5OdHY0TlpqWWtkOXFWNFlJOHJCWVNTRVFEcFVSRlhGMXRuT21ESVlMckZ4cWxmbjZZbmc5alRpWFJwSUFZNFFlNVh0Ug?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:32:49.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMivgFBVV95cUxNbklyNkZVVDZtWE84Z3JVeTdNLXM4cHRwYkFRVVF6emxYT0QtN0l6R2tqV0",
+      "title": "Palmeiras x Atlético-MG no Brasileirão: onde assistir ao vivo, horário e local - Estadão",
+      "summaryKo": "브라질레이랑의 Palmeiras x Atlético-MG: 라이브, 시간, 장소를 감상할 수 있는 곳 - Estadão",
+      "excerpt": "Palmeiras x Atlético-MG no Brasileirão: onde assistir ao vivo, horário e local&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbklyNkZVVDZtWE84Z3JVeTdNLXM4cHRwYkFRVVF6emxYT0QtN0l6R2tqV0JpbWV2Zm9Fczd6d25DWmZhUG9CNnB4WHAtZ2owaWdCbVhQYW90VEljR1FKZ2l2Q2JqV211QjY4Y1RLSnRVdmdWdlcwVjJXSWxBNU5ILXp3SGVLenh4TXlmSkRKS2R3c3hSUFIzMzBPU1VQMExMd3NRMWtSRVM5WmNzLWE2LUdyTGx6S1NBcnZ2eVpB0gHDAUFVX3lxTE5GSWpvREJuX2hrR3JqQlF0VnVJYjExbmpwbEVvOHA1bl9abmdQWUQzdzFaQmg2blB2Rm52TUR2TVZWczBUQlRLMGNXMmN2NXlwUGdxT29PTllLSWlaTFBJMmpoNzVXWnQ1ejdpaE5DTy1ENXJKaWNNX3g3Y19lcHkxRDROc2J3SVBiVm52VjRpZ1ZkSmlGOUxnR2JoSU1VakZoN1kyUW1OUUh1aG4yRHlBQ1lDZGpEV0VtUDNIY0JkaGljSQ?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:30:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGpnWEs1NmN1bkw1ZmxFaW5tMzk1dndVMTVacy1ZbE1MVTRlS0hja2RjZF",
+      "title": "Vai passar no YouTube? Onde assistir a Palmeiras x Atlético-MG ao vivo hoje - UOL",
+      "summaryKo": "YouTube에 게시되나요? 오늘 실시간 Palmeiras vs Atlético-MG 시청 장소 - UOL",
+      "excerpt": "Vai passar no YouTube? Onde assistir a Palmeiras x Atlético-MG ao vivo hoje&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGpnWEs1NmN1bkw1ZmxFaW5tMzk1dndVMTVacy1ZbE1MVTRlS0hja2RjZFhVelhFakdadW55bnZ5WElRTnZKRzY3YkFJN1p4dGhOWnBTbm92ak5tbzZrRnAzdnVQTTJfZ084aGdZMW9kT3Z6dDJtejNVb3FYOTA3Nk12b0dSbk1JX0tQb3ZGaDU3U3k0Z1hhUEVubm0zNHUzSmFna0tES05Bal9G?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-26T21:20:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdDhWQXp2dGd0SU1wdWFRWDdsYnRWUVhkaUNSTHp1MzdXRHhDQk9xMGx0RnF",
       "title": "Vai passar no YouTube? Onde assistir a Palmeiras x Atlético-MG ao vivo hoje - UOL",
@@ -74,22 +266,6 @@
       ]
     },
     {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1SZ2pCRlhIeVVpcTFHcENtMjNScUVjTHNpTUxuNlFPc1VKNS1zRjMyMHl",
-      "title": "Ao vivo: Palmeiras x Atlético-MG | Rodada 20 | Campeonato Brasileiro - ge",
-      "summaryKo": "파우메이라스, 아틀레치쿠-MG와 리그 20라운드 맞대결",
-      "excerpt": "Ao vivo: Palmeiras x Atlético-MG | Rodada 20 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1SZ2pCRlhIeVVpcTFHcENtMjNScUVjTHNpTUxuNlFPc1VKNS1zRjMyMHlwaGhHU1hOYlpCZWdWSEtxZUJ1MU55VllQRVdtVFdtWEd3cjN0XzQ0YVRvRl9CZnlFblpQdXdFOHg5YTRsbk1nSXk2UDN3RW55eURzMGJoUE12SDN3YVFCTDFPZC1jWVBuc2lHUEFqWQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-26T19:52:55.000Z",
-      "whyItMattersKo": "리그 20라운드 경기 결과는 상위권 순위 경쟁과 시즌 후반 흐름에 큰 영향을 줍니다.",
-      "fanTakeKo": "오늘 경기 꼭 이겨야 해!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY21oMG1zN1NwMWNXd0FnRGl5cW4yc3BPWG1XVzZrZzgyOXc4VTV1VmtlSm4",
       "title": "Onde vai passar Palmeiras x Atlético-MG pelo Brasileirão? Como assistir ao vivo - UOL",
       "summaryKo": "브라질레이랑의 파우메이라스 vs. 아틀레티코-MG는 어디로 갈까요? 라이브 시청 방법 - UOL",
@@ -112,20 +288,6 @@
       "source": "Rádio Itatiaia",
       "language": "pt",
       "publishedAt": "2026-07-26T18:36:10.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp4WG94NDc2YUhWZGM2RDYyeE5tSDlBOUJ2YkNuZTZVOWxrUm1zUVRWUHV",
-      "title": "Palmeiras x Atlético-MG: onde assistir ao vivo e horário do jogo pelo Brasileirão - GZH",
-      "summaryKo": "Palmeiras x Atlético-MG: 브라질레이랑의 라이브 및 경기 시간 시청 장소 - GZH",
-      "excerpt": "Palmeiras x Atlético-MG: onde assistir ao vivo e horário do jogo pelo Brasileirão&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp4WG94NDc2YUhWZGM2RDYyeE5tSDlBOUJ2YkNuZTZVOWxrUm1zUVRWUHVONDBzOTBGdTFndjFsTy11WW40QkUzdXhKZEJ0d2xZWWo3ck9XWjVmdFc1US1JaUN3ODRVM1lhSkhIU2RsbFFBanN2enlna1dKVmtzalNubm1KVy1GczlkY1NfQmxTZFlmRzg4UzJ5S25LNlRqVGw1V3Q0Uld2LTdWemNEal9UTUJwUkliU0tyd2Fpei1XS1hjX3dIbWduVGVDSURkR2F3UWcxNjU5d3BKZDFhMW9CTWdYaVAwd2k5QXJrUy1LOGhPLV9ZR3dKT2JQeUVYczhYX19nZjZLQlJY?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-07-26T18:30:17.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -291,7 +453,7 @@
       "summaryKo": "파우메이라스, 2028년까지 스폰서 확정",
       "excerpt": "Palmeiras fecha patrocínio com empresa de consórcios até o fim de 2028&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXNNMEdkWE1ZYWRublM3a3JzSHNuZ1FmMVNnZXYwZURXTklMNjMtTDJSajdxemhEc053Y1pCUFlSUzUxNThFYzUxRDBobTZPS0RoVE5xRm9NaU55dUJkQkllck1oWWRVM0k2UGczbHpLa1h4ZE43VUlRcEF0TXN2dlZzd0FrYmNtVENfZTZRbzFPUGN1TC1hcjVaMFJycGZZanE3OFRYLWZIY3lkZzByUTdkOGFtT2F2Vm1TVllmU2R0LUMyN0dFNERCOHJPaVJWZHhaOWZjSdIB5gFBVV95cUxOZ01rajdEUjg0RG1KMUdndm0wdTNleG1jRVhUQ0xOZFRCazZlYUVrUko3MVFwWVBhVXI4cXBMR3dmczNsZlZyM3BYMTJ5VFVGNnBqUEJweVpvQjgyU21rckZseS03UXQ0YTFjbFZkb2dRTFdLMXpUck9JNXA3SmVfeGhkZmJScWpDbXpZN1JQTEJCYnNyWnJNY2JFVEpWRG0zLWlfUEpqdGdnNkczU1paZFFUdENjeHB2Q3YzLXUzSTdQSVEwaEJwblZIMWFvRmFxWUVOal9YRUJHYlNYRmZoTERaUU0yUQ?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-07-26T15:18:58.000Z",
       "whyItMattersKo": "장기 계약으로 팀의 재정 안정성을 확보하고 선수 영입에 힘을 실어줄 수 있습니다.",
@@ -299,6 +461,20 @@
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1QyVnRaSnFUaWpkMVVrb0lzMHZVTEticGxSTk15TkhQRnl3bm0yVFZEMT",
+      "title": "Palmeiras x Atlético-MG: Onde Assistir, Horário, Escalações e Estatísticas 26/07 - Gazeta Esportiva",
+      "summaryKo": "Palmeiras x Atlético-MG: 시청, 일정, 일정 및 통계 07/26 - Gazeta Esportiva",
+      "excerpt": "Palmeiras x Atlético-MG: Onde Assistir, Horário, Escalações e Estatísticas 26/07&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1QyVnRaSnFUaWpkMVVrb0lzMHZVTEticGxSTk15TkhQRnl3bm0yVFZEMTNGTmtTX2dFemJkNEdYRHBmTmtMUGN0Vmp1dktrc1NEZWFPVjd5V1Z0UFBMVnkwWTNtQTBYYjBUdkVabWpFbm1UNGtCYlVKZjAxczJLdnlfdVVUT0o3MjlBNUtObEMzcmZWRUNlY0N2OA?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-26T15:15:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -705,196 +881,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczZKYUI4VlU2eUVCQTdZQ1BTQlBlUkNhWmFJbDBuTTVTNGlyb3B5eVNvU3I",
-      "title": "Palmeiras defende retrospecto positivo contra o Atlético-MG por manutenção de vantagem na liderança - Gazeta Esportiva",
-      "summaryKo": "Palmeiras, 리더십 우위 유지로 Atletico-MG에 대한 긍정적인 기록 방어 - Gazeta Esportiva",
-      "excerpt": "Palmeiras defende retrospecto positivo contra o Atlético-MG por manutenção de vantagem na liderança&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczZKYUI4VlU2eUVCQTdZQ1BTQlBlUkNhWmFJbDBuTTVTNGlyb3B5eVNvU3I3MFdxS3dqWldzcE9XYkIwcFRESVJSQm9ndXZ5SWhzTUhGX01yZWF2ZjZmOV81bFlhUTI2VE9ZaDFiNG1nODNkTHd1eUlqaFdUeTdpWkVTZjl0MFhWRDVORjMtWGRjQlhCd1dvSjRKMXRBTnBQWkZDVG1Cb3VIVnFBQ3lWMkN2SmpWVmNtd3pxcVA2OE1BLTItSEg2UVdlWUJxRFM2TmNLOGUtM0Qzc1F5WHlNckZ3?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-26T10:00:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiygFBVV95cUxNMk9Gb081aFR3NmlDRVlSaWxRU3RfREVUWFdsOG1nT0JOTGtFakx0a29MM3p",
-      "title": "Palmeiras x Atlético-MG: onde assistir ao vivo, horário e prováveis escalações em 26/07/2026 - Muita Informação",
-      "summaryKo": "파우메이라스 대 아틀레티쿠-MG, 시간과 중계 안내",
-      "excerpt": "Palmeiras x Atlético-MG: onde assistir ao vivo, horário e prováveis escalações em 26/07/2026&nbsp;&nbsp;Muita Informação",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMk9Gb081aFR3NmlDRVlSaWxRU3RfREVUWFdsOG1nT0JOTGtFakx0a29MM3pFQXJPaGtrQlhfcEM0YUFpYzNfcUI5MDJabEdYUTNtaXZFc0FPM0g3YWg4Z1h6elFwVktJX3EtcG1kdG92Y1ViX2ZmVkxZNzlVZWU4aFV5aXY4SGtNcnllNTlPd3VWekFDZEo4cmRUSzcySWdNTkM4dTctck1vWl9oWGZjdU44Z19ZU1VQVl9MU3dMMEI2NDVkdDBsN1Zn?oc=5",
-      "source": "Muita Informação",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:55:54.000Z",
-      "whyItMattersKo": "경기 시간과 예상 선발 명단을 미리 파악해 응원 준비를 할 수 있습니다.",
-      "fanTakeKo": "시간 확보하고 응원하러 가야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVVkQUlxQngxYTNfVXVqajN4ZHVmODhUeUJmWVVFSWZxQklOLWY2UVU3Y1",
-      "title": "Palmeiras x Atlético-MG: onde assistir e horário do jogo do Brasileirão hoje - Exame",
-      "summaryKo": "브라질레이렁 파우메이라스전 중계 채널과 시간",
-      "excerpt": "Palmeiras x Atlético-MG: onde assistir e horário do jogo do Brasileirão hoje&nbsp;&nbsp;Exame",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVVkQUlxQngxYTNfVXVqajN4ZHVmODhUeUJmWVVFSWZxQklOLWY2UVU3Y1RYcXVPZWg3SHpvR0RscUdLc1JUdmlHSlhiUlpHcUNZdGVhUWY1VW5wN0liX3BMT05JVFFjTURWYjJOSm1wa2YwR3Y5X2I5WkNqQ0M2SEZ1WVhrNm1CeVRRWkR0Mk1mUjQxRkdXVGxrRWtja21RSFNDUA?oc=5",
-      "source": "Exame",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:39:04.000Z",
-      "whyItMattersKo": "리그 경기 중계 채널을 확인해서 놓치지 않고 경기를 볼 수 있습니다.",
-      "fanTakeKo": "중계 채널 알게 되어 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMiYkFVX3lxTE00MnVBYVdXcGJpUkk3MEktaFZLUFFTQXF4Rk5aXzliNmZxaDNkTlJEbTNObk",
-      "title": "Palmeiras x Atlético-MG: Saiba como assistir ao vivo - Portal ABC do ABC",
-      "summaryKo": "파우메이라스 경기 생중계 방법 확인하기",
-      "excerpt": "Palmeiras x Atlético-MG: Saiba como assistir ao vivo&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00MnVBYVdXcGJpUkk3MEktaFZLUFFTQXF4Rk5aXzliNmZxaDNkTlJEbTNObkJaVE9VQXFQajFoc254Y2NCQU5PWVVnbUZvODB2TzNzYXlNQV9PYW4zRmdDYkZn?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:35:35.000Z",
-      "whyItMattersKo": "생중계 방법을 알아두면 경기를 실시간으로 편하게 시청할 수 있습니다.",
-      "fanTakeKo": "실시간으로 응원하러 가야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFRoYzVzVHpfdi1ZWE5ZNmJITEtNLThZTmt1SFV5cWRfV2ZiSGtTakQ1N1",
-      "title": "Palmeiras x Atlético Mineiro: onde assistir, horário e escalação do jogo do Brasileirão - Olhar Digital",
-      "summaryKo": "파우메이라스전 예상 라인업과 시간 안내",
-      "excerpt": "Palmeiras x Atlético Mineiro: onde assistir, horário e escalação do jogo do Brasileirão&nbsp;&nbsp;Olhar Digital",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFRoYzVzVHpfdi1ZWE5ZNmJITEtNLThZTmt1SFV5cWRfV2ZiSGtTakQ1N1FWMEpGMmdmT25jcG1wRzNTRjNFT0RBSGJfYklpY3NPYWttTUZJN09CUnBZMW5pbE5DY1NyU2gyX25WS1VUWWNXYlFqS0NKd1FfdTZFSGhvcFFfOXp4TVF3ck9USjRMYm1KS3VzaEFHR2tTdW03X2FMdm9sZjNWLWpSQlBOTWthTGJYVjNzZEpLSkY0cHNwY0UwMmpqNWtDRG1iWndOQkNmMEROeDVudjBDRjRrR2dEN0o?oc=5",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:30:00.000Z",
-      "whyItMattersKo": "예상 선발 라인업을 통해 오늘 경기 팀 전력을 미리 짐작할 수 있습니다.",
-      "fanTakeKo": "오늘 라인업이 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFdqTHk1X01wMFNVejVhcGdsYkhMVGtwbm43b0ttcUl5MkpsY0lOc0lBM3J",
-      "title": "Palmeiras 0 x 2 Atlético-MG no Brasileirão 2014: relembre o jogo - LANCE!",
-      "summaryKo": "파우메이라스, 2014년 아틀레치코전 패배 회상",
-      "excerpt": "Palmeiras 0 x 2 Atlético-MG no Brasileirão 2014: relembre o jogo&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFdqTHk1X01wMFNVejVhcGdsYkhMVGtwbm43b0ttcUl5MkpsY0lOc0lBM3JVV2FWUzh2T2pqbTlUWlM5Zm9IMEFBNFZfbm1hMDhrMGVQRTdaLWp0dzhxMVdpZmowa09abDVDTklyZXRxZHdNUENSRHJiQWJKZy0yV25FM2piYXdDZ2NQSkVCeTRSdw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:11:00.000Z",
-      "whyItMattersKo": "과거의 경기를 되돌아보며 팀의 역사와 흐름을 다시 한번 확인할 수 있습니다.",
-      "fanTakeKo": "그땐 정말 힘들었던 기억이네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2NyYlBEX01KOTIxMVN0U1hLclo0RDVNS2lqaExJellpbU43RVZMWUFHUm9",
-      "title": "Palmeiras 3 x 1 Atlético-MG no Brasileirão 2009: relembre o jogo - LANCE!",
-      "summaryKo": "파우메이라스, 2009년 아틀레치코전 승리 회상",
-      "excerpt": "Palmeiras 3 x 1 Atlético-MG no Brasileirão 2009: relembre o jogo&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2NyYlBEX01KOTIxMVN0U1hLclo0RDVNS2lqaExJellpbU43RVZMWUFHUm9GWWQzWU5VUGI2Z2ZpMGo0T3hrLXV6UmhrX3c2Ql9rZC1JRWMzM3NiUDBpY3hWQzdyclBVQXdaWW9rV1BQQ2pDeENyZm0zVWpfMnlXYy1CLTZWV0tHeWZ4SXhiZVJDUQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:10:00.000Z",
-      "whyItMattersKo": "과거의 승리 경기를 되돌아보며 팀의 자랑스러운 순간을 다시 확인할 수 있습니다.",
-      "fanTakeKo": "그땐 정말 잘했었던 기억이네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzRqc0dzMUhBak5aVDlnOVQxeFY2SEJQRVF6bTFqeFA3dktIVHFkOXkwd04",
-      "title": "Palmeiras x Atlético-MG: horário e onde assistir ao jogo do Brasileirão - CNN Brasil",
-      "summaryKo": "파우메이라스, 아틀레치코전 시간과 중계 안내",
-      "excerpt": "Palmeiras x Atlético-MG: horário e onde assistir ao jogo do Brasileirão&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzRqc0dzMUhBak5aVDlnOVQxeFY2SEJQRVF6bTFqeFA3dktIVHFkOXkwd041R2Ywdm5YRWFFQzU0NkRwbEswLXVXRUNBVjZNbHpEYUFXT0h5dW5pZVY3WEN5ZzVNTlAyeTQ2OU9lVzlRV3VYOV9yQWk1U0dRMVFXSGt0V1RCT1h1VmJMTW12MV9FMkZ3LXJrWEtkdDlfeDB0TjVFRG85ZXJUc001U2FHa3hUTXlVckZXTGdPWWxNM28?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:00:29.000Z",
-      "whyItMattersKo": "경기 시간과 중계 채널을 확인해서 놓치지 않고 경기를 시청할 수 있습니다.",
-      "fanTakeKo": "경기 시간 확정, 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUlNOZV82ZEtIbC1FOExEMVBvZDNreEZlQmJXN3JsOWpNcVBGTTMycGRsOW0",
-      "title": "Encaminhado com Deossa e Sosa, Vasco quer fechar reforços para iniciar reformulação no time - GE",
-      "summaryKo": "바스쿠, 데오사와 소사 영입 통해 팀 개편 추진",
-      "excerpt": "Encaminhado com Deossa e Sosa, Vasco quer fechar reforços para iniciar reformulação no time&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUlNOZV82ZEtIbC1FOExEMVBvZDNreEZlQmJXN3JsOWpNcVBGTTMycGRsOW03OU1USmM1aDNORDZJeUVzelR5ZEhLMWl3NXZVUWxGOVdNQTI4RzdFYXpMSS1QRDNtRm1wdVpFSEJ2dzBGVFNlVllwT21zVlpDc0ZMeUlTbFNIT1pYTmR4aERpcS00Q1BJUHhWUUpOQWRCdHdZYkFNSzJ5WWlHLUU4WF9Eb0U5a0luZE13TzdoeUJWbUNiX0hGZlpDekQ1ckROWU42QTVZM2Z4Yjd1TnB4WGlRUkdBWTJKRmJyUmdBY9IB-wFBVV95cUxPWV9BZGFTY2NGQ0NYNHowSmFncjc2bTI0a0JROEhFV0NrUU9VR2RHZk5aSkpCMXJXUWVob2lWaWhIX0M5VE1hVUVQSHd1QnMtaUVFQlRvN3htUmRqVW8yVUxkLWpKZ3VaejNmVWU5TFJHY2RGUkhjMG5IeGxkcXNPejc3eDBoU1BKZ1NMMjUxd2o1aHU2d1pBS3dTcXNYVjJrQ3ZkLWFTMF9kM21JSnNUaXFZWEZVZ3diaC1EcEIzbXdESG1uWWhfWXJUVkRMdmpmV1I3RVdvN250U3hKOENtWVQyenVSX1ZSUzUyUDBWLWdlN2NYRkxYQm9wYw?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:00:08.000Z",
-      "whyItMattersKo": "리그 라이벌 팀의 전력 보강 소식은 향후 경기 결과에 영향을 줄 수 있습니다.",
-      "fanTakeKo": "바스쿠가 강해지는 건 좀 걱정되네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0hWdWpETWxIT0swbzhtbm1zTFZwQWVOZnowbHo1WTE4cnNoZTJMVHNfcU1",
-      "title": "Atlético aposta em duelos equilibrados para surpreender Palmeiras - LANCE!",
-      "summaryKo": "아틀레치쿠, 파우메이라스 상대로 균형 잡힌 승부 노린다",
-      "excerpt": "Atlético aposta em duelos equilibrados para surpreender Palmeiras&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0hWdWpETWxIT0swbzhtbm1zTFZwQWVOZnowbHo1WTE4cnNoZTJMVHNfcU1SWGltY19LbGRrTk9HWjV0TWFqX21qVWNhbFVyZmdUbTJkRE9tYzlCeTh5TWRMbFRjX0c3blBtQmQ4S0xFUEpaSUU1dWVFenZmSjc3UUdEQ0FnOU8tWmxxbXI4RmVrcW8tSVpKaU5DeFhycVNBR2dWRGR3ZUZwNk5waEpMQXVmVy1yMjMzOVFiMWtYdnRjUGE4UzN6ZnMtOEhuQVJ6WEZfYW1HMjRWWlNDT2M2Y3hEZ3Q?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:00:00.000Z",
-      "whyItMattersKo": "상대의 전략을 분석해 이변을 노리는 만큼 파우메이라스 수비력이 시험받을 것입니다.",
-      "fanTakeKo": "아틀레치쿠가 만만치 않은 상대네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi1AFBVV95cUxObkpyOEhSNFIwTnl0X2lHUVRaUFUtcFhqQnlTZDlSd1g4NzhhY0wwLWJ2SFB",
-      "title": "Palmeiras x Atlético-MG: Onde assistir ao confronto da 20ª rodada do Brasileirão - GazetaWeb",
-      "summaryKo": "파우메이라스전, 브라질레이렁 중계 어서 보나요?",
-      "excerpt": "Palmeiras x Atlético-MG: Onde assistir ao confronto da 20ª rodada do Brasileirão&nbsp;&nbsp;GazetaWeb",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObkpyOEhSNFIwTnl0X2lHUVRaUFUtcFhqQnlTZDlSd1g4NzhhY0wwLWJ2SFBMV1VqMVRYQkdCNE1HUFFUcGRfWUh2SGVKZk5hclhacjZfTDJVLXJDWGJDMV9fRHA4blZGclozRUt6MVlqNVdUNGpjRkVMQktkVzFESWpoMi1RZ1gxaFZHY2Y1MWh5cFY1bDZ6cmFETy1yenl0N1FvZ1JUOVR4ME9QYVhaSVpzZWQ0UUYwbGFUbGFCY25XX19PYU5fLTNtUU9FbEtyT0dPOdIB3AFBVV95cUxONXhmVEpXVHR3VUJPUXl5cnFONEsyZ2doWElnb1dBRnZfS0ZGYk8wdTNCeVl0eDNhNEFuN3hsUTlxZU1RNmZwVzg3XzNOQ3QwRGZob3BhZTRBN1FROTVOUjVkeEZOc09RekY1MG1IV1BwMlJXS0pSMnFjMnVqalJudjlpU19vcTRsWlVWVDNJRHpxSHpURzJsTnZ4VDVYaHVaWWZvWWYzdlpGSzhuS2s4Zkc3NnM1cENqcUVXRU9kYUw4Mzh5OGxQOWhxN1dnYWt3OGdEUG1OQVRkcWNB?oc=5",
-      "source": "GazetaWeb",
-      "language": "pt",
-      "publishedAt": "2026-07-26T09:00:00.000Z",
-      "whyItMattersKo": "브라질레이렁 일정에 따른 시청 정보는 팬들이 경기를 놓치지 않게 도와줍니다.",
-      "fanTakeKo": "꼭 챙겨 봐야 할 경기네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEUzSkpteTZhVnUxaDI5NmZhT1gxNmpMT3g4VHBseFNoYVpmRXA1MTluV25",
-      "title": "Palmeiras x Atlético-MG: horário e onde assistir ao jogo do Brasileirão - UOL",
-      "summaryKo": "파우메이라스전, 경기 시간과 중계 채널 확인",
-      "excerpt": "Palmeiras x Atlético-MG: horário e onde assistir ao jogo do Brasileirão&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEUzSkpteTZhVnUxaDI5NmZhT1gxNmpMT3g4VHBseFNoYVpmRXA1MTluV25SeGNrcFV1ZzZZMlJ6Y1BXdjJTYmtzb3hRdXJPR2p4VzlVZGtzbk1HWGxRbTNmbUtBaEtOcV9EMUJNMmJBeF9VNmQzRTl3Z1p4NEhpd0lOU3A0cHV3QndhSkllT1R3MTBnTURVZllFX3B2TTR6Sjd1V19PYUdtLTNNR2Q4Uk85U0VWVlZmMVVpeUgyZG9Jazk4TUtuZElaeUZPWjQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-26T08:30:00.000Z",
-      "whyItMattersKo": "경기 시작 시간과 중계 정보를 확인해야 실시간으로 응원할 수 있습니다.",
-      "fanTakeKo": "시간 확인하고 기다리는 중이에요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
