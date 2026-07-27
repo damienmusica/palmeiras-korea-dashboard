@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-07-27T00:00:40.042Z",
+  "fetchedAt": "2026-07-27T04:13:04.623Z",
   "items": [
     {
       "id": "espn-762074",
@@ -25315,7 +25315,7 @@
         "kind": "league"
       },
       "kickoff": "2026-07-26T22:30Z",
-      "status": "live",
+      "status": "finished",
       "venue": "home",
       "stadium": "Allianz Parque",
       "home": {
@@ -25331,8 +25331,8 @@
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 2
       },
       "events": [
         {
