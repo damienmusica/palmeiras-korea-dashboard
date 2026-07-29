@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-29T20:30:03.078Z",
+  "fetchedAt": "2026-07-29T21:29:48.823Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNW5zaFphRG8xTlVVMmFMellIX1p0UkF2RWdpM2V0LXNOM0NHV1FUV1h1SU8",
+      "title": "Corinthians está escalado para enfrentar o Palmeiras pelo Paulistão Feminino - meutimao.com.br",
+      "summaryKo": "코린치안스, 여자 파울리스타전 라인업 확정",
+      "excerpt": "Corinthians está escalado para enfrentar o Palmeiras pelo Paulistão Feminino&nbsp;&nbsp;meutimao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNW5zaFphRG8xTlVVMmFMellIX1p0UkF2RWdpM2V0LXNOM0NHV1FUV1h1SU8ySERlVVFyb2dBejAxaExzb1lGSlJZTmN4LTVIZ1pneVVHcGFRREQzU3JLUHhjQVBYQmdqN2VfNUZoR2pwZm94T1dtUnNsd1hVTW5SNEtWbk5LTm45QjZjbnV2OU42TFQzYm9XMHI2ZzV4bzA0djdQNm56R1JYOGQ2SkUxLXp4ejNOUnVGVXUtS2l2bzdzU29VRVRLVU5QUWNWdWF00gHAAUFVX3lxTE12YTVOT2lpNTB2Nm9hWHpmOFFYdlY5WXdCcTQ2QW9GRlZjTUhoZDJxSzkzdGNrRGI5VmRXdUxvR0E5d3QtU3I2WkpJckJzTjdpUGo3dm5jZU1GNDh4MkFVVThzU3NrdTQtMmZ0cndvY0liOFpVd0lyS01vRXR0RXN4T0hZSklmTWpySW5LRHJlNlFsejNOUE5xMUs3WUZLWXVOLWk0UzZIa1g5ZzBBaEZDMVNUUVoyYnRVQlI2Mnk4dA?oc=5",
+      "source": "meutimao.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-29T21:01:20.000Z",
+      "whyItMattersKo": "여자 팀 간의 더비 경기라 선발 명단 공개가 팀 전력과 경기 분위기를 보여줍니다.",
+      "fanTakeKo": "여자 팀 더비도 뜨겁길 바란다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMihwJBVV95cUxNbmd6RHl4SzN0YktvLWJlVWlPbVh6WDczckI4M1lET2I2MXhVX3lyeTYzdTJ",
+      "title": "Vitória x Palmeiras: onde assistir ao vivo e horário do jogo pelo Brasileirão - GZH",
+      "summaryKo": "비토리아전, 브라질레이렁 중계 채널 확정",
+      "excerpt": "Vitória x Palmeiras: onde assistir ao vivo e horário do jogo pelo Brasileirão&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbmd6RHl4SzN0YktvLWJlVWlPbVh6WDczckI4M1lET2I2MXhVX3lyeTYzdTJaSHpGV2ZZd2piai15UEVmRFIxZjdubmlxa2FKVVhpOUFvRDdCaEdWczdpZGJSTC13ZHpLWE9PSlhfLWRaYmMzTGp6RTdVc0ZtMklRMWhmZkhsSzNGSmVCMEEzUXpoWVVvSkJMUEtfVGFaMUVDOG4wYzdLUWFKMkF3LXRvYmVac3J0czBZMndSb1lVcVhyOHJVcXc5UEhFSmFLU3pmaHdHa18tR3VxZnVsS2RQaGY1UEp0aUNEUEdWdWEtMS1mYk9kMThaeVRXRzBPdFVYNzl5bmNsVQ?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-07-29T20:34:11.000Z",
+      "whyItMattersKo": "한국 팬이 경기를 보기 위해 중계 시간과 채널 정보를 미리 확인해야 합니다.",
+      "fanTakeKo": "새벽에라도 꼭 챙겨 봐야겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGJuelZLeFhwVDdUbzBHa1BPUDRHNXhkRERnUjJtY3JYLXZ0RWJnR1JiUFV",
+      "title": "Vitória recebe o líder Palmeiras em busca de recuperação no Brasileirão - Terra",
+      "summaryKo": "비토리아, 선두 파우메이라스 상대로 분위기 반전 노려",
+      "excerpt": "Vitória recebe o líder Palmeiras em busca de recuperação no Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGJuelZLeFhwVDdUbzBHa1BPUDRHNXhkRERnUjJtY3JYLXZ0RWJnR1JiUFV1R1hYb1lBbk5zb2FkUVZqcGNxUzNVajBaazNFY00yXzhxSzBrSm5MQTNYYjRXYVJ1MnJvRTZrOWdPdzkxWllVd2RfUVpRdzRrbHUwQldZUjF0VFIyOUl6T0dUUVh5LVlOcUpEeFFSMi14UHgwMDNJR0JuQ19hcjl4OFoteVVuNkhOeXc0N3RZVmNqZmtHSUlKc0QybnR0SGU4ZkFzb2Q4RHRkU3dlX09KckttS0haS2xPZw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-29T20:28:00.000Z",
+      "whyItMattersKo": "선두 파우메이라스를 상대로 승점을 챙겨 리더십을 굳건히 할 수 있는 기회입니다.",
+      "fanTakeKo": "선두 자리 지키자 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeGZFOHJPajJfZ0NUdUN1dGZ2RHlvMHBmOHRUOTNHWkF5al9FODlZZjk2bEE",
       "title": "4 Palpites para Palmeiras x Corinthians Feminino: Derby Paulista Agita a Briga pelo G-4 em Barueri - Terra",
@@ -25,7 +73,7 @@
       "summaryKo": "브라질레이렁 오늘 경기 중계 정보",
       "excerpt": "Brasileirão hoje: Onde assistir ao vivo a Flamengo, Palmeiras e mais&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2ZmRzFhYzFjS3o0d2pocDBSZG5YYnVHd3p6ZlhoNGplMnZWMi1uQ3U1MVdoUm9LalgtQThueU9rRW5LOERPUnlhcmRkZG83RkVqUVBoUmt5VnlMSDk5ZHdnZHd3WklYemNtYU1vb2tPOWF6OWtLUmtreDcxb1dOeHFBQXpGM0phdHhHUTBESjhfaElMbFFfRk51TXJuVFNlbnc?oc=5",
-      "source": "UOL",
+      "source": "tangerina.uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-29T20:00:00.000Z",
       "whyItMattersKo": "오늘 열리는 주요 경기들을 어디서 생중계할지 방송 정보를 확인하세요.",
@@ -85,7 +133,7 @@
       "summaryKo": "Sportv 팀: 브라질레이랑에서 만난 비토리아와 팔메이라스 - GE",
       "excerpt": "Seleção Sportv: Vitória e Palmeiras se enfrentam no Brasileirão&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUdqM3ppN0FQaTh4bWNWVjRDbUZ1d0NtbHoyb2dxY25ZV0JzTHlQNmlWV0FRR1NIMTlpVWt2TEVQWW9fWDZVMWpMcHlYUVZtX1oxSU9mbFA5SVdZVWFLaVNsS0NVYllTdU1NdXpKdmR3RGlwdEtFY0s4RFBhMUR4Yk9oNkVEOHluWDMzeXM3Smg0aEFjdElYSC05NWY2dXhJUnRFcWMzeUdVRTJ2Tjh2NVU0TkpKM3FMZ2xQWnZzMDQ4NXRnZ2JLb2NOTGhINlZCMmfSAeABQVVfeXFMUDI2X1NDbmEzYlAtR0pJdFNBdG42YUhaMlVFWnFRRzhhNmZWZmxfNmloQlo5RndBUFZoampCdXZ6Z0tFdURvcl9vOW5xRlMzLWx1Z0tPcTR0V0Jaa2hzNXZtMnd4aEF3Q1QzUjA1cnNaSElEQzN4eEpIdGpLdW1UT3Y2aVdrR2ZVNm53N1pvcG45WVhLdlVzS1FaUERLczBpNmJjSV9OdlFvM204OVlSRHhEckYxRUdrVkhtdDJaeWp1SGxXVDVYS0FidjFEaUNyUmp3bFdSYzltSHpGRGU2WW4?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-07-29T18:47:21.000Z",
       "tags": [
@@ -108,12 +156,12 @@
       ]
     },
     {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNSMUNBQ1NXQnRPY25XT3lja0k0MDJmWlhHN2RCWHZvZEUwZlQwazBzQmh",
-      "title": "Vitória x Palmeiras no Brasileirão: onde assistir, horário e escalações - VEJA",
-      "summaryKo": "브라질레이랑의 Vitória vs. Palmeiras: 관람 장소, 일정 및 라인업 - 참조",
-      "excerpt": "Vitória x Palmeiras no Brasileirão: onde assistir, horário e escalações&nbsp;&nbsp;VEJA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNSMUNBQ1NXQnRPY25XT3lja0k0MDJmWlhHN2RCWHZvZEUwZlQwazBzQmhyLVFpeENrZF81dV9iRzNRclJOamxsQ3hSVTRzUUY0N3FCZ3hPdWFuWE9wZl92TEtpSnNPZ1pVMzdCQ1Y5N1RXSHlZT3VnLUZTaHczZ0JfbUpfZzFkTl96d2V5WkdCVzczSHhGRzZFWkJoSHZFNlV4WUZMYw?oc=5",
-      "source": "VEJA",
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5uQU1mVl9EM2FybXBNdUVRRVAtdlVKWTNza21EOTJJYXMyZ1JhS20tZGt",
+      "title": "Onde vai passar Vitória x Palmeiras pelo Brasileirão? Como assistir ao vivo - UOL",
+      "summaryKo": "Vitória x Palmeiras는 브라질레이랑을 어디로 통과할까요? 라이브 시청 방법 - UOL",
+      "excerpt": "Onde vai passar Vitória x Palmeiras pelo Brasileirão? Como assistir ao vivo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5uQU1mVl9EM2FybXBNdUVRRVAtdlVKWTNza21EOTJJYXMyZ1JhS20tZGtBMXZobERaZjB2a08ydFg1cDEyd0NCcE1MazVVdVZ5WlhpTThoWjhXZjV4YndzclZvRllVbU1NLUNoX1NXM0JnN0MxS21pZ0ZaWmwtN3d1R1lHOF9mUEdjLVUwSGNoNTVTb3oyUnd2WTJiS3pkVGNwQ2JRVlZGaVloZ0dGN0Jkdld3WHdDQlRyTjhEMnFTZEZ1ZkdmeDQySEVUT3FWR3RHLQ?oc=5",
+      "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-29T18:30:00.000Z",
       "tags": [
@@ -122,12 +170,12 @@
       ]
     },
     {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5uQU1mVl9EM2FybXBNdUVRRVAtdlVKWTNza21EOTJJYXMyZ1JhS20tZGt",
-      "title": "Onde vai passar Vitória x Palmeiras pelo Brasileirão? Como assistir ao vivo - UOL",
-      "summaryKo": "Vitória x Palmeiras는 브라질레이랑을 어디로 통과할까요? 라이브 시청 방법 - UOL",
-      "excerpt": "Onde vai passar Vitória x Palmeiras pelo Brasileirão? Como assistir ao vivo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5uQU1mVl9EM2FybXBNdUVRRVAtdlVKWTNza21EOTJJYXMyZ1JhS20tZGtBMXZobERaZjB2a08ydFg1cDEyd0NCcE1MazVVdVZ5WlhpTThoWjhXZjV4YndzclZvRllVbU1NLUNoX1NXM0JnN0MxS21pZ0ZaWmwtN3d1R1lHOF9mUEdjLVUwSGNoNTVTb3oyUnd2WTJiS3pkVGNwQ2JRVlZGaVloZ0dGN0Jkdld3WHdDQlRyTjhEMnFTZEZ1ZkdmeDQySEVUT3FWR3RHLQ?oc=5",
-      "source": "UOL",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNSMUNBQ1NXQnRPY25XT3lja0k0MDJmWlhHN2RCWHZvZEUwZlQwazBzQmh",
+      "title": "Vitória x Palmeiras no Brasileirão: onde assistir, horário e escalações - VEJA",
+      "summaryKo": "브라질레이랑의 Vitória vs. Palmeiras: 관람 장소, 일정 및 라인업 - 참조",
+      "excerpt": "Vitória x Palmeiras no Brasileirão: onde assistir, horário e escalações&nbsp;&nbsp;VEJA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNSMUNBQ1NXQnRPY25XT3lja0k0MDJmWlhHN2RCWHZvZEUwZlQwazBzQmhyLVFpeENrZF81dV9iRzNRclJOamxsQ3hSVTRzUUY0N3FCZ3hPdWFuWE9wZl92TEtpSnNPZ1pVMzdCQ1Y5N1RXSHlZT3VnLUZTaHczZ0JfbUpfZzFkTl96d2V5WkdCVzczSHhGRzZFWkJoSHZFNlV4WUZMYw?oc=5",
+      "source": "veja.abril.com.br",
       "language": "pt",
       "publishedAt": "2026-07-29T18:30:00.000Z",
       "tags": [
@@ -217,7 +265,7 @@
       "summaryKo": "파우메이라스 여성팀, 더비전 준비 강조",
       "excerpt": "Greicy destaca preparação de Palmeiras antes de Derby no Paulistão Feminino&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1ZnUENUMzFNWU9tUjU5TUFxekQ4UVRwOFIwdFBic3RsR3lpd3ZsQWd4cUVOa3ZSMjQ1dVNhc2w0RDdNdlJCRFpzQVpyekpOUUswWmZYNmViNlN4NklKWEVNSU96aWp2TjZlWGZsaUtVLWJGekpoSnFmTmQwUVhnS19UM1ZacmItZGZnOWQ3aG9IOXZLX3hhOTdPcXFIajFqTWFDYlZpTzF3bmszVXFHRjJWRVJjV0p5OWZDejRIYw?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-07-29T17:01:23.000Z",
       "whyItMattersKo": "지역 더비 경기 앞두고 팀 분위기와 전술적 준비가 잘 되어 있음을 보여줍니다.",
@@ -238,6 +286,22 @@
       "publishedAt": "2026-07-29T17:00:00.000Z",
       "whyItMattersKo": "브라질리이렁 일정에 맞춰 상대 전력과 경기 흐름을 미리 파악할 수 있습니다.",
       "fanTakeKo": "이번 경기도 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMipAFBVV95cUxPXy1kZHZoeW1WR0Z2OVc1UG5IcFFCdkpkWmttMURsbnBHd05Gc0lOZ2Y3R1",
+      "title": "Por que o Palmeiras se autointitula campeão mundial? - iG Esportes",
+      "summaryKo": "파우메이라스, 왜 세계 챔피언이라 부를까?",
+      "excerpt": "Por que o Palmeiras se autointitula campeão mundial?&nbsp;&nbsp;iG Esportes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXy1kZHZoeW1WR0Z2OVc1UG5IcFFCdkpkWmttMURsbnBHd05Gc0lOZ2Y3R1hUd3F0aWNSc3VzQXZ5UFoyUmdaX1gteGRKX0Z6d2FzV1NKbTVHUGtYY3pqSHdRaWZLcWxBYkstMjcxcXBnMDcxeVJzWlBsbHlXaFlBQTl1b2dRUzN2WkdYVi1wNjBjMEl5UWQwV0hXZmMxQkpmeld2VdIBqgFBVV95cUxNcDFrd2RmdzQ0MDVvWnN3d1gyekR5V09HaENfNVM5ZEpRMXZmVU1oT2FhLTZNLWNyNHUwaC1aZXk4cFpSSlFta1hPMjZZQm42blR2LWozYzhnWEdOdDJMY2FrcW9JUzVhRnUtYjhGNDdqNTJHQTh2OXcxSE9XcHZsOGVjaGpUQkpleVBUaVlKZ1Z3ZjI4aXlCTmxrMGF5VWREams0Z1VrUGhoZw?oc=5",
+      "source": "iG Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-29T16:54:00.000Z",
+      "whyItMattersKo": "클럽의 역사와 정체성을 이해하는 데 중요한 배경 지식을 한국 팬에게 알려줍니다.",
+      "fanTakeKo": "우리 역사는 정말 자랑스럽네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -313,7 +377,7 @@
       "summaryKo": "브라질레이렁, 21라운드 일정 시작",
       "excerpt": "Brasileirão Betano: 21ª rodada começa nesta quarta&nbsp;&nbsp;CBF",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTThGaEE2cEZURldlYUNZSk5mLWNpT28zVTQtd2QteV9ZTFJtdTl3WDFTOWZnYUMxVFlTNHBiQkNMcVpMcUV2dUFicWx3RzNmTkFRVmJmNGZVUGZUeGlqaHRPa2NHU1FFY1hRVHNDd3FTNzNoMFowZnJJVWFHb1h0eHVLYUpRNEI0QkdtaVVWaFliSjIwcW9kRXNzS2NZMW5OR3A1U0NyT0xDV3VXMk5yWDZOUGw1OWxWLXJ3Ql9PQXRxOWw4NGNaZDBaWQ?oc=5",
-      "source": "cbf.com.br",
+      "source": "CBF",
       "language": "pt",
       "publishedAt": "2026-07-29T15:37:00.000Z",
       "whyItMattersKo": "리그 중반부 흐름을 결정지을 중요한 고비라 순위 변화에 주목해야 합니다.",
@@ -409,7 +473,7 @@
       "summaryKo": "아틀레치쿠, 브라질레이렁서 파우메이라스와 경쟁할까?",
       "excerpt": "Athletico consegue disputar o Brasileirão com Flamengo e Palmeiras?&nbsp;&nbsp;UmDois Esportes",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHVLWkQ2R1I4Q1pkMEhZYzBVV29kbjlzRnhrRnhIa01mVDlnOXpPMmNSVFk4ZUlGUUw0QWNqM3IyT3RvWWxkTmtRdktXeHY3dEVybzFrTjk4cWVTWVZuT2xtaE44UG5oQlFneTkwaGVPMllOSGFUR3BLa1ZHNF9vQVZxX2l0eEtMbVdfT0RNSUtZTUJBWW1XVktkM2V5bUg3MFE1R1Rn?oc=5",
-      "source": "UmDois Esportes",
+      "source": "umdoisesportes.com.br",
       "language": "pt",
       "publishedAt": "2026-07-29T14:36:38.000Z",
       "whyItMattersKo": "리그 상위권 경쟁 구도를 파악해 파우메이라스의 순위 흐름을 이해하는 데 도움이 됩니다.",
@@ -441,7 +505,7 @@
       "summaryKo": "파우메이라스, 주전 300억 제안 쿨하게 거절",
       "excerpt": "Palmeiras recusa R$ 300 milhões por titulares e mantém foco esportivo&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWJobm56RjJRRjVacDVqRkRBSmZWdW1od1pTMXF0U01QRlY3bXdjLWRoVzdaMDZyNFZTblZQaU9MSUo3YnRKNmMwaE90a05jTVpaSVhFTm5JWXo0OHZJWmdWZDFZWlRUYm84Z3ZQYlhRdjkwV3dDc2RFeEJobzhIUVU2dzdEVFNLZ2RUelN2Z2dyQUVGSVhzbEJ6YWptNWJfYkE?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-07-29T14:13:20.000Z",
       "whyItMattersKo": "주전을 놓지 않아 현재 성적과 우승 도전에 집중하겠다는 강한 의지를 보여줍니다.",
@@ -878,70 +942,6 @@
       "publishedAt": "2026-07-29T11:00:00.000Z",
       "whyItMattersKo": "홈에서의 실수를 만회하고 리그 순위 경쟁에서 다시 기세를 올려야 합니다.",
       "fanTakeKo": "이번엔 꼭 이겨야 해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFZ1NDB6WEtwdTJ6cG1Mdk8zNV9iamFRS3JlWlpuNml4UHpJU09GWHdQUF",
-      "title": "Como retorno da dupla Flaco Roque pode aperfeiçoar estratégia de Abel para o Palmeiras pós-Copa - GE",
-      "summaryKo": "플라코-호키 듀오 복귀, 아벨 페헤이라 전략",
-      "excerpt": "Como retorno da dupla Flaco Roque pode aperfeiçoar estratégia de Abel para o Palmeiras pós-Copa&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFZ1NDB6WEtwdTJ6cG1Mdk8zNV9iamFRS3JlWlpuNml4UHpJU09GWHdQUFowdnFyUDFJQldhVk9vUW91MlhQSFo4bnNnQW9SS01kcnF0N2o2M3UwOVo0RFN1Y0lzVkYxY1pxOGlObHZoQkNrWHVXQ3A1cnc4c2hEZVF1SHFfMjE0SGNpTlplSllDbTFCOXFSMmhtY0xhZ0tzWFA4SFBLMUJJN2NXdUQxS214MEx5Sk1pQW0wQXJ0ZDBoWHg2YTUwcFZYeEZIc0ZXSDVNV0c3bkI2Rk04akNycEVMU0d6Z3VaTlhDZ1BhYW9aWVBrYUpSVtIBhwJBVV95cUxOMlBtYWUySUFkeUhHNmdMY1BPczNSWm1Ga0NnWHpxQ2d2VHJQSVBFYUhNS09peUhlMlJ0V3BwSW9qTmFLQ1pPc3c1emZfMnJSLVdpSHJLandxZEpqaDczbVNZdGgwZlk5UlpzUWxUazNlYTJsWUs0MXFWU1o2MjB1WEQxQkhpTmFHU2pvbHhvQXFTWHh3RENMdUQzdnpSTkRIbnI1TlZpU2VxbnFnTjdOcUJJdFlpOUhJUFphODUzcDNJel9CMVJ1Z0pQS2tSVGlwaEEtSTVUSm1GSGhSOTNMUFN6MXhkOG5Wdl83UTVZVW1uZFhWSG5ocFhIT19JQXhwZ1VDWFVmZw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-29T10:46:45.000Z",
-      "whyItMattersKo": "주전 공격수들의 복귀는 감독의 전술 옵션을 넓히고 득점력을 높일 수 있습니다.",
-      "fanTakeKo": "듀오의 활약 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkVLRDlJM1RtdENvMW5xSW5ZalBOeXlzeVNFanNzVkxGM2ZYaWxEdkVUV2",
-      "title": "Jogos de hoje: Brasileirão e Sul-Americana em destaque - Campo Grande News",
-      "summaryKo": "오늘 축구 일정, 브라질리랑과 남미컵",
-      "excerpt": "Jogos de hoje: Brasileirão e Sul-Americana em destaque&nbsp;&nbsp;Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkVLRDlJM1RtdENvMW5xSW5ZalBOeXlzeVNFanNzVkxGM2ZYaWxEdkVUV2NYb191ZlZFRTdSVnNPdWpOdFdkWkN1LWNFZE9OSlVISmpjeU0xSU5HMjBXdW1DeEJiOVhhY3NfT004OW15Ri1abnV1SER4Q2lUSnhlX3J1RmtuU3JwalRIWjVUR3NNSTEtX3dVbWhPYzBpRktmY3FQOEljNjlFNlFfVHFrdkl2c2ZBelXSAbcBQVVfeXFMUFRCM0syRUtxMGFlLXc2TDN2QXRWMVlEVVZZeEw0N0RJa2ZCanpRSVlESTVaNWV4dFJCQzhLYzdlNXkydHA2c1Y3WS12N3Q5YTJUNlFzVFk1ZFBMUWNtbVdqZDNadkZ1ZjZaOUM5VWZQV0F5a1Riem1MZ18wS1R6TzJmbmVBX1R0MWlXSDhmQ0RNb2x2R3F0ek4xTVhmLWlCd2hXVHlWTWNhd3VRdGZDVktnMnFSWnB3?oc=5",
-      "source": "Campo Grande News",
-      "language": "pt",
-      "publishedAt": "2026-07-29T10:33:00.000Z",
-      "whyItMattersKo": "오늘 치러지는 주요 리그와 대륙간 컵 대진을 확인하고 경기를 관람할 수 있습니다.",
-      "fanTakeKo": "오늘 경기가 기대되네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlBROHJOcEF0YkFNZWZLSkYyYVNHRTQ0VmZrWEJuUmFYYVdyZ3JqZmExTk",
-      "title": "Vitória x Palmeiras: onde assistir, prováveis escalações e arbitragem - Rádio Metrópole",
-      "summaryKo": "비토리아전 중계와 예상 선발 명단",
-      "excerpt": "Vitória x Palmeiras: onde assistir, prováveis escalações e arbitragem&nbsp;&nbsp;Rádio Metrópole",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlBROHJOcEF0YkFNZWZLSkYyYVNHRTQ0VmZrWEJuUmFYYVdyZ3JqZmExTkpyX2hkWjdPWXJ6ck9fRGczVkZGWmo3WGtRLUV5ajNuWHBfcVd6WlhYV1FVb2hfUzNVQWRNNm1aVmVxRkxKQW9aYUJPT1k3TF9OTXpTR01Kb1EydnNwMHRZUHdldWpGNlRJZUhGV3NxYmVqV19HMFhVcE9hSFViSGtHTmsxcVVfMU1zbmpwZWc?oc=5",
-      "source": "Rádio Metrópole",
-      "language": "pt",
-      "publishedAt": "2026-07-29T10:30:00.000Z",
-      "whyItMattersKo": "경기 시청 방법과 예상 선발 명단을 미리 확인해 경기를 제대로 즐길 수 있습니다.",
-      "fanTakeKo": "오늘 경기 시간 확인 완료!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMixAFBVV95cUxOaV9DRXlmaEwzU3JhZm1FcFRHZVowbUlVbHlqT0QtbWhmeUk3anU0RzNFd0",
-      "title": "Vitória x Palmeiras: onde assistir ao vivo, horário e prováveis escalações em 29/07/2026 - Muita Informação",
-      "summaryKo": "비토리아전 시간과 중계 채널 안내",
-      "excerpt": "Vitória x Palmeiras: onde assistir ao vivo, horário e prováveis escalações em 29/07/2026&nbsp;&nbsp;Muita Informação",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaV9DRXlmaEwzU3JhZm1FcFRHZVowbUlVbHlqT0QtbWhmeUk3anU0RzNFd09Cekl0TW44bTVTbFBGcTUyOU50S1VhdTZHRzFfTnZpTE9hSmlfb3ZQNENybFA4YW1PbG9MbWh5SGdCbDlZNUg5b2VscW9vOGlzMTlZei1aWnowNmFNdEdNanlyeWp3TUNwdnNDaWtONS1NSHNaelNnUEhwVjBpUENjaDZnTlFGNHdabmNkbWxnb2hBMzZwaDFh?oc=5",
-      "source": "Muita Informação",
-      "language": "pt",
-      "publishedAt": "2026-07-29T10:04:07.000Z",
-      "whyItMattersKo": "경기 일정과 중계 정보를 미리 파악해 시청 계획을 세울 수 있습니다.",
-      "fanTakeKo": "맞판 대결 놓치지 않게 봐야죠",
       "tags": [
         "뉴스",
         "AI요약"
