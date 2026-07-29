@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "API-Football 스쿼드 + ESPN 2026 시즌 스탯",
-  "fetchedAt": "2026-07-28T23:00:39.648Z",
+  "fetchedAt": "2026-07-29T00:56:55.747Z",
   "statsSeason": "2026",
   "players": [
     {
@@ -820,18 +820,7 @@
       "birthDate": "2006-04-30",
       "heightCm": 182,
       "photo": "https://media.api-sports.io/football/players/449244.png",
-      "availability": "available",
-      "stats": [
-        {
-          "season": "2026",
-          "competition": "브라질 세리이 A",
-          "appearances": 7,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 2,
-          "redCards": 0
-        }
-      ]
+      "availability": "available"
     },
     {
       "id": "987",
