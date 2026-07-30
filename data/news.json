@@ -1,8 +1,134 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-30T11:29:29.156Z",
+  "fetchedAt": "2026-07-30T13:10:07.456Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaXFJWmI4Q0oycWszcDJFVnpUNWJudXQwSlZqS3pRbU1ObXJ0UF9zdG1xY19",
+      "title": "Abel diz que Palmeiras tem \"força\" para recusar ofertas de jogadores importantes - Terra",
+      "summaryKo": "아벨, 주요 선수 이적 제안 거절 자신감",
+      "excerpt": "Abel diz que Palmeiras tem \"força\" para recusar ofertas de jogadores importantes&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaXFJWmI4Q0oycWszcDJFVnpUNWJudXQwSlZqS3pRbU1ObXJ0UF9zdG1xY19rdFNuUXNCRUVGVDNTYWo3WTVVOGZueG5QLW5fRzlreFlGSU9VZElhRGtMekFIS2M3NDUtZlBXSlZMS1FaU2tPa1ByWTd0S21FUG8wYUVYRER6MnZZOXNPSmxzaDNHWHlpaFdQa1ZlREZ1VHJqUU9BR2FyNlJYajJuQnNNdi03WDQtd2FsSTMwZW9YTTY3LUFzOW81VTFObmo1LXlDcEtzQ1NmaWt6NTBnOTdLOEYydnhIN2xFUlpSN2g2UExKTmhsUDBZcTVzd2s?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-30T12:52:00.000Z",
+      "whyItMattersKo": "팀의 재정적 안정과 선수 유지 의지를 보여주며 선수단 유지에 긍정적 신호입니다.",
+      "fanTakeKo": "주축 선수들이 그대로라니 다행이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiywFBVV95cUxOSm5aY19DV3ZsMG41eUFFUTRGMzFsMDBHek1LOXVLbmxWaURRUTV2MDl1QWF",
+      "title": "Pausa para a Copa do Mundo fez muito bem ao Palmeiras e ainda não fez ao Flamengo - Estadão",
+      "summaryKo": "월드컵 휴식기, 파우메이라스엔 약이고 플라멩구엔 독",
+      "excerpt": "Pausa para a Copa do Mundo fez muito bem ao Palmeiras e ainda não fez ao Flamengo&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSm5aY19DV3ZsMG41eUFFUTRGMzFsMDBHek1LOXVLbmxWaURRUTV2MDl1QWFQQVNDUzBTQ3g4SWdFVlFXMU1WbVRMaHN1c1oteDBQYU9zU3RuUTB6Rmk1R25Ub0locEh1T20xemx0YUdXa0czLXdEYjdPQjNtYzZGbFFZUW8wZXJDRG9SdUFPWWJNbWMtbWp4MndOc0NrUmdMMFhMV3lzZXgyLW1IMTRodEpiSm9QT2F2NEJUcHBERFpUV21PbWYxRVFka9IB0AFBVV95cUxQNVBEd3FGaDlpck1XNTU3Y1FRQUhmdUhxQ2tGMUo3RHY3Y2I5QTVJNXpvQ0tVWGNhNFIzQ3FjRW9zOFo4c21aU0wydk9Ocy1NS1dDdmQwM252bkY0RGMzRnhFeDhWcVBQeDlTUVh6QWYxcW82TmRoT0hzYXNUbElNLWE1dEZLbzFOaW1TNmtUcTlhblJxZTY5OFV3M0swVTVXZ3JYcjI4eTJ5R1I0R0Z6bklxNXVMVlpBMmxQeHFlT04tWnAzcEpsZ09kdjV1ZTQ4?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-07-30T12:49:25.000Z",
+      "whyItMattersKo": "휴식 후 팀 컨디션 회복 여부가 리그 경쟁 구도에 큰 영향을 미칠 수 있습니다.",
+      "fanTakeKo": "컨디션 최고라니 기대가 큽니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMilgJBVV95cUxOUGN3S09zQWNTMHVYSkVfVHFpTXRrLVFVRmJGakJTN0RBaU03RXkyM19OeWl",
+      "title": "Arnaldo Ribeiro: Palmeiras ruma a passos firmes para o título brasileiro - UOL",
+      "summaryKo": "칼럼니스트, 파우메이라스 우승 행보 확신",
+      "excerpt": "Arnaldo Ribeiro: Palmeiras ruma a passos firmes para o título brasileiro&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUGN3S09zQWNTMHVYSkVfVHFpTXRrLVFVRmJGakJTN0RBaU03RXkyM19OeWlDTHZxSmhLYmF4bWtIbmM3M0h1LWNUamZDdld5V2duM2J1a0FpX0s3UkxweFV4WUJmaEpHd3BFV2RxUmx5bHdwSVRFZWtXZWpXb1VlZU1NOUppajA3VVhOLTBaRVpsZDJsVlhFVEF0RTJmSkdxeGZEYmxZVldVb3dNWUtEX2dBYWwyNlZNNHFMaWR5WmZHWGRxMDdOZWlMQV9NQlh0UjRBZVdmOXUzQV9RTXJBd1FYNFBOcVhQZnRTck5EUERELVh0aVFHMHoyV2piNHFQOUFyS0ZqMmpQVVVlbFVUMEoxaVVhUQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-30T12:46:26.000Z",
+      "whyItMattersKo": "전문가의 우승 확신은 팀의 안정적인 브라질레이렁 선두 경쟁력을 보여줍니다.",
+      "fanTakeKo": "이번엔 진짜 우승할 것 같아요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1",
+      "title": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão - uol.com.br",
+      "summaryKo": "또 심판 논란? 파우메이라스, 브라질레이렁서 경계령",
+      "excerpt": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão&nbsp;&nbsp;uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1R4dnV2V1FWU2R4QUlHcmlwWVFiTFNQaTFvLWgwLUlJTWJ1U05oeTBUV1BsbjQ4X0RMVkFiX1BzMXNmUkVlSFdITWdZX1ZCOENJd0F6R0NvaVpwVEFQTVR3Y05rSFRyUTdqTWw4MzRRWktwV2FKMUtKeHpFTUQwZHktYzVRRF90ZjBrWU1JYnVfOTE0OHprNmFacmhNV0VpRnppeVFoZEZHTWM0cHY?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:59:47.000Z",
+      "whyItMattersKo": "또다른 심판 판정 논란이 발생하여 리그 흐름을 끊지 않도록 주의해야 합니다.",
+      "fanTakeKo": "심판 판정 때문에 또 스트레스받네...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzVmOWhHeGNMX0dnQldMSjNtQzl3MnRfMGpiZy1nTGYwVTNNbVFkbE9vUFR",
+      "title": "‘Você tem dúvidas?’: Abel Ferreira confronta repórter ao falar de arbitragem - Terra",
+      "summaryKo": "아벨 감독, 심판 판정 두고 기자와 언쟁",
+      "excerpt": "‘Você tem dúvidas?’: Abel Ferreira confronta repórter ao falar de arbitragem&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzVmOWhHeGNMX0dnQldMSjNtQzl3MnRfMGpiZy1nTGYwVTNNbVFkbE9vUFRHam5UQ2EwS1ZIUUdpSzlEOUJmQ1NLYVhReUJfUjM4alpoNlV5UHA3M3RiT0U4UE9MeUpoU3Z5S3hBaXFsU3EwUXlpTGxFZHRLeUtJV2pBb3V5cWN1b2R4anh4amxqenp4a3NsRnFKU3ViYnVVdHczRkxKRmhFQU85SUtYOFl6Nzd5MW03WDlUdkZsaHVCVlNMekhSUmxzOU4weXZhNGkzN25fV2RjU3VzSUhhYURFZU5OOTZVSnNOODQzX3JldTJ5UC1CSFJTZkNqQQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:58:00.000Z",
+      "whyItMattersKo": "감독의 강경한 대응은 팀을 보호하려는 의지이자 분위기 쇄신용일 수 있습니다.",
+      "fanTakeKo": "우리 감독 화나면 무섭네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXExWUVWMllOV1RFbnJNaDdLLVJBbG95bXVCUXN4RWRIRm1YZlhrNjBwc0t",
+      "title": "Súmula de Vitória x Palmeiras detalha gesto de Luan Cândido: 'Gesto insinuando roubo por parte da arbitragem' - ESPN Brasil",
+      "summaryKo": "파우메이라스 선수, 심판 비하 제스처 논란",
+      "excerpt": "Súmula de Vitória x Palmeiras detalha gesto de Luan Cândido: 'Gesto insinuando roubo por parte da arbitragem'&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXExWUVWMllOV1RFbnJNaDdLLVJBbG95bXVCUXN4RWRIRm1YZlhrNjBwc0tya2lob284aDFCTHppYkZoOXl6bG1GSFhQdzE5TmRfWXFTSVJXb3hTcGpSQ0QycTRQRC1xaWc2ZldwUmxIX0FaNjY2MHZwNmlVR3F5S3Y3T3JyUXpKajNfR3NJUDZiVHZ0YTQwWmRJSU12WS1XclhjeXNqRUNDS3ZIYmFSNi04ZV9kV2s?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:52:00.000Z",
+      "whyItMattersKo": "심판 비하 행위가 공식 기록에 남아 추가 징계 가능성이 있어 팀에 타격이 될 수 있습니다.",
+      "fanTakeKo": "이런 행동은 정말 아쉽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1Z",
+      "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras - UOL",
+      "summaryKo": "팔꿈치 및 분출: 전 심판이 Vitória x Palmeiras - UOL의 입찰가를 분석합니다.",
+      "excerpt": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1ZzNExxV3BxREhXUno3MUhEeERMNTNGUXFSTmJKNVFTV3BiQmFSR01Hcm5XcDZVMV81c0hScmgxeFZiLXhtdk5CQll2UnNwWl9LWFBaVng1LVIxNHlFdkJBcHVYZjFzUkF3X01lQms0Ynd2QnE3Ujlpa2ZEQjN5aERHeVliVHVEYXJBQQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:49:57.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMisgFBVV95cUxQT01iSzZZWXJYa1hEcGZ1YVl1S0hDSlEtZkZNQWhMYlFWRUF6S3Zlalc2UWt",
+      "title": "Palmeiras aproveita brecha do Fla para abrir gordura no Brasileirão - LANCE!",
+      "summaryKo": "파우메이라스, 플라멩구 틈타 브라질레이렁 선두 격차 벌려",
+      "excerpt": "Palmeiras aproveita brecha do Fla para abrir gordura no Brasileirão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT01iSzZZWXJYa1hEcGZ1YVl1S0hDSlEtZkZNQWhMYlFWRUF6S3Zlalc2UWtkdmNwd21oeDRMdW9IVG9WaWVLSjlkeGRnYm1TeEhES2lMNDIydVltNUZrOW5ScnV0STlta2ZWbWU0dmZoVGZHZTZHakFMMTlhclFCM05uU0tzT201WWxVOHQ4UmxaSGhMQnlYMUZHNkFSTkJIWk85QjdMdUFDZ1BKTm4xTXd3?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:30:00.000Z",
+      "whyItMattersKo": "경쟁자 플라멩구가 실수한 틈을 타 승점 차를 벌려 우승 경쟁에서 매우 유리해졌습니다.",
+      "fanTakeKo": "이 기세라면 우승 확정입니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVJjZ0RtTklxVmJEQjR0NXgyWnhQZndlOEhKaFBOdDdSdUlBVU5vYS1Qblh",
       "title": "Palmeiras atropela o Vitória, empilha recordes e dispara no Brasileirão - R7 Esportes",
@@ -25,7 +151,7 @@
       "summaryKo": "아벨 페헤이라, 기자와 언쟁 논란에 대해 입장 밝혀",
       "excerpt": "Abel tem climão com repórter e avalia polêmicas em Vitória x Palmeiras&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0hoREc2Q1lzSlMzeW5NbWcyNmVRUWl1NVYzU1I2WXppdlZNdWxtQVdBSjlweUhVZl82eXEtNlFrVFJyc19kY1BxZlR3MTY1V00zY09ZaFVqT0toYV9IWlVWQURXX0hsZ0N5WWptd2p3ajFBQ0FsbFRIbUY1dmtaQ1ZMSmNLNlRPN1oyank5ZFpTZHhHNHpzcUI3QnlIc3B0XzZ2N0psb1R4c0pjam5EcVRFaVhPYWFqSTd0S2FFWTBWdmFBUWc?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-07-30T11:07:31.000Z",
       "whyItMattersKo": "감독의 언론 행보는 팀 분위기와 외부의 이미지에 영향을 줄 수 있는 사안입니다.",
@@ -43,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZDZTVEhBa2poQ3VCdHZPZjBMTEY0cEdfQml5Y2pqT3JuSUk0ZVNxelJITGZlQV9fXzNwdHBSSXdYWWdheXdJOWprb2tZdmVUVGJBM1Y5cU1fX21hQ1pKUnU3c2piajZBcUdCbG9lNUZxSjlPTUFiYWN1U1B3U0JJemdXc01FNzBtZGFLWVJLbkJkTkN4cUNRVERROXYzT3oyZXA5amhuaDFlRVc2dVROaU82VmpBdi1CalNGTDJhT0VzUTdHSnRpbWU2T2lfRVlQWl94RE93NGxJYmhQWFMxRml6cW1lYzlwREhqUGJjcllOdTR4RXRoUmp5RkFOdzkzNzhaQUxjaw?oc=5",
       "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-30T11:04:00.000Z",
+      "publishedAt": "2026-07-30T11:04:31.000Z",
       "whyItMattersKo": "판정 논란은 경기 결과와 팀의 흐름에 큰 영향을 미칠 수 있는 부분이라 중요합니다.",
       "fanTakeKo": "판정 때문에 속상했지만, 우리가 이겼으니 넘어갑니다.",
       "tags": [
@@ -107,7 +233,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWVM0WlVzX1hPZ1pRU3ZjV1VaV2RJSVRfRHJCX2hTckd3MkN0clp0TFk3Zm0yWmFGUVgxSFVYcXF3YjJnbnk2YUlGeVppbE5hNTdQc0JfRUhfWHhtbmxRRDU5bXN0Tm14ZVR6MENmNW11TmlabzlnR1QwY2g0TWV6NHl2dU1RQU9OVEhQU1c4ZzVWN0VPQ0w3UktfTnNLS3dFQzV4Ukk3ZUhJN2xBUWVZcWhPUmZLanNhaU53MWctZmFPUmt2NWV0Vm9mWlAxdGt3WXEtTlUyQXpqNDRXZHFCd3JFUE9qUE1W?oc=5",
       "source": "Terra",
       "language": "pt",
-      "publishedAt": "2026-07-30T10:08:00.000Z",
+      "publishedAt": "2026-07-30T10:08:27.000Z",
       "whyItMattersKo": "대승을 거두며 비토리아를 상대로 한 압도적인 상대 전적을 이어갔습니다.",
       "fanTakeKo": "비토리아전은 역시 우리가 강자네요.",
       "tags": [
@@ -121,7 +247,7 @@
       "summaryKo": "비토리아 회장, 심판 판정에 강하게 불만",
       "excerpt": "Presidente do Vitória detona arbitragem e diz que Cacá levou cinco pontos&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWhxelVNN0xVUGNTRnFMUG1ORlpielZraGJJcEJsZy1oR2VSb0JOb21Tc0hvZGQ0M1JUZzdVZzJqYndXWmQzZllRZjdSVVBYQWZLOW92OVhaVGNBSTVHQ3lOZzZLbXdmS00xNzYzXzZ2UzVxSFFHSGpubENKeUhGeWMzYkcyVVFsdUpsakIwT2VvSXk3czlndHVPa1RFVi1razRZSnBUXy1uQjVwTlpmcFplZGNtd29zNHpkenRyMzJHcEdra2tN?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-07-30T09:56:41.000Z",
       "whyItMattersKo": "상대팀 회장이 심판 판정을 비판한 만큼 경기에 대한 논란이 일고 있습니다.",
@@ -185,7 +311,7 @@
       "summaryKo": "파우메이라스 대승, 플라멩구는 막혔다",
       "excerpt": "BRASILEIRÃO: Palmeiras goleia e Internacional freia o Flamengo&nbsp;&nbsp;alagoas24horas.com.br",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFU4TklHS1JSXzg0ZlY4NVpkS2RhaHlJSUFtUmcxMmM1ajMyeGxGYWVCS1FVdFVTMWNoWENHX1BPYmZkU1UxaG9FbXh4bVJkeUVzWENyWUY2XzRNUFpsNFRYUnd1UVRfdElmZlNFWGFhZUJvTG5RSHNVM012cThiWlFLS0xkQVJ0MUt1SFpoOTRsQVVGUzBRZGNiQjRRT0c2N0ZOWV9ad9IBrAFBVV95cUxPZGhWNkc2aDU0TE14Mm1XbzVRR2VwRGhYVjQ5R1NtMkx1X182U1FCQ09ja0ttXzZCRHdkRDNjaWZybExNU1FWUVBiUDFGM19mUzloMzVheTJaU3NPdzdNajVHbkUxZkJaVVNweHlTZm4zVURrQ3Z1LWIxVC1kQ1pHOVQ0S0VMMS1WYmdWRFZxYlN0dXBYSVBVVnR3NDJseEZhUmJBWEYyN0Q1cW56?oc=5",
-      "source": "alagoas24horas.com.br",
+      "source": "Alagoas 24 Horas",
       "language": "pt",
       "publishedAt": "2026-07-30T09:46:00.000Z",
       "whyItMattersKo": "파우메이라스는 승점을 쌓고 경쟁팀 플라멩구가 발을 묶이며 선두 경쟁에서 유리해졌습니다.",
@@ -209,36 +335,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1",
-      "title": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão - uol.com.br",
-      "summaryKo": "또 심판 논란? 파우메이라스, 브라질레이렁서 경계령",
-      "excerpt": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão&nbsp;&nbsp;uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1R4dnV2V1FWU2R4QUlHcmlwWVFiTFNQaTFvLWgwLUlJTWJ1U05oeTBUV1BsbjQ4X0RMVkFiX1BzMXNmUkVlSFdITWdZX1ZCOENJd0F6R0NvaVpwVEFQTVR3Y05rSFRyUTdqTWw4MzRRWktwV2FKMUtKeHpFTUQwZHktYzVRRF90ZjBrWU1JYnVfOTE0OHprNmFacmhNV0VpRnppeVFoZEZHTWM0cHY?oc=5",
-      "source": "uol.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-30T08:44:42.000Z",
-      "whyItMattersKo": "또다른 심판 판정 논란이 발생하여 리그 흐름을 끊지 않도록 주의해야 합니다.",
-      "fanTakeKo": "심판 판정 때문에 또 스트레스받네...",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1Z",
-      "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras - UOL",
-      "summaryKo": "팔꿈치 및 분출: 전 심판이 Vitória x Palmeiras - UOL의 입찰가를 분석합니다.",
-      "excerpt": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1ZzNExxV3BxREhXUno3MUhEeERMNTNGUXFSTmJKNVFTV3BiQmFSR01Hcm5XcDZVMV81c0hScmgxeFZiLXhtdk5CQll2UnNwWl9LWFBaVng1LVIxNHlFdkJBcHVYZjFzUkF3X01lQms0Ynd2QnE3Ujlpa2ZEQjN5aERHeVliVHVEYXJBQQ?oc=5",
-      "source": "uol.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-30T08:44:23.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     },
     {
@@ -417,7 +513,7 @@
       "summaryKo": "파우메이라스, 수적 우위로 8점 차 벌려",
       "excerpt": "Palmeiras aproveita dois expulsos, goleia Vitória e abre 8 pontos para Fla&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONVUzTXJ5RFVERVNzdkR4ZnY3WU13TkprQUVzeDVUbXczSHdiemtmVmFrTkl6SS1XRHFuVkhEdjBxNEYwNzFDQ2Zpb3IyVlROSVhxUzk3Tnc4XzJWdmdWdjBOcGpfajk0empoaWN0WnNtRVNaaEVEWlpOSXJkaTNmUmo3SDg2aEZNckU2cmpkYUdxWTVyajFvRW0tWTFJUkFud0tKU0ZjWTZzTE03Y044LTROaGxDSDd5X28w?oc=5",
-      "source": "uol.com.br",
+      "source": "UOL",
       "language": "pt",
       "publishedAt": "2026-07-30T06:29:22.000Z",
       "whyItMattersKo": "상대 퇴장을 유도해 대승을 거두며 플라멩구와 승점 격차를 8점으로 넓혔습니다.",
@@ -854,102 +950,6 @@
       "publishedAt": "2026-07-30T03:07:00.000Z",
       "whyItMattersKo": "경기 결과보다 판정 논란이 이슈라, 팀 분위기나 이후 순위 경쟁에 변수가 될 수 있습니다.",
       "fanTakeKo": "승리는 좋은데 판정은 좀 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlFHWlVLQVdPWUZoaVczSTJvaFFlZzFranlhQmRMOVIzd00wNVVsWGtHLUp",
-      "title": "Arias enaltece goleada do Palmeiras fora de casa: \"Estamos satisfeitos\" - Terra",
-      "summaryKo": "아리아스, 원정 대승에 \"만족한다\" 밝혀",
-      "excerpt": "Arias enaltece goleada do Palmeiras fora de casa: \"Estamos satisfeitos\"&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlFHWlVLQVdPWUZoaVczSTJvaFFlZzFranlhQmRMOVIzd00wNVVsWGtHLUppQ2oyYTV5ekY4aG13MlJqcjVIdEdQTllSRm1MN0lPV3RCUWd2bFNfNV9XaVRfSXRyQ3RDRDU4Z01HTk8xMHlzcmRfT3hiLW9wSHcyTlFXRHI3dUVveDVtNmlmZm53aHdKLWRfSVA4QVR2dWFpaDZCZWRsTVZWdHMyeTV0VEV6MnR2UkxGM0wxS0hXdy11OUhGbjVGeUdXOVNkT3pBc2IxSUFyRkNKbHZwMHRwcjhoVjhQWlNqMlUyWldDOA?oc=5",
-      "source": "terra.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-30T03:07:00.000Z",
-      "whyItMattersKo": "원정에서의 대승은 선수들의 자신감을 높이고 리그 순위를 올리는 데 큰 도움이 됩니다.",
-      "fanTakeKo": "원정 대승이라 너무 뿌듯해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMikwJBVV95cUxQNktaRlp1ZXVDRkx1NVM4ZnhhbzNtVFlmZTZGWnZ3NWJMY3Y1Uklrb3BzX3",
-      "title": "Presidente do Vitória diz que 'Brasil viu' arbitragem desequilibrar partida para o Palmeiras e dispara: 'Cacá levou cinco pontos no queixo' - espn.com.br",
-      "summaryKo": "비토리아 회장, 심판이 파우메이라스 도왔다 주장",
-      "excerpt": "Presidente do Vitória diz que 'Brasil viu' arbitragem desequilibrar partida para o Palmeiras e dispara: 'Cacá levou cinco pontos no queixo'&nbsp;&nbsp;espn.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNktaRlp1ZXVDRkx1NVM4ZnhhbzNtVFlmZTZGWnZ3NWJMY3Y1Uklrb3BzX3pUT0VCbUwwVFFHeFJfN0pfOGdRV2tzM1RGbUFFZVdNRlJ1R2I4NUhDemc5NjRCcVI5OGNhTG5ibDAwY3NKUmszRk1NSDhWaVYtZkM4V3ZoUWlyQjE3SUVqUG43UW93SUZSa0w1TlFCdXBoRVFYQUFrUTVPLWdHU05VY3AzcGFJNzFKSDd1ejd3STVzdlhVdVFrbFpxOGYxUnRBSXYydVM1aFIzd3A5T1FQcGl2b3RUQXpheGdnbi0wdlVWZEN1cUxQQVM1X0VteG9FUlpVTEQ3bkM5dEVKZVc5S1VGVDEzZw?oc=5",
-      "source": "espn.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-30T03:05:00.000Z",
-      "whyItMattersKo": "심판 판정 논란은 경기 후 분위기를 흐리고, 팀의 이미지에도 영향을 줄 수 있습니다.",
-      "fanTakeKo": "승리는 좋지만 판정 논란은 찔리네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEJLNTN3M2NaVlo0ajRqajRiZzM1eXdIY1dmeEVOUDR1U1BGOThRby0wdm",
-      "title": "Presidente do Vitória diz que Cacá levou 5 pontos e detalha fala de árbitro - UOL",
-      "summaryKo": "비토리아 회장, 심판 판정에 강하게 불만",
-      "excerpt": "Presidente do Vitória diz que Cacá levou 5 pontos e detalha fala de árbitro&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEJLNTN3M2NaVlo0ajRqajRiZzM1eXdIY1dmeEVOUDR1U1BGOThRby0wdm5hejFlVll0dXZfNmdaWC13cHoyalhXR004NXdTeUxUMXdYM2FTOUp2MXJhM1B4MEZHSE5FSi00N01FVjVrMkliZXdxbWtCTEFKc1lEaVU4OGt0NEI2eWdKQ0FGTVBLalBSYVM5bFgwNUY4VE5RX0VtcDB0TFp0Q19MRG5Jb3BLdTBsN3hmbXNYY2hjREJDUktXQnZJOHZFSWNOYklDWXlRRXBreVRqTDRpQnJjeTFDbUxmZHIyN0RGMVN1cXMtemxJRTlOa1VZcXdwUzVOYW9OWHF3d1VuSWtv?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-30T03:01:58.000Z",
-      "whyItMattersKo": "상대팀의 심판 비판은 경기 분위기를 뜨겁게 만들어, 파우메이라스의 승리 의미를 강조합니다.",
-      "fanTakeKo": "심판 얘기는 그만하고 우리 승리만!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-29-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaEY5ZG0wbWdieWJfQlFCUDFhc1hFRVdsTXBIS3hpV2x3U3ROUk9iLWVOTT",
-      "title": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem no topo do Brasileirão - UOL",
-      "summaryKo": "파우메이라스, 대승 거두며 브라질레이렁 선두 도약",
-      "excerpt": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem no topo do Brasileirão&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaEY5ZG0wbWdieWJfQlFCUDFhc1hFRVdsTXBIS3hpV2x3U3ROUk9iLWVOTTl5b0Y1SEpRa2FmZGxxZG5wNmJsRHR2NEtNQlhGRDVJbGlzaWhBcDFkNi11cjZiSlBQdm5OeXpCOURjcVdMeE82MS1ISHhsX0ZxZkdvZUU1ME5wUjVja0h1TE0weV8ta2NqRk1oa2ItVWdGa2F5THo3WUZGal9BXzlBVkw1cmo4WjVMa0dUd0w1TG9vVElQSTh6UXFGNXZrYU96MEpmX1FOMFJQMFFZVnJBU2ltSWpxX2NCeFlPbUZUczhQOHd1dkNlT1hzSg?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-30T03:01:00.000Z",
-      "whyItMattersKo": "대승으로 승점을 쌓아 추격 팀과의 격차를 벌리며 우승 경쟁에서 유리한 고지를 점했습니다.",
-      "fanTakeKo": "대승이라니 기분이 정말 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUFyTXBxX1RvejRqVVJWelFaeWdtMnFPcEp1R24wR0lSeDB2SmNPNm55NV",
-      "title": "Palmeiras faz valer expulsão dupla do Vitória e goleia no Brasileirão - Tribuna do Sertão",
-      "summaryKo": "파우메이라스, 상대 퇴장에 힘입어 대승",
-      "excerpt": "Palmeiras faz valer expulsão dupla do Vitória e goleia no Brasileirão&nbsp;&nbsp;Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUFyTXBxX1RvejRqVVJWelFaeWdtMnFPcEp1R24wR0lSeDB2SmNPNm55NVZvWnhTOVpQWklKQWdmcFJ3Vk9QSmhrMWw5ZVI3SHZiMzZYemV1VE9PNE5rNGF3U25PcUtYUkpYa2JoUGFIeFZCZWs1ejFYcWFFLU5aN0dZVXdRRm11a01CS3g2WjZDSTVRRDVaVXk3ZzE4YUpvUHdoWEFfZkE0dzl2eEtzMzAzb1VGV25IYzZlY1RTYU8yak5UdEpmV1ZtZ1h5VW4zeXllQlhseVhwOXRwLTVZb2RkUkhPUko2b0VRUA?oc=5",
-      "source": "Tribuna do Sertão",
-      "language": "pt",
-      "publishedAt": "2026-07-30T03:01:00.000Z",
-      "whyItMattersKo": "수적 우위를 점수로 연결한 것은 아벨 감독의 전술과 선수들의 집중력이 잘 작동했음을 보여줍니다.",
-      "fanTakeKo": "수적 우위는 놓치지 않았네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMifkFVX3lxTFBXc210WWdoRVJKc3RSalVBUi11SGgtNHpDUzFLUnZGZy1OZEV4UWg2akVwVF",
-      "title": "Goleada alviverde e igualdade no Maracanã: Brasileirão hoje - GPS Brasília",
-      "summaryKo": "파우메이라스 대승, 마라카낭은 무승부",
-      "excerpt": "Goleada alviverde e igualdade no Maracanã: Brasileirão hoje&nbsp;&nbsp;GPS Brasília",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXc210WWdoRVJKc3RSalVBUi11SGgtNHpDUzFLUnZGZy1OZEV4UWg2akVwVFRlRGhZZG1qTktwemdpaVdrTnhKb0dzX0VlUC1JZnpyQ2h2NEI2ek91WG9nTXJ5SHljTS1VNTNUaFhFZ2dXQUd4aHc5NDdZZ0pUZw?oc=5",
-      "source": "GPS Brasília",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:59:57.000Z",
-      "whyItMattersKo": "파우메이라스의 대승과 마라카낭 경기 결과가 리그 선두 경쟁 흐름을 바꿉니다.",
-      "fanTakeKo": "파우메이라스 대승에 난리 났네요!",
       "tags": [
         "뉴스",
         "AI요약"
