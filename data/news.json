@@ -1,15 +1,239 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-07-30T09:15:41.514Z",
+  "fetchedAt": "2026-07-30T11:29:29.156Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVJjZ0RtTklxVmJEQjR0NXgyWnhQZndlOEhKaFBOdDdSdUlBVU5vYS1Qblh",
+      "title": "Palmeiras atropela o Vitória, empilha recordes e dispara no Brasileirão - R7 Esportes",
+      "summaryKo": "파우메이라스, 비토리아 대파하고 기록 쓸어 담으며 선두",
+      "excerpt": "Palmeiras atropela o Vitória, empilha recordes e dispara no Brasileirão&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVJjZ0RtTklxVmJEQjR0NXgyWnhQZndlOEhKaFBOdDdSdUlBVU5vYS1QblhCYWd0YmNITnUxVXhnN0liLTM3MUtaQnpWLWR2dHU0R2JKNGs3c3VySWJXbmlpWGVnMWpGT3dVU1NtNHB3SnZiUVhremJROUZqZDUzYjZjd05JejFPN3ZLVW8zbVZRcnp3M3NBV2d2MmVnbW8ybmg3cDlyb3ZPdzF4WlZucm15VlFqeExNZ2pyU3o0ODA?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:25:12.000Z",
+      "whyItMattersKo": "대승으로 기록을 세우며 브라질레이렁 선두로 나서면서 우승 경쟁에서 우위를 점했습니다.",
+      "fanTakeKo": "대승과 기록이라니, 오늘은 완벽한 날이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0hoREc2Q1lzSlMzeW5NbWcyNmVRUWl1NVYzU1I2WXppdlZNdWxtQVdBSjl",
+      "title": "Abel tem climão com repórter e avalia polêmicas em Vitória x Palmeiras - CNN Brasil",
+      "summaryKo": "아벨 페헤이라, 기자와 언쟁 논란에 대해 입장 밝혀",
+      "excerpt": "Abel tem climão com repórter e avalia polêmicas em Vitória x Palmeiras&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0hoREc2Q1lzSlMzeW5NbWcyNmVRUWl1NVYzU1I2WXppdlZNdWxtQVdBSjlweUhVZl82eXEtNlFrVFJyc19kY1BxZlR3MTY1V00zY09ZaFVqT0toYV9IWlVWQURXX0hsZ0N5WWptd2p3ajFBQ0FsbFRIbUY1dmtaQ1ZMSmNLNlRPN1oyank5ZFpTZHhHNHpzcUI3QnlIc3B0XzZ2N0psb1R4c0pjam5EcVRFaVhPYWFqSTd0S2FFWTBWdmFBUWc?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:07:31.000Z",
+      "whyItMattersKo": "감독의 언론 행보는 팀 분위기와 외부의 이미지에 영향을 줄 수 있는 사안입니다.",
+      "fanTakeKo": "감독님, 화내지 마시고 경기에만 집중해주세요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMihwJBVV95cUxPZDZTVEhBa2poQ3VCdHZPZjBMTEY0cEdfQml5Y2pqT3JuSUk0ZVNxelJITGZ",
+      "title": "Fábio Mota critica arbitragem após Vitória x Palmeiras: \"Ainda bem que o Brasil viu o jogo\" - Terra",
+      "summaryKo": "파비오 모타, 비토리아전 판정에 대해 강하게 비판",
+      "excerpt": "Fábio Mota critica arbitragem após Vitória x Palmeiras: \"Ainda bem que o Brasil viu o jogo\"&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZDZTVEhBa2poQ3VCdHZPZjBMTEY0cEdfQml5Y2pqT3JuSUk0ZVNxelJITGZlQV9fXzNwdHBSSXdYWWdheXdJOWprb2tZdmVUVGJBM1Y5cU1fX21hQ1pKUnU3c2piajZBcUdCbG9lNUZxSjlPTUFiYWN1U1B3U0JJemdXc01FNzBtZGFLWVJLbkJkTkN4cUNRVERROXYzT3oyZXA5amhuaDFlRVc2dVROaU82VmpBdi1CalNGTDJhT0VzUTdHSnRpbWU2T2lfRVlQWl94RE93NGxJYmhQWFMxRml6cW1lYzlwREhqUGJjcllOdTR4RXRoUmp5RkFOdzkzNzhaQUxjaw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-30T11:04:00.000Z",
+      "whyItMattersKo": "판정 논란은 경기 결과와 팀의 흐름에 큰 영향을 미칠 수 있는 부분이라 중요합니다.",
+      "fanTakeKo": "판정 때문에 속상했지만, 우리가 이겼으니 넘어갑니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlFicjB2T3pzQ2NrRkdfN3loSzJNQ0N3eFUzU2d1czFRMndyWFdvUmdrU19",
+      "title": "Vitória x Palmeiras: ex-árbitro analisa polêmicas e aponta erro capital - LANCE!",
+      "summaryKo": "전 심판, 비토리아전 논란 속 결정적 오류 지적",
+      "excerpt": "Vitória x Palmeiras: ex-árbitro analisa polêmicas e aponta erro capital&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlFicjB2T3pzQ2NrRkdfN3loSzJNQ0N3eFUzU2d1czFRMndyWFdvUmdrU19TS2lEY2N0VUVIMTRmaHRsbkF0TERyQ2VxQmRDVEs0MVc3M2xTaDVVejdLXzIyT2Jfd29hc2kybEhSUVc1QUhFMlk5MllmNGhMZlN0SjlsVzNfdXJmSFZXR3RTUy1NcHVUVExFbzdnVzlLM0JJWEtBa3hBcmlYMVk4LTJZbzNFek8?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-07-30T10:50:00.000Z",
+      "whyItMattersKo": "전문가가 지적한 심판 오류는 공정성 논란을 일으켜 리그에 파장을 일으킵니다.",
+      "fanTakeKo": "심판 오류는 정말 피곤한 일이죠, 다음에 공정하게.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMzFQaW13SllENjNIZEJHN01FaE8wOTBXRy0tV1pLbnFCLWcteVVORXNvVTh",
+      "title": "Palmeiras alcança maior pontuação no começo do returno do Brasileirão - Terra",
+      "summaryKo": "파우메이라스, 브라질레이렁 후반기 최고 스타트",
+      "excerpt": "Palmeiras alcança maior pontuação no começo do returno do Brasileirão&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMzFQaW13SllENjNIZEJHN01FaE8wOTBXRy0tV1pLbnFCLWcteVVORXNvVThTSXZjcEx6ZV9JV3pXWHBXMmE5ZndOMXEyaE9PTGtsRzlPek1iR3FNYjJNZHdreEZzQmw5VC1WRTFoZ3RFd3FQak5ZaVNBa09SeU9YQ0M0R0RDdHd3SFlfcHpjeWVoWWJrZXJKT3lDWUF5UWdrdzNQcFBSRmhVMXNYTFI5T1NVZzBUeGR0cXRKTHp3a1VVY1J2YUJkN0dOY2IyQmZ5cVhJeGtESmpqSktXS2NhdE92ak8wYi1rQTdjTl9fWkM?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-30T10:31:00.000Z",
+      "whyItMattersKo": "시즌 후반기 시작 후 최다 승점을 기록하며 우승 경쟁에서 강력한 기세를 보였습니다.",
+      "fanTakeKo": "후반기 폼이 정말 좋아서 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURPNGJuZlJpSHBFUlhvOTlpejkxalFaZDlER0JUSzNmYnc0Y0hhWkRlNE5",
+      "title": "Abel Ferreira analisa Vitória 0 x 4 Palmeiras - radiomaringa.com.br",
+      "summaryKo": "아벨 감독, 비토리아전 대승 분석",
+      "excerpt": "Abel Ferreira analisa Vitória 0 x 4 Palmeiras&nbsp;&nbsp;radiomaringa.com.br",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURPNGJuZlJpSHBFUlhvOTlpejkxalFaZDlER0JUSzNmYnc0Y0hhWkRlNE5Jb1o5VjZ2RVJoVU50Vk1DVzdUaldWamp1N1M0RHBOOE5kMXU5QW5lUG5MRWIzcV9XNG14a3liUkRra0NMVVlOdnBfU2JHNHNTNFl4LVZiVExFNFdfT2dBVGNjNjZmQQ?oc=5",
+      "source": "radiomaringa.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-30T10:19:50.000Z",
+      "whyItMattersKo": "최근 대승에 대한 감독의 분석은 팀 전술 점검과 선수들의 자신감 회복에 중요합니다.",
+      "fanTakeKo": "감독님 분석도 듣고 싶고, 승리 기분 좋다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWVM0WlVzX1hPZ1pRU3ZjV1VaV2RJSVRfRHJCX2hTckd3MkN0clp0TFk3Zm0",
+      "title": "Com goleada, Palmeiras amplia retrospecto positivo sobre o Vitória - Terra",
+      "summaryKo": "파우메이라스, 비토리아전 대승으로 상대전적 우위",
+      "excerpt": "Com goleada, Palmeiras amplia retrospecto positivo sobre o Vitória&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWVM0WlVzX1hPZ1pRU3ZjV1VaV2RJSVRfRHJCX2hTckd3MkN0clp0TFk3Zm0yWmFGUVgxSFVYcXF3YjJnbnk2YUlGeVppbE5hNTdQc0JfRUhfWHhtbmxRRDU5bXN0Tm14ZVR6MENmNW11TmlabzlnR1QwY2g0TWV6NHl2dU1RQU9OVEhQU1c4ZzVWN0VPQ0w3UktfTnNLS3dFQzV4Ukk3ZUhJN2xBUWVZcWhPUmZLanNhaU53MWctZmFPUmt2NWV0Vm9mWlAxdGt3WXEtTlUyQXpqNDRXZHFCd3JFUE9qUE1W?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-07-30T10:08:00.000Z",
+      "whyItMattersKo": "대승을 거두며 비토리아를 상대로 한 압도적인 상대 전적을 이어갔습니다.",
+      "fanTakeKo": "비토리아전은 역시 우리가 강자네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWhxelVNN0xVUGNTRnFMUG1ORlpielZraGJJcEJsZy1oR2VSb0JOb21Tc0h",
+      "title": "Presidente do Vitória detona arbitragem e diz que Cacá levou cinco pontos - CNN Brasil",
+      "summaryKo": "비토리아 회장, 심판 판정에 강하게 불만",
+      "excerpt": "Presidente do Vitória detona arbitragem e diz que Cacá levou cinco pontos&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWhxelVNN0xVUGNTRnFMUG1ORlpielZraGJJcEJsZy1oR2VSb0JOb21Tc0hvZGQ0M1JUZzdVZzJqYndXWmQzZllRZjdSVVBYQWZLOW92OVhaVGNBSTVHQ3lOZzZLbXdmS00xNzYzXzZ2UzVxSFFHSGpubENKeUhGeWMzYkcyVVFsdUpsakIwT2VvSXk3czlndHVPa1RFVi1razRZSnBUXy1uQjVwTlpmcFplZGNtd29zNHpkenRyMzJHcEdra2tN?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:56:41.000Z",
+      "whyItMattersKo": "상대팀 회장이 심판 판정을 비판한 만큼 경기에 대한 논란이 일고 있습니다.",
+      "fanTakeKo": "심판 논란은 싫지만, 우리 승리는 완벽했죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZVampkd09ZbGxCWVdRQUdjUTE1dEZJV3pVQlpLYk1UeGtMZ2hOV0lnUTZ",
+      "title": "Palmeiras goleia o Vitória e dispara na liderança - portalr3.com.br",
+      "summaryKo": "파우메이라스, 비토리아 대승으로 선두 도약",
+      "excerpt": "Palmeiras goleia o Vitória e dispara na liderança&nbsp;&nbsp;portalr3.com.br",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZVampkd09ZbGxCWVdRQUdjUTE1dEZJV3pVQlpLYk1UeGtMZ2hOV0lnUTZpM2ZrbS14LTQxUTRGMzNkaVVMZlVvZzdnY0NERjJmc3NrejB4Q2d1OFcwZklYeFhTMGxzZkFleWhfWWZxUTI4YzlZWTc3cVRSazdoZUFiUGI?oc=5",
+      "source": "portalr3.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:55:33.000Z",
+      "whyItMattersKo": "대승을 거두며 선두와의 격차를 벌려 리그 우승 경쟁에서 유리한 고지를 점했습니다.",
+      "fanTakeKo": "대승이라니 정말 기분 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0JxdGE5X2pKTTZGUEw4MURXODlNVUR6RGp6blFxZGxTc3NCVTg0cncyby0",
+      "title": "Palmeiras goleia o Vitória no Barradão e amplia vantagem na liderança do Brasileirão - Alagoas Alerta",
+      "summaryKo": "파우메이라스, 원정 대승으로 선두 격차 확대",
+      "excerpt": "Palmeiras goleia o Vitória no Barradão e amplia vantagem na liderança do Brasileirão&nbsp;&nbsp;Alagoas Alerta",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0JxdGE5X2pKTTZGUEw4MURXODlNVUR6RGp6blFxZGxTc3NCVTg0cncyby03QW1mV0tGZUNQWHM2YWxkNjNIYzRnNzBNcm96RWxSZnJtX3N2Y1UxaVd3US1RWE9Ob0E1V2I3T2V2R05wMWxTUV9aaGNfbjM0aXQyUGJTUlBlbFB1b1VuaUFwV2dBN19UMmI0SmtNNnBpVXdGSzZFc3ZSd2NYMDJEWVlPODNON2pJVTBGTE1HUU9B?oc=5",
+      "source": "Alagoas Alerta",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:48:55.000Z",
+      "whyItMattersKo": "원정에서의 대승으로 브라질레이렁 선두 자리를 더욱 공고히 만들었습니다.",
+      "fanTakeKo": "원정 승점이 소중하네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLVZLako1Zks3YjBLcDF5TXQ0VDBZa3pxTTB6SEpUc0ZMZDB6WU9oN21pc0",
+      "title": "Danilo projeta Flamengo x Cruzeiro pela Libertadores e caça ao líder Palmeiras na Série A - Rádio Itatiaia",
+      "summaryKo": "다닐로, 파우메이라스 추격에 자신감",
+      "excerpt": "Danilo projeta Flamengo x Cruzeiro pela Libertadores e caça ao líder Palmeiras na Série A&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLVZLako1Zks3YjBLcDF5TXQ0VDBZa3pxTTB6SEpUc0ZMZDB6WU9oN21pc0F5cDVXbUpTOWNadnRDTVNENE5nUG40TXNib1R1TWkwWnZqMjZSTXp6Y3RBT0JSWFlVb1k4anZKVm4tVzVOYXBIS19mS01pM0piVWR5bnVNUFRpVWg0VEVCN2JoNXhETGEzeXdOUlNfRFY5cHUwWUhVdlNEblE1NEl6VWwzdlZjYzNzN3VpZFJXbXFqalZEVkM5Zk9tWUtUTmN0YlpMZ0ZmQVFxMVZMU0xCSTRfcGdHbF9xLVNZREdkRHVKZk1CR3VjaVRVXzlpMWVpQ3g4T25BVDVxcGU?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:47:24.000Z",
+      "whyItMattersKo": "리버타도레스와 브라질레이렁 일정을 언급하며 선두 파우메이라스를 따라잡겠다는 의지를 보였습니다.",
+      "fanTakeKo": "추격전이 더 뜨거워지겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFU4TklHS1JSXzg0ZlY4NVpkS2RhaHlJSUFtUmcxMmM1ajMyeGxGYWVCS1",
+      "title": "BRASILEIRÃO: Palmeiras goleia e Internacional freia o Flamengo - alagoas24horas.com.br",
+      "summaryKo": "파우메이라스 대승, 플라멩구는 막혔다",
+      "excerpt": "BRASILEIRÃO: Palmeiras goleia e Internacional freia o Flamengo&nbsp;&nbsp;alagoas24horas.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFU4TklHS1JSXzg0ZlY4NVpkS2RhaHlJSUFtUmcxMmM1ajMyeGxGYWVCS1FVdFVTMWNoWENHX1BPYmZkU1UxaG9FbXh4bVJkeUVzWENyWUY2XzRNUFpsNFRYUnd1UVRfdElmZlNFWGFhZUJvTG5RSHNVM012cThiWlFLS0xkQVJ0MUt1SFpoOTRsQVVGUzBRZGNiQjRRT0c2N0ZOWV9ad9IBrAFBVV95cUxPZGhWNkc2aDU0TE14Mm1XbzVRR2VwRGhYVjQ5R1NtMkx1X182U1FCQ09ja0ttXzZCRHdkRDNjaWZybExNU1FWUVBiUDFGM19mUzloMzVheTJaU3NPdzdNajVHbkUxZkJaVVNweHlTZm4zVURrQ3Z1LWIxVC1kQ1pHOVQ0S0VMMS1WYmdWRFZxYlN0dXBYSVBVVnR3NDJseEZhUmJBWEYyN0Q1cW56?oc=5",
+      "source": "alagoas24horas.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:46:00.000Z",
+      "whyItMattersKo": "파우메이라스는 승점을 쌓고 경쟁팀 플라멩구가 발을 묶이며 선두 경쟁에서 유리해졌습니다.",
+      "fanTakeKo": "경쟁팀이 지니까 더 좋네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLS1BMVRsZXQ2X1BpZ2ZndVZTdWpLZGsza0c4bW1jN3NndjFFcV9WN3hiam",
+      "title": "Análise: expulsões abrem espaço para Palmeiras golear e ampliar vantagem na ponta - Gazeta Esportiva",
+      "summaryKo": "상대 퇴장에 파우메이라스 대승, 선두 확고히",
+      "excerpt": "Análise: expulsões abrem espaço para Palmeiras golear e ampliar vantagem na ponta&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLS1BMVRsZXQ2X1BpZ2ZndVZTdWpLZGsza0c4bW1jN3NndjFFcV9WN3hiamdDNzlMd2tjT3FLSUN1U1lKTk1RX3I2WmNEMFBPRjM3R0dxdGFoSFFEYnFHbmRPQm5ZWEhNVjdwWms0YTZhT1FzcHRUY2QzdG12WjdrV3RuSWdZcGpVRWltaHZZREc3NEhwR0cweExIMV9nY1QxbXR6OXhtY1M4REkwZjJhQnR0bHVVMkItaENhcEVSV1RjS2o2ZjlhbtIBzgFBVV95cUxPUkZreUJjbE1tdm5HdDdkUnJJZUIxMnRfdVVfVU5fWUExb2FPdjZEZXk4dXZfd0FaSlAyMTBCMjdZUnJrVm95ajdxa0JTNEpzQkx1R1lYc3pjaG9fckE5RUNxb2dYNVdJN0ZhbmRCaFVXX0lLdmRJWmFkRXRLbG05SEpYWjg5Ym5IbkZtMkRWQ3NNRGZVZkZsdW5YX183eERRamFpZEhhSUxCZTRqWkVmWUJBOTFVSFBNODloVDFBN2dnQlJaZ19uZnR0dERXUQ?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "whyItMattersKo": "수적 우위를 점수로 연결하며 대승을 거두고 브라질레이렁 선두 자리를 굳혔습니다.",
+      "fanTakeKo": "대승이라니 기분 최고다, 선두 유지 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1",
+      "title": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão - uol.com.br",
+      "summaryKo": "또 심판 논란? 파우메이라스, 브라질레이렁서 경계령",
+      "excerpt": "Nova polêmica de arbitragem acende alerta no Palmeiras no Brasileirão&nbsp;&nbsp;uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNuZ1F6N2UtamhCNHNEZ1JPTTBONVhqTHJyM283ZWxhMkNsR05LY1NmS1R4dnV2V1FWU2R4QUlHcmlwWVFiTFNQaTFvLWgwLUlJTWJ1U05oeTBUV1BsbjQ4X0RMVkFiX1BzMXNmUkVlSFdITWdZX1ZCOENJd0F6R0NvaVpwVEFQTVR3Y05rSFRyUTdqTWw4MzRRWktwV2FKMUtKeHpFTUQwZHktYzVRRF90ZjBrWU1JYnVfOTE0OHprNmFacmhNV0VpRnppeVFoZEZHTWM0cHY?oc=5",
+      "source": "uol.com.br",
+      "language": "pt",
+      "publishedAt": "2026-07-30T08:44:42.000Z",
+      "whyItMattersKo": "또다른 심판 판정 논란이 발생하여 리그 흐름을 끊지 않도록 주의해야 합니다.",
+      "fanTakeKo": "심판 판정 때문에 또 스트레스받네...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1Z",
       "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras - UOL",
       "summaryKo": "팔꿈치 및 분출: 전 심판이 Vitória x Palmeiras - UOL의 입찰가를 분석합니다.",
       "excerpt": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hteEx5N2ZlRjVKQXczZk9aWnFEdkdDNGJ6N0tLMVVoZlpKYUJESDZ6d1ZzNExxV3BxREhXUno3MUhEeERMNTNGUXFSTmJKNVFTV3BiQmFSR01Hcm5XcDZVMV81c0hScmgxeFZiLXhtdk5CQll2UnNwWl9LWFBaVng1LVIxNHlFdkJBcHVYZjFzUkF3X01lQms0Ynd2QnE3Ujlpa2ZEQjN5aERHeVliVHVEYXJBQQ?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-30T08:44:23.000Z",
       "tags": [
@@ -193,7 +417,7 @@
       "summaryKo": "파우메이라스, 수적 우위로 8점 차 벌려",
       "excerpt": "Palmeiras aproveita dois expulsos, goleia Vitória e abre 8 pontos para Fla&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONVUzTXJ5RFVERVNzdkR4ZnY3WU13TkprQUVzeDVUbXczSHdiemtmVmFrTkl6SS1XRHFuVkhEdjBxNEYwNzFDQ2Zpb3IyVlROSVhxUzk3Tnc4XzJWdmdWdjBOcGpfajk0empoaWN0WnNtRVNaaEVEWlpOSXJkaTNmUmo3SDg2aEZNckU2cmpkYUdxWTVyajFvRW0tWTFJUkFud0tKU0ZjWTZzTE03Y044LTROaGxDSDd5X28w?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-30T06:29:22.000Z",
       "whyItMattersKo": "상대 퇴장을 유도해 대승을 거두며 플라멩구와 승점 격차를 8점으로 넓혔습니다.",
@@ -305,7 +529,7 @@
       "summaryKo": "마우리시오 팔꿈치, 왜 경고만 나왔나?",
       "excerpt": "Árbitro explica amarelo a Maurício após cotovelada; veja detalhes da súmula&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3BKWFBnbFl4QUUzS1NPaWZ0WnFDMHFram1aSFRtZGpYUjdDQ2RFS2x2VjhOT0FUZ1JRTjliUnc3NkVOQUpxWG53a01pbDlXNktZMjRZTHI1VnlHVXVfdmp3cXNjLTBXRXBGX3hYZHFDaFBhNTY4LW9mc1BROWFwdEgyQndqRnFKZ0RWVmRvM20tUWpvUHdwRlRRNU9lUmFTVGNiblUtSQ?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-07-30T04:13:05.000Z",
       "whyItMattersKo": "팔꿈치 차기와 같은 위반 행위에 대한 판정 기준을 이해하는 데 도움이 됩니다.",
@@ -729,228 +953,6 @@
       "tags": [
         "뉴스",
         "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajJjYk94TnpESGROSXNpRHJ3akpaeHZpQThUXzN1Qk1YaWdCWXdhNHdPQm",
-      "title": "Palmeiras goleia o Vitória por 4 a 0 e segue isolado na liderança do Brasileirão - vtvnews.com.br",
-      "summaryKo": "파우메이라스 4-0 대승, 선두 단독 질주",
-      "excerpt": "Palmeiras goleia o Vitória por 4 a 0 e segue isolado na liderança do Brasileirão&nbsp;&nbsp;vtvnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajJjYk94TnpESGROSXNpRHJ3akpaeHZpQThUXzN1Qk1YaWdCWXdhNHdPQmJ2R1ZPb1BIUmRBNUI4T1BZc00wRE5faHN6UkpwVzBhRTZGSVdGN2I5TDVIQVV1WW4xd042aFdFbTVHTFJMSER6Mmd3Q0YxeEhRaVZIQmtnRVBVbnFRdFhCeEVRcF9UbUV1V3NVVnF2RWlBSlRrNjJFSHBBUjNKWWhlVTR5Zk5GR0lscFVOSG9QWGxaRWtnWUU?oc=5",
-      "source": "vtvnews.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:59:00.000Z",
-      "whyItMattersKo": "4-0 대승으로 추격을 따돌리고 브라질레이렁 선두 자리를 단독 확보했습니다.",
-      "fanTakeKo": "4-0이라니 공격력이 대박이네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRPdmwzVG1FT1BoVEhYNlFjZ2pWbHhoNWY2QjI1TkR4NlZwd05TWFRNWH",
-      "title": "Palmeiras goleia o Vitória no Barradão e amplia vantagem na liderança do Brasileirão - agência esporte",
-      "summaryKo": "원정 4-0 대승, 선두 격차 더 벌려",
-      "excerpt": "Palmeiras goleia o Vitória no Barradão e amplia vantagem na liderança do Brasileirão&nbsp;&nbsp;agência esporte",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRPdmwzVG1FT1BoVEhYNlFjZ2pWbHhoNWY2QjI1TkR4NlZwd05TWFRNWHVWM3BScXB4eU91Vk8yM0xYNjRFRGx3SENtOXBpMVhGVGt0eGh1NFh2Ymh5MDR1NkkxcHBySHR5TnVCeXUxaDdVb0dVaHZyOHZqcXo0WXVZSFhSNEFnbUZudHY5QWtiVUw2WE1lRHVTdkIwdmNGdWtrWGlHSU5yUVM3Rlc2cW1PNmhWcTRHLWJLNlRVYjNLLW8?oc=5",
-      "source": "agência esporte",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:52:18.000Z",
-      "whyItMattersKo": "원정에서의 대승으로 브라질레이렁 선두와의 승점 격차를 더욱 넓혔습니다.",
-      "fanTakeKo": "원정에서도 이기니 최고입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUVaYUVvVlpZUHgtTURqWG5jU2FaYjFib3BFLThCMjZpUndlN3Rqc0g1Y0",
-      "title": "Palmeiras goleia e amplia vantagem para o Fla no Brasileirão - LANCE!",
-      "summaryKo": "파우메이라스 대승, 플라멩구 격차 벌려",
-      "excerpt": "Palmeiras goleia e amplia vantagem para o Fla no Brasileirão&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUVaYUVvVlpZUHgtTURqWG5jU2FaYjFib3BFLThCMjZpUndlN3Rqc0g1Y0pQMGNONGQxd0RnM3RveXdKVzYxWEY1a2w1YVNXTWxBMjNJMHpLRmcxdzhVVGJuN0JVT2JtWGxoU3pXdXVyY1p1a0JhMHpFdV9tU2ZQbXd4b3RKQVM2aXFfc3VTRlU0QmI3VFdrRmtVQ21reTVZeEktT0l1dw?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:51:19.000Z",
-      "whyItMattersKo": "플라멩구와의 승점 차이를 벌려 리그 우승 경쟁에서 유리한 고지를 점했습니다.",
-      "fanTakeKo": "플라멩구 따돌리니 기분 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0psRlRMQ1pONllMT0ZxSkhjcVJ2Z0t4NGhTMDNlQjB3SE9PZzdYWWs2bk",
-      "title": "Palmeiras goleia Vitória por 4 a 0 e lidera o Brasileirão - Campo Grande News",
-      "summaryKo": "파우메이라스 4-0 대승, 선두 고수",
-      "excerpt": "Palmeiras goleia Vitória por 4 a 0 e lidera o Brasileirão&nbsp;&nbsp;Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0psRlRMQ1pONllMT0ZxSkhjcVJ2Z0t4NGhTMDNlQjB3SE9PZzdYWWs2bk1feVpBSzluNEJJRXg3dWJpWjBEYm5VaXlqMHgzOWpMOGVBZ3gxNXhKbGxwUFdvOTh3cEhkS3dnVmtjcV91ckUzSllKSTBkVXF5U01tWjExam10NklaM1FUUGJHeDZvUjBXZEZMcFBHSTdBbWNtVF9HaTUzc3VXaEZJZzhOOUhTSmjSAbQBQVVfeXFMTUtDOXVmTWQ5WERIR1B6U3pVOWg5YnlpZmJNRUc3MDAyM24yMktxcGhESHJSQnUtT0pjV2lZOXJBZVc0UkdnTV9SMVU5aUwtdFNzQjhIZUxuRkdibXZWTkJLaW83WWgtUHJyUDg2bVZWenpCdEFaeUltYjk4UFpQZUhmQ2VQMDBTLXUxUnh1bW51aW02T05YRWNOenRVX09xSGcwQnBwZWdyb2NvZG1nbUROQXdy?oc=5",
-      "source": "Campo Grande News",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:50:00.000Z",
-      "whyItMattersKo": "4-0 대승으로 기세를 올리며 브라질레이렁 선두 자리를 굳건히 지켰습니다.",
-      "fanTakeKo": "4골 폭격이라니, 공격력이 대단하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUlFYlBtdVQ1UmRFUlR1eEVqdHNOVHBhR0UzZmd0dWxzVlZ4TnJUZ2F2ZT",
-      "title": "Arias celebra goleada do Palmeiras e evita citar polêmicas contra o Vitória: “Fizemos nosso trabalho” - Gazeta Esportiva",
-      "summaryKo": "아리아스, 논란 피하고 '할 일 했다'",
-      "excerpt": "Arias celebra goleada do Palmeiras e evita citar polêmicas contra o Vitória: “Fizemos nosso trabalho”&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUlFYlBtdVQ1UmRFUlR1eEVqdHNOVHBhR0UzZmd0dWxzVlZ4TnJUZ2F2ZTFmbzhMTElsQ2dDSFhCNTF4Q1dYVVp1dmlKajJhTklfOGFwR2ZvQWlXRmlOY25sMlcwRVNnZXZ5YTJlNjd3SmFTX3kzMDZFSVRMajRSbldEeE5ZbEpuNlZSSzE2LWs3dHhENG11ZEY4dHdmNE9FV3VGOGc5WVl5NnVEdmpOYy1lZm55dWFyYUhnQkZTeDFrVUpZMzJQVF8tODVFbHdzanBxYkF4SzhhLXp3TFczbtIB5gFBVV95cUxQWTRWYTZYaXdpaWxxdFkxQ3YxWlFZbE1HSG5IMzVqd1VMcW5Qc01vSmFwYVNpR1B2LU5hcXQtOG1ueGVVeGRFaUtvRTdYUW9QNk9mMHJudWR2dkNzM2JWaUktbFNDeFktS3lneUZtakM2cmRXSjd1MV9WSllDUVB4b0FveHhaVllwaG5DQ044VEY0bTI0TkxTOWNzOXdUN3BfdFlJMDVrd1lOaVZBTUVkVG9hNW9lQ2lnVmRQUnhCWWczeDAzbkN0NlNRWTdpRjdsZllTZUNTUTZQUXV6OUczUmdQckFFdw?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:50:00.000Z",
-      "whyItMattersKo": "선수가 경기에만 집중하는 모습을 보여 팀 분위기와 프로 정신을 강조했습니다.",
-      "fanTakeKo": "아리아스 멘탈이 아주 강해 보입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-20-https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0FaSnh0a1dmY0l0Z0VodzB1Um9zMHlCREtRRnR6QXpHazNVLTJVdHo3ek",
-      "title": "Com polêmica de arbitragem, Palmeiras goleia Vitória e dispara na liderança - Jogada 10",
-      "summaryKo": "심판 논란 속 파우메이라스, 승리로 선두 도약",
-      "excerpt": "Com polêmica de arbitragem, Palmeiras goleia Vitória e dispara na liderança&nbsp;&nbsp;Jogada 10",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0FaSnh0a1dmY0l0Z0VodzB1Um9zMHlCREtRRnR6QXpHazNVLTJVdHo3eklVZXFvV2RmM2JqRmtoQWRYRTMwX3h0VUFNdTl1dkZiV3Rxamk3MGNRWUdtM2pvRzhzb0JjTi1xWkZtamYxNnhWcWFILTlYUmE0SGNpWmFmRVB2SVhSUnZfMEFfejdRektHY2pXSWVhUVl4c2RXTGdz0gGoAUFVX3lxTFAwdHFGeGJyemNEcVJYR3dXaWhjU3FNc3VuSVMzWXY2QUxCRzk3QklENHN5ZjR1d1lPLWNQN2p2dkpSLTFrekRjSzRqelJqdnBTclVNbDFZSUpra0QtV19JWVdMTEhCcXZUUU1IYkdraFNucmc1c1EwZkZEeng0cTFfcEZVRnp1ODdRaTRyYXJDYkhrOWg1RGNPZ1ZpQWF1RjNKM25ObHlyMw?oc=5",
-      "source": "Jogada 10",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:49:17.000Z",
-      "whyItMattersKo": "심판 논란이 있었지만 대승을 거두며 브라질레이렁 선두 자리를 굳혔습니다.",
-      "fanTakeKo": "승리는 좋은데 논란은 좀 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRlhJSDBiUlFtZHZwWWI1Vmxnd3NHQXdSX1FMTE42TFVRbVh2aXFIU29uVU",
-      "title": "Palmeiras goleia Vitória e dispara na liderança do Brasileirão - GP1",
-      "summaryKo": "파우메이라스, 대승 거두고 브라질레이렁 선두",
-      "excerpt": "Palmeiras goleia Vitória e dispara na liderança do Brasileirão&nbsp;&nbsp;GP1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRlhJSDBiUlFtZHZwWWI1Vmxnd3NHQXdSX1FMTE42TFVRbVh2aXFIU29uVUFrVGZYX2ZaNTFISnNZUjV0R2JxdHZ2dW0wVVRhYkszWTdkd01SbzQ0azQ1SGgwSmNfNG1sREZPa1BQYU0ya09sc1RXaGpWNU5JZnktR2NPMmIwdlQ3bl9UYUpRd0FERUplbHRkN29ib2lndFBEdlhsSmllcGtxTWJQNEZMeXgzeHNGQmptUXA0RWdUbTVFZ9IBxwFBVV95cUxOY3doT0NkeFVZc0dkLUdzZkJ4S3hFMHF1Y3J0MFFlNVc3Z1BfRVNHa01jNXE1WURBdERlRkF6bXpibzE3NmNaaDFBek9CbVhlZEJQVkJGQWV0eFhRc1dQcTY4U0pOY0hLZjlLcmJOLS1HZFJSWmhuYW1QSFdGbnJrWjhZUGlHVUF3QUFDa2poengydmk2TDBUM2N4RmNPbldGY3hLaVdTakhVS29FVGpEVEpTS29XbDBVZWo3bDN2R1djQVpINmM4?oc=5",
-      "source": "GP1",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:47:40.000Z",
-      "whyItMattersKo": "압도적인 득점 차로 승리하며 리그 선두 경쟁에서 확실한 우위를 점했습니다.",
-      "fanTakeKo": "득점 폭격이 정말 멋지네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmZJMnVVeXRDNE91X0h1NXBURW85OTAydVZ4dzlIbFpfclR4bTlSU0o3dV",
-      "title": "Melhores momentos: Vitória 0 x 4 Palmeiras (Brasileirão Betano) - O POVO",
-      "summaryKo": "비토리아전 4-0 대승, 하이라이트 공개",
-      "excerpt": "Melhores momentos: Vitória 0 x 4 Palmeiras (Brasileirão Betano)&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmZJMnVVeXRDNE91X0h1NXBURW85OTAydVZ4dzlIbFpfclR4bTlSU0o3dVF3S2szZXhwWGoybzhoWUthOEdwZXZDTU5RNEwtXzFGQ3J2anBmaENvR1JwX3J1M3Nydmc3Q1A4VUcyNUQwNjhPM3VFZFFLYVZqbDlOV0hMZzFpSElvOUxVLUdwNWprc3Vha3k5MGgweDJac0xuQUZQM3dHQVZPcVAyc2VFSGVtTkhuSzJLUEE?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:46:13.000Z",
-      "whyItMattersKo": "4골 차이 대승의 경기 하이라이트를 통해 팀의 득점력을 확인할 수 있습니다.",
-      "fanTakeKo": "4골이라니 공격력이 대박이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMilAJBVV95cUxNTXZteVUzenFRY3hPU09JOU0zaEVTU0l4bGVuaU1Jd3hNWDFaZ0YtaW15RU",
-      "title": "Vitória tem dois jogadores expulsos ainda no primeiro tempo e é goleado pelo Palmeiras no Barradão - Terra",
-      "summaryKo": "상대 2명 퇴장, 파우메이라스 원정 대승",
-      "excerpt": "Vitória tem dois jogadores expulsos ainda no primeiro tempo e é goleado pelo Palmeiras no Barradão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTXZteVUzenFRY3hPU09JOU0zaEVTU0l4bGVuaU1Jd3hNWDFaZ0YtaW15RUlwS1RPakRURGdVOU5fLVdhOUduT3VpSTVWWkYyOEtCUk9nY1VtYXNHdXV0ZUpMSG1yVFNsMGhvTDNMNzNzWnRsOHlwdE81ZjIzc3RHcFI2TmR0ZkRXelBQM1IzcHBPSldFNjJfbThkcXpKZVB5N1E3dkVCTmE1cVRmZTl0QlNvYk5sVEZDY1NCZnJEUnZZR0paSTZRdlRRbklzMkZPUnFCUU1lM1FWTEZtdHFidjN2SzVISFVVTVJabU9iSlVtcWt3X1dyMzloUzFlT0xhY3VGZmc4ejF1N1ByZHFWN0ljeUE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:46:00.000Z",
-      "whyItMattersKo": "상대가 수적 열세에 빠진 틈을 타 원정에서 4골 차 대승을 거뒀습니다.",
-      "fanTakeKo": "수적 우위를 완벽히 살렸네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdm9GSzZtVTlnMzdEd2hKT3pxaFJjbGF4QlE4Umpma1Z1TGVTU1VDY1FOM1",
-      "title": "Vitória 0 x 4 Palmeiras: assista aos gols e melhores momentos do jogo - ge",
-      "summaryKo": "파우메이라스, 비토리아전 4-0 대승 하이라이트",
-      "excerpt": "Vitória 0 x 4 Palmeiras: assista aos gols e melhores momentos do jogo&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdm9GSzZtVTlnMzdEd2hKT3pxaFJjbGF4QlE4Umpma1Z1TGVTU1VDY1FOM1ZlaVd4SXJxb1FGY2JaMkp0Q1VmLXNGaW9NQTVPdUFKZVIteTVGTzVna0dSZklkMDVfeWJrNXcyMEhkQmcwZVRiNTFKSVptOFZvd2xCWk9nbUk2MUZHd3Jrb0JEQnhtS1cyNEJtMHB0U3ZwUDZSWEFhekRlSFBvVEN0RXRLdzVPa1BRc2dFMThjeDJaWW8wTVFkZUw2NGoxcDg4bUh1dksxUUZ30gHkAUFVX3lxTFBjdnZUU1FXRzBpZ3BNd1pBT2V4QlhNMGdtYmtMbmttRDF0THRIUUUzMlFXemtKQlpTSy1OMXc1bXNVOURpVmxYM0M3M2l4U2RVd3VnZDUxM0FpT3ZYSDZTXzV2LXV4TlRrTzAzMHRkUXJhWDJvVk9MUkIzd2R2THUyd0FHNG1hMmJOVHJ5YW1tLTFzMjVQSkZVMVdpcUJ1aFYyZlJmcG1fMzRBVk9mRy1zX1ppd0lCajNQQ1JvV2E0cmRtVHRCWkE2cHowYnd6MnBwT1kxZlVjMFExWGdQVUhfZDVmdQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:41:52.000Z",
-      "whyItMattersKo": "무려 4골 차이 대승을 거두며 맹추격을 피하고 브라질레이렁 선두권을 굳건히 지켰습니다.",
-      "fanTakeKo": "4골 대승이라니 정말 기분 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-25-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzIybjVra1VSRVA2ejZHdkxMaEc3bTFfcnhBRVNZYmlsY1A4NXVHZFhleE",
-      "title": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem na liderança do Brasileirão - Estadão",
-      "summaryKo": "상대 퇴장 활용, 파우메이라스 대승으로 선두 확대",
-      "excerpt": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem na liderança do Brasileirão&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzIybjVra1VSRVA2ejZHdkxMaEc3bTFfcnhBRVNZYmlsY1A4NXVHZFhleENWYTQySHJZU3ZCd01jWl9lTVNJTEMwbHFkWFBXektZckpCNkxVdTdhRUIzY2UtVWxiSmlFREQxdnVRcjVnYkREaHRfVHpuVmdHcHVSUy1vWmpPcmRmai1KWWtUQ1UyRndIV2pzUDlYWURKQzRhYndUZHNLYy0zU2hpb0RaTHlFRHRydlBOZktrdDMyM19GeUgtN0tpcWFnMHU5dGVCemZ3akd4aThmZU9EanN4WjJvRG9LbXM?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:38:30.000Z",
-      "whyItMattersKo": "수적 우위를 점해 대승을 거두며 브라질레이렁 선두와 추격팀 간격을 벌렸습니다.",
-      "fanTakeKo": "선두 차이 벌어져서 안심이네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMilgJBVV95cUxQQmJQWFIwZ0E0b1d4NER6dWNyaDN3OG5aWHRDbFVxM0FCZk9TMTFyRmZWWW",
-      "title": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem na liderança do Brasileirão - Terra",
-      "summaryKo": "파우메이라스, 비토리아전 대승으로 선두 격차 넓혀",
-      "excerpt": "Palmeiras faz valer expulsão dupla do Vitória, goleia e aumenta vantagem na liderança do Brasileirão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQmJQWFIwZ0E0b1d4NER6dWNyaDN3OG5aWHRDbFVxM0FCZk9TMTFyRmZWWW9yQjBJNkdZWm8xSDd6UHFnNXh5eWJvOWh3dUFNdzltUDV0bzZHYzhPV0k5ejZmaWpEVS04RmRveG1TTzNxVmEzaUY1QVRXS1BzMkhLUXRNRXRnNjFEUEJhUWdRLVhPRlZPRUoxY01zYzhzMFJWSS1QYkptTnc0aFp6cC0zelI1RWRsNW80ck5zQjhjTHVJUUo5T3EzRGNXOWlwbzY3eGlzeHU5NVBoLU82YXNrSzFIRTI5NXQtWGttWFlKRkY5RjRvcG9kRWRTR0JnWXdjN0IyMHJaaUhfMGVsQWN5TVo1YjM4Zw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:38:00.000Z",
-      "whyItMattersKo": "상대 퇴장을 기회로 삼아 대승을 거두며 리그 선두 경쟁에서 유리한 고지를 점했습니다.",
-      "fanTakeKo": "선두 유지라니 오늘도 최고네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1RFMmRSZjJ2UEVoVFg0TDdCMHBnRGZNU2VSOGpSOHFmSUVMZ3djUmxGND",
-      "title": "Melhores momentos: Vitória 0 x 4 Palmeiras (Brasileirão Betano) - OneFootball",
-      "summaryKo": "비토리아전 4-0 승리, 골과 하이라이트 모음",
-      "excerpt": "Melhores momentos: Vitória 0 x 4 Palmeiras (Brasileirão Betano)&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1RFMmRSZjJ2UEVoVFg0TDdCMHBnRGZNU2VSOGpSOHFmSUVMZ3djUmxGNDdzV28ycTJrajhRUFdEVDNfY01TNW8zR1FlTUZTUnpYMWYzUnU0UTdlbXp1cXhNMTNjOTZVQ3NBOFl4R2FSY0x0NFNXYWRCb0NtOXFWa2M0Y3JjZlc1aEtBYXV2SWV2T1ZqWGVZc3R1TjJhVEY5UFdFMU5yU0k?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:36:13.000Z",
-      "whyItMattersKo": "무려 4골을 넣는 압도적인 경기력을 담은 영상을 통해 승리의 기운을 느낄 수 있습니다.",
-      "fanTakeKo": "하이라이트만 봐도 짜릿하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-28-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2ItcWpQVkNzNXN2ZEhJVXFrbGVUYXN4VWtCblRPbWR1aURpNEdnLXJUWG",
-      "title": "Palmeiras goleia Vitória em jogo de expulsões e abre vantagem no Brasileirão - LANCE!",
-      "summaryKo": "Palmeiras는 Vitória를 퇴학의 게임에서 쓰러 뜨리고 Brasileirão에서 이점을 엽니 다 - 입찰!",
-      "excerpt": "Palmeiras goleia Vitória em jogo de expulsões e abre vantagem no Brasileirão&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2ItcWpQVkNzNXN2ZEhJVXFrbGVUYXN4VWtCblRPbWR1aURpNEdnLXJUWGw2S01mUlRJZTJHZEVaWEJ4SHJRckpWdldTUFVnd0NuakRMRjlHUHRJLTZibEZZMEhUYVMyRDlLbV9XNnFUejI2b1VDV0VHaEdkY1NQWnA5aldIUWpKaUZBbVk0ZXBSa2FlU2VObk9ZR211dFlDUm5Oa3VLRXlPc0lPOHNvNHVMV09MNC1QSG14TlBPSy0?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-30T02:35:40.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
       ]
     }
   ]
