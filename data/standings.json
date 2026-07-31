@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-07-31T01:05:20.528Z",
+  "fetchedAt": "2026-07-31T05:00:32.889Z",
   "season": "2026",
   "competition": {
     "id": "brasileirao",
@@ -115,6 +115,23 @@
     },
     {
       "rank": 7,
+      "teamId": "2022",
+      "teamName": "Cruzeiro",
+      "teamNameKo": "Cruzeiro",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+      "played": 21,
+      "won": 8,
+      "drawn": 6,
+      "lost": 7,
+      "goalsFor": 27,
+      "goalsAgainst": 30,
+      "goalDifference": -3,
+      "points": 30,
+      "form": [],
+      "isTracked": false
+    },
+    {
+      "rank": 8,
       "teamId": "6086",
       "teamName": "Botafogo",
       "teamNameKo": "Botafogo",
@@ -131,7 +148,7 @@
       "isTracked": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "teamId": "874",
       "teamName": "Corinthians",
       "teamNameKo": "Corinthians",
@@ -148,7 +165,7 @@
       "isTracked": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "teamId": "7632",
       "teamName": "Atlético-MG",
       "teamNameKo": "Atlético-MG",
@@ -165,35 +182,18 @@
       "isTracked": false
     },
     {
-      "rank": 10,
+      "rank": 11,
       "teamId": "3456",
       "teamName": "Coritiba",
       "teamNameKo": "Coritiba",
       "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "played": 20,
+      "played": 21,
       "won": 7,
       "drawn": 6,
-      "lost": 7,
+      "lost": 8,
       "goalsFor": 25,
-      "goalsAgainst": 27,
-      "goalDifference": -2,
-      "points": 27,
-      "form": [],
-      "isTracked": false
-    },
-    {
-      "rank": 11,
-      "teamId": "2022",
-      "teamName": "Cruzeiro",
-      "teamNameKo": "Cruzeiro",
-      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "played": 20,
-      "won": 7,
-      "drawn": 6,
-      "lost": 7,
-      "goalsFor": 26,
-      "goalsAgainst": 30,
-      "goalDifference": -4,
+      "goalsAgainst": 28,
+      "goalDifference": -3,
       "points": 27,
       "form": [],
       "isTracked": false
