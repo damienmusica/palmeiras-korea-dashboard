@@ -1,8 +1,200 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-01T14:45:10.918Z",
+  "fetchedAt": "2026-08-01T16:01:35.775Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMipgFBVV95cUxPTk5URmlQS2R4bEJuR0F0d1NZZmpSME5oYThnVlVZd3JoTHpfQWRVNXpTRWd",
+      "title": "Sub-15 e Sub-17 do Verdão vencem ECUS fora de casa pelo Paulista - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유스, 원정서 승리 챙겼다",
+      "excerpt": "Sub-15 e Sub-17 do Verdão vencem ECUS fora de casa pelo Paulista&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTk5URmlQS2R4bEJuR0F0d1NZZmpSME5oYThnVlVZd3JoTHpfQWRVNXpTRWdZdktDY1hRUFNUelIwUGFBUldyVkkzMk1RbU1qb1RXNnRycUNOZkFPdjVNZFZQc0xiSS1wcU8zd0NLanBKMlNUal9IRWxhamc2SVBjMEtnUGhTTmUyTHBoSGZVVmJXaDJnQ2pyUzdhWGpocko2ZkNEdjZR?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:48:20.000Z",
+      "whyItMattersKo": "유소년팀의 성과는 미래의 1군 전력을 확보하고 클럽의 전통을 이어가는 데 중요합니다.",
+      "fanTakeKo": "미래의 에이스들이 자라나는군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMisgFBVV95cUxPcElBZ2pmQWRkbUk3YWtieHRpWEdSZVBlNFhXT1dwdllMSzBZc05TRXFZc0F",
+      "title": "Palmeiras encara o Fortaleza em jogo de ida das oitavas da Copa do Brasil - ABC Repórter",
+      "summaryKo": "파우메이라스, 코파 두 브라질 16강 1차전 치른다",
+      "excerpt": "Palmeiras encara o Fortaleza em jogo de ida das oitavas da Copa do Brasil&nbsp;&nbsp;ABC Repórter",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcElBZ2pmQWRkbUk3YWtieHRpWEdSZVBlNFhXT1dwdllMSzBZc05TRXFZc0FvT2VnQS1venRvc2d4dko4T0NBRkJVeXAxZExrWlFnTUVlTVBZVFRnd0JkdTNHRVBqeGROdzhSNDAwSGdNOUxqaFNjYlMydmVxQnhUeFRLaVJyWlA3cUpMTFN3QndBUlhLUjZGUVV2c2F0RUh5UWptemFGWExIbWpYVVMwS3lR?oc=5",
+      "source": "ABC Repórter",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:46:53.000Z",
+      "whyItMattersKo": "1차전 결과가 2차전 전략과 토너먼트 생존 여부를 가를 중요한 경기입니다.",
+      "fanTakeKo": "16강도 무사히 넘어가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS28yaEFqUlMyc3E4Y3FMS2xLZWFPRklkWU5qb2R4YXhJOURrYnZuOWhvZEp",
+      "title": "STJD denuncia jogadores, presidente e o próprio Vitória - Terra",
+      "summaryKo": "STJD, 비토리아 선수들과 회장을 고발했네",
+      "excerpt": "STJD denuncia jogadores, presidente e o próprio Vitória&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS28yaEFqUlMyc3E4Y3FMS2xLZWFPRklkWU5qb2R4YXhJOURrYnZuOWhvZEpPS1RNeG1WVThYNU00cUhjMHdVZEhnbEhnd1NldGwyb0k4RDd2SDBxNHVhWklZVXJrdF9PM2dtTDV5VGhCRS04WHJ5MWl2M09IelJseTFlUmxDQU05eTlqdGRnY3NBbnY4ZDJBT0psYmNkT0dFSUlWQ3lyRWZ4UTNqWE1HVzhDeGIwZmwydVFxSlBhejR3VXF5SlpXQnRxVk9FWWo1UHJ6blQzcXpTNENN?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:46:00.000Z",
+      "whyItMattersKo": "징계 수준에 따라 해당 클럽의 시즌 잔류 여부와 선수 운용에 큰 영향을 줍니다.",
+      "fanTakeKo": "리그 분위기가 좀 어수선하네.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOVhaT2hFOWRzS2ZfZEJjbGNXNlVtekFyMkFqT2otcmY3Rld3NWRVWk01UGl",
+      "title": "[canais de futebol] onde assistir palmeiras x são paulo hoje federal+🦊.news – Apps no Google Play - esporte.ce.gov.br",
+      "summaryKo": "오늘 파우메이라스 대 상파울루 중계 채널 안내",
+      "excerpt": "[canais de futebol] onde assistir palmeiras x são paulo hoje federal+🦊.news – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOVhaT2hFOWRzS2ZfZEJjbGNXNlVtekFyMkFqT2otcmY3Rld3NWRVWk01UGlnQ2lpbmI0d0IzLUtWemZTT2FOOUZKa0lZUkpWalVpaUQ4N3Vkc0hib1UydEZrN3lOeXphLVJVNDVGYlZxNWRjeTNfYVdEUWNOZlJGeG51eWtoTlg2R0YwZkxIX3RMTnZ4bDBwWkJiYUJYZmhmQjJxbWNzc1BRYk9UcW5PS2NIeTRudnFoaXZDRmdQQy1nc2FsS092OXhQRGVCRTNvb0RFeW1ZMmdDak9xUmhqZTM4cnpZZ2s?oc=5",
+      "source": "esporte.ce.gov.br",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:34:14.000Z",
+      "whyItMattersKo": "더비 경기를 시청할 수 있는 채널 정보는 팬들이 경기를 놓치지 않게 돕습니다.",
+      "fanTakeKo": "오늘 경기 어디서 보는지 알았네!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWozY0RGeXpyT2w5ZlNtWnBhelF4MEN0NmZlbjEtZmdiRGNPd3czUi1vR1h",
+      "title": "Jhon Arias vai render lucro milionário ao Palmeiras - Terra",
+      "summaryKo": "호나리아스, 파우메이라스에 거액 이익 예상",
+      "excerpt": "Jhon Arias vai render lucro milionário ao Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWozY0RGeXpyT2w5ZlNtWnBhelF4MEN0NmZlbjEtZmdiRGNPd3czUi1vR1hoRkZZck9ROGd1dUk5dG5QamZlREZxZThyQ0wwdU1uUTBiZUZjSDBSaVNycV9NenBaUmJhUjVzNlJGclFLaGxldl9jb1VkT3dhbmNqNThkc2FsYnF0U29HY3p3ZVkzMi1QLU9jUUluWnlRWnNBTzJZYk85cE9hY01fUC1MLUdqaDVHTmZwQWlYQ3BDNXpHMjcwV0R5MF9Wb29EOUhHb002X19fVXo?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:32:00.000Z",
+      "whyItMattersKo": "선수 이적료 수익으로 구단 재정에 큰 보탬이 되어 영입에 도움이 됩니다.",
+      "fanTakeKo": "이적료는 언제나 환영이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2tybVNWdjFQSHV1ZzNvM29vVzBHNC1yUHBwblhpV21CV1JUWVI0anNwejd",
+      "title": "[futebol ao vivo] futemax flamengo x palmeiras ao vivo youcine pernambuco+📈.tv – Apps no Google Play - Instituto de Saúde Coletiva (ISC/UFBA)",
+      "summaryKo": "플라멩구전 생중계 정보 안내",
+      "excerpt": "[futebol ao vivo] futemax flamengo x palmeiras ao vivo youcine pernambuco+📈.tv – Apps no Google Play&nbsp;&nbsp;Instituto de Saúde Coletiva (ISC/UFBA)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2tybVNWdjFQSHV1ZzNvM29vVzBHNC1yUHBwblhpV21CV1JUWVI0anNwejdCcGNxdnNsNExWOWlXeEFUQlNsN2lsRjFGWXNYUWZzVWJoRTZQelRiVUpiamFLazhwOWJXTUFCS1k3cm80QjhpcThUSTE5U2xydFpsSzRUeW5WRjVkOVVyV29hSEltOTZsOTBHOTdUNFk5TGJZWUVmSUl2QmIxOXcxUnNTQTkwRmVXWS1qTVV5SHNuXzFNejhnR2lZODJkUzR1b2JKQVMtUmxZdnd5UklQ?oc=5",
+      "source": "Instituto de Saúde Coletiva (ISC/UFBA)",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:31:53.000Z",
+      "whyItMattersKo": "경기 중계 정보를 통해 실시간으로 플라멩구와의 경기를 볼 수 있습니다.",
+      "fanTakeKo": "중계 잘 찾아서 봐야겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNTh",
+      "title": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil - ge",
+      "summaryKo": "파우메이라스, 포르탈레자와 코파 두 브라질 16강전",
+      "excerpt": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNThwRS1wUS1BVjhCbVl1NUFCSUhXdGpTQl9FVE1vbjJFSFF0Mi1qMXFGR2QwMnV4eE1ucVFSZTk4VHJiaVNhNGF0MHBXZXpPeGVxdkh6T3JjRWRkdk5kbUdnNnNzdmRwUQ?oc=5",
+      "source": "ge.globo.com",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:25:20.000Z",
+      "whyItMattersKo": "토너먼트인 코파 두 브라질 16강 탈락을 피해야 다음 라운드에 갑니다.",
+      "fanTakeKo": "반드시 이겨야 하는 경기네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdTVpN0JOZGFVU0xUaFhZOWh3UldaQnhaSUZmYld5OGZaUzQwUUNveDVoSE5",
+      "title": "[portal futebol] telegram apostas flamengo x palmeiras hoje atualizado 2026 rodada hoje+🥇.php – Apps no Google Play - esporte.ce.gov.br",
+      "summaryKo": "플라멩구전 베팅 정보 업데이트",
+      "excerpt": "[portal futebol] telegram apostas flamengo x palmeiras hoje atualizado 2026 rodada hoje+🥇.php – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdTVpN0JOZGFVU0xUaFhZOWh3UldaQnhaSUZmYld5OGZaUzQwUUNveDVoSE5ISk5CTVFWa0JITWF4dkNMaEhBbVRjX242a0V5RHJkRlg2aXBBWjB4RVp4alNOaTQtZ0JveUgyY01PUlhrZmpLbHNsZmE2MGlfZXQ4UktyQ3ZEWEdsTUw0Q0NjZWRQZ0tGbDRCeXlzRU9vSFk2Q2tBQU5ieC1WeDdPcFktekxaX2hpZlVzOW1IVG9MNk9zQUltRmlkd05rSEY3OEtXakstclVrT0NyRHphSEFjOFhNd3RHYnd0Y1g1RW9qdjVzZ0hUTXNabQ?oc=5",
+      "source": "esporte.ce.gov.br",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:14:01.000Z",
+      "whyItMattersKo": "경기 관련 정보가 업데이트되어 경기 전 분위기를 파악하는 데 도움이 됩니다.",
+      "fanTakeKo": "정보는 많을수록 좋죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQURKdGRrTUtkQ0ZjcWxfZThJaFNuTjNEdXc0bmhRZWY0N1VCM0xpTVlSWHZ",
+      "title": "STJD denuncia Maurício, do Palmeiras, e trio do Vitória por episódios - UOL",
+      "summaryKo": "파우메이라스 마우리시우, 징계 위기",
+      "excerpt": "STJD denuncia Maurício, do Palmeiras, e trio do Vitória por episódios&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQURKdGRrTUtkQ0ZjcWxfZThJaFNuTjNEdXc0bmhRZWY0N1VCM0xpTVlSWHZtTnkwSVdsQ2FFQ1VyTDFQaU55eUwtY09ENVB0UnRMTWJONEIxSTY2VjdJa2QyU01MckxnMElIeW91eDZreGZWQjNpRGV0LWFFMlFVSndWQXlaTllzNERhZ29QWUcwNEc4TGZnV2txQ3E3V0dVMUg3aUNqczh3a0hYd2xEajFLZVp1cl9MOENJM1BXUWZUQkRIaWI5aDdIY2F6SXl3czVvTA?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:06:37.000Z",
+      "whyItMattersKo": "주전 수비수의 징계 가능성은 다음 경기 수비 조직에 큰 변수가 됩니다.",
+      "fanTakeKo": "부상이나 징계는 정말 조심스럽네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JR0FmVVVrcVhwLWx3SFJvNnk3SmhGVXdBWjU5cDhoUVlJTXh6c2U4cURjVVk",
+      "title": "Aston Villa, clube da Premier League, continua interessado na contratação do meia-atacante Allan, do Palmeiras, mesmo após a recusa da oferta milionária de 30 milhões de euros. A informação foi dada durante o programa Fala a Fonte, da ESPN Brasil, pel - instagram.com",
+      "summaryKo": "애스턴 빌라, 거절당해도 알란 영입 의지",
+      "excerpt": "Aston Villa, clube da Premier League, continua interessado na contratação do meia-atacante Allan, do Palmeiras, mesmo após a recusa da oferta milionária de 30 milhões de euros. A informação foi dada durante o programa Fala a Fonte, da ESPN ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JR0FmVVVrcVhwLWx3SFJvNnk3SmhGVXdBWjU5cDhoUVlJTXh6c2U4cURjVVktNUVQTVlwNkFaTnVIU0JKNE9TMzJyQVROMERVTlE?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-01T15:06:32.000Z",
+      "whyItMattersKo": "거절된 거액 제안에도 이적 관심이 이어져 팀 핵심 선수의 이적 가능성이 다시 도마 위에 올랐습니다.",
+      "fanTakeKo": "알란은 꼭 지켜야 하는 선수예요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVmZ1TnRsNGc5V1pEMjY4SGhJekR0bnVjZDhaWXR0R1NhUnlEZkVFZkdMNE",
+      "title": "[futebol ao vivo] grupos telegram flamengo x vasco palmeiras android classificacao+💡.php – Apps no Google Play - esporte.ce.gov.br",
+      "summaryKo": "파우메이라스 등 브라질 리그 순위 앱",
+      "excerpt": "[futebol ao vivo] grupos telegram flamengo x vasco palmeiras android classificacao+💡.php – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVmZ1TnRsNGc5V1pEMjY4SGhJekR0bnVjZDhaWXR0R1NhUnlEZkVFZkdMNEdJV0EzNXJwbnBaNkpWb0xlMUJJMEFLY2trbzhacFJjSlJKaGJtcVpaTGZxR3d2ZlZaa3RhMjJkLUtta2RZaDI3V0hIUGdsanpGVzVxNVBhQkdHMFZRV1h4a2JvRlF1MlAwWmY3Nkp0Rk1jeW5RTUswUlpGbnNIR2JETFExekU0V3pzTzR1cXhOaFR6TUllYzIwVDl2SjhyVzhlel9Xbmo2RnVfTVRXX1ZDelc2S1dDQ1p5VEZkSHFsY2FfejNXUQ?oc=5",
+      "source": "esporte.ce.gov.br",
+      "language": "pt",
+      "publishedAt": "2026-08-01T14:58:32.000Z",
+      "whyItMattersKo": "팬들이 앱을 통해 파우메이라스와 라이벌들의 실시간 순위와 경기 일정을 쉽게 확인할 수 있습니다.",
+      "fanTakeKo": "앱으로 실시간 순위 보니 좋네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWlzcFE5RzFXb091bTEtZWxVdTd6TGExRXhNelhPQkJ6MTdrMS1fNTU3T0",
+      "title": "Vitória x Palmeiras: Cacá, Luan Cândido e Fábio Mota são denunciados no STJD - ge.globo.com",
+      "summaryKo": "파우메이라스 선수 3명, 징계 위원회 회부",
+      "excerpt": "Vitória x Palmeiras: Cacá, Luan Cândido e Fábio Mota são denunciados no STJD&nbsp;&nbsp;ge.globo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWlzcFE5RzFXb091bTEtZWxVdTd6TGExRXhNelhPQkJ6MTdrMS1fNTU3T0I3bnNqcDRIcXFFa0hBRXY1WjlqV1haZmxJeXpBNkpZeDBOUHo3eFdqREZfMFZtZHA3MUwtVWVSLUtrakpZaWxMRGhLM2ZUMVQ3ZUM5SGVPT08wa3dTRXI0RnZOckttZGFLVlpiclZPRkdQOHl0bzZzcmhvVTVjRmNiX24yMmYtVXBJWFlaYWo1NmVIOFJEZllEY2l6UTJRZnJQUnF3bzNEaXNMNndUdGdHTXBVUnJWUEdwd9IB9AFBVV95cUxPMlVvQmlJaWo3czhZTHVfakZVTmpZdG9LdENaY0prT2Z2Vk11WktKX00xYzhLY3I0X0FIT0h6Q2hISjRucFJ5SlNyOFNuRTRjTEJUM01UdTFLc1J6Y1VrUFJkUUQ4enU3VS1jd1YtVk4xVGxudUZnTjk3aUtaRHIwdGUzSVVUN2tPT0l4SjZ1MW8wVDlfRG1pVm5FTjB3WExDVGIzT0ZJTU5WYmtfbjRFSUgyOEhrdWljbGQydzNpcm5rOFVUYW5WZ3JYN0N0dk04TjlGajVFbFFaUjFvaG5uVWRpbGtjYTZLdXBMMUNkck5vY0FJ?oc=5",
+      "source": "ge.globo.com",
+      "language": "pt",
+      "publishedAt": "2026-08-01T14:29:41.000Z",
+      "whyItMattersKo": "핵심 선수들의 징계 논의로 향후 경기 라인업 구성에 차질이 빚어질 수 있습니다.",
+      "fanTakeKo": "징계만은 없었으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMihAJBVV95cUxPZkpGbmc1LUZqZW5heVRIM1RvVmtrV1Z2UFVTNm5FYk5fUUVFaU50WjZGWWF",
       "title": "Palmeiras x Internacional (Feminino): onde assistir, escalações e arbitragem - Terra",
@@ -134,22 +326,6 @@
       "publishedAt": "2026-08-01T12:26:40.000Z",
       "whyItMattersKo": "경기를 놓치지 않으려는 팬들에게 생중계 링크 정보가 필수적입니다.",
       "fanTakeKo": "중계 링크라니 딱 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNTh",
-      "title": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil - ge",
-      "summaryKo": "파우메이라스, 포르탈레자와 코파 두 브라질 16강전",
-      "excerpt": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNThwRS1wUS1BVjhCbVl1NUFCSUhXdGpTQl9FVE1vbjJFSFF0Mi1qMXFGR2QwMnV4eE1ucVFSZTk4VHJiaVNhNGF0MHBXZXpPeGVxdkh6T3JjRWRkdk5kbUdnNnNzdmRwUQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-01T12:25:33.000Z",
-      "whyItMattersKo": "토너먼트인 코파 두 브라질 16강 탈락을 피해야 다음 라운드에 갑니다.",
-      "fanTakeKo": "반드시 이겨야 하는 경기네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -764,182 +940,6 @@
       "publishedAt": "2026-07-31T22:25:00.000Z",
       "whyItMattersKo": "압도적인 선두 위치 덕분에 브라질레이렁 우승 가능성이 매우 높아졌습니다.",
       "fanTakeKo": "우승이 점점 현실화되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTBJVVJ0c1ExV0YzSE9sbnhIanFQbGsyN2ttdmw5RU5TcjlGYlIwVHpFZ2x",
-      "title": "Gustavo Gómez sofre lesão na coxa e vira desfalque no Palmeiras - 365Scores",
-      "summaryKo": "수비대장 구스타보 고메스, 허벅지 부상으로 이탈",
-      "excerpt": "Gustavo Gómez sofre lesão na coxa e vira desfalque no Palmeiras&nbsp;&nbsp;365Scores",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTBJVVJ0c1ExV0YzSE9sbnhIanFQbGsyN2ttdmw5RU5TcjlGYlIwVHpFZ2xwamlCRkJmS1RwR2lURER3dHE1YXJ2VzBSQ2F6NXU5TEtSTmVCU3BvNzhwdnBSaWpPbU5YSTZFcGtjR2JRaG9NdWdFT2oyOWxDSWJHdGdRWTNNUHhwMm1BRWt3bk9GTFJLQmc?oc=5",
-      "source": "365Scores",
-      "language": "pt",
-      "publishedAt": "2026-07-31T22:15:12.000Z",
-      "whyItMattersKo": "수비의 핵심인 주장이 빠지면 팀 수비 조직력에 큰 공백이 생길 수 있습니다.",
-      "fanTakeKo": "주장 부상, 빨리 쾌차해야 하는데!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybUQzSzhBUlVDWFhwblhrOFJEZC10Y3o2aE5fNWxtcWxod1VueWM5TTF2QV",
-      "title": "Palmeiras perde Gómez para jogo da Copa do Brasil e Paulinho deve retornar - Portal ABC do ABC",
-      "summaryKo": "파우메이라스, 고메즈 결장·파울리뉴 복귀 임박",
-      "excerpt": "Palmeiras perde Gómez para jogo da Copa do Brasil e Paulinho deve retornar&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybUQzSzhBUlVDWFhwblhrOFJEZC10Y3o2aE5fNWxtcWxod1VueWM5TTF2QVctLVV3dXRUdDJuTmZ0TFM1T2MyTkNmX2kwb1ZaUWFpT09vVTdrRUU1OWVkRzFUalZrWWRqbnFOcQ?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:55:56.000Z",
-      "whyItMattersKo": "코파 두 브라실 일정을 앞두고 고메즈의 결장으로 생긴 공백을 파울리뉴의 복귀가 어떻게 메울지 주목됩니다.",
-      "fanTakeKo": "파울리뉴 복귀는 기쁜데 고메즈는 아쉽네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMENLa3ZzVUlnVzZKM0NsbFpvci1OOHROOTlyb2FkNDducUlia05UUFNpWWN",
-      "title": "Palmeiras comunica lesão muscular de Gustavo Gómez; saiba detalhes - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 구스타보 고메스 부상 공식 발표",
-      "excerpt": "Palmeiras comunica lesão muscular de Gustavo Gómez; saiba detalhes&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMENLa3ZzVUlnVzZKM0NsbFpvci1OOHROOTlyb2FkNDducUlia05UUFNpWWNfYU1tQ1JtV2JhdnJfa2ZvMy01eERHZ0tTWXd3MjhpSVBZand1T3BKQlFOVTNKX3lPWlBhamQ4TUVVNFBLTUJWVk0yZExlZnNUMzctZS01NkZqeEZhUjI5cUJiQUJCMmtidHZFam5HT3JxYmhwLWtndUdjRHRNa0lHOVprcVd4TGdPd0hYSGp1ZDlKZTNNa2FKbTF2TW9rbHJtLUZKakFlWmFuOVo1UnBoa2g2UjNZMXpUMTc5VTlz?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:46:55.000Z",
-      "whyItMattersKo": "공식 발표로 수비 교체 카드와 대체 자원 운용 계획을 세워야 합니다.",
-      "fanTakeKo": "부상 기간이 길지 않았으면 좋겠다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjl5LTNjSkY2bXNwUWp2ZEV2VklvOFZkUENVNjZhQzlyeUYwbU9oc3FreER",
-      "title": "Escalação: Gómez sofre lesão, e Paulinho retorna ao Palmeiras - LANCE!",
-      "summaryKo": "파우메이라스, 고메스 부상·파울리뉴 복귀",
-      "excerpt": "Escalação: Gómez sofre lesão, e Paulinho retorna ao Palmeiras&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjl5LTNjSkY2bXNwUWp2ZEV2VklvOFZkUENVNjZhQzlyeUYwbU9oc3FreERTc1ViT2dBbjlpaXB4MFl4R2RCbWs2MVc5RzVBWi1WTG5FZGNMbkYxNjJoOE4wajVIUzFTWXJWaGxMRmd4V2EwV3VLT1p1Tng0UEY2MzNIMUJWT1hnYk1qaktWRDFadWV1S0RrcTMybnV5cTh6?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:43:36.000Z",
-      "whyItMattersKo": "주장의 부상은 아쉽지만 파울리뉴 복귀로 중원 전력 보강에 큰 힘이 됩니다.",
-      "fanTakeKo": "파울리뉴 돌아와서 득점 좀 해줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQW5YWW9VZkIzeVN4aUhQeWxnOHZXd3ZERWVjQWVTUDZKVS1yVUpuYng2NVF",
-      "title": "Palmeiras acerta empréstimo de atacante Sorriso para futebol árabe - band.com.br",
-      "summaryKo": "공격수 소리수, 아랍 리그로 임대 확정",
-      "excerpt": "Palmeiras acerta empréstimo de atacante Sorriso para futebol árabe&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQW5YWW9VZkIzeVN4aUhQeWxnOHZXd3ZERWVjQWVTUDZKVS1yVUpuYng2NVFBX2k2eW43V2RkY3k3RzJhNE8wZzFLVDBBZGpqYVkzWTdDWUJTTjdtZkx3WkJ6SFZFTFp4UTc5VThiWFNzeW81TG1nMU85RnhmN2tZa2JlT0lmTGNPeW54VlFVWl9DMWlnMDZaNjZQU29qdnk1X1UxWF9QUU1PeGluek9HUlZRaDN2VGpDYTNYYWtfUXhLWUJWSHQxag?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:42:13.000Z",
-      "whyItMattersKo": "교체 자원이 빠지면서 공격진의 뎁스와 로테이션 운용에 변화가 생길 겁니다.",
-      "fanTakeKo": "소리수, 아랍에서도 잘하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQano3SzloX0FLUmd3S0g4N3R4VWRRV0hicGxJVnFLZFpwOGtvU0ZiaHFwLVN",
-      "title": "Palmeiras segue preparativos focados na Copa do Brasil, mas perde Gómez - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스, 코파 두 브라실 준비 중 고메스 이탈",
-      "excerpt": "Palmeiras segue preparativos focados na Copa do Brasil, mas perde Gómez&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQano3SzloX0FLUmd3S0g4N3R4VWRRV0hicGxJVnFLZFpwOGtvU0ZiaHFwLVNuMkNhTUFUQjlYRlRlcy1WV29yZnhNcUluMnZRREswbEJmaHRQNm5oMTlGajlWV0ZiMWRqMU9OTGViSjN0dWVWYThwUjhLR1lUUnUtb1NQRFBhWFNlTktyN1o0dEhYM2RDWEFGRHZ2WmQ4X3k3NXhOV3NPNHNGZlRDdFBQcm4tWEEwT1pS?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:39:08.000Z",
-      "whyItMattersKo": "코파 두 브라실을 앞두고 주전 수비수의 부상으로 수비 조직에 변화가 예상됩니다.",
-      "fanTakeKo": "부상 없이 무사히 넘어갔으면 좋겠네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-18-https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMjJ4RTRFNTRTN0szNXlEZk9ZYTc2X1lZRFBSSUVtT0RfX3N3b0htaGRmd1",
-      "title": "Palmeiras x Fortaleza: prováveis escalações e onde assistir - Terra",
-      "summaryKo": "포르탈레자전 예상 라인업과 중계 안내",
-      "excerpt": "Palmeiras x Fortaleza: prováveis escalações e onde assistir&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMjJ4RTRFNTRTN0szNXlEZk9ZYTc2X1lZRFBSSUVtT0RfX3N3b0htaGRmd1hibEJEaS01azlkbEw0VXhvRmtrQy1mTEExNWR3NGpuRFd1bGUxVHJONnR1bGtiSmhFS0o0OUdLeHc4SzdaUDAyV1hkSnRNSFFKbi16N2Ixd1R4X21menczNmliYTlzTjhXcVVnX2I4aDczODhmeVlrZnFCOWxpMEl4QWMwbU5UbFRhX2dUWFM5UXp6U2ttQUhRRmttMzkxV1lMai1UUkZxNEU5Z1lzUlhzdFg5VHBR?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:38:00.000Z",
-      "whyItMattersKo": "다가오는 경기의 예상 선발 명단과 시청 방법을 미리 확인할 수 있습니다.",
-      "fanTakeKo": "오늘 경기 어디서 보지?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnRtZXA0T1RIT1dQWTF4c2VuTDBQcVJzN3o4Zk9vQzNVOC12ZkdfdF9QZ2V",
-      "title": "Fortaleza anuncia venda de ingressos para jogo da Copa do Brasil diante do Palmeiras - URB News",
-      "summaryKo": "포르탈레자, 파우메이라스전 티켓 판매",
-      "excerpt": "Fortaleza anuncia venda de ingressos para jogo da Copa do Brasil diante do Palmeiras&nbsp;&nbsp;URB News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnRtZXA0T1RIT1dQWTF4c2VuTDBQcVJzN3o4Zk9vQzNVOC12ZkdfdF9QZ2V6bGYxTGxGaGFmNmJFMXNOOXo5ckJ6LTRob2pEa2FWM3VobVdNbUpQd1ctZ1R1TENjR2ZiMXZlbVhZZ2c1T1kxVEJFZTNpalkwQTAxVi1oLUhMUmpWX1NVTU94Mm1CWG5vLUtlTkJnNEs1OC1rYURndk5VNmVUTFA3S1d0NWtkTXRpY25VenU4?oc=5",
-      "source": "URB News",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:32:00.000Z",
-      "whyItMattersKo": "원정 경기 티켓 판매 시작은 코파 두 브라실 일정이 다가왔음을 알리는 신호입니다.",
-      "fanTakeKo": "원정 응원 가려면 티켓이 문제로군.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiywFBVV95cUxPZlMwNTdIQ2tReXFTSzA2aFFJVUlGNFFyRkVUeWkwejYwNkFKVHpWbWtMNXd",
-      "title": "Gustavo Gómez tem lesão na coxa e vira desfalque no Palmeiras - ge",
-      "summaryKo": "고메스, 허벅지 부상으로 파우메이라스 이탈",
-      "excerpt": "Gustavo Gómez tem lesão na coxa e vira desfalque no Palmeiras&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZlMwNTdIQ2tReXFTSzA2aFFJVUlGNFFyRkVUeWkwejYwNkFKVHpWbWtMNXdCUXZlQmVDMHNmUk1tanE0dXd4cUUweWFwZ3B6RXlZMXVPYzBpUHFib3hxVFdYMWZYVlZHMTF4UEpvNzVuZnNmT3AyU3pydHZGV0hyeWw5cmpLd1FtVkdpT21oY3ZPc3Z0RU1rb01CTEc1MDdIOEE0WnFac3hOOHREMF8xZXRJYlVFMzJVOWx1aEVocFRtZm1XbHJlaEUzWdIB2gFBVV95cUxNT3M2b3pNOFFNM3JEMzd2YUJ5WlhyTG5ObXZBbkkyNHduVzJHUjBxOUNRVEJxWDFVNnM1NzQwM0FQem1obDhDdldkblctclc0OGt4aHlOM0dEZWJQNXVBSjNZZkF2RUU1TXFBN2Z4MnhhTDdFSFpGb0RRcUtlUE5jZWR1QmtnaWtlcVZhajdoS1ZPM0dzYmw2Zl9CbGNLZDFqSlhESWxfblhRLTlTMnFUTkY3emxsNEg1LWpLd1VTWmpMeXRhVzh6R1BhemthQkZJNmc4MDE1c1FYUQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:17:22.000Z",
-      "whyItMattersKo": "팀의 주장이자 수비 핵심인 고메스의 부상은 수비 라인 운용에 큰 타격입니다.",
-      "fanTakeKo": "주장 빠지니 마음이 쓰이네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTY3a3FncmFydEpHUmNsSVdHbTdxUlZzNnZlN3NTXzlIZ2JGVlduM1pwV1Z",
-      "title": "Números de Santiago Sosa explicam por que o Vasco insiste na contratação do volante - Terra",
-      "summaryKo": "바스쿠, 미드필더 소사 영입 강력 추진",
-      "excerpt": "Números de Santiago Sosa explicam por que o Vasco insiste na contratação do volante&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTY3a3FncmFydEpHUmNsSVdHbTdxUlZzNnZlN3NTXzlIZ2JGVlduM1pwV1ZHQ3lBamE3VG92akRubnd5QnR6eHFzc0lZeHJWOUZjQXpTS3ZXMnRQUElNNUlKRXplXzN2UEtCR25Yb3V2anRQalVBRkdLdEoyNzNCR2w4Zlp0NWxqNzhVbXpJcjFKMU9DaXA2QnRaOFdBM3g0enRpdzA5Ui1ucEtMeWV1ek9nMXdaTG9Nb3J1MFJndzUxYUlUSVdNeGIteFhkTkFLQmxQbkJMc3VyMmlVOUJjbktpRHZjNlludTl5SGdabEFraUlYTWNJbVBIMVdQMHYz?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:16:50.000Z",
-      "whyItMattersKo": "라이벌 바스쿠의 미드필더 영입은 리그 경쟁 구도에 변화를 줄 수 있습니다.",
-      "fanTakeKo": "라이벌 전력 보강이라 신경 쓰이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZWxkakFIeFZrdzQ3ek9YcjZmelBVZW1IQ2FFejFsN1RjbXNya2h6VzQ2aTN",
-      "title": "Vitória divulga nota oficial após declaração de Abel Ferreira - Terra",
-      "summaryKo": "비토리아, 아벨 페헤이라 발언에 공식 입장",
-      "excerpt": "Vitória divulga nota oficial após declaração de Abel Ferreira&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZWxkakFIeFZrdzQ3ek9YcjZmelBVZW1IQ2FFejFsN1RjbXNya2h6VzQ2aTNHeDNScnFDbzNlMTM4WEZ6S01wUWtFdVE2NGpRT2Z4X2RxVzEwT3MySWl5YTNTMjVZN2RvdHdEZ3plcDZRSWE0SDE0d2RkdE5Rd3ZUZUliU201NHhDRm5IV3RGdjB0N2dNdXJBYlVNZ2V1R2JhU0dlMUVldVJ0SkZHaGo2MnJNZWlSVV9QR0FXcHM3UnlmWWdHdVVxYzVHUnFaX2tsS1NPNGdzR2plWS1kendwbXpkbHNoQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-07-31T21:15:00.000Z",
-      "whyItMattersKo": "감독의 발언에 다른 구단이 공식 입장을 내며 불필요한 논란이 커지고 있습니다.",
-      "fanTakeKo": "또 왜 이러죠? 조용히 경기나 하게요.",
       "tags": [
         "뉴스",
         "AI요약"
