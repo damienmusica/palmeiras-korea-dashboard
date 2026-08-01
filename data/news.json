@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-01T08:25:08.626Z",
+  "fetchedAt": "2026-08-01T10:16:30.285Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeUloa2dPcEtmaEU1REhpRDZPWGs0Zl96OXdHc0JPOU5XSjJSNkV5ZlBZMW5",
+      "title": "Vasco e Palmeiras reeditam rivalidade histórica em decisão no Brasileirão Sub-20 - Terra",
+      "summaryKo": "파우메이라스, 바스쿠와 U-20 리그 결승 맞대결",
+      "excerpt": "Vasco e Palmeiras reeditam rivalidade histórica em decisão no Brasileirão Sub-20&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeUloa2dPcEtmaEU1REhpRDZPWGs0Zl96OXdHc0JPOU5XSjJSNkV5ZlBZMW5UZ3ZBTGVyX0ZmYlZTNnVPWV9FQk13WlFRSDJ3eE1TTFBIVmk5ZlNhVzdOREVCYzB0dkgtWmJPMzktR0liOWVVNV9VTGxXZ0I4VVJNSXRkMU1iZllCcXlPMGF6Tm5veTMzeUV4MDZoS2dSQVJ5N3dGT2E4dk5lXzBKVmdDd0RqWUlPSnVaU1FYc3VBOFR1eWtXNWJYVG1DR1JQNUxIcXlkZUc5R2JnWTRPWlc1Z2o2Vm5lclVSZEdMYmJ4MFV3U0poWFlfb3FkS0NkSk0?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-01T10:04:00.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 U-20 결승이라 1군 전력 수급과 팀 미래에 중요합니다.",
+      "fanTakeKo": "유망주들도 우승해야 진짜 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxNclhZY2R1aVp0QURFamNQS0N3OS1zY1pBYjA0NXdsaDdJYkkzd05rV0dfQTg",
+      "title": "Fortaleza visita Palmeiras no jogo de ida das oitavas da Copa do Brasil - OpiniãoCE",
+      "summaryKo": "파우메이라스, 포르탈레자와 코파 두 브라실 16강",
+      "excerpt": "Fortaleza visita Palmeiras no jogo de ida das oitavas da Copa do Brasil&nbsp;&nbsp;OpiniãoCE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNclhZY2R1aVp0QURFamNQS0N3OS1zY1pBYjA0NXdsaDdJYkkzd05rV0dfQTg5N2tuUVNSYlN6clV4UnUxTjVyNUxTTUxNT1lHeWF5Mk1NaHVzY20zNDBUOWZPV2pxcF9PbUoySGh1alg3X0ZSc0tVMk1nNUtEVUZ1RU1POUZUWTJPdDhUV200QTFCcjU4RUZaUmtEam1RUGFvbXRoTUlQZXVrVzN6eFY5ZlBncW1QdUN4OEpTaThR?oc=5",
+      "source": "OpiniãoCE",
+      "language": "pt",
+      "publishedAt": "2026-08-01T09:03:47.000Z",
+      "whyItMattersKo": "16강 1차전 홈 경기라 좋은 결과를 내야 8강 진출이 훨씬 유리해집니다.",
+      "fanTakeKo": "홈에서 무조건 이겨야 다음 라운드 간다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmk3TXlkX3JwMlhQYkV6ZjlDOExLMEdCdGNiSEsyVWJVREU1eWQ0SmV6dTF",
+      "title": "Mercado da bola do Palmeiras: veja chegadas, saídas e negociações do Verdão - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 이적 시장 동향 한눈에",
+      "excerpt": "Mercado da bola do Palmeiras: veja chegadas, saídas e negociações do Verdão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmk3TXlkX3JwMlhQYkV6ZjlDOExLMEdCdGNiSEsyVWJVREU1eWQ0SmV6dTFwcndzUFdHcWJSRmI2OExROF9OQ3lvT19tZ3RPV1BmX1ptYlV2UTdVTlVnWDB3Y3B0RUhKOXB2em1IMTNCdTlNTy1Nbkp3d0V5My0xSWpfQkxnRXBhSzYweg?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-08-01T09:00:00.000Z",
+      "whyItMattersKo": "팀 전력 보강을 위한 영입과 방침을 파악해 남은 시즌 전력을 예측합니다.",
+      "fanTakeKo": "좋은 선수만 데려와서 우승하자 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWw4TWo2QTVSczQxTlRQNDVFaC1zQnl2YzFxMTBIYUR4dE83OVNUZXRIUFN",
+      "title": "Palmeiras 'marca' Flamengo, e Abel prepara mudanças na Copa do Brasil - UOL",
+      "summaryKo": "파우메이라스, 플라멩구 겨냥해 전술 수정",
+      "excerpt": "Palmeiras 'marca' Flamengo, e Abel prepara mudanças na Copa do Brasil&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWw4TWo2QTVSczQxTlRQNDVFaC1zQnl2YzFxMTBIYUR4dE83OVNUZXRIUFNmMGJMdmdvTDZaVU90N21DTUlNb3BneURqNkJJaU42OWJTMUlGWHVLdV95Zk9LVFZkNnprVy10UVhlRzNiOE1LRWRReHN2ejZnTHZqRG12UVRXLXdjaFlycjBFRjYtcHdhdThrRUNXRG5PNkpoQko3RnF3ZTdmTGplbXJ3MGVpOGxJYkFSb0xZTUwzeGQ5VjFqUzhQRUpnYmVkZEoyYjRfRA?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-01T08:33:12.000Z",
+      "whyItMattersKo": "라이벌 플라멩구를 겨냥해 코파 두 브라실에 대비한 전술 변화가 크게 기대됩니다.",
+      "fanTakeKo": "플라멩구 상대로는 꼭 이겨야 해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3FvaEdkTHdsUmtLMnJaMjBlWG1ZeHUzYkJ3WjRjOGY1N091S0lwcUo1NGd",
       "title": "Milhões em jogo: como a Copa do Brasil mudou de status para o Palmeiras - Rádio Itatiaia",
@@ -876,70 +940,6 @@
       "publishedAt": "2026-07-31T16:21:58.000Z",
       "whyItMattersKo": "선수 이적료 수익이 줄어들 예정이라 대회 상금 확보가 팀의 재정 건전성에 필수적입니다.",
       "fanTakeKo": "돈 문제라니, 반드시 이겨야겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGFTZ2MtVXYtYjh6ZE54d2Q4TS1RRUI2cVZ3NjQwX1VUQmk1aGdiZ1BoQUJ",
-      "title": "Pai de lateral do Palmeiras expõe sonho com o Corinthians e gera saia justa - UOL",
-      "summaryKo": "파우메이라스 풀백 아버지, 코린치안스 응원 논란",
-      "excerpt": "Pai de lateral do Palmeiras expõe sonho com o Corinthians e gera saia justa&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGFTZ2MtVXYtYjh6ZE54d2Q4TS1RRUI2cVZ3NjQwX1VUQmk1aGdiZ1BoQUJ5cW13UWgtcXVzb0duWFRodkhZZlhoczBqT3NFOFlSSVZyZEpTZHI1bWxNX0wtUldSQVMwSF9wWldkNFZoOEhoTXVlMmd6TF9rQXRnd3kyMXhFMHhEVnBVdTBwUXVpbzM0c2VERHpWdHBiZTNjMFpsbDFJMFlPam1mWnc1MW94X1l0MFlpZlFOamtTYmJSTE5GYnNlWmhrMlotRTBreEl5UG5NaGh0UjNOZUQ5Yw?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-07-31T16:16:17.000Z",
-      "whyItMattersKo": "선수 가족의 라이벌 팀 응원 발언이 팬들 사이에서 불만을 사고 팀 분위기에도 영향을 줍니다.",
-      "fanTakeKo": "아버지님 그런 말씀은 좀...",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMimwFBVV95cUxObDVtbXdJY3AwVU9uamhBckFGNVVfb1dWRXRNTXdjMnlCZHJpZTBFUGFIQnJ",
-      "title": "Palmeiras pode cumprir 2ª meta esportiva de 2026 - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스, 2026년 두 번째 목표 달성할까?",
-      "excerpt": "Palmeiras pode cumprir 2ª meta esportiva de 2026&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDVtbXdJY3AwVU9uamhBckFGNVVfb1dWRXRNTXdjMnlCZHJpZTBFUGFIQnJ6ZmMxbm1PNmRlY0RkZUlKTk41VEUzVS1CTmFEZDAxOGVSZ1VtNGlsamtvc1E3X19Uc3FfOXkwLWxuUlh2LVY5YkY0Mkw5LWNJajl6LTVsRVdxd0ZlNmdEb0FzMjBpcUxQZHl5VkRwbw?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-07-31T15:58:45.000Z",
-      "whyItMattersKo": "2026년 시즌 팀의 두 번째 목표 달성 가능성이 보여 미래 전망이 밝습니다.",
-      "fanTakeKo": "목표 하나씩 채워가는 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXlBMUtLaFRTLW5waWlnYUNzX2FOUEVLZTZocndpLVZSQ29uU3FsSDFUbXV",
-      "title": "Ex-Palmeiras, Yan Matheus é anunciado pelo Kashima Antlers, do Japão - ge.globo.com",
-      "summaryKo": "전 파우메이라스 얀 마테우스, 일본으로 이적",
-      "excerpt": "Ex-Palmeiras, Yan Matheus é anunciado pelo Kashima Antlers, do Japão&nbsp;&nbsp;ge.globo.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXlBMUtLaFRTLW5waWlnYUNzX2FOUEVLZTZocndpLVZSQ29uU3FsSDFUbXVlUTBCMzN6X1k2eGF2am1JRlZMVXA1RFZGZktuMkdfcGY4RnZRd0syZkRnMHducnhYUS1iS0xqSDFGR0VDY1Utb0lleFozeGtKUkV1UVB5dWFYMERXT3BWbHRPZ214ZGpvY1ltQjJTXzZYbko4U3RseFRHaTdlWkFaYmxYUUdhTkFNQ1daT0NkdkZUc2lKcmdzZnpBS3VnR3phb0ROWjdYdlJLbzA0Z9IB6AFBVV95cUxPWlZfNXVRMS1QMEFGNUJFZFEtQ3NKblNJWlZkV203RW5tbVRHbktJbnllUTRpZElGTlY1UmJBbGhtUVk5Y2ZOcC1sb1VVUmY5SUIyLXMtTUJWZEhBVmpKTHI3eG1CMW04WDhrVXpNbjQxQmFqbzVxTHMzc2F6dW1CVWkzYTdFdmpfUGlsSldLN2k2OFkzUVVMdWt4c1hVRmtGT1JCeXRUcldkdzRkUl81MXdlOENRZEtLS2RjNk9LdkFiSDh2NVVqMGxXMTlreW1NNGpxNk5ERXZfOUZXdjFaaUhucXAyMzZT?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-07-31T15:14:32.000Z",
-      "whyItMattersKo": "팀을 떠난 공격수가 일본 리그로 새로운 도전을 시작하며 이적 시장이 활발합니다.",
-      "fanTakeKo": "새로운 무대에서 잘하길 바라요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdFV0T3pOaWlubFp0UkxLcU1xQVdnOHd0cHM3am1QYnRBa29jbGVtUlBmZTN",
-      "title": "🤝 Quem tem a 𝒔𝒐𝒓𝒕𝒆 de jogar junto, vai mais longe! 💚💜 Bem-vinda, Sorte Online Betz, parceira oficial do Palmeiras Online! #PalmeirasOnline #Palmeiras - instagram.com",
-      "summaryKo": "파우메이라스 온라인, 새로운 후원사와 손잡아",
-      "excerpt": "🤝 Quem tem a 𝒔𝒐𝒓𝒕𝒆 de jogar junto, vai mais longe! 💚💜 Bem-vinda, Sorte Online Betz, parceira oficial do Palmeiras Online! #PalmeirasOnline #Palmeiras&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdFV0T3pOaWlubFp0UkxLcU1xQVdnOHd0cHM3am1QYnRBa29jbGVtUlBmZTN6MVFsWUJXTGY1ZGstRkt5WWtRS0dCRjN1X1cwSHc?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-07-31T15:00:18.000Z",
-      "whyItMattersKo": "팀의 공식 파트너사가 늘어나면서 구단의 경영 안정성과 마케팅 파워가 강화되었습니다.",
-      "fanTakeKo": "팀이 튼튼해져서 좋네요!",
       "tags": [
         "뉴스",
         "AI요약"
