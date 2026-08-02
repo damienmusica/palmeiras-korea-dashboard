@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-02T21:58:49.424Z",
+  "fetchedAt": "2026-08-02T23:02:26.537Z",
   "season": "2026",
   "campaigns": [
     {
@@ -135,7 +135,7 @@
             "trackedHome": true,
             "matchId": "espn-401873913",
             "score": {
-              "home": 0,
+              "home": 3,
               "away": 0
             }
           },
