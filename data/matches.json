@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-02T20:56:34.612Z",
+  "fetchedAt": "2026-08-02T21:58:49.798Z",
   "items": [
     {
       "id": "espn-762074",
@@ -26559,6 +26559,661 @@
               "starter": false,
               "subbedOut": false,
               "subbedIn": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "espn-401873913",
+      "competition": {
+        "id": "copa-do-brasil",
+        "name": "Copa do Brasil",
+        "nameKo": "코파 두 브라질 (국내컵)",
+        "shortName": "Copa do Brasil",
+        "kind": "cup"
+      },
+      "kickoff": "2026-08-02T19:00Z",
+      "status": "finished",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "round": "1st Leg",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
+      },
+      "away": {
+        "id": "6272",
+        "name": "Fortaleza",
+        "nameKo": "Fortaleza",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "events": [
+        {
+          "minute": 27,
+          "clock": "27'",
+          "type": "yellow",
+          "team": "home",
+          "player": "Murilo"
+        },
+        {
+          "minute": 43,
+          "clock": "43'",
+          "type": "yellow",
+          "team": "away",
+          "player": "João Ricardo"
+        },
+        {
+          "minute": 45,
+          "clock": "45'",
+          "type": "sub",
+          "team": "away",
+          "player": "Rodrigo Santos",
+          "detail": "Ronald Falkoski"
+        },
+        {
+          "minute": 45,
+          "clock": "45'",
+          "type": "sub",
+          "team": "away",
+          "player": "Nathan Fogaça",
+          "detail": "Luiz Fernando"
+        },
+        {
+          "minute": 48,
+          "clock": "48'",
+          "type": "goal",
+          "team": "home",
+          "player": "Maurício"
+        },
+        {
+          "minute": 61,
+          "clock": "61'",
+          "type": "sub",
+          "team": "away",
+          "player": "Welliton",
+          "detail": "Vitinho"
+        },
+        {
+          "minute": 64,
+          "clock": "64'",
+          "type": "goal",
+          "team": "home",
+          "player": "Jhon Arias"
+        },
+        {
+          "minute": 69,
+          "clock": "69'",
+          "type": "sub",
+          "team": "home",
+          "player": "Vitor Roque",
+          "detail": "Ramón Sosa"
+        },
+        {
+          "minute": 69,
+          "clock": "69'",
+          "type": "sub",
+          "team": "home",
+          "player": "José Manuel López",
+          "detail": "Maurício"
+        },
+        {
+          "minute": 70,
+          "clock": "70'",
+          "type": "sub",
+          "team": "home",
+          "player": "Arthur Gabriel",
+          "detail": "Joaquín Piquerez"
+        },
+        {
+          "minute": 70,
+          "clock": "70'",
+          "type": "sub",
+          "team": "away",
+          "player": "Rodriguinho",
+          "detail": "Lucas Sasha"
+        },
+        {
+          "minute": 75,
+          "clock": "75'",
+          "type": "yellow",
+          "team": "away",
+          "player": "Gabriel Fuentes"
+        },
+        {
+          "minute": 76,
+          "clock": "76'",
+          "type": "sub",
+          "team": "home",
+          "player": "Felipe Anderson",
+          "detail": "Allan Andrade"
+        },
+        {
+          "minute": 76,
+          "clock": "76'",
+          "type": "sub",
+          "team": "away",
+          "player": "Lucas Crispim",
+          "detail": "Paulo Baya"
+        },
+        {
+          "minute": 83,
+          "clock": "83'",
+          "type": "sub",
+          "team": "home",
+          "player": "Lucas Evangelista",
+          "detail": "Jhon Arias"
+        },
+        {
+          "minute": 85,
+          "clock": "85'",
+          "type": "goal",
+          "team": "home",
+          "player": "José Manuel López"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "side": "home",
+          "formation": "3-4-2-1",
+          "starters": [
+            {
+              "name": "Carlos Miguel",
+              "nameKo": "Carlos Miguel",
+              "number": 1,
+              "pos": "G",
+              "line": "GK",
+              "starter": true,
+              "formationPlace": 1,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Murilo",
+              "nameKo": "Murilo",
+              "number": 26,
+              "pos": "CD",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 5,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Alexander Barboza",
+              "nameKo": "Alexander Barboza",
+              "number": 2,
+              "pos": "CD-L",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 4,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Emiliano Martínez",
+              "nameKo": "Emiliano Martínez",
+              "number": 32,
+              "pos": "CD-R",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 6,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Marlon Freitas",
+              "nameKo": "Marlon Freitas",
+              "number": 17,
+              "pos": "CM-L",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 8,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Andreas Pereira",
+              "nameKo": "Andreas Pereira",
+              "number": 8,
+              "pos": "CM-R",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 7,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Joaquín Piquerez",
+              "nameKo": "Joaquín Piquerez",
+              "number": 22,
+              "pos": "LM",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 3,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Allan Andrade",
+              "nameKo": "Allan Andrade",
+              "number": 40,
+              "pos": "RM",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 2,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Ramón Sosa",
+              "nameKo": "Ramón Sosa",
+              "number": 19,
+              "pos": "F",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 9,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Jhon Arias",
+              "nameKo": "Jhon Arias",
+              "number": 11,
+              "pos": "CF-L",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 11,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Maurício",
+              "nameKo": "Maurício",
+              "number": 18,
+              "pos": "CF-R",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 10,
+              "subbedOut": true,
+              "subbedIn": false
+            }
+          ],
+          "bench": [
+            {
+              "name": "Luis Felipe",
+              "nameKo": "Luis Felipe",
+              "number": 50,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Arthur Gabriel",
+              "nameKo": "Arthur Gabriel",
+              "number": 56,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Kaique",
+              "nameKo": "Kaique",
+              "number": 21,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Paulinho",
+              "nameKo": "Paulinho",
+              "number": 10,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Lucas Evangelista",
+              "nameKo": "Lucas Evangelista",
+              "number": 30,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Felipe Anderson",
+              "nameKo": "Felipe Anderson",
+              "number": 7,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Vitor Roque",
+              "nameKo": "Vitor Roque",
+              "number": 9,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "José Manuel López",
+              "nameKo": "José Manuel López",
+              "number": 42,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Marcelo Lomba",
+              "nameKo": "Marcelo Lomba",
+              "number": 14,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Agustín Giay",
+              "nameKo": "Agustín Giay",
+              "number": 4,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Luiz Benedetti",
+              "nameKo": "Luiz Benedetti",
+              "number": 43,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Khellven",
+              "nameKo": "Khellven",
+              "number": 12,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            }
+          ]
+        },
+        "away": {
+          "side": "away",
+          "formation": "4-3-3",
+          "starters": [
+            {
+              "name": "João Ricardo",
+              "nameKo": "João Ricardo",
+              "number": 1,
+              "pos": "G",
+              "line": "GK",
+              "starter": true,
+              "formationPlace": 1,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Lucas Xavier Gazal",
+              "nameKo": "Lucas Xavier Gazal",
+              "number": 3,
+              "pos": "CD-L",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 6,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Neris",
+              "nameKo": "Neris",
+              "number": 23,
+              "pos": "CD-R",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 5,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Gabriel Fuentes",
+              "nameKo": "Gabriel Fuentes",
+              "number": 18,
+              "pos": "LB",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 3,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Maílton dos Santos",
+              "nameKo": "Maílton dos Santos",
+              "number": 22,
+              "pos": "RB",
+              "line": "DEF",
+              "starter": true,
+              "formationPlace": 2,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Lucas Sasha",
+              "nameKo": "Lucas Sasha",
+              "number": 88,
+              "pos": "CM",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 4,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Pierre",
+              "nameKo": "Pierre",
+              "number": 5,
+              "pos": "LM",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 8,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Ronald Falkoski",
+              "nameKo": "Ronald Falkoski",
+              "number": 8,
+              "pos": "RM",
+              "line": "MID",
+              "starter": true,
+              "formationPlace": 7,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Luiz Fernando",
+              "nameKo": "Luiz Fernando",
+              "number": 32,
+              "pos": "F",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 9,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Paulo Baya",
+              "nameKo": "Paulo Baya",
+              "number": 77,
+              "pos": "LF",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 11,
+              "subbedOut": true,
+              "subbedIn": false
+            },
+            {
+              "name": "Vitinho",
+              "nameKo": "Vitinho",
+              "number": 11,
+              "pos": "RF",
+              "line": "FWD",
+              "starter": true,
+              "formationPlace": 10,
+              "subbedOut": true,
+              "subbedIn": false
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ryan",
+              "nameKo": "Ryan",
+              "number": 37,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Lucas Crispim",
+              "nameKo": "Lucas Crispim",
+              "number": 10,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Rodriguinho",
+              "nameKo": "Rodriguinho",
+              "number": 75,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Juan Miritello",
+              "nameKo": "Juan Miritello",
+              "number": 9,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Rodrigo Santos",
+              "nameKo": "Rodrigo Santos",
+              "number": 29,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Maurício Júnior",
+              "nameKo": "Maurício Júnior",
+              "number": 13,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Tomás Cardona",
+              "nameKo": "Tomás Cardona",
+              "number": 6,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Vinicius",
+              "nameKo": "Vinicius",
+              "number": 25,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Welliton",
+              "nameKo": "Welliton",
+              "number": 31,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Nathan Fogaça",
+              "nameKo": "Nathan Fogaça",
+              "number": 17,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": true
+            },
+            {
+              "name": "Paulo Ricardo",
+              "nameKo": "Paulo Ricardo",
+              "number": 28,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
+            },
+            {
+              "name": "Luan",
+              "nameKo": "Luan",
+              "number": 4,
+              "pos": "SUB",
+              "line": "MID",
+              "starter": false,
+              "subbedOut": false,
+              "subbedIn": false
             }
           ]
         }
