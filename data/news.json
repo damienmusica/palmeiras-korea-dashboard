@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-02T02:52:10.520Z",
+  "fetchedAt": "2026-08-02T06:02:14.245Z",
   "items": [
     {
       "id": "gnews-8-https://news.google.com/rss/articles/CBMizAFBVV95cUxNODdmbEVYRFZkbXE3QnBIeTl1M3RWejNzMTBBQ0Z0eDZaYnhQS1k5X000amV",
@@ -9,11 +9,75 @@
       "summaryKo": "파우메이라스 여자부, 인테르전 실시간 중계",
       "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 14 | Campeonato Brasileiro Feminino&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODdmbEVYRFZkbXE3QnBIeTl1M3RWejNzMTBBQ0Z0eDZaYnhQS1k5X000amVlWC1MWmpVYXV4QmtYLWszV09waXJiVDNmd1JqbHE3U3VTYl9LcVhldERDNE9kdmc2UGdtWHNBV0ZfZ3JlRDY2R0F5eE5ha1B6elV2MXVGcnQ0UUE4WGlKOE9nNDdrcWdNVTJrY0s5RzRpM2x4SEpPdm40QkV5QVNJVm1ZZ2FWbm9STVBhZ3lRVzJFSDg0bmdKN3JQYmcwU04?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
-      "publishedAt": "2026-08-02T02:48:53.000Z",
+      "publishedAt": "2026-08-02T05:51:06.000Z",
       "whyItMattersKo": "브라질 여자 리그 순위 경쟁이 치열한 가운데 파우메이라스의 이번 결과가 중요합니다.",
       "fanTakeKo": "파우메이라스 여자부 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcE9FT0QzQ2VpZFpmRGRLTGdVRm9YV3RnLXYzcU9BYXpJd2N0WC1HQndwLW1",
+      "title": "Grêmio vai devolver Caio Paulista ao Palmeiras? Entenda a situação do lateral - terra.com.br",
+      "summaryKo": "그레미우, 카이우 파울리스타 반환 검토",
+      "excerpt": "Grêmio vai devolver Caio Paulista ao Palmeiras? Entenda a situação do lateral&nbsp;&nbsp;terra.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcE9FT0QzQ2VpZFpmRGRLTGdVRm9YV3RnLXYzcU9BYXpJd2N0WC1HQndwLW1VSFhiTngtczI4TWNFSWZQZXpYbVlhazctSkNTeGlvZWJ4UXJlemtoN0RiMWFrblNDNDltdEs1VUxNejA3OU9xNXE4bkJMUGdpTE04VFlmTURWRnhXaXdocUVRSVhaVDJwVFh1NTlZZ2xIdkRYT2NjbWVab0dxOUJVcnlJVE1TQnB1RlpqQ2RPVEJzYTBpODNMMHMtYnZraElRWXptbkJhakl4b0VUckZjRml5cGxXR20tQmdrT1hnYW9PSkpkRUhiY1E?oc=5",
+      "source": "terra.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-02T05:16:00.000Z",
+      "whyItMattersKo": "임대 복귀 여부는 팀의 사이드 백 전력 보강에 중요한 변수가 됩니다.",
+      "fanTakeKo": "카이우 파울리스타 복귀 기대!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWlzMXlUXzV5Ui1QTGk4LVo2Y1NUMGUyeVNsQ05zRnRhUlhaX0J2dUxOLXQ",
+      "title": "Palmeiras recebe o Fortaleza com retorno de Paulinho no duelo pelas oitavas da Copa do Brasil - R7 Esportes",
+      "summaryKo": "파우메이라스, 포르탈레자전에 파울리뉴 복귀",
+      "excerpt": "Palmeiras recebe o Fortaleza com retorno de Paulinho no duelo pelas oitavas da Copa do Brasil&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWlzMXlUXzV5Ui1QTGk4LVo2Y1NUMGUyeVNsQ05zRnRhUlhaX0J2dUxOLXQyUFFJUWlrN1RGMFZUMmNRT2RvSG43M2pZdkYxOTBET1diWDNHOWVBNE9GNDRramVlbXAwYy1EMmFVdWpBaWRkMGU2dHRobzA1QXcyOHp0Zzgza2M3cTM0ZzZPRWRaY2w4TV9mMi10am9qQWk3a2Fhc2VRejNWWGhFWmhUbmxFVmFxRWtPOHgyS0dSRnl6UXRWVVFaN052bWFOaXcx?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-08-02T05:00:00.000Z",
+      "whyItMattersKo": "주전 미드필더의 복귀는 코파 두 브라실 16강전 승리에 큰 힘이 됩니다.",
+      "fanTakeKo": "파울리뉴 복귀로 이길 수 있죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1wFBVV95cUxObU42YkNMdVEteDJwYmNVRzQ4LVA3TXdIcWtRZVN3T0FLTXJ6WFNnZjE0OXN",
+      "title": "Flamengo entra em debate e vê Palmeiras \"reiteradamente beneficiado\" pela arbitragem - O POVO+",
+      "summaryKo": "플라멩구, 파우메이라스 심판 수혜 논란 제기",
+      "excerpt": "Flamengo entra em debate e vê Palmeiras \"reiteradamente beneficiado\" pela arbitragem&nbsp;&nbsp;O POVO+",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObU42YkNMdVEteDJwYmNVRzQ4LVA3TXdIcWtRZVN3T0FLTXJ6WFNnZjE0OXNBaWpRWXkyeU80dGUzbGY4Ukw4c2tPTzRFLTNBTGFTWVVzNGZpcWkzU052M0N6X2FQOC1VdmdHSDc0bG0zU2ZoRUoyeXJkajJpYmJsMlhUaWhnVEtLVVVlRFhsRjlXNXB4NGE4cTBmNmdNN3dHeDFWVXFhdVpWVy1uZFlJNDZzckZ3US14b2ExY1AzNFdtWEpkTTVqR0h5REdBbXA5MjQ5VEFVRQ?oc=5",
+      "source": "O POVO+",
+      "language": "pt",
+      "publishedAt": "2026-08-02T04:00:00.000Z",
+      "whyItMattersKo": "심판 판정 논란은 리그 분위기와 팀 간의 경쟁 심리에 영향을 줍니다.",
+      "fanTakeKo": "변명은 그만하고 싸우자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNTh",
+      "title": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil - ge",
+      "summaryKo": "파우메이라스, 포르탈레자와 코파 두 브라질 16강전",
+      "excerpt": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNThwRS1wUS1BVjhCbVl1NUFCSUhXdGpTQl9FVE1vbjJFSFF0Mi1qMXFGR2QwMnV4eE1ucVFSZTk4VHJiaVNhNGF0MHBXZXpPeGVxdkh6T3JjRWRkdk5kbUdnNnNzdmRwUQ?oc=5",
+      "source": "ge.globo.com",
+      "language": "pt",
+      "publishedAt": "2026-08-02T03:27:12.000Z",
+      "whyItMattersKo": "토너먼트인 코파 두 브라질 16강 탈락을 피해야 다음 라운드에 갑니다.",
+      "fanTakeKo": "반드시 이겨야 하는 경기네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -57,9 +121,9 @@
       "summaryKo": "브라질레이렁, 파우메이라스와 플라멩구 우승 유력",
       "excerpt": "Líderes do Brasileirão, Palmeiras e Flamengo são favoritos para vencer o campeonato&nbsp;&nbsp;R7",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEEtVXBIejlya3RMUG8zc2FWSzdDN2Noc2c2bXJoUGRPWU5fcUItczhqNFd4NXhTWk91M3VRbVUxWDEtejRJTm5qMnFJWjNBMld4MzZ2Q3NRcVhsbDN0c1pHNGtNWXJLOFpBdFJ3M2wxcEUwTHBxUG1nS0hzWXhEc3YydXhMbENkbS1tQm53aXpaajV6NldZV1RpUzNFWVZQT1FjTmdaTVJqYll1OElNdXJxZDIzSElrZXNjZVJzUjNYcDZXX19paDNJNA?oc=5",
-      "source": "R7",
+      "source": "noticias.r7.com",
       "language": "pt",
-      "publishedAt": "2026-08-02T00:33:42.000Z",
+      "publishedAt": "2026-08-02T00:44:00.000Z",
       "whyItMattersKo": "두 팀이 선두권을 고수하며 리그 우승을 향한 가장 강력한 경쟁자로 평가받고 있습니다.",
       "fanTakeKo": "우승은 우리 차지라고 믿어 의심치 않아요!",
       "tags": [
@@ -180,12 +244,28 @@
       ]
     },
     {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdm0yQ094dG1PZHg5TGtLYWZqWVh0T2ZLZHFBSjllb0hMbU1MUHJqQlMzNW",
+      "title": "Vitória “provoca” Palmeiras e diz que denúncia contra Maurício expõe erro da arbitragem - Correio do Povo",
+      "summaryKo": "비토리아, 파우메이라스 도발하며 심판 오류 주장",
+      "excerpt": "Vitória “provoca” Palmeiras e diz que denúncia contra Maurício expõe erro da arbitragem&nbsp;&nbsp;Correio do Povo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdm0yQ094dG1PZHg5TGtLYWZqWVh0T2ZLZHFBSjllb0hMbU1MUHJqQlMzNWh1ejI2NlFPNXBhdV9JMlNxdVdZRFEyaVE1OHVJNE1hYUJrYklIR1BjVGJFWHVGelI0YVJGbDI4dmg2Snljb1hvZXd2NTFweTY3Xzd2eXZpWTFUZUgwTjB6V2xuSHhZT3RMMDJzMXR6VVF2TDBoOTdGTXFYOGthUjVkNmZWZHI1WjlqRV9VRHk4NWdjaVQ4TUNXMm9WQWlNQk9GVXNLREpj?oc=5",
+      "source": "Correio do Povo",
+      "language": "pt",
+      "publishedAt": "2026-08-01T22:47:29.000Z",
+      "whyItMattersKo": "상대팀의 도발과 심판 오류 주장은 불필요한 논란을 키울 수 있습니다.",
+      "fanTakeKo": "신경 쓰지 말자 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-11-https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdEgyajRHR09IZWZwSFJVVUZlRUhuLVl6elNOaDAxQXBTMjVlc3NzQVJ0Z3",
       "title": "Escalação do Palmeiras: Paulinho volta, e Abel tem dúvida na defesa contra o Fortaleza - ge",
       "summaryKo": "파울리뉴 복귀, 아벨 감독 수비 조합 고민",
       "excerpt": "Escalação do Palmeiras: Paulinho volta, e Abel tem dúvida na defesa contra o Fortaleza&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdEgyajRHR09IZWZwSFJVVUZlRUhuLVl6elNOaDAxQXBTMjVlc3NzQVJ0Z3RCNzd0Y193NVlkSVZ1a091RGQtc3pMNGxqVXExTXF4bXVtOWFQdTcxUVpuQTRvNkNRWV9iUVdyZDFsQmdrYlZUenNiNnNqTkFsalc3WHRic3h0dDBTNWxKS0hUQngwSnJTRGFJNEt0YzJIdW5fck10cHJBRExZZU9YaklxTC0zZjVIQVNqZWJYcGlDcFFZVF83WTlzVVkwUXh5bEFFUWZpWWp3VzFYaGJSV0ZYOFkxUU5fLVRNT2fSAfgBQVVfeXFMTndUVUpGTHRJM1dWWk02ckV2aFY1cGVNMml0Q1JwZXNhYnJfNFNPNXJnN0gtVHFyNVQtWTF1UmxaSlJ2UkpCWko1TVk2cGk4cDB6UkZfWDVIS2xGbTliRnRGWDM1Q1dqS2JUWGxMcGkyeWNudTlCdjkyT3JBTnphbm94NnVpNmRDMG5qekVLeDlEbEVsZ3lTOFdvLVFaNktfVDVvdS1qc3pwM05tX3gyVXFQYURaNEh0QTBQdlNBQmZ1WWN3ZGhic2k2UGZtNndOQlBSMkpjVENWc0NrWUVDWi1xWVp2QTl1Q25DMGVlTi1RSDdFSkdINDQ?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-01T22:47:13.000Z",
       "whyItMattersKo": "주전 미드필더의 복귀와 수비 조합 변경은 포르탈레자전 승패에 큰 영향을 줍니다.",
@@ -505,7 +585,7 @@
       "summaryKo": "여자 브라질레이렁, 파우메이라스전 중계 안내",
       "excerpt": "Palmeiras x Internacional no Brasileiro Feminino: onde assistir ao vivo e horário&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWGpWX0RvTDIxamtLOHNJRHN0WnRHT3dBRlVyQnlta3c1TjhROGUtYVNKX25HMjZsWVlLdnBLWUROVmo1clJjQzE5S3dkTmJwOERLMHVWSl9hb0VROV90NDRFQUNlNG1UenFmcm1YdldxRGJYMDJNRHE1cjVYaU8zNFlval9JdUhJSmwzZHEzb05TRFFqUUgtZVpJVmZTWnIzRkVwaVQzSzRfU2VxSkRxQ0RQZE1nYlJEMVVEMXVUQ3FncXpMcFNLak8td2c0NmxPTk5hTmE2b1ExZkx0Nmh2RlkwaENudjVTVFVXVE5meDBEWkhvWkZJVlRJOFFnYkpyeFQ3SzVidTk3NTN5LVBrQkwxekM0OVBjN25iQdIBqwJBVV95cUxOWGFDQ201Y0R6a2J6ZnlVN01jSi15U0ZJdkNkXzB6RkNFTUFnR1hOdVM5ZUppTnpKYXlNd1BJclhxeHdjblhIc3NHTjhLbFl6by1xamxrbWhfd29zMWZoWDN2bzMyZzk5UE1oWU9rQmRqR1Y5Y19UVWV0eldIOVl2SWtTei1uS3lGWkRxUlFsY01ySVd3OEc3TU02SGRZaVRBRnlNakNiU1lhM21MekFXd0Z3UHJfTTJWSVJ0V3FJY3NaUVI5T0hfdTIwWTlpbHVGbXFWcmlOdmVYMWdiUGo2RnpqWGs5UHZYZHNqYnFwWXJnaHpzcUhOSWM4eHItOEJUbE9oRVZYeHMxbDBOMmkwN1FiUHBSTURwWnBMNnVORzV6NjJNLUhVMENQaw?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-01T21:00:08.000Z",
       "whyItMattersKo": "여자 축구팀의 리그 경기 중계 정보를 알아 팬들이 응원할 수 있습니다.",
@@ -649,7 +729,7 @@
       "summaryKo": "비토리아, 마우리시오 고발 관련 STJD 칭찬",
       "excerpt": "Vitória parabeniza STJD após denúncia contra Mauricio, do Palmeiras&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSllPaTNzazZhNTJSNFFMZWZUWktNZnJNYzFzMHVvQjNZbWFZRkJudzJWQWVEWFhoOHZvamgtejRZX0M1UGptVnBwbVVhdlJkcXA1LWJhRks3S0dEcjIzQmZzaEI2ME5xQ0ZWSDNHcW02R2MtSHFJQmZSNW9vOEZ0NWxuOUxUM2hVb01nMkN5TE9WRnlNNm9ibXBubU0wMUg4RHZHdUtlLXVMb0FKOV9zVWVwTEJ1Tk5L?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-01T20:40:50.000Z",
       "whyItMattersKo": "상대 선수의 징계를 둘러싼 갈등이 스포츠 재판소까지 넘어가며 파장이 커지고 있습니다.",
@@ -697,7 +777,7 @@
       "summaryKo": "플라멩구, 파우메이라스 혜택 인식 언급하며 규칙 준수 촉구",
       "excerpt": "Flamengo diz que há percepção de benefícios da arbitragem ao Palmeiras: \"Regras devem ser cumpridas\"&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQWZtbGxramtUMFJORnk0WkpTd2UwYjFCRldIZURmbzF4OWEtUjdNMnFnZ3NUNnNFTFNrTDVCejU2cUduVU5FalBySjgxWEZVaGlPOVVkNlZwQ2Nma25FbW1TZWZENjgyenNHeE5FT0NUaklFSENteVZxVlB2UEpXQ2V5RC1md21kSG9KX25RU1FMbTYyVDFOU192T2RvV3RpQ0RoVGw5RkFDbnNYZHh6LWhKand4dVJSZkxYdnJ5ZmliS2pfX0tPWU4tRHVNdHJDdzk2TEVPeG9qZC1nR25PREIyTUJMUWtqSmd6NWRabTVMcjcyUTJhWWRn0gGIAkFVX3lxTFBrYWFsOGJLcS14UDlDRWk5cm9uODE5X2NzZHlyYmt3cVlDQ18tVEtMRVVjaXJidUxBQi12Zkdjemt4Y0NzNUUtQTdqd2UyczE3eVVxU25vWGRsMUdfWHlNQ09iOUkzeGJiU2t2S0tzb0dGSmQwVVROMVBvdDBraGdhb04wejZKSVZib1BSeUZUTVFLYm1jcUdLTVVfdVRUazJSRVhnVjV2Nk1mZ2M0eXMtLUt6aUVqSzdWUnBPaFlMeUdiczRZem5rcTJMZjhyNmg0cXVtN21CNV93bUtBUkVGeENMV1FudFBvY1NiSURNclV0MWhPOUJjbXhvTG5jWVpXQkR6SXVRMQ?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-01T20:10:36.000Z",
       "whyItMattersKo": "상위 팀 간의 갈등이 심판 판정 공방으로 번지며 경기 외적인 이슈가 커지고 있습니다.",
@@ -734,6 +814,22 @@
       "publishedAt": "2026-08-01T19:55:48.000Z",
       "whyItMattersKo": "선수의 징계 위기로 인해 앞으로의 경기력과 팀 분위기에 타격이 예상됩니다.",
       "fanTakeKo": "제발 징계는 없었으면 좋겠다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjZnMHVQQVdodU11UHRQamdoRUN2MkplWGxnbVo5ZUE5Yy1DZ0M2U0I1bD",
+      "title": "Palmeiras aceita proposta de 45 milhões de euros para vender Allan - jornalcruzeiro.com.br",
+      "summaryKo": "파우메이라스, 알란 4500만 유로 이적 제안 수락",
+      "excerpt": "Palmeiras aceita proposta de 45 milhões de euros para vender Allan&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjZnMHVQQVdodU11UHRQamdoRUN2MkplWGxnbVo5ZUE5Yy1DZ0M2U0I1bDhZS29RTDZpbzBTNFh5bTE5YUhSc2ExLVFtMVZoenZTeVE2NFU3cWVjWmVacWNPTklfOTVZTmE2MlJ1YjVvTWlWZ29yanVIcTZaTHB6TF9QYWhfU2I4amF2NkR3dFpvQkh0cUZ3MGRPR3FvSWI1VXgzZDNnbVBjX0c3SU5hX2N3?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-01T19:54:00.000Z",
+      "whyItMattersKo": "큰 이적료를 확보하지만, 핵심 선수를 잃어 팀 전력에 공백이 생길 수 있습니다.",
+      "fanTakeKo": "알란은 꼭 남아줘야 하는 선수잖아!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -860,100 +956,6 @@
       "publishedAt": "2026-08-01T18:37:48.000Z",
       "whyItMattersKo": "팔꿈치 플레이로 인한 징계 소식에 구단이 즉각 대응하며 선수를 감쌌습니다.",
       "fanTakeKo": "마우리시오, 괜찮겠죠?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUcwV0FFLUJfUlpGeVV3bXBpd0h5M19XUzhsY0VHZGZEdUdjeEdNOWp0RjF",
-      "title": "Palmeiras enfrenta Fortaleza para reduzir necessidade de vendas; entenda - ABCD Jornal",
-      "summaryKo": "파우메이라스, 포르탈레자전 승리로 선수 매각 압박 줄인다",
-      "excerpt": "Palmeiras enfrenta Fortaleza para reduzir necessidade de vendas; entenda&nbsp;&nbsp;ABCD Jornal",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUcwV0FFLUJfUlpGeVV3bXBpd0h5M19XUzhsY0VHZGZEdUdjeEdNOWp0RjFycHN4M2MtODNqdm93LUF6QXd4eW80Q2JSbXQzQi1MQlY4OGN3X0l5UVU2S0dPQ3BNeVZRekw2MEVTUG5JUWVYY0VuWFE4VFdwbXppb0l4WjYyMXQ3MDdqRlNaLUM1ZEo2VXk2VUlCc0t3clZyOXJEVk85cEdKWVktX1E?oc=5",
-      "source": "ABCD Jornal",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:37:16.000Z",
-      "whyItMattersKo": "승리가 곧 수익이라, 이길수록 재정난을 해소하고 주력 선수를 지킬 수 있습니다.",
-      "fanTakeKo": "돈 때문에 선수 팔기 싫어요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMizwFBVV95cUxPclJVSFNYckpRVmNNTklNYWtQNDZjdWxlSFh6cXo5UkpzY2ZhcEZ1amg1NlB",
-      "title": "Maurício, do Palmeiras, e trio do Vitória são denunciados pelo STJD por cotovelada e expulsões em jogo do Brasileirão - ESPN Brasil",
-      "summaryKo": "파우메이라스 마우리시우, 고발당해 출전 위기",
-      "excerpt": "Maurício, do Palmeiras, e trio do Vitória são denunciados pelo STJD por cotovelada e expulsões em jogo do Brasileirão&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclJVSFNYckpRVmNNTklNYWtQNDZjdWxlSFh6cXo5UkpzY2ZhcEZ1amg1NlBRLTA3a2E0X3o3MEpqOW01NjhSNUl0VEM4TkNaVk11aWw1TjNhbm05ME5EYzd1aDRiekdfR2FTV09GQXF6V0gzRHRXRGk4dllyZGVoZmQ2X19abUdaTzY0aXFMR2V0RmE2YmNMNEFTUDlYYS01eXJlTG5QdlhPTDBjLXgwa250Wk9Yc0p4czlfLUZOWkl5a2t0ZWp6Skk2UnE5SEU?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:37:00.000Z",
-      "whyItMattersKo": "주전 선수의 징계 가능성은 팀 전력에 큰 타격이 되어 향후 일정에 영향을 줍니다.",
-      "fanTakeKo": "마우리시우만큼은 징계 면했으면 좋겠어요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUtsSVdKMHZqeUxpVi1zTjZORVpTTEg3NG8zMkJwOVlhMHE5d0NyWTRBV1p",
-      "title": "Palmeiras x Fortaleza: onde assistir, escalações e arbitragem - Terra",
-      "summaryKo": "파우메이라스전 시간과 선발 명단 확인하세요",
-      "excerpt": "Palmeiras x Fortaleza: onde assistir, escalações e arbitragem&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUtsSVdKMHZqeUxpVi1zTjZORVpTTEg3NG8zMkJwOVlhMHE5d0NyWTRBV1pYVXRyVmZqY0F2amtwbWc5cFRRQmlHWldzQnhESm0yTzBYNm1sWGxnbWROcjJOMUNxcWdhUS1ZN3NTU0pvUkRteVFDSmpUM3RReXR6RW5Pd2RzTnIwVEFoTXZwWFFFbS0wU1JMMkNRX2ZTcEpMbXAzOW1TazRrVDBuaE1ReXh5Z1NFY2tqREJDLVRGUVJjRUg0S1ltNDdEeUdwcDB6ZzIzMFFtYmEzOXRKSFkyMlNsbw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:34:00.000Z",
-      "whyItMattersKo": "경기 시간과 선발 명단을 미리 확인하면 경기 관람을 위한 준비를 할 수 있습니다.",
-      "fanTakeKo": "오늘 경기 꼭 보러 가야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMikwJBVV95cUxNRlhnTG1ZWUFGLXhRMVowcjk5RGVOQVhaU0NDb2ZiSXpTWUxJaGxZZ3dkN1R",
-      "title": "Palmeiras se manifesta sobre denúncia contra Maurício no STJD: 'Para que servem o árbitro e o VAR?' - Terra",
-      "summaryKo": "파우메이라스, 마우리시우 고발에 심판 판정 따져 묻다",
-      "excerpt": "Palmeiras se manifesta sobre denúncia contra Maurício no STJD: 'Para que servem o árbitro e o VAR?'&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRlhnTG1ZWUFGLXhRMVowcjk5RGVOQVhaU0NDb2ZiSXpTWUxJaGxZZ3dkN1RlMkxvb0FkeWdmZVFQODJUV1dCMG1fMi1MdWJRVkdCa284NHhWNjlMR0Njc21OUkpFYnhDS3R4c3ltUHBmOU9mbjAtc2tINmJ1QWpNTUFFZy1lTExNTV9vVlRvamJfb19zZ0NadmN0Y2M3YWxFYnZjVmxNOXBpY3ZIT09xelQzYklvci1RaGxpVTZkOFRhUVIzODIwdDlGeTRTWlgtejFWcEpWa05MdjVnR0NhVHVuMGRPWVlLNm9SS0ltT2dOWDVnU2pjYXR0bklPc0otRkRiS19DN3VqS01pSEdXRWJGQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:33:00.000Z",
-      "whyItMattersKo": "구단의 강력한 항변은 선수 보호와 불공정 판정에 대한 불만을 보여줍니다.",
-      "fanTakeKo": "구단이 나서서 싸워주니 든든하네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMi8AFBVV95cUxONU0tQ0hQQnc0dU93Qkw3S1N2QnlMc2w5bnczSUxOZVg1ejlVOXJfeXFLUD",
-      "title": "[canais de futebol] resultado ao vivo jogo do palmeiras hoje futemax multicanais+🃏.news – Apps no Google Play - esporte.ce.gov.br",
-      "summaryKo": "[soccer channels] live result palmeiras game today futemax multichannel +🃏 .news – Google Play의 앱 - esporte.ce.gov.br",
-      "excerpt": "[canais de futebol] resultado ao vivo jogo do palmeiras hoje futemax multicanais+🃏.news – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONU0tQ0hQQnc0dU93Qkw3S1N2QnlMc2w5bnczSUxOZVg1ejlVOXJfeXFLUDdCX2RWYWJ3NDNTNm5zcmVLUnNiVkp5OHZrdEFuRVpLOUJ1NGd6TVBEaExKWHN5dVhiWHVrbEoyOTFGQ0x0b2RUZVNUWmVGMjBEY1psTlhjV1NTM1pBdDVYYy16MWxXczBkNkdjNzdsUFJ2TEpid1N3dTN5aE1DcjlwTDVhcTJtb041ODE1aTI4VG9JTzRRXzBZQVIyalpLdGctNjY0OVVVcHZaLWhvclZub2RDZDVGLVNuYWFYREw1OTZ6Q2Y?oc=5",
-      "source": "esporte.ce.gov.br",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:32:43.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNTh",
-      "title": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil - ge",
-      "summaryKo": "파우메이라스, 포르탈레자와 코파 두 브라질 16강전",
-      "excerpt": "Ao vivo: Palmeiras x Fortaleza | 8ª de final | Copa do Brasil&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9rSm1NbTUyU2JNWWt0S1FoT3RyWmhfTzdzWFE4RFdqa3djdkxsRDRtNThwRS1wUS1BVjhCbVl1NUFCSUhXdGpTQl9FVE1vbjJFSFF0Mi1qMXFGR2QwMnV4eE1ucVFSZTk4VHJiaVNhNGF0MHBXZXpPeGVxdkh6T3JjRWRkdk5kbUdnNnNzdmRwUQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-01T18:26:02.000Z",
-      "whyItMattersKo": "토너먼트인 코파 두 브라질 16강 탈락을 피해야 다음 라운드에 갑니다.",
-      "fanTakeKo": "반드시 이겨야 하는 경기네요.",
       "tags": [
         "뉴스",
         "AI요약"
