@@ -20,16 +20,8 @@ export interface AvailabilityOverride {
   evidence: string;
 }
 
-const OVERRIDES: AvailabilityOverride[] = [
-  {
-    key: normKey("Vitor Roque"),
-    status: "injured",
-    statusNoteKo:
-      "왼쪽 발목 인대 부상으로 2026년 5월 1일 수술. 재활 순조로워 7월 말~8월 초 복귀가 목표입니다.",
-    evidence:
-      "Left-ankle syndesmosis injury (2026-04-23 vs Jacuipense, Copa do Brasil), surgery 2026-05-01. As of late June 2026 (antenadosnofutebol/correiobraziliense/gazetaesportiva/terra): off crutches/boot, ball work resumed, club's internal target is fully available for official matches late July–early August 2026. Verified 2026-07-02.",
-  },
-];
+/** Currently active overrides. Empty means the ingest's status stands as-is. */
+export const OVERRIDES: AvailabilityOverride[] = [];
 
 const byKey = new Map(OVERRIDES.map((o) => [o.key, o]));
 
