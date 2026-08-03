@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-02T23:02:26.537Z",
+  "fetchedAt": "2026-08-03T00:55:36.962Z",
   "season": "2026",
   "campaigns": [
     {
@@ -131,7 +131,7 @@
             "kickoff": "2026-08-02T19:00Z",
             "venue": "home",
             "legKo": "1차전",
-            "status": "live",
+            "status": "finished",
             "trackedHome": true,
             "matchId": "espn-401873913",
             "score": {

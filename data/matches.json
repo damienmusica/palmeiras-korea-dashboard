@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-02T23:02:26.827Z",
+  "fetchedAt": "2026-08-03T00:55:37.724Z",
   "items": [
     {
       "id": "espn-762074",
@@ -27425,6 +27425,32 @@
         "name": "Bahia",
         "nameKo": "Bahia",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png"
+      }
+    },
+    {
+      "id": "espn-401841261",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-10-10T18:00Z",
+      "status": "scheduled",
+      "venue": "home",
+      "stadium": "Allianz Parque",
+      "home": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
+      },
+      "away": {
+        "id": "874",
+        "name": "Corinthians",
+        "nameKo": "Corinthians",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png"
       }
     }
   ]
