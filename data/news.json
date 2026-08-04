@@ -1,15 +1,79 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-03T23:36:57.560Z",
+  "fetchedAt": "2026-08-04T02:37:10.915Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWhMMHAzZXQ2QWYyR3MyOWFVd19Hc2drek10R21BOWhfalFaQlRFTHJmdEl",
+      "title": "Técnico do Palmeiras critica Fortaleza por mandar jogo em Cuiabá: \"as equipes deviam jogar nas suas casas\" - Só Notícias",
+      "summaryKo": "파우메이라스 감독, 포르탈레자 비판",
+      "excerpt": "Técnico do Palmeiras critica Fortaleza por mandar jogo em Cuiabá: \"as equipes deviam jogar nas suas casas\"&nbsp;&nbsp;Só Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWhMMHAzZXQ2QWYyR3MyOWFVd19Hc2drek10R21BOWhfalFaQlRFTHJmdElBZEdWX2lpdHo1dUpka2Fma0l3RGVpU1A1aE9rb0ZLVFpoaVZ5cWpmaDRUZ3VDY1F6ZHBIM00zcUstRVVPWE5qU19WSGNQMnBDQ3h3dWVxa0FiNzNwX19CY1Q1X1M3U0NTY3VzSnBkLU96VkVSQXA4R3d5Z0lpRnZGTlRVR3dOZ1AwMWFYeEZPRkpCUHlodkFvRlVKcFNOemlqSmVOUTd1ZWhOMEktLXc?oc=5",
+      "source": "Só Notícias",
+      "language": "pt",
+      "publishedAt": "2026-08-04T01:31:00.000Z",
+      "whyItMattersKo": "원정지가 멀어지는 일정은 선수 체력 관리와 경기력 저하에 영향을 줄 수 있습니다.",
+      "fanTakeKo": "멀리 가야 하는 건 정말 피곤한 일이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2pzTERxR1RJSTVEV1hJSjZQSVZ5Q1M2VTZaRThaNWpTUjZvOHpRalp6azF",
+      "title": "Na Academia de Futebol, Palmeiras retoma treinos de olho na sequência do calendário - R7 Esportes",
+      "summaryKo": "파우메이라스, 훈련 재개하고 연전 준비",
+      "excerpt": "Na Academia de Futebol, Palmeiras retoma treinos de olho na sequência do calendário&nbsp;&nbsp;R7 Esportes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2pzTERxR1RJSTVEV1hJSjZQSVZ5Q1M2VTZaRThaNWpTUjZvOHpRalp6azFINDlmbEhUYkpWSjJ0Q3l6SGV6Z1VLQkxrdGhjRmxxdmxzN2s2czRENUU1aEdKeTVaQzFaVVBkdEJKZ19TU20zNFBXbE1XbmFvUnFiMDRwMHdFRzNfWC13Z2xpWkRWOC1ocDhCT1Uyd1JjOXBKVlRncHk3aFVnUnVsc1FDakppRVVTWWFNQ09YbDByaEo2Zw?oc=5",
+      "source": "R7 Esportes",
+      "language": "pt",
+      "publishedAt": "2026-08-04T01:15:43.000Z",
+      "whyItMattersKo": "빡빡한 일정 속 훈련 복귀는 선수들의 컨디션 조절과 전술 점검에 중요합니다.",
+      "fanTakeKo": "쉴 새 없이 경기라 체력 관리가 필수네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzdyNmFjenRVMGItRDV1OFVuV1lRbUxxcXI1SEhMNVRGdFk3cEgyTVBMclE",
+      "title": "Vídeo: presidente do Palmeiras dispara contra o Flamengo - Terra",
+      "summaryKo": "파우메이라스 회장, 플라멩구 향해 맹비난",
+      "excerpt": "Vídeo: presidente do Palmeiras dispara contra o Flamengo&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzdyNmFjenRVMGItRDV1OFVuV1lRbUxxcXI1SEhMNVRGdFk3cEgyTVBMclE0dTFRUWlkSXVKRVljQ21vQ3RHUFBkZkt0M1hmQ0lzcVdiMi1abFB6ejd5a1c3ZDFQTlp4azhXTllBQWEtSjBXX0NBd3IzbWpZMVAycGdyZm5iYWx5YWRMRjdSSjZxWXE3VmxxeGJXcGVXejB1QWFpX1JjVG50bi1Nc0oxRTFxT1hpQkplZml0Zk83VmVQb1dWa243QXJrTTBDcURoQkVjTWdlWVBVTm1UWGc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-04T01:05:00.000Z",
+      "whyItMattersKo": "큰 클럽끼리의 갈등은 리그 분위기를 뜨겁게 하고 팬들의 관심을 끕니다.",
+      "fanTakeKo": "회장님 또 뉴스 만드셨네, 화끈하십니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GT3JFX2ttTUF4QjJReFJXTHJENERXUTdCeUxuTmtITUN1Z1h1OWJlYjlOdm9",
+      "title": "🔥 Ramonzito tá voando! Ramón Sosa vem se afirmando como um dos atletas mais decisivos do elenco alviverde no ano! Autor da assistência que deu início ao triunfo de 3x0 do Palmeiras sobre o Fortaleza, Sosa consolidou um marco individual expressivo: - instagram.com",
+      "summaryKo": "라몬 소사, 포르탈레자전 도움으로 맹활약",
+      "excerpt": "🔥 Ramonzito tá voando! Ramón Sosa vem se afirmando como um dos atletas mais decisivos do elenco alviverde no ano! Autor da assistência que deu início ao triunfo de 3x0 do Palmeiras sobre o Fortaleza, Sosa consolidou um marco individual exp",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GT3JFX2ttTUF4QjJReFJXTHJENERXUTdCeUxuTmtITUN1Z1h1OWJlYjlOdm9VYkE1U2hJNlZUc085ek9XRk9ubHhBNE5Kc0ZMV1E?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-04T01:02:33.000Z",
+      "whyItMattersKo": "핵심 선발 자리를 굳히며 팀 공격력을 책임지고 승리에 큰 기여를 하고 있습니다.",
+      "fanTakeKo": "소사는 우리의 보물이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0xmTVFYREp4NGtjTjczNng5S0lDVVEtY2ctZnhjczcyTjdsbGMxZUNLSVF",
       "title": "Palmeiras x Fortaleza Palpite – Análise e notícias (05/08) - LANCE!",
       "summaryKo": "파우메이라스, 포르탈레자전 분석 공개",
       "excerpt": "Palmeiras x Fortaleza Palpite – Análise e notícias (05/08)&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0xmTVFYREp4NGtjTjczNng5S0lDVVEtY2ctZnhjczcyTjdsbGMxZUNLSVFjM1VnLTN0T1o0VzlIVXBGYzlzVXF4V0wwSl82anFJYl9fRXNWZ2FFdUF2ZVJsRHFVMWZ2bEExdHVLTjFSUUh0Y2thcmR0aDRsUG55M1ZqdkRublVZb0FNZnp6OXJfdw?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-03T22:59:21.000Z",
       "whyItMattersKo": "다가오는 경기를 앞두고 팀 전력과 승부 전략을 파악하는 데 도움이 됩니다.",
@@ -167,7 +231,7 @@
       "summaryKo": "파우메이라스, 고메스와 장기 재계약 추진",
       "excerpt": "Palmeiras avança por renovação a longo prazo de Gómez&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU8waFRWbFluZkFSclQ5dHpZU2l3MVhBRVBEak9vSVlxMEdWS3NtVHlCaDVBU3dzc1ZBbm5LWVRhTFhGcTM3TzJQdVpwbFlvWjJQdFhrOGc4OENMMjNtRVVWcVA1RG83cG9iSE5WaE9UWDNJd0tnV05zQTdBd2c5NlVtMWhleEl5bXdPMVQ4T2kyMnRlT2p2ZW5uQnF6SWc1OGRsU0d4UjJTYkE?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-03T21:23:12.000Z",
       "whyItMattersKo": "주전 선수와 장기 계약을 맺으면 팀 전력 안정화와 미래 계획에 큰 도움이 됩니다.",
@@ -236,6 +300,22 @@
       "publishedAt": "2026-08-03T20:44:43.000Z",
       "whyItMattersKo": "주전 공격수들의 부진과 주역들의 복귀가 겹쳐 선발 명단 구성이 복잡해졌습니다.",
       "fanTakeKo": "공격 조합, 얼른 해결 좀 해라.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2xYVUwzaEtzbjhiOEdvaTZwMjFfZ3BoZmlsMkRIdlJYbFdYdFJwSWkzd1",
+      "title": "Com Sosa, Vasco chegará ao limite de estrangeiros no elenco; veja quem pode perder espaço - GE",
+      "summaryKo": "바스쿠, 소사 영입으로 외국인 쿼터 꽉 찰 듯",
+      "excerpt": "Com Sosa, Vasco chegará ao limite de estrangeiros no elenco; veja quem pode perder espaço&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2xYVUwzaEtzbjhiOEdvaTZwMjFfZ3BoZmlsMkRIdlJYbFdYdFJwSWkzd1cyRjJta1BweHB1akQ2MXVWU1F5dHRnU3dfbkN2M3BPYm9BNzBkWDhVV2EycUQ0QTRULWJ0SU5oLXRBZzNyM0h3QmJkNE00Vno4Rk5uX05RalBseWVqdzAySnZhbmFySGRsWUpnaW5palhhLXFJRkJzb2hxSnlOUWlEZXNPVG50UGM1X01tbGFsZnhjTFQ2dXdfYVo1RVdsLWFUSDF3Ym1JeEhjc3NQQWltTy1TbmRRMGRTQjY50gH3AUFVX3lxTFB0ZkRUVm0wNGZMc01ST3ZNZnFuTmtOSS00aFNNVUlwbnk2clVkYVFMNHg2dEt1SHlxQmZaS1dGUDVQVndQYnRKeU5Ld0dzZmtveXp0SXM3SW00WE5hNjExQzFCUWJCTXM2ajFyeDRnRVBnbFVHTWdqNWJEbGhxSkNiLWhKS1NBeEF0RXdwd0xKdTlmbmdCMTJ1cVRUdVZKckVsSlJkalJTdjlBR0hqSHI2OUZ3clpUS2FQRTlmMWt1QXhyMWU4WXVMLXpGcG9TdXdTclpJUjJHeE5vV3pGR3BhUkpGNXczQlV0ZVR0WW5kRy0zVkk3aFk?oc=5",
+      "source": "GE",
+      "language": "pt",
+      "publishedAt": "2026-08-03T20:37:42.000Z",
+      "whyItMattersKo": "외국인 선수 제한은 팀 내 선수 구성과 경쟁 구도에 변화를 줄 수 있습니다.",
+      "fanTakeKo": "쿼터 찼으니 누가 나갈지 궁금하네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -343,7 +423,7 @@
       "summaryKo": "카를루스 미겔, 50경기 채우고 주전 도전",
       "excerpt": "Carlos Miguel completa 50 jogos pelo Palmeiras e busca Weverton&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWRlRkJ1NThrR2lhdWotSjlfR3k4RWk4S0EzYVpfSzVUdWtBOWF6YklyRzNqZHlZOEhXRDJGdloySDBCVkpQN3dSaEhMT0JoM0FQSGJTOEEzSjJRdjdMeXBpRWthYndyWmtsYkZmdDhkcUxwMmRNZ0NUN2Y4dGNDb0JFS1NDZXBtQ1dial8wRUdmZmhuOFVXQm15c3duNzNlRmFiUFJn?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-03T19:57:27.000Z",
       "whyItMattersKo": "50경기 출전을 달성해 주전 골키퍼 경쟁에 불을 지폈고 팀 내 경쟁 구도를 강화했습니다.",
@@ -396,22 +476,6 @@
       "publishedAt": "2026-08-03T19:16:25.000Z",
       "whyItMattersKo": "두 팀 간의 갈등이 격해지면 리그 전체의 이미지와 분위기에 안 좋은 영향을 줍니다.",
       "fanTakeKo": "어른들 싸움에 팬만 힘들네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GT3JFX2ttTUF4QjJReFJXTHJENERXUTdCeUxuTmtITUN1Z1h1OWJlYjlOdm9",
-      "title": "🔥 Ramonzito tá voando! Ramón Sosa vem se afirmando como um dos atletas mais decisivos do elenco alviverde no ano! Autor da assistência que deu início ao triunfo de 3x0 do Palmeiras sobre o Fortaleza, Sosa consolidou um marco individual expressivo: - instagram.com",
-      "summaryKo": "라몬 소사, 포르탈레자전 도움으로 맹활약",
-      "excerpt": "🔥 Ramonzito tá voando! Ramón Sosa vem se afirmando como um dos atletas mais decisivos do elenco alviverde no ano! Autor da assistência que deu início ao triunfo de 3x0 do Palmeiras sobre o Fortaleza, Sosa consolidou um marco individual exp",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GT3JFX2ttTUF4QjJReFJXTHJENERXUTdCeUxuTmtITUN1Z1h1OWJlYjlOdm9VYkE1U2hJNlZUc085ek9XRk9ubHhBNE5Kc0ZMV1E?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-08-03T19:07:49.000Z",
-      "whyItMattersKo": "핵심 선발 자리를 굳히며 팀 공격력을 책임지고 승리에 큰 기여를 하고 있습니다.",
-      "fanTakeKo": "소사는 우리의 보물이죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -522,6 +586,22 @@
       ]
     },
     {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFNsOVZCYUJQdDE2VFVBdzhZNzhKUGd3NHl1RDA1aTFkUXlqSTRDLWhXLTQ",
+      "title": "Opinião | Palmeiras destoa e sobra enquanto o futebol brasileiro esquece como jogar bola - Estadão",
+      "summaryKo": "파우메이라스, 망가진 브라질 축구 속 유일하게 빛난다",
+      "excerpt": "Opinião | Palmeiras destoa e sobra enquanto o futebol brasileiro esquece como jogar bola&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFNsOVZCYUJQdDE2VFVBdzhZNzhKUGd3NHl1RDA1aTFkUXlqSTRDLWhXLTQ2anR0WWNyMXhpMy1US3llQlJUWjF5SGY0T1BJWFdVTV9YVVAtLVZEX3VqSEIxOWJvT09uQjdxQTFqZTliV0ltVW1sbXdFMnV3S0ZkX2NObS1lbDViTUtCZXpET195TnU3ZUZCQm5mZ3pLWVBCOGJtVVhFbjViWlF4dkV4Slo4emdVOG1rSC1iNVpFYVl4eFNQYUxGV2xvYVlWcC1CS1E?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-08-03T18:26:40.000Z",
+      "whyItMattersKo": "리그 수준이 낮아진 가운데 유일하게 경기력을 유지한다는 평가로 팀의 위상을 보여줍니다.",
+      "fanTakeKo": "다른 팀은 다 망했나 봐요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-5-https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVRFNzc2RXA4XzBPSzlsRVpjbFJEeFZ4LWg2ZE93ZDd4ak94VlNEYl9HZVd",
       "title": "Verdão encara Juventude pelo Brasileiro Sub-17; TV Palmeiras transmite - palmeiras.com.br",
       "summaryKo": "파우메이라스 U17, 유벤투드와 리그 맞대결",
@@ -564,22 +644,6 @@
       "publishedAt": "2026-08-03T17:59:09.000Z",
       "whyItMattersKo": "주전 선수의 컨디션 회복은 막판 경기력과 선수 기용에 있어 중요한 변수가 될 수 있습니다.",
       "fanTakeKo": "빨리 완전히 낫고 경기 뛰고 싶다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFNsOVZCYUJQdDE2VFVBdzhZNzhKUGd3NHl1RDA1aTFkUXlqSTRDLWhXLTQ",
-      "title": "Opinião | Palmeiras destoa e sobra enquanto o futebol brasileiro esquece como jogar bola - Estadão",
-      "summaryKo": "파우메이라스, 망가진 브라질 축구 속 유일하게 빛난다",
-      "excerpt": "Opinião | Palmeiras destoa e sobra enquanto o futebol brasileiro esquece como jogar bola&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFNsOVZCYUJQdDE2VFVBdzhZNzhKUGd3NHl1RDA1aTFkUXlqSTRDLWhXLTQ2anR0WWNyMXhpMy1US3llQlJUWjF5SGY0T1BJWFdVTV9YVVAtLVZEX3VqSEIxOWJvT09uQjdxQTFqZTliV0ltVW1sbXdFMnV3S0ZkX2NObS1lbDViTUtCZXpET195TnU3ZUZCQm5mZ3pLWVBCOGJtVVhFbjViWlF4dkV4Slo4emdVOG1rSC1iNVpFYVl4eFNQYUxGV2xvYVlWcC1CS1E?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-08-03T17:57:31.000Z",
-      "whyItMattersKo": "리그 수준이 낮아진 가운데 유일하게 경기력을 유지한다는 평가로 팀의 위상을 보여줍니다.",
-      "fanTakeKo": "다른 팀은 다 망했나 봐요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -870,70 +934,6 @@
       "publishedAt": "2026-08-03T12:50:06.000Z",
       "whyItMattersKo": "대승으로 코파 두 브라질 8강 진출이 눈앞에 보여 팀 분위기가 최고조입니다.",
       "fanTakeKo": "대승이라니 너무 기분 좋아요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlJNWm5lRjVtM1pVZkMtZDVmclg2QTVCMC13Q3VSTHZzbVBlTTNSb1JFTnJ",
-      "title": "Abel Ferreira revela novo problema físico de Paulinho no Palmeiras - Terra",
-      "summaryKo": "파울리뉴 새 부상, 아벨 페헤이라 공개",
-      "excerpt": "Abel Ferreira revela novo problema físico de Paulinho no Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlJNWm5lRjVtM1pVZkMtZDVmclg2QTVCMC13Q3VSTHZzbVBlTTNSb1JFTnJUMm53QUgyNURtMV9qTm1jZDJOb2hQRmh3aXZyVVJLd1lPZE5uM1FnQlZRamRsMHZhOUpJNHUwcUlZZ2RhZU9veGdveW9IZTBxdl9mbmNXMWtBZ013NlZsS0FrN18zUGxYUUlLZlJtMlRrYlRCZ1pJQU14Y1lxRXZ3ZE5oY1NYN2l5VVhsMjZINElYcEdmcHBpZGxDVFJwaDRvY0hxZC1laDFuX0dJSmJlOWUxQ0x6WHJic1dBbHU4Wg?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-03T12:46:00.000Z",
-      "whyItMattersKo": "주전 미드필더의 부상은 팀 중원 운영과 다음 경기 선발 라인업에 영향을 줍니다.",
-      "fanTakeKo": "파울리뉴, 빨리 쾌차하자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYjJqWUZ1YVVsQmduQm1UeFAyZzd4N0RaR1pINW9UaTY1cWlvMzNEWm03QTh",
-      "title": "Maurício vira intocável no Palmeiras após a Copa e pressiona atacantes - UOL",
-      "summaryKo": "마우리시우, 컵 이후 파우메이라스 절대 주전",
-      "excerpt": "Maurício vira intocável no Palmeiras após a Copa e pressiona atacantes&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYjJqWUZ1YVVsQmduQm1UeFAyZzd4N0RaR1pINW9UaTY1cWlvMzNEWm03QTh0Y0xuWFRxZTBWMUxMTWt2S2sxOC1LRHkwUlA5RzZiWkxXVTVNaDRFTkxXYTJzTE9ubXFyNXpZbGdSNERaNy1pTmFoRnJJRnlYOWpzbjFCaHZlcHd1TG9ScHBlRkZmN0E5b242UmVDd1ZmTWpZZmpGZjdoTE5oNWNmcG02STZXLUhVZzRmWWMwQTBDT0t3SmNMLTEwR1JCRzF5R3VsNWJwZjFYdzRoNWM?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-03T12:30:00.000Z",
-      "whyItMattersKo": "컵 대회 이후 맹활약하며 공격수들의 선발 경쟁을 더욱 치열하게 만들었습니다.",
-      "fanTakeKo": "마우리시우 절대 믿고 갑니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzBOUGtDYkJqS1lkVjZPd3hnZ19HM0I3NmI1c1VSNjdoZXlHbkI1Tzk4UXB",
-      "title": "Ataque do Palmeiras cresce e Abel tem um ótimo 'problema' para resolver - LANCE!",
-      "summaryKo": "공격력 살아나, 아벨 페헤이라의 행복한 고민",
-      "excerpt": "Ataque do Palmeiras cresce e Abel tem um ótimo 'problema' para resolver&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzBOUGtDYkJqS1lkVjZPd3hnZ19HM0I3NmI1c1VSNjdoZXlHbkI1Tzk4UXBLTWgyM0hxQWQtY0FfZXhMRTFKdEVNTVJYc0laZ3UxeWlzOElPTGtJQU1KVGRQMUNfWkZxcWR3QVFqSEhTc0NWY2ctMFBPOTFJVldhQ1loM1FBRllST0JSSGlTRi1qaDltcDN2OWNBS090c2c3TjF3bGN2elB0NUprb1E?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "whyItMattersKo": "공격 옵션이 늘어난다는 건 선수 경쟁을 통해 팀 득점력이 더 올라갈 신호입니다.",
-      "fanTakeKo": "공격진 뎁스 깊어서 기분 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNWw2Q2xZQmZIeWN0OTgtRF9LdkdyMEd2akJMcjRKMEowdTNKaFkwZjBnQ01",
-      "title": "Leila Pereira reage à nota do Flamengo contra o Palmeiras: 'Cara de pau' - Terra",
-      "summaryKo": "레일라 회장, 플라멩구 성명에 강하게 반발",
-      "excerpt": "Leila Pereira reage à nota do Flamengo contra o Palmeiras: 'Cara de pau'&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNWw2Q2xZQmZIeWN0OTgtRF9LdkdyMEd2akJMcjRKMEowdTNKaFkwZjBnQ01mMjFYYUs2ZEI2bWJFenpCazIwdzQ5aWdqQU1TY2J2MC02dV80endVX1F6YTA3d3ZEVFJNdFF5OUJXSTg2Q0k1THBkOUVtYVRCbnhRUlZjUTVLWnlEWHA0R21HRnJQZHZZOGtFclhzMUVqQ0poU2VYUG9nZnpDWmEzazdmQUQzVUxxbG9pck54VTM1ZW1xdXhFME10ZFZ1MW5FdWU1RThFQXd0RlhCZmhlSWtRMzk4Tm1uY2RieUpjYnFhclA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-03T11:58:00.000Z",
-      "whyItMattersKo": "구단주의 강경 대응은 라이벌과의 갈등 속에서 팬들과 단결하는 계기가 됩니다.",
-      "fanTakeKo": "회장님 화력 제대로네!",
       "tags": [
         "뉴스",
         "AI요약"
