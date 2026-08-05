@@ -1,15 +1,127 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-05T18:04:57.753Z",
+  "fetchedAt": "2026-08-05T20:08:21.024Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM01ocHp6RHU4Xy1ITGx1VE9XZjJ5SkpObFZXZDNWaTczcW9ab2VVaEg1SUt",
+      "title": "Com hat-trick de Nicoly, Palmeiras goleia Lemense pela nona rodada do Paulista F Sub-20 - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유소녀팀, 니콜리 해트트릭 대승",
+      "excerpt": "Com hat-trick de Nicoly, Palmeiras goleia Lemense pela nona rodada do Paulista F Sub-20&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM01ocHp6RHU4Xy1ITGx1VE9XZjJ5SkpObFZXZDNWaTczcW9ab2VVaEg1SUtQbnFHOWFBZjh0WUR4bHRyNzdfMjI3aE5saFFjTWRfcTUxVzJFMDFmWVpSOTUzeDREa0dRalU0NzQtVEpVakkzOTd3OGhlMC1tcGd6dzdvMmJVNHVfV2stWFpjUWhpYVZZcmNaU2dXbzFqM0pMOVlZcW5wMm4yaS1JaWNWanZhNzRCc0lSSzd0V1BmbEk1clU?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-05T19:58:52.000Z",
+      "whyItMattersKo": "유소녀팀의 대승은 미래 전력 육성과 팀 분위기에 긍정적인 신호입니다.",
+      "fanTakeKo": "여자 유망주 니콜리 대박이네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelJuNUt5YXhXdTg2WFhoTmlwVE93V1E5Q184S05UX1hodHIzMHNKRlVTYl9",
+      "title": "Palmeiras retorna a Cuiabá pela Copa do Brasil após 19 anos e defende invencibilidade - MT Esporte",
+      "summaryKo": "파우메이라스, 19년 만에 쿠이아바 원정",
+      "excerpt": "Palmeiras retorna a Cuiabá pela Copa do Brasil após 19 anos e defende invencibilidade&nbsp;&nbsp;MT Esporte",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelJuNUt5YXhXdTg2WFhoTmlwVE93V1E5Q184S05UX1hodHIzMHNKRlVTYl9GRmg3QWgybDZNRmt3dHMyTW1kWTFYMngxSmdTSkZiNE00a1hZeHJ0VG84SkZ4NzNiUk8xekNaMTZ0NmN3OHctV1NHTFJyQTJibzE0R2FCMG43TUlOZHJIZ1BqWXFuZ3ZCbzdHVXlmQ1lmZU9lSGNKNzFSVnJRY292NmpxdEQzaHlpc0VkcFow?oc=5",
+      "source": "MT Esporte",
+      "language": "pt",
+      "publishedAt": "2026-08-05T19:53:46.000Z",
+      "whyItMattersKo": "오랜만의 원정에서 무패 행진을 이어가면 대회 우승에 유리한 고지를 선점합니다.",
+      "fanTakeKo": "무패 행진 계속되길 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9",
+      "title": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil - GE",
+      "summaryKo": "코파 두 브라질, 파우메이라스 포르탈레자 맞대결",
+      "excerpt": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil&nbsp;&nbsp;GE",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9jczZwVGFBa3gySXhqdmRHVjNXM21mMWRPUkdZY2dPUkgtc2FkTW9xbjM0MGczbUNzZWxIbWZTQU80a0xsNXNxX2FlRHdNVXRtcFp1Zi1CV0E4U3ZmWnpmdndXcTFLUQ?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-05T18:25:18.000Z",
+      "whyItMattersKo": "코파 두 브라질 16강 진출이 걸린 중요한 경기라 승리가 팀의 분위기를 좌우합니다.",
+      "fanTakeKo": "오늘 원정 승리 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMihgJBVV95cUxQakRiTThYZVdrdlIyQlM0Z0p4NjBVNi1NOEQzUkFHcnRMTXlySDZZSzgwSUV",
+      "title": "Bap diz que Paulo Nobre deveria ter uma 'estátua' no Palmeiras e explica 'guerra' com Leila Pereira - Terra",
+      "summaryKo": "전설 바프, 파울루 노브레 동상 제안",
+      "excerpt": "Bap diz que Paulo Nobre deveria ter uma 'estátua' no Palmeiras e explica 'guerra' com Leila Pereira&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQakRiTThYZVdrdlIyQlM0Z0p4NjBVNi1NOEQzUkFHcnRMTXlySDZZSzgwSUVpb2poZUp6cS1GM3YyNDdvRGRiSWFGNVhoLXJVZDQtd3FXWDlZSUNXZmF6SXpOYU94clBITHVUd0lnREtiUUo1YTl5bDExLTdVSE9ubFYwWG5YbFI5cFZqZEl4UDN1bmJDNjktdmJSNHNoRGtnVXJkVlVRbmhHUkx3cEFZTXBrZjI0bnRHbWxLcW1UWTRQaW9GQnhFVjNVeWVEZ01uU0c2QnFpZkI5dGNZS2xuYjIxZFVEclV4aWFWX3VKeHM0YW9SbjJmYlNZbEhYNURVOFY4anFR?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-05T18:09:00.000Z",
+      "whyItMattersKo": "구단 인물들 간의 갈등 해소와 화합은 팬들과 팀 분위기 안정에 중요합니다.",
+      "fanTakeKo": "구단 내분은 정말 싫네요...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEZWeU1wWVpobkNodUg0aWo0b3lSSkFCeUVUelFKY2RYdmx2M29WZmVpZVl",
+      "title": "Palmeiras poupa zagueiro de jogo pela Copa do Brasil - CNN Brasil",
+      "summaryKo": "파우메이라스, 코파 두 브라질 수비수 쉰다",
+      "excerpt": "Palmeiras poupa zagueiro de jogo pela Copa do Brasil&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEZWeU1wWVpobkNodUg0aWo0b3lSSkFCeUVUelFKY2RYdmx2M29WZmVpZVlxU2J1TmYyNkRDR2hhSElZUXk0aHhxd1lZMkxXbk1pYlYxS3J3MFpkclY5SHB2Rl9UbTllV2hqTUhadWdpazIxZUtpbXVEZGdJcHZ1Z3BhdWZaaExKVk90YjA3ZEVEM0M4SmduRkNrNGZvcFhPMHltLVJBQTNYbVBnNkE?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-05T18:07:38.000Z",
+      "whyItMattersKo": "주전 수비수의 휴식은 부상 예방과 중요한 대회를 위한 컨디션 조절에 도움이 됩니다.",
+      "fanTakeKo": "선수 관리는 역시 필수죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWW5YYzRsaWFXekZmOGtwZmZPTGVBYktzNGZBZzhxWUlPSWVWSTdXQmhCbXR",
+      "title": "Fortaleza x Palmeiras: onde assistir, horário e escalações pela Copa do Brasil - ndmais.com.br",
+      "summaryKo": "포르탈레자전 시간과 중계, 라인업 정리",
+      "excerpt": "Fortaleza x Palmeiras: onde assistir, horário e escalações pela Copa do Brasil&nbsp;&nbsp;ndmais.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWW5YYzRsaWFXekZmOGtwZmZPTGVBYktzNGZBZzhxWUlPSWVWSTdXQmhCbXR0Tjh0bVZoalcwUG11azdLMWtQTy1tRUNRb0tabXo4Si1nSlJYNUZveFp4QzN1eEJ4QnNoMlVvc2JPLXVEVGh5czNLTWxZWldCQ0dUQjJQNnVReHZnZnVnbDgyWTZnWkV6bTlFa1VxM0xibDJVeW9PanhpYnRVaW8?oc=5",
+      "source": "ndmais.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-05T17:52:11.000Z",
+      "whyItMattersKo": "코파 두 브라질 탈락을 피하려면 경기 시간과 선발 라인업을 확인해야 합니다.",
+      "fanTakeKo": "승리하고 다음 라운드 가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFlQOUZXQy13NmRidXFqNTNKcUNvRW0ta3V4aXdEX25mVkVnSVJ2VjNrNlB",
+      "title": "Fortaleza x Palmeiras Análise: Onde Assistir, Horário, Escalações e Estatísticas 05/08 - Gazeta Esportiva",
+      "summaryKo": "포르탈레자전 분석과 통계, 시간 공개",
+      "excerpt": "Fortaleza x Palmeiras Análise: Onde Assistir, Horário, Escalações e Estatísticas 05/08&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFlQOUZXQy13NmRidXFqNTNKcUNvRW0ta3V4aXdEX25mVkVnSVJ2VjNrNlBKenI1c3FnQUxYZGlxdV9pQ0tPci16NlRsV1Rsa2tyaDhPRkZKek54dXlwNUFNUk80NEhlR2lOOHN1TmdoeXRrU0VteDJYZUQ2S0NmVTF6RjhjNTdua0RRd05rVG1NeVRFX0E0Vg?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-08-05T17:29:00.000Z",
+      "whyItMattersKo": "상대 전력과 통계를 분석하면 오늘 경기 흐름을 파악하는 데 도움이 됩니다.",
+      "fanTakeKo": "통계가 좋아서 믿음이 갑니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlhhUFpTdUh4dkVxNDdCWHBzSGxGLWJveGJzWkJSWVRINUo5RmZicU9sT3d",
       "title": "Abel Ferreira tem \"dor de cabeça\" no setor ofensivo do Palmeiras - terra.com.br",
       "summaryKo": "아벨 감독, 공격진 조합 두고 머리 아파",
       "excerpt": "Abel Ferreira tem \"dor de cabeça\" no setor ofensivo do Palmeiras&nbsp;&nbsp;terra.com.br",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlhhUFpTdUh4dkVxNDdCWHBzSGxGLWJveGJzWkJSWVRINUo5RmZicU9sT3dkd3o0X1Q0cTdEVXFfRmc5M21mYTEwRF9ISnozdy1tZWZRREdFUnFSSTFiNFVRZU03MVpMWGZlSlhmc2JnWGZNb25pdnpSRVZDWFZrRk1TeEJMQkhERUtwdWpzTm9IdnR3N0VldVBaZHJyR2F1Vzc0QU5zWlRGQUlhTFpPVkJ2cWZiLTkwUVo4aDl4Y0xEWFZqczNaT0pmTktvOU5jQUJnc0lTTDgtdU9rUGV0eGgtV2xjRDQ?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T17:20:00.000Z",
       "whyItMattersKo": "공격 조합을 두고 고민한다는 건 팀 전력이 좋다는 뜻이지만, 승부를 위한 최적의 선택이 중요합니다.",
@@ -57,7 +169,7 @@
       "summaryKo": "포르탈레자전 생중계 및 예상 라인업",
       "excerpt": "Fortaleza x Palmeiras: onde assistir ao vivo, horário e prováveis escalações&nbsp;&nbsp;terra.com.br",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTE1XbGtvcmNRcnN0emxSdFVXQjJDa21iQVBwZDlNVks2YWlGZTktdGEtY3FKS1ZoOFpTZzEyNmczRFlVR0d0a3pDMDN6RzVqT3E0bVA0T0ZsdUdjLXY0Z3FEVGlnaVlvSEN5cWdtYUFBNmdLR2ltblFZTGhna0tqWXJXek5uOHpEd0pqQzhxNTdWOUpabmR5TFhxTjZMWTdsU21IZlpSM2dzUWdUb1JfWjd4YmFoNWE5cmNoZVdzdC1QVnNhbFBfNUlsSkw3LTdCaVhJSWUzX2JfaEMwSXZDdUxhVGdhLUNsRlE?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T17:00:00.000Z",
       "whyItMattersKo": "경기 직전 선발 명단 예측은 팀의 전략을 파악하고 경기 결과를 예측하는 데 중요한 정보입니다.",
@@ -84,28 +196,12 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9",
-      "title": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil - GE",
-      "summaryKo": "코파 두 브라질, 파우메이라스 포르탈레자 맞대결",
-      "excerpt": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9jczZwVGFBa3gySXhqdmRHVjNXM21mMWRPUkdZY2dPUkgtc2FkTW9xbjM0MGczbUNzZWxIbWZTQU80a0xsNXNxX2FlRHdNVXRtcFp1Zi1CV0E4U3ZmWnpmdndXcTFLUQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-05T16:29:16.000Z",
-      "whyItMattersKo": "코파 두 브라질 16강 진출이 걸린 중요한 경기라 승리가 팀의 분위기를 좌우합니다.",
-      "fanTakeKo": "오늘 원정 승리 기대합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-6-https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVG54Z0dwOEFsUmhuMWVNT2Z0dm02bF9GbmlETWd3UDJZNDk4TmJlNDJVa2d",
       "title": "Palmeiras poupa, e titular fica fora dos relacionados contra Fortaleza - itatiaia.com.br",
       "summaryKo": "파우메이라스, 포르탈레자전 주전 쉰다",
       "excerpt": "Palmeiras poupa, e titular fica fora dos relacionados contra Fortaleza&nbsp;&nbsp;itatiaia.com.br",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVG54Z0dwOEFsUmhuMWVNT2Z0dm02bF9GbmlETWd3UDJZNDk4TmJlNDJVa2dfXzBBdXVxOTdIX0hEWnloWnJRMWh0OVdnVWNVV0xJd296dVI3RFE1bjJxeDh4eUxnZTNrVGEtNTdfS2RzSW0xa2g3Z0Qtb2xHT09SRV92eVJHMEJxc2RqeHc3VG9wUkJhN1JFbXkydE1IdFBndGJ1SFl2TFRQalhJQXA0UDdCMGV6M0V6c2JXOXd3RDBpTXFKS3RIN0k1d2lYeTVGOFlIRXpLV1d0ajJwZFZPdzBnRzJwSG1GbTdNOThYRjI?oc=5",
-      "source": "itatiaia.com.br",
+      "source": "Rádio Itatiaia",
       "language": "pt",
       "publishedAt": "2026-08-05T16:21:14.000Z",
       "whyItMattersKo": "주전 선수의 결장은 팀 전력에 빈틈을 만들어 승리에 변수가 될 수 있습니다.",
@@ -121,7 +217,7 @@
       "summaryKo": "포르탈레자전 예상 라인업과 시청법",
       "excerpt": "Fortaleza x Palmeiras: prováveis escalações e onde assistir&nbsp;&nbsp;terra.com.br",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2M0U2Z1VHdtdmhPR2pIM255MkJMLURTVlliR3VLcE1ucDF1NmdHQ1R0MlRZQzUwMk5WbzZuQjBZTktUenczbWx0YzZDaDdqdEI3SHU3aG54eVE4NUcyd0lzeU1YcDB6eWRoaGdqQmRhcFVqa0w2UUx6RU1HVmt4V0RmQ1BQcTl0RnJFYU9mU0ZrVDlTeW1jeDY5eElXTkNJMzR0TGt3Q0JpZWpXVlJnVTk5NUYtZUtiZlZ2RUsza1FydWlrd3hWWnl5R1NDeVhoREV2b2daM2FaV2J1VmlTNlh3?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T16:10:00.000Z",
       "whyItMattersKo": "경기 전 예상 선발 명단을 확인하면 팀의 전력과 전략을 파악하기 쉽습니다.",
@@ -169,7 +265,7 @@
       "summaryKo": "파우메이라스, 베네수엘라 유망주 영입 포기",
       "excerpt": "Palmeiras recua e desiste de contratar promessa da Venezuela&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUpSX3JCZmNnaF9sdzNLcndvM2hxdUFNUkk2bjJBS3E1RjJfVVBIc0kyanROUExqY0pKRkdMVE9sY1dNTFRHdEIxZU44OFpIUHFydU5FYWo3dU9yazlEaW5rNmh4cXZhXzVycTJRRDZIZEFGQTdBN1dTYlJIOWlQS205V0hOWUt1a096bGNoa0RKd2RnaUJySUFhYzFpNmJab0J3VTRDZGI2YUhsMFI3VVBjeXNBZUpuRTBYZk9QMmRJUGRxOUNXWWk4aFhXWjlRaEo0RV93RUdnekpyT1M3M0w0UVE?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T15:19:00.000Z",
       "whyItMattersKo": "팀이 노리던 유망주 영입이 무산되면서 미래 전력 보강 계획에 변화가 생겼습니다.",
@@ -185,7 +281,7 @@
       "summaryKo": "소르마니, 파우메이라스 마우리시우 언급",
       "excerpt": "A declaração de Sormani sobre Maurício, do Palmeiras&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0NlTWxLMFFZVjhrWVBjT29LY0tBbEVrVWdDamlscng0TU4wWnVEa0pYaVY3c2s3RWhjZVg2ck1pRTdNeHE1RVpCb3AtY2RuSE1OUG9abDZoU2VmbEIzNTdMV0o4aW04ZzNKZWg3SWtHN0t1S1BRY2x5MlhFTmtsRkJMbGdXc1R4dDJqcTFFdVdRYmNjX0RrMUx5djlNQlJGcFl5RFBUU2ZOOFJJUmRiV011WlRMYlpWLXNuWUVtRkJsc21XQ01sN0N0YzljMlBudmpaSHM3WF8?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T14:25:00.000Z",
       "whyItMattersKo": "주요 선수에 대한 외부의 평가는 선수의 기용이나 이적 시장에 영향을 줄 수 있습니다.",
@@ -201,7 +297,7 @@
       "summaryKo": "플라멩구와 파우메이라스 라이벌 드라마 제작",
       "excerpt": "Rivalidade entre Flamengo e Palmeiras será explorada em Por Você, nova novela da Globo&nbsp;&nbsp;Observatório da TV",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWswSDgtdW11dS1zbEFmM2xycmoteUViQ0V0TEhSZVE3VkRpOHlBU050U0p4dE5Sc0psN0VRb3ZzRXVscUV3TlRnMnZCUU9LNUpTR08wSm5zSXZIaTJVdTN5c2FPMURRZVJTQjNKX2I2OExqSDQ1SVlKYXNLTzBZa2paaFpLNlY0WUtfUkZYdG84VjBpX3Fselpua2JrVGVwTEJlZjRydUJRbUFTdlp2dTJLazVJS0E1T05va2R2NzhGSGNi?oc=5",
-      "source": "observatoriodatv.com.br",
+      "source": "Observatório da TV",
       "language": "pt",
       "publishedAt": "2026-08-05T14:16:13.000Z",
       "whyItMattersKo": "대중매체를 통해 팀의 인기가 높아지고 팬 문화가 더 널리 알려질 수 있습니다.",
@@ -217,7 +313,7 @@
       "summaryKo": "파우메이라스, 포르탈레자전에 수비수 두 명만 남아",
       "excerpt": "Palmeiras encara Fortaleza com apenas dois zagueiros relacionados e diversas baixas&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2NqQlFNRXoyVkZsSW1GWHlIX1pBMVphbUloMGRaa3VwTGNxRWx1N3VscThoM0NTS29NXy1malJKLTN2cFd5Mjk1ZWhyd2F3WFJsTE5sTk5VN0tFOWZIQmdkQzB1LUFRVjVnbjZvLXFUb3VON1JJQVFxY1ZPNk5hVGdlS04wQVljZzU3M2I0dm9scGJuemp5SWdOR0p0ZjZBQV9OM1h2Y3ZGTWJIQmF1eV9LMmRsU1c5Y0xxYVE5YVM?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-05T14:16:00.000Z",
       "whyItMattersKo": "수비수가 단 두 명뿐이라 라인업 구성과 수비 안정성에 큰 위기가 닥쳤습니다.",
@@ -329,11 +425,27 @@
       "summaryKo": "바르보자 결장에 아벨 페헤이라 수정",
       "excerpt": "Sem Barboza, Abel Ferreira ensaia mudanças no Palmeiras contra o Fortaleza&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzNtejZvSEFSdmY0VExJVjY5N0xLVTgyRTJsdm9ldjBiSGpxVWdUQWlESW03UHBad0pFbEZZbTQxMjhMWlJMRkUyQjJSUTFPcTNfWmdZX1ZXYU1DYzh6YzU5ZUhGOU11dDk2NGdGZl9MRUJtMUd1MFFXYUttN2NqS24wc2lkcktoRjUxMXN6OGl6T0p6bzZwRWp5Z0ItR1B4T0pJcW83MWc4X1dsTDNEZGw2czkxRkU0Mi1USnhtWFVFaUVyNG1sV1hkMXdnQ1UtNElyUUl1elp2dUw2dG84YVhoMnJPT2V1U2VPd2JlZlJEUTc3YVE?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T12:52:00.000Z",
       "whyItMattersKo": "주전의 부재를 극복하기 위해 아벨 페헤이라 감독이 전술 변화를 시도할 수 있습니다.",
       "fanTakeKo": "대체 선수 잘 커버해줘야",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-25-https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVNCWXFKY3ZQT0NTeHhZSWIzMW9BTW1QaE9mdVRZWm1GWW1ZVWN5cTNXM3",
+      "title": "Saiba onde assistir a Fortaleza x Palmeiras pela Copa do Brasil - portal lj",
+      "summaryKo": "포르탈레자전 중계 채널과 시간 확인",
+      "excerpt": "Saiba onde assistir a Fortaleza x Palmeiras pela Copa do Brasil&nbsp;&nbsp;portal lj",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVNCWXFKY3ZQT0NTeHhZSWIzMW9BTW1QaE9mdVRZWm1GWW1ZVWN5cTNXM3JsXzliQklvdHc3SGo4N25CUjdXWExMdGxwd3c2VHBFMVB6cGpwemNqLWVBOTZaQkVqZ0tnY1pLUlRKakdRaEpOZG1lUzlacVVkZXNXcDNmb0tIT2FtRVpfWGFFQ3ZJQ3Vp?oc=5",
+      "source": "portal lj",
+      "language": "pt",
+      "publishedAt": "2026-08-05T12:44:44.000Z",
+      "whyItMattersKo": "경기를 놓치지 않으려면 중계 채널과 정확한 시간을 미리 확인해야 합니다.",
+      "fanTakeKo": "채널 찾아서 응원하러 갑니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -457,7 +569,7 @@
       "summaryKo": "파우메이라스, 포르탈레자전 승리 노린다",
       "excerpt": "Palmeiras encara o Fortaleza para garantir classificação na Copa do Brasil&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU0c4SUozUFdLSXFDblZjOWFVeURBSThXUFhkRTBqTS1wUDFUeVRKS3RXOU1wTGVuQVBvYzA0YmhlbTZtaGMzbVE1UkVrWUx2aTZ2UFRjWmhyb2RhR296VUNWZWtaRXEzX1BUVkZrRTBNQUpSN2c0dWZWWDd6QnRHVnpqTW5DTU14dG5HdFlKVzRvZWxSRW80bHE5VmQ2MnZDWlNnRXVFVEVNZ0hFUVB1dWEzRXByeW9LeUpZTFdBandvRGQ1N28taHZqQlFUZjJVT2NEY29ULVJPNU5ieEVEcVZNcEJnRW9vc0pqM0syYnRycHVkMUt4Zmhfb3ZrMEJCMU4zYkZraUs?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-05T11:08:00.000Z",
       "whyItMattersKo": "코파 두 브라질 탈락을 피하고 토너먼트에 안착하기 위해 이 경기가 매우 중요합니다.",
@@ -846,118 +958,6 @@
       "publishedAt": "2026-08-05T03:28:19.000Z",
       "whyItMattersKo": "주전 수비수를 쉬게 해서 코파 두 브라실전 수비 교체 카드가 없습니다.",
       "fanTakeKo": "수비 걱정되네, 부상 조심해!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTHhEMTZ0ZE9IVzNOR1FETkNqRnljbUhHeWNKNGxYN2pfc0tmNnFlUHY2NXh",
-      "title": "Bap comenta 'treta' com Leila Pereira: 'Flamengo e Palmeiras não precisam ser amigos' - Rádio Itatiaia",
-      "summaryKo": "BAP, 플라멩구와 친할 필요 없다 발언",
-      "excerpt": "Bap comenta 'treta' com Leila Pereira: 'Flamengo e Palmeiras não precisam ser amigos'&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTHhEMTZ0ZE9IVzNOR1FETkNqRnljbUhHeWNKNGxYN2pfc0tmNnFlUHY2NXhZWHJ1cTJQMUctcHd3LVpTYjhSeEM2cFQ0TjVDMkZ1dFNqRGxDRTljbUowSVUzcnhiV3lLUGhVazJoRUF4djBnWVA0Y3pqNXhTM2kzQkNKRm0ycWVva3VJSGRyNjRJZDQ0aXl6MTNuX3RVei1JWmwtbHJiNW1vUUdkTHNWUGhDTGpUMHRHbDZCb1BGVnZIWW5TSUFHTzdTbnR5ZGtlVzNxXzlOaVVvOHEwcXlJeVpWR1V0U2ZvY3BBaUNDV2xhUEtDODRnU25uZUw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-05T02:21:51.000Z",
-      "whyItMattersKo": "선수와 구단주 간의 갈등이 팀 분위기나 선수의 향후 행보에 영향을 줄 수 있습니다.",
-      "fanTakeKo": "BAP 진짜 직진이네 ㅋㅋ",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiywFBVV95cUxQSnpGeTVKMFJEbDhlc1pIdmQ3T2ZJT0dFRWpkcjhnYWRtMmpCQXEzYS01OER",
-      "title": "Zagueiro titular aumenta lista de desfalques do Palmeiras contra Fortaleza - CNN Brasil",
-      "summaryKo": "파우메이라스, 포르탈레자전 주전 수비수 결장",
-      "excerpt": "Zagueiro titular aumenta lista de desfalques do Palmeiras contra Fortaleza&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSnpGeTVKMFJEbDhlc1pIdmQ3T2ZJT0dFRWpkcjhnYWRtMmpCQXEzYS01OERUVXFPYWZfX1dTVUdIdkQxTGJwR0tfdWxOdWdQaEVsS1NJX2J6ODVwS2VvUUxEWDZGSHVHd0o5OFdYZEJ1d1FaZUN5VldzamowWHZsb210aVZQbm1lNDkyOTh3S0ZqYzlrOWNFeUxJX0RTUWNhOG1LVkVreGtpZ1NGWHlFTWpqUU8wQkRoTmc2d3hydkVfTS1FWTc5QS1HNA?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-05T00:46:48.000Z",
-      "whyItMattersKo": "주전 센터백까지 빠져 수비 조직을 다시 짜야 해서 승리하기가 더 어려워졌습니다.",
-      "fanTakeKo": "주전 빠지라니, 큰일났네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFAzTVl4RkNXUmpjTlRLVVIyLXZuVzlMdElwMGw4TW1aZGhMUTNtdEdBY3R",
-      "title": "Palmeiras terá 5 desfalques contra o Fortaleza; veja a provável escalação - band.com.br",
-      "summaryKo": "파우메이라스, 포르탈레자전 5명 결장 예상",
-      "excerpt": "Palmeiras terá 5 desfalques contra o Fortaleza; veja a provável escalação&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFAzTVl4RkNXUmpjTlRLVVIyLXZuVzlMdElwMGw4TW1aZGhMUTNtdEdBY3RqSmRjOFAyVkx4SV81Q05ybWZUZE5BN1lCMDhQcUZmUDR5OTYyNkJFZDFQZ0VSWUZhX1FwRXlUUS1PTWNydDMxU0FSU2hETE1CcWowUDNLWjNOUmdkRWU1UHVjdmZQM202NVJTUWd3bkxkRm9BVy1GdGFZdmp5WGZidTUzX0YzNldkYUR4bmc?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-05T00:09:22.000Z",
-      "whyItMattersKo": "핵심 선수 다수가 빠지는 만큼 예상 라인업과 교체 자원 운영이 승패를 가를 것입니다.",
-      "fanTakeKo": "라인업 보니 걱정되네...",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnJhekNUQjRFQ2FlWjVHY2ItcHQwVUlCY1VfY1JhejhOaG9RUlFuQXA0YWZ",
-      "title": "Fortaleza x Palmeiras: informações, estatísticas e curiosidades - palmeiras.com.br",
-      "summaryKo": "포르탈레자전 주요 정보와 승부 예측",
-      "excerpt": "Fortaleza x Palmeiras: informações, estatísticas e curiosidades&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnJhekNUQjRFQ2FlWjVHY2ItcHQwVUlCY1VfY1JhejhOaG9RUlFuQXA0YWZSX0pSRDA2UDJDcjNrSFhyQ0lZS0FrUEtZeDJuWV90aUpfcm9ISXNxcnZOdGhoYVdEcDRMMGtMWTZCaElyeVpiOHRYY043RkgxX2NpbU9PVGtnbUlsMHV5aHgyanRTaDlhb3o3UF9BeGgtcmNzZ3l1dg?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-04T23:25:43.000Z",
-      "whyItMattersKo": "이번 경기의 주요 정보와 상대 전력을 파악하면 승부 흐름을 미리 파악하는 데 도움이 됩니다.",
-      "fanTakeKo": "경기 전 정보는 꼭 챙겨야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTd6aDZFMFBsNkMyQk5pUUY5UnRRU0FFYlBsUFNtWnZHNG5uX2k5aU9sNlZ",
-      "title": "Barboza amplia lista de desfalques do Palmeiras para a Copa do Brasil - LANCE!",
-      "summaryKo": "코파 두 브라질전, 바르보자도 결장",
-      "excerpt": "Barboza amplia lista de desfalques do Palmeiras para a Copa do Brasil&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTd6aDZFMFBsNkMyQk5pUUY5UnRRU0FFYlBsUFNtWnZHNG5uX2k5aU9sNlZuVWJsZ2Z2Y3FIdlJGMUZ4Y3RqVURLMU5IMzdZaGVlMEFHc0hOdXAzTmo1OXdpS0dqdE5OZDlwaGRxa21wRFNIUkc2Q1JjLVE4N0RMRVdUTlVacThxTFRyakhEaEhoQXhlNTNoTTNmSjBwOENUaGdEQ2pRaExRRFIzWmc?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-04T23:23:10.000Z",
-      "whyItMattersKo": "코파 두 브라질을 앞두고 주요 선수가 빠지면서 팀 전력과 전력 운용에 변수가 생겼습니다.",
-      "fanTakeKo": "부상자가 늘어나 걱정이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3ZxTTlPeGFaeEl3QjM2Z0phMnhraC0yTFFIT3lwTkJ5bExObWxTRWNyeGx",
-      "title": "Vozinha cita ídolo do Palmeiras em apresentação no Colo-Colo - tmc.com.br",
-      "summaryKo": "보지냐, 콜로콜로 입단식서 파우미 전설 언급",
-      "excerpt": "Vozinha cita ídolo do Palmeiras em apresentação no Colo-Colo&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3ZxTTlPeGFaeEl3QjM2Z0phMnhraC0yTFFIT3lwTkJ5bExObWxTRWNyeGxSQi1BMVU3NTJWdlhpVVBaNHQ5VUFQZk1IVFE4WnJTalZlNm40Unl1QlRIOVI5M1cwU2s1VUlNaG5yWGFLVVcwYTBwaHhXQThqWlRNNzNmS1VpRnlyRFdSRkNOaVRlUQ?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-04T23:17:45.000Z",
-      "whyItMattersKo": "친정팀 전설을 언급하며 파우메이라스에 대한 애정을 여전히 가지고 있음을 보여줍니다.",
-      "fanTakeKo": "보지냐도 여전히 파우미 사랑이네!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnRrX2xYTG1YOXNhTDBTOWE3VjVBS3Y4SzhUaV9QREJSbWdHYjRMMnY0Ukl",
-      "title": "Ao vivo: Palmeiras x Juventude | Rodada 10 | Campeonato Brasileiro sub-17 - ge",
-      "summaryKo": "파우메이라스, 유벤투드와 U-17 브라질레이렁",
-      "excerpt": "Ao vivo: Palmeiras x Juventude | Rodada 10 | Campeonato Brasileiro sub-17&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnRrX2xYTG1YOXNhTDBTOWE3VjVBS3Y4SzhUaV9QREJSbWdHYjRMMnY0Ukl5YTNwVWNsUkNkUzY2TDVKQVRpbEdQdExQN3NraXZuVS1Nb1NkTjZYOFIwZXB4LXBhbkRJMjZpOTRDd3VhMWpMZ1pVZ1FtTnRvWV96Q21PUHM5T2tPNXlZd1E5VmVzQXBBZm9R?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-04T23:09:52.000Z",
-      "whyItMattersKo": "유망주들의 성장을 지켜보며 팀의 미래 전력을 점칠 수 있는 중요한 경기입니다.",
-      "fanTakeKo": "유소년팀도 응원할게요!",
       "tags": [
         "뉴스",
         "AI요약"
