@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-05T21:46:59.898Z",
+  "fetchedAt": "2026-08-05T22:59:56.839Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFhFMDlDdENJUDVyaERKS3ZqclNNcHVIVDJJTDQxQnU4dUNYUUVCT2FDcGt",
+      "title": "Bap critica Leila Pereira: \"Se me tacar uma pedra, eu vou tacar uma pedra\" - CNN Brasil",
+      "summaryKo": "Bap, 레일라 페레이라에 강하게 맞서",
+      "excerpt": "Bap critica Leila Pereira: \"Se me tacar uma pedra, eu vou tacar uma pedra\"&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFhFMDlDdENJUDVyaERKS3ZqclNNcHVIVDJJTDQxQnU4dUNYUUVCT2FDcGtISHpHM2liWUtOLWNKUkZ1bjl6em5XQnFuWTFMN2ZhY21fYnZNMktQTnR1bldmRjRTRWJtcm9Cdzd2MjFrcEVST2xMQkFsdlJZcVlXUTkxUVo1WW9iNExyT2pmd2RER2h2UThCa2M3RlNrNFVQNHcwbjJPRmhranVpYW1mc2tkbDlVWExm?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-05T22:48:15.000Z",
+      "whyItMattersKo": "구단 수뇌부와의 공개적인 갈등은 팀 전체의 분위기와 집중력을 흔들 수 있습니다.",
+      "fanTakeKo": "내부 갈등은 정말 싫네요...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJiX1E2am1QNXo1aE4xRkQzcGN3TjVwWEdNblRJYXhsR3JQWTdrajNoTlg",
+      "title": "Público decidirá qual partida do Brasileirão passará na Ge TV - LANCE!",
+      "summaryKo": "팬 투표로 브라질레이렁 중계전 선정",
+      "excerpt": "Público decidirá qual partida do Brasileirão passará na Ge TV&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJiX1E2am1QNXo1aE4xRkQzcGN3TjVwWEdNblRJYXhsR3JQWTdrajNoTlgwUHVxQ0N4b0hWMDAzaDRvWXJjZTRyZlU2Wk1DQ0Voc2NLVFo4cU4wTzMycVVjR3NRR2FyaFpjY3Y2V1pHcTBHT09oS0ppbU9wX0w0ZUNQbTNKQ2dwMU9JQVk3U0J3R3VGelgwcElJNGpCYU95Nm5vdENhQ1c?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-05T22:25:03.000Z",
+      "whyItMattersKo": "팬들이 직접 투표하니 파우메이라스 경기가 중계될 가능성이 높아졌습니다.",
+      "fanTakeKo": "우리 팀 경기 뽑아주세요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9",
       "title": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil - GE",
@@ -126,6 +158,22 @@
       "publishedAt": "2026-08-05T19:53:46.000Z",
       "whyItMattersKo": "오랜만의 원정에서 무패 행진을 이어가면 대회 우승에 유리한 고지를 선점합니다.",
       "fanTakeKo": "무패 행진 계속되길 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWJXdFc0eUNpa1pOLWxnWHFyVGN4VlZxUmhWT196QWhEekdObnNxdHJ3eG",
+      "title": "PVC sobre déficit: 'Palmeiras é classe média; se perder emprego, danou-se' - UOL",
+      "summaryKo": "PVC, 파우메이라스 재정 걱정 토로",
+      "excerpt": "PVC sobre déficit: 'Palmeiras é classe média; se perder emprego, danou-se'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWJXdFc0eUNpa1pOLWxnWHFyVGN4VlZxUmhWT196QWhEekdObnNxdHJ3eGxaSm9EMm1hRG93ZXJ5aGpLa2xoSG52MEtjXzQtYUI3MW43WnpYZDk2ZERNd0NJYTJUZ0IxV1pNSmcxRjUxS2ZRVl9NazVSZm9QMENHN2hQOGpqN045cmpVNEtxSnZDS3M2R1hnUEJrX09tNkR1clZDc0t0dEIxQXNjbjlnME1LREJrdUgwUmF5Znl5TXZmQk84U0tHZmpRSGZBVldK?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-05T19:05:55.000Z",
+      "whyItMattersKo": "클럽 재정 상태는 선수 영입과 팀 유지에 직결되는 중요한 문제입니다.",
+      "fanTakeKo": "재정은 튼튼해야 하는데...",
       "tags": [
         "뉴스",
         "AI요약"
@@ -910,54 +958,6 @@
       "publishedAt": "2026-08-05T08:00:00.000Z",
       "whyItMattersKo": "경기를 생중계로 보는 방법을 알면 실시간으로 긴장감을 느끼며 볼 수 있습니다.",
       "fanTakeKo": "당연히 실시간으로 봐야지!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR3FGOFlNb0c2dmozdTY0bU9JSlozQlgxc2pWRnB1RVJteTRHQXY0QWhGTX",
-      "title": "Afastado por nova lesão, cada gol de Paulinho custou R$ 23 milhões ao Palmeiras - Terra",
-      "summaryKo": "파울리뉴 신규 부상, 골당 비용이 화제",
-      "excerpt": "Afastado por nova lesão, cada gol de Paulinho custou R$ 23 milhões ao Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR3FGOFlNb0c2dmozdTY0bU9JSlozQlgxc2pWRnB1RVJteTRHQXY0QWhGTXNjcmhLazFHOFhYVHNEb05WX0sxOERnd1NPTFRjRklMRzhtZ1h2SXZOS01YZ2RvMXF3dDBQd21OR2RoRnk1U21WSW9XUVQwMjVqUnZoSlZWeHdNMkJndDFaZ2ZhZlFsYXV0R2xYMUZZOERhOFNnLXp1bktndGJrekJvbTRZci01bFdUSmhPQTRwUVlMRUctSUNkdjR3VkVXTWxabmw2WGVnWE13TGdhWTZwZkNzQUVBck9jQ2tfdXdkbTBkaW8wWmNYb3RMRUdzMA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-05T07:58:00.000Z",
-      "whyItMattersKo": "주요 공격수의 잦은 부상은 팀 공격력 저하는 물론 선수단 자산 관리에도 타격입니다.",
-      "fanTakeKo": "부상만 없었으면 정말 좋은 선수였을 텐데...",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0JEcTNmM1owZ0ZKRko4aXpOQS13OXFzZU9OV1pURmx6ZEdndm9vT1RtS1d",
-      "title": "Palmeiras 'visita' Fortaleza pela Copa do brasil confortável com vantagem - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 유리한 상황서 원정",
-      "excerpt": "Palmeiras 'visita' Fortaleza pela Copa do brasil confortável com vantagem&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0JEcTNmM1owZ0ZKRko4aXpOQS13OXFzZU9OV1pURmx6ZEdndm9vT1RtS1daaEl0ei1oOG50eFZPdkZ1UFBzMGFJZ2RNWUZfN2dqT0lXOHA0dEZYRWIyUTE3RXBRY2JtNzJJV19lOUtaMmNnVlBxVFlBLUUteUxsVTIxUHZESUxScHhocW94ZTR1Ty0yLXF5OFNPb1hFanZFckhsM3JmMWhBQ01yQ3k2a0kxd3NhYm4tX3NRS2xfVTdxNG9vQW0xcjQwVjVEQ1dJSFlXUGYyYUoycG1qeHlNU0tITQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-05T07:30:16.000Z",
-      "whyItMattersKo": "유리한 상황을 가지고 원정을 치르니 팀이 여유를 가질 수 있는 경기입니다.",
-      "fanTakeKo": "이대로만 가면 승리인가!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVy1MeVBUQlBhbzktSk9Vc0EtcEhTdUpKR1AwMENjbGQ2Z0tNemNkT2xIQzR",
-      "title": "Outro Canal: Globo vai explorar rivalidade Flamengo x Palmeiras no futebol em nova novela das sete - UOL",
-      "summaryKo": "플라멩구와의 라이벌전 드라마 나온다",
-      "excerpt": "Outro Canal: Globo vai explorar rivalidade Flamengo x Palmeiras no futebol em nova novela das sete&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVy1MeVBUQlBhbzktSk9Vc0EtcEhTdUpKR1AwMENjbGQ2Z0tNemNkT2xIQzRzQ1NxUHRWa2EzSjdLdU1DbmZwMTFxRHcxdU1XV09sbXBQVGVPUEpSWjdPM1dKR3VmUFpHNTRoR3p2aFk0MnpsT0p5NHMtVS1MZUVLVjJXOEZZVzFxdUE4dWV6T1ZQREhNMmp3U29RMUczUUxjWjJNMmVuV0hSSm1nQ25iREdPcGYyTEpPYmZxaElWbWtvemhLT0JGbzZ1ZDRhUmZsN19mOFlKbl9GOVBBN1lSQkc0X18?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-05T07:03:36.000Z",
-      "whyItMattersKo": "대중 매체에서 다룰 정도로 플라멩구와의 라이벌 관계가 뜨겁다는 방증입니다.",
-      "fanTakeKo": "우리 팀이 드라마 주인공이네.",
       "tags": [
         "뉴스",
         "AI요약"
