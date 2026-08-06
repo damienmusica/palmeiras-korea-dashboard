@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-06T06:32:02.720Z",
+  "fetchedAt": "2026-08-06T09:40:07.087Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9",
@@ -9,11 +9,59 @@
       "summaryKo": "코파 두 브라질, 파우메이라스 포르탈레자 맞대결",
       "excerpt": "Ao vivo: Fortaleza x Palmeiras | 8ª de final | Copa do Brasil&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDRmSW5rZ295ZTh2UjNkc0VJcWFPV3BPYzVabEtfV3d6aXNvTHZ1cXN3OE9jczZwVGFBa3gySXhqdmRHVjNXM21mMWRPUkdZY2dPUkgtc2FkTW9xbjM0MGczbUNzZWxIbWZTQU80a0xsNXNxX2FlRHdNVXRtcFp1Zi1CV0E4U3ZmWnpmdndXcTFLUQ?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
-      "publishedAt": "2026-08-06T06:27:17.000Z",
+      "publishedAt": "2026-08-06T09:29:09.000Z",
       "whyItMattersKo": "코파 두 브라질 16강 진출이 걸린 중요한 경기라 승리가 팀의 분위기를 좌우합니다.",
       "fanTakeKo": "오늘 원정 승리 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0lyS1pkSXNGczRLRmhMVTFaM2FZTEF4Q0VqTl9lTF9XWGFlbGpCNVVQbGd",
+      "title": "Palmeiras bate R$ 30 milhões em premiações com classificação - lance.com.br",
+      "summaryKo": "파우메이라스, 상금 30억 브라질 헤알 돌파",
+      "excerpt": "Palmeiras bate R$ 30 milhões em premiações com classificação&nbsp;&nbsp;lance.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0lyS1pkSXNGczRLRmhMVTFaM2FZTEF4Q0VqTl9lTF9XWGFlbGpCNVVQbGdORWljQ2FPVlE3Q002cXctWkF0REtfaHpkRXdjTlNvM2p1c1h6LWNoOTUzdUo0OXNGSHRsRkt4V2x6UTJsdzR1RHVOaFpDOFlGS3ZUS3E5SDBNaVhIbW1TUWpxYUhxckJkNGVFcVhkd0hBNEg3UGZwVlVPZGJLMHA1ZEJ0eEdjUmJoSFNkbkE?oc=5",
+      "source": "lance.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-06T09:20:00.000Z",
+      "whyItMattersKo": "대회 진출로 쌓인 상금은 팀의 재정 안정과 선수 영입에 큰 도움이 됩니다.",
+      "fanTakeKo": "상금이면 뭐야, 우승이 최고죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcE5uOE5FbEh1Y2d2eldUbHFUaTlMZUZURjRKWHBVMWVkZ2VPX2ZHTWlucWh",
+      "title": "Palmeiras: Abel revela valor de mercado astronômico do elenco e cita valorização - Rádio Itatiaia",
+      "summaryKo": "아벨 감독, 선수단 엄청난 가치 언급",
+      "excerpt": "Palmeiras: Abel revela valor de mercado astronômico do elenco e cita valorização&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcE5uOE5FbEh1Y2d2eldUbHFUaTlMZUZURjRKWHBVMWVkZ2VPX2ZHTWlucWh4NWpVSDJCam4wLU5jX3R3Nzgzbk1hcWZNN2h6Wk4wM24wT2h3SzFHb0QyemRsTXVlOTRTWE9BUWVuVlVPNVc3eHRVWGNia1VpMUlOUERhRWFmbDlJT21pMm1jLTJZaFlvREJGWkl4Vy1obUVUWUNzNmRDTnFmbGxGcE1ZQk1JQXdNZzJYZ1Y3MUZDdlA5anRkQ0kyTGxLeTZmaF82M2lqTjhBMWFuYjNheWR5Qmw3bEkzT3NiRlNDTTM1MHhiaDhZSnk1OUNFNjMzZw?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-08-06T07:30:52.000Z",
+      "whyItMattersKo": "선수단의 높은 가치는 팀의 경쟁력과 미래 이적 시장에서의 잠재력을 보여줍니다.",
+      "fanTakeKo": "우리 선수들 비싼 이유가 있죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWZ3Q0ZrOHMxTk9sN0JaZjRmYV9zaHY5dndfdGxNM0tCYkF1ZHJ4U3B1UX",
+      "title": "Palmeiras vacila atrás e perde para Fortaleza, mas avança na Copa do Brasil - UOL",
+      "summaryKo": "파우메이라스, 수비 불안 속 패배했으나 8강 진출",
+      "excerpt": "Palmeiras vacila atrás e perde para Fortaleza, mas avança na Copa do Brasil&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWZ3Q0ZrOHMxTk9sN0JaZjRmYV9zaHY5dndfdGxNM0tCYkF1ZHJ4U3B1UXdZQWpncXZqSWNGVnJ6cUVkYnhvemVabDd5MEZhS1FiR0gycnlqRlVTUVhFVFVpSERmdmZrVWo5SUkxTnZPUzI3dUR4LW1nLW9uTmVFbHlYeHFRQ2FrTkVZQU1YbExib21VRUxfVWpNd2k4X01weVROX0JvQlhjSldSRk5iS1NkTjlfQUQ4aGpZcWNyai1UNmVTYlFMT0ZjNA?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-06T06:25:57.000Z",
+      "whyItMattersKo": "수비 불안으로 패배했지만 8강 진출에 성공하며 다음 라운드에 집중합니다.",
+      "fanTakeKo": "수비는 걱정인데 8강이라 다행입니다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -121,7 +169,7 @@
       "summaryKo": "선두 파우메이라스, 인테르나시오나울전 주목",
       "excerpt": "Brasileirão 2026: líder Palmeiras enfrenta o Internacional; Botafogo x Fluminense e Grêmio x São Paulo agitam a 22ª rodada&nbsp;&nbsp;Jornal Grande Bahia",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNa1dWeHpZeTBOaGloRzBHU2tELXRPZ1VMeTlxUVl2SGwyUmNzZm5yTWpSWFJJZ2lZMmJ1d3RRaFJBVTMyQk1pS2hScDNQZ2l6UjZWVXBKRkpUcDVHTGxJazNWRF9KbURKYWdnN2puSWxHQWhWM2JaOHphRTFnUEY5UkladTZvUGdUeWdDVXo2cGZPT0dhMG1iNm5iTE5CZE1LU3JEalhIMVBCSC14ZWttanVoVUh1eUNzcjQ5QkNQd3lmU3U5UVNnZU11dG9TNTBUcVU1YkNra2FtYkk0YnJTNDdCU1RIanVYV19YRTlsTF9HWi1O?oc=5",
-      "source": "Jornal Grande Bahia",
+      "source": "jornalgrandebahia.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T04:30:18.000Z",
       "whyItMattersKo": "선두팀이 강팀과의 경기에서 승리하면 리그 선두 자리를 더욱 공고히 할 수 있습니다.",
@@ -260,16 +308,64 @@
       ]
     },
     {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUmh6aFN4YjBrMFcwNkdQWVVYZlJJY0JETUJMdDdHS2lHUzNEbVF3dnAyLT",
+      "title": "Abel analisa vaga na Copa do Brasil e admite Palmeiras sem concentração: \"Demos espaço\" - ge",
+      "summaryKo": "아벨, 코파 두 브라실 진출과 집중력 부족 인정",
+      "excerpt": "Abel analisa vaga na Copa do Brasil e admite Palmeiras sem concentração: \"Demos espaço\"&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUmh6aFN4YjBrMFcwNkdQWVVYZlJJY0JETUJMdDdHS2lHUzNEbVF3dnAyLTZrZmt5S0ZTWGdFa29yVFFKWkJma3FORjFMRmR2ZXkwejUzOV80VUlaSm82QlRaTDRJOWJ3Um9QenFlNzV2VTZscEI2cjl6U2czcndIS0xxOEwyeHE2bzZjOHhJX1lWZS1XckxOMnFXdHlZMEdKaHNuZUFQMjFNZUgwWGpSUll0ODVndWtSVk5FQjJzeGxjNGd6QUdVZXNGaVZtUE1zZVNKM09ERWE5d0dMYkJkS3lNWU41WFXSAfYBQVVfeXFMT2dXUll3ZGItUFB1eDlteExkTENmVU5jSWpwZTRxeS1zYmQyNXNlUm4xZWR3c0pNV0RUd3hmVnJfdC1CUkxRVnFTcjdJaXZXVWdZYm1LMTNCSldCZVgtSGE3YW8tQS1YQXA2dzAtTW9seU01SUVFYkdYM1pSZG90Q0hoV2lyT0NEdkZvQTJjeHo3Zi1lbDNHYWJ6MEJveWtDOGlZN20yeHRwX3oxTTFiOVlweGxpRGVjdXpVcUtQd0oybWV5TFNuejY5S1BmTGE3RjFjMjh5SWR6eUd3TEk3TXlGcEhfZWhsOUFmdG5tZUNUNnJvV3ZR?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-06T03:37:19.000Z",
+      "whyItMattersKo": "감독의 집중력 부족 인정은 다음 경기에서 팀의 태도와 전술 수정에 영향을 줍니다.",
+      "fanTakeKo": "집중 좀 해라, 아쉽네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjdNajBhdWtITnN5SHdJT0o0X0dndGpSY3VTSDE5Mmp0YXhwTUVxd2dXdm",
+      "title": "Palmeiras, Vasco, Grêmio e Cruzeiro avançam: veja os gols da Copa do Brasil - UOL",
+      "summaryKo": "파우메이라스, 코파 두 브라실 다음 라운드 진출",
+      "excerpt": "Palmeiras, Vasco, Grêmio e Cruzeiro avançam: veja os gols da Copa do Brasil&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjdNajBhdWtITnN5SHdJT0o0X0dndGpSY3VTSDE5Mmp0YXhwTUVxd2dXdmd5bzFXWU90MjBmOGgwNEtuYVlRdlo1dEpkdkp5c01DTy1SVWVnV0VNbExXVlB5MW9RMHotRGtuOURfbG43Znh5a1F2Vi04MFpLeF95ZmVtejFBWjd2QU9qcEdDSm1wbjFoZTlCemtLOXU1WXFXVGZ1YmNDY0ttUnhuWnJZUjEyaEZZVExkcHQxdVl2aHI5MF9MMGEwNEFKdEprdmhQWXdKdHVjMFFTclph?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-06T03:28:06.000Z",
+      "whyItMattersKo": "코파 두 브라실 승리는 시즌 중 트로피 도전과 팀 분위기 상승에 중요한 발판입니다.",
+      "fanTakeKo": "무사히 통과라 다행이네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY3RQZGVwbENqaF9CZnpuQVg4cUx0ZkpQUkZJRENucEJLN0stQkhLNXIyUXB",
       "title": "Abel assume culpa em derrota do Palmeiras e manda recado: 'Não joga por nome' - itatiaia.com.br",
       "summaryKo": "아벨 감독, 패배 책임 지고 '이름값' 경고",
       "excerpt": "Abel assume culpa em derrota do Palmeiras e manda recado: 'Não joga por nome'&nbsp;&nbsp;itatiaia.com.br",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY3RQZGVwbENqaF9CZnpuQVg4cUx0ZkpQUkZJRENucEJLN0stQkhLNXIyUXBnSUpHdjFMMGZxaHdrVENMbEZXVF9Lb0tMZk9LYWhubTVlR29qQUJpeUJrSkRUNmlCZ0dIVVhyNGZZbWdnbEFvTVcxLTFOV0N3T0UzN0FmT3JsZXF1Z1JvX0NSbTM2eDZ6VkFGZXhqeFFrSGtpUUtITTNuT2NlanNzQ0g1aU5LWms4Xy1lbmhPd05VckxENVdSN290Nms0WWEtOXFDa3I5a2ZlekZvakU1RE5hOUdFUWlfTnMtb0RHQnE3c1R5dG5pMGJz?oc=5",
-      "source": "itatiaia.com.br",
+      "source": "Rádio Itatiaia",
       "language": "pt",
       "publishedAt": "2026-08-06T03:27:14.000Z",
       "whyItMattersKo": "감독의 책임 인정과 선발 기용 원칙 강조는 향후 라인업 변화를 시사합니다.",
       "fanTakeKo": "감독님의 단호한 모습이 좋습니다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSnR2N2tzTnYzYWNCTVZTTW81TW9SV1AxMXI1dk5KMkhOOURtdmxyOWp0al",
+      "title": "Abel diz que não teve 'arte e engenho' para mobilizar Palmeiras em derrota - UOL",
+      "summaryKo": "아벨 감독, 패배 원인을 자신 탓으로 돌려.",
+      "excerpt": "Abel diz que não teve 'arte e engenho' para mobilizar Palmeiras em derrota&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSnR2N2tzTnYzYWNCTVZTTW81TW9SV1AxMXI1dk5KMkhOOURtdmxyOWp0al8zS1g1eEp4SndFVlBkS01lbUNVU3dQcDFqYk1TYnVOYkk2U0ZuaUVKbVRycnlROUhiQXRyYkhRclZGUFpVeUZaMUJaVG9pMkhtYl9ZUWNLdWw1ZldnSm1kdjFoQzR1ZGE3WkNJY1hqQXdCUWRlUDF4VW43SGxIWnB2VmlxbXl6eFZ5ZC1mbUl6SjdVeU1kaGlGaW1LTUtURmxRNExINERXdU02SXVuVTNF?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-06T03:22:16.000Z",
+      "whyItMattersKo": "감독이 패배 책임을 지며 선수들의 사기를 북돋우고 팀 분위기를 쇄신하려는 의도입니다.",
+      "fanTakeKo": "패배는 아프지만 책임지는 모습에 신뢰 간다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -281,7 +377,7 @@
       "summaryKo": "아벨 감독, 패배 책임 지며 '14억 전력' 언급",
       "excerpt": "Abel assume culpa por derrota e exalta trabalho no Palmeiras: 'Elenco de 1,4 bi'&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1ZjRzd4MVZseUExSnpOb3NGOUFaY2JuNkFjNHdnU0k5TGJZWE1GdUVwOS1zbXhXN3hEUkJlYlF5VEZtTTR3ZkhvendKSExuN1hEU19XZllIc1RFcHpEN1BlckxfWWJnMERNbVgxMUI2MkpoOHJ0dHVKNFdEUEJkX1BnN2pRd1R4eHZSVVJFVndlcFd5VVRfZ2c4V2IyUHBBX25ONzNWejlINUIxeHZ3Wm94eHJaTzQ?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T03:22:12.000Z",
       "whyItMattersKo": "비싼 선수단 가치를 언급하며 팀의 잠재력과 자부심을 지키려는 의도입니다.",
@@ -526,22 +622,6 @@
       "publishedAt": "2026-08-06T02:35:00.000Z",
       "whyItMattersKo": "이번 경기 패배에도 전체 승리로 8강에 안착하며 대회 행보를 이어갑니다.",
       "fanTakeKo": "졌어도 8강만 가면 그만이죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWZ3Q0ZrOHMxTk9sN0JaZjRmYV9zaHY5dndfdGxNM0tCYkF1ZHJ4U3B1UX",
-      "title": "Palmeiras vacila atrás e perde para Fortaleza, mas avança na Copa do Brasil - UOL",
-      "summaryKo": "파우메이라스, 수비 불안 속 패배했으나 8강 진출",
-      "excerpt": "Palmeiras vacila atrás e perde para Fortaleza, mas avança na Copa do Brasil&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWZ3Q0ZrOHMxTk9sN0JaZjRmYV9zaHY5dndfdGxNM0tCYkF1ZHJ4U3B1UXdZQWpncXZqSWNGVnJ6cUVkYnhvemVabDd5MEZhS1FiR0gycnlqRlVTUVhFVFVpSERmdmZrVWo5SUkxTnZPUzI3dUR4LW1nLW9uTmVFbHlYeHFRQ2FrTkVZQU1YbExib21VRUxfVWpNd2k4X01weVROX0JvQlhjSldSRk5iS1NkTjlfQUQ4aGpZcWNyai1UNmVTYlFMT0ZjNA?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-06T02:34:51.000Z",
-      "whyItMattersKo": "수비 불안으로 패배했지만 8강 진출에 성공하며 다음 라운드에 집중합니다.",
-      "fanTakeKo": "수비는 걱정인데 8강이라 다행입니다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -876,86 +956,6 @@
       "publishedAt": "2026-08-05T22:25:03.000Z",
       "whyItMattersKo": "팬들이 직접 투표하니 파우메이라스 경기가 중계될 가능성이 높아졌습니다.",
       "fanTakeKo": "우리 팀 경기 뽑아주세요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3NJM3ZhYkt0OTh2VXFROHJLVzVRSDkzTGRLQTE0Y2RLYk5tcEhxSVVoRXc",
-      "title": "Bap admite responsabilidade por atritos com Leila, vê choque de personalidades e reforça respeito ao Palmeiras - goal.com",
-      "summaryKo": "Bap, 레일라와 갈등 인정하고 팀 사랑 강조",
-      "excerpt": "Bap admite responsabilidade por atritos com Leila, vê choque de personalidades e reforça respeito ao Palmeiras&nbsp;&nbsp;goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3NJM3ZhYkt0OTh2VXFROHJLVzVRSDkzTGRLQTE0Y2RLYk5tcEhxSVVoRXc3T3hpMHdKTnoxclhfYUJueGtfb0xETVNja2IxaXUwMUY1TG82cUpuQTg0NGc0SHZjanVCcHVPeE5zcVlvbGk0N0llM09NUWlfMkdKVlhCamtEV0dCRWxEZkVPMXNJQmFUNUpNNENXNHZuQ1FpNmRyU2cyaTlqaDQ1U0M1ZUkzS1oxd2h5dVU1bUtKX0pNRVZ4OWhkekNGWFB2b1ZSVU9GN3BfOUQ?oc=5",
-      "source": "Goal.com",
-      "language": "pt",
-      "publishedAt": "2026-08-05T21:24:03.000Z",
-      "whyItMattersKo": "선수와 구단주 갈등 인정은 팀 내부 단결과 분위기 정상화를 위한 중요한 첫걸음입니다.",
-      "fanTakeKo": "서로 이해하고 하나가 되길 바라요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWVdzRHAwVnp3eGg4aUFwTVF2QUJtdXdYT19ub1N4eXFVRkpTSE1CcWRNNGp",
-      "title": "O que o Palmeiras precisa fazer para se classificar na Copa do Brasil? - Terra",
-      "summaryKo": "파우메이라스, 코파 두 브라실 진출 위한 필요 조건은?",
-      "excerpt": "O que o Palmeiras precisa fazer para se classificar na Copa do Brasil?&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWVdzRHAwVnp3eGg4aUFwTVF2QUJtdXdYT19ub1N4eXFVRkpTSE1CcWRNNGpGWGN4QUdqUjJ0ZzhvbGlxMWhLNXl5U203M2MtOFFrNDBiVzd4TFUyQ19LQzZJR3lJNUhpcG9IQUZQckMxVnhmbFFPNS1aaTk2UzlkY3o4SHE5bVZyTG9YazhtUW9HdUE5MWFPU2xhQVdMN0xYaWpnSEl6VF9FR0UyWE1vdlloWVBNMEdaTDd6cjVrWHhsbzZ6cWtGT3FyLS1hZ29OUVdHX29vSG9yQkM2TXF4TkdOakIzWW44T3ZCd0dPNGo?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-05T21:12:00.000Z",
-      "whyItMattersKo": "대회 탈락을 피한 승점 조건 확인은 남은 경기의 목표 설정에 필수적입니다.",
-      "fanTakeKo": "무조건 이겨서 통과해야 해요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnN1dm5nVExUYkhFMnducTdFT2FrZi1rbzhWcVg2RURQeFNVWXVLS0oybnJ",
-      "title": "Palmeiras veta Luis Pacheco na Seleção por pedido de Abel - LANCE!",
-      "summaryKo": "파우메이라스, 아벨 요청으로 파체코 국대 차단",
-      "excerpt": "Palmeiras veta Luis Pacheco na Seleção por pedido de Abel&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnN1dm5nVExUYkhFMnducTdFT2FrZi1rbzhWcVg2RURQeFNVWXVLS0oybnJkaGVfNGlYaWlCd2VTOE1YLWNsVk9ycm51VUlud3NKaWJaSnFWc3Zrd0xjbzZVRlMzT1V6LTh0VHJ3Qy1lN2t1MU5XVVFhd2hJSVZuNWZFYkhIekhQX2dIbVl1NHFIT1YzRE9wZ2FYSk5yTlNGVFZZckViWENCTUpsaXZvOGJncy1OZ1J6d1lreGNTNnMtTVJvYVhqWnF3?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-05T20:59:45.000Z",
-      "whyItMattersKo": "감독의 선수 관리 요청은 부상 방지와 팀 내 선수의 컨디션 유지에 중점을 둔 결정입니다.",
-      "fanTakeKo": "팀에 중요한 선수니 아쉽지만 이해해요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZC1TY1pyd05SWlBqbEN0Y2xpZVZ2M2tXemdaSGVjODBsVGxJOGE2Yk14bUd",
-      "title": "Massini: Palmeiras errou muito na contratação de Paulinho até aqui - UOL",
-      "summaryKo": "마시니, 파울리뉴 영입 실패라며 파우메이라스 비판",
-      "excerpt": "Massini: Palmeiras errou muito na contratação de Paulinho até aqui&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZC1TY1pyd05SWlBqbEN0Y2xpZVZ2M2tXemdaSGVjODBsVGxJOGE2Yk14bUdsLTV4Z3lDTzljVVVnQmpVd29QRTEwbThhSFpoWEZqNmQzZjItLXJQaXlXcV9YellYalBNaEpDeE02NUFIdEVYa1hTY0MySnVHdEZIZUV2LXdRQXhmYWs1eFVUN2xycEVqa3A4cGt5b3g3R0lUT1FyT0JOZkJkZmQ0ZlFiU0JhSmdDak5aRzA1dzV1cWpTV05mT1Z3Mmo3bUF0OHA2RXlLUjZ3?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-05T20:49:40.000Z",
-      "whyItMattersKo": "전문가의 비판적 시선은 부진한 선수 활용과 향후 이적 시장 방향에 논란을 일으킵니다.",
-      "fanTakeKo": "파울리뉴, 제발 다시 예전 모습 보여줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNkozRWwxR2lFaHRadGVicXZ1QU56VWJ0N1FzVnQtazBTNkYyTFBOQXFnY1J",
-      "title": "Palmeiras pede liberação da Seleção Sub-20 e relaciona joia contra Fortaleza - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, U-20 대표팀 선수 복귀 요청",
-      "excerpt": "Palmeiras pede liberação da Seleção Sub-20 e relaciona joia contra Fortaleza&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNkozRWwxR2lFaHRadGVicXZ1QU56VWJ0N1FzVnQtazBTNkYyTFBOQXFnY1JjRzFMRk9nY2pBYlBodDFic2szejNzYmQ5eThEMm9sSW41M05wek85MUp0WWt1TEpCUUtaSlhGS3VfbXFzNjN4bjFNWWRrWE55c1pGbUFDS2tQdTNDZzVLcmF0X2lXQjZUSE00ZmdmWHlhV3E2a0NOd29tSWxzaGZ3UEVKNE9VTzVWV2JXLXNtaVNjZjJfNUowRnB4QTZ1Q2k2Rk5YSW5MUFdRVHo0cjdVSnYxeDN2QkJRZzI5dFo4clZkUHhMS1dMd2Vj?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-05T20:36:40.000Z",
-      "whyItMattersKo": "주전급 유망주의 합류는 포르탈레자전 선수 층 두께와 전력 강화에 도움이 됩니다.",
-      "fanTakeKo": "유망주 합류로 전력 보강 기대!",
       "tags": [
         "뉴스",
         "AI요약"
