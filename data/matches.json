@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-05T22:59:58.592Z",
+  "fetchedAt": "2026-08-06T00:07:18.369Z",
   "items": [
     {
       "id": "espn-762074",
@@ -27451,6 +27451,32 @@
         "name": "Corinthians",
         "nameKo": "Corinthians",
         "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png"
+      }
+    },
+    {
+      "id": "espn-401841271",
+      "competition": {
+        "id": "brasileirao",
+        "name": "Campeonato Brasileiro Série A",
+        "nameKo": "브라질 세리이 A (전국 리그)",
+        "shortName": "Brasileirão",
+        "kind": "league"
+      },
+      "kickoff": "2026-10-17T18:00Z",
+      "status": "scheduled",
+      "venue": "away",
+      "stadium": "Arena da Baixada",
+      "home": {
+        "id": "3458",
+        "name": "Athletico-PR",
+        "nameKo": "Athletico-PR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png"
+      },
+      "away": {
+        "id": "palmeiras",
+        "name": "Palmeiras",
+        "nameKo": "파우메이라스",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"
       }
     }
   ]
