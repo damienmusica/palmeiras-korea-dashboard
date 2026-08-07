@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-07T18:58:22.999Z",
+  "fetchedAt": "2026-08-07T19:54:34.601Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
+      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
+      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
+      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-07T19:43:13.000Z",
+      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
+      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2hlS2pZNE8tRDQtdl9VaGEwdU85UEFkbFA2Z1NIYXppb2tEOVRpZmN4N2V",
       "title": "Keeta fecha patrocínio com o Palmeiras e reforça aposta no futebol brasileiro - BPMoney",
@@ -57,27 +73,11 @@
       "summaryKo": "시메드, 아버지날 경기에 마케팅 강화",
       "excerpt": "Cimed ativará submarcas nas partidas de Cruzeiro e Palmeiras no Dia dos Pais&nbsp;&nbsp;Máquina do Esporte",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGFYQkFxdF91ZTJUbnJxRkU1M1M0YW05bWozc2dsQUdwVFRVaTRxZWdwWVViTC1RY0hUOUFhVWMtLWlteDZHNnlQTW5nMVhoWmwxSFVQT1Z3ZGk5blh2dm5rQ1BiSFA3SGNkTEozS1BEdVk1UHNMN3c4c2R3OFZIZUxDYmExNktaNTBqcXV1dDFjX215Tko4MXhNeDhHTEg3aHZmRHJNOEFVNFhpRHhnUnhVbDhyWEU?oc=5",
-      "source": "Máquina do Esporte",
+      "source": "maquinadoesporte.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T17:06:00.000Z",
       "whyItMattersKo": "아버지날 특별 마케팅으로 경기장 분위기와 팬 참여도가 높아질 것입니다.",
       "fanTakeKo": "경기장 분위기 더 뜨거워지겠군요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
-      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
-      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
-      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:42:19.000Z",
-      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
-      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -89,7 +89,7 @@
       "summaryKo": "파우메이라스 유스, 성과와 이적으로 성공",
       "excerpt": "Processo, títulos e vendas: o sucesso do Palmeiras na base&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGxVMkhrcm1WdmxURXRJZUZqc0N2RXI3S21HbDN5anVZWDhLYmRMU2hvN1k2a0tSMG9ZVDJhNi13S1EtekJMd08yUDFzZjBFTFBFUm14ekJCWXdiU29ZUmhwM1hBVGFSWnNFcWRON1VGejJKN3FYODg1NEw4eFVhWXdlQkNYRWtPdFhzdDJjbVJiZUU5ZUh3M1d1bG1CV3NSOXNDSmU5aXA2dk1tNzJ3Y3pJajVYTkE?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-07T16:41:57.000Z",
       "whyItMattersKo": "꾸준한 육성 시스템은 팀의 미래 전력과 재정 건전성을 보장합니다.",
@@ -215,7 +215,7 @@
       "summaryKo": "인테르나시오나울전 시간과 선발 예상",
       "excerpt": "Palmeiras x Internacional: veja horário, onde assistir e prováveis escalações pelo Brasileirão&nbsp;&nbsp;JC",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUTg3QnBtdE1HYnRqX2JNWEFUWWQzMklBNmplWFJVZkk1NnRxQUlOM1VCSU9KeXFJZjVBaThVZWZVTE1VTkJ5V2pUcWtzX1lySXg1Nkh0UW1zT0dTTFB2T3MxMzhsV1NxN2pGMU1SMXZXOXFfX2RzWk9aLUM1bFJKclM1anVvLWFUTFAyQ1lXTmRwUUw5clJaSGZFV2FTb0RqdzYydHZKNWJyM2hVYW8tcDhVTXlISzNfdE5FM3BFRjFnaTF1OGh0a1ZJZjl6T05RMnROUjlhNEE2OFNRNk1qdWlTZGIxVUFEMnZIekhUTVRXeVE?oc=5",
-      "source": "jc.uol.com.br",
+      "source": "JC",
       "language": "pt",
       "publishedAt": "2026-08-07T15:08:00.000Z",
       "whyItMattersKo": "리그 일정과 방송 정보, 그리고 예상 선발을 확인해 경기를 시청하세요.",
@@ -295,11 +295,27 @@
       "summaryKo": "파우메이라스, 키타와 2026년까지 파트너십 체결",
       "excerpt": "Palmeiras e Keeta anunciam parceria até o fim de 2026&nbsp;&nbsp;Máquina do Esporte",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ttSUJDM0ZWX0Q2dHdCbGwtWGZZQlFFVHJWaFY2Qm5ZNU11SFktS3gwakFVS1ZHdzVTVk1oakFuOHE1LWZCWkthMUdNQVY1ZHl5aFVYRUVfVWpBdjlQZmQydnRFbXF0b1RDVXVVeldfb2xEVjRJR0poYXF5NUxweHplenljeDFsZlpYRGIybmFfOFNxOVJOeXJn?oc=5",
-      "source": "Máquina do Esporte",
+      "source": "maquinadoesporte.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T14:26:00.000Z",
       "whyItMattersKo": "장기적인 파트너사 확보는 구단의 재정 기반을 탄탄하게 만들어줍니다.",
       "fanTakeKo": "오랫동안 함께하는 파트너라니 좋군요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-19-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdjZU9fNWtsWEpfSjA4RDF0RjlwTk9xY2lrb1hZMlYwTzUxYy1qRmZSTG",
+      "title": "Inter pode rodar o elenco contra o Palmeiras após classificação desgastante - GZH",
+      "summaryKo": "인테르, 파우메이라스전 로테이션 예상",
+      "excerpt": "Inter pode rodar o elenco contra o Palmeiras após classificação desgastante&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdjZU9fNWtsWEpfSjA4RDF0RjlwTk9xY2lrb1hZMlYwTzUxYy1qRmZSTGxET1VXVVBfTGd6dEpyNW05dldmMkNaUnlURENuWXBCQ3BELUZUOHExWURUeEVrVXZLdG9TbWJHVEhXM1RpMzhHbWppdGNDWXhrM3Aza2JYMnY2aENPQ01YT09Yak4xVDY5LUM1bkRuc2hzNXUxOHJPdWI1WFhCbXBibUNOTFowNlgwUThuSHNaNzRLeHN5OXNVT3c5YTV6UGh2SEppeGN1Yy1sVjROSTNBTUJzRlZZQm5oSThaNkh2UmpkQ2hfTnNOV1d3WEY0U3lPUQ?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-07T13:56:41.000Z",
+      "whyItMattersKo": "상대가 체력적으로 지쳐 로테이션을 하면, 파우메이라스가 승리할 확률이 높아질 수 있습니다.",
+      "fanTakeKo": "상대 지쳤으니 이번엔 이기자!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -434,12 +450,28 @@
       ]
     },
     {
+      "id": "gnews-28-https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUx5SGZ6Mk14LWRRdlZpZG5TV0ZtdHhUbGR2VVYxZEwza2c0NzE0SzhuMU",
+      "title": "Palmeiras anuncia a renovação de contrato do zagueiro Murilo até 2029: 'Realização!' - Diario de Cuiabá",
+      "summaryKo": "파우메이라스, 수비수 무릴루와 2029년까지 재계약",
+      "excerpt": "Palmeiras anuncia a renovação de contrato do zagueiro Murilo até 2029: 'Realização!'&nbsp;&nbsp;Diario de Cuiabá",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUx5SGZ6Mk14LWRRdlZpZG5TV0ZtdHhUbGR2VVYxZEwza2c0NzE0SzhuMUlIX09jTG5ObGI5SnVhN0ZRaFFNZEIyTUxMSnBSUjRJcThGVjNjaXVsbHg2cXItNXpMYTJuQl9PMzZ0aFhOZDQ0dHgzLVJra18yc05xUWFBR1V5OVJObTQxODRybzRNMEM0YlhfN2Z5TDdIMGRrU3M5ZTRnUWJJY19WY3Q1QWhqNDUyR2VQUk10T04yNzQ4VkI5WHpaU3JR?oc=5",
+      "source": "Diario de Cuiabá",
+      "language": "pt",
+      "publishedAt": "2026-08-07T12:00:00.000Z",
+      "whyItMattersKo": "핵심 수비수를 장기간 묶어두어 팀 수비력의 안정성을 크게 높였습니다.",
+      "fanTakeKo": "오래오래 함께하자 무릴루!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMivAFBVV95cUxNcTRyOGhWdzRlU2JXY2IwX0Jrbi1lbzNnM1gxMXZlTktNblZsS1Zha0o3cUU",
       "title": "Sem Fla e Corinthians, Copa do Brasil sorri para o Palmeiras - Terceiro Tempo",
       "summaryKo": "강호 탈락에 코파 두 브라질, 파우메이라스에 유리",
       "excerpt": "Sem Fla e Corinthians, Copa do Brasil sorri para o Palmeiras&nbsp;&nbsp;Terceiro Tempo",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcTRyOGhWdzRlU2JXY2IwX0Jrbi1lbzNnM1gxMXZlTktNblZsS1Zha0o3cUUzYTM1RENNRTdSVXU2bVU5UEs1U0w3T2xTZnVqVExVaU9BWWJhYjNYVjBvTTVJMV9FUFloSTIwbHcyd1BreXhnaVp0cEhETjNCUFk5RnZkVm1HUzZ3Y0JYSS1sMWZtTHVuczRfeHFaczRIVWNiWEUydWxSYnJLTzJfNVV0Z2tFYzh1Z19ZRUVodQ?oc=5",
-      "source": "Terceiro Tempo",
+      "source": "terceirotempo.uol.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T12:00:00.000Z",
       "whyItMattersKo": "최대 경쟁자들이 빠지면서 우승 트로피를 들어 올릴 확률이 높아졌습니다.",
@@ -906,38 +938,6 @@
       "publishedAt": "2026-08-06T22:41:50.000Z",
       "whyItMattersKo": "리그 일정을 앞두고 팀 컨디션을 조율하며 승점을 노리겠다는 의지입니다.",
       "fanTakeKo": "리그 승점 다시 챙겨봅시다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjdPX0FoSTdRM0tvWFB5bFNIOTduSTdxWldXX2ZlMHRhcWF5MHpTWkNIakd",
-      "title": "Barboza e Gómez treinam separados e seguem como dúvidas para o Palmeiras - UOL",
-      "summaryKo": "바르보자와 고메스, 별도 훈련으로 출전 의문",
-      "excerpt": "Barboza e Gómez treinam separados e seguem como dúvidas para o Palmeiras&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjdPX0FoSTdRM0tvWFB5bFNIOTduSTdxWldXX2ZlMHRhcWF5MHpTWkNIakdsaEh1LW5Eai1QaEZUNkh1dmdKUW5zd3p3ZHdWWU1YMHZULVVfU2hDR3hSQ29yTm9IUjhVVzZBZEMyZHg3U0V4aWNVWlJKbE5yTkw5Z0R4NlkyRWxhV21BUDlSanBOVFZEa1VYMnAzMGxUeHNfUmUyWm5hZmZhNmNqZENuTHFlUXFSZWVpWkxNcjlSUXVrc2VJQ25YYTFQSHRmSi1iRmtiQlZpRkYzeXJI?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-06T22:22:19.000Z",
-      "whyItMattersKo": "두 선수의 컨디션 난조는 다음 경기의 선발 라인업 구성에 변수가 됩니다.",
-      "fanTakeKo": "빨리 완쾌해서 뛰길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFNxTTZVTC1wSno1c18tOXdGVVlVZ24xR2puNVJPUk9UVXhNVE5LRE5aWE",
-      "title": "Murilo renova com Palmeiras ao lado da família na Academia de Futebol - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 수비수 무리류와 재계약 확정",
-      "excerpt": "Murilo renova com Palmeiras ao lado da família na Academia de Futebol&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFNxTTZVTC1wSno1c18tOXdGVVlVZ24xR2puNVJPUk9UVXhNVE5LRE5aWE1xNTZBa2JuTXBZRU5OMGpwUWxpZ2dRSzgzaU5PX3RFaUpyRF9uQlJ5MElERmFZaTRqWHF4VFRNMDE5ZXVJNmJPNEJBcXlmcS1nQzZBWlpzdUpnek9YVE52NGZySXQ3ZHdWQk8tLVlVc1kzS0k3em15cnZLSzNrOURwQml0YkNlQmxkTzh2amhYatIBwgFBVV95cUxQc2t3NHZrektVLWJpV1Z6VVREX2R2TUpITjN1OXBQRFpvZnBsMHg3U2hwQThEVnlJX2ZpWU9PV1p0OWF6X0ZFRENVaXNFek12NDBPWFYzRTBfZVUtY21BRkFZOGs1SlZQVDJYQmNReU0yOUlpRjRuM2tpQjhJU1lfWDRSMWtGZk9pRE1PNUxQY0w5c1dKWURzNjE0Q3ZmQ0lHOVhuTW1keTU4bU1NYzlrMnNETlItMGlBOTZYMGptclRjdw?oc=5",
-      "source": "gazetaesportiva.com",
-      "language": "pt",
-      "publishedAt": "2026-08-06T22:22:00.000Z",
-      "whyItMattersKo": "팀 수비의 핵심인 무리류가 잔류하여 수비력 유지와 팀 분위기에 긍정적 효과가 있습니다.",
-      "fanTakeKo": "수비수 잔류해서 든든합니다",
       "tags": [
         "뉴스",
         "AI요약"
