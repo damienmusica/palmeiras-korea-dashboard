@@ -1,15 +1,73 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-07T08:14:33.751Z",
+  "fetchedAt": "2026-08-07T09:31:57.134Z",
   "items": [
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdTBHUjUxSW1FRDZtakZCenBnRFp5X0xtV2QwcDIyMVhaWEZybnYxTFZsVnB",
+      "title": "FONTES LIGADAS AO PALMEIRAS NEGAM INVESTIDA EM LUIZ HENRIQUE, MAS O FLA QUE ABRA O OLHO! - instagram.com",
+      "summaryKo": "파우메이라스, 루이스 엔리케 영입 부인",
+      "excerpt": "FONTES LIGADAS AO PALMEIRAS NEGAM INVESTIDA EM LUIZ HENRIQUE, MAS O FLA QUE ABRA O OLHO!&nbsp;&nbsp;instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdTBHUjUxSW1FRDZtakZCenBnRFp5X0xtV2QwcDIyMVhaWEZybnYxTFZsVnBMNlF4eEh3bjNZaWRYYWJsem14TVV4Vkc1djNsemoteXdn?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-07T09:22:27.000Z",
+      "whyItMattersKo": "헛소문은 잠갔지만, 플라멩구가 영입 경쟁에 뛰어들 수 있어 주의가 필요합니다.",
+      "fanTakeKo": "영입설 진짜 많네, 헷갈린다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMie0FVX3lxTFByMERLWUpQMVE2RFA3Sk02bi1oLXhfRjVHN25tRC1leXYxUGpvSDlua0FoX28",
+      "title": "Palmeiras na Copa do Brasil 2026: Saiba os possíveis rivais das quartas de final - Portal ABC do ABC",
+      "summaryKo": "Palmeiras in the Copa do Brasil 2026: 쿼터파이널의 가능한 라이벌에 대해 알아보기 - ABC 포털",
+      "excerpt": "Palmeiras na Copa do Brasil 2026: Saiba os possíveis rivais das quartas de final&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByMERLWUpQMVE2RFA3Sk02bi1oLXhfRjVHN25tRC1leXYxUGpvSDlua0FoX28wdkpyUWVPN1BYbEdkY3owdmlkS1dZOHRxeGE0Y0E4c1FNQVpZZ3djT2ZPRmJlS0VyRms4OWZiUG15RjF1RHM5cmNCRzV5QQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-08-07T09:15:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMikAFBVV95cUxONExLN3VYeGgxWC1fMWlDQ2Z5b3h4ZlYzZThtZmxvM3VQOS1xVlctVnM2SE5",
+      "title": "Palmeiras anuncia contrato de bicampeão brasileiro - NSC Total",
+      "summaryKo": "Palmeiras, 브라질 챔피언 2회 계약 발표 - NSC Total",
+      "excerpt": "Palmeiras anuncia contrato de bicampeão brasileiro&nbsp;&nbsp;NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONExLN3VYeGgxWC1fMWlDQ2Z5b3h4ZlYzZThtZmxvM3VQOS1xVlctVnM2SE5jejVlVk5NY2JpLWJibFhfRjdmMTJmTFM4ZWlWb1F0OVlzWnVCLXpUc3hlZVhkWC00U2VYUV9naS1ldk9XVmVoc2ZKYUtnQ2piZDhfQ0lLNVVIOUFNMHFtcmpMMmw?oc=5",
+      "source": "NSC Total",
+      "language": "pt",
+      "publishedAt": "2026-08-07T09:15:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOE1CZy1RcUFidTJBQUdIZXZBcnZQVFZBaENTV3N4dGJURVZENUpLYVBDeXF",
+      "title": "'Lateral artilheiro', joia brilha na base do Palmeiras e tem multa de R$ 352 milhões - Rádio Itatiaia",
+      "summaryKo": "'측면 포병', 보석은 Palmeiras의 기지에서 빛나고 R $ 352 백만의 벌금이 있습니다 - Rádio Itatiaia",
+      "excerpt": "'Lateral artilheiro', joia brilha na base do Palmeiras e tem multa de R$ 352 milhões&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOE1CZy1RcUFidTJBQUdIZXZBcnZQVFZBaENTV3N4dGJURVZENUpLYVBDeXFDeFhBdTdoNU1MeURzcTlLTjkzNHM0VGRfTmczQ2xaTUJGTE5QYjlRRjdFdHA3dXZZT2ZrV3FHMzUzQTZKRDhRSUdFdHFoeHh3MDBMdEVHTVQ0SmxXX2g0c1loMEhKeTV0NHh3N0Q3dGpES2xhUFZoUk5vbUJrSTBUR1FVOTVpQzV1c0xwa09uV3FGcWZQWUNXNzl6RjFCaVZnbkl2WmFjWDlvNjdtendnSHNfMmZwWEtsdnFLSnZWUmkxRTAxVGl0VG1JOHFfbnBON00?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-08-07T09:00:56.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0s1Y1NOTEowd3JQOGd4ZW1BRmJtZ1FpamRKN1g5QkFGcTl2ODA2a0hsWlp",
       "title": "TV Brasil transmite Ferroviária x Palmeiras pelo Brasileirão Feminino neste sábado - O Universo da TV",
       "summaryKo": "토요일 페로비아리아전, TV 브라질 중계 확정",
       "excerpt": "TV Brasil transmite Ferroviária x Palmeiras pelo Brasileirão Feminino neste sábado&nbsp;&nbsp;O Universo da TV",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0s1Y1NOTEowd3JQOGd4ZW1BRmJtZ1FpamRKN1g5QkFGcTl2ODA2a0hsWlpFTHV1MkpXUGZwOHJEVUh6T0xoNzdDdmhCZW1PWGhkRk9FYVlobmpCSUhvek5YU29Xb2UtNTdKVGZ6VjVoN3Bhem1McjdDdXdEdUlFd0tB?oc=5",
-      "source": "O Universo da TV",
+      "source": "ouniversodatv.com",
       "language": "pt",
       "publishedAt": "2026-08-07T08:06:00.000Z",
       "whyItMattersKo": "페미니누 경기 중계가 잡혀 팬들이 파우메이라스 여자팀 경기를 쉽게 볼 수 있습니다.",
@@ -41,7 +99,7 @@
       "summaryKo": "파우메이라스, 레알마드리드 안토니아 영입 완료",
       "excerpt": "Palmeiras contrata a potiguar Antonia Silva que estava no Real Madrid&nbsp;&nbsp;Costa Branca News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTNiWXZVZXdNaC1VNEppZTBYWXhaVFVaOU5qYjB1dlBNMVBQcVhrazVHZC0xLWhBU0VGZUd0ZWw5VlpGMFg1bklzeUZ0Ry1oRk9YaWo0RUZZVzQ4RVJfVHA5U1cxZXNYcDJDXzE1TnJCVEgxcjdPTlF2dG1aeXF3V2JXVzMybDlGd2dWTVlvWjRERTY0MlUyajU4X3dGWDg?oc=5",
-      "source": "costabrancanews.com",
+      "source": "Costa Branca News",
       "language": "pt",
       "publishedAt": "2026-08-07T03:51:36.000Z",
       "whyItMattersKo": "유럽 정상급 팀에서 뛰던 국대 수비수를 영입해 수비 라인을 강화했습니다.",
@@ -57,27 +115,11 @@
       "summaryKo": "안토니아, 2028년까지 파우메와 계약",
       "excerpt": "Palmeiras contrata Antônia, da seleção e do Real Madrid, até 2028&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTdteHNaMkRnZjdmQVR6TjV2YVdBZTlmYU5QalVyZDR6MWc3OEFaX2hJS01aWE1reHVkUU50YUdaSGFCY0FXVUVxVmNrZnZvbVhNM0kzS3E0M2N6QkZUMlFQVDV3MG1KZ1d5UDJKUEtGVXVMbmdfZTRqZUJ6UEktRkFjUDBvX25OQS1HMTBKWDRzcEY1czV4Zm5MRmxZX3VoQ1pROGtUc3J6Ry03bFlSLTNMNzhjUlFaM3VkanY2dFFJbUpGZ1FoVEl3YThGZzA?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T03:07:59.000Z",
       "whyItMattersKo": "장기 계약으로 핵심 선수를 확정 지어 팀의 미래와 안정성을 담보했습니다.",
       "fanTakeKo": "오랫동안 함께할 수 있어 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdTBHUjUxSW1FRDZtakZCenBnRFp5X0xtV2QwcDIyMVhaWEZybnYxTFZsVnB",
-      "title": "FONTES LIGADAS AO PALMEIRAS NEGAM INVESTIDA EM LUIZ HENRIQUE, MAS O FLA QUE ABRA O OLHO! - instagram.com",
-      "summaryKo": "파우메이라스, 루이스 엔리케 영입 부인",
-      "excerpt": "FONTES LIGADAS AO PALMEIRAS NEGAM INVESTIDA EM LUIZ HENRIQUE, MAS O FLA QUE ABRA O OLHO!&nbsp;&nbsp;instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdTBHUjUxSW1FRDZtakZCenBnRFp5X0xtV2QwcDIyMVhaWEZybnYxTFZsVnBMNlF4eEh3bjNZaWRYYWJsem14TVV4Vkc1djNsemoteXdn?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-08-07T03:01:46.000Z",
-      "whyItMattersKo": "헛소문은 잠갔지만, 플라멩구가 영입 경쟁에 뛰어들 수 있어 주의가 필요합니다.",
-      "fanTakeKo": "영입설 진짜 많네, 헷갈린다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -103,7 +145,7 @@
       "summaryKo": "파우메이라스, 출연진의 스타와 함께 리뉴얼 발표 - 테라",
       "excerpt": "Palmeiras anuncia renovação com craque do elenco&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMV9SbnZTRjM5VGdWWXBDdzRyaGF2S3pYLWVKOXdpYThjUlpKWUUzUS12eEotVUtBN0xUcmpqeHk5YmItanJxRE9XdDM4eXhReTNHVDlobXdjdGVGRlRSZG04dkJFaUtpNHRmQXplSnd5MW5JZUdmMmNBWG1rLWg4UGxKZm45eWhNU0VucTFOSkN2b0NvYWlLZ1pLbkNfZy1YcG9YS2FvcjFzUGFHellaUWJzMkdZQnFMT09XTmRkTVdYbFZxNkZ2ZnltazdTS1pKWnRqNQ?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T01:29:00.000Z",
       "tags": [
@@ -149,7 +191,7 @@
       "summaryKo": "다음 코파 두 브라질전, 중요한 변수",
       "excerpt": "Próximo jogo do Palmeiras na Copa do Brasil contará com novidade importante&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMHp3Ml9YUHB3YUk5cHA1ZTQ2SHl3X2tuRUJBUm1LME5VR0wyLXVET2Y2WUh3dXZCT1JjWFdCc0YtbndvTV9rQWoxN3lYNjQ2MG00MGlYY2E1MmtfX0pvWHVhLXU4N3pBdkFLZVlpSUF4cmN3YjhPRUxvNDBiZWZ1M1FfUjByZFRHak1Ta0YxdlBTYktyUnhJdlgzZWlzMms5TFVJclhnbVdRX2s5UGVjdXc1OU9ld09vdHpwN1hheWE4Y1gtYWxNU2szYUc5cFR1OV9SbTFHWXg4T3N1eWVOeGU5WWFxd2w2N01mRXlBZFEwSnhmTEpfdw?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T00:00:00.000Z",
       "whyItMattersKo": "컵대행에서의 변화는 경기 결과와 선수 운용 전략에 큰 영향을 줄 수 있습니다.",
@@ -241,7 +283,7 @@
       "summaryKo": "바르보자와 고메스, 별도 훈련으로 출전 의문",
       "excerpt": "Barboza e Gómez treinam separados e seguem como dúvidas para o Palmeiras&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjdPX0FoSTdRM0tvWFB5bFNIOTduSTdxWldXX2ZlMHRhcWF5MHpTWkNIakdsaEh1LW5Eai1QaEZUNkh1dmdKUW5zd3p3ZHdWWU1YMHZULVVfU2hDR3hSQ29yTm9IUjhVVzZBZEMyZHg3U0V4aWNVWlJKbE5yTkw5Z0R4NlkyRWxhV21BUDlSanBOVFZEa1VYMnAzMGxUeHNfUmUyWm5hZmZhNmNqZENuTHFlUXFSZWVpWkxNcjlSUXVrc2VJQ25YYTFQSHRmSi1iRmtiQlZpRkYzeXJI?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T22:22:19.000Z",
       "whyItMattersKo": "두 선수의 컨디션 난조는 다음 경기의 선발 라인업 구성에 변수가 됩니다.",
@@ -303,7 +345,7 @@
       "summaryKo": "고메스와 바르보자, 회복 중이나 여전히 미지수",
       "excerpt": "Gómez e Barboza avançam, mas seguem como dúvida no Palmeiras&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWVA3RG15UmgwMmlkQlVSdXZTblJQQjRFb2pmTzNiaEpzc1BsbEpEbUNBbjMwd0otdExIOHJWS21wRGRvb1VTNEZIanVveGN6NVRLM0NUMnBsamxsNlkyU21hTk0zLWZ5TWFib2pnb0pVVTZWSXpZdzJ1VUhSc1Njbko5TU1lemotcEpiWkRqZUpKLVJEZmtzNHlqRHoyT1g3MXBlV2dXOHlGaXdubDRuVlpLcm8wLV94cklKR2x3LThrWEhDM05qZ3lnWGE3MURPamJBRjIwejQ4Z2F0UVktVHg3MA?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T21:50:00.000Z",
       "whyItMattersKo": "부상 회복이 진행 중이지만, 경기 출전 여부는 여전히 불투명한 상황입니다.",
@@ -319,7 +361,7 @@
       "summaryKo": "무릴루, 파우메이라스와 재계약 성사",
       "excerpt": "Murilo celebra renovação com o Palmeiras: \"Me sinto um jogador realizado\"&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNei1rTV9ndlZQOUZUZEp2ZjJ2NUlISzFYSm5ObE5aQlZMYnlmY3JPaTlYYkpRcHFxUlZOczRrQnQ5QnctS1ZuZUVFbHRNQzk0eHJEb0NLbXk5Uzh6Y1Bkcy14eXAxbHBZSUs3Q1VONVBLalV4T2pKcl9nR3p5VWFWQUEyOUxMTHV6d2dNeV9hMzBVc1pfRDRiMExQa1dsYmZWdWt6MEZQQTZyRldwTl8zcmM2T19SaGVmZnVDUkpXNE1salFpQ09ZYl9DQ3g2QjhubGtES2VCM0V2TG5SdTBkcUNaU1V0UUtCQ1RyalQ0eENVQQ?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T21:29:00.000Z",
       "whyItMattersKo": "주전 수비수의 잔류는 팀 수비 안정화와 전력 유지에 아주 중요합니다.",
@@ -367,7 +409,7 @@
       "summaryKo": "파우메이라스, 심판 판정에 피해 봤다",
       "excerpt": "Palmeiras é prejudicado pela arbitragem&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXREQnlnVXdRQWtDajBPMlVyM09Ra0prNFdEYXdkY21RMEhtTy1PdFA3OXNGOGJMUDRGTnNFYU1hdHBEdU1HRGZmR3BndVRhRWQxbElna3dpMHJaWGRYQXVGTHlWNDJtc29kVXR6YlVra2pDdjdBeFdOMHg5T2VlZ1NXYklvbUpnazlZNkFvWThnd2N6OVZCRFUzWWtxTUVUTXc5SGN1bkRWWGxLUW9JNlVobm5GeG9Vd05JaXZlV1B5VUg0Mllfaw?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-06T20:08:00.000Z",
       "whyItMattersKo": "불리한 심판 판정은 경기 결과와 팀 순위에 부정적인 영향을 줄 수 있습니다.",
@@ -415,7 +457,7 @@
       "summaryKo": "레알 마드리드 출신, 파우메이라스 수비 합류",
       "excerpt": "Palmeiras anuncia ex-Real Madrid para a defesa&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWhycTNmOTVfQ1JXZkY1bHBoNzdfR2YyWFl5cTlueGE4bmhLVU1wVlluWTJBd3c1V3g3TnN6M0hETmFHQjhNZWo3T3FZZEJHdTFIWll6TTZ2bnZWQ05abFNUdjNWM3Z3SkU2dWt1X0JVNkxxbEJMMmlZTlhTdWRDSTMzeWJKUTFodlZZVmw4SXAwQjloaU5zSnQxRDVBNnExUVdHYnBvOXJWZ2haU1V4VlNNMnd5QWloTnkwY0FWR2pGSGF5bVl0amhB?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-06T18:54:19.000Z",
       "whyItMattersKo": "빅클럽 출신 수비수 영입은 팀 수비력 강화와 팬들의 기대감을 높여줍니다.",
@@ -886,54 +928,6 @@
       "publishedAt": "2026-08-06T11:46:44.000Z",
       "whyItMattersKo": "패배했지만 코파 두 브라질 8강에 안착하며 우승 도전을 이어갑니다.",
       "fanTakeKo": "패배는 아쉽지만 8강이라 다행입니다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHhOZ2Myc0xtMFlsZmlsTWRpd3IxcnhRYThlWW9tM0ZCQWY0Wml2ZDhZSl",
-      "title": "Abel analisa disputa por posição no Palmeiras: \"Joga quem tem rendimento\" - jogada10.com.br",
-      "summaryKo": "아벨 페헤이라 감독, “성과 좋은 자 뛴다”",
-      "excerpt": "Abel analisa disputa por posição no Palmeiras: \"Joga quem tem rendimento\"&nbsp;&nbsp;jogada10.com.br",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHhOZ2Myc0xtMFlsZmlsTWRpd3IxcnhRYThlWW9tM0ZCQWY0Wml2ZDhZSllVTzNrb09OSnhZWHY2dzlVLWlwOG9hT3pkY0FvNXI5djV2cEFEcExjSFgzejZhczl1OE41UTN4SUNkX3ZpX0YzMDRkVHFvbDVYdHRlZTVlQWN3RmdKdy1uYWRlc1poR3RMNlAwbXhTQdIBoAFBVV95cUxOa2ZLeUtaZGJhR2FuUGw0VlpKaEl5MnF2aHl4Tm53dnM3eVM5ekVxSF8xQ1ctRXpRX3hRUml2amZTZF9PZ0xrLVRXMm1CQUFtOFFzV2NybGY4V0xweGpnWjNxdU91ZXFXNDA2eGpZTjN4bU5ZNWN2UWttN2k0dEgtaEFRVnZIZFNrWHNGSFRhTkdZMVdXLURxN3otclRRTDl0?oc=5",
-      "source": "jogada10.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-06T11:42:39.000Z",
-      "whyItMattersKo": "선수단 내 경쟁을 통해 팀의 최상 컨디션을 유지하겠다는 뜻입니다.",
-      "fanTakeKo": "공정한 경쟁이 팀을 더 단단하게 만들죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjhVQ1BrVlpha1dwN3cwb01yQUhfUnJkSEYxV21PdzMtczBNa3RkM2J2bEt",
-      "title": "Palmeiras bate R$ 30 milhões em premiações após classificação na Copa do Brasil - nn1.com.br",
-      "summaryKo": "파우메이라스, 대회 진출로 수십억 원 상금 확보",
-      "excerpt": "Palmeiras bate R$ 30 milhões em premiações após classificação na Copa do Brasil&nbsp;&nbsp;nn1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjhVQ1BrVlpha1dwN3cwb01yQUhfUnJkSEYxV21PdzMtczBNa3RkM2J2bEtXODl5SFVjajNwbEdkbWE0QndFWlBUbGpQSzN1WkcwcF9Wam1RdFZMTUhTT3M5ZEVCZ1RxeXVxajJHcHhYZEFMZTNQemFuQXM1WVFMcEhPWVlzZkhQOUVyUmoxZGVBdGFMbWFndF9yRDMtMGQ1Z2wyQ2VWZm5NSXcw?oc=5",
-      "source": "nn1.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-06T11:29:00.000Z",
-      "whyItMattersKo": "확보한 막대한 상금은 구단의 재정 안정과 선수 영입에 도움이 됩니다.",
-      "fanTakeKo": "상금으로 좋은 선수 더 영입했으면",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMimgFBVV95cUxNTko1eWRtX2I3RXpxUmM0TU5sdEZtb1ltWnBhRmdNaDhjbTYtaGlRckR4OU9",
-      "title": "Palmeiras visita Tanabi pelo Campeonato Paulista Sub-20 - palmeiras.com.br",
-      "summaryKo": "파우메이라스 유소년, 타나비 원정 갑니다",
-      "excerpt": "Palmeiras visita Tanabi pelo Campeonato Paulista Sub-20&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTko1eWRtX2I3RXpxUmM0TU5sdEZtb1ltWnBhRmdNaDhjbTYtaGlRckR4OU90amd0ZjNTWW9PVzdvYjlJN2o3cXhwTm9fZUdfeklodjFkRkx6TXlkeDBnZjYwYVJsNnlOZjhvQi01SnFjR01WVmMyZ1cxMVFnbmhZTDJfRl9mUncydHY0MlQ4cDYyTHk1dEEzdHBR?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-06T11:10:38.000Z",
-      "whyItMattersKo": "유소년팀 경기는 미래의 주전 선수들을 발굴하고 성장시키는 과정입니다.",
-      "fanTakeKo": "유망주들 활약 기대해요",
       "tags": [
         "뉴스",
         "AI요약"
