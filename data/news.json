@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-07T22:36:25.289Z",
+  "fetchedAt": "2026-08-07T23:34:26.624Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXhFOVVDU24wZGRrYno3TFlHY25tZEsyM05OQXYwQXNUSGdNTUxzMTJEclZ",
+      "title": "Vasco se acerta com Racing e aguarda chegada de Santiago Sosa - CNN Brasil",
+      "summaryKo": "바스쿠, 산티아고 소사 영입 협상 타결",
+      "excerpt": "Vasco se acerta com Racing e aguarda chegada de Santiago Sosa&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXhFOVVDU24wZGRrYno3TFlHY25tZEsyM05OQXYwQXNUSGdNTUxzMTJEclZOTUc0WTBLVnljdTFoUG5peGhKckliYWh2b2JwRUt3WWpJUDlma3kwaVBKTGpwNEtLM2I2c3NhQVM3U3NRaUo0M1NZN2ozMlpRSm55Y3JuTGRFbk1CeUtGYXVKeGhmY0lvMHY0Y3d3STlybUZLUjhONmI1YVFGdUtTNHcyejJfTV9ITk84RzEyQTFrdw?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-07T23:24:50.000Z",
+      "whyItMattersKo": "바스쿠의 미드필더 보강은 브라질레이렁 경쟁 구도에 변화를 줄 수 있습니다.",
+      "fanTakeKo": "라이벌 바스쿠가 꽤나 유명한 선수를 데려오네.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT2JXVnUzc0t0RW4tWDBxZ1lVQlZEczFQYk9YN2xMX29EX1EwdnZGdnN3YTh",
+      "title": "Evangelista celebra sequência no Palmeiras e agradece confiança de Abel - Terra",
+      "summaryKo": "에반젤리스타, 아벨 감독 신뢰에 고마워",
+      "excerpt": "Evangelista celebra sequência no Palmeiras e agradece confiança de Abel&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT2JXVnUzc0t0RW4tWDBxZ1lVQlZEczFQYk9YN2xMX29EX1EwdnZGdnN3YThsMlU1SkJNTmU5Y1VqeVJSN0xxS0pFY2REOUVISlVBQ1dsY3BoczZhVklEc0dqMTNaX3F5Wi1SMWJaTUNNWXMzTjFoa1VQZ0RTYThKTnZWbGxSeDJzRWhmLS1KRnFiWTYtR1RYWG5WU29UVHBEZlBjNnlURVdncGl1ejg0RGhkZ2w5bEwxemd4WGR4ZHFhMVRzQVNnQ1h3R3daakpZemNMMWlBN0d6ak9FNVN0MmMzdmdlOV9nOUJBTFpNdW5EN2c?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-07T23:02:00.000Z",
+      "whyItMattersKo": "선수의 자신감 상승은 팀 전체의 분위기와 경기력에 긍정적 영향을 줍니다.",
+      "fanTakeKo": "에반젤리스타 더 잘할 거라 믿어!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSWI1ZHEyVTAxSWhiVk9IWUl3QmpobVBtemZqSmM0ZXFnbG1wNnhTWHY5bkR",
+      "title": "Barboza treina e pode reforçar o Palmeiras contra o Internacional - Terra",
+      "summaryKo": "바르보자, 인테르나시오날전 복귀 가능",
+      "excerpt": "Barboza treina e pode reforçar o Palmeiras contra o Internacional&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSWI1ZHEyVTAxSWhiVk9IWUl3QmpobVBtemZqSmM0ZXFnbG1wNnhTWHY5bkRlTWxjUG9BQ3lxcDZXVjhtSjFiOGxhaWhzOFBYbXZfbGxJajNnMWZWQ3J2V2R0bF9NZmNXaVVtVUljXzhFU0gzWGRjMGE2bm02eHpheEY0bVVyQ01iQTdiLWs3WnoyMnEzREpPZWlPV0dQTlpSZjBDZFBaRWs3ckJnMTlFUldvam5idVc1cFpmRUs1cFY5MzNDQzFwVGpUc2E0NHFsaWFkMHpCT0Iydkh3eWJXMFdSSVRGbkU4UHBR?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-07T22:47:00.000Z",
+      "whyItMattersKo": "주요 선수의 복귀는 다음 경기 선발 라인업 구성에 중요한 변수가 됩니다.",
+      "fanTakeKo": "바르보자 복귀하면 든든하겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
+      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
+      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
+      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-07T22:43:28.000Z",
+      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
+      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iOW5VT1RwVGxwVHJHd2owaVBnMjZZaDB3ZVd2ZnFCQnlSYkJSNHVSMVMyay1",
       "title": "🗣 \"Não quero trocar bigode com o Palmeiras agora\" Após garantir a classificação para as quartas de final da Copa do Brasil, o técnico Jair Ventura, do Vitória, disse que não deseja enfrentar o Palmeiras na próxima fase da competição. Em entrevista ao FSH - instagram.com",
@@ -14,6 +78,22 @@
       "publishedAt": "2026-08-07T22:32:35.000Z",
       "whyItMattersKo": "상대 감독조차 피하고 싶어 할 만큼 파우메이라스의 위상이 높다는 방증입니다.",
       "fanTakeKo": "상대가 우리를 무서워하네, 뿌듯!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlgwUGt4U2FlTlM3RjQ1Y09kcnAwTHpHS0t4c3Bra1ZxbzdFOVdoN2pnb3V",
+      "title": "Palmeiras x Cerro Porteño: Onde assistir à partida de ida das oitavas de final da Libertadores - MKT Esportivo",
+      "summaryKo": "파우메이라스, 리베르타도레스 16강 1차전",
+      "excerpt": "Palmeiras x Cerro Porteño: Onde assistir à partida de ida das oitavas de final da Libertadores&nbsp;&nbsp;MKT Esportivo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlgwUGt4U2FlTlM3RjQ1Y09kcnAwTHpHS0t4c3Bra1ZxbzdFOVdoN2pnb3VLLTBPSkV4V0I0bDVBZDh2RHktdDcyd0wwNXktaERwa2hFTXNYQU9EQ25DQy1saFdhdXM4S1VMejRQWDJTVVFTOWRJQTVybUMtVzQyTHV2OE8xQzNzY2dHUTZtQjc2UzhJSFB0dlZYcS1uYWVod1c2TW5LQ25NLUNaYWxnd1NuVmJRdmJENnd5eEVuYjN5V2tEM0FLczA4aw?oc=5",
+      "source": "MKT Esportivo",
+      "language": "pt",
+      "publishedAt": "2026-08-07T22:30:28.000Z",
+      "whyItMattersKo": "리베르타도레스 탈락을 피하기 위한 첫 경기라 토너먼트 행보가 달린 승부입니다.",
+      "fanTakeKo": "리베르타도레스 또 우승해야죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -41,7 +121,7 @@
       "summaryKo": "바르보자 훈련 참여, 파우메이라스 전력 보강 예상",
       "excerpt": "Escalação: Barboza treina e deve ser reforço do Palmeiras&nbsp;&nbsp;lance.com.br",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGRjb0RTS01DZDRkWmhBdS0xV0VtQ2pWTXFrdXpQTTVJbmRDNUp0WWVBTTBDNzRDY09NdllMU0tGSklOWVpRTGgtWnBFM2Izd0JDb2lFekkyR1ZCSjdZbmpZTk53Ymd4eHZiaTlkY2VaYndONmpZVVhFTFFuOXUxUjdadEhuczhEdXV0aFlLR3ZXR3ZwREg1cC1xMDhNVG16QUFfSzdRN2E4aXFGQkc1MWY3c3p2cWZNamJ3bklFZllIVDdaVnpR?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-07T22:16:53.000Z",
       "whyItMattersKo": "선수의 훈련 복귀는 부상 복귀가 임박했음을 알리고 전력 보강에 도움이 됩니다.",
@@ -121,7 +201,7 @@
       "summaryKo": "파우메이라스, 배달 앱과 새 후원 계약",
       "excerpt": "Palmeiras anuncia parceria com aplicativo de delivery até o fim da temporada&nbsp;&nbsp;lance.com.br",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLS11aHMyd3UwLWRMOEEzcVhSZXZ4ZnRwby1LMllsRFZwQkpYZ21WdHo3SnJqcmpRVjVCMm9UYkh1d2w3dE5vYm5ob3Z0aWg1NGNMUTJQelpHMFU3dnZyZlQzeG9QdXZKTzVCNXR1UVhFRHpEYzYxbWhjZTdPVHdkTmo5R2tEWEg2VUFCX1lyaGZrR1pLTzlYbVc4d3NsOHBZdUNzb2dhSkRvUlFaWkFJZXB1VWJtZTA?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-07T21:40:40.000Z",
       "whyItMattersKo": "새 후원사 유치는 구단 재정 안정에 도움이 되며 팬들에게 다양한 혜택을 제공할 수 있습니다.",
@@ -185,7 +265,7 @@
       "summaryKo": "파우메이라스, 인테르전 분석과 승부 예측",
       "excerpt": "Palmeiras x Internacional Palpite – Análise e notícias (09/08)&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmdxdUZBakgzTWFyMGZfYWE0czRULURlYlZ0Wk9CdFhaaktDdzBSWDlSNUo3a21LcENNZUVfSXlraDF4MWZBcDlEai1ZdUo4cUFEbHhjSGR5SlFyV3dHbHJwRVpYMGZucU1hU1ZfZEhQd0hLbmNBamRuZDFyWldQMnpiUUJQNVBLdDk1Z1VOdzQ3MkhfZTlV?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-07T20:34:40.000Z",
       "whyItMattersKo": "인테르와의 중요한 경기를 앞두고 팀 전력과 승부 예측을 파악하기 좋습니다.",
@@ -222,22 +302,6 @@
       "publishedAt": "2026-08-07T20:09:40.000Z",
       "whyItMattersKo": "코파 두 브라질 8강에 오르고 다음 상대 인테르가 고전한 점이 유리하게 작용합니다.",
       "fanTakeKo": "8강 진출에 라이벌 탈락까지 최고!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
-      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
-      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
-      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-07T19:43:13.000Z",
-      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
-      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -361,7 +425,7 @@
       "summaryKo": "파우메이라스 유스, 성과와 이적으로 성공",
       "excerpt": "Processo, títulos e vendas: o sucesso do Palmeiras na base&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGxVMkhrcm1WdmxURXRJZUZqc0N2RXI3S21HbDN5anVZWDhLYmRMU2hvN1k2a0tSMG9ZVDJhNi13S1EtekJMd08yUDFzZjBFTFBFUm14ekJCWXdiU29ZUmhwM1hBVGFSWnNFcWRON1VGejJKN3FYODg1NEw4eFVhWXdlQkNYRWtPdFhzdDJjbVJiZUU5ZUh3M1d1bG1CV3NSOXNDSmU5aXA2dk1tNzJ3Y3pJajVYTkE?oc=5",
-      "source": "lance.com.br",
+      "source": "LANCE!",
       "language": "pt",
       "publishedAt": "2026-08-07T16:41:57.000Z",
       "whyItMattersKo": "꾸준한 육성 시스템은 팀의 미래 전력과 재정 건전성을 보장합니다.",
@@ -891,66 +955,6 @@
       "tags": [
         "뉴스",
         "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMikAFBVV95cUxONExLN3VYeGgxWC1fMWlDQ2Z5b3h4ZlYzZThtZmxvM3VQOS1xVlctVnM2SE5",
-      "title": "Palmeiras anuncia contrato de bicampeão brasileiro - NSC Total",
-      "summaryKo": "Palmeiras, 브라질 챔피언 2회 계약 발표 - NSC Total",
-      "excerpt": "Palmeiras anuncia contrato de bicampeão brasileiro&nbsp;&nbsp;NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONExLN3VYeGgxWC1fMWlDQ2Z5b3h4ZlYzZThtZmxvM3VQOS1xVlctVnM2SE5jejVlVk5NY2JpLWJibFhfRjdmMTJmTFM4ZWlWb1F0OVlzWnVCLXpUc3hlZVhkWC00U2VYUV9naS1ldk9XVmVoc2ZKYUtnQ2piZDhfQ0lLNVVIOUFNMHFtcmpMMmw?oc=5",
-      "source": "NSC Total",
-      "language": "pt",
-      "publishedAt": "2026-08-07T09:15:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOE1CZy1RcUFidTJBQUdIZXZBcnZQVFZBaENTV3N4dGJURVZENUpLYVBDeXF",
-      "title": "'Lateral artilheiro', joia brilha na base do Palmeiras e tem multa de R$ 352 milhões - Rádio Itatiaia",
-      "summaryKo": "'측면 포병', 보석은 Palmeiras의 기지에서 빛나고 R $ 352 백만의 벌금이 있습니다 - Rádio Itatiaia",
-      "excerpt": "'Lateral artilheiro', joia brilha na base do Palmeiras e tem multa de R$ 352 milhões&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOE1CZy1RcUFidTJBQUdIZXZBcnZQVFZBaENTV3N4dGJURVZENUpLYVBDeXFDeFhBdTdoNU1MeURzcTlLTjkzNHM0VGRfTmczQ2xaTUJGTE5QYjlRRjdFdHA3dXZZT2ZrV3FHMzUzQTZKRDhRSUdFdHFoeHh3MDBMdEVHTVQ0SmxXX2g0c1loMEhKeTV0NHh3N0Q3dGpES2xhUFZoUk5vbUJrSTBUR1FVOTVpQzV1c0xwa09uV3FGcWZQWUNXNzl6RjFCaVZnbkl2WmFjWDlvNjdtendnSHNfMmZwWEtsdnFLSnZWUmkxRTAxVGl0VG1JOHFfbnBON00?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-07T09:00:56.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUItZE9ROXZjRll6T3RXTS1sYTQ4T2Q3Snpsb3VoaTNGamJhX1pTQVdOZV",
-      "title": "Murilo renova com o Palmeiras até 2029 e mira recorde de jogos no clube - thefootball.com.br",
-      "summaryKo": "무릴루, 파우메이라스와 2029년까지 장기 계약",
-      "excerpt": "Murilo renova com o Palmeiras até 2029 e mira recorde de jogos no clube&nbsp;&nbsp;thefootball.com.br",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUItZE9ROXZjRll6T3RXTS1sYTQ4T2Q3Snpsb3VoaTNGamJhX1pTQVdOZVBfWHRaM2p6RnlwRnNXX2tCSU8yVDhReVRBSDFzZ0FjMndtVm42dzhocUxUT18zVFpaakZDaVNVWm5sRVVlV0p5S01LcTl4WUZ3VlpjVlloX0lzOVZhU0tXd3JiUWVBWUFWR25FWGFzWFZvbk5f?oc=5",
-      "source": "thefootball.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T09:00:39.000Z",
-      "whyItMattersKo": "핵심 수비수의 장기 재계약으로 팀의 수비 조직력과 미래를 단단히 지켰습니다.",
-      "fanTakeKo": "우리 수비의 심장, 무릴루 평생 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0s1Y1NOTEowd3JQOGd4ZW1BRmJtZ1FpamRKN1g5QkFGcTl2ODA2a0hsWlp",
-      "title": "TV Brasil transmite Ferroviária x Palmeiras pelo Brasileirão Feminino neste sábado - O Universo da TV",
-      "summaryKo": "토요일 페로비아리아전, TV 브라질 중계 확정",
-      "excerpt": "TV Brasil transmite Ferroviária x Palmeiras pelo Brasileirão Feminino neste sábado&nbsp;&nbsp;O Universo da TV",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0s1Y1NOTEowd3JQOGd4ZW1BRmJtZ1FpamRKN1g5QkFGcTl2ODA2a0hsWlpFTHV1MkpXUGZwOHJEVUh6T0xoNzdDdmhCZW1PWGhkRk9FYVlobmpCSUhvek5YU29Xb2UtNTdKVGZ6VjVoN3Bhem1McjdDdXdEdUlFd0tB?oc=5",
-      "source": "O Universo da TV",
-      "language": "pt",
-      "publishedAt": "2026-08-07T08:06:00.000Z",
-      "whyItMattersKo": "페미니누 경기 중계가 잡혀 팬들이 파우메이라스 여자팀 경기를 쉽게 볼 수 있습니다.",
-      "fanTakeKo": "여자팀 경기도 화이팅입니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
       ]
     }
   ]
