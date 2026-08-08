@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T03:26:34.481Z",
+  "fetchedAt": "2026-08-08T04:35:52.477Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmdxdUZBakgzTWFyMGZfYWE0czRULURlYlZ0Wk9CdFhaaktDdzBSWDlSNUo",
@@ -14,6 +14,22 @@
       "publishedAt": "2026-08-08T03:05:56.000Z",
       "whyItMattersKo": "인테르와의 중요한 경기를 앞두고 팀 전력과 승부 예측을 파악하기 좋습니다.",
       "fanTakeKo": "인테르전 분석 보니 기대되네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBfVUFDM1RTUGF2ekk2UGRZbUgtdmtBcmwteVc3VEp3UEtsOWc5cWZFNmo",
+      "title": "Botafogo tem oferta negada por cria do Palmeiras e ganha concorrência russa - uol.com.br",
+      "summaryKo": "보타포구, 파우메이라스 유스 영입 제안 거절",
+      "excerpt": "Botafogo tem oferta negada por cria do Palmeiras e ganha concorrência russa&nbsp;&nbsp;uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBfVUFDM1RTUGF2ekk2UGRZbUgtdmtBcmwteVc3VEp3UEtsOWc5cWZFNmoybllXR3BaTUQtN09PWWhzUTBlSHJwbXUxMi1CMWtJcEVvTTl5RjJNb3hQa0hadEhGc0RNTFJHcHQzVEJEWTcxUGlBMUtkdTVBd3ZiTWl2ZXhySHhqV2FReGZaNDhsZHJQNWZydWx0WGRrNTFreXVyeEhwczVxS19YTFhHT1JRVmRYb3JnNFBKSlJqQy1VbWNWYkdIN3RoQS1vNlZMd2c?oc=5",
+      "source": "uol.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-08T02:22:36.000Z",
+      "whyItMattersKo": "타 클럽의 영입 제안이 들어올 만큼 우리 유망주의 가치가 높아졌다는 의미입니다.",
+      "fanTakeKo": "우리 유망주는 놔두시지!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -52,32 +68,16 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
-      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
-      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
-      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "ge",
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMihwJBVV95cUxQcUNoNm55SlF3S3BYT1hNSUlCS2xFay01LUhSVmRkRWVEVzl1WkNnVDlYSTU",
+      "title": "Com reforço na zaga, Inter treina no CT do São Paulo antes de enfrentar o Palmeiras - GZH",
+      "summaryKo": "인테르, 수비 보강 받고 파우메이라스전 앞둔 훈련",
+      "excerpt": "Com reforço na zaga, Inter treina no CT do São Paulo antes de enfrentar o Palmeiras&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcUNoNm55SlF3S3BYT1hNSUlCS2xFay01LUhSVmRkRWVEVzl1WkNnVDlYSTUwU3ZqS1BNRnZ4Ry1MbVY1a0otYnpmUFZUUGdySnlWWVRJLVNvTTV1ZFZaNjhGMW1FQkZ3eTBESHFKYTgtX3hoRWdCdjlWbVY1X0xOeEhReFd2dXYtV1ltcURPWjhCYjVXNWJzMWhKVzdkZS1qSnpOLXh1N0ZpMnlHZ2d0NXQ2NmtFTmJneDY2UThBeXF2V2hlT0tKSnhaTGFnc0dsUS14eEtTZG9MczBJLWl3WjFTTXRQbjZtaHNqT2h0bUU4cklfcDBjR1lQYTljR0NlNEIzOTYzaw?oc=5",
+      "source": "GZH",
       "language": "pt",
-      "publishedAt": "2026-08-08T01:47:48.000Z",
-      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
-      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBfVUFDM1RTUGF2ekk2UGRZbUgtdmtBcmwteVc3VEp3UEtsOWc5cWZFNmo",
-      "title": "Botafogo tem oferta negada por cria do Palmeiras e ganha concorrência russa - uol.com.br",
-      "summaryKo": "보타포구, 파우메이라스 유스 영입 제안 거절",
-      "excerpt": "Botafogo tem oferta negada por cria do Palmeiras e ganha concorrência russa&nbsp;&nbsp;uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBfVUFDM1RTUGF2ekk2UGRZbUgtdmtBcmwteVc3VEp3UEtsOWc5cWZFNmoybllXR3BaTUQtN09PWWhzUTBlSHJwbXUxMi1CMWtJcEVvTTl5RjJNb3hQa0hadEhGc0RNTFJHcHQzVEJEWTcxUGlBMUtkdTVBd3ZiTWl2ZXhySHhqV2FReGZaNDhsZHJQNWZydWx0WGRrNTFreXVyeEhwczVxS19YTFhHT1JRVmRYb3JnNFBKSlJqQy1VbWNWYkdIN3RoQS1vNlZMd2c?oc=5",
-      "source": "uol.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-08T01:41:17.000Z",
-      "whyItMattersKo": "타 클럽의 영입 제안이 들어올 만큼 우리 유망주의 가치가 높아졌다는 의미입니다.",
-      "fanTakeKo": "우리 유망주는 놔두시지!",
+      "publishedAt": "2026-08-08T01:53:36.000Z",
+      "whyItMattersKo": "상대팀 수비가 보강되어 다가오는 파우메이라스전의 난이도가 높아질 수 있습니다.",
+      "fanTakeKo": "수비가 단단해졌는데 걱정되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -91,9 +91,25 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNUNUNmFBbElYSk5LcjR5cVJiU21qSjNwaFJfRWw3dDgwYkFsdEZiS1lXY2ZaS29HM01uMFlpaWE5VTlIamtjNERCWFo2X0FfZGFOTTFmVDhTRGZ0ekNEYmpiWEpmY1ZWa2JhS3BaNEVEZllUdW5QbXJlTTlhZ1V1WUF1bzNWRW5mRTBud0UyZ1piRENUSDZiODhZc05OT1RCNXJyazlabW5YQ2c4ODFodHBRTXZ0dnBERjNGYXhpOGREaFRzbTQ1enV5OElEQTdFRzR4eQ?oc=5",
       "source": "uol.com.br",
       "language": "pt",
-      "publishedAt": "2026-08-08T01:41:15.000Z",
+      "publishedAt": "2026-08-08T01:53:05.000Z",
       "whyItMattersKo": "수비수 복귀는 수비 안정을 돕지만, 공격수의 출전 여부는 득점력에 중요한 변수입니다.",
       "fanTakeKo": "바르보자 복귀가 기대되네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
+      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
+      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
+      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-08T01:47:48.000Z",
+      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
+      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -201,7 +217,7 @@
       "summaryKo": "가브리엘 제수스 이적설, 파우메이라스는 관망",
       "excerpt": "Gabriel Jesus vira alvo de gigante italiano; Palmeiras segue olhando de longe&nbsp;&nbsp;abcdoabc.com.br",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaEQ0NU1CYS1kTERrRGpkOUtMM0p3QTdScFVYOF9HTThxc1VYdU5yek1VUHBLNFVNWnJ3bmNKYk1fQ3QwRHlXWV9VY1VrbHVmSTdVZnNJNXA1ZkcybU14SmI3QldjZw?oc=5",
-      "source": "abcdoabc.com.br",
+      "source": "Portal ABC do ABC",
       "language": "pt",
       "publishedAt": "2026-08-08T00:28:16.000Z",
       "whyItMattersKo": "유망 공격수의 이적 동향을 파악해 향후 영입 전략에 참고할 수 있습니다.",
@@ -254,6 +270,22 @@
       "publishedAt": "2026-08-08T00:10:18.000Z",
       "whyItMattersKo": "유소년팀의 원정 승리는 미래의 1군 전력을 키우는 데 긍정적인 신호입니다.",
       "fanTakeKo": "유망주들 활약 앞으로가 기대되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjZKdnBjc2RGdVNXWDlENDNpdC1BZnp4SnRLOUhfb216c0dUaXI1R2ZvaH",
+      "title": "Resta um: Flaco López é o único jogador do Brasileirão que segue na Copa - CNN Brasil",
+      "summaryKo": "라코 로페스, 리그 유일한 컵 대회 남은 선수",
+      "excerpt": "Resta um: Flaco López é o único jogador do Brasileirão que segue na Copa&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjZKdnBjc2RGdVNXWDlENDNpdC1BZnp4SnRLOUhfb216c0dUaXI1R2ZvaHhpeXdaSTF4Y0g5RWVGN1lfWXFaWW5oMFlLU1M5X2lkbGgtV1hRMUs5NEV3Um5kRWNiYUF2bTJhZmY1WkhISlhTQVhLWTFYSXI0aFJvMlAtSElGdnhodzYwTUNpQzdTb0ZDVTRsNGFDQW9RaE9FZ3laZ3d4X1B1Vzg0RzE0YXBKS3pzN1BHVmxnWUNhYVJ3RG5GSm1QdFctZks?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-08T00:07:54.000Z",
+      "whyItMattersKo": "브라질리앙 선수 중 유일하게 컵 대회에 남아 기록에 관심이 쏠리고 있습니다.",
+      "fanTakeKo": "혼자 남은 건 대단하지만 아쉽네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -924,38 +956,6 @@
       "publishedAt": "2026-08-07T14:33:44.000Z",
       "whyItMattersKo": "이적료 없이 뛰어난 국대 미드필더를 영입할 수 있는 좋은 기회입니다.",
       "fanTakeKo": "이적료 없이 영입하길 바랍니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ttSUJDM0ZWX0Q2dHdCbGwtWGZZQlFFVHJWaFY2Qm5ZNU11SFktS3gwakF",
-      "title": "Palmeiras e Keeta anunciam parceria até o fim de 2026 - Máquina do Esporte",
-      "summaryKo": "파우메이라스, 키타와 2026년까지 파트너십 체결",
-      "excerpt": "Palmeiras e Keeta anunciam parceria até o fim de 2026&nbsp;&nbsp;Máquina do Esporte",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ttSUJDM0ZWX0Q2dHdCbGwtWGZZQlFFVHJWaFY2Qm5ZNU11SFktS3gwakFVS1ZHdzVTVk1oakFuOHE1LWZCWkthMUdNQVY1ZHl5aFVYRUVfVWpBdjlQZmQydnRFbXF0b1RDVXVVeldfb2xEVjRJR0poYXF5NUxweHplenljeDFsZlpYRGIybmFfOFNxOVJOeXJn?oc=5",
-      "source": "Máquina do Esporte",
-      "language": "pt",
-      "publishedAt": "2026-08-07T14:26:00.000Z",
-      "whyItMattersKo": "장기적인 파트너사 확보는 구단의 재정 기반을 탄탄하게 만들어줍니다.",
-      "fanTakeKo": "오랫동안 함께하는 파트너라니 좋군요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdjZU9fNWtsWEpfSjA4RDF0RjlwTk9xY2lrb1hZMlYwTzUxYy1qRmZSTG",
-      "title": "Inter pode rodar o elenco contra o Palmeiras após classificação desgastante - GZH",
-      "summaryKo": "인테르, 파우메이라스전 로테이션 예상",
-      "excerpt": "Inter pode rodar o elenco contra o Palmeiras após classificação desgastante&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzdjZU9fNWtsWEpfSjA4RDF0RjlwTk9xY2lrb1hZMlYwTzUxYy1qRmZSTGxET1VXVVBfTGd6dEpyNW05dldmMkNaUnlURENuWXBCQ3BELUZUOHExWURUeEVrVXZLdG9TbWJHVEhXM1RpMzhHbWppdGNDWXhrM3Aza2JYMnY2aENPQ01YT09Yak4xVDY5LUM1bkRuc2hzNXUxOHJPdWI1WFhCbXBibUNOTFowNlgwUThuSHNaNzRLeHN5OXNVT3c5YTV6UGh2SEppeGN1Yy1sVjROSTNBTUJzRlZZQm5oSThaNkh2UmpkQ2hfTnNOV1d3WEY0U3lPUQ?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-08-07T13:56:41.000Z",
-      "whyItMattersKo": "상대가 체력적으로 지쳐 로테이션을 하면, 파우메이라스가 승리할 확률이 높아질 수 있습니다.",
-      "fanTakeKo": "상대 지쳤으니 이번엔 이기자!",
       "tags": [
         "뉴스",
         "AI요약"
