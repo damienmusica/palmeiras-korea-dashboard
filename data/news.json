@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T15:30:10.346Z",
+  "fetchedAt": "2026-08-08T15:58:46.972Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNk11WmpCc19ORmlPNFN0SFZFaGtMNFdnSFNLMHBuTG51cjNkaFp5UlNyT3I",
+      "title": "Palmeiras prepara duelo com Internacional em campanha histórica - Terra",
+      "summaryKo": "파우메이라스, 인테르나시오나전과 역사적 행보 준비",
+      "excerpt": "Palmeiras prepara duelo com Internacional em campanha histórica&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNk11WmpCc19ORmlPNFN0SFZFaGtMNFdnSFNLMHBuTG51cjNkaFp5UlNyT3I2c0FfcXFVZ24xTDhrejBsVHdjVVlnQmxfTWYySUxrYll4QVFfa1FiWThMREZib0FtOFdtampIeEszQUJ4UWc2S2M4R3dON0t4eVhjeUNsSnZXb3F5RHNvVnhRRG9hZkpMZ0h5QVV6Qmd3SUp3OTEzRHVjd3Ffck1jLVJ5RFBTZmh4eHJRN0RWWlg4NndIYXpzWWVTX2dIQ0lLdV9nRlZRYlJ4OC01ODFHWjFXOFZyUGNyMFM4?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-08T15:41:00.000Z",
+      "whyItMattersKo": "역사적인 시즌의 중요한 고비라 이번 경기 결과가 남은 일정의 흐름을 좌우할 겁니다.",
+      "fanTakeKo": "역사적 시즌 만들어요 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWN5WXBCZGNIZ3pscUpfVC1GUDFYUjVOclV2Y2ttd0R4dFpjQWZKbWNlRll",
+      "title": "Sub-15 e Sub-17 do Verdão goleiam Guarulhos no encerramento da 1ª fase do Paulista - palmeiras.com.br",
+      "summaryKo": "파우메이라스 유스팀, 대승으로 파울리스타 1차전 화려하게 마감",
+      "excerpt": "Sub-15 e Sub-17 do Verdão goleiam Guarulhos no encerramento da 1ª fase do Paulista&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWN5WXBCZGNIZ3pscUpfVC1GUDFYUjVOclV2Y2ttd0R4dFpjQWZKbWNlRllKdGFKLWt5SXl6MWJNS2VNdHE3UjJ1Q2NXUWx6amlITVVDbTl1X1lTaENWWktVeHB4bFB5aUFRZEVBMFAtVW9UWl9OOUhCeTkwQTdMdVFTTWJJSTRMOFh5dWhERnpRX0NWUm13Y3UwUTJ6N2ctdVZ1akt6NEQzVnFoTmo3Y3dqM1doSDZlNk5kSlBR?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-08T15:38:44.000Z",
+      "whyItMattersKo": "유망주들의 활약은 팀의 미래 전력을 강화하고 팬들에게 희망을 줍니다.",
+      "fanTakeKo": "유망주들 활약에 미래가 밝아요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQX0NubkNVVFJSMWNqeE5lUTEzNUx0aEV6WWJSRHhBZWw3ZjB6eFAtOVhrX19",
       "title": "Palmeiras x Internacional: onde assistir, escalações e arbitragem - Terra",
@@ -222,6 +254,22 @@
       "publishedAt": "2026-08-08T10:00:00.000Z",
       "whyItMattersKo": "미래의 주역들이 뛰는 유소년 리그는 팀의 장기적인 전력 강화를 보여줍니다.",
       "fanTakeKo": "미래의 에이스들이 기대되네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1JQWDBfdC1iZWxuOTVyMmsydk1jdW1PMFRuZ2JENzJPYk1EWW1QR3NzYT",
+      "title": "WTorre aposta em mudança de estilo musical de shows no estádio do Palmeiras - LANCE!",
+      "summaryKo": "파우메이라스 홈구장 공연 음악 스타일 변경됩니다",
+      "excerpt": "WTorre aposta em mudança de estilo musical de shows no estádio do Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1JQWDBfdC1iZWxuOTVyMmsydk1jdW1PMFRuZ2JENzJPYk1EWW1QR3NzYTZzYkVnR0gtVk9kc1VtWDF6WTF3ZXl5THNMLS02YjM0SV80LUVBSVRTSGZVQjFDdUtfa0VoX0JITGNrcEE5R2U2bFFtRVlPNkh2MnNNd3d5Z0loemNUdDlCR196TFcyQ0hQV0pxajV3STllVkw4T3dUVndYa3luVGdqUkJ3cm9PSUkyZw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:45:00.000Z",
+      "whyItMattersKo": "구장 공연 음악이 바뀌어 홈 경기장의 분위기와 관중들의 경험이 달라질 수 있습니다.",
+      "fanTakeKo": "음악 바꾸면 분위기 더 좋아질까요?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -910,54 +958,6 @@
       "publishedAt": "2026-08-07T21:59:44.000Z",
       "whyItMattersKo": "부상에서 돌아온 선수가 합류하여 다음 경기 팀 전력에 보탬이 됩니다.",
       "fanTakeKo": "바르보자 복귀에 기대가 큽니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXBDREk0QVFac3VNWjJOWTFIUkl4MXZSVzlOM1NlUWVwdGRtYTY3M1BveEJ",
-      "title": "Palmeiras x Cerro Porteño: Veja a arbitragem definida pela CONMEBOL - Tribuna de Jundiaí",
-      "summaryKo": "파우메이라스전 심판진, 남미 연맹 발표",
-      "excerpt": "Palmeiras x Cerro Porteño: Veja a arbitragem definida pela CONMEBOL&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXBDREk0QVFac3VNWjJOWTFIUkl4MXZSVzlOM1NlUWVwdGRtYTY3M1BveEJxeDJ4Mjl0WmdzTXBkWG9PaFAxLThpQmRkRTQ0bU9Fb3NCOU5QcU91RDdTa3RTdDF1LTkwX2RLdHpMa3BYSnk2cmZhaVhXVF90M3NQck1YbllxX3h0M2hoRnVsSUktWDBJbVIzZ0FNV25BSnpWS2xGN1Rya2UwRHNYNEtTdFY3OA?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-08-07T21:58:31.000Z",
-      "whyItMattersKo": "리베르타도레스 경기의 심판진 구성은 승패에 영향을 줄 수 있는 중요한 변수입니다.",
-      "fanTakeKo": "공정한 판정만 부탁드려요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZ21FekRjR01sY3VIMVlQck9tMlZJNm5fa0ZONmJUellhUkdHQ2p0VkhjbDR",
-      "title": "Palmeiras x Cerro: Saiba a equipe de arbitragem definida pela CONMEBOL - Portal ABC do ABC",
-      "summaryKo": "파우메이라스전 심판진, 남미 연맹 발표",
-      "excerpt": "Palmeiras x Cerro: Saiba a equipe de arbitragem definida pela CONMEBOL&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZ21FekRjR01sY3VIMVlQck9tMlZJNm5fa0ZONmJUellhUkdHQ2p0VkhjbDRIdFNPZmhaTE40VnBvc3dCOEY5TVF5U2JGZmJkZ3BLVVVydUJLOE5RYmFzX1FOS0xLazlDX1hnaXRB?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-08-07T21:53:00.000Z",
-      "whyItMattersKo": "리베르타도레스 경기의 심판진 구성은 승패에 영향을 줄 수 있는 중요한 변수입니다.",
-      "fanTakeKo": "공정한 판정만 부탁드려요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMitwFBVV95cUxOLS11aHMyd3UwLWRMOEEzcVhSZXZ4ZnRwby1LMllsRFZwQkpYZ21WdHo3SnJ",
-      "title": "Palmeiras anuncia parceria com aplicativo de delivery até o fim da temporada - lance.com.br",
-      "summaryKo": "파우메이라스, 배달 앱과 새 후원 계약",
-      "excerpt": "Palmeiras anuncia parceria com aplicativo de delivery até o fim da temporada&nbsp;&nbsp;lance.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLS11aHMyd3UwLWRMOEEzcVhSZXZ4ZnRwby1LMllsRFZwQkpYZ21WdHo3SnJqcmpRVjVCMm9UYkh1d2w3dE5vYm5ob3Z0aWg1NGNMUTJQelpHMFU3dnZyZlQzeG9QdXZKTzVCNXR1UVhFRHpEYzYxbWhjZTdPVHdkTmo5R2tEWEg2VUFCX1lyaGZrR1pLTzlYbVc4d3NsOHBZdUNzb2dhSkRvUlFaWkFJZXB1VWJtZTA?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-07T21:40:40.000Z",
-      "whyItMattersKo": "새 후원사 유치는 구단 재정 안정에 도움이 되며 팬들에게 다양한 혜택을 제공할 수 있습니다.",
-      "fanTakeKo": "클럽 재정 탄탄해지길!",
       "tags": [
         "뉴스",
         "AI요약"
