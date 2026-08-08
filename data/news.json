@@ -1,8 +1,72 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T19:30:39.939Z",
+  "fetchedAt": "2026-08-08T20:30:52.608Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0t1Rm9qSjA0UV9iYnB3THRRTUlXb1V6T1g0a3FxNFRJdW1hdlF4c3RqVy0",
+      "title": "Palmeiras x Inter: líder do Brasileirão recebe Colorado após classificação na Copa do Brasil - WH3",
+      "summaryKo": "파우메이라스, 인테르전 앞두고 브라질레이렁 선두",
+      "excerpt": "Palmeiras x Inter: líder do Brasileirão recebe Colorado após classificação na Copa do Brasil&nbsp;&nbsp;WH3",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0t1Rm9qSjA0UV9iYnB3THRRTUlXb1V6T1g0a3FxNFRJdW1hdlF4c3RqVy0zcVFxeTFfZ2oyeTJUa3NtdUhoUWNUbVNuZ3BLSkt1TFNCZVVvNDZra200aVBGZm0xakFQMkk0UVV0SURRZUJveFpwRC1QaUYwWWlzRE5NeTVKNy1JMUJERGtzVlhXTmd6VW9TQ2NlMjI2WWhKallDcXI2Nkw0ZGMyWkNoendpM0hHWHBTZTFRYXBueU5RM3lZVEZuSG93?oc=5",
+      "source": "WH3",
+      "language": "pt",
+      "publishedAt": "2026-08-08T20:13:00.000Z",
+      "whyItMattersKo": "코파 두 브라실 진출 후 브라질레이렁 선두로서 인테르를 상대하는 중요한 경기입니다.",
+      "fanTakeKo": "선두 유지하며 승리 가져가자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
+      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
+      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
+      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-08T19:56:55.000Z",
+      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
+      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXl0aVJoc2JHYk4xaXhXZk50OTZzakJ6VlpiQU8tdU5BQUFjeWlDd2R6TTh",
+      "title": "Palmeiras x Internacional: escalações e onde assistir ao jogo pelo Brasileirão - LANCE!",
+      "summaryKo": "파우메이라스 대 인테르, 라인업과 중계 안내",
+      "excerpt": "Palmeiras x Internacional: escalações e onde assistir ao jogo pelo Brasileirão&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXl0aVJoc2JHYk4xaXhXZk50OTZzakJ6VlpiQU8tdU5BQUFjeWlDd2R6TThXU1hMN1VHQ2JBMURkVUhSU2R6eHo1VnhLQVRjdXpta3Y4eVVCX1BOdmhiRVE1bGxoVzc1MEh6ck00S0p3a1BrS1J6QWllYWs4aGhEOGxpZzRuRFk2Y2hJOEwwNkNyQ3lIVDJ2dFlJOXJMU21HdlUwcmVZaEJoTVh6ZUNBcDY5TENVLUFKa0hKbk5n?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-08T19:40:14.000Z",
+      "whyItMattersKo": "오늘 경기 선발 명단과 시청 방법을 확인해 팬들이 경기를 즐길 수 있습니다.",
+      "fanTakeKo": "라인업 확인하고 경기 보러 간다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW4wNnpmeDFDQXBVRXFDZFN0czJGX2Fhc1UxUXRsVVJUeTNMY1BqTjlFd2E",
+      "title": "Gustavo Gómez volta a treinar no campo, mas é desfalque contra o Inter - band.com.br",
+      "summaryKo": "구스타부 고메스 훈련 복귀, 인테르전은 결장",
+      "excerpt": "Gustavo Gómez volta a treinar no campo, mas é desfalque contra o Inter&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW4wNnpmeDFDQXBVRXFDZFN0czJGX2Fhc1UxUXRsVVJUeTNMY1BqTjlFd2Ewc1dwZmJqWHBnSlhpSVAyRmJvTGlCbl81eUtGOVg2VVc3MjJiSWZVUjlhRWhXam8zNmd1dlZvbTdnd1Q1QUtkb3IwVjQ4RXAxSG5yUlppbklLdFlJRGRmaFZJbGtFMUdzYUFyNnJNRG1OUC1kNDVEYjRaMlFtVS1pRFc4a2tiUnRmZw?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-08T19:36:28.000Z",
+      "whyItMattersKo": "주장의 복귀는 긍정적이지만, 이번 경기 수비 조직에는 영향을 줄 수 있습니다.",
+      "fanTakeKo": "빨리 풀 힘으로 뛰는 모습 보고 싶네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmdxdUZBakgzTWFyMGZfYWE0czRULURlYlZ0Wk9CdFhaaktDdzBSWDlSNUo",
       "title": "Palmeiras x Internacional Palpite – Análise e notícias (09/08) - LANCE!",
@@ -116,6 +180,22 @@
       ]
     },
     {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMizAFBVV95cUxORHliQ045ejJOTWo0eXZ3NENoVDRZMTlYOG1uQjlMaXZPV0RqOGIxTHlfb3",
+      "title": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras - esportes.r7.com",
+      "summaryKo": "아벨 페헤이라, 수비 변화 주고 전술 훈련",
+      "excerpt": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras&nbsp;&nbsp;esportes.r7.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHliQ045ejJOTWo0eXZ3NENoVDRZMTlYOG1uQjlMaXZPV0RqOGIxTHlfb3pIUEtJWTlsaHlBd0hPN09KZnh4blFINGNUVVpIY2tMdEdfaTM2NDZlVFRXOVNYemk4SFJvVkc2NXBieXlCaHYxWUE5TTVYWmRzSkIxdDUxOXhBZUdoZS1nVEpKR2VoeEVfUThhazRoX1Fqeks1czNldkswOHYzWnFwdWc1UjdjNzhVVlBsQXBBbXRjUlpkckluU3NrZmF6WTA?oc=5",
+      "source": "esportes.r7.com",
+      "language": "pt",
+      "publishedAt": "2026-08-08T18:31:46.000Z",
+      "whyItMattersKo": "수비진 변경과 전술 점검을 통해 다가오는 경기 대비를 마무리했습니다.",
+      "fanTakeKo": "아벨 감독의 전술, 믿고 봅니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-7-https://news.google.com/rss/articles/CBMiggJBVV95cUxPd2VZU29WaU1MX3ZCNmVNM2t1MkFhZkdST2E4QmhqRWFXeE9wNFF0SGhJRzJ",
       "title": "De avião a jaqueta: influenciadora aponta ‘coincidências’ entre ‘Ted Lasso’ e Palmeiras - Terra",
       "summaryKo": "테드 라소와 파우메이라스, 우연의 일치 화제",
@@ -137,11 +217,27 @@
       "summaryKo": "파우메이라스 여성팀, 토요일 리그전 치른다",
       "excerpt": "Ferroviária e Palmeiras se enfrentam pelo Brasileirão Feminino neste sábado&nbsp;&nbsp;araraquaranews.com.br",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORGQzUDNJbGR1TjFYUEpDalZUNXMybW5icXpNT2did3FWNG44STduZm5Lc1c2M1FkN0FrVjdrSmJEdGJfdUh4OXFQT3pIalFRNmJodktWY19UMHZsN3IwMmhIbDBVNTVOM1JRNHJDdnRUYVI5cGFUcVBiSk1laGs0TjVjMkdJSjlmdmpCYUpRdGFmQ2k5a1VsZ09Yblp4dU13a2RxeFJ0TE1HdU1zMVZhWWFob0RxQkNmU1dPMVBiUFY1cjg?oc=5",
-      "source": "araraquaranews.com.br",
+      "source": "Araraquara News",
       "language": "pt",
       "publishedAt": "2026-08-08T18:16:00.000Z",
       "whyItMattersKo": "여성팀의 일정 확인은 팬들이 팀의 성적과 순위를 지속적으로 응원하는 데 도움을 줍니다.",
       "fanTakeKo": "여성팀 경기도 응원하러 가야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXRWMWRXQUpTZDRGeXpTODdUSlBuVmxIMXNWUHI0cGs1NzJxbEVtbW5BSE",
+      "title": "Palmeiras x Internacional: informações, estatísticas e curiosidades - palmeiras.com.br",
+      "summaryKo": "파우메이라스, 인테르전 통계와 정보 정리",
+      "excerpt": "Palmeiras x Internacional: informações, estatísticas e curiosidades&nbsp;&nbsp;palmeiras.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXRWMWRXQUpTZDRGeXpTODdUSlBuVmxIMXNWUHI0cGs1NzJxbEVtbW5BSE5WLXBwc3h3SHRuWjhPdFc2cDVyQURmX0xkU3pncEg1SmVNZlhqWHM1SkRjdFc0UVg3bHpaaG00RGFyUk5NT000bDZheTBNX2NWUEVPZUE3RURKOGN6b3hxeHpKeGJfSldqT0x5VlM4ZjFDYU5iQm9iVy1QT3A3Zw?oc=5",
+      "source": "palmeiras.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-08T18:11:43.000Z",
+      "whyItMattersKo": "상대 전적과 주요 통계를 통해 이번 경기의 승부 흐름을 파악할 수 있습니다.",
+      "fanTakeKo": "인테르전은 항상 긴장감이 넘쳐요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -196,6 +292,22 @@
       ]
     },
     {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcXFnc01yRHhObG9TWW5kRWJhMTVlX3l0SzJWR2ZPUjRJUVVORzNacThPam",
+      "title": "Palmeiras inscreve cinco jogadores para a Libertadores: veja nova lista com substituições - ge",
+      "summaryKo": "파우메이라스, 리베르타도레스 명단 5명 교체",
+      "excerpt": "Palmeiras inscreve cinco jogadores para a Libertadores: veja nova lista com substituições&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcXFnc01yRHhObG9TWW5kRWJhMTVlX3l0SzJWR2ZPUjRJUVVORzNacThPampSN0lMNUhwZ1lRNmgzZS1SV0d2V3JoYVlFMnlTd05xTlI2a29ZcGdjX0tmOWc3N0JOcDhLTENzZUtobXFZNUhjMjB2R1BOQkdQdDVBOTJDX0psbWtxLThmbWdiaDZkYmJNV3djNFpOZTBnNk1PVGN2XzMwQUFPTUFTM25GdE5kTWYwR2hiSlNHaTdqNHlNTExackJiclhRa256NWF3eTB0U0lnaE1Fdlp1LXpoLW1ESFl4aGF2SGUtZFpkONIB_gFBVV95cUxOQ3ZGV2NQNVpNOWpiVDl6Zm9EZzROWnlWQUY4d2xrRFlRNmhTSXlrUFEtb01CX2haSkRybGQ0cHJodUtDS3AxQWFfOV9SOU44WGRPTGM3Z0prTFlBdTUwRXJBZ2Z4RWNWQXFrV3ZYanBZQkdxY2FjWDVwd0tlR25YWnBfOXNqNmNqZnNNUFM0UU5FZjVRVkpESF8tekFLX1JfM0JlQ0tJbXNoOUJOUm5yRk5YZ19pY21FNzV3QkYwNW9Nb3R6Rkh5UGtZc2VkcG41eEJ2QnJ2enA3Qlh6ak9rZm91bl8zaUIyWW1vSVJyLWZFZmdlekt0WHNSVmIyQQ?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-08T17:22:35.000Z",
+      "whyItMattersKo": "대회 명단 변경으로 부상자 복귀나 새 선수 기용 등 전력 변화가 기대됩니다.",
+      "fanTakeKo": "새 얼굴들이 리베르타도레스서 활약하길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMib0FVX3lxTE5ES3JCZ1lSODgwX1V5TGFnd29GQjAzRnBWeGpRNkRxWTFVT0phSzlmSUZCZGd",
       "title": "Palmeiras fecha preparação para enfrentar o Inter; saiba a provável escalação - abcdoabc.com.br",
       "summaryKo": "파우메이라스, 인테르전 막판 훈련 마무리",
@@ -217,27 +329,11 @@
       "summaryKo": "인테르, 선두 파우메이라스전 압박감 속 출격",
       "excerpt": "Inter volta ao Brasileirão pressionado contra o líder Palmeiras&nbsp;&nbsp;Correio do Povo",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzFQSlBDSGN4UmY2czlDT1RObVRjcFJJcExMN25KV2JRVVl2bTJrLTN1blY5UGxic29MMHJveUNoUTZSaDVNZTQ5Ym5pTmZvV0R4b2JWM3N2WXhhOUlrWDM0RWlKZFExX0lSNjl0SG9rQlB2SllvLWRyNlcwY3Z4UW10ZHhzelZqdGFTUERWLXpqa3VEajJlbmJ3U3pZOHp1dW13OVZkSVhDQmU4cjE0ak1vYllUSkl0aUx1RjRB?oc=5",
-      "source": "correiodopovo.com.br",
+      "source": "Correio do Povo",
       "language": "pt",
       "publishedAt": "2026-08-08T17:02:41.000Z",
       "whyItMattersKo": "선두와의 맞대결에서 승리해야 순위 경쟁에 불을 지피고 팀 분위기를 반전시킬 수 있습니다.",
       "fanTakeKo": "우리가 선두라니 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
-      "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
-      "summaryKo": "파우메이라스, 인테르전 생중계 시작",
-      "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-08T16:54:57.000Z",
-      "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
-      "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -393,7 +489,7 @@
       "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
       "excerpt": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites&nbsp;&nbsp;UOL",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTlldFVGNlpDZTFJaEVFU3FnNFZHUkdUbnMzTHMweklCRllKMWMxampYR2J6UHdOQ2laZk9SZGE2WkJuWWxWbmtMS2Vld29hcmhmdm9mZ3lxQTNnMDBpRFBTZlM1dXU3bG5zVGNsek9XbHlrYnFZRG5PM0hiREFmOHh1ek5HQ05xekRSVkVBVXhEQW1lOFpGbG1WSlBV?oc=5",
-      "source": "UOL",
+      "source": "uol.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T12:30:00.000Z",
       "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
@@ -862,102 +958,6 @@
       "publishedAt": "2026-08-08T01:53:05.000Z",
       "whyItMattersKo": "수비수 복귀는 수비 안정을 돕지만, 공격수의 출전 여부는 득점력에 중요한 변수입니다.",
       "fanTakeKo": "바르보자 복귀가 기대되네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZW8zYUZKeTF6ajhOSXBrd3pVM3ZyWmZTam5fVFljLWw1X0lSeHo5dkRiR1M",
-      "title": "Achados & Perdidos: Há seis anos, nas penalidades, o Palmeiras derrotava o Corinthians e era campeão paulista - Terceiro Tempo",
-      "summaryKo": "6년 전 코린치안스 꺾고 파우메이라스 우승",
-      "excerpt": "Achados & Perdidos: Há seis anos, nas penalidades, o Palmeiras derrotava o Corinthians e era campeão paulista&nbsp;&nbsp;Terceiro Tempo",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZW8zYUZKeTF6ajhOSXBrd3pVM3ZyWmZTam5fVFljLWw1X0lSeHo5dkRiR1MwUW9xR29Eci1JclMzQnhZdzgwWjc3TmRQT1dKRkFaUDBkVHMzSjBOVi1JbkI2eDE0Z2hVZmdTeEYxN3JpZUIyZE1jd0d3WWxFUmpTdFhDS0FGcDJUZGFpeWtvcXc4REpmLXdMY0pad0Z0RDgyVUthSS11a0FndW12cThPNThNeUQyblpYUFAtYUc2X1Y4Sm01RWZ3ZXoybUpqRmNUM3Bad043XzRGMGJTcTBv?oc=5",
-      "source": "Terceiro Tempo",
-      "language": "pt",
-      "publishedAt": "2026-08-08T01:36:20.000Z",
-      "whyItMattersKo": "라이벌 코린치안스를 꺾고 우승한 역사적인 순간을 다시금 추억합니다.",
-      "fanTakeKo": "그때가 그리워라, 추억의 승부차기!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDdENXk3SmNteC1wZkc5WG52TWJiMHdZc3A1MVgwRm5qMGt3WmdvbUdPV1l",
-      "title": "Palmeiras terá reforço para jogo contra o Internacional - Tribuna de Jundiaí",
-      "summaryKo": "인테르전 앞두고 파우메이라스, 전력 보강",
-      "excerpt": "Palmeiras terá reforço para jogo contra o Internacional&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDdENXk3SmNteC1wZkc5WG52TWJiMHdZc3A1MVgwRm5qMGt3WmdvbUdPV1llX2Q2UjFTWkFrQURtbms5NmEzanhFcUZad3JZRE5VRm16WlBPeGlmVHpTMnNUUHBWaExocjRGa1FKM216Z1ZXNlJpWkRtQ0VuWlkyREhxM0tmMVM0U1BGVUdsb29tTklRZjhnTi1WZkJIODhNYmpEYw?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-08-08T00:54:13.000Z",
-      "whyItMattersKo": "주전 선수 복귀로 인테르나시오나울전 승리 가능성이 높아졌습니다.",
-      "fanTakeKo": "전력 보강이라니 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OR2dwX3pYQ2F6ZVdHTXRja2FvOWxXZTRTeGw4djZxakFNZHF5TzMwemlsYXJ",
-      "title": "Palmeiras ganha reforço para próxima partida - abcdoabc.com.br",
-      "summaryKo": "다음 경기 치르는 파우메이라스, 전력 합류",
-      "excerpt": "Palmeiras ganha reforço para próxima partida&nbsp;&nbsp;abcdoabc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OR2dwX3pYQ2F6ZVdHTXRja2FvOWxXZTRTeGw4djZxakFNZHF5TzMwemlsYXJqOFhrcXNYd3RXb3JNeTB4UXBSeTktcUhqbmlzTUJEZ0tyRUNyMzB4ZlJEOG5B?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-08-08T00:49:43.000Z",
-      "whyItMattersKo": "부상 복귀 선수가 합류하여 다음 경기 승리에 힘이 실릴 것입니다.",
-      "fanTakeKo": "선수들 돌아와서 이겨야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFRzc0dZZnh5XzN5T2JoRXdtbWZRR2ZpTGhqZUpROVd2TkNsTjFKbllHcX",
-      "title": "Palmeiras trabalha para próximo jogo em casa no Brasileirão - Imirante.com",
-      "summaryKo": "브라질레이렁 홈 경기 앞두고 훈련 실시",
-      "excerpt": "Palmeiras trabalha para próximo jogo em casa no Brasileirão&nbsp;&nbsp;Imirante.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFRzc0dZZnh5XzN5T2JoRXdtbWZRR2ZpTGhqZUpROVd2TkNsTjFKbllHcXdZTnNxcW5MTVZYd2lrSjNXQ2pnT3NxY1lxYjdvWVhaa1FiQi1SM05KcmRpR1lMSlRLNF9HVXh3OXpQeWgwckxhbkhSU2g5U25uUXRkQ0dvWl96ZTNtQUFCNlliNkx1UkxSZ3RuamhuSEt5SlozdlFPWF8wN2hxQdIBrwFBVV95cUxNVm1UVUhsTEk0STNOeWJLcm9kWGZzM0JSSVBkZnBxWElNcFJXcDh0QWVFTHIwWkd1QTY0cVhpMzQ3enVjWTRwUmdaMGZUQnJzdi1xaERwRUdyR1dsS0FmTF9YZlBzaWc5ZU10YkxIdl91aWhQUGhsZlNtMnFzalhWMVkyYWJxRnRYOHFqNTctMThBNzdTcUk4c1RWYkRoYW56WDBOdG94Q3k0dGN2Qngw?oc=5",
-      "source": "Imirante.com",
-      "language": "pt",
-      "publishedAt": "2026-08-08T00:45:00.000Z",
-      "whyItMattersKo": "다가오는 리그 홈 경기를 위해 선수들이 컨디션을 조절하고 있습니다.",
-      "fanTakeKo": "이번 홈 경기도 꼭 이겨요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEV5YjFCdjI4QUJROUZrRVk1aDlZZC1QWHEwa2JRYWdfSFFBSTBhZnpCOHV",
-      "title": "Barboza reforça o Palmeiras contra o Inter; Gómez segue como dúvida - BOL",
-      "summaryKo": "인테르전 바르보자 복귀, 고메스는 출전 미정",
-      "excerpt": "Barboza reforça o Palmeiras contra o Inter; Gómez segue como dúvida&nbsp;&nbsp;BOL",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEV5YjFCdjI4QUJROUZrRVk1aDlZZC1QWHEwa2JRYWdfSFFBSTBhZnpCOHVPNlhXTHVZRFY2RmNTN2RnUVFtVkhQRVBxbGl1YzFINTkzMGZhSHFxazNfVVZpUmdGNXc2VnNzQTd2aElvOFZLMFFJbV8tTWJFM1pHVEFvSF8yX29vYWp2b1lYVWlSaHNZTzUxdFFNTE1RMVlBMDV4aFBMdWlCSEFYNG5nMDZEMUNYWHhP?oc=5",
-      "source": "BOL",
-      "language": "pt",
-      "publishedAt": "2026-08-08T00:32:47.000Z",
-      "whyItMattersKo": "바르보자의 복귀는 긍정적이나, 고메스의 부상은 라인업 변수가 됩니다.",
-      "fanTakeKo": "바르보자는 오고 고메스는 아쉽네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaEQ0NU1CYS1kTERrRGpkOUtMM0p3QTdScFVYOF9HTThxc1VYdU5yek1VUHB",
-      "title": "Gabriel Jesus vira alvo de gigante italiano; Palmeiras segue olhando de longe - abcdoabc.com.br",
-      "summaryKo": "가브리엘 제수스 이적설, 파우메이라스는 관망",
-      "excerpt": "Gabriel Jesus vira alvo de gigante italiano; Palmeiras segue olhando de longe&nbsp;&nbsp;abcdoabc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaEQ0NU1CYS1kTERrRGpkOUtMM0p3QTdScFVYOF9HTThxc1VYdU5yek1VUHBLNFVNWnJ3bmNKYk1fQ3QwRHlXWV9VY1VrbHVmSTdVZnNJNXA1ZkcybU14SmI3QldjZw?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-08-08T00:28:16.000Z",
-      "whyItMattersKo": "유망 공격수의 이적 동향을 파악해 향후 영입 전략에 참고할 수 있습니다.",
-      "fanTakeKo": "제수스 복귀는 없나요? 궁금해요.",
       "tags": [
         "뉴스",
         "AI요약"
