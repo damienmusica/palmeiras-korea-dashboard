@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-08T07:50:43.911Z",
+  "fetchedAt": "2026-08-08T08:41:55.107Z",
   "season": "2026",
   "campaigns": [
     {
@@ -120,41 +120,43 @@
         "kind": "cup"
       },
       "format": "knockout",
-      "currentRound": {
-        "roundKo": "16강",
-        "opponentId": "6272",
-        "opponentName": "Fortaleza",
-        "opponentNameKo": "Fortaleza",
-        "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-        "legs": [
-          {
-            "kickoff": "2026-08-02T19:00Z",
-            "venue": "home",
-            "legKo": "1차전",
-            "status": "finished",
-            "trackedHome": true,
-            "matchId": "espn-401873913",
-            "score": {
-              "home": 3,
-              "away": 0
+      "path": [
+        {
+          "roundKo": "16강",
+          "opponentId": "6272",
+          "opponentName": "Fortaleza",
+          "opponentNameKo": "Fortaleza",
+          "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+          "legs": [
+            {
+              "kickoff": "2026-08-02T19:00Z",
+              "venue": "home",
+              "legKo": "1차전",
+              "status": "finished",
+              "trackedHome": true,
+              "matchId": "espn-401873913",
+              "score": {
+                "home": 3,
+                "away": 0
+              }
+            },
+            {
+              "kickoff": "2026-08-06T00:30Z",
+              "venue": "away",
+              "legKo": "2차전",
+              "status": "finished",
+              "trackedHome": false,
+              "matchId": "espn-401874099",
+              "score": {
+                "home": 3,
+                "away": 2
+              }
             }
-          },
-          {
-            "kickoff": "2026-08-06T00:30Z",
-            "venue": "away",
-            "legKo": "2차전",
-            "status": "finished",
-            "trackedHome": false,
-            "matchId": "espn-401874099",
-            "score": {
-              "home": 3,
-              "away": 2
-            }
-          }
-        ],
-        "result": "advanced",
-        "outcomeKo": "합산 5-3 승 · 진출"
-      }
+          ],
+          "result": "advanced",
+          "outcomeKo": "합산 5-3 승 · 진출"
+        }
+      ]
     },
     {
       "competition": {
