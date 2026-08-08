@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T08:41:54.218Z",
+  "fetchedAt": "2026-08-08T09:38:29.042Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMikAJBVV95cUxOVWNyOGlpMGtnQ21wU0xueTA2TnlJNUF3TFFUazI2dngxUmZZVlVFeFozb05",
+      "title": "Do que o Inter precisa para não voltar à zona de rebaixamento do Brasileirão nesta rodada? - GZH",
+      "summaryKo": "인테르, 강등권 벗어나려면 어떻게?",
+      "excerpt": "Do que o Inter precisa para não voltar à zona de rebaixamento do Brasileirão nesta rodada?&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVWNyOGlpMGtnQ21wU0xueTA2TnlJNUF3TFFUazI2dngxUmZZVlVFeFozb051VDNLWm5BcmZpOXRSN3YzWm9reTBVTGV0LUlOX1BOVjhOUHBWVS15Vi1aejFGMm9ZQkU5bWxDb3h5aDJ1SVRKWHpSalE3bmU5UTdxd2xBQWlJLThFM0dFS1FIOEVNekFZVk1oQXJKUHJFMFY0X2doUE9EN2JqZ0xQZXQ2VWN4dGY4Y0hUVE9jUDVMczNXaUJRazIwWlVMVnhrTE9mWkhPRi1xQ1dHTzB4MUZONW9TcHdSUzZKcE1PQ081bnRDb01id256a0hEV01HZ3JaS0lkUG1CaVNmS0hxRVFDMA?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:03:43.000Z",
+      "whyItMattersKo": "리그 강등 위기를 피하려면 이번 경기에서 반드시 승점을 챙겨야 합니다.",
+      "fanTakeKo": "강등은 정말 무서워요...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMilwJBVV95cUxPd0dkUTZ1ZEtGV2JJVnlVVmlPV0F2VDdjNDJZMXozSHNmUm43NTg3SmxlaHJ",
+      "title": "Inter e Grêmio precisam trazer os resultados da Copa do Brasil para o Brasileirão - GZH",
+      "summaryKo": "인테르와 그레미우, 컵 대회 기세 리그로",
+      "excerpt": "Inter e Grêmio precisam trazer os resultados da Copa do Brasil para o Brasileirão&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPd0dkUTZ1ZEtGV2JJVnlVVmlPV0F2VDdjNDJZMXozSHNmUm43NTg3SmxlaHJteXAxTmNGZko4UWdyeTQ1U3RqSE56aUMybnBkeml3NVZxOTdnc2pSaDVNVFdJdEdHOVVHQVUtdVRiWk04Y3JRMk9TdEFTUDlZR2U4Ujg2YmpQUktpZG9kWVBzWmlBRTYwS3lpcW9td29OOGdCeWlESk9iUjJHc3ZqUUxudjR1N0FoRFdiQlFPOVVVVnd6YkJ3T2tFT0ZzSnJuYlhvNVlQdWxLX0JuT1R5Z0pfZjNaVGtlT1V2LThlVktReGl1SkE0NkRFVGVQNDgwbnh3cDFEYXYwQjVXQWNZcnc1ZzA0azFVQ00?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:02:33.000Z",
+      "whyItMattersKo": "두 팀 모두 컵 대회 호성적을 리그 승점으로 이어가는 게 과제입니다.",
+      "fanTakeKo": "리그 순위도 올려야 하는데...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmhYYV9FTUxwY21ha0QtX2h0emRKdE9BZjZDVTRlLXVmUVNtQ2ktZk9qaW5",
+      "title": "Newcastle mira ex-Flamengo e Palmeiras para substituir Bruno Guimarães após ida ao Arsenal - NSC Total",
+      "summaryKo": "뉴캐슬, 브루누 잠적 대책으로 파우메이라스 출신 노려",
+      "excerpt": "Newcastle mira ex-Flamengo e Palmeiras para substituir Bruno Guimarães após ida ao Arsenal&nbsp;&nbsp;NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmhYYV9FTUxwY21ha0QtX2h0emRKdE9BZjZDVTRlLXVmUVNtQ2ktZk9qaW5yUjBDaTFOcWJfbExzNnd4bF9QMHRtV2FvVkR6VHZ4YjRFZGhFa0RPZjg5SUFHbDNyZWVkQnZyTWNyazJlRU11dVRmejlaeVl1RldCMkh0akNqMTlLSl9UQi16NmNsR05hTG5ydjY1aXB6Zm1DOFZTN0FDUUFGNWI2bXZFN0toV2Vpei1RcVdLYnUxbFJXUFhNdXc?oc=5",
+      "source": "NSC Total",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "whyItMattersKo": "주전 미드필더 이적 시 파우메이라스 출신 선수가 대체 후보로 거론됩니다.",
+      "fanTakeKo": "우리 선수 또 유럽 가나요?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmdxdUZBakgzTWFyMGZfYWE0czRULURlYlZ0Wk9CdFhaaktDdzBSWDlSNUo",
       "title": "Palmeiras x Internacional Palpite – Análise e notícias (09/08) - LANCE!",
@@ -910,54 +958,6 @@
       "publishedAt": "2026-08-07T16:28:17.000Z",
       "whyItMattersKo": "전문가들의 분석은 오늘 경기 흐름과 전략을 이해하는 데 도움을 줍니다.",
       "fanTakeKo": "예측대로 무조건 이겨야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEhVZ1c2VjNOU2g0TmttaWx1OWRqcnFWa3d6NnNkc2dKX3B3RzJ6YWotYUV",
-      "title": "Keeta fecha patrocínio digital com o Palmeiras até o fim de 2026 - adnews.com.br",
-      "summaryKo": "파우메이라스, 키타와 2026년까지 디지털 후원",
-      "excerpt": "Keeta fecha patrocínio digital com o Palmeiras até o fim de 2026&nbsp;&nbsp;adnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEhVZ1c2VjNOU2g0TmttaWx1OWRqcnFWa3d6NnNkc2dKX3B3RzJ6YWotYUVsM3ZTMVlMY1VFVXZIenBsOGxUUTR0TEFHOGxBMmhfeGFGdjZNaVlCOVdibHJxRDVjSFF1NkU3SWJWOFZ0eExUZ3M0X3FXeHZEamJIenVpcmk0clZYbVlfN2tySnByLVd2N3c?oc=5",
-      "source": "adnews.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:18:32.000Z",
-      "whyItMattersKo": "장기 계약을 통해 팀의 재정 안정을 확보하고 마케팅 파워를 획기적으로 강화합니다.",
-      "fanTakeKo": "든든한 후원군 들어와서 기분 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMitAFBVV95cUxNajl3RjktMnVIUEVYRDJYUWRLOTU1UDFTNUxOSVdVVmpSTElidjdKVzcyYk5",
-      "title": "Palmeiras faz campanha pelo fim da violência contra a mulher; assista - band.com.br",
-      "summaryKo": "파우메이라스, 여성 폭력 종식 캠페인 영상 공개",
-      "excerpt": "Palmeiras faz campanha pelo fim da violência contra a mulher; assista&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajl3RjktMnVIUEVYRDJYUWRLOTU1UDFTNUxOSVdVVmpSTElidjdKVzcyYk5TMEpacVRleUZ3UXJESDdQVzRmX1k2aWNCeHdZZlVSNFplUDFtLWIwbTdfZHFrV2tsT1VLcUJCdVAtYy1qTW9zYms4QnNBWm1GTFZrS2VhbGJ6TUFtMEVCVjJhOW9xS2M0NS04N05lUlI4YUFIb3dGUGVOSnI3Nm5pZVJSY2NJU1E?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:17:02.000Z",
-      "whyItMattersKo": "중요한 사회적 문제에 대해 구단이 목소리를 내는 것은 팬들에게 긍정적인 영향을 줍니다.",
-      "fanTakeKo": "파우메이라스의 따뜻한 행보에 박수를!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZG43UGl4OV93N3RhajllNnBFSkRrcWFLU3FjaUJlSzZ6aG01ejJjQmhtOW5",
-      "title": "Mauro: Palmeiras e Flamengo têm postura de 'novo rico esnobe' no mercado - UOL",
-      "summaryKo": "마우로, 파우메이라스와 플라멩구 시장 태도 비판",
-      "excerpt": "Mauro: Palmeiras e Flamengo têm postura de 'novo rico esnobe' no mercado&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZG43UGl4OV93N3RhajllNnBFSkRrcWFLU3FjaUJlSzZ6aG01ejJjQmhtOW5mRmpwV3VOcFpGVWJXanpSTFpPWG1XdUpMMXctTTJEOEtIVkloLWxGVGU5d01CZXhYTy1kS3E1Y3JqT3ZkSDFScUVOT0V2ZGNZa1JyS1NCeFZ6bDgwRTdPeEg5SGFkTHpRLUpPUXF2U2JSM3dJZTlmMUlrZEJBb1ZzVFdCNkFqYmJ1bWZuQTZDYUd2ajc2X0dfeTdKcDBTX3RCS1NmQmJUVGQ5dmpIbG1VUk9KSlctNkQ?oc=5",
-      "source": "uol.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T15:17:49.000Z",
-      "whyItMattersKo": "이적 시장에서 두 팀의 태도와 전략이 논란이 되고 있습니다.",
-      "fanTakeKo": "비판은 있어도 성적이 중요하죠.",
       "tags": [
         "뉴스",
         "AI요약"
