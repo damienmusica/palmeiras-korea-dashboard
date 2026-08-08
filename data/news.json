@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T09:38:29.042Z",
+  "fetchedAt": "2026-08-08T10:34:29.626Z",
   "items": [
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTl",
+      "title": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites - UOL",
+      "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
+      "excerpt": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTlldFVGNlpDZTFJaEVFU3FnNFZHUkdUbnMzTHMweklCRllKMWMxampYR2J6UHdOQ2laZk9SZGE2WkJuWWxWbmtMS2Vld29hcmhmdm9mZ3lxQTNnMDBpRFBTZlM1dXU3bG5zVGNsek9XbHlrYnFZRG5PM0hiREFmOHh1ek5HQ05xekRSVkVBVXhEQW1lOFpGbG1WSlBV?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-08T10:01:11.000Z",
+      "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
+      "fanTakeKo": "플라멩구 추격은 긴장되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW1NTk1YUVczamJKVXZZbTNVSU02UFZNZG55RmJudnFaY28wMDhubHV3cjF",
+      "title": "Palmeiras x Internacional: saiba onde assistir ao jogo pela 22ª rodada do Brasileirão - Gazeta Esportiva",
+      "summaryKo": "파우메이라스, 인테르전 중계 어디서 볼까",
+      "excerpt": "Palmeiras x Internacional: saiba onde assistir ao jogo pela 22ª rodada do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW1NTk1YUVczamJKVXZZbTNVSU02UFZNZG55RmJudnFaY28wMDhubHV3cjFKbElvdm5Gb3RuNWRBdzY3Q0FwSmNEZVVDQ28tWXZTMWJybVJWakI3UjJvRnY3NHZ3bHh4aXE4eENVWVNRRk9VLVJNUHJfX1AtZkxpT1Jzbzk2b0JlMHRqbnI0TDdXXzF5YjB6NDhRLW9na1dEWmZabkFYUEdKbzhFc2VjaXp2UFRWZ0NfQ0JQWVhPM2d2UFAyVXhlUGxjWTE5UdIB0wFBVV95cUxQQmZmMVc2ZzAtQ21FdzBWX0VHb01GSEFyTEFqTUN6d1h1OWRsWHN1VGJuLTR6ckozMUUzWHZNWnZpUGVXNjlTM1NIOFAtbjhjeWhRb0ZNbzBqb2JrU2FUZzYtclRwdFAzbDBwSG9vZ2JpUVRXa1lmZUR0bU9UZm11U2lNYWZ0MjhzcFJDWlpTR0d2YVJIWVlIcUh4U3lIRFNHOGlDdFpacjFWM0UzV2hma2J0aFB3Rk9HQU5LT2tzUlUzaUJvVWo5RzVkdnpEYTVOblpB?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "whyItMattersKo": "브라질레이렁 22라운드 경기를 놓치지 않으려면 중계 채널을 미리 확인해야 합니다.",
+      "fanTakeKo": "인테르전 중계, 꼭 챙겨봐야죠",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMidEFVX3lxTFBndEZ6X3JWSjR0MndYN1RHaFJJSTJ6S3VaM0hPbkFMSWtocVdydWRROVNhWUZ",
+      "title": "Paulista Sub-20 - Federação Paulista de Futebol",
+      "summaryKo": "파우메이라스, U-20팀 최신 소식 전해",
+      "excerpt": "Paulista Sub-20&nbsp;&nbsp;Federação Paulista de Futebol",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBndEZ6X3JWSjR0MndYN1RHaFJJSTJ6S3VaM0hPbkFMSWtocVdydWRROVNhWUZWemNFbEVSMVFFa0YzYWJOSzJUYnYtSDVXZEZMaENTZkdLN21lZk5nNHh0X3RESnlMcEF2dy1YMFc3WmMtV1FZ?oc=5",
+      "source": "Federação Paulista de Futebol",
+      "language": "pt",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "whyItMattersKo": "미래의 주역들이 뛰는 유소년 리그는 팀의 장기적인 전력 강화를 보여줍니다.",
+      "fanTakeKo": "미래의 에이스들이 기대되네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUJVdllIaHR1YlFVdVRQSzA1V05aSUE0RHBoSHo2ZlMySnhhd0lwcWhVZjN",
+      "title": "Talentos de Catanduva: garotos são convocados para testes no Palmeiras - O Regional",
+      "summaryKo": "카탄두바 유망주, 파우메이라스 테스트",
+      "excerpt": "Talentos de Catanduva: garotos são convocados para testes no Palmeiras&nbsp;&nbsp;O Regional",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUJVdllIaHR1YlFVdVRQSzA1V05aSUE0RHBoSHo2ZlMySnhhd0lwcWhVZjNUTnphb2xQVEVEajdmX0dlcWJuc1ZZTzFWU09YTm1TYWJjeHlmX2l4Qmp3MnNlNkd2UHhMeE02eXdpTkF1cHNfazdYeTI1OWdKdjNIaXlqbFlMZGpJUGlBRkVobzlXLW16WlR1cXVtYzB0Y2lwNlpITUdhT1FJeGM?oc=5",
+      "source": "O Regional",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:43:47.000Z",
+      "whyItMattersKo": "지역 유망주 발굴은 팀의 미래 전력 보강과 저비용 고효율 영입에 도움이 됩니다.",
+      "fanTakeKo": "숨은 보석을 찾았으면 좋겠다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnRXUERYYnhHSzk1WUFoZlV2V3djYnZSLU1LU2NFWFdiNjJUaElkaTNjZUp",
+      "title": "Santos deixa Palmeiras e Flamengo para trás em ranking após a Copa do Mundo - A Tribuna",
+      "summaryKo": "산투스, 월드컵 후 랭킹서 파우메이라스 제친다",
+      "excerpt": "Santos deixa Palmeiras e Flamengo para trás em ranking após a Copa do Mundo&nbsp;&nbsp;A Tribuna",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnRXUERYYnhHSzk1WUFoZlV2V3djYnZSLU1LU2NFWFdiNjJUaElkaTNjZUpqaWtfZUNCbE5raWhOek44R1F4XzdxeUp0NnRmMnRtMF9tNmNBd25QV0dlMUdlcF9jdW5HR3hPLVU2UTJtNEQzalNDYTZmOHhyQzMtTk4wd2FUOFJKcTlqMzl5WWRjN0k3YUtfcEItUjJ4bXE4cnpac0lrVWtlbUs4SlplN01ZSndfVnh4MWt4ZGNpSWFqelQ1LVBXWUVWUQ?oc=5",
+      "source": "A Tribuna",
+      "language": "pt",
+      "publishedAt": "2026-08-08T09:35:00.000Z",
+      "whyItMattersKo": "월드컵 이후 집계된 랭킹에서 산투스가 파우메이라스를 앞서며 눈길을 끕니다.",
+      "fanTakeKo": "산투스가 우리를 앞서다니",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMikAJBVV95cUxOVWNyOGlpMGtnQ21wU0xueTA2TnlJNUF3TFFUazI2dngxUmZZVlVFeFozb05",
       "title": "Do que o Inter precisa para não voltar à zona de rebaixamento do Brasileirão nesta rodada? - GZH",
@@ -11,7 +91,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVWNyOGlpMGtnQ21wU0xueTA2TnlJNUF3TFFUazI2dngxUmZZVlVFeFozb051VDNLWm5BcmZpOXRSN3YzWm9reTBVTGV0LUlOX1BOVjhOUHBWVS15Vi1aejFGMm9ZQkU5bWxDb3h5aDJ1SVRKWHpSalE3bmU5UTdxd2xBQWlJLThFM0dFS1FIOEVNekFZVk1oQXJKUHJFMFY0X2doUE9EN2JqZ0xQZXQ2VWN4dGY4Y0hUVE9jUDVMczNXaUJRazIwWlVMVnhrTE9mWkhPRi1xQ1dHTzB4MUZONW9TcHdSUzZKcE1PQ081bnRDb01id256a0hEV01HZ3JaS0lkUG1CaVNmS0hxRVFDMA?oc=5",
       "source": "GZH",
       "language": "pt",
-      "publishedAt": "2026-08-08T09:03:43.000Z",
+      "publishedAt": "2026-08-08T09:05:09.000Z",
       "whyItMattersKo": "리그 강등 위기를 피하려면 이번 경기에서 반드시 승점을 챙겨야 합니다.",
       "fanTakeKo": "강등은 정말 무서워요...",
       "tags": [
@@ -57,27 +137,11 @@
       "summaryKo": "파우메이라스, 인테르전 분석과 승부 예측",
       "excerpt": "Palmeiras x Internacional Palpite – Análise e notícias (09/08)&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmdxdUZBakgzTWFyMGZfYWE0czRULURlYlZ0Wk9CdFhaaktDdzBSWDlSNUo3a21LcENNZUVfSXlraDF4MWZBcDlEai1ZdUo4cUFEbHhjSGR5SlFyV3dHbHJwRVpYMGZucU1hU1ZfZEhQd0hLbmNBamRuZDFyWldQMnpiUUJQNVBLdDk1Z1VOdzQ3MkhfZTlV?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T08:34:40.000Z",
       "whyItMattersKo": "인테르와의 중요한 경기를 앞두고 팀 전력과 승부 예측을 파악하기 좋습니다.",
       "fanTakeKo": "인테르전 분석 보니 기대되네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTl",
-      "title": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites - UOL",
-      "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
-      "excerpt": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTlldFVGNlpDZTFJaEVFU3FnNFZHUkdUbnMzTHMweklCRllKMWMxampYR2J6UHdOQ2laZk9SZGE2WkJuWWxWbmtMS2Vld29hcmhmdm9mZ3lxQTNnMDBpRFBTZlM1dXU3bG5zVGNsek9XbHlrYnFZRG5PM0hiREFmOHh1ek5HQ05xekRSVkVBVXhEQW1lOFpGbG1WSlBV?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-08T08:33:41.000Z",
-      "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
-      "fanTakeKo": "플라멩구 추격은 긴장되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -377,7 +441,7 @@
       "summaryKo": "파우메이라스 인테르나시오나전 시청 방법과 예상 라인업",
       "excerpt": "Palmeiras x Internacional: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão&nbsp;&nbsp;ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON3JyWmVpQ25nUkhxTE5qY1ItdjVWU1dyUzQ1R1M3MUtnLUVKQjVwZDNXU1BVREpZdlJER25LU0ZjdkcybUthc2lnRHdDRmxoajJFUm9QQlRJSXRQWXZ6d1FoelROaThVNkRlQ3BwaWhhdUhVQVl1aGNlOUx1NzRYdTJUTXk2RVA1am44LWFEZXItVWI5UElWRmxleTNpeDB2R3pPemh2U3cyYlk1cm1WMUw0NTRLQzR6dUJxcHBkY25pamlkSjJ4NHVGcndRd0gzVGt2eXRWVHFETndvSnpRck55WlgyeGd0Wl9TU0hSb2ZZLTVJRmFXRjZn?oc=5",
-      "source": "espn.com.br",
+      "source": "ESPN Brasil",
       "language": "pt",
       "publishedAt": "2026-08-08T00:15:00.000Z",
       "whyItMattersKo": "브라질리이랑 일정을 확인하고 예상 선발 명단을 미리 파악하는 데 좋습니다.",
@@ -894,70 +958,6 @@
       "publishedAt": "2026-08-07T17:35:25.000Z",
       "whyItMattersKo": "클럽이 사회적 책임을 다하며 팬들과 함께 올바른 가치관을 전파하는 중요한 활동입니다.",
       "fanTakeKo": "응원하는 팀이 이런 활동을 하니 뿌듯합니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGFYQkFxdF91ZTJUbnJxRkU1M1M0YW05bWozc2dsQUdwVFRVaTRxZWdwWVV",
-      "title": "Cimed ativará submarcas nas partidas de Cruzeiro e Palmeiras no Dia dos Pais - Máquina do Esporte",
-      "summaryKo": "시메드, 아버지날 경기에 마케팅 강화",
-      "excerpt": "Cimed ativará submarcas nas partidas de Cruzeiro e Palmeiras no Dia dos Pais&nbsp;&nbsp;Máquina do Esporte",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGFYQkFxdF91ZTJUbnJxRkU1M1M0YW05bWozc2dsQUdwVFRVaTRxZWdwWVViTC1RY0hUOUFhVWMtLWlteDZHNnlQTW5nMVhoWmwxSFVQT1Z3ZGk5blh2dm5rQ1BiSFA3SGNkTEozS1BEdVk1UHNMN3c4c2R3OFZIZUxDYmExNktaNTBqcXV1dDFjX215Tko4MXhNeDhHTEg3aHZmRHJNOEFVNFhpRHhnUnhVbDhyWEU?oc=5",
-      "source": "Máquina do Esporte",
-      "language": "pt",
-      "publishedAt": "2026-08-07T17:06:00.000Z",
-      "whyItMattersKo": "아버지날 특별 마케팅으로 경기장 분위기와 팬 참여도가 높아질 것입니다.",
-      "fanTakeKo": "경기장 분위기 더 뜨거워지겠군요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGxVMkhrcm1WdmxURXRJZUZqc0N2RXI3S21HbDN5anVZWDhLYmRMU2hvN1k",
-      "title": "Processo, títulos e vendas: o sucesso do Palmeiras na base - LANCE!",
-      "summaryKo": "파우메이라스 유스, 성과와 이적으로 성공",
-      "excerpt": "Processo, títulos e vendas: o sucesso do Palmeiras na base&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGxVMkhrcm1WdmxURXRJZUZqc0N2RXI3S21HbDN5anVZWDhLYmRMU2hvN1k2a0tSMG9ZVDJhNi13S1EtekJMd08yUDFzZjBFTFBFUm14ekJCWXdiU29ZUmhwM1hBVGFSWnNFcWRON1VGejJKN3FYODg1NEw4eFVhWXdlQkNYRWtPdFhzdDJjbVJiZUU5ZUh3M1d1bG1CV3NSOXNDSmU5aXA2dk1tNzJ3Y3pJajVYTkE?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:41:57.000Z",
-      "whyItMattersKo": "꾸준한 육성 시스템은 팀의 미래 전력과 재정 건전성을 보장합니다.",
-      "fanTakeKo": "유스 잘 키워서 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ29WV2pPX2Jrbkc5Z2pPREU3cHZEVGVjekV2b3lEMzZQY0thbG5jdElMbkE",
-      "title": "Entenda por que o Racing faz exigências ao Vasco por Santiago Sosa - Terra",
-      "summaryKo": "레이싱, 바스코에 소사 이적 조건 제시",
-      "excerpt": "Entenda por que o Racing faz exigências ao Vasco por Santiago Sosa&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ29WV2pPX2Jrbkc5Z2pPREU3cHZEVGVjekV2b3lEMzZQY0thbG5jdElMbkE3a1RQOTRiRm56X05LMVY5NEY3eGRSTGhMc2dhS211SWUwbVdzSVRWWFl0elh3T1hhbGptY2lqZnlvT21sTEhxU3UwX3F2SGM1aHBxQjMySmNERXFRRmRzSU9lU2FwTXdWb2dwZTM4U05sU1FaczkwXzNZZ3dVNnkydEZKVERpTHNkLTdRazVtdURmWUcwdU1SNmVYVlVYZjBMMmF1eExlcjR3RzZKS3FaZG5vdm5IY0J6V2p3VEE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:35:00.000Z",
-      "whyItMattersKo": "선수 이적 시장의 흐름을 파악해 리그 내 팀 전력 변화를 예측합니다.",
-      "fanTakeKo": "이적 시장도 꽤 복잡하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFVCN2xlUHRIMENlSWlDemlCZWJuWXB2a0lvYTQ5TG1DWUlxVVRMOFpQejJ",
-      "title": "Palpite Jogo Aberto: Palmeiras x Inter, pelo Brasileirão - band.com.br",
-      "summaryKo": "파우메이라스 대 인테르전 승부 예측",
-      "excerpt": "Palpite Jogo Aberto: Palmeiras x Inter, pelo Brasileirão&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFVCN2xlUHRIMENlSWlDemlCZWJuWXB2a0lvYTQ5TG1DWUlxVVRMOFpQejJ3NWtlTE1MTHpGNXZMQmxlQW5xSnlXUnpVa3FldFpXMXN1SnFnRTZEQlpyME9EY1BMZUc5MzZvYmdxZ2pDeXQ0Y2pYS0JpSTFuSHpKOXJEOVoxeFdiV1lDTkR5MWx3cElvUjdMcXlPcHVrdXl2a0psdk1JNFlnODQzWnpEV2R0MHFXRE5LY0cw?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T16:28:17.000Z",
-      "whyItMattersKo": "전문가들의 분석은 오늘 경기 흐름과 전략을 이해하는 데 도움을 줍니다.",
-      "fanTakeKo": "예측대로 무조건 이겨야죠!",
       "tags": [
         "뉴스",
         "AI요약"
