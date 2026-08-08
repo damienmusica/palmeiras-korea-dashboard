@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-08T20:30:52.901Z",
+  "fetchedAt": "2026-08-08T21:31:11.204Z",
   "season": "2026",
   "competition": {
     "id": "brasileirao",
@@ -204,13 +204,13 @@
       "teamName": "São Paulo",
       "teamNameKo": "São Paulo",
       "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "played": 20,
+      "played": 21,
       "won": 7,
       "drawn": 5,
-      "lost": 8,
-      "goalsFor": 25,
-      "goalsAgainst": 23,
-      "goalDifference": 2,
+      "lost": 9,
+      "goalsFor": 26,
+      "goalsAgainst": 25,
+      "goalDifference": 1,
       "points": 26,
       "form": [],
       "isTracked": false
@@ -234,6 +234,23 @@
     },
     {
       "rank": 14,
+      "teamId": "6273",
+      "teamName": "Grêmio",
+      "teamNameKo": "Grêmio",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "played": 21,
+      "won": 6,
+      "drawn": 7,
+      "lost": 8,
+      "goalsFor": 24,
+      "goalsAgainst": 27,
+      "goalDifference": -3,
+      "points": 25,
+      "form": [],
+      "isTracked": false
+    },
+    {
+      "rank": 15,
       "teamId": "9169",
       "teamName": "Mirassol",
       "teamNameKo": "Mirassol",
@@ -250,7 +267,7 @@
       "isTracked": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "teamId": "2674",
       "teamName": "Santos",
       "teamNameKo": "Santos",
@@ -267,7 +284,7 @@
       "isTracked": false
     },
     {
-      "rank": 16,
+      "rank": 17,
       "teamId": "1936",
       "teamName": "Internacional",
       "teamNameKo": "Internacional",
@@ -278,23 +295,6 @@
       "lost": 9,
       "goalsFor": 23,
       "goalsAgainst": 27,
-      "goalDifference": -4,
-      "points": 22,
-      "form": [],
-      "isTracked": false
-    },
-    {
-      "rank": 17,
-      "teamId": "6273",
-      "teamName": "Grêmio",
-      "teamNameKo": "Grêmio",
-      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "played": 20,
-      "won": 5,
-      "drawn": 7,
-      "lost": 8,
-      "goalsFor": 22,
-      "goalsAgainst": 26,
       "goalDifference": -4,
       "points": 22,
       "form": [],
