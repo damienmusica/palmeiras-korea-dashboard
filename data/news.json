@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T11:29:52.526Z",
+  "fetchedAt": "2026-08-08T11:56:48.733Z",
   "items": [
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTl",
+      "title": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites - UOL",
+      "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
+      "excerpt": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTlldFVGNlpDZTFJaEVFU3FnNFZHUkdUbnMzTHMweklCRllKMWMxampYR2J6UHdOQ2laZk9SZGE2WkJuWWxWbmtMS2Vld29hcmhmdm9mZ3lxQTNnMDBpRFBTZlM1dXU3bG5zVGNsek9XbHlrYnFZRG5PM0hiREFmOHh1ek5HQ05xekRSVkVBVXhEQW1lOFpGbG1WSlBV?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-08T11:31:11.000Z",
+      "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
+      "fanTakeKo": "플라멩구 추격은 긴장되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2ZPNE1CSXMwRkItYVExQTA4QTBEdDF4QXVLN2cxMU1ocGkwaEt1dlkxRGF",
       "title": "Quinteto concentra mais da metade dos gols do Palmeiras no Brasileirão - Terra",
@@ -30,22 +46,6 @@
       "publishedAt": "2026-08-08T10:53:32.000Z",
       "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
       "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTl",
-      "title": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites - UOL",
-      "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
-      "excerpt": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTlldFVGNlpDZTFJaEVFU3FnNFZHUkdUbnMzTHMweklCRllKMWMxampYR2J6UHdOQ2laZk9SZGE2WkJuWWxWbmtMS2Vld29hcmhmdm9mZ3lxQTNnMDBpRFBTZlM1dXU3bG5zVGNsek9XbHlrYnFZRG5PM0hiREFmOHh1ek5HQ05xekRSVkVBVXhEQW1lOFpGbG1WSlBV?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-08T10:01:11.000Z",
-      "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
-      "fanTakeKo": "플라멩구 추격은 긴장되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -281,7 +281,7 @@
       "summaryKo": "파우메이라스 여자부, 페로비아리아전 일정",
       "excerpt": "Ferroviária x Palmeiras: horário e onde assistir ao Brasileirão Feminino&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2MxeGNYSFVRMWtOcUx3ZVdLSHdOenhRTGh4Q2RpbU1WUlNpeXFROE9zcFZoaVpDMFVzejZSM3BGb25sSERxcEJpV0RNeW93WmVZZ1dXQ3c5aFk4MHNDWWFfUTBlNUwzMm9zbWJaWV92UnNXcWs1R1VWM3hUcGVPZ09TNnBYb3JjVGNjenBXYmJUQzVxVUhtZFFQZ182Q3kxWWliN1RrakNfZXBaLWJqaEVILXA2TjE0YnF5dGVEcw?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T07:00:30.000Z",
       "whyItMattersKo": "여자부 경기 일정을 확인하고 선수들을 열정적으로 응원할 수 있는 좋은 기회가 생겼습니다.",
@@ -537,7 +537,7 @@
       "summaryKo": "라코 로페스, 리그 유일한 컵 대회 남은 선수",
       "excerpt": "Resta um: Flaco López é o único jogador do Brasileirão que segue na Copa&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjZKdnBjc2RGdVNXWDlENDNpdC1BZnp4SnRLOUhfb216c0dUaXI1R2ZvaHhpeXdaSTF4Y0g5RWVGN1lfWXFaWW5oMFlLU1M5X2lkbGgtV1hRMUs5NEV3Um5kRWNiYUF2bTJhZmY1WkhISlhTQVhLWTFYSXI0aFJvMlAtSElGdnhodzYwTUNpQzdTb0ZDVTRsNGFDQW9RaE9FZ3laZ3d4X1B1Vzg0RzE0YXBKS3pzN1BHVmxnWUNhYVJ3RG5GSm1QdFctZks?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T00:07:54.000Z",
       "whyItMattersKo": "브라질리앙 선수 중 유일하게 컵 대회에 남아 기록에 관심이 쏠리고 있습니다.",
@@ -569,7 +569,7 @@
       "summaryKo": "바스쿠, 산티아고 소사 영입 협상 타결",
       "excerpt": "Vasco se acerta com Racing e aguarda chegada de Santiago Sosa&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXhFOVVDU24wZGRrYno3TFlHY25tZEsyM05OQXYwQXNUSGdNTUxzMTJEclZOTUc0WTBLVnljdTFoUG5peGhKckliYWh2b2JwRUt3WWpJUDlma3kwaVBKTGpwNEtLM2I2c3NhQVM3U3NRaUo0M1NZN2ozMlpRSm55Y3JuTGRFbk1CeUtGYXVKeGhmY0lvMHY0Y3d3STlybUZLUjhONmI1YVFGdUtTNHcyejJfTV9ITk84RzEyQTFrdw?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T23:24:50.000Z",
       "whyItMattersKo": "바스쿠의 미드필더 보강은 브라질레이렁 경쟁 구도에 변화를 줄 수 있습니다.",
