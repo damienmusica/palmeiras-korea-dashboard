@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T14:32:18.533Z",
+  "fetchedAt": "2026-08-08T15:30:10.346Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQX0NubkNVVFJSMWNqeE5lUTEzNUx0aEV6WWJSRHhBZWw3ZjB6eFAtOVhrX19",
+      "title": "Palmeiras x Internacional: onde assistir, escalações e arbitragem - Terra",
+      "summaryKo": "파우메이라스, 인테르나시오나우전 시간과 라인업 공개",
+      "excerpt": "Palmeiras x Internacional: onde assistir, escalações e arbitragem&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQX0NubkNVVFJSMWNqeE5lUTEzNUx0aEV6WWJSRHhBZWw3ZjB6eFAtOVhrX19OeDVNWGxEajZ5R2k3ZGVnSjVxT3E4WDN0MjlGams2VnBiY2dyamtzWUlrTmFSdU5mOW0tMDNkMm9VSHZwYjg0VTJGYWpfbF9Gc0RGSzFvMHBDUGNQMi0xVzNWUFRjdVJ5VjdMR3RJRXczdHU5WlB5dzRTMEJ2ZENDMXB3ZHBWazBlVEx1MTBVU3hGcHE2NXFOVndabHowU2tHN3lDZS1xZnBYTHZuQ1VudW5QcUNXVjRwUW4zRkg1R0U0eU9jMllzS0hXZA?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-08T15:05:00.000Z",
+      "whyItMattersKo": "경기 시간과 선발 명단을 미리 확인해 놓치지 않고 제대로 응원할 수 있습니다.",
+      "fanTakeKo": "라인업 보고 승리 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
       "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
@@ -52,22 +68,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW9LUlN3Skw0M2hLMTk5b3hyVGlEeGN2Y3ROdk03dXNTZjBFNVB2QTdJNE1",
-      "title": "Déficit de R$ 124 milhões é um risco no Palmeiras? Especialistas explicam - UOL",
-      "summaryKo": "파우메이라스, 1억2400만 헤알 적자 우려",
-      "excerpt": "Déficit de R$ 124 milhões é um risco no Palmeiras? Especialistas explicam&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW9LUlN3Skw0M2hLMTk5b3hyVGlEeGN2Y3ROdk03dXNTZjBFNVB2QTdJNE1pZVoxX2hrNjBYNThpc29zeEh0MmxURkc1U2tkaVZ4VGoxQndDTUlDdmVUM1I2NmU3VlhDbG55RWJfOTFSc3JXVTNmeno0Si1tM1VCVzJQdl92UHBuZ3o1Y05ETTlhRlFsWHlOdDBRV2cyVTF0RDBDTXBLMkJwTWpHbjk4d0FkZHlOTFFqZHRwakUwelZ0cVJfU3FoUkNVUnpORU80VWtsZk5HUjNKQQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-08T12:30:00.000Z",
-      "whyItMattersKo": "큰 폭의 적자는 선수 영입과 팀 운영에 부정적인 영향을 줄 수 있는 요인입니다.",
-      "fanTakeKo": "재정 걱정이네, 힘내라 파우메이라스",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0trQVNQSDdNZk5UUHE1aEJwN1BQdFp3SzdydEpUUGxGX0I4bnlRelNnWTl",
       "title": "Paulo Vinicius Coelho (PVC): Brasileirão volta e Flamengo persegue Palmeiras. Informações e palpites - UOL",
       "summaryKo": "브라질레이렁 재개, 플라멩구가 파우메이라스 추격",
@@ -78,6 +78,22 @@
       "publishedAt": "2026-08-08T12:30:00.000Z",
       "whyItMattersKo": "리그가 재개되고 플라멩구가 뒤쫓아오면서 선두 경쟁이 더 치열해질 것입니다.",
       "fanTakeKo": "플라멩구 추격은 긴장되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW9LUlN3Skw0M2hLMTk5b3hyVGlEeGN2Y3ROdk03dXNTZjBFNVB2QTdJNE1",
+      "title": "Déficit de R$ 124 milhões é um risco no Palmeiras? Especialistas explicam - UOL",
+      "summaryKo": "파우메이라스, 1억2400만 헤알 적자 우려",
+      "excerpt": "Déficit de R$ 124 milhões é um risco no Palmeiras? Especialistas explicam&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW9LUlN3Skw0M2hLMTk5b3hyVGlEeGN2Y3ROdk03dXNTZjBFNVB2QTdJNE1pZVoxX2hrNjBYNThpc29zeEh0MmxURkc1U2tkaVZ4VGoxQndDTUlDdmVUM1I2NmU3VlhDbG55RWJfOTFSc3JXVTNmeno0Si1tM1VCVzJQdl92UHBuZ3o1Y05ETTlhRlFsWHlOdDBRV2cyVTF0RDBDTXBLMkJwTWpHbjk4d0FkZHlOTFFqZHRwakUwelZ0cVJfU3FoUkNVUnpORU80VWtsZk5HUjNKQQ?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-08T12:30:00.000Z",
+      "whyItMattersKo": "큰 폭의 적자는 선수 영입과 팀 운영에 부정적인 영향을 줄 수 있는 요인입니다.",
+      "fanTakeKo": "재정 걱정이네, 힘내라 파우메이라스",
       "tags": [
         "뉴스",
         "AI요약"
@@ -350,6 +366,22 @@
       "publishedAt": "2026-08-08T07:03:43.000Z",
       "whyItMattersKo": "초반 좋은 컨디션을 이어가며 인테르의 공격을 막아내는 것이 팀 수비의 핵심 과제입니다.",
       "fanTakeKo": "마리판, 이번에도 든든하게 막아줘!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-21-https://news.google.com/rss/articles/CBMiogJBVV95cUxNXzFzRUlVRVZZQkUzMDVrblNFRllIc1BZUVJ1UF9jYVZ3bDNhSUp0VGlaY2",
+      "title": "Ferroviária x Palmeiras no Brasileiro Feminino: onde assistir ao vivo e horário - ge",
+      "summaryKo": "파우메이라스, 브라질레이렁 여자부 경기 생중계 안내",
+      "excerpt": "Ferroviária x Palmeiras no Brasileiro Feminino: onde assistir ao vivo e horário&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNXzFzRUlVRVZZQkUzMDVrblNFRllIc1BZUVJ1UF9jYVZ3bDNhSUp0VGlaY2I1X3J1T3dnVmFkaE9HTXdOSzM1b0RnS1lPRl83RzVyeVE2bWgxVkZKUUphLTlOYldlY044ZmttQnZxWnVkNXpvS0NJamNJOHlfaktPLXdJVzhFYkRpb3Rxd05KRGZpcmZMVzVQSXM3STFTSzByeFVWa195dk80UnBmN2tVVjhsNmpJUzZ2OGdnb0tRRlNTR29oS1RoRlB0NlNmT2gxWVhFdzdSMkVtNW1VV0R4QndTT3pKcEcwa3oyeVhJdDdMLXRSc1Z4NjFFWFNkQU5kU1JkYWk0eDRnY1paemVRUWMzNWtBd2hjMGNtM1pSeWVLQdIBsAJBVV95cUxOVFd0RVZzY2M2S1ZERjgyQjZRLTNXSThQYjBqOG5mSzBpQVYzeUEyd2ZHWTA5MGdVZklLNlhDOTRRNmFLWjNnU1Vrbk0xaFg1ZDFZS0Z0akotX2FXM3ZibFpYSmx1OWd1S25JUkh3UjVXazZhbGhMTC1mTlU1cUYxRzJGSExuVjdEZy1yLTE2bERWTnVOOHpUeGRGMnVHaHR0Wk9iYnQtbVFNV1pvaXBxNml0TEM0cm9BUzFrS1RiZ0M0cFN0UUJzRmNZNTkzNlBxMGVrb3l0c2RkRXI4RW96a2J5TjhvYk5JWkJMdjV3dnlhWFN2R2Itb21oQ0g2UndOQmNVNTRKbUV1WWNKc2xhY0E2OU13MTRUb01JSHYwQ25ZTVBkS2E3TnFZclBaYmNa?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-08T07:01:48.000Z",
+      "whyItMattersKo": "여자부 경기 생중계 정보를 확인해 파우메이라스의 또 다른 팀도 응원할 수 있습니다.",
+      "fanTakeKo": "여자부도 화이팅, 응원할게!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -926,38 +958,6 @@
       "publishedAt": "2026-08-07T21:40:40.000Z",
       "whyItMattersKo": "새 후원사 유치는 구단 재정 안정에 도움이 되며 팬들에게 다양한 혜택을 제공할 수 있습니다.",
       "fanTakeKo": "클럽 재정 탄탄해지길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlJNRTFCVFNMa2V0Wkhydm1wZEE2SEY0YmVqcURybXJicWt6RUlkWmYwRD",
-      "title": "Jogador com maior sequência no elenco, Evangelista celebra confiança da comissão - palmeiras.com.br",
-      "summaryKo": "에반젤리스타, 연속 출전에 감사 표해",
-      "excerpt": "Jogador com maior sequência no elenco, Evangelista celebra confiança da comissão&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlJNRTFCVFNMa2V0Wkhydm1wZEE2SEY0YmVqcURybXJicWt6RUlkWmYwRDU1eDJDYXVPSTI1Z2pSbjlraXV0eWZxTVFidXJZcUpEc2plemlycXQ1TGt1RzJDYTRMZlRGU2x4R3lOclI4ZzJqSi1NRDBYOWdZQnFlNng4aUh2Sm5VajNuLUJraG1kYXd2R01pQkhTek1qcXBxUjdQOWhrNFg5c2Q3ZEd1U3VybExXaGp2eVE?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T21:35:30.000Z",
-      "whyItMattersKo": "주전 선수의 확고한 신뢰는 팀 내 분위기 안정과 성적 유지에 중요합니다.",
-      "fanTakeKo": "에반젤리스타 든든해라!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2puRjhGY1Y3TTdteHlEU2F3eV83NS1oUHZKbzRzYUU0X3BoSFlZOVNTbHV",
-      "title": "Inter treina no CT do São Paulo antes de enfrentar o Palmeiras - GZH",
-      "summaryKo": "인테르, 파우메이라스전 앞두고 상파울루 구장서 훈련",
-      "excerpt": "Inter treina no CT do São Paulo antes de enfrentar o Palmeiras&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2puRjhGY1Y3TTdteHlEU2F3eV83NS1oUHZKbzRzYUU0X3BoSFlZOVNTbHVuZmxPaHo0V09MUWFMMFVBSmF2RUljcVVqSDJiVWdDXzdrSk81SDY1dmZaRHBvSzRuTDlaNWFHd19xNkl1UkpvdjRKdW4xVkd5TkdoNWlwMVF1MndRWnk0UFNBTnhKR2tPZlFYcWtvTlJCZFlFdHZ2Zkljc21vRkZPdThPTV84eU9BNVFweFJDMXhzZ0x3akxyaWx6dmpoc0FhQXBvaFlnQkNRcXk3bFg4X3AwVE15TzQta2pMX1ozcg?oc=5",
-      "source": "gauchazh.clicrbs.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-07T21:35:16.000Z",
-      "whyItMattersKo": "원정 경기 장소를 미리 점검하며 파우메이라스전 준비를 본격화했습니다.",
-      "fanTakeKo": "원정 훈련까지 꼼꼼하네, 경계해야겠어요.",
       "tags": [
         "뉴스",
         "AI요약"
