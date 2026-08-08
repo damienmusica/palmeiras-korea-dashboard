@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-08T05:42:15.813Z",
+  "fetchedAt": "2026-08-08T06:54:21.192Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
@@ -249,7 +249,7 @@
       "summaryKo": "파우메이라스 인테르나시오나전 시청 방법과 예상 라인업",
       "excerpt": "Palmeiras x Internacional: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão&nbsp;&nbsp;ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON3JyWmVpQ25nUkhxTE5qY1ItdjVWU1dyUzQ1R1M3MUtnLUVKQjVwZDNXU1BVREpZdlJER25LU0ZjdkcybUthc2lnRHdDRmxoajJFUm9QQlRJSXRQWXZ6d1FoelROaThVNkRlQ3BwaWhhdUhVQVl1aGNlOUx1NzRYdTJUTXk2RVA1am44LWFEZXItVWI5UElWRmxleTNpeDB2R3pPemh2U3cyYlk1cm1WMUw0NTRLQzR6dUJxcHBkY25pamlkSjJ4NHVGcndRd0gzVGt2eXRWVHFETndvSnpRck55WlgyeGd0Wl9TU0hSb2ZZLTVJRmFXRjZn?oc=5",
-      "source": "ESPN Brasil",
+      "source": "espn.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T00:15:00.000Z",
       "whyItMattersKo": "브라질리이랑 일정을 확인하고 예상 선발 명단을 미리 파악하는 데 좋습니다.",
@@ -329,7 +329,7 @@
       "summaryKo": "파우메이라스, 레알 마드리드 출신 선수 영입 발표",
       "excerpt": "Palmeiras surpreende o mundo e anuncia atleta que estava no Real Madrid&nbsp;&nbsp;Diário do Comércio",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUhiQnFYUThpcWlRR2VpMDQ1Rk1wNDRpMENBa0RTa3FzbFQwcjNIVk9ocmt3ZVpSY2RCT2hUNVk0ZEFlNkx4SE9OMzE5SEs3UGtrVXc5dVA0WDlZQUNvbEh4LVlrWnhOTnFPdzdhUlpNanF1b3VzSWdVZzlEWmNMdnExOXdIVmhZMUtiN2Y3Q2w4TU9BRTVFSXYzOGIxdy1fYmtyS2RsTVVMd1I2?oc=5",
-      "source": "Diário do Comércio",
+      "source": "diariodocomercio.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T23:16:00.000Z",
       "whyItMattersKo": "빅클럽 출신 선수 영입은 팀 전력 보강과 팬들의 기대감을 높일 수 있습니다.",
@@ -393,11 +393,27 @@
       "summaryKo": "파우메이라스와 인테르 경기, 시청 방법 공개",
       "excerpt": "Saiba onde assistir ao confronto entre Palmeiras e Inter&nbsp;&nbsp;Sport Club Internacional",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFJkS0I4Wm1LU1k3YXZ4Znp4dnZiSE1FZEtielVqc1lGRkxtMm4zZGZyZVM0UF9xSmlybm9wMVBFOElIY2ZBUHpibW02Y2U2YUtPWUwzMDN3bVF4UXQwUEZreUpoUjJTcWFnd3VaNmxSdmZlNGVPMHhTYTRkd0hGUTlfalR3cHQ5WWFYaXcySkowVzVPbUthYmlvWGRsUE5IeTlEanp3?oc=5",
-      "source": "Sport Club Internacional",
+      "source": "internacional.com.br",
       "language": "pt",
       "publishedAt": "2026-08-07T22:59:13.000Z",
       "whyItMattersKo": "중계 정보를 확인해야 한국 시간으로 경기를 놓치지 않고 볼 수 있습니다.",
       "fanTakeKo": "맛있는 거 사놓고 봐야겠다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0o4RUFsd05PVVBhU084dzkxZl8zTk5VdjlGX0g1dWRPRGdzZWZ1NUtvMT",
+      "title": "Palmeiras ganha lateral de 60 milhões de euros que não cansa de fazer gols e negocia com zagueiro de Copa do Mundo - jornalcruzeiro.com.br",
+      "summaryKo": "파우메이라스, 골잡이 풀백 영입설에 월드컵 수비수 협상",
+      "excerpt": "Palmeiras ganha lateral de 60 milhões de euros que não cansa de fazer gols e negocia com zagueiro de Copa do Mundo&nbsp;&nbsp;jornalcruzeiro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0o4RUFsd05PVVBhU084dzkxZl8zTk5VdjlGX0g1dWRPRGdzZWZ1NUtvMTlFTlZNeE9xdzNOZ3ZidTZwaWgxWXJYWk1pNEZzWmhBeVBtQkNUZ3JpYnpjWGFJMjJJS1NJWUJPTmJGeTVBZTdHVVlzcUZBanVVUmd3SlhTMjhNcnZLTUZ1bkthTE56dXcwSS1yZmppOTJvamNPT1JqZFhZRnQ5NG9CY2xBbXdoOFNwV3c5UTU4bXowdUtueDFscXluRDFSNF8ya3liQWh4U2dQY0tGMGl3T25BRzZxQjVHVmJLdWVEcWN3NmEzQQ?oc=5",
+      "source": "jornalcruzeiro.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-07T22:51:00.000Z",
+      "whyItMattersKo": "공격력을 높여줄 풀백과 수비진을 보강할 월드컵 경력자라 팀 전력이 크게 올라갑니다.",
+      "fanTakeKo": "공격형 풀백이라니 득점 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -430,6 +446,22 @@
       "publishedAt": "2026-08-07T22:30:28.000Z",
       "whyItMattersKo": "리베르타도레스 탈락을 피하기 위한 첫 경기라 토너먼트 행보가 달린 승부입니다.",
       "fanTakeKo": "리베르타도레스 또 우승해야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-25-https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUFBMUpCbUMzVGI0V0ZlZ1NHMHc1dzRqa01HNEVNUDV6UXhiNDlSYnJWV3",
+      "title": "Líder, Palmeiras recebe o Internacional no domingo pelo Brasileirão - Diário de Suzano",
+      "summaryKo": "선두 파우메이라스, 일요일 인테르나시오나울전",
+      "excerpt": "Líder, Palmeiras recebe o Internacional no domingo pelo Brasileirão&nbsp;&nbsp;Diário de Suzano",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUFBMUpCbUMzVGI0V0ZlZ1NHMHc1dzRqa01HNEVNUDV6UXhiNDlSYnJWV3JGalVYMGR1U0lSdTNlc0czblRCZmVKWERuS1NCS2pKOXB5ald3TXdlemhjNXFrWFl3TGRIczd1dWtyWnB2MDRlMGp4QTZJOVZPeDh6SGh1dy00b3NzMzFJMHI2OHdhSE1ZTWI0ZjMwbS10MVI0M2pxRnoxNXFFN0J5WDdfMjhrRUU2N1XSAbsBQVVfeXFMT1hKVmJSNEQ1cHpXMnJLMmxaLXVDMTJNOF9XZEk4bTllNUZCUE9TV1Azb25qbDV4V2RNWFU4QmYtVmhfd3lPMndiRmFsYlJFOHA0T0ItZ0QzbktEQlFEN2czU1ZxRWNXaUd0akdlR2FBeldSSUh0RjFlSHVnSnhyOHdWdXBBY1FxX2Zyd2tYVmJocS1KSHE5MU05UnFXVGdfcUZIN3oxcVFmRVBkUF83amE2TzJKc0x4SWhvZw?oc=5",
+      "source": "Diário de Suzano",
+      "language": "pt",
+      "publishedAt": "2026-08-07T22:17:00.000Z",
+      "whyItMattersKo": "선두로서 경쟁팀을 상대로 승점을 챙겨 순위를 굳건히 할 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "우리 집에서 꼭 이겨야죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -924,38 +956,6 @@
       "publishedAt": "2026-08-07T14:55:00.000Z",
       "whyItMattersKo": "유니폼 스폰서는 꽉 찼지만 목표 미달이라 새로운 수익원이 절실합니다.",
       "fanTakeKo": "돈이 되어야 선수도 영입하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSE1HRlNFYVF6WV90a2RZbGFhenlqaUhSWDVMVTEzSmhhWEE0OUdCSzBpU24",
-      "title": "Palmeiras oficializa nova parceria digital do clube para temporada 2026 - Terra",
-      "summaryKo": "파우메이라스, 2026시즌 디지털 파트너십 공식 발표",
-      "excerpt": "Palmeiras oficializa nova parceria digital do clube para temporada 2026&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSE1HRlNFYVF6WV90a2RZbGFhenlqaUhSWDVMVTEzSmhhWEE0OUdCSzBpU240RHFILTZxbjZ2eHpTb05lcXhCVVRtZlUyQV96ejF4ek9DS0lfaHZRU1puY3MwanFVNkdqUWVnU0d1QnBVcldWVWhoYXhCWG9ZTS1vODhZd0VZSzRBVnc1eXhYNEV0ZEp3Q253TlY3d3Q4aTQyNjFFeEFYTUpMZ3h6LXIzUXFIMndrSlAzaFNQeEF4WFg3dkpHb1g4SndzRGdQbTMyeXhQWlhfV0RyRjlvZEVnamVsdmRuUWRYODd5NmNodHZTZkE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-07T14:53:00.000Z",
-      "whyItMattersKo": "미래 시즌의 재정 안정성을 확보하고 디지털 팬덤을 강화하는 계기가 됩니다.",
-      "fanTakeKo": "팀의 재정이 튼튼해져서 좋네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEg2SnZlazdBMEZzaEdRZ2JFUmdDR2tEX0Y3aktieVYzcUVzbUhQQlRkTW5",
-      "title": "Palmeiras ganha novo cenário após meia da Seleção Brasileira ficar livre no mercado - NSC Total",
-      "summaryKo": "파우메이라스, 국대 미드필더 영입 기회 포착",
-      "excerpt": "Palmeiras ganha novo cenário após meia da Seleção Brasileira ficar livre no mercado&nbsp;&nbsp;NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEg2SnZlazdBMEZzaEdRZ2JFUmdDR2tEX0Y3aktieVYzcUVzbUhQQlRkTW5idVlTYzRDUG9UUDRiZHNWbnJtdHJnNWhKOFJ2WUlMSFF0VF9ZYVRveG1xZkRJODJENVhkUjVoRnFFTFlreUlWdjlnSnM1UVlKVklBcTYzTWxkZGNXemJXREh6Rk9Lc2tmQ21lMTRveXV4V0VxNmpFSkxHTFdqM2M4dkZ5NTZ1ZmZPSFFtQTVhUQ?oc=5",
-      "source": "NSC Total",
-      "language": "pt",
-      "publishedAt": "2026-08-07T14:33:44.000Z",
-      "whyItMattersKo": "이적료 없이 뛰어난 국대 미드필더를 영입할 수 있는 좋은 기회입니다.",
-      "fanTakeKo": "이적료 없이 영입하길 바랍니다!",
       "tags": [
         "뉴스",
         "AI요약"
