@@ -1,19 +1,67 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-09T19:33:38.538Z",
+  "fetchedAt": "2026-08-09T20:33:30.081Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWdtNHY0UDk3YzB1MXExYjM4c20yWGp5VTZmbTV3a3gtTmo5aExqOENvUll",
+      "title": "Lance em Palmeiras x Internacional enlouquece torcida: 'Milagre' - LANCE!",
+      "summaryKo": "파우메이라스전 ‘기적’ 장면에 팬 열광",
+      "excerpt": "Lance em Palmeiras x Internacional enlouquece torcida: 'Milagre'&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWdtNHY0UDk3YzB1MXExYjM4c20yWGp5VTZmbTV3a3gtTmo5aExqOENvUllaT0dsaVNPRWZ1WlhmN3k1akF3TWUwUi1Ed1VBT2xrZ1JlYXFPcUNxWUpxM1o4alBYRWVHNFo3M3RWTHNEWkhuRzNpYV94U3VEMGc4aVN0UThGVFU4ODJfR2dpS1pwUFRJVEY2WElYdWFMSmlXYUhESXgtWHM?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-09T20:05:28.000Z",
+      "whyItMattersKo": "경기 중 극적인 장면이 팬들을 열광하게 만들며 승부 흐름에 큰 영향을 줬습니다.",
+      "fanTakeKo": "진짜 기적 같은 장면이었네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
       "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
       "summaryKo": "파우메이라스, 인테르전 생중계 시작",
       "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "ge.globo.com",
+      "source": "ge",
       "language": "pt",
-      "publishedAt": "2026-08-09T19:27:47.000Z",
+      "publishedAt": "2026-08-09T20:02:07.000Z",
       "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
       "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWpOc04tY1Bkdk5EMks2ME50Z1l0YjF6ZnZpMWRYR04xQ0owMGJwSmpUQWZ",
+      "title": "Palmeiras x Internacional: onde assistir ao jogo do Brasileirão hoje (09/08) - MKT Esportivo",
+      "summaryKo": "파우메이라스, 인테르전 중계 채널 안내",
+      "excerpt": "Palmeiras x Internacional: onde assistir ao jogo do Brasileirão hoje (09/08)&nbsp;&nbsp;MKT Esportivo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWpOc04tY1Bkdk5EMks2ME50Z1l0YjF6ZnZpMWRYR04xQ0owMGJwSmpUQWZweWNORzVpa1dTQ1VNU0dxeF80Q2ZQcDlHaVBSbF94eGxfcEgyZTNmWGpyTDNRWll2QzNRRFg4TmRsUS1GY1lqaTg0T3hVLXZGYWMxWW1wTUt1UXdrekZzeTdYNGo5QzAyU0wtalZ6TzBONERYNTQ1Ni1GaWxwbDh1Y25aXw?oc=5",
+      "source": "MKT Esportivo",
+      "language": "pt",
+      "publishedAt": "2026-08-09T19:41:15.000Z",
+      "whyItMattersKo": "오늘 열리는 인테르나시오나우와의 경기를 시청할 수 있는 중계 정보를 안내합니다.",
+      "fanTakeKo": "경기 시간 확인 완료, 보러 가야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRmhiTlhnd1ZadWZPVDlpb0VLX1JiQ0dqSHFSb01vRzRrenZ1SXJ2bWhEcTh",
+      "title": "A declaração de Abel Ferreira direcionada a Palmeiras x Internacional - Terra",
+      "summaryKo": "아벨 페헤이라, 인테르전 관련 발언",
+      "excerpt": "A declaração de Abel Ferreira direcionada a Palmeiras x Internacional&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRmhiTlhnd1ZadWZPVDlpb0VLX1JiQ0dqSHFSb01vRzRrenZ1SXJ2bWhEcThibWdKZktieDZSaVVEbW5oN0EwTDZCbUFaTWtMQ1RORkVjMDBSS3VxNzJpSXEwOW4xb01XQkdNLWVwa3FHbGNvb2RVX3dla1hTY0xoSlZXQUJDWExlNmNsenhkRFV0SlFuVU8teUEybDNZNS1rMXpXdERiN2dSMDJfazBFWEtEQVY0Y0JHVExWUDFOWWdvWFZ6RmVDa0ZtYjdJQWpOMWRyejZVa0hEdlJpRlQ2YkY0VnNILU83VXBZUmQ4bG8?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-09T19:05:00.000Z",
+      "whyItMattersKo": "감독의 경기 관련 발언은 선수들의 사기와 팀 전략을 파악하는 데 중요한 단서가 됩니다.",
+      "fanTakeKo": "아벨 감독 멘트 기대된다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -55,7 +103,7 @@
       "summaryKo": "바스쿠, 안드레스 고메스 부상으로 결장",
       "excerpt": "Andrés Gómez é vetado no aquecimento e desfalca o Vasco contra o Bahia&nbsp;&nbsp;ge.globo.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWENteHNHb01pN3NZNnlka1BITjF5MXdLQnVmQUhRZlVhdWhwYWZMWjZKbUV4bU1RVWlpY0dEYlJYV01oNjhtR2FrWFpDbXNOYlNiSmRtemxrV1NIdGFJeThYUU4xdmdqU19ZRDJfRjB2X2MzYnVwVDVDQXg1Z0ctZTNWX1VSTzcwajl0UUlRcVkwMWtIWDM1dE0zVXdjQnF4UExGTVZKcTM0ZjFTaWhEZzhseFFqelZicUZTUDVFb0tFS0psRjZIazZERFY3aVNGd3fSAeABQVVfeXFMTUJjc0ItaUxTczdWZ0x3VGtvWEItSnVTVUJ0NkVjT1Y4ZVJ4N2FOc3ZBQngwR1lqUG1Ed2h4TWVUczQtaHV3SDNrU0o1NUNuNldOZ3JtVFFfM0kzbUVXZGlBbWJDMWRDWkRSY1ExZ0JGWG1PUXlPcnpNbUVrZTZveWxZWldLMnpDS0JrTXFrWE9VUGQ5eVZnRFg0QnVQOGFwN2VaUGVuRldoYmdkS1FUR2g0NjZQaXZUZHI5VWNYOTFRbVA4VlJuYktSVnVuU2lmWlRlMktRUFlUa3JVLS1uanI?oc=5",
-      "source": "ge.globo.com",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-08-09T18:50:57.000Z",
       "whyItMattersKo": "경기 직전 주전 선수의 결장은 팀의 승리 행보에 큰 변수가 작용합니다.",
@@ -231,7 +279,7 @@
       "summaryKo": "파우메이라스 인테르전 시간과 중계안내",
       "excerpt": "Palmeiras x Inter no Brasileirão: onde assistir ao vivo, horário e escalação&nbsp;&nbsp;Estadão",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm1EcE5jYVNKWEtnQlVvVF9CRHZaZnZ1RFJ1Nnd0SGpOaHBSMmJUNklmOTJxV1ZMSTU0TU94Z3dGZ3RlYXlBbnNjRGhNMDg3UEZZeklNUG5wWFhZMDVJU25pUTNxQ2ZxbFp3TGJYNHFKZFBWSVd1OUpXSG5FY3JnLTJXTGs0UFpWVDd2LV9zbEpEd2tyd3otNEljNkRid19NQkdEckt4WWxGTFNXV0VlWEdRVjZrc0dONThTNHI0N1A?oc=5",
-      "source": "Estadão",
+      "source": "estadao.com.br",
       "language": "pt",
       "publishedAt": "2026-08-09T18:05:28.000Z",
       "whyItMattersKo": "경기 시간과 중계 채널을 미리 확인해야 놓치지 않고 생중계를 볼 수 있습니다.",
@@ -354,22 +402,6 @@
       ]
     },
     {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWpOc04tY1Bkdk5EMks2ME50Z1l0YjF6ZnZpMWRYR04xQ0owMGJwSmpUQWZ",
-      "title": "Palmeiras x Internacional: onde assistir ao jogo do Brasileirão hoje (09/08) - MKT Esportivo",
-      "summaryKo": "파우메이라스, 인테르전 중계 채널 안내",
-      "excerpt": "Palmeiras x Internacional: onde assistir ao jogo do Brasileirão hoje (09/08)&nbsp;&nbsp;MKT Esportivo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWpOc04tY1Bkdk5EMks2ME50Z1l0YjF6ZnZpMWRYR04xQ0owMGJwSmpUQWZweWNORzVpa1dTQ1VNU0dxeF80Q2ZQcDlHaVBSbF94eGxfcEgyZTNmWGpyTDNRWll2QzNRRFg4TmRsUS1GY1lqaTg0T3hVLXZGYWMxWW1wTUt1UXdrekZzeTdYNGo5QzAyU0wtalZ6TzBONERYNTQ1Ni1GaWxwbDh1Y25aXw?oc=5",
-      "source": "MKT Esportivo",
-      "language": "pt",
-      "publishedAt": "2026-08-09T17:01:18.000Z",
-      "whyItMattersKo": "오늘 열리는 인테르나시오나우와의 경기를 시청할 수 있는 중계 정보를 안내합니다.",
-      "fanTakeKo": "경기 시간 확인 완료, 보러 가야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG1HLWMxMkVYZV9uVHhjVkhmZ3d5WWlvcm9ZVUcydGRPU1BvNGNMQ1k0VE4",
       "title": "Palmeiras busca voltar a vencer em casa contra o Inter para manter liderança no Brasileirão - bra1.com.br",
       "summaryKo": "파우메이라스, 인테르나시오나우전 승리로 선두 지키기",
@@ -423,7 +455,7 @@
       "summaryKo": "파우메이라스 대 인테르, 시간과 중계 안내",
       "excerpt": "Palmeiras x Internacional no Brasileirão: onde assistir, horário e escalações&nbsp;&nbsp;VEJA",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2x5SVNGQTF4aWk5akZiUUJXN0VDQTBVNXRyT0g3VF9SZUV1UVkwSTJMTzVBRHJySHp6MzBRb2JiWWh5MWtSdVdDNGhCOEhRQXBBWXp2QmliWDl6OUt3OGo4X05NVmRydkNHZVJhV1l5dGxKeE9GVUczdTNaVjE1bHFLWDJMZ0p1RU1EOWg0Q0NzaWpyNEU5U2tqckY3UWtCZUJHTFhFUG9LWGQ0clN3?oc=5",
-      "source": "VEJA",
+      "source": "veja.abril.com.br",
       "language": "pt",
       "publishedAt": "2026-08-09T15:34:06.000Z",
       "whyItMattersKo": "경기 시간과 중계 정보를 확인해 놓치지 않고 중요한 경기를 시청할 수 있습니다.",
@@ -460,6 +492,22 @@
       "publishedAt": "2026-08-09T14:49:03.000Z",
       "whyItMattersKo": "오늘 경기 시간과 중계, 그리고 예상 선발 명단을 확인해 볼 수 있습니다.",
       "fanTakeKo": "오늘 경기 꼭 봐야겠네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-29-https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU2tKaVJTQURHcFd6R3lEM2k0eHQ3ekRNaVFKUlFkM1VoMVBPUjZINFZadW",
+      "title": "Abel Ferreira pode repetir feito de Scolari no Palmeiras - Portal ABC do ABC",
+      "summaryKo": "아벨 페헤이라, 스콜라리 기록 재현할까?",
+      "excerpt": "Abel Ferreira pode repetir feito de Scolari no Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU2tKaVJTQURHcFd6R3lEM2k0eHQ3ekRNaVFKUlFkM1VoMVBPUjZINFZadW5IZEpJejZncno3alNVSkgxdG42dEY0a21tZEZTaG04UjFDWWM2RVpqVkFrMllRZnl5TDZSU1JjNkN1dmtHdVB3RTlz?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-08-09T14:27:00.000Z",
+      "whyItMattersKo": "전설적인 감독의 기록을 따라잡을 수 있다는 건 아벨 감독의 위상을 높이는 일입니다.",
+      "fanTakeKo": "아벨 감독이 역사를 쓰길!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -906,54 +954,6 @@
       "publishedAt": "2026-08-09T09:30:23.000Z",
       "whyItMattersKo": "경기 일정과 중계 방법을 확인하면 한국 시간으로 생생하게 경기를 볼 수 있습니다.",
       "fanTakeKo": "오늘 경기도 파우메이라스 승리 기원!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFBYanRLVHRWSUlvMzlBTVVMQzFpRzVOLUNFenpHWjJzbGxNOTh1azJfNko",
-      "title": "Palmeiras x Internacional: veja horário e onde assistir ao jogo pelo Brasileirão - Exame",
-      "summaryKo": "파우메이라스 인테르전 시간과 중계",
-      "excerpt": "Palmeiras x Internacional: veja horário e onde assistir ao jogo pelo Brasileirão&nbsp;&nbsp;Exame",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFBYanRLVHRWSUlvMzlBTVVMQzFpRzVOLUNFenpHWjJzbGxNOTh1azJfNkowYUhBRWRQNFpzQ1lEazN1N0hzSzZFejYwTlpTc3NZY3VWYm9MZHJNVkRIQnNwQVA1WGJaQmZGNUJxYmFVcFFoaGh4YXAzWTJQa3Z3NTVfbk5MSHRsRFVDTFJNMldZNF9hR2NrSldObS1uYWprRV83MG16eWhlZw?oc=5",
-      "source": "Exame",
-      "language": "pt",
-      "publishedAt": "2026-08-09T09:21:24.000Z",
-      "whyItMattersKo": "브라질레이렁 경기를 놓치지 않고 시청하기 위해 시간과 채널을 확인해야 합니다.",
-      "fanTakeKo": "시간 확정하고 기다리자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vQ1pDQ2RHdldnM25LVXZpQ2lOZnd1Qms4XzBidks4bzd5N1ZvY29hNDhPd1B",
-      "title": "Palmeiras x Internacional: Saiba como assistir ao vivo - Portal ABC do ABC",
-      "summaryKo": "파우메이라스전 생중계 방법 안내",
-      "excerpt": "Palmeiras x Internacional: Saiba como assistir ao vivo&nbsp;&nbsp;Portal ABC do ABC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vQ1pDQ2RHdldnM25LVXZpQ2lOZnd1Qms4XzBidks4bzd5N1ZvY29hNDhPd1BZZ09BdDljZXRncEluXzV6a2JrSEpma01ZLXpfdFI2SUNDbV9hUGJfc3IydmMtcw?oc=5",
-      "source": "Portal ABC do ABC",
-      "language": "pt",
-      "publishedAt": "2026-08-09T09:15:26.000Z",
-      "whyItMattersKo": "경기를 생중계로 보기 위해 필요한 방송 정보를 미리 확인할 수 있습니다.",
-      "fanTakeKo": "중계 정보 덕분에 편하네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUM1X2x3Rkg3YjVxM2didHZoY1BaQVJJU0xwaTZFTE5hZXFZNjNOdUpHLTN",
-      "title": "Palpite Palmeiras x Internacional - Brasileirão - 09/08/26 - metropoles.com",
-      "summaryKo": "파우메이라스 인테르전 승부 예측",
-      "excerpt": "Palpite Palmeiras x Internacional - Brasileirão - 09/08/26&nbsp;&nbsp;metropoles.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUM1X2x3Rkg3YjVxM2didHZoY1BaQVJJU0xwaTZFTE5hZXFZNjNOdUpHLTNURVBPTkVObkl0di1GZGZZS3ltQlkxYlZHcHctdHdsUnVBWkNKZFBXLXBWZkZLMEtacG9aa19hRUlqSHNfazZ5Q093UHVjaEEtVDFoY2VuYk5XNkhIRW9iZl9LUHh4V19lS1lMQWtmd3pKMVo5QlN0cVItblRzUHM?oc=5",
-      "source": "Metrópoles",
-      "language": "pt",
-      "publishedAt": "2026-08-09T09:00:00.000Z",
-      "whyItMattersKo": "전문가의 분석을 통해 경기의 승부와 흐름을 미리 가늠해 볼 수 있어 도움이 됩니다.",
-      "fanTakeKo": "예측대로 깔끔하게 이기길!",
       "tags": [
         "뉴스",
         "AI요약"
