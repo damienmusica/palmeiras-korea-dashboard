@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-09T05:06:03.571Z",
+  "fetchedAt": "2026-08-09T06:08:25.719Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWkFoTHA1dUdZd1ZmTlZkNjRGQXN4TkV3V3VJYjV6TEtWbktrWlY2aEVqbG1",
+      "title": "Facundo Colidio e Santiago Sosa geram dilema no Vasco com estrangeiros - Terra",
+      "summaryKo": "바스쿠, 외국인 콜리디오와 소사 두고 고민",
+      "excerpt": "Facundo Colidio e Santiago Sosa geram dilema no Vasco com estrangeiros&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWkFoTHA1dUdZd1ZmTlZkNjRGQXN4TkV3V3VJYjV6TEtWbktrWlY2aEVqbG1RcHFpMG50cEVXdkRLT3FuY1gwN3d1bDNwdDZJREFjRkdoaWdjVmhrT2FFeXZaSGEwZGJxS1dUNUNPVlpZNTlTSl9tbWdNQS1pOUpqQ25jT2J6bFMtbFB3OVRVdHBMcnVGTVlxSnRaNkdkdktWa3Q3T1pCa3QwVG5FUEp2dUNSSnRRd0xXdHYxY1k1amdSWTc4WjVZbVJ2NGg4MzgydDQ5UkdfTG9zQ0hsUTg5RUFfdThiTDFuZlFNMFpCSQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-09T05:47:00.000Z",
+      "whyItMattersKo": "외국인 선수 쿼터 제한 때문에 경기마다 선발 명단 구성에 변수가 생길 수 있습니다.",
+      "fanTakeKo": "명단 짜기가 참 어렵겠네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXU4N3JtSEJzM0JuNFlzTHVOY1JwQmdqSi1UaWNpSnRid01YdDdQcE93VWh",
+      "title": "Palmeiras e Internacional fazem duelo de opostos pelo Brasileirão - esportes.r7.com",
+      "summaryKo": "파우메이라스, 인테르와 브라질레이렁 정반대 대결",
+      "excerpt": "Palmeiras e Internacional fazem duelo de opostos pelo Brasileirão&nbsp;&nbsp;esportes.r7.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXU4N3JtSEJzM0JuNFlzTHVOY1JwQmdqSi1UaWNpSnRid01YdDdQcE93VWhmRnNRYVNya0dpMVU1d0V0bnFHamVSeGlpX1BWOFlsMC1qU2FITG5PQkN0NDJBMkNtMURudy1FelJpMmc5NndEaGVMQ2JReE9USWNRaWZ6SkFlZzR0c0tOS01zbS1yZXJYcVYzMUlfQll0QTRSNjZHdlBMcUM3LVU?oc=5",
+      "source": "esportes.r7.com",
+      "language": "pt",
+      "publishedAt": "2026-08-09T05:00:00.000Z",
+      "whyItMattersKo": "서로 다른 순위와 상황을 가진 팀 간의 맞대결이라 승패가 순위에 큰 영향을 줍니다.",
+      "fanTakeKo": "무조건 이겨야 하는 경기네요",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
       "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
@@ -105,7 +137,7 @@
       "summaryKo": "파우메이라스, 리베르타도레스 명단 5곳 수정",
       "excerpt": "Palmeiras promove cinco mudanças na lista de inscritos na Libertadores; confira&nbsp;&nbsp;Gazeta Esportiva",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDd5UDRYb2VIbGhNUTc2SWllaC1kR2FhV3NZM2p4TExlXzJNbUE2aDR6Y2N1cUN0TG9uQTl5Smk0TnV1NWZjTVNiTFEtY181MEVXQTl5NFFSdkxOVU5jNTVlQ003NFRDVjR5SDRSRVVZT1MxY05KY0FUQ2pYdlU0MHphVm9wNVA0dzJYcGIzOFRldTNnQ2NLUWJnS0zSAaIBQVVfeXFMTW9oZWV4Y09RQ1B0R0RNeWQ4SHNOZngtVldYWFJBaTlpYlFvaUtfT3BwaUpYOEhyVFREdGpmR0VKRVpxNzlrcExxM0J5NThaODV1UE5reGttanBOVWF6YzBJdG4wdTdxd0Exanc3aDUtUkVfWFpTX3B6QVJjTzFyMV9YVWZCRnRrSmZPaTBTNU11Q3Q0bmYtQS1HazNQcXNPX3R3?oc=5",
-      "source": "gazetaesportiva.com",
+      "source": "Gazeta Esportiva",
       "language": "pt",
       "publishedAt": "2026-08-09T00:00:00.000Z",
       "whyItMattersKo": "대회 명단 변경은 전력 보강이나 전술 운용에 새로운 변수를 가져올 수 있습니다.",
@@ -121,7 +153,7 @@
       "summaryKo": "파우메이라스, 인테르전 홈 경기 치른다",
       "excerpt": "Inter visita o Palmeiras neste domingo pela 22ª rodada do Campeonato Brasileiro&nbsp;&nbsp;Jornal O Sul",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY29MVGZmckRpallldGM4QnR4TzdkTHNsVjFWWHlhbDdxVmJYT1Y4N0s1THhlOGtHVzNNMUxNYi1vMC1nd0VJZEZrbkNxRjFwWkZTdm5wS0tKU1pxbGtrcXBFeUpEaHVRRk9Zd2tBM3pOdkhITWJEV1VZN0hscVNxYWd4V1U1TElQTmt6bTZuYzI4WDJiZ2hzUG5B0gGfAUFVX3lxTE0xckFiUWVNU3huNXFJUHYzUDAyZDh2aHdCc0lJNzN3SE5WRFdtRmFHUDVsRURBeEt6V0h2MHp4RU5CeGx1Smp6eGFycXhZcTVHczZYMUlTRWNTdEUybWYzSzFOYVNOZ2l4YWRWTjRabjhhbmJkSk82Wll5OFR2ZHE2UmRDZUlRalF6anNfc3h6QlgxM1VZbnhGc3RnaThrVQ?oc=5",
-      "source": "osul.com.br",
+      "source": "Jornal O Sul",
       "language": "pt",
       "publishedAt": "2026-08-08T22:44:53.000Z",
       "whyItMattersKo": "브라질레이렁 22라운드 홈 경기 결과에 따라 팀의 순위에 큰 변화가 생길 것입니다.",
@@ -233,7 +265,7 @@
       "summaryKo": "파우메이라스 여성팀, 페로비아리아와 0-0 무승부",
       "excerpt": "Em jogo equilibrado, Palmeiras e Ferroviária ficam no 0 a 0 no brasileirão Feminino&nbsp;&nbsp;Surto Olímpico",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTndjSlAzeWtMWU5WYTZlNTJLdG5rMHpsSThVU3pqc19Nbnc4X2p1MUlHQzlhZWRvWWZwWks5Zkk3TlRUbTRzUkZmNkhWNWdxTllvWU1qNHpBX3dXRUVCbEJfNzM2TW9NM2ZlWW5KUFFYMThXWmh2bElRX1hZMUFCSDdsc1N2UEN3X3J2YU9VX0Rza05scXFyOTJOTnRLNHlNdzEyRGZ1VDFfb1hMM1d6VHd3?oc=5",
-      "source": "Surto Olímpico",
+      "source": "surtoolimpico.com.br",
       "language": "pt",
       "publishedAt": "2026-08-08T21:32:00.000Z",
       "whyItMattersKo": "무승부로 승점을 나누며 여자 리그 순위 경쟁에서 흔들림 없이 나아갔습니다.",
@@ -313,7 +345,7 @@
       "summaryKo": "파우메이라스 여성팀, 무승부로 선두 추격 실패",
       "excerpt": "Palmeiras empata com a Ferroviária e perde chance de colar na ponta do Brasileiro feminino&nbsp;&nbsp;Gazeta Esportiva",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0RCVFlFZk9MWmY1c0RYeG9JcEJJRi1xeXpuSHZwSjM5d0txSTU3MWNQam9INWZscGVKVkJEaW9QdHpuaWFabkRkX25rTmZ5ekM1RHdJdTVfQnFHU2Z6UjRuM2lNRU9hV1NFR0VYUlJpREJFMXNyZUxEcUVrZkh2ZHU4Mm02Q2VLbUtSUWJuSDdaNGdXck5lbnk4MERuZkdjNktCR0s4RVRzMERvQlEwOXBVSWUzck9nUEdZOTRQQk82SDBFQkJpcWRsYTg1bl9qZ05RWlJn0gHbAUFVX3lxTE15Q3VudXVtenR1QWxqUjUtOTRKREUwRVJWYjRNQTk1czRsZ1ZsWmZvNVdBa2dDaFRyVGNCb011RjB2Z0lsTjhXNGtKaUVydjBXZi0ycmdIbHdxSlhZV1dCTURMejhVOHBWVGNKUFFraDR4STNnSnNTNngzZm5LLWwzVFZPUE1yQktndHRmUEdqTV83bHl1U1BfNUg2bE1LcUZmMmEtMFNlcU1Jc25RU0xLalJKa0ZlUV80Q0JDWVJzemp1ZmZFSkZvdm9lTFIwaTV2MzVrM0xWdWh1NA?oc=5",
-      "source": "gazetaesportiva.com",
+      "source": "Gazeta Esportiva",
       "language": "pt",
       "publishedAt": "2026-08-08T21:01:00.000Z",
       "whyItMattersKo": "선두와의 승점 차를 좁히지 못해 여성 리그 선두 경쟁에서 아쉬운 결과를 맞았습니다.",
@@ -457,7 +489,7 @@
       "summaryKo": "아벨 페헤이라 감독, 수비 변화 주고 전술 훈련",
       "excerpt": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras&nbsp;&nbsp;Gazeta Esportiva",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTJQbFVOb3FseXdUMmc2TGMtTXY3NXF3X0VxM0NWZDdYNmw4VmhXcFdVWF9yNm5VODRBeE1rRWk2R0dEVzkzY09hVHVidnR6Ujh6aFF3X3BFTkRVNUhPMHQ2TnBvX3ZueGg4aXpua2ZjTXNkU3A5OVdmRlZWdWM2T0hrRDZZVHBObjd5MkNCc2FhbEwwajNNaWViakVObDNHYkstemsyanNmSmlmZjFPeFQ1cWcxWWwwSzJXb2p1dVJqOWZEb1ZnRTNoTC1KU3l3dVlpQ3FWVlnSAd4BQVVfeXFMTW1RbnJGR05sRFhHdG01THMyRjNVb1p6QV8wX1lLNklPUzJ0NDFYQ0dlMHJlWWIxRUVaRHItYTdYVjM3NGxwaXlRTHFZTjA3NmFrMXh0ZDA4TWJWcVJTSlV1SGZWUEljaU9VTUtIV2VmcWZ6NkU3MnZtRVJQSFdCTzZ3dkxiY2xsdU1nUFR6LTdOdmlOY1J1dnYwQXc4THBKUnpfdXhJNEFTTU1tOWxEVnNTVjF5T01LS1JoS05BQ1RWbGxfXzNmNHBJRi10ZW9oc0NuZjhtcWRDRkRxN2Vn?oc=5",
-      "source": "gazetaesportiva.com",
+      "source": "Gazeta Esportiva",
       "language": "pt",
       "publishedAt": "2026-08-08T18:57:00.000Z",
       "whyItMattersKo": "경기 전 전술 훈련은 선수들의 역할 이해를 돕고 경기력을 최적화합니다.",
@@ -537,7 +569,7 @@
       "summaryKo": "아벨 페헤이라, 수비 변화 주고 전술 훈련",
       "excerpt": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras&nbsp;&nbsp;esportes.r7.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHliQ045ejJOTWo0eXZ3NENoVDRZMTlYOG1uQjlMaXZPV0RqOGIxTHlfb3pIUEtJWTlsaHlBd0hPN09KZnh4blFINGNUVVpIY2tMdEdfaTM2NDZlVFRXOVNYemk4SFJvVkc2NXBieXlCaHYxWUE5TTVYWmRzSkIxdDUxOXhBZUdoZS1nVEpKR2VoeEVfUThhazRoX1Fqeks1czNldkswOHYzWnFwdWc1UjdjNzhVVlBsQXBBbXRjUlpkckluU3NrZmF6WTA?oc=5",
-      "source": "R7 Esportes",
+      "source": "esportes.r7.com",
       "language": "pt",
       "publishedAt": "2026-08-08T18:31:46.000Z",
       "whyItMattersKo": "수비진 변경과 전술 점검을 통해 다가오는 경기 대비를 마무리했습니다.",
@@ -926,38 +958,6 @@
       "publishedAt": "2026-08-08T11:12:19.000Z",
       "whyItMattersKo": "특정 선수들에게 득점이 편중되어 있어 부상 시 대안 마련이 중요해 보입니다.",
       "fanTakeKo": "주포들 활약 덕분에 승점 챙기네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2ZPNE1CSXMwRkItYVExQTA4QTBEdDF4QXVLN2cxMU1ocGkwaEt1dlkxRGF",
-      "title": "Quinteto concentra mais da metade dos gols do Palmeiras no Brasileirão - Terra",
-      "summaryKo": "파우메이라스 핵심 5인방 득점 절반 담당",
-      "excerpt": "Quinteto concentra mais da metade dos gols do Palmeiras no Brasileirão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2ZPNE1CSXMwRkItYVExQTA4QTBEdDF4QXVLN2cxMU1ocGkwaEt1dlkxRGFZNmhDOGN2UjRmenlGTkJ2UnI1bE1idGhwQzYxYmhQeE5nVDNKLWx6X0VIRTkyWThyelM3c3c1VFBjSXlnNnFYdjN2Mi05UllHNEczVjhwSlZOMzdCTlZGSDltUi1rZ25yMFNYSGFsc21PZl9PREZCcHpCZGE0TWhmaUNhTjBubUoxTmZJcXZMOVFISmc1S25fQ2h5THRta3NtcUVmanhPRlBjZ3hxd1NKQnluZGFLVFRsMWMtZ2Z1bTlWYjJGQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-08T11:02:00.000Z",
-      "whyItMattersKo": "득점이 특정 선수들에게 쏠려 있어 공격 조합과 선수 관리의 중요성을 보여줍니다.",
-      "fanTakeKo": "득점 머신들이 있어 든든하네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREU3VElYTlFJUzJ1emdWbW1xc2lvYThkNmdRdjk1c3h6Qk8zQTZPUEIxWUp",
-      "title": "Esquema novo e improvisos: como Abel tem montado o Palmeiras com desfalques na defesa - ge",
-      "summaryKo": "수비 결손, 아벨 감독 새 포지션으로 대응",
-      "excerpt": "Esquema novo e improvisos: como Abel tem montado o Palmeiras com desfalques na defesa&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREU3VElYTlFJUzJ1emdWbW1xc2lvYThkNmdRdjk1c3h6Qk8zQTZPUEIxWUp1S1NGeGN6dWROTzhMazhTQmtfVHpHWkQ1NkJwRmFRbWVFbGtiRUdPS045RmhsNC1fT0VWd2RjdFlJdlBDTW1yWjc5ZVNTelQ2T3VMWkRCaE9ndFQzaDNXQi1RNFNsOFRmTGpPTVhpWGRCQlVaR3E3bUtnNmFwR0gwcjlvUXd5ZkVuOXFXRHg2ZHE3NHIyRnVVQmJzdE54S3FYMVRGQV9XbGZNeEE3bkxpQW9pWGlSOU4yMzRBR0HSAfgBQVVfeXFMTTdLSmU2Qk5SM1BVN1VFbUwyY0xsOTNCNmRuNjhzUmFHV3RCYThOTUh6bVpMRDVCcFNNbjVjZWdDWjh1eW52T09FdTFneGRBenUyaFlJTjJnT0NnNExmcW14YkUyV2NOTFJLZmlLNG1vaG1QS0RjSi1ld0doVnJyU1RhdnRwY2JPdmw1c0pIMHFhNTkza3NLWHpaTlFENE1SWDUyV1lxeXppUGNBQnpNM2l4bjhkUkhmY0w3RVVnRWxNY3M2al9aQVg5Ylg2LWtWUzZNRUJfUDVJMUlCSDhlbXdBNnRhVE5EZ25lZHE3cVdTYkpnMndPYno?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-08T11:00:23.000Z",
-      "whyItMattersKo": "주전 수비수 부재 속 감독의 전술 수정이 팀 방어력과 승점 사수에 중요합니다.",
-      "fanTakeKo": "수비가 걱정되지만 잘 버텨주길.",
       "tags": [
         "뉴스",
         "AI요약"
