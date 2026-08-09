@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-08T23:37:33.228Z",
+  "fetchedAt": "2026-08-09T01:48:26.601Z",
   "season": "2026",
   "competition": {
     "id": "brasileirao",
@@ -115,6 +115,23 @@
     },
     {
       "rank": 7,
+      "teamId": "3456",
+      "teamName": "Coritiba",
+      "teamNameKo": "Coritiba",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+      "played": 22,
+      "won": 8,
+      "drawn": 6,
+      "lost": 8,
+      "goalsFor": 27,
+      "goalsAgainst": 29,
+      "goalDifference": -2,
+      "points": 30,
+      "form": [],
+      "isTracked": false
+    },
+    {
+      "rank": 8,
       "teamId": "2022",
       "teamName": "Cruzeiro",
       "teamNameKo": "Cruzeiro",
@@ -131,7 +148,7 @@
       "isTracked": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "teamId": "6086",
       "teamName": "Botafogo",
       "teamNameKo": "Botafogo",
@@ -148,7 +165,7 @@
       "isTracked": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "teamId": "7632",
       "teamName": "Atlético-MG",
       "teamNameKo": "Atlético-MG",
@@ -165,7 +182,7 @@
       "isTracked": false
     },
     {
-      "rank": 10,
+      "rank": 11,
       "teamId": "874",
       "teamName": "Corinthians",
       "teamNameKo": "Corinthians",
@@ -178,23 +195,6 @@
       "goalsAgainst": 20,
       "goalDifference": 2,
       "points": 29,
-      "form": [],
-      "isTracked": false
-    },
-    {
-      "rank": 11,
-      "teamId": "3456",
-      "teamName": "Coritiba",
-      "teamNameKo": "Coritiba",
-      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "played": 21,
-      "won": 7,
-      "drawn": 6,
-      "lost": 8,
-      "goalsFor": 25,
-      "goalsAgainst": 28,
-      "goalDifference": -3,
-      "points": 27,
       "form": [],
       "isTracked": false
     },
@@ -340,13 +340,13 @@
       "teamName": "Chapecoense",
       "teamNameKo": "Chapecoense",
       "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-      "played": 20,
+      "played": 21,
       "won": 1,
       "drawn": 7,
-      "lost": 12,
-      "goalsFor": 19,
-      "goalsAgainst": 41,
-      "goalDifference": -22,
+      "lost": 13,
+      "goalsFor": 20,
+      "goalsAgainst": 43,
+      "goalDifference": -23,
       "points": 10,
       "form": [],
       "isTracked": false
