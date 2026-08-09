@@ -1,8 +1,22 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-09T09:40:23.204Z",
+  "fetchedAt": "2026-08-09T10:35:17.515Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGJZZ0Zmdk00eS16N3RONmYzdXB5RjY5QmR0ZTBycVZ6QnVNVnBNbDllanR",
+      "title": "Palmeiras x Internacional: onde assistir ao vivo, horário e prováveis escalações em 09/08/2026 - Muita Informação",
+      "summaryKo": "Palmeiras vs. Internacional: 2026년 8월 9일 라이브, 일정 및 예상 라인업을 시청할 수 있는 곳 - 많은 정보",
+      "excerpt": "Palmeiras x Internacional: onde assistir ao vivo, horário e prováveis escalações em 09/08/2026&nbsp;&nbsp;Muita Informação",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGJZZ0Zmdk00eS16N3RONmYzdXB5RjY5QmR0ZTBycVZ6QnVNVnBNbDllanRIQkxyVHdPY2dpLVlxYUNlNmtkdW8tNGJiVjI1U1Rtb0VHRkFRV1UzTmdCMExndmZIRjJha3RDMzAyY2l0cDhfZmMwdUVySUpmeFNHOW9aN3FvUG91Q3ZnTUlCdmp0bnh1d2FUOG9Eb2V0a2V2U09fbHpmSHVubGFZU2twOUNSeTBoYmw2ZGw2a2NuVkRNdDRDQ1UwM2V2VUE?oc=5",
+      "source": "Muita Informação",
+      "language": "pt",
+      "publishedAt": "2026-08-09T09:52:56.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
       "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
@@ -169,7 +183,7 @@
       "summaryKo": "인테르, 파우메이라스전 예상 라인업 공개",
       "excerpt": "O provável time do Inter contra o Palmeiras&nbsp;&nbsp;GZH",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZzJaNDBqeVVoeEVqUDdEYWt3VUVFVGFKTE9GVzk5ZHY1bk1WVkxZbThvZEtwU3JDNzhNclV6Wmd0blVGeDc0NGdvRVMyLURSdGFKQ2ZxTWYtYm1zbW9NN0xrQ0dFX0drZXhJY2xOR2FSbGtHb1JMbUlVVTExS25JQ1JETnNfNDZZT1dXamxqMjV1Z2VZR3doYUNIZ242RXI1RWZkOWRtZWl4VmpRYmpSYUU5cnpfSF9hTmhFMmRYWGJDbDZOVFJhbjNqaFRncHJEeEM0?oc=5",
-      "source": "gauchazh.clicrbs.com.br",
+      "source": "GZH",
       "language": "pt",
       "publishedAt": "2026-08-09T08:02:21.000Z",
       "whyItMattersKo": "맞대결을 앞두고 상대 인테르의 전력과 전술을 미리 파악할 수 있는 기회입니다.",
@@ -231,7 +245,7 @@
       "summaryKo": "집에서 멀리 떨어진 인테르는 Z-4에서 탈출하기 위해 파우메이라스를 마주합니다 - GZH",
       "excerpt": "Fora de casa, Inter enfrenta o Palmeiras para tentar fugir do Z-4&nbsp;&nbsp;GZH",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb1R3OTBHUDh4RVI0eG5RdjFsS2pfaktLc05FcW1zVFgzcW1fMXc5bHQ0YzJfUFliS3NXQVdKRjFMTVNGWjBvOEplZnplbkE0VnVCYndrUUlycUJNOVczclVWM1c1UTlCTURyZmpzam9qSkNYZkpNRVpRbGc3Zk42bnV0aTV2eEszaVQwUTNpSV9NV2ljMTl5a3dOSEdCeVVlN29teVhqcEtkZy1hMkNkWDRrVTRmMEdZS3RyUW9TMUctcGdIei1DZDQtdlIzSzU3eTllM1VEVVNjclJHVGNFeDRfamZZQk9pd0tiYW9HTQ?oc=5",
-      "source": "gauchazh.clicrbs.com.br",
+      "source": "GZH",
       "language": "pt",
       "publishedAt": "2026-08-09T07:02:21.000Z",
       "tags": [
@@ -934,22 +948,6 @@
       "publishedAt": "2026-08-08T18:12:14.000Z",
       "whyItMattersKo": "대회 명단을 수정하며 부상자 복귀나 전략적 변화를 꾀한 것으로 보입니다.",
       "fanTakeKo": "전력 보강에 힘쓰네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXRWMWRXQUpTZDRGeXpTODdUSlBuVmxIMXNWUHI0cGs1NzJxbEVtbW5BSE",
-      "title": "Palmeiras x Internacional: informações, estatísticas e curiosidades - palmeiras.com.br",
-      "summaryKo": "파우메이라스, 인테르전 통계와 정보 정리",
-      "excerpt": "Palmeiras x Internacional: informações, estatísticas e curiosidades&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXRWMWRXQUpTZDRGeXpTODdUSlBuVmxIMXNWUHI0cGs1NzJxbEVtbW5BSE5WLXBwc3h3SHRuWjhPdFc2cDVyQURmX0xkU3pncEg1SmVNZlhqWHM1SkRjdFc0UVg3bHpaaG00RGFyUk5NT000bDZheTBNX2NWUEVPZUE3RURKOGN6b3hxeHpKeGJfSldqT0x5VlM4ZjFDYU5iQm9iVy1QT3A3Zw?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-08T18:11:43.000Z",
-      "whyItMattersKo": "상대 전적과 주요 통계를 통해 이번 경기의 승부 흐름을 파악할 수 있습니다.",
-      "fanTakeKo": "인테르전은 항상 긴장감이 넘쳐요.",
       "tags": [
         "뉴스",
         "AI요약"
