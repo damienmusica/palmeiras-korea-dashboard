@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-09T11:29:44.576Z",
+  "fetchedAt": "2026-08-09T11:58:31.752Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT2I1ZFZKMUFtLVBMWGROTXFRdHk4YTQ4SjVQeG5DZHdLdnRReG9ndk1kY1B",
+      "title": "Fluminense terá desfalque na defesa para o jogo contra o Palmeiras - Terra",
+      "summaryKo": "플루미넨시, 파우메이라스전 수비진 결장",
+      "excerpt": "Fluminense terá desfalque na defesa para o jogo contra o Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT2I1ZFZKMUFtLVBMWGROTXFRdHk4YTQ4SjVQeG5DZHdLdnRReG9ndk1kY1BGUDRSNUNBb0FmaTI5ZlBuZWQ3bGotU1ZkeVh0MTNOZnJNZ0otSm5NWVlrWTRuemxjSDEtZV9mZG9NNXJrRURUWU1SSU12M2V1RzYxczNaUHNDX0dNeS03dFoxdDNWNVZmVUs1NFlrSU1GMlFJcTJ0bnIyQVhHQnUwR0FpLURYWTFhdk9nQjJpX0l6NkRzM0ZaUmd1SzlPenhVSURzVTRjS2RVdDJGZVRwQkRpamRxS0pGZndxRTJNOEZR?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-09T11:32:00.000Z",
+      "whyItMattersKo": "상대 수비진의 공백은 파우메이라스 공격진에게 득점 기회를 크게 늘려줄 수 있습니다.",
+      "fanTakeKo": "공격진 활짝 폈으면 좋겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0VXUjZFemNTSUI2aTdsaVh0dnQ3ZGJPaThMRktpM2hDbnhTdGpzTHBUSF9",
+      "title": "Como Barboza dá fim a tormento de Abel no Palmeiras, mas ainda assim zaga deve ter improvisação - ESPN Brasil",
+      "summaryKo": "바르보자, 아벨 감독 고민 해결...수비진 여전히 난항",
+      "excerpt": "Como Barboza dá fim a tormento de Abel no Palmeiras, mas ainda assim zaga deve ter improvisação&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0VXUjZFemNTSUI2aTdsaVh0dnQ3ZGJPaThMRktpM2hDbnhTdGpzTHBUSF9hOEtBM3NDcnVudXIySktwWFNDTFc1dTJVaGhkREU1aG1QUjVyTFBQaUJreEE2aXc1TjlocTB6eDgwbkJyWnN4cENCYlF4ZjFQZThQS0k1bXRqeHVZazNPUW4wLWVXLWZkeXAza3J0SW1zaEQ1cEJpTFF6NzlQSTJwNzdEQTMwdFJqSzZpVFZuU1lB?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-09T11:30:00.000Z",
+      "whyItMattersKo": "주전 수비수 복귀로 팀 안정을 기대하지만, 여전히 수비 조합은 불안정할 수 있습니다.",
+      "fanTakeKo": "수비진 제발 제자리를 찾았으면!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWlktVXN4dV9jNGljM1EtRXkzVmRZbF9xY1JDNURvZktSZmlSRVVkSG4zZlI",
       "title": "Palmeiras recebe Inter e busca voltar a vencer em casa para manter folga na ponta do Brasileiro - A Tribuna",
@@ -41,7 +73,7 @@
       "summaryKo": "파우메이라스, 인테르전 생중계 시작",
       "excerpt": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-08-09T11:00:53.000Z",
       "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
@@ -57,7 +89,7 @@
       "summaryKo": "파우메이라스전 중계 시간과 예상 라인업 공개",
       "excerpt": "Palmeiras x Internacional no Brasileirão: onde assistir, horário e prováveis escalações&nbsp;&nbsp;diariodonordeste.verdesmares.com.br",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSW9yOTVKR1ByZGJTM2wwZGdUeHF6anB3dS1ldlQ1Znk0SS15R3pQZkhiRnp2eGtlM0xsQXJubzZBTU83QXdFcXo1TUYwcC1ZeDBDZmVpbHA1UUs3R0ZXekZOdzJCU0FSbXlkcE84aEJtcGQya21JbVJPdDRTcjVoeVppWjZ2eXpzNm9OU1ZDcHM2eGhZZ0tMc0JpY0N2TXNFbTBZSWlaRjJWRDFtVDdCWWg3Tm5CUlNtV2QzWVZfdmtZeFRmRzFDOTVpUjlDT1JKYlgyZXROS1ZSemVKNjFB?oc=5",
-      "source": "diariodonordeste.verdesmares.com.br",
+      "source": "Diário do Nordeste",
       "language": "pt",
       "publishedAt": "2026-08-09T11:00:06.000Z",
       "whyItMattersKo": "경기 시간과 출전 가능 선수들을 미리 확인해 중계를 놓치지 않고 볼 수 있습니다.",
@@ -130,6 +162,22 @@
       ]
     },
     {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMimgFBVV95cUxOdk0tZXllV1VuRjQ4UUJGQVVmc1VxaFBJaXJ2cTIzOERjWEJ5cXdacFhvM0",
+      "title": "Palmeiras x Internacional: Veja como assistir ao vivo - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스 대 인테르나시오나우 중계 안내",
+      "excerpt": "Palmeiras x Internacional: Veja como assistir ao vivo&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdk0tZXllV1VuRjQ4UUJGQVVmc1VxaFBJaXJ2cTIzOERjWEJ5cXdacFhvM012UWEycG1VNHpmRXhiWS0yMm9zVXFkWFU4QWpmN2xrSFM3V0ZndzgzdUVOTEVFSElZM2ZrUVQxRDV6NE9DYU1Bd3d1WldvY01BTlNlNU15ZG1tVjh1NW96YmYxTF8yQkU2QWlTV19R?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-08-09T09:30:23.000Z",
+      "whyItMattersKo": "경기 일정과 중계 방법을 확인하면 한국 시간으로 생생하게 경기를 볼 수 있습니다.",
+      "fanTakeKo": "오늘 경기도 파우메이라스 승리 기원!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFBYanRLVHRWSUlvMzlBTVVMQzFpRzVOLUNFenpHWjJzbGxNOTh1azJfNko",
       "title": "Palmeiras x Internacional: veja horário e onde assistir ao jogo pelo Brasileirão - Exame",
       "summaryKo": "파우메이라스 인테르전 시간과 중계",
@@ -167,7 +215,7 @@
       "summaryKo": "파우메이라스 인테르전 승부 예측",
       "excerpt": "Palpite Palmeiras x Internacional - Brasileirão - 09/08/26&nbsp;&nbsp;metropoles.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUM1X2x3Rkg3YjVxM2didHZoY1BaQVJJU0xwaTZFTE5hZXFZNjNOdUpHLTNURVBPTkVObkl0di1GZGZZS3ltQlkxYlZHcHctdHdsUnVBWkNKZFBXLXBWZkZLMEtacG9aa19hRUlqSHNfazZ5Q093UHVjaEEtVDFoY2VuYk5XNkhIRW9iZl9LUHh4V19lS1lMQWtmd3pKMVo5QlN0cVItblRzUHM?oc=5",
-      "source": "Metrópoles",
+      "source": "metropoles.com",
       "language": "pt",
       "publishedAt": "2026-08-09T09:00:00.000Z",
       "whyItMattersKo": "전문가의 분석을 통해 경기의 승부와 흐름을 미리 가늠해 볼 수 있어 도움이 됩니다.",
@@ -226,12 +274,28 @@
       ]
     },
     {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWtIbnRQVTNTYUNUQ2kwbjNxZklwUzBEUUZjSzIxaUxLZ3h3M3l2Nnl6Q1",
+      "title": "Palmeiras e Internacional se enfrentam em momentos opostos no Brasileiro - CNN Brasil",
+      "summaryKo": "파우메이라스와 인테르, 정반대 분위기 맞대결",
+      "excerpt": "Palmeiras e Internacional se enfrentam em momentos opostos no Brasileiro&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWtIbnRQVTNTYUNUQ2kwbjNxZklwUzBEUUZjSzIxaUxLZ3h3M3l2Nnl6Q1cxcXQtRkR5d054dUpzc3Exak8yY0FIa2x6cnhCR0JSeDBKNzhPd19fZlNUOTA3SGZkRENaRTBnRmRla3poVk5CTk1yWlZNaU1ndHBsNk10d1Qwd09yajVaRmhTdVYyZ29TS3Itdk5OSVlOcVV5SnlzVDMtQ1Q1TUlYdnZhQ0FRd1gwQ3RLcXNobFhOSlA?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-09T08:37:05.000Z",
+      "whyItMattersKo": "두 팀의 현재 기세 차이가 승패에 큰 변수로 작용할 수 있는 중요한 경기입니다.",
+      "fanTakeKo": "우리팀 기세가 더 좋길 바랍니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSUFzMDJJVEk2VktKMDFGRGFjQm5PbXdTSE0yX1d6dHZmZGxLTERmWld0cHd",
       "title": "Palmeiras e Internacional se enfrentam em momentos opostos no Brasileiro - Rádio Itatiaia",
       "summaryKo": "파우메이라스, 인테르와 정반대 분위기 맞대결",
       "excerpt": "Palmeiras e Internacional se enfrentam em momentos opostos no Brasileiro&nbsp;&nbsp;Rádio Itatiaia",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSUFzMDJJVEk2VktKMDFGRGFjQm5PbXdTSE0yX1d6dHZmZGxLTERmWld0cHd3d3lsQ3FiOGFhTlRmS2lNZ0R2X1QwSmZpWjNuclBZNV9iTEtNdjVUYk9tMjNGX1JFMG5IRkF6SG9ybHA1dDk2ZTVJS29xcUlfUXc0eTNBWUxmelpUbkszVnVJbG5YTjdnRUR2U0JkM21xd0ctYTRob0dOTEtjRWNSdnFrQ1FPdFRzbTlVT3hGQnRHSGt3SWZ0SXNGTnE0cENCZldsdkQ2bld6YmJsWkhRUFZuSnczZkk4RzZHTmxB?oc=5",
-      "source": "itatiaia.com.br",
+      "source": "Rádio Itatiaia",
       "language": "pt",
       "publishedAt": "2026-08-09T08:31:15.000Z",
       "whyItMattersKo": "두 팀의 현재 기세 차이가 이번 경기 결과에 큰 변수로 작용할 것입니다.",
@@ -263,7 +327,7 @@
       "summaryKo": "인테르전 라인업과 중계 정보 공개",
       "excerpt": "Palmeiras x Internacional: onde assistir, horário e escalações do jogo do Brasileirão&nbsp;&nbsp;Olhar Digital",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ2lYQ28xbHJxUDVZb2FsSWlsc05VTHdlNWZ4OHFrNmNndE5qY2pTODY0UTBobU9RcmtQblMwdk9XX29lRVdzZGFwVGRDVXF3MG9YSDY3Qk5jRjFicXduV0FaQXo2Z0lfQzJGWHItRkhQZ1ZNY3pMZ25iVXZYd2RHZFJpMXVrXzdjRG5vbzdGR2x6aDgtZzg3Z0liZ2tFX2VybFdwSFU1QWdHUjA3YVZXTmtpSDRVVUpPbGFHRDZrOHplTG93SlpGTWNKcXdNbFhiSUtKSl9Kci1YQXptZkNOZDNWTmE?oc=5",
-      "source": "olhardigital.com.br",
+      "source": "Olhar Digital",
       "language": "pt",
       "publishedAt": "2026-08-09T08:10:00.000Z",
       "whyItMattersKo": "선발 명단을 미리 확인하면 팀의 전략과 경기 흐름을 예측하는 데 도움이 됩니다.",
@@ -355,7 +419,7 @@
       "summaryKo": "아버지의 날: 브라질 축구 라이벌들 사이에서 가장 큰 \"아버지\" 를 만나보세요 - GE",
       "excerpt": "Dia dos Pais: veja as maiores \"paternidades\" em vigor entre rivais do futebol brasileiro&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE1c1RxclJmUm9WSFRZeUFyNUZBbW9LY19ZUGxRTllNUzBPakVZSXlheHVuSXRIcjRhbmtMM0VlcTRfSVg0aDloVktVcWlnUnEwRndmUFVnRkZQMXZtejNhZFRrbDlhSXB1OU12SWctakxqMTVLYnNvbEdncGZ2OExvbDNnNXZIOVRtOHEyYkJmYUVnRXhqSkF0YU8zc2E1MnFCcEEwNnY4TlR3VXJEUzNMZW8tMXFGVHNUczY4QzloYWVwcFlpTmpxcmZUVkprd1dmWUE3TjhwQdIB6AFBVV95cUxQcDFNa0xaOGtjQUphX3V5ekxKYXFzdHg4QzhOS2RQcGJuSTU1ZHJyLUVMNHZydnU3OGtxVmF4UnJsWkpLdTNOTWthQ3h2RWdIZXBodVQ5d1BmbVY4b004SHBaVmFUYzBtVXkwbERzTlJaenNnMUc2dDF3bUppejFmRGU4VTJ6UUhSaF9CeWZqTl9EX180eVlCRlZORWV1YXNZNVF4UWZyLW55dFV4LURyeHFPa0VnZkpVQnhtSkItS3ZjQUVxbGg1S2xlX0lWZWt1LXRqVWQ0MlF3aVBvaGZMc3BTUXA0SlJO?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-08-09T07:01:35.000Z",
       "tags": [
@@ -383,7 +447,7 @@
       "summaryKo": "파우메이라스전 시간과 중계, 라인업",
       "excerpt": "Palmeiras x Internacional: onde assistir ao vivo, horário e escalações&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzV3Q1kxQUppTnFiSzlnaXFzSWIxVGdOejIzbXdqUzRRSjU3OGxoMnluVlJvTTY2SFNpT1Y4X0ZvZjI1a1ZDOWwwRTBobi1RbG9HNzlkcDVoZGRHVnFycFNDeEgyeF9ENExNRnM3LXpTUnc1RFVWVDZLQnV0ODE5STlHMEc4Sjdpa1pWMGd5Z0NYZWxPTER5Rm5qNlh3SHQxZmpiQjlWVVhjbjJjQWtKYnpkMTVlYUhsN0NnZFE2TmhpVDFEemFUY3I2aUpOUEg4VGhsdzRhUW4tcTVRY0HSAewBQVVfeXFMTzJTbTBuV016bk9teVBhazNiX0E0eDhLN0ZySFBMYmFNV1U1TXVZUGF1MHcxbFp0RlNjd1RsNlFXZ3VIZTh5MkMwRWtFZEc1T3ExMU9WVkhuZEFQSGpYczNlaEI5YzRSc1RoTEdsUXZ4Q1lsVmVtY1JvUFZPZ2oxWXlXYXJaQThrbTFFblI0aEpFUFJJSDAyc0ZJQ3JuRUlVdTFNWTNlbU01LTAyTmZ6TUJtaDRHVlVkcFJIdU1EMk1KRVZ0TlJ4dUFrTHdDa0xOUWhwNW1MaUZXWWIxMGtRbmNsZUZ1aFcwLUtTYmY?oc=5",
-      "source": "GE",
+      "source": "ge",
       "language": "pt",
       "publishedAt": "2026-08-09T07:00:47.000Z",
       "whyItMattersKo": "경기 시간과 선발 명단을 미리 확인하면 중계를 놓치지 않고 즐길 수 있습니다.",
@@ -884,70 +948,6 @@
       "publishedAt": "2026-08-08T19:09:00.000Z",
       "whyItMattersKo": "선두와의 승점 차이가 커지며 리브 우승 경쟁에서 파우메이라스가 유리합니다.",
       "fanTakeKo": "순위표 보니 기분이 좋아지네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTJQbFVOb3FseXdUMmc2TGMtTXY3NXF3X0VxM0NWZDdYNmw4VmhXcFdVWF9",
-      "title": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras - Gazeta Esportiva",
-      "summaryKo": "아벨 페헤이라 감독, 수비 변화 주고 전술 훈련",
-      "excerpt": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTJQbFVOb3FseXdUMmc2TGMtTXY3NXF3X0VxM0NWZDdYNmw4VmhXcFdVWF9yNm5VODRBeE1rRWk2R0dEVzkzY09hVHVidnR6Ujh6aFF3X3BFTkRVNUhPMHQ2TnBvX3ZueGg4aXpua2ZjTXNkU3A5OVdmRlZWdWM2T0hrRDZZVHBObjd5MkNCc2FhbEwwajNNaWViakVObDNHYkstemsyanNmSmlmZjFPeFQ1cWcxWWwwSzJXb2p1dVJqOWZEb1ZnRTNoTC1KU3l3dVlpQ3FWVlnSAd4BQVVfeXFMTW1RbnJGR05sRFhHdG01THMyRjNVb1p6QV8wX1lLNklPUzJ0NDFYQ0dlMHJlWWIxRUVaRHItYTdYVjM3NGxwaXlRTHFZTjA3NmFrMXh0ZDA4TWJWcVJTSlV1SGZWUEljaU9VTUtIV2VmcWZ6NkU3MnZtRVJQSFdCTzZ3dkxiY2xsdU1nUFR6LTdOdmlOY1J1dnYwQXc4THBKUnpfdXhJNEFTTU1tOWxEVnNTVjF5T01LS1JoS05BQ1RWbGxfXzNmNHBJRi10ZW9oc0NuZjhtcWRDRkRxN2Vn?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-08T18:57:00.000Z",
-      "whyItMattersKo": "경기 전 전술 훈련은 선수들의 역할 이해를 돕고 경기력을 최적화합니다.",
-      "fanTakeKo": "철저한 준비가 승리의 비결이죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb29ya3VyQkl4YW1MeE1MNUNNSFdtdS1ReEpGUG4yVjlISEZLVmFrU1A2Mzl",
-      "title": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras - O POVO",
-      "summaryKo": "아벨 페헤이라 감독, 수비 조정하며 최종 점검",
-      "excerpt": "Com mudanças na defesa, Abel Ferreira comanda treino tático e fecha preparação do Palmeiras&nbsp;&nbsp;O POVO",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb29ya3VyQkl4YW1MeE1MNUNNSFdtdS1ReEpGUG4yVjlISEZLVmFrU1A2MzlQOFFBZG5FRjBwNnFNdy1MMEFkTUsyaDU0amFaZUJiZ3dobXBwM1hlTjFJOEM0U25OUHVORG16aTAzaURoU2JPeUl6TXNqZEV2YnVVZTBzbG1fX2ZOOVVGTnJrMW85Um9nMEUtSElfdmRPeDBtSmhpb2UtMXpIZWVJRFYwYlNJcDlZQk5VaU1NTmU0OFJvMENlU3lEc2tEZXk3Y1NLa21jQm5hYUVHYmV3TW10a2pn?oc=5",
-      "source": "O POVO",
-      "language": "pt",
-      "publishedAt": "2026-08-08T18:42:09.000Z",
-      "whyItMattersKo": "수비 조정을 통해 실점 위험을 줄이고 승리를 위한 최종 전술을 점검합니다.",
-      "fanTakeKo": "완벽한 준비로 이겨오길 바랍니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-24-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDNCNFhmcXJOQV9NUjZRd2FpUjJ1U25iY2tnMGhXODdKbjZMRkU3SVJFXz",
-      "title": "Ferroviária 0 x 0 Palmeiras | Campeonato Brasileiro Feminino: melhores momentos - GE",
-      "summaryKo": "파우메이라스 여성팀, 페로비아리아와 0대0 무승부",
-      "excerpt": "Ferroviária 0 x 0 Palmeiras | Campeonato Brasileiro Feminino: melhores momentos&nbsp;&nbsp;GE",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDNCNFhmcXJOQV9NUjZRd2FpUjJ1U25iY2tnMGhXODdKbjZMRkU3SVJFXzlBLUQ0VHpTQm1fb3RNbWVVZXY4ODNpYjVVY1B2dmNmXy1ZQVVxMjN5U3VSWm1idWJaZnE4TFR3dDhZRVphMGxBUGtfN1RKLWdoTFpXb2JMWmFSTU04eGRWSHpOeUtFekZLOVJneUFxaWh0SjlaOWNmeV9VT3RCbVBiZjdKZGZIRnRXNWlIUWtVLUxZZUozTGNXeEh5YzJMRy1KRnA3NkE?oc=5",
-      "source": "GE",
-      "language": "pt",
-      "publishedAt": "2026-08-08T18:40:31.000Z",
-      "whyItMattersKo": "득점 없이 비긴 경기라 공격력 점검과 다음 경기 승리를 위한 전술 보완이 필요합니다.",
-      "fanTakeKo": "득점 없는 무승부가 너무 아쉽다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN1ZrZ05BZEhiV2YwZnE1T080LUs1TENKY29sX1NKX0o1MGJmQjBraG1aSmk",
-      "title": "Inter encerra preparação para enfrentar o Palmeiras - GZH",
-      "summaryKo": "인테르, 파우메이라스전 맞이해 훈련 마무리",
-      "excerpt": "Inter encerra preparação para enfrentar o Palmeiras&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN1ZrZ05BZEhiV2YwZnE1T080LUs1TENKY29sX1NKX0o1MGJmQjBraG1aSmk4ZjRBT0Q1d3NtMkRBbXMzS29WLTlCZmY2X3Z6UzdDY1ZmMWhoeWU4ODc1eDlzYlR1VGVYVU1IRHZHNTBmRlpFREVLd3Y1NHp0SWFIREUxQ2JzSUVIdFRMelVmVnNtODJZVWZDSTNQRzhMX3lta2dEcURMTGRReXhBQ1g1Mms5a0JQTUpYc2ZmY280MGFtbGFHNkV5TlJ5TkNlVXFia1RiY0RXc0Ryd1JvM0E?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-08-08T18:38:20.000Z",
-      "whyItMattersKo": "상대 팀의 훈련 마무리는 다가올 경기의 치열함을 예고하는 중요한 신호입니다.",
-      "fanTakeKo": "준비는 끝났으니 이제 경기장에서 보자!",
       "tags": [
         "뉴스",
         "AI요약"
