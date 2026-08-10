@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-10T05:38:11.784Z",
+  "fetchedAt": "2026-08-10T07:42:43.574Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWVV3Y2tBd0FfZzY0YW5GTVRNdFZxUTJrMHYzOExyYWdBWlJVdjBKN3JLdGp",
+      "title": "Inter repete Atlético, Palmeiras fica em apuros e Abel Ferreira cobra melhora - Rádio Itatiaia",
+      "summaryKo": "파우메이라스 위기, 아벨 감독 개선 촉구",
+      "excerpt": "Inter repete Atlético, Palmeiras fica em apuros e Abel Ferreira cobra melhora&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWVV3Y2tBd0FfZzY0YW5GTVRNdFZxUTJrMHYzOExyYWdBWlJVdjBKN3JLdGpSTlpPeDNDa3VTYi1KQk1DLUpnLVN1Tm51RURSbzBab0dfWVFPaW13em5RYnpDNU9JNnI3ZmhsTUc0eHZiNnp3MnlPQjJBRTB0Z3R5end1MFdEbXVxcUtXUlRUeEF6SHhsRTJEMXFJLUhiY3FSaC1PcjhzRW1lTmlyaUZwWWdZZmZnLXVUZUxPdHpxTFBGRlFzZ2lxTkJyS3BocGVtZzB4SnU4dHBZZkhHamVVekp5Smt6Sjkwd1QyUHVUams5N0JDS05oSldB?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-08-10T07:30:33.000Z",
+      "whyItMattersKo": "팀의 부진이 계속되자 감독이 나서서 선수들에게 반전을 요구한 상황입니다.",
+      "fanTakeKo": "빨리 제 모습을 찾았으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajF",
       "title": "Ao vivo: Palmeiras x Internacional | Rodada 22 | Campeonato Brasileiro - ge",
@@ -11,9 +27,73 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzlxNzZQMms1MC1QS2wwNUtxSEtqaUFNQUJCbEpud1ZaYl9fcGRIZ2dpajFfcm1WTHJaME9sQ2JEZUZwTEE4RzVBSXZsZy1rcUJyQXZMd3BGclFJOENjdmlJcVgwSXoybG9lWHoxYW00ZjRsUUlpdFJZZEl3a1g3Wk94QnRRRUtlZzk5cUd1bjFLUFhZN1JncHVRelBadw?oc=5",
       "source": "ge",
       "language": "pt",
-      "publishedAt": "2026-08-10T05:04:42.000Z",
+      "publishedAt": "2026-08-10T07:27:58.000Z",
       "whyItMattersKo": "브라질레이렁 22라운드 경기로 순위 변동에 중요한 영향을 줍니다.",
       "fanTakeKo": "오늘 승리는 필수니까 화이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiugFBVV95cUxNamd0Nm9yZGpnVktzUHRFVXlZaEF5eVVLeS03VkxyeEFheXQ2ZjRnTG9SRVF",
+      "title": "'Estacionou o ônibus': Abel lamenta derrota e manda recada à torcida do Palmeiras - LANCE!",
+      "summaryKo": "아벨, 패배 아쉬워하며 팬들에 메시지",
+      "excerpt": "'Estacionou o ônibus': Abel lamenta derrota e manda recada à torcida do Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamd0Nm9yZGpnVktzUHRFVXlZaEF5eVVLeS03VkxyeEFheXQ2ZjRnTG9SRVFPbVg2MHhrNE95UWt4T2tiT0kxa3lPZWZCWU1PUkdQaWh6X3otcFdWUFUzLUdCdHY1VlR0NmRfbUxnZk03dk5UTFZOQTYzeVVvOW42VFc5dlhiNjctVEx5UXlGeXF4Rkc2UExYMF9kQng4UUV1c05KSktCcHFmQjV4UXNxcU5BSTlSNkQyclE?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-10T07:25:00.000Z",
+      "whyItMattersKo": "수비 위주의 상대를 뚫지 못한 패배 후 감독이 팬들에게 의지를 보였습니다.",
+      "fanTakeKo": "팬들 마음 다치지 않게 조심해주세요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiowJBVV95cUxOX2UwUXVYeTVuNVNWdmlSQUg3UEROVlhaU2k0VkwyZy1neGJnc0I3LTZ1QnF",
+      "title": "Inter sobrevive à sequência mais dura no Brasileirão e terá semana decisiva no campo e nas contratações - GZH",
+      "summaryKo": "인테르, 리그 최악 일정 버티고 중대기",
+      "excerpt": "Inter sobrevive à sequência mais dura no Brasileirão e terá semana decisiva no campo e nas contratações&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX2UwUXVYeTVuNVNWdmlSQUg3UEROVlhaU2k0VkwyZy1neGJnc0I3LTZ1QnFaNnlVc19CNTJBaVJGNFUxWWlvWUdLY1Z6aUVwc20xYWFIMExUa09pN1NVbk13cERwVGIzZnJOazQwLTRMYU4yWTNXLThoeDhiM2RNcnlFZGtXeGIzUnZKRmE5eHRMWmpkZVVlMjl0cXRQZzNsdGNiRFJRWWgtb0otajdWZEhSWU5yeC1aTzdvSERGMzhDajJmOFRlcTVyQ0p3NmdLdjk0SXQzZGhrYWwtZHk1dmV4OHdQVTJ0ZkU3QWthMWxrZ0xYOWdGQjc0NFhSSlVRVFJGLXNpNUo1cnNLalQzQThSbVpkc1JVZVRubHNFMWExYTA?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-10T07:03:44.000Z",
+      "whyItMattersKo": "어려운 경기 일정을 견뎌내며 이번 주 경기 성적과 이적이 중요해졌습니다.",
+      "fanTakeKo": "인테르도 정말 힘든 일정이었네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZzhDYTZmYUQtSWk2RVowUVJkLUlvR092MlNZU2o1MGhXWkJyUlgyTDE4YUp",
+      "title": "Análise: burocrático, Palmeiras não se salva nem com Flaco-Roque e preocupa com tropeços em casa - ge",
+      "summaryKo": "파우메이라스, 호키 데뷔에도 홈서 부진",
+      "excerpt": "Análise: burocrático, Palmeiras não se salva nem com Flaco-Roque e preocupa com tropeços em casa&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZzhDYTZmYUQtSWk2RVowUVJkLUlvR092MlNZU2o1MGhXWkJyUlgyTDE4YUpQRWxlVjVSQzRiZ2dTbTBWVERFY212ZGNUOVFCVHMyVWdGRnVqcHRqQ0FfTHZCN1hxUFJGZlYtTEJuMGhKQnhlcHB2U1ktUmlRdnhKS3NWak5QMFNRejFaUFFONnVkSmdIdmJ4a1hmZEQxTkdrdjY5bEk4ZC1EODM0OEI5OUdoaE1zNUpKTVlnSldUV2pQeWh6UjJQejBmU1RvMm1rZV9Oc0lLeUZ6Y1BISmR2YUlFRGRBVEdXb2hwVVhrRWhZVjNuOUI40gGGAkFVX3lxTFBsOE1XNEJvTTlVSWljS2hvdjFBVjZKTWVNT2lBaDlCYVEteDhWS1J6ZG1qa2JWdGdOUXBBMnpRbjdDXzFtcENsSEZ4emJsYUllQjR2T2NVcEY1ejNndm4xUG9oYkRXRi1vUGU2c2VzbS01SlNRLVBBU0gxcmF0Z1B2S2I5Qi1MQUFFQmZCZzZyMmUtdGVLNzcyVV9jclhHM29FZFBYTFNFQmNhaXJNdGthNFU1cDBLaEtPWGR3dEc0R2lOaHctM0hPNmh3SVE0dHNsWGo3c2hTVzFzbzd1YVNjWkkzS0tNTDhrSWJlSUo1QS1BRzI5WGFPT01wOHBRVGk0bzJwSHc?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-10T07:00:42.000Z",
+      "whyItMattersKo": "새 영입 비토르 호키가 나왔지만도 공격이 막혀 홈 경기 승점 놓치는 게 문제입니다.",
+      "fanTakeKo": "홈에서 지는 건 정말 힘들어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMihwJBVV95cUxNWlZFS2tzTUFEUU1YS1R4STVxNU41MDdKbzlYZU1QZ0VZSlVFbVFYdnB1ZlM",
+      "title": "Palmeiras x Inter hoje: horário, onde assistir ao vivo e escalações pelo Brasileirão - GZH",
+      "summaryKo": "파우메이라스 대 인테르, 경기 시간과 선발",
+      "excerpt": "Palmeiras x Inter hoje: horário, onde assistir ao vivo e escalações pelo Brasileirão&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWlZFS2tzTUFEUU1YS1R4STVxNU41MDdKbzlYZU1QZ0VZSlVFbVFYdnB1ZlMzTjdQamIwZHpkeDJqdTl4RzU3WDhJaXBpbHprOFN3ZVdMVHFWZFNVeDVmUGhwU244OEFnN0xkMHdYbm1ELUVvbzEyMWpZOWU3Z0o4ME9nVl9GTmhqQWxOaUZ6d0NsekVRWkR1Tzd1bXZXeXpuTWtPejVUS3hlUW04YlFwdjU2VlFUUHp3OWdrMWRZa1FnSXpOTjA5Y0huUXJXR2p6VW8zZjZXX1ZlRlFRNkVBWGxmMXpfTC1Fb05KZmd4X2J4cVNWTkJILUpDVjNKaEhZQUt1OTdBZw?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-10T06:06:39.000Z",
+      "whyItMattersKo": "오늘 경기 시간과 중계, 그리고 예상 선발 명단을 확인해 볼 수 있습니다.",
+      "fanTakeKo": "오늘 경기 꼭 봐야겠네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -27,7 +107,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU1icUstWEdvM1hmUlFKX3FQRHg5aTZvTHkwVmdueGdIUnNZdzVWbmtCTVFxU0xNd1JVYmhzUUtPd0ZOV1VCSHU0WjE0VzNwR3RlbWZNWnRWOVF0aFFHMm8xblNjSGZsNnBnX1l5djZIZF9sYnZkRW5KMDVUSFo0b3FXSjg2UEFpYmV4M2x2anFaR2h5S09QZS11NzJxS3MtWWZKYWR5NWpXNW8?oc=5",
       "source": "UOL",
       "language": "pt",
-      "publishedAt": "2026-08-10T03:35:24.000Z",
+      "publishedAt": "2026-08-10T04:24:19.000Z",
       "whyItMattersKo": "플라멩구가 승점을 챙기며 선두 파우메이라스와의 격차를 좁혀 순위 경쟁이 치열해졌습니다.",
       "fanTakeKo": "격차가 줄어드니 마음이 쓰이네요.",
       "tags": [
@@ -62,22 +142,6 @@
       "publishedAt": "2026-08-10T03:10:03.000Z",
       "whyItMattersKo": "플라멩구가 격차를 줄이고 있다는 통계로, 우승 경쟁이 다시 치열해지고 있음을 의미합니다.",
       "fanTakeKo": "우승 확률 100%로 만들자 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMihwJBVV95cUxNWlZFS2tzTUFEUU1YS1R4STVxNU41MDdKbzlYZU1QZ0VZSlVFbVFYdnB1ZlM",
-      "title": "Palmeiras x Inter hoje: horário, onde assistir ao vivo e escalações pelo Brasileirão - GZH",
-      "summaryKo": "파우메이라스 대 인테르, 경기 시간과 선발",
-      "excerpt": "Palmeiras x Inter hoje: horário, onde assistir ao vivo e escalações pelo Brasileirão&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWlZFS2tzTUFEUU1YS1R4STVxNU41MDdKbzlYZU1QZ0VZSlVFbVFYdnB1ZlMzTjdQamIwZHpkeDJqdTl4RzU3WDhJaXBpbHprOFN3ZVdMVHFWZFNVeDVmUGhwU244OEFnN0xkMHdYbm1ELUVvbzEyMWpZOWU3Z0o4ME9nVl9GTmhqQWxOaUZ6d0NsekVRWkR1Tzd1bXZXeXpuTWtPejVUS3hlUW04YlFwdjU2VlFUUHp3OWdrMWRZa1FnSXpOTjA5Y0huUXJXR2p6VW8zZjZXX1ZlRlFRNkVBWGxmMXpfTC1Fb05KZmd4X2J4cVNWTkJILUpDVjNKaEhZQUt1OTdBZw?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-08-10T02:56:42.000Z",
-      "whyItMattersKo": "오늘 경기 시간과 중계, 그리고 예상 선발 명단을 확인해 볼 수 있습니다.",
-      "fanTakeKo": "오늘 경기 꼭 봐야겠네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -886,70 +950,6 @@
       "publishedAt": "2026-08-09T22:26:31.000Z",
       "whyItMattersKo": "주전 선수들의 컨디션은 리베르타도레스 16강전 승패를 가를 중요한 변수입니다.",
       "fanTakeKo": "둘 다 빨리 쾌차해서 나와주길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMisAFBVV95cUxNeW44VTRmQkhIUzZiWl9jcEtHS3Vab1Q4VVluSDJPMDNwQXZjUm1vREVKUX",
-      "title": "Líder Palmeiras esbarra no Internacional e fica no empate em casa - band.com.br",
-      "summaryKo": "선두 파우메이라스, 홈서 인테르에 막혀 무승부",
-      "excerpt": "Líder Palmeiras esbarra no Internacional e fica no empate em casa&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeW44VTRmQkhIUzZiWl9jcEtHS3Vab1Q4VVluSDJPMDNwQXZjUm1vREVKUXZEY053Z2VKbXJTZ1ZKbTNWQWJVZ1JUOF9DXzhzZ0szSG1lY3pZSU5HQ1BCZ2pIdDdIYUhQUHpMSEFjaEZRcjFYdmt1dEl2UWU5d2xYandVR2NWeElPR2U3M2V1LV9IRUNLYzFRTERmMGVsN05uZmFxd05ZNUVweDAxUEY2Sg?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-09T22:24:32.000Z",
-      "whyItMattersKo": "선두 팀이 홈 경기에서 승점을 놓치며 뒷순위 팀들의 추격에 변수가 생겼습니다.",
-      "fanTakeKo": "홈에서 비기라니 속상하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-21-https://news.google.com/rss/articles/CBMi7AFBVV95cUxObW9mWTJfdWREbEp6czktVnd0WUhEOHhHZWM2UjFqR3RxSmFuRUtrNWNhVn",
-      "title": "Mais de 1 bilhão! Abel Ferreira revela valor do elenco do Palmeiras - Terra",
-      "summaryKo": "아벨 감독, 파우메이라스 선수단 가치 10억 넘는다고 공개",
-      "excerpt": "Mais de 1 bilhão! Abel Ferreira revela valor do elenco do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObW9mWTJfdWREbEp6czktVnd0WUhEOHhHZWM2UjFqR3RxSmFuRUtrNWNhVnlkb2RTb1d0VHZubE1FczFNbWRab1Y2WXMxOEppWEwxZUMtM0NmRGFCNWJNMXllVXBkR2M3ZUo5eVVSTFhCSE1uSzAwVXcwMUpuNXRvVEVKWjJRbExNQmNfcUc5cFR6eVZKNGJZekZ3ZV9yblNfeTc5SlJSeVBQNEl1MGYtcmNEQlhfbEJZbmtvd2tQcWZlMnd2ZTRjSHVJMFJlZGNaQkxQRFhvVXdMQlY0WWVKWXd5MXIxNmlMandEeA?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-09T22:24:00.000Z",
-      "whyItMattersKo": "막대한 투자가 이루어진 만큼 성과에 대한 기대와 부담이 동시에 커지고 있습니다.",
-      "fanTakeKo": "돈 많이 썼는데 성과는 봐야죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-22-https://news.google.com/rss/articles/CBMiggJBVV95cUxNTnF5a2hvNjQ0UEd2blRNaVNBM0QzS0VPX3M1cjZhYWJ1ZVdOMnNYcG1pYU",
-      "title": "O que os colunistas de GZH disseram sobre o empate do Inter contra o Palmeiras - GZH",
-      "summaryKo": "칼럼니스트들, 인테르 대 파우메이라스 무승부 분석",
-      "excerpt": "O que os colunistas de GZH disseram sobre o empate do Inter contra o Palmeiras&nbsp;&nbsp;GZH",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTnF5a2hvNjQ0UEd2blRNaVNBM0QzS0VPX3M1cjZhYWJ1ZVdOMnNYcG1pYUdXR2RmYURJLWtjYlZjeVRhLVVJaUtmVmNTWDVpNUJSYkxrU3N0U2JOWXNwU1VsWDRsWHVaRlZrdEx1V1haZGkwdHByOWZRTVJ5UXhkTzJSQlNDZXhUSHBkTWZ4aDVMaWhTdzhyYWtTRFdCWmJVN2c0TnF5aGlLYmNMWTFHUWVLVVlaNkw0SEpRY3l4bFJlOHBEVUFNOEt0aG0zekpuUDlyX2p5TS05RmpTY1ZMX0VDTzY4b1lOMkd3UTRVX2FrZmR5anVpMWUwWkZSMWxzZ2c?oc=5",
-      "source": "GZH",
-      "language": "pt",
-      "publishedAt": "2026-08-09T22:19:10.000Z",
-      "whyItMattersKo": "전문가들의 분석을 통해 경기 양상과 팀 현재 상태를 객관적으로 파악할 수 있습니다.",
-      "fanTakeKo": "이겼어야 했는데 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-23-https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnFmYncxaWRJSWdVa1dyZm82Um9ET3BZOG9RaUZIMklsN2QzRlR2ZXNlZW",
-      "title": "Abel lamenta falta de inspiração do Palmeiras em empate: \"Estivemos muito abaixo\" - ge",
-      "summaryKo": "아벨 페헤이라, 무승부 두고 \"너무 부족했다\"",
-      "excerpt": "Abel lamenta falta de inspiração do Palmeiras em empate: \"Estivemos muito abaixo\"&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnFmYncxaWRJSWdVa1dyZm82Um9ET3BZOG9RaUZIMklsN2QzRlR2ZXNlZWNtdlo4NTdNcmxSVl91TGtTOFpyX3ZDQW5MVUxfdjJRUUtwbHdhX1g5VF9oX1U1UVpFdXN0ZVhUVFB4LWFXYWVNakVzbzV0QU1fdjZLV2xWYW51dE5hYzNJVFViUDhtR0YzaGF4TENJekpHbndZd2N5TExVU2FfS0VNUzFtbTFGc1MxRFh5WEM5Y2txam10UWVoTHRvOVZxaVJ6S2Iyc3FnazBoR0xWTTN1dW5kR2d30gHwAUFVX3lxTE1oT0M3OWlhZllSMDktaDZOeFZaMldjUUJIMTlBMzBOUTdFWndiNU5EWUY5blBIeTdGZ2RkMFc2aEVfcmx1cU5raW1FVHBHQUZjWGZNSDM1eFJrbjI1dzhucFE1MHU5eGtNSnNGUVJWMk1IX1BWQ09vSXUyMWtOcGcwTlpoVkUyWHJWRlUyTmxValgwVzI2YVNROWxuOFBQbXNWUVdYVDdJbFFFRDZSUWFKMVVyeXJJUmlkRzJfTkNyZnBDcWRhVEk1WXVwUzZvVXhnTWtmSzBXWUJ5UU1PbnlTRnk5R0Z0YXdiUWJDT0tOYQ?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-09T22:17:23.000Z",
-      "whyItMattersKo": "감독의 비판은 팀이 선두 유지를 위해 경기력을 개선해야 함을 시사합니다.",
-      "fanTakeKo": "다음 경기는 꼭 이겨야 합니다.",
       "tags": [
         "뉴스",
         "AI요약"
