@@ -1,8 +1,170 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-10T13:09:55.970Z",
+  "fetchedAt": "2026-08-10T14:36:38.072Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2dYdHd3QmpTOV8xY1RyLTdiMF9BRUFQTDdPQmRKNnJJUi1JX3Q5S2FRY0V",
+      "title": "Flamengo ganha força na briga pelo Brasileirão após tropeço do Palmeiras - Exame",
+      "summaryKo": "파우메이라스, 뒷걸음질에 플라멩구 추격",
+      "excerpt": "Flamengo ganha força na briga pelo Brasileirão após tropeço do Palmeiras&nbsp;&nbsp;Exame",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2dYdHd3QmpTOV8xY1RyLTdiMF9BRUFQTDdPQmRKNnJJUi1JX3Q5S2FRY0VQdTJEb3otcWl5UDJDdEItaEt4NmNqTk5hNzZxaGtRSnY5QjVLUDhoWlktQUNyVmFySUFHRzNOeFNlUVVBZ1JTM012OGpVMm8wNjFKVzlGdVAtZUtqRjQtUDFqM21ydl9GTGZTRmtRSkVjSEJk?oc=5",
+      "source": "Exame",
+      "language": "pt",
+      "publishedAt": "2026-08-10T14:29:43.000Z",
+      "whyItMattersKo": "선두가 흔들리는 사이 경쟁 팀이 따라붙어 리그 우승 경쟁이 치열해졌습니다.",
+      "fanTakeKo": "위기 상황이네, 힘내라!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc1o4WWRBbEh2aWxHdEg5cVhIZTltWmM2YndleU9FeVZMbVMwUWsxdU9XV09",
+      "title": "Fla e Athletico-PR diminuem diferença para líder Palmeiras; Cruzeiro e Corinthians mais perto do G-4 - CBF",
+      "summaryKo": "추격전 시작, 파우메이라스 격차 줄어들어",
+      "excerpt": "Fla e Athletico-PR diminuem diferença para líder Palmeiras; Cruzeiro e Corinthians mais perto do G-4&nbsp;&nbsp;CBF",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc1o4WWRBbEh2aWxHdEg5cVhIZTltWmM2YndleU9FeVZMbVMwUWsxdU9XV090bkM4a3hvcWFxdTdYdXZiNzV3Vmh1WGFJcW5jWkJKLWxFVDVacHJ0M0RmNG4yMlRiTDlVY25hZzJ4YjJhaUhvNmxTM2lULXlZcXhCYlN2WkdfZDZBQ3VCUE9VQjNscjByM3NiYkdwUFZwRldTelBySGJ6Z29jbVZuSVdiRTJGazg0THV5Sl9wM3dQR0lOQ2M0MHFFZlJjR2huemNsQWZHOFhtMHdUOWlWUGFHbjFhczg2YldCa3cwTmZPcHlRa3pwb3VSYmF1SzMteWc?oc=5",
+      "source": "CBF",
+      "language": "pt",
+      "publishedAt": "2026-08-10T14:23:00.000Z",
+      "whyItMattersKo": "2위 팀들이 승점을 챙겨 선두와의 격차가 좁혀지고 상위권 경쟁이 더 타올랐습니다.",
+      "fanTakeKo": "격차 줄어들어서 불안하네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2hQREgxWDduN3c2S1A1N1JVNmV6Ul9CVDMtZHNqS1VMRG9ub2ZfS2YxMm1",
+      "title": "Giay, do Palmeiras, desperta interesse do Napoli - Terra",
+      "summaryKo": "파우메이라스 기아이, 나폴리 이적설",
+      "excerpt": "Giay, do Palmeiras, desperta interesse do Napoli&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2hQREgxWDduN3c2S1A1N1JVNmV6Ul9CVDMtZHNqS1VMRG9ub2ZfS2YxMm1VLTVGWFVIbUJXMDE5SS1MRGMybXJJdGdjSlI4MXpZWXFhTGMya0pUUXJEcnhaQWdscW5hSk01QWdaZC1LcVQ1d0ZtbVhFS1VYRmIwTzNSTU9taE43WlVVdXM1OXI3SDQ4X2o1N3hMLWVzMW1KcmJlSVNaSjktUjRMalpOM2ZSV05YMS1sX1lqQkMzVS1SSDBFNTFnYW44cGlhR29SQlE?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:44:00.000Z",
+      "whyItMattersKo": "유망주가 유럽 빅클럽의 관심을 받으면 팀 전력과 이적 시장에 큰 영향이 생깁니다.",
+      "fanTakeKo": "기아이는 꼭 지켜내야 해",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMigAJBVV95cUxPQjRLdlVFOHZQdmtrRlU4ZW1wd29oZkY3TTBpV2ZZRlRoZjMwNEpjcXRtZS1",
+      "title": "Napoli vai atrás de joia de gigante do Brasileirão que tem multa de R$ 500 milhões - Terra",
+      "summaryKo": "나폴리, 파우메이라스 에이스 영입설",
+      "excerpt": "Napoli vai atrás de joia de gigante do Brasileirão que tem multa de R$ 500 milhões&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQjRLdlVFOHZQdmtrRlU4ZW1wd29oZkY3TTBpV2ZZRlRoZjMwNEpjcXRtZS1DaGF0NWRoOS1peWl3ZHAxT1BvYnlRS3NjZE01dkdHY05hVGlCWDRXMkRrRWRxR1E0a2NRcmtyTm9sQkhVemRBV2FuQXhGa3FwQTUyRkVfeXBRNXNLX0VfbWY5VUZUWURYbElZdmxQSkRBTmVfV3ZMd3J0bS1lM2NpTXpjWm54eTNXbU5UdE15d1c3S3JzbW82eWNRUUVWbDM2VjJDeFVTY2hPNW9ST0VzajhrS2g5cHdIdlZXeVYzN3hCb2ZDd3M3T1RBcHVMR2dYY0s1?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:25:00.000Z",
+      "whyItMattersKo": "거액의 바이아웃이 있는 선수를 유럽에서 노리며 이적 시장의 변수가 커지고 있습니다.",
+      "fanTakeKo": "에이스는 절대 놔줄 수 없어!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiswFBVV95cUxQS25haEpLbk9lQ3BOcmdGTHR0aUxFc1lRVDMtTlZ3ZEFBRkx5WUNBVm5MRkR",
+      "title": "Flamengo vence Vitória e reduz vantagem do Palmeiras no Brasileirão - capitalnews.com.br",
+      "summaryKo": "Flamengo는 Vitória에서 우승하고 브라질레이랑에서 Palmeiras의 이점을 감소시킵니다 - capitalnews.com.br",
+      "excerpt": "Flamengo vence Vitória e reduz vantagem do Palmeiras no Brasileirão&nbsp;&nbsp;capitalnews.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS25haEpLbk9lQ3BOcmdGTHR0aUxFc1lRVDMtTlZ3ZEFBRkx5WUNBVm5MRkRhQl90OUpEbXdMNHBUOWlXdjBTWUQ0SDVLMW5DQVNQbU92dWw0RWJyYWdtc050T01DN0NQYnhIZThEeTNMS1NjcDZQQXZ5NW9VdzZIN2E2OUdBajVEVm9nblg4WEFmVDRKWGpoMnJYVW5zR0dPbFh0UURKWGwtSUV4ZVNTcXZZWQ?oc=5",
+      "source": "capitalnews.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:23:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDNjY0hISEpvRW4zWFR5T3FDdHJYdmR4Z2RGUXVsay1SYWQ4Y2VwZU5HQnh",
+      "title": "'Futebol zero': Mauro Cezar critica empate de Palmeiras e Internacional - LANCE!",
+      "summaryKo": "'Football ZERO': Mauro Cezar가 Palmeiras와 Internacional 넥타이를 비판합니다 - 입찰!",
+      "excerpt": "'Futebol zero': Mauro Cezar critica empate de Palmeiras e Internacional&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDNjY0hISEpvRW4zWFR5T3FDdHJYdmR4Z2RGUXVsay1SYWQ4Y2VwZU5HQnh5SDdXczJJTzVBaV9JWWFJSldWQWxac01mY3VDVlZyRVQ5c3p6cVNpRjdJc1VqMFhCWGpVTG5Vdnl6M09ETzExd1dqblZVak55YWg3eU1tU2NhVXpfUmVIZ0l5QXJ3R2N0Z2NyVzZGbDBCRlpJX0oxS1U0NjhQemlfeXBHMVlB?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:22:53.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1c0dEdHNzBMMUd4UzVkQlppMFluaUp1anZBQllrOVFOLVZqQ1NpNDZqTmU",
+      "title": "Palmeiras x Cerro Porteño Palpite – Análise e notícias (12/08) - LANCE!",
+      "summaryKo": "Palmeiras x Cerro Porteño Palpite – 분석 및 뉴스 (08/12) - 입찰!",
+      "excerpt": "Palmeiras x Cerro Porteño Palpite – Análise e notícias (12/08)&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1c0dEdHNzBMMUd4UzVkQlppMFluaUp1anZBQllrOVFOLVZqQ1NpNDZqTmUwYVBMZ3pnSkwzYWtYb001cFFER1FGUk9VSjRQUEZwVlJ0aGlDZkVMR19RRzRHeEpyMFBUd291eGJ4QnJNU2NKTnJQWF9NNkhrM3FEcnVCalJ2cjV1VDlXUjBRWnBQcVdfd0lJ?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:22:33.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWpLN18yY1NodXl3eE5PYlVZTlhndFpaRVBXQ2N3ZWRBb2J0dU0zVkNvdVd",
+      "title": "Brasileirão mantém briga na zona de rebaixamento e mudanças no centrão; veja como está cada time - Folha de S.Paulo",
+      "summaryKo": "Brasileirão는 강등권과 중앙의 변화에서 계속 싸우고 있습니다. 각 팀이 어떻게 지내고 있는지 확인하십시오 - Folha de S.Paulo",
+      "excerpt": "Brasileirão mantém briga na zona de rebaixamento e mudanças no centrão; veja como está cada time&nbsp;&nbsp;Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWpLN18yY1NodXl3eE5PYlVZTlhndFpaRVBXQ2N3ZWRBb2J0dU0zVkNvdVdwMTVSbl9RaFJIMWptdDU4Q1o3bjZWZnFRdVB1bnpTQWZuaS15eUx6cGVFcVpXdXBOWFhZdFBUZ3lKSXR4X2FfRTFQOFBBeVFTQ0dnZTN1bjVxdzVNd0hnMGk0N0w3dVNFaDlJejFzckszV3VyaldGalZSLVFHNjJaeFVUT1dGMkd0aUYyeTMtWXh4UUZxQ1lldUF5VFBaWDl6WmpzcjZja3MyZ0ZEYnJkekpiZw?oc=5",
+      "source": "Folha de S.Paulo",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:16:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE1fQ1c1LWtkcXlVNUVKMm5nbXFxZUxVcDVKMVk2RmFsR2NHbER4Z1ByVHF",
+      "title": "Trajano: Que Brasileirão é esse, que o líder Palmeiras não joga futebol? - UOL",
+      "summaryKo": "트라하노: 지도자 파우메이라스가 축구를 하지 않는 브라질레이랑은 누구입니까? - UOL",
+      "excerpt": "Trajano: Que Brasileirão é esse, que o líder Palmeiras não joga futebol?&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE1fQ1c1LWtkcXlVNUVKMm5nbXFxZUxVcDVKMVk2RmFsR2NHbER4Z1ByVHFBWjAzZGpwLWpvN2hDdi1zVG4zTkhEdHdzQ01nSmk2cUd3aWIzYjBPSm5XZFlSY2JHWlV4MlpIR3JhS2U0MlhvMDhSRlpFNWwwcTBRMzhTeFVBUHIyZktSOWlNc2J5YnNrZmU0NWxnVGpJVmZHdTJRR1VHZmRYay1PNTF5WFZiRDNWczE5UW5Ca0lKOEE1NjlLOVE?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:12:41.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX08ya0xaTWNDQUFETDBxUFFSNlpMUlBSZEt0enVoRUFxWVl2TkJNRGRhWFV",
+      "title": "Veja as chances de título do Brasileirão 2026 após os jogos da 22ª rodada - CNN Brasil",
+      "summaryKo": "22라운드 경기 후 Brasileirão 2026의 타이틀 기회 보기 - CNN Brasil",
+      "excerpt": "Veja as chances de título do Brasileirão 2026 após os jogos da 22ª rodada&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX08ya0xaTWNDQUFETDBxUFFSNlpMUlBSZEt0enVoRUFxWVl2TkJNRGRhWFVlNDhOX0xzSHNjWmxFUjg1TWJNeUpYMmMwNzU4cVBrWDRQVHZGdjFpZENIVnRoQ0xVb3p1YUxxVXBEanVzUE1aNkZHY0RkT1RRM2ZxUThoSXFVV19GbUMxSmNGQ0hPZVlhWkhRMDV6UFJlM1VfbTV6bUNKNnVoV0FDdzBDcE0yOEJVTlk0dllBQm1NeXdkZw?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-10T13:09:19.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjd3akZpNXk5UmpJdVpQbWdNZHVPQlUySWFzSFVSWk1RN0hwNUYzRVdLak",
+      "title": "Vitor Roque amplia jejum de gols com a camisa do Palmeiras - Terra",
+      "summaryKo": "Vitor Roque, Palmeiras 셔츠로 골 공복 확장 - Terra",
+      "excerpt": "Vitor Roque amplia jejum de gols com a camisa do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjd3akZpNXk5UmpJdVpQbWdNZHVPQlUySWFzSFVSWk1RN0hwNUYzRVdLakxRcF85YUZEOXNzd2xoQWtRN3FQWGFrdmhvck5wdldZVGstUHYwYXljUURvOWtORGxmQzAyMU1KNlUxbTJ6Ukdmd3p2aDhZNmlfV2I2WkFMSDA3MDJORkw3eXZnWXRveXp6WWQ3ZWdQM0VYemhaTmw5M2JkczRPU0ZnWmhkcGhDa2ZNN0RxbzRRTVB2dC13bHBLb3ZQWGowdmowa3JBcFVqU25PWDl3a0lfbjQzWlh3?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-10T12:59:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
+      ]
+    },
     {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMiowJBVV95cUxOX2UwUXVYeTVuNVNWdmlSQUg3UEROVlhaU2k0VkwyZy1neGJnc0I3LTZ1QnF",
       "title": "Inter sobrevive à sequência mais dura no Brasileirão e terá semana decisiva no campo e nas contratações - GZH",
@@ -11,12 +173,26 @@
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX2UwUXVYeTVuNVNWdmlSQUg3UEROVlhaU2k0VkwyZy1neGJnc0I3LTZ1QnFaNnlVc19CNTJBaVJGNFUxWWlvWUdLY1Z6aUVwc20xYWFIMExUa09pN1NVbk13cERwVGIzZnJOazQwLTRMYU4yWTNXLThoeDhiM2RNcnlFZGtXeGIzUnZKRmE5eHRMWmpkZVVlMjl0cXRQZzNsdGNiRFJRWWgtb0otajdWZEhSWU5yeC1aTzdvSERGMzhDajJmOFRlcTVyQ0p3NmdLdjk0SXQzZGhrYWwtZHk1dmV4OHdQVTJ0ZkU3QWthMWxrZ0xYOWdGQjc0NFhSSlVRVFJGLXNpNUo1cnNLalQzQThSbVpkc1JVZVRubHNFMWExYTA?oc=5",
       "source": "GZH",
       "language": "pt",
-      "publishedAt": "2026-08-10T12:56:15.000Z",
+      "publishedAt": "2026-08-10T12:57:54.000Z",
       "whyItMattersKo": "어려운 경기 일정을 견뎌내며 이번 주 경기 성적과 이적이 중요해졌습니다.",
       "fanTakeKo": "인테르도 정말 힘든 일정이었네요.",
       "tags": [
         "뉴스",
         "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMiqgFBVV95cUxORW5oMnNHYlJUU3ZsRHVlY2tCdEdLcHV2aHpLSjN1VEt1MEgtcHFRM3BoSV",
+      "title": "Jogos de ida das oitavas da Libertadores: datas, horários e onde assistir - VEJA",
+      "summaryKo": "리베르타도레스 16강전 첫 레그 경기: 날짜, 시간, 볼거리 - 베자",
+      "excerpt": "Jogos de ida das oitavas da Libertadores: datas, horários e onde assistir&nbsp;&nbsp;VEJA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORW5oMnNHYlJUU3ZsRHVlY2tCdEdLcHV2aHpLSjN1VEt1MEgtcHFRM3BoSVpBeDRaMEpBd0NXcFpJajZVT1l3R1N5VDZ6YWw1VUxmc0M4N3daMUJrTnY2a1p6eGU2cml2c3llaDI0UHRtQm4wc1dfanc1czB0WlhLZWh1STdxNTA3eDJ1MFdrMkNjNzVUaXF0dS1RVXpGWmNWVWtGWEQ3aWJPdw?oc=5",
+      "source": "VEJA",
+      "language": "pt",
+      "publishedAt": "2026-08-10T12:57:00.000Z",
+      "tags": [
+        "뉴스",
+        "자동번역"
       ]
     },
     {
@@ -148,6 +324,22 @@
       ]
     },
     {
+      "id": "gnews-21-https://news.google.com/rss/articles/CBMi_AFBVV95cUxONjB1SmZtVHVXMHA5M3ZBM05lN0poU3NDa0lrVzkxUVpSMEU2WHhtOEVHQl",
+      "title": "Brasileirão: Bahia tropeça em casa, Vitória perde fora e Flamengo reduz distância para o Palmeiras; veja resultados - Bahia Notícias",
+      "summaryKo": "플라멩구, 파우메이라스와 격차 좁혀",
+      "excerpt": "Brasileirão: Bahia tropeça em casa, Vitória perde fora e Flamengo reduz distância para o Palmeiras; veja resultados&nbsp;&nbsp;Bahia Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONjB1SmZtVHVXMHA5M3ZBM05lN0poU3NDa0lrVzkxUVpSMEU2WHhtOEVHQlRfZXZrMk1IYjhza3Q4dzR6a3JWVEJEaGdhNFJscVhNalVENEVQWld5RmJyeHRUbTFCN0NWalIwTnNSNjA5RXZxeFFhcVBrY0szOVBWOW8tMG82RFBBOVV0d2JQV1ZsVGxxV3dQNFFhdnp4M2I1Q1V6NW05YVBaR1hJTzhzY1BMaW52NzhaOUV6S3lBTV94SFJLOGhNMl9VRnhIVzF5WUVaeTNISlFLUldrU1gwVVJ5VmRXbnZPUlJ1Z1pjZEFPY2ExWVNUZWtQNFY?oc=5",
+      "source": "Bahia Notícias",
+      "language": "pt",
+      "publishedAt": "2026-08-10T11:30:00.000Z",
+      "whyItMattersKo": "플라멩구가 승점을 올리며 선두 파우메이라스와의 격차를 좁혀 순위 경쟁이 치열해졌습니다.",
+      "fanTakeKo": "선두 유지하려면 놓치면 안 돼요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-9-https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3dsTVdsVG9aVEZZZlNVMHk0SEQ2Nzh0QWp3ZkJ0X1JzSWhYRjFIOVlLbl9",
       "title": "Palmeiras empata com o Internacional, mantém liderança e vê pressão aumentar no Brasileirão - Jornal Folha do Progresso",
       "summaryKo": "파우메이라스, 인테르와 무승부로 선두 유지",
@@ -217,7 +409,7 @@
       "summaryKo": "파우메이라스, 수비적 팀 상대로 고전 인정",
       "excerpt": "Palmeiras admite dificuldade contra times fechados e liga alerta para Libertadores&nbsp;&nbsp;GE",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMktoYlYzMXlnbHE5OUlxQ3Yzem1obTVJS3ZwamxfYnhLVWhJQVZhSTEya3ZQRkVBVG9weGtzUEJ1U0VadVFwWEx6cXA2VjBlSGhrN3Bua1VRbjN2UG9iR3FTSi1qVVFfemFMTGE3RGI5dWtERS1nbU9jU05iT3RZUW5IUjdGdjdWUEJNM2x0QVF2bDBsTnlsUk84MVl2akRKZmJvTWN0RDJtRUdYdlpXRlZFSGFmeDlFV1JvNXd3ZzNKVXJ5VmJaVm4yYUF5cnR6bmxybGdIVmVJSEJ2dVBGM0pvZUk2cknSAfYBQVVfeXFMUEgxVkxRR2RiNTFKaUpTTGRhZ2s0VnQxUWZRaW1SUVh2ZWY2bWMzdGlKMTFVQWlhejdwdVgySkFJcjNHMm9xUE14Z25Vd09qaEJaWV8zSmVOYU1qeVN1RkRacGcxRkN3eHBteUF3RFlWTkFWaEJySXpUQXp3djJ2aGJGajE1UGtMMXd1M0VuV0xUQzRJT0k0c0FMZFpRSmQtdVY1Y2RlSkU3VWp0VVhTMVpYazk3WkNMV19ndHduajkwektIYUpNRjZsV2xwdDdwM2htZlpRcXlZR1RSYXJtZC1ySmJNU0Y2Y1lMY0MzWk80ajYtZnVR?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-10T10:22:18.000Z",
       "whyItMattersKo": "수비적인 팀을 상대로 공격 풀지 못해 리베르타도레스 대비에 경종이 울렸습니다.",
@@ -750,214 +942,6 @@
       "publishedAt": "2026-08-10T00:52:00.000Z",
       "whyItMattersKo": "추격팀 플라멩구가 승점을 챙겨 선두 파우메이라스와의 격차를 좁혔습니다.",
       "fanTakeKo": "추격이 거세지니 우리도 분발해야죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kbTAzNlJoVXROZmFTRHZUQmFqUUZzTGpfZjJFSTE5STliUjRyRjV0cTltbTF",
-      "title": "Pulgar faz gol antológico, Flamengo vence o Vitória e diminui diferença para o líder Palmeiras no Brasileirão; VEJA os melhores momentos - ESPN Brasil",
-      "summaryKo": "플라멩구, 승리하며 파우메이라스와 승점 차 줄여",
-      "excerpt": "Pulgar faz gol antológico, Flamengo vence o Vitória e diminui diferença para o líder Palmeiras no Brasileirão; VEJA os melhores momentos&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kbTAzNlJoVXROZmFTRHZUQmFqUUZzTGpfZjJFSTE5STliUjRyRjV0cTltbTFwSVdEazh4bC0wTzdOWXRsRGxoOUdzTkNNMGxqUVJkczhiaU12YVktNlE?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:46:59.000Z",
-      "whyItMattersKo": "경쟁 팀이 승점을 챙기면 선두 파우메이라스의 순위 경쟁이 더 치열해집니다.",
-      "fanTakeKo": "플라멩구가 너무 잘 따라오네 걱정이다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlo4TmExaE1RRm9jRjlrSHVVVU1OM3lSSUJPbHJZMU9UUDBRU0JEcFFSeTF",
-      "title": "Bruno Henrique celebra vitória, 'ignora' Palmeiras e foca Libertadores - band.com.br",
-      "summaryKo": "브루누 엔리케, 파우메이라스 무시하고 리버타도레스 집중",
-      "excerpt": "Bruno Henrique celebra vitória, 'ignora' Palmeiras e foca Libertadores&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlo4TmExaE1RRm9jRjlrSHVVVU1OM3lSSUJPbHJZMU9UUDBRU0JEcFFSeTFwcnFEaWFwX1kzOUs0bjl0U3BYazRTRHhxdk9VTmw2OTFwQV92ejB4TTJ0RUZVM3gwUGVvdENSTUJ6RkhCcWhERE1oaHBSQU5BN2I5ZnMwWjExRDJMbEh3alpKV1pqc1J1VmJLQmhyT1Z1elJ6bGxBN0NGamNIU0lpTDFXT0kwNA?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:45:27.000Z",
-      "whyItMattersKo": "플라멩구 주력 선수가 리버타도레스 우승에만 집중하겠다는 의지를 보여줍니다.",
-      "fanTakeKo": "리버타도레스만 보는 건가요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXllRDVTNHh4Z0xxQ0RxSWdZNDF1ZURMN2hKY0hXYlRXOUxkTWNfRVBRcz",
-      "title": "Flamengo vence Vitória e se aproxima do Palmeiras no Brasileirão - Tribuna do Agreste",
-      "summaryKo": "플라멩구, 승리로 파우메이라스와 격차 줄여",
-      "excerpt": "Flamengo vence Vitória e se aproxima do Palmeiras no Brasileirão&nbsp;&nbsp;Tribuna do Agreste",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXllRDVTNHh4Z0xxQ0RxSWdZNDF1ZURMN2hKY0hXYlRXOUxkTWNfRVBRczAwM1NTR0dCUEhadjlkOEE5eFA0czdBSlVRYlZkWG92S0tXUzJuTGM5YXZqR1MwQ1h2a3Z3RGFTZC1aZUhJQUxXRkRvTGNFS0tJdkhtdkZ4RGV0WnpQT0tzcGluOHE0aF85dWZzNjZPUVlfdk1vQWxpQmZnVHJIUjN4eFltVnBNUS0wSmxLRVNHN1BEMDBlQ0NjSWc?oc=5",
-      "source": "Tribuna do Agreste",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:35:00.000Z",
-      "whyItMattersKo": "경쟁 팀인 플라멩구가 승점을 챙기며 선두 파우메이라스와의 격차를 좁혔습니다.",
-      "fanTakeKo": "플라멩구가 바짝 쫓아오네, 긴장된다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEcwV2JYN3VWSUF5a2NCd3BGUFZJTHRvSkFZWmdYU0pFMmF6Skp6aWpjR1p",
-      "title": "Flamengo ganha do Vitória, recupera a confiança e diminui diferença para o Palmeiras - Estadão",
-      "summaryKo": "플라멩구, 승리로 자신감 회복하고 파우메이라스 추격",
-      "excerpt": "Flamengo ganha do Vitória, recupera a confiança e diminui diferença para o Palmeiras&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEcwV2JYN3VWSUF5a2NCd3BGUFZJTHRvSkFZWmdYU0pFMmF6Skp6aWpjR1p1SnhnSzBiVWFndGY3NHhZOXdGZjhGOTNWVzFjbzlTZTZBVDMzUE9lUDZCZW1meWNsWWtMcXZlRjlqSHA3VkVtY2JNNnhDOUlXYVFtQ2pfT3VBUWQ1OGFaQXVIWVJPRUROYXc4bGtHUjRydVFvWHVZWlBjSmVudEVJVTZqTE81ekg1eU9mZTdSRzFJSTQzR2hqdnFR0gHMAUFVX3lxTE9URUhxZVhyS21XTVdjTWJiZXo1b01LNEVUdWhJMS1XS210TE5RMFgyRlBSZGV0SDVLWW81d1BnRGlqb19XNk0yR3BHQi0yallZNFVTN3NHSXBMN1pqSkI2U242YlM0akNQQjdNTFl5bl9UOExyMTgyalgzOEg0U0VIY2Q2NEZiTkJoRTdWbTJ4Nk83WERrTDAxTkRlMUV0YUY0U20xLVhtOG5qekNNdFBxU281TmJqb1U1ZkhuMmd2V09XR2VGeFphaE5JWQ?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:34:07.000Z",
-      "whyItMattersKo": "플라멩구가 승점을 챙기며 파우메이라스와의 브라질레이렁 순위 차이를 좁혔습니다.",
-      "fanTakeKo": "순위 간격이 줄어드니 걱정되네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGhPZmozZVJyeFhQM2Y1Ym43U05LWHc5ek1PWVZtaUEzNjduWmNzU2ZRc0",
-      "title": "Flamengo vence Vitória e diminuiu vantagem do Palmeiras na ponta do Brasileirão - Só Notícias",
-      "summaryKo": "플라멩구 승리, 파우메이라스 선두 위협",
-      "excerpt": "Flamengo vence Vitória e diminuiu vantagem do Palmeiras na ponta do Brasileirão&nbsp;&nbsp;Só Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGhPZmozZVJyeFhQM2Y1Ym43U05LWHc5ek1PWVZtaUEzNjduWmNzU2ZRc0cxaVVZb0lUcVlDd2szaGFrMTItT3p5UmJNckZSSGVNbEt6aXRPdHBUTjlPaXE3S0xJSUpBWUdWd3VsRnlXTEwtUVZkY3hlc3hGUjhJYUdpXzNIbVV0SFg0cExkSHplQ3UxMlNTajVUem1WN2pZVzVycDVCcUJCenJZNHI4YWo5bTkta2dBZC1j?oc=5",
-      "source": "Só Notícias",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:33:00.000Z",
-      "whyItMattersKo": "플라멩구의 승리로 파우메이라스가 가지고 있던 리그 선두 격차가 줄어들었습니다.",
-      "fanTakeKo": "선두 유지가 점점 힘들어지네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-10-https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRXQ2WkRRRkRjUTJ4NnZtaFJFNTVqcFdZbWVXTGQxbGs5MVlhekNrSTRwb2",
-      "title": "A declaração de Abel Ferreira direcionada à torcida do Palmeiras - Terra",
-      "summaryKo": "아벨 페헤이라 감독, 팬들에게 전하는 메시지",
-      "excerpt": "A declaração de Abel Ferreira direcionada à torcida do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRXQ2WkRRRkRjUTJ4NnZtaFJFNTVqcFdZbWVXTGQxbGs5MVlhekNrSTRwb2E3WDdRVFlXS1lwWm5aR1luT1FMa3VMVnBjY0FEcnQtUlNXRzRhek0xVTNPM1NCaTVhT092V3FRTThzME9MTjNDaG5VazJpS3EwMkplaDZIRmI5cTRLYUNmTkVEbnlnMk5HR2pOUk5DdlZvdzVkMFhLem1lQ1lBdG5MaUxOaXdlOVlkVTNiRzlLTEg0TGlsUHprWnFlU1B6YjVaeF9zOS1weFNWTzFmV043bk8xSFh2Y3RpQ1dWZEE?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:32:00.000Z",
-      "whyItMattersKo": "감독의 발언은 팬들과의 소통을 통해 팀 분위기를 조절하는 데 중요합니다.",
-      "fanTakeKo": "감독님 말씀 잘 듣고 응원하겠습니다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNUVFaWFERTktUkxhdEUtWXlMMjRUenVaYUdSeTZfcTlvRG1yZU5tVl93T1",
-      "title": "Flamengo supera o Vitória e segue a caça ao Palmeiras no Brasileirão - itatiaia.com.br",
-      "summaryKo": "플라멩구, 비토리아 제압하고 파우메이라스 뒤쫓기",
-      "excerpt": "Flamengo supera o Vitória e segue a caça ao Palmeiras no Brasileirão&nbsp;&nbsp;itatiaia.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNUVFaWFERTktUkxhdEUtWXlMMjRUenVaYUdSeTZfcTlvRG1yZU5tVl93T1pQaVNfYUxQLUJDblNkOUVES2RGSlRHYUdRaGs0c0IxMU5OQXhhUk51TFpEajdhZ3FrcjVGcW1HWlR3ZDE4bVJkWXk3bjRWdFNmZUhJSWFBV05JNHhYWnBOblBOSzNQdFB0YUZjdGxEV0pwdXZ2S3VreEVycGp3ejFBbWVVOVZ3WDk0T3NxRkdXMWdZMEVMUWZlR014ODktX28tZmZBeDBpQks1MC1RWXhEaW1JRDItY0F1UQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:28:33.000Z",
-      "whyItMattersKo": "브라질레이렁 선두 파우메이라스를 향한 플라멩구의 추격전이 더 치열해졌습니다.",
-      "fanTakeKo": "계속 쫓기라니 긴장감 장난 아니네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHV5b0pHeFN0OFlnUHNZS2JCX2M5d3FkYUxmUVRoTEwtaFVhdkFoNGlad1",
-      "title": "Flamengo vence o Vitória e vê distância para o líder Palmeiras diminuir - CNN Brasil",
-      "summaryKo": "플라멩구 승리, 선두와 격차 다시 축소",
-      "excerpt": "Flamengo vence o Vitória e vê distância para o líder Palmeiras diminuir&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHV5b0pHeFN0OFlnUHNZS2JCX2M5d3FkYUxmUVRoTEwtaFVhdkFoNGlad1ZSOFRXOEhZZ3RRWFJ2d2hDdXJXMmNTVWJkUnJEQ2l3SXFLWWVFUUxZYTZKdy05MVR2XzdBM0Q2M01LaXBqUkRJSzloUG9GV254eF80OUxWc01hX0RndXhBS0xLN3QtYVZvMk1kQUwwZmRsSW5VeFpCaldyVmk2Uk1jeGUycGRsX2FWOWVwdlBqQkdyUQ?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:26:44.000Z",
-      "whyItMattersKo": "추격팀 플라멩구가 승리하면서 선두 파우메이라스의 리드가 줄어들어 긴장감이 높아졌습니다.",
-      "fanTakeKo": "아직 안심할 때가 아니군요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVdzNzJrVmw0T1NOTE9heFZoSjFQTEpGczl0ZTVDcUtHSy1wTkVfbm0zSE",
-      "title": "Classificação do Brasileirão: o que separa Palmeiras e Flamengo? - LANCE!",
-      "summaryKo": "브라질레이렁, 파우메이라스와 플라멩구 격차는?",
-      "excerpt": "Classificação do Brasileirão: o que separa Palmeiras e Flamengo?&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVdzNzJrVmw0T1NOTE9heFZoSjFQTEpGczl0ZTVDcUtHSy1wTkVfbm0zSEo3MDFaR0VVTWs0MURuSE1WQW1ydm9jYlpTb0tmbmpiU1FQa2Vfc2ZLM19ZNGJDQnNSbjhjcERESkpYTFBuU1h4d05KejltWkVoanlFNzhORlVkYVRTNmd2QW05LXlvdWlXMG80dHVST3lQbzNOYUhPRVI1RWp3Q1dIREE?oc=5",
-      "source": "lance.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:26:04.000Z",
-      "whyItMattersKo": "두 팀 간의 현재 승점 차이와 경기력을 비교하면 우승 경쟁의 흐름을 파악할 수 있습니다.",
-      "fanTakeKo": "우리가 얼마나 앞서고 있는지 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzFDSmxOVTBvN3FiV1hSUmZCLWlIUGNKMlRnaHI2c3U5dDBQTERFeDhadm",
-      "title": "Flamengo vence Vitória e diminui distância para o Palmeiras - LANCE!",
-      "summaryKo": "플라멩구, 파우메이라스 추격에 박차",
-      "excerpt": "Flamengo vence Vitória e diminui distância para o Palmeiras&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzFDSmxOVTBvN3FiV1hSUmZCLWlIUGNKMlRnaHI2c3U5dDBQTERFeDhadmFZNmxUakJyT1R6d0lkNWp1UXVIejBJVGk1cjh0ZWNIMkppNjZPekJ5N0U5SG54ci1FN25TNnM2TWZGVVQ3QkdBU1kzb0ZYcWdyQlBraURNSlUxWnBWcllHY3FVQWpKcXotVUhKQWQ1dFRSUnM1Y1RpRlNNdWdQcmZPTFU4YlVncW1jeTRPdEE?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:24:20.000Z",
-      "whyItMattersKo": "경쟁팀이 연승을 거듭하며 선두 파우메이라스와의 승점 차이가 계속해서 좁혀지고 있습니다.",
-      "fanTakeKo": "격차가 계속 줄어들어 걱정입니다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdHYyMFBLeFFMVm5LMlpYdE52UmJzR3lyX05MM2t5TVJzV05fRU9QdFI2NW",
-      "title": "Flamengo domina Vitória, vence com golaço de Pulgar e volta a pressionar o Palmeiras na liderança do Brasileirão - ESPN Brasil",
-      "summaryKo": "플라멩구, 승리하며 파우메이라스 선두 추격",
-      "excerpt": "Flamengo domina Vitória, vence com golaço de Pulgar e volta a pressionar o Palmeiras na liderança do Brasileirão&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdHYyMFBLeFFMVm5LMlpYdE52UmJzR3lyX05MM2t5TVJzV05fRU9QdFI2NWdUWEZVMGhfNnJiTjAweWZUVHUyel8yS3NXcEVmeFJtaDhIZGk1V3FBdk1jcjIxVHQxaFVuOER2bzB6WHA4S0I1Z3J0RzRkalZ1aUNsNHFYTVVSNWxIbjVjaXJxRFBZbDk5RWZuMTJIb1Y0UGFrb1hoVm5rQzNoOHhVb2VhSVNWVnNwUTgxVTBWWVU1Tk5VbDJsQmxtaTRhVUJOcVkwdEtNbl93T2Y3TTVjbzdQbmQtQVVSRkh4d3ZpSXduaTZPRVExOFE?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:24:00.000Z",
-      "whyItMattersKo": "경쟁 팀이 승점을 챙겨 선두 파우메이라스의 순위 방어가 더 빡빡해졌습니다.",
-      "fanTakeKo": "플라멩구가 너무 잘 따라오네, 긴장된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-17-https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXNoZ1JGT0pFY3ZIdWhaNnhrVjQ5NDVFckMzUHZHaHNhYkR6VDhjczJnT1",
-      "title": "Torcida do Palmeiras manda recado a Abel após empate com o Internacional - LANCE!",
-      "summaryKo": "무승부 후 팬들, 아벨 감독에 메시지 전달",
-      "excerpt": "Torcida do Palmeiras manda recado a Abel após empate com o Internacional&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXNoZ1JGT0pFY3ZIdWhaNnhrVjQ5NDVFckMzUHZHaHNhYkR6VDhjczJnT1ktZUpDSERQN2twaHVBbWlzNzlJcVZhazFqXzlMWkJjTHFzdWJ3cVhfQV9NdllDbnVNMkUyTFFYeXJMNDEyZ2YtWll0THdfTVFQNjlsbHVRakVGVktrUjRJVVFPd2V1VTd5RExfYUtheGNyb1I2dGs2NlAwOFIxWENIbXhCRUtGaVozUkE?oc=5",
-      "source": "lance.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:19:38.000Z",
-      "whyItMattersKo": "최근 성적 부진으로 팬들이 감독의 전략과 팀 분위기 개선을 원하고 있습니다.",
-      "fanTakeKo": "빨리 팀이 제 모습을 찾았으면 좋겠어요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-19-https://news.google.com/rss/articles/CBMi7wFBVV95cUxQanFBWFBzUUJYWkQ2ZThYMndfSmNNSTFSWlUzbG1WZnF4Z3ZRM0NRQVIyZH",
-      "title": "A declaração de Abel Ferreira direcionada a Flaco López, do Palmeiras - Terra",
-      "summaryKo": "아벨 감독, 플라코 로페즈에게 입장 전달",
-      "excerpt": "A declaração de Abel Ferreira direcionada a Flaco López, do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQanFBWFBzUUJYWkQ2ZThYMndfSmNNSTFSWlUzbG1WZnF4Z3ZRM0NRQVIyZHo4NnpVSHkyZlphRy1EREJrLTRKQUtGVVg2UlVXM2laN3pXSW9uMDFJOUhiXzlsUkZBenNkNldVTnhiZXRCSUw0Vk84TzcxbzlueGlnWGNWRTBSb0F3ZGt4QVJWR1JsMTNWbHpsdTEwUmVKczBabDQ3OWd0OFhSMWFNTTc1aE93Und2SmF0VGJEUkFxamlzZmVMWVd5MHZnbzVXbEYyNjByelFBaWc2OXNKQjVDZ1Q3dXFxZ3pRUWVvWDZOQQ?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-10T00:09:00.000Z",
-      "whyItMattersKo": "감독과 선수 간의 관계 설정은 팀 내부 분위기와 선수 기용에 영향을 줍니다.",
-      "fanTakeKo": "두 사람 사이가 좋아지길 바랍니다.",
       "tags": [
         "뉴스",
         "AI요약"
