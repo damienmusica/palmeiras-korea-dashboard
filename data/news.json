@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-11T01:48:44.702Z",
+  "fetchedAt": "2026-08-11T03:45:17.319Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdnhhV0N1QTI5WV9GNVc2QzhSeVktc3Mtam95YkRQLThtOXRLekVDT3RfVmp",
+      "title": "Libertadores 2026: onde assistir ao vivo aos jogos de ida das oitavas de final - ge",
+      "summaryKo": "2026 리베르타도레스 16강 1차전 시청 방법",
+      "excerpt": "Libertadores 2026: onde assistir ao vivo aos jogos de ida das oitavas de final&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdnhhV0N1QTI5WV9GNVc2QzhSeVktc3Mtam95YkRQLThtOXRLekVDT3RfVmp6djNTT2Y1RnU3V3NhYXVHWmMzbGFIVEJGM0xKTU1VRUVTY05XUEhYQlJRTWN3c2laNWt1azlsMkN5UkhOcVhCWjYzWVZibzgzNVhXZU1QWFNmd0RNYkEzQ01UMXZGN0NFSGk2ZDBHTVloNm5CUTFGRExDbVpiODczZnhZSlNmME9KeG5lay1rVUdUOUJ3TkhXSmRsdmRxZmZ6UUxya29aUDJMYkJkU0p2dUtwQWlrZ19FamdkV29QTS1iOVnSAf8BQVVfeXFMTzFobHBzbGxWVi1RMkQ2WGNCZE14WjRubGVadmxhQU1lYjlKeHd4dFVuWTZMZDlILURlV3AtSEtNT3pvczVpZDdVTzNBTHo3NjF2WHpjZVZ5WXFQZTFERVlNaU5zM1dRLUNtX1lRRU10M0hTTzBvaWFBZVBnc2ZZM1ZfbFpvU21ia0VkVlNWVmtQSlF1LS1sVnAxOFFxTFY5empSVmVMdHlhM2tXNHMtcmFCSC0zN3Q1Uk1zTTFQbXNOS1RCdkF5NnRhVW4tOE1wZ2RwaWVHOU9zRXVWSmxrUVVkT1d0cGwxN18tQ040bXNFSGZnZWVYNlQzYVh2cVhR?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-11T03:01:10.000Z",
+      "whyItMattersKo": "중계 정보를 미리 확인해야 파우메이라스 경기를 놓치지 않고 볼 수 있습니다.",
+      "fanTakeKo": "중계 채널 바로 찾아봐야지!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkVTVFlhbkZkNlowdXVmc3J0ejFIRzhzc3pBT2xnUFp3ejVUZE4wYWNLUFV",
+      "title": "Abel Ferreira tentou mascarar futebol ruim do Palmeiras? - band.com.br",
+      "summaryKo": "아벨 페헤이라, 파우메이라스 부진 덮었나?",
+      "excerpt": "Abel Ferreira tentou mascarar futebol ruim do Palmeiras?&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkVTVFlhbkZkNlowdXVmc3J0ejFIRzhzc3pBT2xnUFp3ejVUZE4wYWNLUFVQTzB3eGRmOW5MYTRvcGZNSmV5RmJYYkZIaTlBNnBYeFZnZnZoSVJBLTRZc0VLd1JINWYzZHB1TktFaXQyZHY2UDRqYmVOXzcyWHhhZkliUmdONnBuM0YxN3NHX1pGa2dzRzJHT3ZTajlLaFpScEpDNndqdTNaaHN2RUZRdG5sWTZaVUFIUXJWcw?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-11T02:52:18.000Z",
+      "whyItMattersKo": "최근 경기력에 대한 우려가 커지는 가운데 감독의 해명이 주목받고 있습니다.",
+      "fanTakeKo": "빨리 예전 모습 돌아왔으면!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUl",
       "title": "Ao vivo: Palmeiras x Cerro Porteño | 8ª de final | Taça Conmebol Libertadores - ge",
@@ -11,7 +43,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUlvY21ETzR4eE5jSnoxTldjV3NXMG01ZHdIQXYxWGdZb0NZVlNaZ1BfYUktMHZUUTRSWU9ocXBqN0s3bzZmNHFrVzlQa2VQYndiZmE1YU13REI3VUV4a3ZkQ0xuSEI0dw?oc=5",
       "source": "ge",
       "language": "pt",
-      "publishedAt": "2026-08-11T01:28:22.000Z",
+      "publishedAt": "2026-08-11T02:35:50.000Z",
       "whyItMattersKo": "리베르타도레스 16강 진출을 가리는 중요한 경기 일정을 확인하세요.",
       "fanTakeKo": "오늘 경기 꼭 보러 가야지!",
       "tags": [
@@ -27,7 +59,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1c0dEdHNzBMMUd4UzVkQlppMFluaUp1anZBQllrOVFOLVZqQ1NpNDZqTmUwYVBMZ3pnSkwzYWtYb001cFFER1FGUk9VSjRQUEZwVlJ0aGlDZkVMR19RRzRHeEpyMFBUd291eGJ4QnJNU2NKTnJQWF9NNkhrM3FEcnVCalJ2cjV1VDlXUjBRWnBQcVdfd0lJ?oc=5",
       "source": "LANCE!",
       "language": "pt",
-      "publishedAt": "2026-08-11T01:19:28.000Z",
+      "publishedAt": "2026-08-11T02:21:44.000Z",
       "tags": [
         "뉴스",
         "자동번역"
@@ -900,38 +932,6 @@
       "publishedAt": "2026-08-10T16:40:00.000Z",
       "whyItMattersKo": "거액의 벌금과 핵심 선수의 사태는 팀의 재정과 전력 운용에 큰 부담이 됩니다.",
       "fanTakeKo": "벌금은 좀 줄여줬으면 좋겠네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMirwJBVV95cUxNcmJaclpBcHRkVmx2Ulp0RG9wR0pVcjlvMDBzMENQa1FSRjlEMV9EaTR1WU1",
-      "title": "Palmeiras pode faturar milhões, revelação gera interesse e declaração sobre Flaco López: as últimas notícias do Verdão - Terra",
-      "summaryKo": "파우메이라스, 유망주 관심과 플라코 로페스",
-      "excerpt": "Palmeiras pode faturar milhões, revelação gera interesse e declaração sobre Flaco López: as últimas notícias do Verdão&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNcmJaclpBcHRkVmx2Ulp0RG9wR0pVcjlvMDBzMENQa1FSRjlEMV9EaTR1WU1SVWNibWtvM3NMVi1xZWFYSDFpRURIRUl3SVZ2eHZxUGhXNjV1VjhfYnE0RFd6S0d6bWxTUXhlUFdpT3E5Yzc2SlZ3eTJ1VHJnckNSRlZlNGc5dndEWmQxMXRWVDBXbFpBUmJOSlFUSWFnaHhfVmFTd3pfLU5TUXpOek9CcTNrXzVEX194LXBQNWt0d1lHbDkwNS1lUVdRTExoUVlXbU5pekVpdE5lY0lrWmFUNjZLWC1LMEpYdjdGXzRpSlVIblp5QjhBS3NOR0xxNGl4eEdCT2NqSi11RVRvMHR5aXdpVS1GaDhuZ21GN2pHdVgwQnZjTDhFNmR3R3U1cDg?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-10T16:29:00.000Z",
-      "whyItMattersKo": "유망주 이적설은 미래 수익을, 선수 발언은 팀 내 분위기에 영향을 줍니다.",
-      "fanTakeKo": "유망주 팔아서 팀 보강하길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMirAJBVV95cUxPR3FSYm54VDFZbWxBVXZRSDVlUDBSb2NWRUdHTjFkbHlXbGhxRDRhME02V3V",
-      "title": "1 bilhão em jogadores, polêmicas de arbitragem e declaração de Andreas Pereira: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "파우메이라스, 10억 스쿼드와 판정 논란",
-      "excerpt": "1 bilhão em jogadores, polêmicas de arbitragem e declaração de Andreas Pereira: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPR3FSYm54VDFZbWxBVXZRSDVlUDBSb2NWRUdHTjFkbHlXbGhxRDRhME02V3VqOU1EdUgxT2JkOUlWRzRTTThpRHhDYkN1RzVOOG42SHRpUVFuVFF4UUw4czdPb0k4RFFXUC13M0VWUDBLRENvU0JRREhTTlk0ZmViVTBUMUtvb3RWRHZrbER6cDFfNGF5TVZ5RjdvcXpMZEY0SXdGLWFZSnpqemlHYnQ0c05XSmV2cUgwa1BwN0R3YlUwYVFCa2VNcmRqUkg5RDNuQUFNREY5NUV5bE9ZZ2FKV0lFSVctNC0wTFlJM3VqdERobXhHbndQTlgyb2lUZ2xzLUczZkdyckE5TGVpdWZzY1Z6UjNzeXFmT0xKTUdXTEVTV2Y0aGtnVTdLYXDSAawCQVVfeXFMT0dxUmJueFQxWW1sQVV2UUg1ZVAwUm9jVkVHR04xZGx5V2xocUQ0YTBNNld1ajlNRHVIMU9iZDlJVkc0U004aUR4Q2JDdUc1TjhuNkh0aVFRblRReFFMOHM3T29JOERRV1AtdzNFVlAwS0RDb1NCUURIU05ZNGZlYlUwVDFLb290VkR2a2xEenAxXzRheU1WeUY3b3F6TGRGNEl3Ri1hWUp6anppR2J0NHNOV0pldnFIMGtQcDdEd2JVMGFRQmtlTXJkalJIOUQzbkFBTURGOTVFeWxPWWdhSldJRUlXLTQtMExZSTN1anREaG14R253UE5YMm9pVGdscy1HM2ZHcnJBOUxlaXVmc2NWelIzc3lxZk9MSk1HV0xFU1dmNGhrZ1U3S2Fw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-10T16:17:32.000Z",
-      "whyItMattersKo": "막대한 투자에도 불구하고 판정 논란은 선수들의 사기와 성적에 악영향을 줍니다.",
-      "fanTakeKo": "판정 때문에 마음고생이 심하네요.",
       "tags": [
         "뉴스",
         "AI요약"
