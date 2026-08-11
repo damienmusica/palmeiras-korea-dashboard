@@ -1,8 +1,136 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-11T12:09:50.554Z",
+  "fetchedAt": "2026-08-11T13:54:12.331Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ2NMekVEeVhqaGZ1bTZLQ1ZRMmlwMTdkdUhtbndTcXljNE00MUE5dGcyRjR",
+      "title": "Arias, do Palmeiras, envia aviões com mantimentos para ajudar vítimas de terremoto na Colômbia - ge",
+      "summaryKo": "아리아스, 고향 콜롬비아에 구호품 보냈다",
+      "excerpt": "Arias, do Palmeiras, envia aviões com mantimentos para ajudar vítimas de terremoto na Colômbia&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ2NMekVEeVhqaGZ1bTZLQ1ZRMmlwMTdkdUhtbndTcXljNE00MUE5dGcyRjRLeVRwNzNISS1EZU9CZXoyR0NveUZNMzl3c0JJT0VzdnNPZ2hiTE10bmRaV2NsMjVVSTAzekVqLUhvT0hEcWxJZXdhcXpyczI1RHEzMERtaG5mRmMwWjhJV1A0S0FDSXpCcHRxOG0tRnNsbkpuZ2QydVZnZVRYbDlpZjN0X0xsOGYwUW1yN0VyVHhfMTFJTlJyMVpUSEI4WGtnT0ZFdlM2RDlrX3FYWUpNYmNpNUFMV1FCYW1FaWpkamhGY2trNUZQ0gGDAkFVX3lxTE5YTndLYjZ3LTdQTkthOXhhbUhoVzdKSGFiWGp2Y1pqdG9iMVQwaWtpb0tUQ2M2enVwbVBBZ2REaWJMcGVLeTdLenMzdlJucmZDVkh2akNDaGFlc3Y4WTNrNHh0bmFrdnV3bkZfbWN0RTYzTWdHOUI2OHlaQXJJRmNwd2k3Y1M4NXhwM0FLNFlkOWJmZUxOclNBZzBBeFRfQXV2RkFBdUJ0LVRKVTlmQkJ4allkMlF1QnVwMDJXV2lic1kzT3RuYllIR0FqN3ZiaVNNMmRLb3pRSUtMNFJ2cDVxWS02Z3FqdW41cDlOdjRJWjlQSGpUd2Q3QlNRNlM3MUU5M0U?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-11T13:38:20.000Z",
+      "whyItMattersKo": "선수의 인격적인 모습을 보여주며 팬들과 지역 사회에 긍정적인 이미지를 줍니다.",
+      "fanTakeKo": "멋진 행동, 아리아스 존경스럽네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUl",
+      "title": "Ao vivo: Palmeiras x Cerro Porteño | 8ª de final | Taça Conmebol Libertadores - ge",
+      "summaryKo": "[생중계] 파우메이라스, 리베르타도레스 16강전 맞대결",
+      "excerpt": "Ao vivo: Palmeiras x Cerro Porteño | 8ª de final | Taça Conmebol Libertadores&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUlvY21ETzR4eE5jSnoxTldjV3NXMG01ZHdIQXYxWGdZb0NZVlNaZ1BfYUktMHZUUTRSWU9ocXBqN0s3bzZmNHFrVzlQa2VQYndiZmE1YU13REI3VUV4a3ZkQ0xuSEI0dw?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-11T13:32:10.000Z",
+      "whyItMattersKo": "리베르타도레스 16강 진출을 가리는 중요한 경기 일정을 확인하세요.",
+      "fanTakeKo": "오늘 경기 꼭 보러 가야지!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjRRaXJvNFR5YWs4U2Nyam9NUmlFclJ3SGxKbm9vdmtaazRmd1Q3Yms3S25",
+      "title": "Abel demitido do Palmeiras? 'Não faz o menor sentido', diz Arnaldo - UOL",
+      "summaryKo": "아벨 감독 경질설? \"말도 안 돼\" 반박",
+      "excerpt": "Abel demitido do Palmeiras? 'Não faz o menor sentido', diz Arnaldo&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjRRaXJvNFR5YWs4U2Nyam9NUmlFclJ3SGxKbm9vdmtaazRmd1Q3Yms3S25QVFExUmlqZDdPQTlQb0VBRjJRenExSWcxd09FRkRRVXhzbzVuYVZKT1d2X2h1LXBOc05lRTJJbnYwN2JhelE3OHRSWmg5TmljWWRrSWdKUENxRnBsSklaREh1cGRsTHh1ZVY2TVQyd296QlJyVE9tYzlsMVVaazV6X1ZqWkRTR3BRMTkyMUY4bEdOcTFlWGx3RkZBWllxQl9sZmc?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-11T13:22:21.000Z",
+      "whyItMattersKo": "성적 부진으로 흔들리는 분위기 속에서 전문가가 감독 유임을 옹호하며 안정감을 줍니다.",
+      "fanTakeKo": "아벨 감독 믿고 지켜봐야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMivgFBVV95cUxNdVlVZUVWdTV6STlHTlB0OUNPdElZNmdaSG1SMlpPVDZCbS1sYVBmakVsRWN",
+      "title": "Napoli encaminha contratação de lateral após sondar Giay, do Palmeiras - lance.com.br",
+      "summaryKo": "나폴리, 파우메이라스 가이 영입 움직여",
+      "excerpt": "Napoli encaminha contratação de lateral após sondar Giay, do Palmeiras&nbsp;&nbsp;lance.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdVlVZUVWdTV6STlHTlB0OUNPdElZNmdaSG1SMlpPVDZCbS1sYVBmakVsRWNoa01hLW1wN3EybEg1bFA5SmRGRE14Q01HQ2U1dTNYeUhqYUZRckVOUm02OGMwazcxWVc1UnBhY2JKUURJakI3RUVKQTNXSHhwYWhpMC1UT3NBZ2dxclFOTFhIVUpadTBtUlBMSW9ydWtTWXdzaEdmRGRMdEMxSTdIOHZoZ0RDUU82WFVoLXkxYWFn?oc=5",
+      "source": "lance.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-11T13:19:28.000Z",
+      "whyItMattersKo": "유럽 명문의 관심은 선수의 가치를 높이며, 팀의 수비 라인 변화를 예고할 수 있습니다.",
+      "fanTakeKo": "가이 가면 아쉽지만 이적 성사를!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXk3Q1NXN0ZweUVSTnBnbXJ4R2lXbktZOTNQeHNKUXBFaGh5bjBqV1d2TFJ",
+      "title": "Organizada do Palmeiras pede saída de Abel Ferreira: 'A paciência acabou' - band.com.br",
+      "summaryKo": "파우메이라스 응원단, 아벨 감독 퇴진 요구",
+      "excerpt": "Organizada do Palmeiras pede saída de Abel Ferreira: 'A paciência acabou'&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXk3Q1NXN0ZweUVSTnBnbXJ4R2lXbktZOTNQeHNKUXBFaGh5bjBqV1d2TFJSZWlXSHBzd1N2TjlCQkRVV1Nhdk54ZGZkczZ0eVhoRmM4aElMbEZNaU1hSDRvZnJjOFRxSTVldkhUamhFamFES1FBYWVQVVYwcnRPTUdGZ1ZkMEN6TDllVW5zcmNMT2VDSVJnQkhqQUYwdWgtN1MxQmFXQVRxNFN0Mjdpc2JIajh2blBDRXhSdFp2eDctcjF4?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-11T12:46:49.000Z",
+      "whyItMattersKo": "팬들의 직접적인 퇴진 요구는 팀 분위기가 최악임을 보여주며 감독의 입지가 위태로워집니다.",
+      "fanTakeKo": "팬들이 이렇게까지 화나다니...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPellHenFMSXhxRW5lNXFFVVc5dzROazNFeWR6SXJVWV9XOXphYTdEM1NHZmN",
+      "title": "Abel pressionado no Palmeiras? Jornais de Portugal se surpreendem com 'contexto curioso' após organizada pedir demissão - ESPN Brasil",
+      "summaryKo": "아벨 감독 압박, 포르투갈 언론도 놀라",
+      "excerpt": "Abel pressionado no Palmeiras? Jornais de Portugal se surpreendem com 'contexto curioso' após organizada pedir demissão&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPellHenFMSXhxRW5lNXFFVVc5dzROazNFeWR6SXJVWV9XOXphYTdEM1NHZmNxTWh3VFFzdUJiQ1haN08yTjJfaGFxb2tIUkhkZHpRVmUyNEQ4Um1QZzBsMlpwd3Q1X0NrUDlGWHJoQ1Z6ZENuUFc5MnRnMkh3Y1lEYUt5cEFCZnRCMkNyZVlUbGRFdm56UXlvd2tpV0ZaeVJGUVdlUGlzVnNVX2pZWWlqYXZ6M3BUSDBYeEhqeG5JaFB4VDFIdFlWbHBSRGJMN0FvVVdFNFlXRTdpZ3RQc3g3R09iaTM3a2hVQ0NiRzdfR3N0U3c?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-11T12:24:00.000Z",
+      "whyItMattersKo": "포르투갈 현지에서도 감독 경질 압박 소식이 전해져 팀 분위기가 심상치 않음을 보여줍니다.",
+      "fanTakeKo": "이게 진짜일까, 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5gFBVV95cUxQczlGdG8tVW1jcXh2bExFTHNQZEEzcHpHMEpTSUVfZWduM3hJb3gzNFZxbnh",
+      "title": "Principal organizada do Palmeiras pede saída de Abel Ferreira: 'A paciência acabou' - UOL",
+      "summaryKo": "주력 응원단, 아벨 감독 퇴진 공식 요구",
+      "excerpt": "Principal organizada do Palmeiras pede saída de Abel Ferreira: 'A paciência acabou'&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQczlGdG8tVW1jcXh2bExFTHNQZEEzcHpHMEpTSUVfZWduM3hJb3gzNFZxbnhDY200VWdvX1kwbVduSXVLbWxfTHFsMENkcWY0aUdVSjc2TzR0eE9zYWw1Skw0bTN0WnZ5YmVLcnc0RFZVUGJUT0FYRUxrZnNpZ3hCb0FUejBJYjNsd3hIWE11aEM5U2hRN2REUi1ZM293U2dxc2puU3ppZnZCZ0RsNnZmbDdjRGZULTlVd1pIWHpVdkc5b1VjdldvZGpfcmo4TElyRnRFTDFWLU9WUm1ZNU5KMEJpbGh5Zw?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-11T12:23:00.000Z",
+      "whyItMattersKo": "가장 큰 응원단마저 반기를 들어 감독의 지위와 팀 내부 결속력에 큰 타격이 될 수 있습니다.",
+      "fanTakeKo": "응원단마저 등을 돌리다니...",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDV",
+      "title": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube - uol.com.br",
+      "summaryKo": "파우메이라스, 자금 확보 위해 선수 매각 검토",
+      "excerpt": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube&nbsp;&nbsp;uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDVpQjFaUkg3RFFtQjhoa3ZHQUcxWUJ1UlRaUzBsY280aXFPM1ZQUVNWSkxmYkN3TzZ4Z21BRzlwZTFxWlhQUGRIcTRDR0pial9hVmREeXdoYnhPMnpPRjRnSEplX00wSERTSjI0WTN0alp6bzh2VjBqclRBYTJubmV2US1TTHNaRHNrb2c1cE5mTmZjR2VZX1JBT25BMFp6ZGNjR25PemtxRFVEdHhxSm9BZGc?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-11T12:17:07.000Z",
+      "whyItMattersKo": "팀의 재정을 건전히 만들어 이적 시장에서 더 유연하게 움직이기 위함입니다.",
+      "fanTakeKo": "재정 타격이 아프네, 어쩔 수 없이 보내야 하나?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMinAFBVV95cUxPcE0zbmNvY2tzdTE3ODlpcE1VYi13X3djTFFsVktaUHBYdGNlZUpsNjZXdkh",
       "title": "Organizada do Palmeiras pede a saída de Abel Ferreira após empate contra o Internacional - Gazeta Esportiva",
@@ -52,6 +180,22 @@
       ]
     },
     {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXJtRlVaUnA2MnkyZWI0RGVlNURvWmY1SlFQeVFtcklaWnBZdGdHTjVmYV",
+      "title": "Após quase 6 anos de trabalho no Palmeiras, Abel Ferreira chega ao fim do ciclo de paciência com a torcida - Diario de Pernambuco",
+      "summaryKo": "아벨 감독, 6년 만에 팬들과 인내 끝",
+      "excerpt": "Após quase 6 anos de trabalho no Palmeiras, Abel Ferreira chega ao fim do ciclo de paciência com a torcida&nbsp;&nbsp;Diario de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXJtRlVaUnA2MnkyZWI0RGVlNURvWmY1SlFQeVFtcklaWnBZdGdHTjVmYV9VLWlQN0dlazJZei1Idm55eUVvRXZMbjVzbFZkYXhwckhvYlA2WG5ITWpoTTlKYU5MYVZ1LVV4aHlHV29DdHl5Z1Y5VjhrM2xVcTJNR0pBWVBfQmtSdDlkcl96QWMwQW1UdnUtT2w0a1VRdE0yLUpvNFN2aHR0YVNxb3JCYVZiZ2Y5b20tNDVocmRmc0VfMGJsNGFoanlmWGtFRnpNNUtTU3RfbVM3dzZCeUhKdXNKUQ?oc=5",
+      "source": "Diario de Pernambuco",
+      "language": "pt",
+      "publishedAt": "2026-08-11T11:32:55.000Z",
+      "whyItMattersKo": "오랜 기간 쌓은 신뢰가 최근 성적 부진으로 인해 바닥난 상황을 보여주는 중요한 시점입니다.",
+      "fanTakeKo": "그래도 6년이란 시간은 길다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-3-https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW9mZFJGZUZLRlIzUWdnQ1BTbENYblJxZENCU0p0Yi1BWnhVMHR3SzNpUFd",
       "title": "Organizada do Palmeiras volta a pedir saída de Abel: \"A paciência acabou\" - CNN Brasil",
       "summaryKo": "응원단 또 퇴진 요구, \"인내는 끝났다\"",
@@ -73,7 +217,7 @@
       "summaryKo": "파우메이라스 팬들, 아벨 감독 사임 재요구",
       "excerpt": "Organizada do Palmeiras volta a pedir demissão de Abel Ferreira&nbsp;&nbsp;iG Esportes",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ09EOVgzdGNuWDVYYzM4dUYtdlhTZ3g3ZG1CUGxDemMxWHVNem52SzUtNXNvS3FPOVk4LUNPb05BTDN0aUtSVHpmVlZ3WFkwZUtlOTA0RXZsOWdCQUszVjdBblZTZE9NVUJ5LS1wUENaQWN2RlNjWkIwRXhwMkJHZWc2SEpEWmFreHVKM1k5NFM2SHMxS2tpMEpZSEFndlBmRzVZMU5CeHotRTFLa084ZUotZ9IBuAFBVV95cUxON0sxY2w5SmJ3MUREUjItLS1jVFN3QUxxcS1PRG1LRHNYN2tIbEtyNkMxTUFxTlZOQjNTUERiQlV6Rk56S1VaTlh3d0ZrS200MTY3dTd4ZVNVeG1ZejQ5ZzlvS0daZGN0dzV1b21FdmJwM3MxS2hQamdQdW1zMWMzUExLQnBxZXZrVjEyQ0VWZEhVTjEyQTk1WGg5ajlnRVBVV3hCXzFCSkdQSWt3ckRCelJxemY1VFF2?oc=5",
-      "source": "iG Esportes",
+      "source": "esporte.ig.com.br",
       "language": "pt",
       "publishedAt": "2026-08-11T11:11:00.000Z",
       "whyItMattersKo": "팬들의 불만이 고조되어 팀 분위기와 감독의 지위에 위기를 가져올 수 있습니다.",
@@ -89,11 +233,27 @@
       "summaryKo": "구스타보 고메스, 세로 포르테뇨전 복귀할 듯",
       "excerpt": "Palmeiras: Gustavo Gómez pode voltar ao time contra o Cerro Porteño&nbsp;&nbsp;terra.com.br",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTkxMVlpYbVpySGM4TC16UjZfY3ZPbW9yMENkWG1iN2NMVXBIU3M4NmxHUElqN1YybEwwcFgweTY5VjBla216endXTm5qdUpnM0I1VVY3RWNmYXM0SXYyRXNaanZORzhfRnJ2WjRXR2RENDZmSXA5TWZNNFFCekt0bUJjTXhkeGJPRUxZUk5PMFpFUThWZGU0UTdHWndWTU1DZzlKZWZtblVPUUh1eGY4UXhZb1BGRHZYY3Ywb1g2RFlFbDQ1Nzc1TWc4eUYybjNjb01DbnBNWjhLT1RCQmdNRkJFS3RHNm4ySzlvUw?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "language": "pt",
       "publishedAt": "2026-08-11T11:11:00.000Z",
       "whyItMattersKo": "수비 핵심 선수의 복귀는 리베르타도레스 16강 진출에 중요한 변수가 될 것입니다.",
       "fanTakeKo": "주장 복귀하면 든든하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmhQdWZ1Sm13TXh0Nmc2enlWY1RsX29lNHFpSGttdS1VQ3l4ZUdFZU1lQ2",
+      "title": "Sorteio da Copa do Brasil: saiba horário, onde assistir e regras da definição das quartas de final - Estadão",
+      "summaryKo": "코파 두 브라질, 8강 대진 추첨 진행",
+      "excerpt": "Sorteio da Copa do Brasil: saiba horário, onde assistir e regras da definição das quartas de final&nbsp;&nbsp;Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmhQdWZ1Sm13TXh0Nmc2enlWY1RsX29lNHFpSGttdS1VQ3l4ZUdFZU1lQ2ZEaTdXZm1mYThpd2tJNUlESFlUTjZ4eXlHODcwb29Uci1uLW9DUTltSUlYVGlDRG5ldU4zeG05OXhJbjVrOExxNjN2VlNPOWVsdzd4QmpFakxTNXhGNzhxelIyMGZ5N3JLTWVNUDlYdFNYRnQ0cWhSZGt6TThkZEVTc3NBSUprSzdVT2ZYWGNpaDVobk1BNWNQUXRmY193SUtqNFV6YkpWMUNITVNUd9IB3wFBVV95cUxNVFZLZXZqOW83d3FMWS1KZ0VFNVFfTzgxMHJKeGZYeE9lVW5SQ0ZEUW5NN0FCU2loZk0tdHlpMVJ4TnNzT2N4NTEzMWJIRjZCWWEtTHNLYkZ4OUJ1ekVxRmlDMHR4NjBDblkwN3B4cUNRWEhOZzR2U0JVLWJwcEZibFpPUmN1RE05WXJRN3k5b3RpYnVQM1FVZkVpaGpsNjdMZmFXaHVOVVFTMUViTXdEYmh6R0NWV2sxcUxJdUJXbU93ZHBXT3ZmT1VOc0RlMzdLZUM2ZENaWU5xRmEzMGY0?oc=5",
+      "source": "Estadão",
+      "language": "pt",
+      "publishedAt": "2026-08-11T11:00:00.000Z",
+      "whyItMattersKo": "8강 상대가 누구인지에 따라 우승 행보를 위한 난이도와 전략이 달라질 수 있습니다.",
+      "fanTakeKo": "쉬운 상대가 나왔으면 좋겠어요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -105,7 +265,7 @@
       "summaryKo": "파우메이라스 여성부, 타우바테와 맞대결",
       "excerpt": "Taubaté e Palmeiras se enfrentam em São José pelo Paulistão Feminino&nbsp;&nbsp;PortalR3",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUhla21jN04xdnRIMVY3ZHV4Uk5xTEpyRHkwUzdUSVp5UzBGNVpHcXpIRWtHQWV1RThrbE5TREZxUWtMNHRFQzJ5QXVZN0VpeUxnRnFTdjQzUVhDSXdyYVFSeV81VFAtbUxVdmFtOXY4WThWaTJONEVNTUtZY3RLQWR0dUxxUHlYUlRyOTEtbE1lNGVhX0tKNWkxMVBrVTVZOWlIWW9zcWRyTjg?oc=5",
-      "source": "portalr3.com.br",
+      "source": "PortalR3",
       "language": "pt",
       "publishedAt": "2026-08-11T10:58:47.000Z",
       "whyItMattersKo": "파우메이라스 여성팀의 경기 일정을 확인하고 팀의 성적을 함께 응원할 수 있습니다.",
@@ -132,16 +292,16 @@
       ]
     },
     {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUl",
-      "title": "Ao vivo: Palmeiras x Cerro Porteño | 8ª de final | Taça Conmebol Libertadores - ge",
-      "summaryKo": "[생중계] 파우메이라스, 리베르타도레스 16강전 맞대결",
-      "excerpt": "Ao vivo: Palmeiras x Cerro Porteño | 8ª de final | Taça Conmebol Libertadores&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekRBRHBHUEtvNzhtMWNYR2xYVUhyZHdpRWdqdTkteHhHVjBLejR1WmdwRUlvY21ETzR4eE5jSnoxTldjV3NXMG01ZHdIQXYxWGdZb0NZVlNaZ1BfYUktMHZUUTRSWU9ocXBqN0s3bzZmNHFrVzlQa2VQYndiZmE1YU13REI3VUV4a3ZkQ0xuSEI0dw?oc=5",
-      "source": "ge",
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMkFFNzRSWmh2aVY1Z3lkanVsbmxqakFMVVQwU3k2VTJLMnZiVzFRWGtlbm",
+      "title": "Palmeiras domina duelo, mas busca revanche contra Cerro nesta Libertadores - terra.com.br",
+      "summaryKo": "파우메이라스, 세로 상대로 리베르타도레스 복수 도전",
+      "excerpt": "Palmeiras domina duelo, mas busca revanche contra Cerro nesta Libertadores&nbsp;&nbsp;terra.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMkFFNzRSWmh2aVY1Z3lkanVsbmxqakFMVVQwU3k2VTJLMnZiVzFRWGtlbmJuN3RmRGt5SDVoUjk2UGRnS25YZnYxWEJMcThfSi1sTHJad2ExWTZXTmRCcDk2Ti1RY3pqcGc2RTFVb1B1WlBLeHBkaDNoNnV2NjNtSDlIcUdEYjIteTlpVl9EWFc2OUlCbjZQS05fcmF5Zk53QXNLMVphMnNDY0lQOFZJZTF1UFYzeFlpcVA0ZUUtelNfbkFQa2tVUXlfWjF1bnBoZWRGSDI2TkljQ0R5NFo0WkZQLXQwNGw5S3dwY1NlYmIySjNjMVE?oc=5",
+      "source": "terra.com.br",
       "language": "pt",
-      "publishedAt": "2026-08-11T10:30:11.000Z",
-      "whyItMattersKo": "리베르타도레스 16강 진출을 가리는 중요한 경기 일정을 확인하세요.",
-      "fanTakeKo": "오늘 경기 꼭 보러 가야지!",
+      "publishedAt": "2026-08-11T10:35:00.000Z",
+      "whyItMattersKo": "앞선 패배를 만회하고 리베르타도레스 승점을 챙겨 대회 행보를 탄탄히 하기 위해서입니다.",
+      "fanTakeKo": "복수전, 무조건 승리만 바랍니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -185,7 +345,7 @@
       "summaryKo": "파우메이라스 출신 잭슨, 지금 어디서?",
       "excerpt": "Por onde anda Jackson, ex-meia de Palmeiras e Cruzeiro?&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanJKQ2FOYm9jZlhURWc4NjJxVnMwX2trQmFUWDlKaXNvbXQ5QVdMTXpKRnBOOGcyV1BuQmdoem1SMTRvdDQ5TnJ6ZHBJTmxLWGZ0TVBrVm13dFl6YmI5LTh1S2Q2ZHFCSVh3SlY1UDdhQVlGUjlBQ1hfaURPTk45MF91MU5GQ2l4?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-11T09:31:00.000Z",
       "whyItMattersKo": "과거 우리 팀 미드필더였던 잭슨의 현재 근황을 팬들이 궁금해하고 있습니다.",
@@ -228,16 +388,16 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDV",
-      "title": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube - uol.com.br",
-      "summaryKo": "파우메이라스, 자금 확보 위해 선수 매각 검토",
-      "excerpt": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube&nbsp;&nbsp;uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDVpQjFaUkg3RFFtQjhoa3ZHQUcxWUJ1UlRaUzBsY280aXFPM1ZQUVNWSkxmYkN3TzZ4Z21BRzlwZTFxWlhQUGRIcTRDR0pial9hVmREeXdoYnhPMnpPRjRnSEplX00wSERTSjI0WTN0alp6bzh2VjBqclRBYTJubmV2US1TTHNaRHNrb2c1cE5mTmZjR2VZX1JBT25BMFp6ZGNjR25PemtxRFVEdHhxSm9BZGc?oc=5",
-      "source": "UOL",
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcXN6TTIxV1RQcUxoclhCYURQcFp0bVpFR1l3RzNNQndxVi1lSmVTdVZTX2",
+      "title": "Futebol ao vivo Palmeiras | canal, TV e cobertura do confronto em tempo real ◆ – Apps no Google Play - esporte.ce.gov.br",
+      "summaryKo": "파우메이라스 경기, 실시간 중계 방송 안내",
+      "excerpt": "Futebol ao vivo Palmeiras | canal, TV e cobertura do confronto em tempo real ◆ – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcXN6TTIxV1RQcUxoclhCYURQcFp0bVpFR1l3RzNNQndxVi1lSmVTdVZTX2NVZzFCRlpMYS15OVE3LVBXLW55bWk4Nnd2RjZfSHhTQnFwY2NyTEEzZXVLcjQyeTFhSlZFZk1nei1mRmcwSnVIYnl1Ni1pVnVCUnIzcm9NSnNBQjJMZ3BXMVJvTWtCaG81dG1JTGJ6NlBxX2loaGdYampNeE1aM3JTSXZMTXpkaXF1b2Y1VUtEUUJyWDlsNlBBOUN1NElHUzZyWW9kVjVORHcyR0xRQmtuZWRXQVB6Z3YyQTh2RmhPNlRvQnJVcGJTTFAwQUNmZw?oc=5",
+      "source": "esporte.ce.gov.br",
       "language": "pt",
-      "publishedAt": "2026-08-11T08:41:04.000Z",
-      "whyItMattersKo": "팀의 재정을 건전히 만들어 이적 시장에서 더 유연하게 움직이기 위함입니다.",
-      "fanTakeKo": "재정 타격이 아프네, 어쩔 수 없이 보내야 하나?",
+      "publishedAt": "2026-08-11T08:51:10.000Z",
+      "whyItMattersKo": "경기를 놓치지 않고 실시간으로 팀의 플레이를 확인하며 응원할 수 있기 때문입니다.",
+      "fanTakeKo": "중계 켜고 바로 응원하러 간다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -265,7 +425,7 @@
       "summaryKo": "리베르타도레스 앞두고 수비형 미드필더 난관",
       "excerpt": "DM vira dor de cabeça para o Palmeiras antes da Libertadores&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUJUUnNDai1uY3A4R180VWUyNmpMbjZUUWlmRVRvcHhoVUx5THc2QVA2LUNQTndOZHgwNzlfaVZGbDhKZFFmM3NEbU5FNmNEcG02VXNYYlk0SHAwRENZSFJWczRWZ25CbTNLVjVxdTBJSWdCVXRJVnVOdGxIMUdIb2tnS2FjTUo3bVk2cThOTl9IWm0xUTBuQ3BHaVNaajFTVjNmMF9laG5MeUdrUDJtRjdCWHNudw?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-11T08:10:00.000Z",
       "whyItMattersKo": "중원을 장악하는 핵심 자리의 문제는 리베르타도레스 대회 성패를 가를 수 있습니다.",
@@ -796,158 +956,6 @@
       "publishedAt": "2026-08-10T23:17:00.000Z",
       "whyItMattersKo": "유명 평론가의 강력 비판은 감독의 전략이 큰 논란이 되고 있음을 보여줍니다.",
       "fanTakeKo": "지뉴 형님, 왜 그렇게 화나셨나요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2pxbi01QndTTm5LLU40MjNmRWhaUnV1VnZZMFVjV3VIaWJlbkdCU08zVnp",
-      "title": "Palmeiras x Ituano: veja informações e onde assistir ao jogo pelo Paulista sub-20 - Gazeta Esportiva",
-      "summaryKo": "파우메이라스 U-20, 이투아노전 시청 정보",
-      "excerpt": "Palmeiras x Ituano: veja informações e onde assistir ao jogo pelo Paulista sub-20&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2pxbi01QndTTm5LLU40MjNmRWhaUnV1VnZZMFVjV3VIaWJlbkdCU08zVnpUcmFNNlMxS3MyUFE4YjJueEpnMGJ2dHJNNEtTenlXWEwtd085S2NrdF90MGY2Y0NIMDF5YnByMkdERzU2RnZEczRXWkhTSEhUNVRReTJUTHg3TTFvalR0aTRjc0pWbWxTSUVzRUctWjAyUkNzOU9TUlNFd1RJalhUSFdIUy05eENlMnQ2REdVV3d3TDBBcFMxckk4UNIBzgFBVV95cUxOWUQ1d0IxNkpPZlhnRTR3WktXM0lhdW12LVdEaGtaOUM4b2F3TFNSU0dXaHpGRUR4QWZFNFJyS3UwTVVjTWwxanpYckw4ZEJsT3lXUFRXYWNUM2swa183bmU4Qm1ZY1dUNTRwTjhSQjhPWWJJRGpua01wSUlRYVJVTjVMenZ4cUo5eUdMY05JN1pLY0NfWm42Nl8tVXNYaTdQaVFCVGowd3pZV2JNTXZXbWFBZWhVT2ItYUdleDJqSHVCTG5kdWVXdzhqOUltdw?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-10T23:10:00.000Z",
-      "whyItMattersKo": "미래의 주전들이 뛰는 유소년팀 경기 일정을 확인하고 응원할 수 있습니다.",
-      "fanTakeKo": "미래의 에이스들을 기대해 봅니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEdtNW9yWkd6MTNaMzhSVXdkdU9UUmVXY0tSRHhTNTJKVXB5V2JGcnBVY1J",
-      "title": "Palmeiras x Cerro Porteño: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores - ESPN Brasil",
-      "summaryKo": "리베르타도레스, 세로 포르테뇨전 시청 정보",
-      "excerpt": "Palmeiras x Cerro Porteño: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEdtNW9yWkd6MTNaMzhSVXdkdU9UUmVXY0tSRHhTNTJKVXB5V2JGcnBVY1JFdHRjS25Vak1kbkpvNWxqQnJUNHB0RXh1Y2NobDdwaFluVDF5SlNiTXJYRlFWVk9RLTUzN0RvNEJCMEVYbHdZSEx1YkhFOEd1UlUzeWcwNldaRmxSTlgyWEdBYzVjVjdkTmVZMGtnNEFKRTBpaEJjOElzZWptV2dPbmp3ZVFMNUdkWW5oUGxUN2NYMWJScmQtYjc4WjBxVjd3eUdsWnpCUnYwUjJ1eW5OTk5waGNSWnZSNGEyRkktUnlkREFOWklPNVRKTlJBWnI?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:55:00.000Z",
-      "whyItMattersKo": "리베르타도레스 조별리그 일정과 예상 라인업을 미리 파악해 응원 준비를 합니다.",
-      "fanTakeKo": "리베르타도레스 승리 기원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjF1OHNhSWVnWlF2N2hWWDlkTWZIWnVZLVVPMDhLZ2J3Nm5pMWNIV0wtb3d",
-      "title": "Mauro Cezar critica atuação do Palmeiras: 'Não joga nada' - LANCE!",
-      "summaryKo": "파우메이라스 경기력, 평론가 '혹평'",
-      "excerpt": "Mauro Cezar critica atuação do Palmeiras: 'Não joga nada'&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjF1OHNhSWVnWlF2N2hWWDlkTWZIWnVZLVVPMDhLZ2J3Nm5pMWNIV0wtb3dTVl9rYjExQXlLOFNxa0lIUUhYU053YVZyN2JFOGs1VDk4bHdudGROMEQzaHZtNDB0U2xEM2Q2SEhFdDJhRzU2R1B5N2lrT0YzYUxRdGJGa1QwWW9oSmVKQW1RZHVVSlhRNGdZcEtRN0RYLTQ?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:45:17.000Z",
-      "whyItMattersKo": "저명 평론가의 비판은 현재 팀 경기력과 분위기에 대한 우려를 나타냅니다.",
-      "fanTakeKo": "경기력이 너무 아쉽네요, 빨리 나아져야 해요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3pRa3hFU1Y3b0cwOWI2ejFoazkxZHFIeTVKaUx4Mzk0cGk3eS1fSW1iMzh",
-      "title": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição - OneFootball",
-      "summaryKo": "파우메이라스, 리베르타도레스 초점 맞춰 수비 조정",
-      "excerpt": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3pRa3hFU1Y3b0cwOWI2ejFoazkxZHFIeTVKaUx4Mzk0cGk3eS1fSW1iMzhqb3k5ckpnSElCS2NvUkp2QmZ1dzlRaVpDN05ldmdlVTVSY3NDQ21XTk9Kb1RuaU9XUWFERXliZkFscUMtY2lndUFoMEZMSlpURmM0QTE2UnJwVFBfOXJVcGgxdnNVQjAzU0hHem5kRFBTR0k5RS12dGF2T0EzQ3lPUDVQWjdmcw?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:38:10.000Z",
-      "whyItMattersKo": "리베르타도레스에 집중하기 위해 수비진을 조정하며 대회 준비를 다집니다.",
-      "fanTakeKo": "리베르타도레스 승리만 기대합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnJkZFZpOTV4R2plTWZiTzVNWTE3OUVlUG4zb1ZucHdWWVJzczVlYjFlRDd",
-      "title": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição - OneFootball",
-      "summaryKo": "야자수가 리베르타도레스의 열쇠를 돌리다; 수비수 전환 - OneFootball",
-      "excerpt": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição&nbsp;&nbsp;OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnJkZFZpOTV4R2plTWZiTzVNWTE3OUVlUG4zb1ZucHdWWVJzczVlYjFlRDd1Q05qajU2WFpyelBmdm1KcUFmekYzelV5Nk4ta0RrcFZfTndHOHktdkp0VkV1d1VDTmtucXlEdFdkVlEtc29EVzA5a0t5NGNnT3M1VGxJcVRudUI1NHEtZXdBbktuWXZsQ1dDa3dicWItSmhpN1UwdjZHTHhMaGdBR3hwYVlhOA?oc=5",
-      "source": "OneFootball",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:30:07.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2Rsc3VuMWVyajQ4dTg3S1czUFhUOTE4N0dFcFBOLWRja1BOZVBSRUx5VUh",
-      "title": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição - Gazeta Esportiva",
-      "summaryKo": "파우메이라스는 리베르타도레스의 열쇠가 되고, 수비수는 전환을 이룹니다 - Gazeta Esportiva",
-      "excerpt": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2Rsc3VuMWVyajQ4dTg3S1czUFhUOTE4N0dFcFBOLWRja1BOZVBSRUx5VUhKa25DdkNPUEtqWklZd2dWYUNyN3ZhdGRibzRLZUNtUGlGeDlCdW9CSE9BYTBTUV90Rjd5UEhxWVU4Ry1Cc2Zlc3NrT1NweDdPcXJyMVRGRFJvSXlqaG5aY0VXajZ3enVMM2RQUW1GVUdEOEp1WF9mT3ZuU1Vyd3pNdTIwMFpRakZJa3UzZjh30gHAAUFVX3lxTE95MVVsNzhBOXhTdnBtNUhDSndiWnBOTFBfQzdKUmZXejdHd2xLTE13WTZVc1VMSjIxMDZ1UWc5R0pZVXVGWDNtM1hoVFNQZFA1eWFhQ3JCcmJvM0VfamdpOXoxZEdITlhJeUZoYnlVWFNUMmdTNjJLRGx1cFhrcE9SQTlDRUZ0Vmg0R2dlejVpVEpRWHJNLWF2VkhpMDZrbUZ2dWVna01NUmoxdlB0UTI3RG5XcGh6QzVweGt3MlA0Mg?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:30:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnUyaHI0d2ZWbm1mX0Y1OWxPS2hFRnoycHBOd3U1Q3BWNmlLRDFoY3EtSS1",
-      "title": "Globo tem queda de audiência com 0 a 0 em Palmeiras x Inter em SP e Bahia x Vasco no Rio - Máquina do Esporte",
-      "summaryKo": "Globo는 Palmeiras x Inter in SP와 Bahia x Vasco in Rio - Máquina do Esporte에서 0대 0의 시청률을 기록했습니다.",
-      "excerpt": "Globo tem queda de audiência com 0 a 0 em Palmeiras x Inter em SP e Bahia x Vasco no Rio&nbsp;&nbsp;Máquina do Esporte",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnUyaHI0d2ZWbm1mX0Y1OWxPS2hFRnoycHBOd3U1Q3BWNmlLRDFoY3EtSS16dlpjZUlhalhoNTY3RWlmWUFlTXlvQkc0Z0ZOc2FfZ0FaMUE5SUxzYU9Edm1ybHNVWlV4WDlzTUhkRWFrWjVIVGxtUUZMbklubDZGcnM1RHRMdlRISGhZanlPdUl1WVE4U0FZX3pVVDNYRmlWcjdMdWdVbWlNMkpoaTZmZ3pJekdJdE5YQ2VRd3VVRlJIT1ZUMVE?oc=5",
-      "source": "Máquina do Esporte",
-      "language": "pt",
-      "publishedAt": "2026-08-10T22:02:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZU82LUlfN0dpbXJRaEx4S25wQTdPMGxNWFM3THBlUjNNUFVuN3pGdVgycVI",
-      "title": "Revanche do Verdão? Bruno Vicari responde o que esperar do Palmeiras contra o Cerro Porteño - ESPN Brasil",
-      "summaryKo": "Remanche do Verdão? Bruno Vicari가 Cerro Porteño를 상대로 Palmeiras에게 기대하는 바에 대한 답변 - ESPN Brasil",
-      "excerpt": "Revanche do Verdão? Bruno Vicari responde o que esperar do Palmeiras contra o Cerro Porteño&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZU82LUlfN0dpbXJRaEx4S25wQTdPMGxNWFM3THBlUjNNUFVuN3pGdVgycVI4MDh1dk5jY2RvZElFSEhXN1lJcHFkd08wSUR4bmxpeXdabkJQYmpKRnc?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-10T21:59:38.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmZVbjBKYl9BZGgyaFBWUGJES2JzOXVLc2Z5N25jX1B1RGRVU0JkdkhmWV",
-      "title": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição - R7 Esportes",
-      "summaryKo": "파우메이라스, 리베르타도레스 맞춰 수비진 재정비",
-      "excerpt": "Palmeiras vira a chave para a Libertadores; zagueiros fazem transição&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmZVbjBKYl9BZGgyaFBWUGJES2JzOXVLc2Z5N25jX1B1RGRVU0JkdkhmWVlZamZ6NngzUmNzZldseTFvN2R6M19nQnhJd0dDYWdSMFg1Q0RwZzlLLVhHVFF3R1g0SXhBQno2WEVuQU1kSXRMZ2N5NjE5MHRTN3dSWTAtdGhuRWd5bWVZQmRQbmd5dFJvSWNFbU0tYXVsU2NQVDdhd1JPdUViTW1UMTc0?oc=5",
-      "source": "esportes.r7.com",
-      "language": "pt",
-      "publishedAt": "2026-08-10T21:59:09.000Z",
-      "whyItMattersKo": "주요 대회를 앞두고 수비 라인의 변화를 시도하며 전력 점검을 실시합니다.",
-      "fanTakeKo": "수비가 단단해져야 우승하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMilAFBVV95cUxPakM0SDBacnRxenpyb3FjMmdPUzVGTU1hRHYzSjh0V0JlOVFlanNQVFI2aXJ",
-      "title": "Palmeiras x Cerro Porteño: escalações, análise e tudo sobre o jogo da Libertadores - 365Scores",
-      "summaryKo": "파우메이라스, 리베르타도레스전 라인업과 분석",
-      "excerpt": "Palmeiras x Cerro Porteño: escalações, análise e tudo sobre o jogo da Libertadores&nbsp;&nbsp;365Scores",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakM0SDBacnRxenpyb3FjMmdPUzVGTU1hRHYzSjh0V0JlOVFlanNQVFI2aXJUQmI5a0FoVVFudlB5Zk83N3Bzc3V4VENaMHFjaUxtVVpMWDZCOHNfQTNCRm45RW9SNkNkSFlPS18taTR4UUxSZWJDNE1pdG4xUHJUaExYV0R5VUd1ckZuSFhFQ2x0UTV5?oc=5",
-      "source": "365Scores",
-      "language": "pt",
-      "publishedAt": "2026-08-10T21:57:22.000Z",
-      "whyItMattersKo": "선발 명단과 전력 분석을 통해 오늘 경기의 흐름을 미리 파악할 수 있습니다.",
-      "fanTakeKo": "오늘 경기, 무조건 승리하길!",
       "tags": [
         "뉴스",
         "AI요약"
