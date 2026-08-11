@@ -1,8 +1,56 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-11T07:46:55.201Z",
+  "fetchedAt": "2026-08-11T08:57:45.716Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDV",
+      "title": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube - uol.com.br",
+      "summaryKo": "파우메이라스, 자금 확보 위해 선수 매각 검토",
+      "excerpt": "Palmeiras prepara vendas para aliviar caixa; veja quem pode deixar o clube&nbsp;&nbsp;uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhpTE1LdmxWbWVJTHpQWmxQUWxHMHphQ0JERUUtdDdvRF9BS1RSQ0E4UDVpQjFaUkg3RFFtQjhoa3ZHQUcxWUJ1UlRaUzBsY280aXFPM1ZQUVNWSkxmYkN3TzZ4Z21BRzlwZTFxWlhQUGRIcTRDR0pial9hVmREeXdoYnhPMnpPRjRnSEplX00wSERTSjI0WTN0alp6bzh2VjBqclRBYTJubmV2US1TTHNaRHNrb2c1cE5mTmZjR2VZX1JBT25BMFp6ZGNjR25PemtxRFVEdHhxSm9BZGc?oc=5",
+      "source": "uol.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-11T08:41:04.000Z",
+      "whyItMattersKo": "팀의 재정을 건전히 만들어 이적 시장에서 더 유연하게 움직이기 위함입니다.",
+      "fanTakeKo": "재정 타격이 아프네, 어쩔 수 없이 보내야 하나?",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wJBVV95cUxNeG03Zmx3SEV6QVZrRGtWNVVMZmlfeXNkZDZCR3M1TmFxODNWcl9GNDZOWkN",
+      "title": "Sociedade Esportiva Palmeiras x Mirassol Futebol Clube minuto a minuto | resumo dos lances, mudanças táticas e placar atualizado 📺 – Apps no Google Play - esporte.ce.gov.br",
+      "summaryKo": "파우메이라스 대 미라솔 경기 실시간 중계 안내",
+      "excerpt": "Sociedade Esportiva Palmeiras x Mirassol Futebol Clube minuto a minuto | resumo dos lances, mudanças táticas e placar atualizado 📺 – Apps no Google Play&nbsp;&nbsp;esporte.ce.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNeG03Zmx3SEV6QVZrRGtWNVVMZmlfeXNkZDZCR3M1TmFxODNWcl9GNDZOWkNKdGROTzltMEhJLUtvUmRuQ2ZmWEdmVV9JUkRKd1AyVTVvTmhoMW5BSDF3M25HVVZmQ0Y1YVk1cy1jWTYzeHVRWTUxRzA3dFc3aExaZTRPVVJUWmdvckhYYWNnamFZNWVnZzJiRWJXUVVkQW5IR1FyUng2UEZxTkJYMmdtTUczQnhPX3c1NmRJQ3BQTG1UQlBXRWxSNDkyV1JvUnUxU3h5SkY2VXlUcXhLOHR5RG9nbUt1cWd6R2xMUDRMVTFPcFhtVmkybkNuV1I3dzhsNTNXeTVsbGR2a3F0cUduRGJ5VUhoSU9zOHcwbnpobFJxT0hYa1V5S3NETjhTcUR5Tmd2dmtZaE51QXV4d2lmV2V3ZUEya3hhem5NNHBNaEtUeHdTeEpZYzdsZjF4RXc?oc=5",
+      "source": "esporte.ce.gov.br",
+      "language": "pt",
+      "publishedAt": "2026-08-11T08:10:24.000Z",
+      "whyItMattersKo": "경기 흐름과 전술 변화를 실시간으로 확인해 팀의 현재 기량을 파악할 수 있습니다.",
+      "fanTakeKo": "실시간으로 보니 긴장되네, 파우메이라스 파이팅!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUJUUnNDai1uY3A4R180VWUyNmpMbjZUUWlmRVRvcHhoVUx5THc2QVA2LUN",
+      "title": "DM vira dor de cabeça para o Palmeiras antes da Libertadores - LANCE!",
+      "summaryKo": "리베르타도레스 앞두고 수비형 미드필더 난관",
+      "excerpt": "DM vira dor de cabeça para o Palmeiras antes da Libertadores&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUJUUnNDai1uY3A4R180VWUyNmpMbjZUUWlmRVRvcHhoVUx5THc2QVA2LUNQTndOZHgwNzlfaVZGbDhKZFFmM3NEbU5FNmNEcG02VXNYYlk0SHAwRENZSFJWczRWZ25CbTNLVjVxdTBJSWdCVXRJVnVOdGxIMUdIb2tnS2FjTUo3bVk2cThOTl9IWm0xUTBuQ3BHaVNaajFTVjNmMF9laG5MeUdrUDJtRjdCWHNudw?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-11T08:10:00.000Z",
+      "whyItMattersKo": "중원을 장악하는 핵심 자리의 문제는 리베르타도레스 대회 성패를 가를 수 있습니다.",
+      "fanTakeKo": "중요한 시기에 이런 고생이라니, 빨리 해결되길",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiuAJBVV95cUxPTFlWczNUeEpwMzBSZXBsc2dXV3VMOTF1dHoyNG1rUzQ0LVUyclpuZHdZSGJ",
       "title": "「Futebol ao vivo Palmeiras」· horário, transmissão e opções para acompanhar a partida 🏆 – Apps no Google Play - esporte.ce.gov.br",
@@ -132,6 +180,22 @@
       ]
     },
     {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTDZXM1lrOUF5MnMyZHpsblllUUpvTHZacGVqLUkxTExQZ3RoenBOaHl6WD",
+      "title": "Notícias Ao Vivo do Brasil e do Mundo - CNN Brasil",
+      "summaryKo": "브라질 및 세계 주요 뉴스 실시간 속보",
+      "excerpt": "Notícias Ao Vivo do Brasil e do Mundo&nbsp;&nbsp;CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTDZXM1lrOUF5MnMyZHpsblllUUpvTHZacGVqLUkxTExQZ3RoenBOaHl6WDIzS29TR2hNeGpKTWFmR19QSzVsbHhSMjdFTzhpbTMzcmc5dUlpVUtkVnB6WjBIcnZyeFhxX1JVVVNMZzlqNFp5aGVtMmoyczdVSGgwUFltcTZsN1FOdVQ2THlIdUpzNUVFVmo3dmtjSFFHUWk4a1ZZUjlmVmJMSTVwT2ZvOTVwR0Y4NkxZOUFRV0VXUkdLVHRzZWlmY0FXTXZNWk9qTk5qZW4wYllLaC04OS1BbnhfNUhkUldjWDRibDMxWjdQczZWSVVkc0FyYw?oc=5",
+      "source": "CNN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-11T05:00:56.000Z",
+      "whyItMattersKo": "파우메이라스 관련 최신 소식이나 브라질 축구계의 큰 흐름을 파악하는 데 도움됩니다.",
+      "fanTakeKo": "우리 팀 관련 이슈는 없는지 살펴봐야겠네",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMioAJBVV95cUxOWGZEZzFJXzNjUVo0YnA2N1hlbWVUNy1ydGVWRkN1TnRBT1N4WWJ1QXNEc3Q",
       "title": "Futemax Palmeiras x São Paulo: partidas ao vivo, calendário e recursos para seguir o futebol ♥ – Apps no Google Play - esporte.ce.gov.br",
       "summaryKo": "파우메이라스 상파울루전 중계 앱",
@@ -222,6 +286,22 @@
       "publishedAt": "2026-08-11T02:46:00.000Z",
       "whyItMattersKo": "16강 경기 일정과 중계 채널을 확인해 우리 팀 경기를 놓치지 않을 수 있습니다.",
       "fanTakeKo": "경기 시간 꼭 확인해야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-18-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS2x5NmZDbFhvSlVDVUNtN283aDdyQm5raXZRX0ZESGpZR2VCUy14MFRkT0",
+      "title": "Palmeiras acerta contratação de jovem português para a base - Terra",
+      "summaryKo": "파우메이라스, 포르투갈 출신 유망주 영입 완료",
+      "excerpt": "Palmeiras acerta contratação de jovem português para a base&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS2x5NmZDbFhvSlVDVUNtN283aDdyQm5raXZRX0ZESGpZR2VCUy14MFRkT0JDY3VfTFdNcFJSNzVDeWFXbWdGQWhEblo5cnJwYVVqRy1aeHczRXVrS2NnWUVHcmltWnBLYlcteEFKOXFmaXVobzJjMG44REtEbjJXMGFObEdhSUhrdEFqSTA5M193cC1QaVZQVEx6d1FaUENZeDVqRURCcmNXQWthRjZJdmtFLUxXcWZVd2UtcTF6TFpZUWkyUWNjY2Jrb1dQSE9uVkY1eFJBc2g0TC15aUNQSldEdw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-11T02:41:00.000Z",
+      "whyItMattersKo": "유망주 영입은 팀의 미래 전력을 보강하고, 선수단의 깊이를 더하는 과정입니다.",
+      "fanTakeKo": "미래의 스타가 될지 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -866,86 +946,6 @@
       "publishedAt": "2026-08-10T18:25:24.000Z",
       "whyItMattersKo": "통계적으로도 우승 가능성이 가장 높다는 분석이 나와 팀의 자신감을 높여줍니다.",
       "fanTakeKo": "드디어 우승할 기운이 느껴져요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHJMNXczaVJXN0loUGxNN1dTc1NGYXlkb2NiUkJpNmwzamEtWXFwRUtHdUd",
-      "title": "Com reforço, Palmeiras se reapresenta e inicia preparação para oitavas da Libertadores - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 새 영입과 함께 리베르타도레스 준비",
-      "excerpt": "Com reforço, Palmeiras se reapresenta e inicia preparação para oitavas da Libertadores&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHJMNXczaVJXN0loUGxNN1dTc1NGYXlkb2NiUkJpNmwzamEtWXFwRUtHdUd5YUtwUW9iMWRZZjNlWlV0cVBSNy1oY1E2VV9zUnhZNzRadXZrUU1rcWhtMjJJTHllOGdOZTlhTDdLZ2Z3eU1jS05hMkxFaWdFeGZrVEo1b1VfUF9lX3Bzd0JHaUdJcXZOR2xsVkJyRHIzeHhZb1p4VjRQaURwWjBSWnV30gG0AUFVX3lxTE1yaGtXVjRRU19mUVJYYkJqSDFicng2ODFvcFFmMDBYNnctU1JZQUxOUFk1aFpLSnRiakMzYnNaSDE1MXdKVmc5dDI0cVJFZXpDM19IZDI4NVM1bk96cVpsblpYMENEUU5BQkxWaGVtUGJsRUtVRFB5RDhTaXM0ay1xdldmX1dEbDV4eU5oeEdQTHEtWE9HSmZUZjg3TzZNcG5VN0gxWDhxRUhHQTY3cmRpYmJ6cA?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-10T18:23:00.000Z",
-      "whyItMattersKo": "새로 영입된 선수가 합류해 전력 보강을 확인하고, 리베르타도레스 16강에 대비합니다.",
-      "fanTakeKo": "새 영입 선수 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-20-https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVNVemxKRlNkem1ZSjZ6N0ZxTWNRZE96Wl9DaDBPMEpoUFo2TXI5VUhDV1",
-      "title": "Gómez faz parte do treino com o elenco e pode reforçar o Palmeiras - tmc.com.br",
-      "summaryKo": "고메스, 팀 훈련 복귀… 파우메이라스 전력 보강",
-      "excerpt": "Gómez faz parte do treino com o elenco e pode reforçar o Palmeiras&nbsp;&nbsp;tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVNVemxKRlNkem1ZSjZ6N0ZxTWNRZE96Wl9DaDBPMEpoUFo2TXI5VUhDV1dGWTZ1ak1rbjlPMXVpSHBlektiWldtOF9VWUVhWmdtMHBfdk91VDg1SzYwZjcweHlkQlN6ZWUyeG1jeFk2TFVWamdnZERnSVktMFpGWkVuUFppZWI1WTFkTURRZGNVZ3N4SDI4bDdB?oc=5",
-      "source": "tmc.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-10T17:57:16.000Z",
-      "whyItMattersKo": "주전 선수의 복귀는 앞으로 중요한 일정에서 팀 전력과 옵션을 넓혀줍니다.",
-      "fanTakeKo": "고메스 복귀니 든든해졌다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzVqQXQzRU9tT29uTHhLVEFMYkpPNFRsNENRU2ZCLWFvUVl5M2ZvNk5hUjV",
-      "title": "Palmeiras treina para Libertadores e Gustavo Gómez inicia transição - Tribuna de Jundiaí",
-      "summaryKo": "구스타보 고메스, 리베르타도레스 대비 복귀 중",
-      "excerpt": "Palmeiras treina para Libertadores e Gustavo Gómez inicia transição&nbsp;&nbsp;Tribuna de Jundiaí",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzVqQXQzRU9tT29uTHhLVEFMYkpPNFRsNENRU2ZCLWFvUVl5M2ZvNk5hUjV0WGlLR3R1aURndmNpT2VoODRkbFFURzZoZDY1VFB1YzhmWUc5cVNMY3lEeUYyMFZNN3BsQjJQenQ2RDhBemhqSXB6ZUpLaldmWEhyS3c0Qm5lWFp5ay1VeHlxY3paaFlhQUNJVUhKcG9RQ0cxbDc4eXpOaDl3cXh3T1FGZnM2NHo?oc=5",
-      "source": "Tribuna de Jundiaí",
-      "language": "pt",
-      "publishedAt": "2026-08-10T17:51:42.000Z",
-      "whyItMattersKo": "주장의 컨디션 회복은 리베르타도레스 맞대결 수비력과 팀 전력 회복에 큰 영향을 줍니다.",
-      "fanTakeKo": "고메스 빨리 돌아와라!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMingFBVV95cUxNcTlIVFJBRGNscGNJaHhkQWxqQUp3TVNLVUMwRWwzYk0yN25TX3lEalFJUHN",
-      "title": "Brasileirão: Estudo aponta Palmeiras campeão e Santos rebaixado - Revista PLACAR",
-      "summaryKo": "분석 결과, 파우메이라스 우승·산투스 강등",
-      "excerpt": "Brasileirão: Estudo aponta Palmeiras campeão e Santos rebaixado&nbsp;&nbsp;Revista PLACAR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTlIVFJBRGNscGNJaHhkQWxqQUp3TVNLVUMwRWwzYk0yN25TX3lEalFJUHNmeGJxUmJtRDBMUFU5ZjRmYU13VmM5bU1UNXVpM0RxVXB6NktlLWthZWVUNXV4azBoMGluelpiczBkbDhMV09qYUpHV1o5WVI4TzNqQTJjeUR6Nlk2U21STVJMNDVISUF4a2ZBRXJKaDNpZw?oc=5",
-      "source": "Revista PLACAR",
-      "language": "pt",
-      "publishedAt": "2026-08-10T17:47:26.000Z",
-      "whyItMattersKo": "시뮬레이션 결과지만 우승 가능성을 점쳐보며 남은 리그 경기에 대한 기대감을 줍니다.",
-      "fanTakeKo": "예측이 현실이 되길!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSGZtVGpoVnVBSzA3Z2t4ckVTQ0IzS2hSUkNHLS1FTWhEM2EySlo1bG90V0V",
-      "title": "Jogam Libertadores? Lesionados do Palmeiras avançam em recuperações; veja casos - Rádio Itatiaia",
-      "summaryKo": "부상 복귀 진전, 리베르타도레스 출전할까",
-      "excerpt": "Jogam Libertadores? Lesionados do Palmeiras avançam em recuperações; veja casos&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSGZtVGpoVnVBSzA3Z2t4ckVTQ0IzS2hSUkNHLS1FTWhEM2EySlo1bG90V0VnczZOQTBTWWVSdG1PM3hVOHAxTGswODdkazJHNEUtWlNKaEhObUJ6Sm1GdUNCU2EtQThxUldoZnVIZXNodEJRVl9pMXEtcnVEUVJZVVdwM1dDbXpJdjVXdUFUNll4bi1adXlFNDZUd1ByX0Q0cDljVjNrVVlQakJWMU5xdjU3SmVQb1RZS21yUEd4dmxnYTJfeFNRZEJIRENSbHkzWE9LOUZmXzhPUWV2cUVGamZHaXplUGJqa01zeURyNFVvSDQwdEFlcjNZcw?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-10T17:45:45.000Z",
-      "whyItMattersKo": "주전들의 재활 속도에 따라 리베르타도레스 대회 명단과 전력에 변화가 생길 수 있습니다.",
-      "fanTakeKo": "부상자들 다들 쾌차해라",
       "tags": [
         "뉴스",
         "AI요약"
