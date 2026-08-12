@@ -1,7 +1,7 @@
 {
   "origin": "api",
   "source": "ESPN (현재 시즌)",
-  "fetchedAt": "2026-08-12T18:29:19.150Z",
+  "fetchedAt": "2026-08-12T19:41:23.687Z",
   "season": "2026",
   "campaigns": [
     {
@@ -120,6 +120,32 @@
         "kind": "cup"
       },
       "format": "knockout",
+      "currentRound": {
+        "roundKo": "8강",
+        "opponentId": "2674",
+        "opponentName": "Santos",
+        "opponentNameKo": "Santos",
+        "opponentCrest": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+        "legs": [
+          {
+            "kickoff": "2026-08-27T00:30Z",
+            "venue": "home",
+            "legKo": "1차전",
+            "status": "scheduled",
+            "trackedHome": true,
+            "matchId": "espn-401909065"
+          },
+          {
+            "kickoff": "2026-09-03T00:30Z",
+            "venue": "away",
+            "legKo": "2차전",
+            "status": "scheduled",
+            "trackedHome": false,
+            "matchId": "espn-401909110"
+          }
+        ],
+        "result": "ongoing"
+      },
       "path": [
         {
           "roundKo": "16강",
