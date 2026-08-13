@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-13T22:42:32.096Z",
+  "fetchedAt": "2026-08-13T23:41:47.699Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZvTEszMGhZYk1zclJMdllWdHpnWFdYZG5sMXVqaG56ckhwU0JVN3NxMnF",
+      "title": "Palmeiras x XV de Jaú pelo Paulista Sub-20: veja prováveis escalações e onde assistir - Gazeta Esportiva",
+      "summaryKo": "파우메이라스 U-20, XV de 자우전 라인업 공개",
+      "excerpt": "Palmeiras x XV de Jaú pelo Paulista Sub-20: veja prováveis escalações e onde assistir&nbsp;&nbsp;Gazeta Esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZvTEszMGhZYk1zclJMdllWdHpnWFdYZG5sMXVqaG56ckhwU0JVN3NxMnFGNllUdU8wNGhhU2ZqLWZBZUN5OWV1Z3NRSWswbEtHUkVUc21YUlRzUXNHTHB1Y0FJdkNIbHhTRDV2ZHFRV1RaRnVGeXo2Z1pOUE9qN1BVSmdtUnBlV0w3NWhSY1ltZUc1a0VuU1YtT29PdmVVMVHSAacBQVVfeXFMTXZDZnNlV2VCemhLUW9YaEkxRzdQNUlkZ0ZLSm5MZG5MNW5YLUZseHRkOUo4Z2FCbl9takhDU2FCbnpDbWlrcHFabDQ1U2F4c25wTzdOb0hPTjc2M3Y0dE1lSU4wNWhTN3V1b1BxVTI4cEtfdWdfTDdqYnctTkx5YUo4alZvajZ4M25PYWR6UGNKMUVUY21rZy1rbDZKYktrXzlVWHAyZ0U?oc=5",
+      "source": "Gazeta Esportiva",
+      "language": "pt",
+      "publishedAt": "2026-08-13T23:00:00.000Z",
+      "whyItMattersKo": "미래의 주역들을 점검할 수 있는 유소년 경기의 선발 명단과 중계 정보를 확인할 수 있습니다.",
+      "fanTakeKo": "미래의 에이스들을 기대해 봅니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTBMN05jOUNJNTBsQ05wV1dCeDNXOTAwTFRITkhGb0I5WDVxYjlUVGJjdUR",
+      "title": "Com salários elevados, Palmeiras e Flamengo amargam déficits no 1º semestre - Folha de S.Paulo",
+      "summaryKo": "파우메이라스, 플라멩구 상반기 재정 적자 기록",
+      "excerpt": "Com salários elevados, Palmeiras e Flamengo amargam déficits no 1º semestre&nbsp;&nbsp;Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTBMN05jOUNJNTBsQ05wV1dCeDNXOTAwTFRITkhGb0I5WDVxYjlUVGJjdURSemxwUXhBTkJjeHhCWXR6dlJNMG14WjkzcExWVXVtYnV4a29ncFdFTmxtR3hDQWxud2hMcUVLSVRhakNWNTBJVGFjTW9yUUs0VTRTSGF1VUpZbFVkRVhlUndqYmNwQm9DVW9JcXV3bEhPNUt4VjZUUkFqaldha21HcFZaOUwtbjdLMDBRVDlQOTAwemtJX1JU?oc=5",
+      "source": "Folha de S.Paulo",
+      "language": "pt",
+      "publishedAt": "2026-08-13T22:56:00.000Z",
+      "whyItMattersKo": "높은 연봉 부담으로 상반기 재정 적자를 기록해 클럽 경영에 빨간불이 켜졌습니다.",
+      "fanTakeKo": "재정 관리가 정말 시급하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR0xUMEFPT1BzWEozSHc4UFBzUXpvcy1md01RN1ZEZXJQb0ZUNTVFNktueVY",
+      "title": "Grêmio anuncia contratação de volante ex-Palmeiras e multicampeão pelo Botafogo - Rádio Itatiaia",
+      "summaryKo": "그레미우, 파우메이라스 출신 보타포구 다우전 영입 발표",
+      "excerpt": "Grêmio anuncia contratação de volante ex-Palmeiras e multicampeão pelo Botafogo&nbsp;&nbsp;Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR0xUMEFPT1BzWEozSHc4UFBzUXpvcy1md01RN1ZEZXJQb0ZUNTVFNktueVYwTWsxY3BrUHYzVVcybXoxSUlCMmtYRjRONFlHZmNpNFltUkNickt0LV9pZjdzU1JmZVNaLWxLeExUYXVrczc4M0pXYWw4Y3VfTnYzS2FkNndWSzVIdnBUYXdJR1hXTGhuc0Z4d05GVktzVUtZbDIyYTVkUVp3alFfRXBjZWE0OEJSdk9SNGs3LUxwbFdva2QyaFgtUnFCbmxBU2JTVkJlOG1ZenE4UWZWdDhDb1dVNFZ2Y0szdkxIRWRJTm9hMTVhYWU4?oc=5",
+      "source": "Rádio Itatiaia",
+      "language": "pt",
+      "publishedAt": "2026-08-13T22:45:01.000Z",
+      "whyItMattersKo": "보타포구 다우전을 거친 베테랑 미드필더 영입으로 그레미우 중원 강화에 나섰습니다.",
+      "fanTakeKo": "그레미우서의 활약을 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVZ6MEtiTklEaWlzTngzNVhmRVI3cE1SdFVYZWlRUkFWRDhMdzdPVEt6VFN",
+      "title": "VÍDEO: Abel Ferreira lamenta falta de eficácia do Palmeiras - Imirante.com",
+      "summaryKo": "아벨 페헤이라, 파우메이라스 결정력 부족 아쉬워",
+      "excerpt": "VÍDEO: Abel Ferreira lamenta falta de eficácia do Palmeiras&nbsp;&nbsp;Imirante.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVZ6MEtiTklEaWlzTngzNVhmRVI3cE1SdFVYZWlRUkFWRDhMdzdPVEt6VFNDSVN4NkQwTndud0JaSHJ3MlVKZEJhWW5kOUZlWTUyMy1nS1RhMXNTTllKWU9ycDhfS21KaC1SOTdHTzlIRFJfRXRVdUd3Y2poWmlKQ2lEbUtLNE1SZ0k5d3NXYjlINXUtOW1oZGxkR0N2VGQwOVd2dnJFOTfSAa4BQVVfeXFMT2hfc2p3MHB6aWc0RTNkQ1NibG1RZlZ6NlpweVF1LWNBVGJSQzlWTVQ0a2dxVi1mN0RuLUl0VVRVOERvY0VfVmdualVheTAwZlV3R0Uya1FkaElqMnVpalFmWHd3SVIycHN4bTBVNGdmeTZhY3pzT3AwVXVSV1RLTXJhdVBUenpVOW9SZUdESjhCcnJHOGgzeWE0aWNKR1h4S3dFOUZBOU5iMnY2WF9n?oc=5",
+      "source": "Imirante.com",
+      "language": "pt",
+      "publishedAt": "2026-08-13T22:45:00.000Z",
+      "whyItMattersKo": "공격 효율이 낮다는 점을 지적하며 팀의 득점력 개선이 시급하다고 언급했습니다.",
+      "fanTakeKo": "득점력이 좀 더 살아났으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMijgJBVV95cUxQcXFOakRyQ05LTzViQlBGV1FvLVRTMzNFaHB2WEdxcjlZNlo0dTQ4VlNjMnd",
+      "title": "Bicampeão da Libertadores e com passagens pela Europa; conheça o novo volante do Grêmio - GZH",
+      "summaryKo": "리베르타도레스 2회 우승, 유럽 경력의 그레미우 새 미드필더",
+      "excerpt": "Bicampeão da Libertadores e com passagens pela Europa; conheça o novo volante do Grêmio&nbsp;&nbsp;GZH",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcXFOakRyQ05LTzViQlBGV1FvLVRTMzNFaHB2WEdxcjlZNlo0dTQ4VlNjMndodno2eTN1QnM3dGFFVXpHbUVtVVQyT2tNLUJXaFh5N0ZFU0U0cEVzeTJpc2I5TVpuV2sxVEd0aENuVXItRWRqNDdiT0xUMUVzRnNhUGNQWExaWElkVnNkNTFKMnYxOWZQTXRLc2VoSVFrUFM5YVRIdTFZSDBPM01RYkpQXzVVRlVya1JoVmw2ZTJPMnI2akJERDZKUnAzck9sWHYteUpNd0NPUmgzQndVNHVPVlVTXzVHdU1iWWFaWjFVcHR3UWhRVTdKOUJMdjhMWGNjdzR1dk1oOGNIR3pOU3c?oc=5",
+      "source": "GZH",
+      "language": "pt",
+      "publishedAt": "2026-08-13T22:41:15.000Z",
+      "whyItMattersKo": "유럽 경력과 챔피언십 경력을 갖춘 선수 영입으로 그레미우 중원 전력이 크게 보강됐습니다.",
+      "fanTakeKo": "리베르타도레스 우승자라니, 그레미우 꽤나 대박 영입이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng",
       "title": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro - ge",
@@ -222,6 +302,22 @@
       "publishedAt": "2026-08-13T19:14:00.000Z",
       "whyItMattersKo": "주전 선수들의 부상 회복과 훈련 참가는 팀 전력 강화에 긍정적인 신호입니다.",
       "fanTakeKo": "전력 보강에 천만다행이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeXdYX3NSeTFmbzFzTHotQzZYMG1heGNoMlBrV0gtN2ZYM21jUVpYOXdtTWZ",
+      "title": "🗣 \"Não vou conseguir satisfazer essas expectativas\" Na entrevista coletiva que sucedeu o empate com o Cerro Porteño, na Libertadores, Abel Ferreira falou sobre os anos em que serviu o Palmeiras e garantiu que serve ao clube da melhor forma que conseg - instagram.com",
+      "summaryKo": "아벨 감독, 기대 충족 못 해도 \"최선 다한다\"",
+      "excerpt": "🗣 \"Não vou conseguir satisfazer essas expectativas\" Na entrevista coletiva que sucedeu o empate com o Cerro Porteño, na Libertadores, Abel Ferreira falou sobre os anos em que serviu o Palmeiras e garantiu que serve ao clube da melhor forma",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeXdYX3NSeTFmbzFzTHotQzZYMG1heGNoMlBrV0gtN2ZYM21jUVpYOXdtTWZES05EVEVWMlp4NDBxRzZXdlFUWFNNSXdiQm5xbDB2cVJB?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-13T19:07:14.000Z",
+      "whyItMattersKo": "시즌 중반 감독의 멘트는 흔들리는 팀 분위기와 팬들의 신뢰 회복에 중요합니다.",
+      "fanTakeKo": "아벨 감독 믿고 계속 응원합니다",
       "tags": [
         "뉴스",
         "AI요약"
@@ -772,22 +868,6 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeXdYX3NSeTFmbzFzTHotQzZYMG1heGNoMlBrV0gtN2ZYM21jUVpYOXdtTWZ",
-      "title": "🗣 \"Não vou conseguir satisfazer essas expectativas\" Na entrevista coletiva que sucedeu o empate com o Cerro Porteño, na Libertadores, Abel Ferreira falou sobre os anos em que serviu o Palmeiras e garantiu que serve ao clube da melhor forma que conseg - instagram.com",
-      "summaryKo": "아벨 감독, 기대 충족 못 해도 \"최선 다한다\"",
-      "excerpt": "🗣 \"Não vou conseguir satisfazer essas expectativas\" Na entrevista coletiva que sucedeu o empate com o Cerro Porteño, na Libertadores, Abel Ferreira falou sobre os anos em que serviu o Palmeiras e garantiu que serve ao clube da melhor forma",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeXdYX3NSeTFmbzFzTHotQzZYMG1heGNoMlBrV0gtN2ZYM21jUVpYOXdtTWZES05EVEVWMlp4NDBxRzZXdlFUWFNNSXdiQm5xbDB2cVJB?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-08-13T13:06:02.000Z",
-      "whyItMattersKo": "시즌 중반 감독의 멘트는 흔들리는 팀 분위기와 팬들의 신뢰 회복에 중요합니다.",
-      "fanTakeKo": "아벨 감독 믿고 계속 응원합니다",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUtTUXljTzRIN0NqVjFFQ2tNcHg1WU9odEpqaGRIUGJQRTNrVUh4aUk0NFR",
       "title": "Técnico do Cerro celebra empate: 'Jogar 4 vezes com Palmeiras é loucura' - UOL",
       "summaryKo": "상대 감독, 파우메이라스와 4번 맞대결에 \"미쳤다\"",
@@ -862,86 +942,6 @@
       "publishedAt": "2026-08-13T12:30:00.000Z",
       "whyItMattersKo": "홈 팬들의 기대를 저버린 결과라 팀 분위기와 원정 경기 전략이 중요해졌습니다.",
       "fanTakeKo": "홈에서는 왜 이러는 걸까요?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUJQN2ZuLUxTZEFvS19BTVF3RUM0Tl9jVXh6dVhrRWRSdDZuLTZ0eC0yVEl",
-      "title": "Flaco sai em defesa de Carlos Miguel após falha do goleiro em Palmeiras x Cerro Porteño - LANCE!",
-      "summaryKo": "플라코, 실수한 골키퍼 카를루스 미겔 호위",
-      "excerpt": "Flaco sai em defesa de Carlos Miguel após falha do goleiro em Palmeiras x Cerro Porteño&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUJQN2ZuLUxTZEFvS19BTVF3RUM0Tl9jVXh6dVhrRWRSdDZuLTZ0eC0yVEl1d014WUhiQkJ6UkJHQ1Z4cVBHaF9TYzluVmtZbE1LOVpna0tNbzhfci1RV1VJX25aTFRTOWtyV05ORVpPWXdXdnd4bU5yamVEZkhBYXk0YnZlV2JiWUVEV1UtOVM0MjUtdUVGX1VmMi1uMllTNmdyOFNFbVFkZVFzV0hhaWFIU3c4dXJRaW5TUFdYaUpDMGJwYmc?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:25:14.000Z",
-      "whyItMattersKo": "골키퍼의 실수 후 팀원들의 방어는 선수단의 결속력을 보여주는 아주 중요한 신호입니다.",
-      "fanTakeKo": "팀워크 살아있어서 다행이네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlR4a21uaWM1bUtERXdVVXJIWmZwQ0ZzbWV0Q2NfQ1RhNzMwN3hIY3dBX3",
-      "title": "Melhores momentos: Palmeiras 1 - 1 Cerro Porteño (CONMEBOL Libertadores) - R7 Esportes",
-      "summaryKo": "파우메이라스, 리베르타도레스 1대1 무승부",
-      "excerpt": "Melhores momentos: Palmeiras 1 - 1 Cerro Porteño (CONMEBOL Libertadores)&nbsp;&nbsp;R7 Esportes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlR4a21uaWM1bUtERXdVVXJIWmZwQ0ZzbWV0Q2NfQ1RhNzMwN3hIY3dBX3ZlMUtDQ2YwVXowQmxjTzBiZ3BFRTVhdHdrTkJiVTVJdkVQQUw0R0ZLSlZuV0d6dmpiZHQzeXhmQjNSUU00SVR1bDBaN192ZjFwQmxiWDk5bHplMUdMTGtxMlhFbFQycVpRNmVENGY0OGNRS0otUkd1a0NkQlJNSDdlSUE?oc=5",
-      "source": "R7 Esportes",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:23:24.000Z",
-      "whyItMattersKo": "최종 스코어를 통해 경기 결과를 명확히 확인하고 팀의 득점력을 파악할 수 있습니다.",
-      "fanTakeKo": "1대1이라니, 승점 하나는 아쉽네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0loS0duYVZDLWswTHY1akdxYWJ5V2xqdHZuSU96cTVzQVBrZWxBR2RSLU",
-      "title": "Abel Ferreira minimiza tropeços do Palmeiras em casa - Gazeta do Paraná",
-      "summaryKo": "아벨 감독, 홈 경기 부진을 크게 신경 안 써",
-      "excerpt": "Abel Ferreira minimiza tropeços do Palmeiras em casa&nbsp;&nbsp;Gazeta do Paraná",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0loS0duYVZDLWswTHY1akdxYWJ5V2xqdHZuSU96cTVzQVBrZWxBR2RSLUNXeWpUcDZCbEt4ZFFmWEtGRFhGZUZaZWlnYm5mbTNBeTNCVG5rM01vb09qTDREUk5fMktuQVE1Q0RLU05ZbzZkd2drTDZubVZtUWJkYUM1cVRVamJjb1VLVVJlWFNSNnc?oc=5",
-      "source": "Gazeta do Paraná",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:19:45.000Z",
-      "whyItMattersKo": "홈 경기 부진에도 감독이 여유를 보이며 팀 분위기를 추스르려는 모습입니다.",
-      "fanTakeKo": "홈에서 못 이기면 정말 답답하죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWdVSF9sSTYtYXh2NlJSbG5rZFZuUnVlU2pJa3p1bFRkVDBBTHhjanJ4SV",
-      "title": "Espanhóis repercutem empate do Palmeiras com o Cerro Porteño - LANCE!",
-      "summaryKo": "스페인 언론, 파우메이라스 무승부에 관심",
-      "excerpt": "Espanhóis repercutem empate do Palmeiras com o Cerro Porteño&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWdVSF9sSTYtYXh2NlJSbG5rZFZuUnVlU2pJa3p1bFRkVDBBTHhjanJ4SVVBZlRzTjRteVhvbTBCM3VsTEl5aUhIOVRQbVJoaDdSaWtydUtuc2RxcDQxMFF2cWNtTXNRNEFibDdmUnotUE54MEc3R21RbXNqYVY1dF9UUWhMSTZCOFlTNlpNM2VnQTRzRFg4MnJwcWZkQ01mT25GMkplQ2xodF9GcHVvUFhB?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:13:43.000Z",
-      "whyItMattersKo": "스페인 언론의 관심은 선수들의 이적 시장 가치와 팀의 위상을 높이는 데 도움이 됩니다.",
-      "fanTakeKo": "해외에서도 우리 팀을 주목하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlZmSElYaGhaOHYwWHoyZkZLTmx6TFRPUFM1N2Q1Ymh2WXQ4WjMtUzVtTV",
-      "title": "Assista! Carlos Miguel falha e marca gol contra em empate do Palmeiras na Libertadores - Gazeta Esportiva",
-      "summaryKo": "카를루스 미구엘 실수, 리베르타도레스 무승부",
-      "excerpt": "Assista! Carlos Miguel falha e marca gol contra em empate do Palmeiras na Libertadores&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlZmSElYaGhaOHYwWHoyZkZLTmx6TFRPUFM1N2Q1Ymh2WXQ4WjMtUzVtTVJqWEtVMlJEc2ZnTUxSZGx5QmVXM1JCeTVVWUYwU2duV3c4aExNUVBMXzZoVXh1d0FvcUVaOFhtZG91RHRGeWEtcGltQTA4Y0VDM2tVeS1BbFJFSVMyS3BoeEl5ZldSRHg2NmJpYkRSZm5tVU1Tb2xUdXg3eFhSYW1VTEtXc0doY29TWTN1WHFBT2kwOGVrU21IN2ZSWjNqbTgyOG_SAdQBQVVfeXFMT0luSmJnUHEwNlhkaXAxRHp5VnkxeHJZN0F3SkFrMnFKMWtFOGlCT1FJdXRJNDZkTUtqTVZBa2E3YXJ6NG9MejY3RGdpV2NLMWR2eWdPWVJCc2xOY3BabEJhRHdjVE50WFczTk1lZjg1WHoxN0VkcnFxUGpkdXFGdTFPWUdWSnlnWm9DalJUc21NeVM5Q0cyLTlkSDVqRXNBY2FNNUhlUWlMZm5vb3p6T0xuUGNZSm5LZnY0N25RV2pBSF9QODl2S1BJdjllblRvM3IzVDk?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:00:00.000Z",
-      "whyItMattersKo": "골키퍼의 실수로 승점을 놓쳐 리베르타도레스 조별리그 탈출 경쟁이 더 치열해졌습니다.",
-      "fanTakeKo": "실수가 아쉽지만 다음엔 잘하자!",
       "tags": [
         "뉴스",
         "AI요약"
