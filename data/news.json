@@ -1,17 +1,65 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-13T20:43:40.766Z",
+  "fetchedAt": "2026-08-13T21:46:02.360Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZ1NxWWNIQV9LeTBpOGtnU0pYbWJQWXhFSjR1clgyaUNITU9UczRTaTItTFh",
+      "title": "🗣 \"Os erros fazem parte do nosso sucesso\" O Palmeiras adotou uma postura de respaldo a Carlos Miguel após o empate por 1 a 1 com o Cerro Porteño. Apesar de o goleiro ter participado diretamente do gol marcado pelo time paraguaio, o elenco e a comiss - instagram.com",
+      "summaryKo": "파우메이라스, 실수한 골키퍼 전폭 지지",
+      "excerpt": "🗣 \"Os erros fazem parte do nosso sucesso\" O Palmeiras adotou uma postura de respaldo a Carlos Miguel após o empate por 1 a 1 com o Cerro Porteño. Apesar de o goleiro ter participado diretamente do gol marcado pelo time paraguaio, o elenco ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZ1NxWWNIQV9LeTBpOGtnU0pYbWJQWXhFSjR1clgyaUNITU9UczRTaTItTFhqbDFNOTk1VmxBX005NlBLb0Z5a2NvdWdXSlF2WlE?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-13T21:22:48.000Z",
+      "whyItMattersKo": "선수의 자신감 회복을 위해 팀이 하나가 되어 지지하는 모습을 보여줍니다.",
+      "fanTakeKo": "실수해도 우리는 한 팀이죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tOVhFR1FDdVJkczdCNUIyU2RHc3hOTGtKUVJxRVluaUdNdkZMX3AtUDNtSzZ",
+      "title": "🧤 Você ainda acredita no Carlos Miguel? Com as recentes falhas de Carlos Miguel no gol do Palmeiras, que comprometeram diretamente nos resultados das partidas, o Palmeiras Online quer saber se o torcedor acha que a diretoria alviverde deveria buscar - instagram.com",
+      "summaryKo": "카를루스 미겔, 실수 논란 속 신뢰도 시험",
+      "excerpt": "🧤 Você ainda acredita no Carlos Miguel? Com as recentes falhas de Carlos Miguel no gol do Palmeiras, que comprometeram diretamente nos resultados das partidas, o Palmeiras Online quer saber se o torcedor acha que a diretoria alviverde deve",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tOVhFR1FDdVJkczdCNUIyU2RHc3hOTGtKUVJxRVluaUdNdkZMX3AtUDNtSzZGMGdxS3E4NEo3UmRKdjZ0SEhxbm9WVWVmTnptSFE?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-13T20:52:34.000Z",
+      "whyItMattersKo": "골키퍼의 잦은 실수가 팀 성적에 악영향을 미쳐 새 선수 영입 여부가 관심사입니다.",
+      "fanTakeKo": "골키퍼 문제는 정말 걱정되네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
+      "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
+      "summaryKo": "플루미넨전 분석과 전망, 관전 포인트는?",
+      "excerpt": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08)&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJjX1B5anRCSDdNbkdad3oxNmNxMkVCTEhlWEszUFJOOUVacWxLNm96YURsRlZERjNxeGtBWHZpcEdvWEl5LTZFRVFsMXV0a0Y0YkljLXNLVndxYk0td0Q5XzJuTzVrZU0?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-13T20:50:52.000Z",
+      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
+      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-14-https://news.google.com/rss/articles/CBMilgJBVV95cUxOcm1lem5pTkExeVJrcUk2d0VGN2xJY2ZZdm12aU43eXVIVWllU0UtTUlleV",
       "title": "Grêmio negocia a contratação de volante campeão da Libertadores com o Botafogo e o Palmeiras - GZH",
       "summaryKo": "그레미우, 리베르타도레스 우승 미드필더 영입 추진",
       "excerpt": "Grêmio negocia a contratação de volante campeão da Libertadores com o Botafogo e o Palmeiras&nbsp;&nbsp;GZH",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcm1lem5pTkExeVJrcUk2d0VGN2xJY2ZZdm12aU43eXVIVWllU0UtTUlleVdlcWtLaWo0a0V6ZmdqWE5xS1BvRGo0Y1JKQTJHMHVoOU55N3BlT1kyQ0NuMkxpVFRzcnJZbzduVTRaMmJSYWZ0UkxsekZfNlYzQUR1Q2pRZW0xaVUxZjBJSDhra1dQQ2UwSVplYmpGMnVaVlg2ZS1nenBlOEhrbExMTVZmVXRHNl9LcXljR1dBVW1xNjVwazczWUxhNVVIeldGRkE5eWhQa1loYm1sU1RDbk9fSlNGaUEwQUlYbjF0N3I2LVFGMDhVZTlZdGw1c0NRQk8zT3VfVEZvdjk5YTBwQ2lWNVNKLUg5QQ?oc=5",
-      "source": "gauchazh.clicrbs.com.br",
+      "source": "GZH",
       "language": "pt",
-      "publishedAt": "2026-08-13T20:15:00.000Z",
+      "publishedAt": "2026-08-13T20:15:06.000Z",
       "whyItMattersKo": "파우메이라스도 영입 경쟁에 뛰어든 만큼 미드필더 보강에 관심이 집중됩니다.",
       "fanTakeKo": "꼭 영입했으면 좋겠어요!",
       "tags": [
@@ -41,11 +89,27 @@
       "summaryKo": "그레미우, 리베르타도레스 우승 미드필더 노린다",
       "excerpt": "Bicampeão da Libertadores e com passagens pela Europa; conheça o volante que está no radar do Grêmio&nbsp;&nbsp;gauchazh.clicrbs.com.br",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNlhGSFNyR3ZjaFBFNFBsM0kxbnVLcVNsSFJGOUx4WkozLXB6X1VBQi1fQ0JpNVRyVjk2QXJkOHdvNzllT3Q1Yl9sRjdLdTk3ZS05RHNESy11bjVHT1lMRmZiN3FTS1hHbzVKLUlWVDVVa09XU2ktZVVyaWlVYk1NdHVSVzFyRWZqLTRUUTl0THNGbGx2bzRZT3drOTdua3l5cXlrUHkwTmlGdWstMmJVWW0wa05wbzhJQWNrOWpoVTF5U29mdk5uXzRUWF9kVDNKU1ZFUUg0XzNmUzZnV1RhaFotZ1YzVWYxTkV3dXl1aWtyXzlJQndyUWU1WG83Vm5JcWY2elh2d0VpRVlteVJnX0V3UGRCdjc5YVFxSWEtMA?oc=5",
-      "source": "gauchazh.clicrbs.com.br",
+      "source": "GZH",
       "language": "pt",
       "publishedAt": "2026-08-13T19:52:30.000Z",
       "whyItMattersKo": "라이벌 구단이 우승 경력의 미드필더를 노린다는 이적설이 나와 주목됩니다.",
       "fanTakeKo": "우리 팀에 꼭 남아줬으면 좋겠어요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFV4Z2FnVGpudHpOSVNHNVA5aFNWYUhDZjRGems0WTVPNVRiYWV3ZGlyclA",
+      "title": "Sem Lukaku, Napoli define ex-Palmeiras como grande sonho - LANCE!",
+      "summaryKo": "나폴리, 파우메이라스 출신 영입 꿈꿔",
+      "excerpt": "Sem Lukaku, Napoli define ex-Palmeiras como grande sonho&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFV4Z2FnVGpudHpOSVNHNVA5aFNWYUhDZjRGems0WTVPNVRiYWV3ZGlyclAxb0lDYUxMX3RhR3hwVjB1R1hoazNIaU9oR095UUhLSm1ESU02TW9jWEJyOURMcWt5d1QwbFRjNkFkR2xuY1d6VG5mUU5reURFc0VQT2phNDZzQklicm1PVFVXZUJZdnhaeXl0SHRJWHI0T0huYng1bk1ZVUhueEU?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-13T19:50:00.000Z",
+      "whyItMattersKo": "유럽 명문 나폴리가 우리 팀 출신 선수를 노린다는 소식은 이적 시장의 큰 이슈입니다.",
+      "fanTakeKo": "유럽 진출 소식이 기대되네요!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -174,6 +238,22 @@
       "publishedAt": "2026-08-13T17:50:07.000Z",
       "whyItMattersKo": "청소년 팀의 결승 일정이 확정되어 미래 전력의 성장을 기대할 수 있습니다.",
       "fanTakeKo": "유소년 팀도 우승해라!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-15-https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjFaUF9BZUxGMDllOXRvaWdRZFpYRS1RZkN5R0dsMlBIbkw4ZGZRZTJSdH",
+      "title": "Paulinho trabalha no campo, e Fuchs treina com o elenco em reapresentação do Palmeiras - ge",
+      "summaryKo": "파울리뉴와 푸흐스, 팀 훈련에 합류했습니다",
+      "excerpt": "Paulinho trabalha no campo, e Fuchs treina com o elenco em reapresentação do Palmeiras&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjFaUF9BZUxGMDllOXRvaWdRZFpYRS1RZkN5R0dsMlBIbkw4ZGZRZTJSdHJMR0l4bTh5QlJJUWtEQ0NlZEItSzB0VnE0cVFjQm9qTXhoOW1RczlxZ2FHeFJ4YmpRTjNUQmIxVmpuWkpfTnNrSkFxa0FVNDZSRGk1Tk5PUVZ2dmtXWmZ1YXBvZUg2dlpiMXhlNHN6aElfUWxvYWVVbHZXZXhzVm0waEQxc2dhWXEwTWphNEJKU0gzN0I1QjU2TkpKdHdVQk9KUXFjdGVkU2lhR09vUmpQUHh3ZjZNWVlIMll2ZzJF0gH6AUFVX3lxTFB0T2ZMUE5RVXQzUXY5VUxOWG9QZmVlVDl6aUlrUzNLc2s1dGpBalY1dGNXSm8zOU5hdldRTWxTM3haaXBoN2JIX3VoMUMzZ3M5ZVhBck9TOHkzYzR3NjBwN3pCaGNoeHZtR055VWhRYUdTYUV0U3JsVEVtaVB4aHY0RlNjaVlncEtUYWszbG5DWkxmV25VRjVsREVqako0S1NiUUZLMmJYWktwZnExZGtwcV9fdWJSMWlHSHpyTmR5UWhpOVkzYThTajd2QXNIbUJ2Z0JhOTRMaXFMWmwxeTdTN2lwMjVLakFyVlZnNnpaV090ZFJoRTR0QUE?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-13T17:19:19.000Z",
+      "whyItMattersKo": "주전 선수들의 복귀는 팀 전력 보강과 다음 경기 라인업 구성에 긍정적 신호입니다.",
+      "fanTakeKo": "두 선수 다 건강하게 돌아와서 다행이에요",
       "tags": [
         "뉴스",
         "AI요약"
@@ -486,22 +566,6 @@
       "publishedAt": "2026-08-13T15:02:15.000Z",
       "whyItMattersKo": "주전 골키퍼의 실수로 승점을 놓쳐 리베르타도레스 탈출 경쟁에 변수가 됩니다.",
       "fanTakeKo": "아쉽다, 다음 경기는 꼭 이겨야 해요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tOVhFR1FDdVJkczdCNUIyU2RHc3hOTGtKUVJxRVluaUdNdkZMX3AtUDNtSzZ",
-      "title": "🧤 Você ainda acredita no Carlos Miguel? Com as recentes falhas de Carlos Miguel no gol do Palmeiras, que comprometeram diretamente nos resultados das partidas, o Palmeiras Online quer saber se o torcedor acha que a diretoria alviverde deveria buscar - instagram.com",
-      "summaryKo": "카를루스 미겔, 실수 논란 속 신뢰도 시험",
-      "excerpt": "🧤 Você ainda acredita no Carlos Miguel? Com as recentes falhas de Carlos Miguel no gol do Palmeiras, que comprometeram diretamente nos resultados das partidas, o Palmeiras Online quer saber se o torcedor acha que a diretoria alviverde deve",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tOVhFR1FDdVJkczdCNUIyU2RHc3hOTGtKUVJxRVluaUdNdkZMX3AtUDNtSzZGMGdxS3E4NEo3UmRKdjZ0SEhxbm9WVWVmTnptSFE?oc=5",
-      "source": "instagram.com",
-      "language": "pt",
-      "publishedAt": "2026-08-13T14:51:30.000Z",
-      "whyItMattersKo": "골키퍼의 잦은 실수가 팀 성적에 악영향을 미쳐 새 선수 영입 여부가 관심사입니다.",
-      "fanTakeKo": "골키퍼 문제는 정말 걱정되네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -878,70 +942,6 @@
       "publishedAt": "2026-08-13T10:35:00.000Z",
       "whyItMattersKo": "팬들의 불만이 고조된 가운데 감독의 대처가 팀 분위기와 단합에 중요한 영향을 줍니다.",
       "fanTakeKo": "팬들 마음 풀렸으면 좋겠네",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFqVVJ6Z09LNVZuR0lKanpyeWM2c1d2MDZQUVFMQzBHR2lTMDRNOWRpNzF",
-      "title": "Facincani critica Abel Ferreira após empate do Palmeiras: 'Chacota' - lance.com.br",
-      "summaryKo": "파우메이라스 무승부 후 아벨 감독 향한 비판",
-      "excerpt": "Facincani critica Abel Ferreira após empate do Palmeiras: 'Chacota'&nbsp;&nbsp;lance.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFqVVJ6Z09LNVZuR0lKanpyeWM2c1d2MDZQUVFMQzBHR2lTMDRNOWRpNzFsNWhtem5TZTg5dFRBQmZVWFpyWDBQMXdaa0t1SUFUSC15V1VtNEVTeDBqWklsb3MwVlpCdlA4VTdOUTNUTFpmSTRlQ1NGV0ZkSDh0T2VqV3RJV3Q4UEYxSkJwZnREWnpsa3ExSHl4YksyMkt3a0V2Y0xfOEFqdUFY?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-13T10:10:00.000Z",
-      "whyItMattersKo": "무승부로 인해 팀 분위기와 감독에 대한 외부의 평가가 나빠질 수 있습니다.",
-      "fanTakeKo": "비판은 싫지만 성적이 답이죠.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMivgFBVV95cUxNaElGTjdOQndxTGNSbUFPT3ZpZkhxaXNqYzNSN0I1eG51SVNIU2N3czZETjd",
-      "title": "Carlos Miguel acumula falhas, mas dá recado otimista no Palmeiras - CNN Brasil",
-      "summaryKo": "카를루스 미겔, 실수 속에서도 긍정적",
-      "excerpt": "Carlos Miguel acumula falhas, mas dá recado otimista no Palmeiras&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaElGTjdOQndxTGNSbUFPT3ZpZkhxaXNqYzNSN0I1eG51SVNIU2N3czZETjdRUGVNT0Q0VTlyVnkzZnBDNnUweUVfRnJNalBvTTZqNjM2ay1IaGRDVjBDNGhJTnREQVVGTE1nelZXNnJQREhwcW10ZV9QN2xxQm5FZ3lOT294UEdEU1lSUjJzMnVFcGlCYUljMWhDUUZsdlpoVENjdkZRSVQ3Z2txRlV0TTNHM2RpVTlsRElFdmlB?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-13T09:55:53.000Z",
-      "whyItMattersKo": "주전 수비수의 부진은 팀 방어력에 큰 영향을 주지만 태도는 중요합니다.",
-      "fanTakeKo": "빨리 예전 모습 보여줘!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFlFS0tsekcwakRXd2NWdllpT0ZxNWhvVUVRdHZiVlY5UThIbHJ0RlpiT0Z",
-      "title": "💚 Todos juntos pelo Palmeiras! Isso é clima de Libertadores no Nubank Parque! - facebook.com",
-      "summaryKo": "누방크 파르키, 리베르타도레스급 열기",
-      "excerpt": "💚 Todos juntos pelo Palmeiras! Isso é clima de Libertadores no Nubank Parque!&nbsp;&nbsp;facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFlFS0tsekcwakRXd2NWdllpT0ZxNWhvVUVRdHZiVlY5UThIbHJ0RlpiT0ZhQklfamZBNFNPWjNERTFiMjRPdmFQSTAtMVNUY3hZLXdwR3RNMVhpRjFIV3pERW03X21mZUhaQXp3SDcxWG5sTktsUXZlV2NMeXdrQWlUa3lTaEtiTUtod0paUVdESkVRYzN0dVJWM1d5VXMyeVptcHlYRVMwNTNjTUN2a1YtX29HamVMN2xRZE5CYXBxZElqelp2OW9maC03WmQzNDlOTVVraHdJbXM?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-08-13T09:52:34.000Z",
-      "whyItMattersKo": "홈 팬들의 열정적인 지지는 선수들에게 큰 힘이 되어 경기에 영향을 줍니다.",
-      "fanTakeKo": "홈 팬들의 열기 뜨겁다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMihAJBVV95cUxQRGdibWtfTEhpNVIxc1JqcVNhdlU4b25ldnUyNlQ5N0hldTlIQzVLbzFTWlN",
-      "title": "Zagueiro do Flamengo celebra retorno e projeta 'caça' ao Palmeiras antes da Libertadores - Rádio Itatiaia",
-      "summaryKo": "플라멩구 수비수, 복귀 후 파우메이라스 겨냥",
-      "excerpt": "Zagueiro do Flamengo celebra retorno e projeta 'caça' ao Palmeiras antes da Libertadores&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRGdibWtfTEhpNVIxc1JqcVNhdlU4b25ldnUyNlQ5N0hldTlIQzVLbzFTWlNhU2tqTkpldVhoTTNpNldHOWtSUzJEZE9tQmY0Q2dyYmp5T3huTGU0cFJGamhqejJhZmxkX0NuRk1qVUxoOGZMQ1dzcGR5UUFvd2tUZFJadjhQZHd1a0kwVjRZQ0NBMDFrNWl6WGJQRVp3ckdSb2tsT2RyYWNJa3VNWDVjZnU5eWJjWXhQRHZYekJ6MWVwbEVWbzE2dzJGODZnYkJqUGhpLV9CM01NS2JGSldacDRILU1BMHE1c2hTZXVDRFJHZUlEM1h0emdHQnFNRzRHNGNiOQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-13T08:32:58.000Z",
-      "whyItMattersKo": "주전 수비수의 복귀는 수비력을 높이고 리베르타도레스 앞두기 전 맞대결 의지를 보여줍니다.",
-      "fanTakeKo": "플라멩구가 덤비는군, 조심해야죠",
       "tags": [
         "뉴스",
         "AI요약"
