@@ -1,15 +1,255 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-13T02:03:30.989Z",
+  "fetchedAt": "2026-08-13T04:26:00.134Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUFWQWFOb1lyRFF4cnR6ZE5YYW5HcWlNeVpMQko2bVp5Nl9FazVOZUNWWnk",
+      "title": "Abel Ferreira responde torcida do Palmeiras - Terra",
+      "summaryKo": "아벨 감독, 팬들의 목소리에 답했다",
+      "excerpt": "Abel Ferreira responde torcida do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUFWQWFOb1lyRFF4cnR6ZE5YYW5HcWlNeVpMQko2bVp5Nl9FazVOZUNWWnk1OEwyWHI3UEhmMHlCNjAyV0ZnWU80dklFTlNBMzBKQUhvaHlsRWVBMjVPVzROOF9iZnhPTy1nRGpjZ2tIbVh0OWtqdVZJNHZKTHhZTlQyMWZobnhtVVotYi1GMmpDWFdPUGhkNXpUa1hHYVBwUFBUTWstdExmdUlZNFhaN3hIQlNpLU9wX1hOMDVHNjBnNmhjRDRJY1QtZzdyUQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:47:00.000Z",
+      "whyItMattersKo": "감독과 팬의 소통은 침체된 분위기를 쇄신하고 성적 반등을 이끄는 열쇠입니다.",
+      "fanTakeKo": "감독님, 우리 믿고 따릅니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWVo3TG5lRVhQZUhFcXJtX1pYTHpDa3pwajkwQlFLRDZRNnlpZGpOaGxhc0U",
+      "title": "Carlos Miguel não se abala e prevê Palmeiras nas quartas da Libertadores - Terra",
+      "summaryKo": "카를루스 미겔, 리베르타도레스 8강 진출 자신감",
+      "excerpt": "Carlos Miguel não se abala e prevê Palmeiras nas quartas da Libertadores&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWVo3TG5lRVhQZUhFcXJtX1pYTHpDa3pwajkwQlFLRDZRNnlpZGpOaGxhc0U4NDJxRXV6eHJULXktT1hHSWhBWVBpaGZrbzNEMTZjbG1kVDhhN2p1SmVjcjBrZGNVd3R0SmxGcnlldVk1X3FjdWdKMHFDZE5Ec0ZhM0NFbkFGMFlTczBMWEs5NnRiXzZqQ0pSREdOei1pSmduMGw0cVdsNlQyUktUT21qN1A3YzNpT1pVVU4xSGZYLXRRQ1NzQUJncDEwNUxPaFVPN3FSMnVORTZ0Z1FIeDF0UGNjY2N6WDNyYXBjc2ZtaEZieEs5?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:35:00.000Z",
+      "whyItMattersKo": "주요 선수의 자신감은 선수단 사기를 높여 리베르타도레스 탈락 위기를 극복하게 합니다.",
+      "fanTakeKo": "8강 진출, 반드시 이룹시다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXBteFhSZ25mS3lVUUl5eVY1X3pjRmd0aUlpNFRLSXlGeVlCT3JQd2xWd2s",
+      "title": "Abel Ferreira vê 'belíssimo' jogo, mas lamenta falta de eficácia do Palmeiras - band.com.br",
+      "summaryKo": "아벨 감독, 좋은 경기력에도 결정력 아쉬워",
+      "excerpt": "Abel Ferreira vê 'belíssimo' jogo, mas lamenta falta de eficácia do Palmeiras&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXBteFhSZ25mS3lVUUl5eVY1X3pjRmd0aUlpNFRLSXlGeVlCT3JQd2xWd2s4VjI4Y1A4Y2t0QnRNLS10ZlZjMWNPRm15SjNLX0xtV1E0MDE4SFdvb0pNak1YOXJRWnlxakNJck9nRllLX0RDT3lHdE5vYllRamZVb1hMSHBaaHYxWnpfbDE2Yk1UcXJVX2NCZ1pqbDlXTG1pYm9qczY3T2c1QXFzZ3FCMmZNdkdFRTZWTEF1b1JtMWNabGtoM1EtVnJTTENFa1cwRXp3?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:30:03.000Z",
+      "whyItMattersKo": "경기 내용은 좋았으나 득점력 개선이 시급하며 이는 승점 챙기기에 필수적입니다.",
+      "fanTakeKo": "골만 넣었으면 진짜 완벽했는데",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWlZmQzdNWFRtNjNqeFVfZUZUZ1d4S08zV1hlRkxHaWVFLVdHX0NwalpqY3E",
+      "title": "A declaração de Abel Ferreira direcionada ao estádio do Palmeiras - Terra",
+      "summaryKo": "아벨 감독, 홈 팬들에게 열정적인 응원 호소",
+      "excerpt": "A declaração de Abel Ferreira direcionada ao estádio do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWlZmQzdNWFRtNjNqeFVfZUZUZ1d4S08zV1hlRkxHaWVFLVdHX0NwalpqY3EwaUlOeUF6UkNYX0Z0empCdjcwcm0xRUNOUGVtQ21KVjNHZkJjN3NGdks5cHotN1FyMUZCbjlYRjJtZmpJUU1oTDdqRXRWdTlEczdyN1RMS0ZzSTZuV1RGdEJIV1ZwX3p1Z0t0d3V3dmZUUElVYUNHcWg5RVNzZVBabFhsbE1XUHlleEFpVDE0SHRieVNEX3BNcnpWbHA3S3pubUI0bXpnZ2tYRUxoOThFWW93dHVsMTNVaGlqVGc4?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:24:00.000Z",
+      "whyItMattersKo": "홈에서의 팬 지지는 선수들에게 큰 힘이 되며 리베르타도레스 승리에 중요합니다.",
+      "fanTakeKo": "우리 구장, 목 터지게 응원합니다",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVhiS0JKZG1fdzF4dFQ5LXZPSFJqeDhhaThMcHNWVVd2NnNxSUVDTXhlcjh",
+      "title": "A declaração de Abel Ferreira, do Palmeiras, direcionada ao jogo no Paraguai - Terra",
+      "summaryKo": "아벨 감독, 파라과이 원전 앞두고 발언",
+      "excerpt": "A declaração de Abel Ferreira, do Palmeiras, direcionada ao jogo no Paraguai&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVhiS0JKZG1fdzF4dFQ5LXZPSFJqeDhhaThMcHNWVVd2NnNxSUVDTXhlcjhTODd0UHRxdmxoN3BQWjItTGpNRHIyQVVLOUcyWGZQLUtndXd5dlV4dE1HRTNiQllsci1vVFdHWW9XSnpRU1ItOUh2R3ExRm5BMjNKWllITDdPcmxrOVMtTU5RTjB5WHBaVk85SjJfLUlBMlpMdDdvSTdnR2JubVZxLTJDTEx4S2RFejZxRERNNWtUWmtpcGFnRkpPX3RwMG94bTVhcnQwUDE5NGhYSEJSb1gzZkdkaFNlbEU0bGNiWmEyeXdSNjJ0WDNF?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:24:00.000Z",
+      "whyItMattersKo": "원정 경기는 리베르타도레스 조별리그에서 승점을 챙기기 위한 중요한 고비입니다.",
+      "fanTakeKo": "원정에서도 좋은 결과 있길!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-5-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1NCQ0lyTHlxODd4NGZTU0RHV19TdnJCZFZfVFFOQXl5WVhHVVptcTdvckw",
+      "title": "PVC critica titular em Palmeiras x Cerro Porteño: 'Não consegue' - lance.com.br",
+      "summaryKo": "평론가 PVC, 선발 선수 날카롭게 비판",
+      "excerpt": "PVC critica titular em Palmeiras x Cerro Porteño: 'Não consegue'&nbsp;&nbsp;lance.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1NCQ0lyTHlxODd4NGZTU0RHV19TdnJCZFZfVFFOQXl5WVhHVVptcTdvckw0alJqZkJPSTNlN1otVWFzOVlZUk5SQkViZzhaZThFY3Y5S3VTMlpOQ05YS2ptY3I5TW9KOFZ3aEd1bUZmQUdTU0NEb21paEQ0V1Bkdy1JVnJDakVRTUZPY083NlhFNFJuY3hzZUpLOTl5Y0xoT2VoV2VZbzE?oc=5",
+      "source": "lance.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:21:00.000Z",
+      "whyItMattersKo": "선발 라인업에 대한 외부의 비판은 선수 기용과 팀 전술에 영향을 줄 수 있어 주목됩니다.",
+      "fanTakeKo": "선발 교체 필요한가 싶네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-6-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTh6dUNTZC16cUNyanVyUWUzcDNrWGtDZEhxVTZpMGxTN0diN3JYbDJLWUQ",
+      "title": "Flaco López comenta falha de Carlos Miguel no Palmeiras: \"Normal errar\" - cnnbrasil.com.br",
+      "summaryKo": "플라코 로페스, 카를루스 미구엘 실수 옹호",
+      "excerpt": "Flaco López comenta falha de Carlos Miguel no Palmeiras: \"Normal errar\"&nbsp;&nbsp;cnnbrasil.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTh6dUNTZC16cUNyanVyUWUzcDNrWGtDZEhxVTZpMGxTN0diN3JYbDJLWUQ4UzZqSHNkc3RiN1U3ZVlmX2pVUVJCV0lhUTBTXzR1RW9fSjJKTkZGQlRNLWxJUjVKbEx5N2RxRlEzSFZoXzI3NkpQcmlhb0x6cVJMOFFiSE1ZUWYyZk9oeGoxTExmbS1NUndITHI0M3RZelFHTlFzYV91bUJwR213V1dGaHAtbEFvaU9zZlpmNDlMdTZCTXc?oc=5",
+      "source": "cnnbrasil.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:15:20.000Z",
+      "whyItMattersKo": "주전 골키퍼의 실수 논란은 팀 분위기와 수비 안정성에 큰 영향을 미칠 수 있습니다.",
+      "fanTakeKo": "실수는 누구나 하는 거죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMi_wFBVV95cUxOekhmUWdvR25DYU9Sem85a20zMThzWFlqQ1lUYS1zWlpsTW92WlNhQ01LSHJ",
+      "title": "Abel Ferreira comenta sobre união entre time e torcida: 'remando para o mesmo lado' - Terra",
+      "summaryKo": "아벨 감독, 팀과 팬의 단합 강조",
+      "excerpt": "Abel Ferreira comenta sobre união entre time e torcida: 'remando para o mesmo lado'&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOekhmUWdvR25DYU9Sem85a20zMThzWFlqQ1lUYS1zWlpsTW92WlNhQ01LSHJCNjFZNVpjQ3lsZC1FN0xXcHNiQzZKWG5vcWNOR2JOZmhjM0hpeUZjQXNMUVpvV2t5cVY5dUhNaVVEZFc0cUpxMHNBeDFMbkhzTnY5anZibHF4aDMtQk8tcjQ1ei1pVk53NGpLMVd2bDYzZFl2ajh4R3h2czA0VThDOHJweWVNNmJZTU1CR1hyV0VYUUZlQ2FjWl8wZVg1cHJXWmF6MkFnVnc2bFdIdGJRVHNPYUtKbkxwXzhsRmF0SGMzQkx1NWE4OTJnSF8wdnZCUHc?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:13:00.000Z",
+      "whyItMattersKo": "팀과 팬이 하나가 되는 분위기는 리베르타도레스 등 중요한 일정에서 강력한 무기가 됩니다.",
+      "fanTakeKo": "하나가 되어 응원하겠습니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-8-https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnQ3dWx5OWtqekltOTAzQ3ZtcXNjWHY1cnVFakpKZWtnczJYNExiWmdWem5",
+      "title": "Pênalti e vermelho: ex-árbitros divergem sobre lances de Palmeiras x Cerro - UOL",
+      "summaryKo": "파우메이라스전 판정, 전 심판들도 의견 갈려",
+      "excerpt": "Pênalti e vermelho: ex-árbitros divergem sobre lances de Palmeiras x Cerro&nbsp;&nbsp;UOL",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnQ3dWx5OWtqekltOTAzQ3ZtcXNjWHY1cnVFakpKZWtnczJYNExiWmdWem5nV3h4bVZ5V21MTl83ek5SNUFYa1owWG9wbTFoZEhCVG5jdF9iUjNIbEstZTJUVllXTk9scFl6NURBc0d0VkhDVnpRenVDdWh6bWs3ekhUNW4tRjhiVjliZTU0NEhYYkJYWXN3LXBSQU1oeFZPYW9Hck43MTFKWFBkcFVpNGhBdVM5b2pFSjFHMVlvWjRwd2Ja?oc=5",
+      "source": "UOL",
+      "language": "pt",
+      "publishedAt": "2026-08-13T03:06:14.000Z",
+      "whyItMattersKo": "페널티와 퇴장을 둘러싼 판정 논란은 경기 결과와 팀의 사기에 매우 큰 영향을 줍니다.",
+      "fanTakeKo": "심판 판정은 언제나 아쉬운 부분이죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-9-https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGlETXdlRGkwSlAzR2lpbUpxQ2JNNUVvUm42b3E3T0F6YzlCOGNCcldIazd",
+      "title": "Abel Ferreira analisa Palmeiras 1 x 1 Cerro Porteño pela Libertadores - radiomaringa.com.br",
+      "summaryKo": "아벨 감독, 리베르타도레스 1대1 무승부 분석",
+      "excerpt": "Abel Ferreira analisa Palmeiras 1 x 1 Cerro Porteño pela Libertadores&nbsp;&nbsp;radiomaringa.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGlETXdlRGkwSlAzR2lpbUpxQ2JNNUVvUm42b3E3T0F6YzlCOGNCcldIazdYVkdkOXV4V2dBX1BTZkhleDk3VE5WVkJUc0VLaW92MjFYWkVRcW13RjJqQ2xCVWY2NjdCaFlKS0Y5bWZ2YWRPUzlReDdxSVhLcDE4WVhOakk3d2F2UU5PZmtmRUM2VGdBMUgzbWU2d0U5MFM5Wi01Vnk1Wi1rX3VmeUwwTA?oc=5",
+      "source": "radiomaringa.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:38:51.000Z",
+      "whyItMattersKo": "리베르타도레스 조별리그에서의 무승부는 다음 경기 일정과 순위 경쟁에 중요합니다.",
+      "fanTakeKo": "다음 경기는 꼭 이겨야 합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-10-https://news.google.com/rss/articles/CBMigwJBVV95cUxNMl8wWEt0X3VrZ3g4VDlRMmxyTFkzeWcybm1rbHFvakRqTHJRam9aS2RON1",
+      "title": "A declaração de Abel Ferreira direcionada a arbitragem de Palmeiras x Cerro Porteño - Terra",
+      "summaryKo": "아벨 감독, 경기 판정에 대해 입장 표명",
+      "excerpt": "A declaração de Abel Ferreira direcionada a arbitragem de Palmeiras x Cerro Porteño&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMl8wWEt0X3VrZ3g4VDlRMmxyTFkzeWcybm1rbHFvakRqTHJRam9aS2RON1ZlZkVJN0llNG9XMm44UExJaEVUZ3hzbUNoRDR2WG9hOUhWeDdmLThReGlyMUNHa2VwUU1KVEhGMlBvLTF1ejVjTGVNblJKQ3k2RmRwaHZKUHk0SHlOeHdTRlRiN3k5RXpOekZHa3o3c2k0M293M0RPaEQzQnpRbkJoRTliZGNMNWxsOGNEOTB6R01iXzdEcFBLY0pkdU9JUGE3emoxa05IS29pS3Rhd3pVOWwyaXBXMWUxZ0o5aDh2NXA1YU54VFZBUldIRkVtczhHTER5QjJF?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:37:00.000Z",
+      "whyItMattersKo": "감독의 판정 비판은 팀을 보호하려는 의도이자 향후 판정에 영향을 줄 수 있습니다.",
+      "fanTakeKo": "감독님, 우리 편 들어줘서 고마워요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-11-https://news.google.com/rss/articles/CBMingJBVV95cUxOTDNPb0d3RXZfNnRIR2l1dHhLekVLYmk4alk0X1BjbTFudmpncFFndkg3SX",
+      "title": "Abel diz como lidou com manifesto da torcida do Palmeiras e vai além: 'Se esperam um treinador que só ganha tudo, têm que buscar o do PSG' - ESPN Brasil",
+      "summaryKo": "아벨 감독, 팬 성명서에 \"PSG 감독 찾으세요\"",
+      "excerpt": "Abel diz como lidou com manifesto da torcida do Palmeiras e vai além: 'Se esperam um treinador que só ganha tudo, têm que buscar o do PSG'&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTDNPb0d3RXZfNnRIR2l1dHhLekVLYmk4alk0X1BjbTFudmpncFFndkg3SXdkazY5VTR6cFZpOGVuZE9PdkRYZ1FsbWVTN2Q0ejVtQ1dXT0MzUVJwR3U5dTVGR2c2U0VpZGZWa3IwM0JmT0UtTEYtVUt6Tk0yYnBXa2xkZG51aEhBenlsbEdLdWE0bWRiMDZELVk3THFmZ3ZRS192M25xdDlRZGJocGxuNDUwTXU5U2xIMW9XbTF4cWRRQU8xYUxPRHFsOVhiN3FwSHM3QlBSQWtPMFJaRjRKUUtsWHczMHJTTnZVSEJWdHZPNDR2OEx4OFBJLVFEbGk3TUwwWEU5aVZvZnN2ZFJ5V2UxQTJiUHAyajJ1S193?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:23:00.000Z",
+      "whyItMattersKo": "감독의 강한 반응은 팬들과의 소통 방식과 팀 내부 분위기 관리에 중요한 영향을 줍니다.",
+      "fanTakeKo": "감독님 화이팅, 우리는 함께합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-12-https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0F4OXBoUmJDWXZmcGNVRnpoVlBJVTVOaVYxV25ST0NjWVdwQ0V3UGhrdk",
+      "title": "Flaco López abre o jogo e revela futuro no Palmeiras: 'Tomei a minha decisão' - lance.com.br",
+      "summaryKo": "플라코 로페스, 파우메이라스 미래 결정",
+      "excerpt": "Flaco López abre o jogo e revela futuro no Palmeiras: 'Tomei a minha decisão'&nbsp;&nbsp;lance.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0F4OXBoUmJDWXZmcGNVRnpoVlBJVTVOaVYxV25ST0NjWVdwQ0V3UGhrdk9qRUZUcE5RQThtUUR4ejNnM3ZSMWFCN3lQYWRINWxIdVZXNG83WU41M2NORHNBMHd0YzE0aGl4ZjR6cnBfdkRYMzR6aHotWFk4TGF3ZnVtb0w1eWlxcjNldWlRNG5URUpEOU9iWnI5blpMVTVGelpJMjBCVHFQalFzOGhYcVFDcHk?oc=5",
+      "source": "lance.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:20:57.000Z",
+      "whyItMattersKo": "플라코 로페스의 결정은 팀의 공격진 보강과 전력 유지에 중요한 영향을 줍니다.",
+      "fanTakeKo": "결정 내려줘서 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-13-https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSmV0dUgyWmZUaE5RWFp4RjZiODdqYlFPMFJrVHlwS1JybTQyS0RFWWFjaT",
+      "title": "Abel diz que Palmeiras fez 'belíssimo' jogo e apoia Carlos Miguel: 'Ganhamos e perdemos todos' - Terra",
+      "summaryKo": "아벨, 경기 칭찬하며 카를루스 미구엘 옹호",
+      "excerpt": "Abel diz que Palmeiras fez 'belíssimo' jogo e apoia Carlos Miguel: 'Ganhamos e perdemos todos'&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSmV0dUgyWmZUaE5RWFp4RjZiODdqYlFPMFJrVHlwS1JybTQyS0RFWWFjaTRpMWc1S1FtV3I4WkRtTHFtWUgtQWtJektILW5uTkVRUC0wWnpRbmloc1hHZ0NyTlQ2SlVWdGotaVRTV2tGa1RoN2Njbm5WS2VnLXVteEo5R1FPX0VlMkVady1COU12R1ZFSDRBNU5DbUIxNlpIeXZfV2ZaZ0lwelk2MXJKdHpZUnZrMzkxQklnVzN2MUFnSUgzMG00UWpxYnViRWhJeVAzdXN6R05kckwweDdScDZtZzVMOV95d05YQVl6eVlDWnhSWGhqT2NVUWdDaW1rUkVwaElIQy00VzA?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:11:00.000Z",
+      "whyItMattersKo": "감독의 공개적 지지는 선수의 자신감 회복과 팀 분위기 안정에 큰 도움이 됩니다.",
+      "fanTakeKo": "감독님이 멋지시네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-14-https://news.google.com/rss/articles/CBMizwFBVV95cUxOamtLbDJveXRKaU9Yb1dCd0FmUlNhZjdwQUl3aUVYNzZmNjk3RkRVWS1OTn",
+      "title": "Abel diz que Palmeiras fez ‘belíssimo’ jogo e apoia Carlos Miguel: ‘Ganhamos e perdemos todos’ - estadao.com.br",
+      "summaryKo": "아벨, ‘최고 경기’ 평가하며 선수 감싸",
+      "excerpt": "Abel diz que Palmeiras fez ‘belíssimo’ jogo e apoia Carlos Miguel: ‘Ganhamos e perdemos todos’&nbsp;&nbsp;estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamtLbDJveXRKaU9Yb1dCd0FmUlNhZjdwQUl3aUVYNzZmNjk3RkRVWS1OTnIwdmwyZlVWc3k0QzUxVG1tN21aRUxWdmVURE9QU2cwWDNfZGJIMkhDbGNQbFJrVWRxNkZrTzZ1ZXoxamktOE9wSzZwVEgycDRFWVJvQXFyTnE4b2lrSXhubWxzTHRlT2hWbG9rOEtVdmF5allxZ3pXTERvbERfTGoyMmYtNlRvUzJ4UHJOLWlNQ1NTMlNxcS1DbXVmWmVlMF9tbFXSAdQBQVVfeXFMTVBCZ2FWYkc4N0dtNmZwcVdqVXI0M3djaENxblg2eU5RUjc5QzdLUkxZb1BlbmZWVGprWEkzSl9LYk5yLXBHdFBxX2xOSWNaN29XX19NOEVsT01iRFBsWC1Za0JOV3lDeDJ4aGVEUUVaNURFMFpTS3Q4Uk1Fbm9pbFAtVUo5T0ZkbFk1Y2VSWW4wbnVMVGJuZDRwU3BzSmtzU045eUoxeFRXUVlQdzV2U3hPdnBFWHdJRm5hcHZ4eVJqbENlbzVsRFB3MGRpbGJkYzRidzA?oc=5",
+      "source": "estadao.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-13T02:01:00.000Z",
+      "whyItMattersKo": "선수를 보호하는 리더십은 경기 후 혼란을 막고 다음 경기 준비에 도움을 줍니다.",
+      "fanTakeKo": "하나가 되어 싸우는 모습!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3RrMGppNC1Ud0J2Y0NveFdWQUItRzhKc3cxSHBFcFR0c2xWbHFCUUt2M1B",
       "title": "Abel defende futebol do Palmeiras e pede união: 'Belíssimo jogo' - LANCE!",
       "summaryKo": "아벨 감독, 팀 경기력 변호하고 단합 호소",
       "excerpt": "Abel defende futebol do Palmeiras e pede união: 'Belíssimo jogo'&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3RrMGppNC1Ud0J2Y0NveFdWQUItRzhKc3cxSHBFcFR0c2xWbHFCUUt2M1BydS1Na0Q4SkVkWl9SaDNtSkVvS1BmMUVIdVg3c281UDVUTy04SzlWNDZGM1dVQldpT0xKRC1ubl84MUdpVjFGMlRmdjl5UThLU2Z6bHV0dl9OcEI2V0ZNWDdpSk5fRk9NNlBTOUtmZ252ekFGb2JR?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T01:56:12.000Z",
       "whyItMattersKo": "감독의 확신은 선수들의 자신감 회복과 팀 분위기 안정에 중요한 역할을 합니다.",
@@ -30,6 +270,38 @@
       "publishedAt": "2026-08-13T01:49:30.000Z",
       "whyItMattersKo": "주전 선수의 긍정적인 태도는 팀 전체의 사기 진작과 다음 경기 준비에 도움을 줍니다.",
       "fanTakeKo": "선수들의 자신감이 중요하죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-16-https://news.google.com/rss/articles/CBMiXkFVX3lxTFAydmk2MlJWYWt2VXF1YXpwaklfby1XZklMcWNhRVZiZjhsLWdBM3djLWloWF",
+      "title": "Abel Ferreira rechaça protestos de torcida organizada do Palmeiras: 'Sei muito bem como é o futebol' - ESPN Brasil",
+      "summaryKo": "아벨, 응원단 항의에 ‘축구 잘 알아’",
+      "excerpt": "Abel Ferreira rechaça protestos de torcida organizada do Palmeiras: 'Sei muito bem como é o futebol'&nbsp;&nbsp;ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAydmk2MlJWYWt2VXF1YXpwaklfby1XZklMcWNhRVZiZjhsLWdBM3djLWloWFBIX0xhWDBRXzREVmphdC1yaTFqc2pNa3dUWHBFdmhTQ2xLVHdQYTV3bkE?oc=5",
+      "source": "ESPN Brasil",
+      "language": "pt",
+      "publishedAt": "2026-08-13T01:49:10.000Z",
+      "whyItMattersKo": "팬들의 불만을 직접 언급하며 해소하려는 모습은 팀 분위기 정상화에 중요합니다.",
+      "fanTakeKo": "우리 감독 믿고 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-17-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUNHZHFNX2J5alRRVllUbGFYckZSWG1PYkxMb2xGcXhybklxM291aV9xeE",
+      "title": "Abel avalia atuação do Palmeiras e expulsão de Andreas: \"Muito rigorosa\" - Terra",
+      "summaryKo": "아벨, 안드레아스 퇴장에 \"너무 가혹하다\"",
+      "excerpt": "Abel avalia atuação do Palmeiras e expulsão de Andreas: \"Muito rigorosa\"&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUNHZHFNX2J5alRRVllUbGFYckZSWG1PYkxMb2xGcXhybklxM291aV9xeEtkZ0dBaDBlSVdzYUgzQkJiLXctbmJmLXpLZERpQ3RNaXctOGI3dVFibEFMYXZwdkR6eHA5UzFvbnVRN0U0VTRpSS1QblVVa0hlWWZIdFAwR0QxUnFoSkZXN1JpRk9TRlNvdUNtUXplYl9TRHNYVGFQVEdlNnFxdWVwUnRxalI4Q2c2TGpVTjBkQ05od0ZpdXV3MGJNTUJ1NVY5QlpqV3B1OWo5Snd0ZklIb19qRWFIdFI0Y29xYk0xNEJ0SFU?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T01:47:00.000Z",
+      "whyItMattersKo": "주전 선수의 퇴장과 감독의 반응은 향후 선수 기용과 팀 분위기에 영향을 줍니다.",
+      "fanTakeKo": "심판 판정, 정말 아쉽네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -68,6 +340,22 @@
       ]
     },
     {
+      "id": "gnews-20-https://news.google.com/rss/articles/CBMi_gFBVV95cUxOR19vZ3JzSmJnTHJjZ3ZkalZucnUzV2MweFcwQWRRa2ZpRW9Hc2NoOGN0VT",
+      "title": "Abel Ferreira sobre falha de Carlos Miguel em gol do Cerro: \"Poderia fazer melhor\" - Terra",
+      "summaryKo": "아벨, 카를루스 미겔 실수에 \"더 잘할 수 있었어\"",
+      "excerpt": "Abel Ferreira sobre falha de Carlos Miguel em gol do Cerro: \"Poderia fazer melhor\"&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOR19vZ3JzSmJnTHJjZ3ZkalZucnUzV2MweFcwQWRRa2ZpRW9Hc2NoOGN0VTVkd05Hb2RXb3hzQktSSDkxcGFhMG5jeWZmVWpFZWtDdzV1UFF6YlRqTVE5N1B1NzI2V0VBTF9LSGNzaWM1bkF1TUxNZTNxbmpLSFo4eUtFb0cwTlNRZ1E5T0RMYzhGSGpxZm1EX2JtSUt2T1RVakt5VS1MeWNyTmY5X28yc251Vm9SREtjSUQ2NjlOODVUbjVsdzJGSmRTRXFfSTNxSi1nRlF0dGYtempWbk80S19WMWVET3h0R1pNX2F6ZDkybEVEWkpEbFBXZHp3UQ?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T01:38:00.000Z",
+      "whyItMattersKo": "골키퍼의 실수 분석은 다음 경기 수비 안정화와 선발 유지에 중요한 기준이 됩니다.",
+      "fanTakeKo": "미겔이 다음엔 꼭 보완하길.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-4-https://news.google.com/rss/articles/CBMimgJBVV95cUxNV290LV9OSmt1Y0M0U2lXUWNfNlRmSGJBOU9FVFdsUjhGVXRydm1BcnRib3p",
       "title": "'Pode ficar tranquilo, vamos classificar', diz Carlos Miguel na zona mista após empate do Palmeiras contra o Cerro na Libertadores - ESPN Brasil",
       "summaryKo": "카를루스 미겔, \"리베르타도레스 진출 안심\"",
@@ -100,6 +388,22 @@
       ]
     },
     {
+      "id": "gnews-23-https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bThCNk1kRGNodjg5cVVKVUtzdGFVTDFlSXcwbUlDYVE2TWJhb2MyUDZtUU",
+      "title": "Abel Ferreira analisa empate, defende Andreas e valoriza campanha do Palmeiras - Portal ABC do ABC",
+      "summaryKo": "아벨, 무승부 분석하고 파우메이라스 성적 강조",
+      "excerpt": "Abel Ferreira analisa empate, defende Andreas e valoriza campanha do Palmeiras&nbsp;&nbsp;Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bThCNk1kRGNodjg5cVVKVUtzdGFVTDFlSXcwbUlDYVE2TWJhb2MyUDZtUU84RjRWR2ZHNk9EYko5c2t1Nm8weGVlRTFuaGQ4NHVEZDBKTFd6aDBvRnRCQkZ3Nl9RZWtQNkE2YUY4cG5YM3FXZ3FxaQ?oc=5",
+      "source": "Portal ABC do ABC",
+      "language": "pt",
+      "publishedAt": "2026-08-13T01:29:20.000Z",
+      "whyItMattersKo": "무승부 후에도 팀 전체 성적을 긍정적으로 평가하면 선수들의 사기 진작에 도움이 됩니다.",
+      "fanTakeKo": "성적은 좋으니 믿고 응원합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
       "id": "gnews-6-https://news.google.com/rss/articles/CBMifkFVX3lxTFBYY09rXzNmNWlVSHp5NjZHSW53enFpZVA2emFoZHlQaVpocnBDUHNseDFVTjc",
       "title": "Abel Ferreira analisa empate, defende Andreas e valoriza campanha do Palmeiras - Portal ABC do ABC",
       "summaryKo": "아벨 감독, 무승부 분석하며 안드레아스 감싸",
@@ -121,7 +425,7 @@
       "summaryKo": "안드레아스, 황당한 퇴장 논란 속 경기 치러",
       "excerpt": "A bizarra expulsão de Andreas Pereira e outras polêmicas de Palmeiras x Cerro Porteño&nbsp;&nbsp;Estadão",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmJYcVdNTkxZVlhFWGV0NmV4SFNUbm9hR01WQ2pTS1kxbzFqLXMzRThRdzMyUi1ueEptalhqT0dfZTZBbEpKX2txczZ0NXExc2tVdGU5TmtZbEM5R25xTXh3UHRIT2hKdXV6RnRMc3N0cHpOYzhZYW5MSzltcHlmTVIyMkRkNHE0d2l0LUl0MWgwdDRNc3ZQWFZfTHNVeFdpX3hKb2RiSldsZjk5R3QtR2FxNVI4QUNPS1kzbWNpRnVwVU5sbVlRRFFTMXltYmExek9j0gHYAUFVX3lxTE1QR181WGhITkVGWU0xWlFRVWxGQ2NfeWF1d2p1dUo4X2xPMEtjbWxVZVZicjZFMXJwNjFpaUJoV2Z0cy1mM0ZiMzFJNUozeXR6OHVVUDhzdFpIbVlwMkluSjlSUjdoMGk5bE9QalFsZU13SFJqY2JrcFY2eXVSVkRvQ3pveU5xYnNyRnAwaDdoVnFQcEx1X3kzN2twMXB4dXQySU82Q0l6SjFPMFBQLW0tX0kwMlcxZE5zNFo0QnE1TjcxOVptNUh5b09nN29JUzkyelZyMXAzZA?oc=5",
-      "source": "Estadão",
+      "source": "estadao.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T01:24:00.000Z",
       "whyItMattersKo": "핵심 선수의 퇴장은 향후 경기 출전에 영향을 줄 수 있어 팬들의 우려가 큽니다.",
@@ -185,7 +489,7 @@
       "summaryKo": "평론가 PVC, 카를루스 미겔 실호 비판",
       "excerpt": "PVC critica falha do goleiro Carlos Miguel em empate do Palmeiras&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVk1VWEF0eHNYdjBVQXd1N1BvS2NVdmtnbHJzQ3l3SVcwZFh6Qnd3aWk1MHFTNDIzNk1MOFoxbTl1dDlpbW9yWXd1VDVCSWN6b0xNbEZUSWtSMThjR3BiendDdG5LaElBM25DaHFhcTN6Q0FrWGltZTlNUVJabm9Ba3J3Mk1TS1hJTnNBcGJ2R0VCZVJyd2gzcFpuWFRVZEFVVFVyZW9KdV92UnhSNGkxX1NfdFU5TUNjSk9qaFZEUWNKWUNBMW1sUUNmUEo4Q2puMEIwNVI0R3R6bWxlWjhtWDRxZGJ2Wm5tODh0Umh5NA?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T01:11:20.000Z",
       "whyItMattersKo": "유명 평론가의 지적은 선수에게 큰 비판이 되며, 부진에 대한 책임이 강조됩니다.",
@@ -650,302 +954,6 @@
       "publishedAt": "2026-08-12T21:59:27.000Z",
       "whyItMattersKo": "경기 시간과 예상 라인업을 미리 확인해야 제때 시청하고 팀 전력을 파악할 수 있습니다.",
       "fanTakeKo": "예상 라인업부터 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMivwFBVV95cUxOMU1uRE9jY2hhbVg2U2FwN1FXRDFBSXlEOTFZYU1YTTRsMW5RSkZodDd4VEd",
-      "title": "Palmeiras x Cerro Porteño: acompanhe ao vivo a transmissão da Jovem Pan - Jovem Pan",
-      "summaryKo": "조벤 팬 라디오로 실시간 중계 진행",
-      "excerpt": "Palmeiras x Cerro Porteño: acompanhe ao vivo a transmissão da Jovem Pan&nbsp;&nbsp;Jovem Pan",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMU1uRE9jY2hhbVg2U2FwN1FXRDFBSXlEOTFZYU1YTTRsMW5RSkZodDd4VEdtUUFhMDFMMGJOZkc0Y2h1ekRPLW5tZGdLZV81bzhyTkg3TzhZby02aGZ1Z3VfY2hqTVRmbXZIWHdWd01WMzFRUldNRWtaQnpROERjcGFFVnlPa2ViYWZTbEJPZ3NreGVtOWUxT2Z4a19tQjcyVVFQbFpLdlpxUzhGV2JsN2RsMzRMQXNKRkVaWU9hOA?oc=5",
-      "source": "Jovem Pan",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:57:56.000Z",
-      "whyItMattersKo": "라디오 중계로도 경기 분위기를 실시간으로 느끼며 응원할 수 있는 방법입니다.",
-      "fanTakeKo": "라디오로도 열정을 전해주세요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGFzQkNkV0JkMTFhUlVSa1Q2cndtdkVXOExXLXN5RV95Qm1MbEZiZGU5SFl",
-      "title": "Palmeiras x Cerro Porteño: acompanhe o tempo real do jogo de ida das oitavas da Libertadores - Gazeta Esportiva",
-      "summaryKo": "리베르타도레스 16강 1차전 실시간",
-      "excerpt": "Palmeiras x Cerro Porteño: acompanhe o tempo real do jogo de ida das oitavas da Libertadores&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGFzQkNkV0JkMTFhUlVSa1Q2cndtdkVXOExXLXN5RV95Qm1MbEZiZGU5SFlaMDloOF9CZDdnY2VvaTlwTlpmbC16c3lIQi15X09QN3NmTUhBcEUtQTl1U3Q3Y2NxcEhQR2xZVWdQYlFDcEdoMUJwc2NUZHRwRWJYUm9GUXB6SHUyZ0NzVGFqa1lxYUxtM1MyT1FWZTBfUzFFcTQ0Y19zUklEZ2Iy0gGyAUFVX3lxTE9XRFdHdXBQOGtGZ3QyNlZEUDBzSmtMd200cEV0cmREUzE0d0FhMFlGMUtQNjVNQ0hCajctalRiWWdLMlFBN0FxYmc5QTVjWDJRNVZ6UHpEZDhUOVVXTnU2UTRDcTBHR0ZoT0ZIZ1FCRFJEc2dOU1pmWEFlVHd4UUpPOXNQelBKVTZBV3BfOWhmX2JrQnZNMXh4THhJSlFEWWFRUnVySldtQU15RTFmcW5xMnc?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:50:00.000Z",
-      "whyItMattersKo": "리베르타도레스 16강 1차전의 실시간 상황을 놓치지 않고 경기 흐름을 파악하기 위함입니다.",
-      "fanTakeKo": "실시간으로 긴장감 넘치네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXprWnN0TUR3enRrSzh3VGI1RkwzWHl5LVFjdVV6dmlncTVCem9FbGFqR18",
-      "title": "Palmeiras x Cerro Porteño, onde assistir ao vivo pela Libertadores em duelo de ida das oitavas - Alô Alô Bahia",
-      "summaryKo": "리베르타도레스 16강 1차전 시청처",
-      "excerpt": "Palmeiras x Cerro Porteño, onde assistir ao vivo pela Libertadores em duelo de ida das oitavas&nbsp;&nbsp;Alô Alô Bahia",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXprWnN0TUR3enRrSzh3VGI1RkwzWHl5LVFjdVV6dmlncTVCem9FbGFqR182b0RZT3lrRzM5enFrdHBFb3ZzUnkzZEV5R2Y5aUxuY01UY0FEN3k1eUdkWXpUc3RVeHdaNkVQMTNMR2h2TXRRTGpnOEVlN3VnRmY4Ui10VjBpTHJ0NmJlNkpFWmlqYUhmS0s4dkFEeTRvRXZ1MFpOVHM0RVhIWmh4R3ZScTQ2bjR6OGpZeTlfaGlfem1tMUJndm5iUWcyN010dXloZUlrUQ?oc=5",
-      "source": "Alô Alô Bahia",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:48:43.000Z",
-      "whyItMattersKo": "중계 채널을 미리 알아야 리베르타도레스 중요한 16강 1차전을 놓치지 않고 볼 수 있습니다.",
-      "fanTakeKo": "채널 확보하고 기다리겠습니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0Z3dm80cHBKUEdVVjV4Vzl0YmpIQndKWWdzOUlPeFlVQ3dSZFQwcENGLXF",
-      "title": "Palmeiras x Cerro Porteño pela Libertadores: onde assistir ao vivo, horário e escalação - Estadão",
-      "summaryKo": "파우메이라스, 리베르타도레스 경기 시간과 라인업 공개",
-      "excerpt": "Palmeiras x Cerro Porteño pela Libertadores: onde assistir ao vivo, horário e escalação&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0Z3dm80cHBKUEdVVjV4Vzl0YmpIQndKWWdzOUlPeFlVQ3dSZFQwcENGLXF0VEt1X2FrYW53UnNGRWJnX0hkcXR5YkQ1T252ZjV2TFNiNlNsTnByWHByNDNZN0tMd2Jnd29BS3dMZWRiTWx4Y09UcHlzdmVxVUlWaE9HREgyT2w3cDZycHhseFpfaFdCSFdwWk81Xzg1Z3JKLXB5SjhvOG5Ta29Sa2o2N3l2cVJfbEpQOG04UklfcHdxMEJHeWRaT0dRWWfSAdIBQVVfeXFMTTMtNXJKZ24wLXBFbE5sX0MyQkVjX3JjQTdVcFlzaXRRcG1QUV9WaF94Y19ZZ0J4Y3hkZVJxTzMzOWhpRk45ZkNlLUxfWHFDMVAyM01Fc29nY0tBb0M0NDhmVXBYbWQ3S0hzYWN0TEJjRE9UakJwUU5EMEF1STRjVlRPdjMxbkpOT01Ednc5a25sVURtX0c1THFCSHhOWU95eWRMSEdRVnAyQml4S1JfTnNrb0JWNThrWWNjcWhiN2xSVXBpVGpaYTAtZS04Z1hBOHBn?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:35:00.000Z",
-      "whyItMattersKo": "리베르타도레스 경기를 보려면 시간과 중계 채널, 선발 명단을 미리 확인해야 합니다.",
-      "fanTakeKo": "오늘 경기 중계 시간 확인 완료!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzRlZXNYNG9XUF85YW9abk1GOThvVklZRGZZVU9OdV9GWlpqWlFZdG1CeHF",
-      "title": "Palmeiras vai negociar jovens da base na janela? Latif detalha - UOL",
-      "summaryKo": "파우메이라스, 유망주 팔이설이 흘러나왔다",
-      "excerpt": "Palmeiras vai negociar jovens da base na janela? Latif detalha&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzRlZXNYNG9XUF85YW9abk1GOThvVklZRGZZVU9OdV9GWlpqWlFZdG1CeHFUMktKbE1KVjVvRVNfQkZYZ1czNkZqQndNWko3WDZBSUFfaWEzTkpYNmdaNE1Qd2FjZW8xZnhobEhOcEhkSWV0RXZJT1FHc2xYR0JQOXJiUTZ3aGhzeHRtSW15bl9telRpcUJCanA0YjMwZU5lemVOS09RMGt3SGJFcmZoSXNJVjh4am8zV01oSnQ2YnpIcWlTWl9LZTVLTmRwUQ?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:30:56.000Z",
-      "whyItMattersKo": "유망주 판매는 팀의 자금 확보와 미래 전력 보강에 중요한 변수가 될 수 있습니다.",
-      "fanTakeKo": "유망주는 팔기 아쉽지만 자금은 필요해",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd3Yzd0VDOWZxOGd3MVI0UC1HeElfcjZ6d0xDOHE0U3AzeXF3TTJSSE5TVmV",
-      "title": "Scout do PSG vai ao estádio do Palmeiras acompanhar Luis Pacheco, joia da base - Rádio Itatiaia",
-      "summaryKo": "PSG 스카우트, 파우메이라스 유망주 보러 왔다",
-      "excerpt": "Scout do PSG vai ao estádio do Palmeiras acompanhar Luis Pacheco, joia da base&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd3Yzd0VDOWZxOGd3MVI0UC1HeElfcjZ6d0xDOHE0U3AzeXF3TTJSSE5TVmVpcThTVEtHSENncmRtVi1JcU90RzZYa0NRSGJnaWxVcXlpSXJHSmluMml1R0xaeHh3WWUzWXdpQk5SNFBMRm9LY2ZUeElBN24zNlQxSUhtY2FyN2R3RGVkajVBQWNvSDVWY2VHUHpYQXJ3R3ZvS1hISFppWExWSXBOZXBpanZHaDhOTV9NbGUxTUlZNjFobXF3Y0NzLThzVGgzcG8xTktXSzJ4aWx0YlRBMUlwODNodnpHN0tYS2pVUElaNVJxSE4zZ2JrTkh3UQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:28:13.000Z",
-      "whyItMattersKo": "빅클럽의 스카우트 방문은 선수 가치를 높이고 이적 시장에서 유리한 위치를 만듭니다.",
-      "fanTakeKo": "우리 팀 보석을 보러 왔군요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-16-https://news.google.com/rss/articles/CBMipAJBVV95cUxNT0J5S1NnSnhnb2xiVmZzSkpDSm15SkVKeXlRandXQXBFbXNMSmRxTUtsb0",
-      "title": "Receita milionária garantida, reforço mais próximo e polêmica ganha destaque: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "파우메이라스, 막대 수익 확정과 새 영입설 화제",
-      "excerpt": "Receita milionária garantida, reforço mais próximo e polêmica ganha destaque: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNT0J5S1NnSnhnb2xiVmZzSkpDSm15SkVKeXlRandXQXBFbXNMSmRxTUtsb0pFLXQzNE1HRzc2NGZSaDIxYnNpUjF5OEF2M1dWcThVWWRJQUpUSUlieExKT0lXbHVtdWNIYWJJOW10aHNhTG5fRVNqbXMyRzU0VGdpUmdmeU9ROWNXclpnOVAySmNQYWZXRklvdThOTHFMbk9TRTlhR25UNzAtZllrMnJfeFNGR2hmeFNYY3QtdUtGN1lTaURBLTRlQWdjTm9wSWxMVFpCRm1WYWtrOEdpemJQLW1mX2RaYUIzNmtmMzFTT2YycTZCcmtxcExxRjFrN0dGeVhZS3BycHVqY2xjcXMybmZxbFRXUlBobXVxdkxvVnRiNzVp?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:22:00.000Z",
-      "whyItMattersKo": "팀의 재정 안정화와 전력 보강에 긍정적인 영향을 줄 수 있는 소식들입니다.",
-      "fanTakeKo": "돈도 들어오고 선수도 온다니 좋네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0lvRndlQk15eEhJb1ZNV2lVZTlDNXJOZ0diVTNWZUN0ZlRfaW9pQ2EzNEE",
-      "title": "Reforço português é registrado no BID e pode estrear pelo Palmeiras - Rádio Itatiaia",
-      "summaryKo": "파우메이라스, 포르투갈 신규 영입 등록 완료",
-      "excerpt": "Reforço português é registrado no BID e pode estrear pelo Palmeiras&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0lvRndlQk15eEhJb1ZNV2lVZTlDNXJOZ0diVTNWZUN0ZlRfaW9pQ2EzNEE2YUJCSkhhVDVXNnNWWUM5SUxPNkk1bzBTWUxNN1pXaUhlcC1rSVNpVDZnVkdkX1J4bWlOMGcwVGhlQm94RG9fMnAyT1dtNERpMjYtZFYtVGZGVEFBcFlSc1gyUkZPRE5GMlpIY0Zvc2RXaW1fZ2ZPem55N2haWU1Dcm9mTVMtblZsanVrRGt4My1kVHpNd2tvRmwyYWRqb0k2YVhzWFRoMTZCbEZ1N24zOHFxMnlsUVhBR2d2QjgyME9B?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:13:06.000Z",
-      "whyItMattersKo": "선수 등록 완료로 곧바로 팀 전력에 합류하여 경기력 강화에 기여할 수 있습니다.",
-      "fanTakeKo": "드디어 경기 뛸 수 있게 됐다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnFabEJoc2M5eG9ZT1c2Ry10U2NBY2R6NFN5Qks1Qkx6SWh2dDcxekE0NzR",
-      "title": "Lavieri: Palmeiras e Abel foram pegos de surpresa com protesto 'fake' - UOL",
-      "summaryKo": "파우메이라스, 가짜 시위 소식에 당황했다",
-      "excerpt": "Lavieri: Palmeiras e Abel foram pegos de surpresa com protesto 'fake'&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnFabEJoc2M5eG9ZT1c2Ry10U2NBY2R6NFN5Qks1Qkx6SWh2dDcxekE0NzRqWEQwMzhzQ0xhX1F6dnpOMmp4Y2VBWXJnS0NrUHpjV1p0WktRYW5QWUM4N0VBdDdDSlBSV3VDUVRQT0RfcTZ4V3RmVW9rRWYyZE5hdHJjSzFTS0t2TTdteEZ2N1JRSVk1M09UMjZBd2JjeUN4SFI4Mk1VYXFuS0NaM0syRGctaXVkeWtSRTVCWFVpcDFvMkFLSlJOdFZsNXJxUkYxaGtCcA?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:03:19.000Z",
-      "whyItMattersKo": "헛소문은 팀 분위기를 흔들 수 있어 선수단과 감독부의 집중력에 방해가 됩니다.",
-      "fanTakeKo": "헛소문으로 팀 분위기 망치지 마세요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-5-https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUVBwREZWYkhIblJiSnlJdUpGTVl0S1NXcF81M2VITXZHaGxLRDkyZ3VFRmt",
-      "title": "Palmeiras x Cerro Porteño: escalações e onde assistir à Copa Libertadores - CNN Brasil",
-      "summaryKo": "파우메이라스 경기 라인업과 중계 채널 안내",
-      "excerpt": "Palmeiras x Cerro Porteño: escalações e onde assistir à Copa Libertadores&nbsp;&nbsp;CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUVBwREZWYkhIblJiSnlJdUpGTVl0S1NXcF81M2VITXZHaGxLRDkyZ3VFRmtpbmFsd3poMnFoQnlQVmFQQlpwTnJHNnJtOTE1bGNRSExUWUg3b25JcnczV1R1RktWVmR5UEMyMzNsOWVXdWNRb1lIT3NtQXdYZms1YVU4WW5BYVA2WHA3SXgzamQ3c21EMTM0d003QWl0M1pkUThPWW1JOXJfT0Z3blJROHRWTm1pejNfbFI4dmVod0tIUFNqeWE5elpZM2R2ZzdoZW5SbFdiVVRwVmdIcWtZZzZIV2dGc3lsb05TZF9BSzNXTm9ROGxrbQ?oc=5",
-      "source": "CNN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:02:16.000Z",
-      "whyItMattersKo": "경기 전 선발 명단을 확인하면 오늘 팀의 전략과 승부처를 미리 짐작할 수 있습니다.",
-      "fanTakeKo": "오늘 선발 라인업 기대된다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3dpSUgzRTZpOGhaenRPZk1lZU9GNGNyZ3NyVC0tYWd5U1AwdktsVE9hLUR",
-      "title": "Palmeiras x Cerro Porteño: onde assistir ao vivo e escalações do jogo de hoje (12) pela Libertadores | Esportes | O Liberal - O Liberal",
-      "summaryKo": "오늘 파우메이라스 경기 중계와 선발 명단",
-      "excerpt": "Palmeiras x Cerro Porteño: onde assistir ao vivo e escalações do jogo de hoje (12) pela Libertadores | Esportes | O Liberal&nbsp;&nbsp;O Liberal",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3dpSUgzRTZpOGhaenRPZk1lZU9GNGNyZ3NyVC0tYWd5U1AwdktsVE9hLURHMTVsc3NKdHR5dHN4MlFkTTdmUDBXTjBkUjVRZE5aSHVjWUNIcExuYmQ1TDJuUmw4TDdlbzh0dkdsZnFDdWRacldvdmpJSXR4d0xEZHVJOFA0dnNBSFVzeHZCWmxQZWtPNkNaSFZyelg3UnZIbXlqR2dXQTM0c214c1d0UGFtQVZMNEVVZFZBelFMWmxUOU9zZXFpSjNiNjVPZWxCek9jVmZVa2nSAd4BQVVfeXFMT0RzeEhpTDg3b3p3ZmU4bWVYaVp1cHNqYnd6LUd5MWxuZG1zaEdhUURqVnY3WnFaajJUS1luZkF1Nko4QXVTY2tfeVJUWmU0LW5DNnVYd29ENTNrOUF6UWZWOEZsYUZUUnRxTU1pRzdxQy12aVpaVWNsaGJyb0hPaWU4T1ZnWnFSREwzT1h0R3ptWEtCWXdrUms1SE0zLTBHRTZXOFRMOHRuZk5JWERoQWxYNWtObDdBY1BSRjF6R1ozQXdxY1QyU2xPcWZsdllJenA1TDVpVjhNM01ycWZB?oc=5",
-      "source": "O Liberal",
-      "language": "pt",
-      "publishedAt": "2026-08-12T21:00:00.000Z",
-      "whyItMattersKo": "오늘 리베르타도레스 경기를 제때 보려면 시간과 중계 채널을 확인해야 합니다.",
-      "fanTakeKo": "오늘 밤은 파우메이라스 시간!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMinwJBVV95cUxOVWlpdmE5Z24tSGtaRlQ0OW1OdEVVYVJxNHJBQnF1eWpJQThobkdGM19pRmI",
-      "title": "Atacante de saída, chances de título atualizadas e atitude de John Arias: as últimas notícias do Palmeiras - Terra",
-      "summaryKo": "파우메이라스 공격수 이적설과 아리아스 태도",
-      "excerpt": "Atacante de saída, chances de título atualizadas e atitude de John Arias: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOVWlpdmE5Z24tSGtaRlQ0OW1OdEVVYVJxNHJBQnF1eWpJQThobkdGM19pRmI5eEE4TlEyVncxQjFwMVdoQ3RPYmhrRHNabVkwM2sxM0t3WkxWdzVLeVh4dUVmTFdrWXNnckVXNWRYMk5ScUNSZ3R2OFh5V1FjZzZlc1Q0RHUzQnA4Y25ERFNmbTRNUjdNVnBpR2JqNTNOckdNeGhtM19BQkE2aE5CV3plVHg3YU5uNG1va1FFaHZnOWxUS0tuU0xkSGRmSEhQN0ZOejVkWC1xUkxJMlNwelQwRWlleThpUnQ5SXU1N1V6SE9NSHVsLXZVMlEzcTRfSlVzOExJNlFfMmRiVmZ4MHcyenlkMjAzQ0ZZRGJINUlNcw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:59:00.000Z",
-      "whyItMattersKo": "주요 공격수의 이적설과 선수들의 태도는 팀 분위기와 우승 행진에 영향을 줍니다.",
-      "fanTakeKo": "공격수 이적설이 걱정되네.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMie0FVX3lxTE5oaXo2N3N0djZ4cDRUQV9LN2JpanBkeTFBMGdZSHQwZzcwbmp1U2dvcjlPVkp",
-      "title": "Palmeiras tenta recuperar força em casa contra o Cerro Porteño - Agora RN",
-      "summaryKo": "Palmeiras는 Cerro Porteño와의 홈 경기에서 힘을 되찾기 위해 노력합니다 - 이제 RN",
-      "excerpt": "Palmeiras tenta recuperar força em casa contra o Cerro Porteño&nbsp;&nbsp;Agora RN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oaXo2N3N0djZ4cDRUQV9LN2JpanBkeTFBMGdZSHQwZzcwbmp1U2dvcjlPVkpXcEg5aHJKeEhVY0xEVlBXQ1dLMnlmdEM1STVweEd3SGF3VktRR3lsM0Z4Q2VjZ3pCTEYtM1ZQaUpkZHVOQkpkUkRidkVjYw?oc=5",
-      "source": "Agora RN",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:58:47.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-9-https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXBXRVQ3M002cXUzdTFUaVVWc1BXVWVUeDFzSkZOM0lveDMwUUU0SGNPOVB",
-      "title": "Abel escala Flaco-Roque no Palmeiras contra Cerro pela Liberta; veja times - UOL",
-      "summaryKo": "아벨 스케일 Flaco-Roque in Palmeiras against Cerro by Liberta; 팀 보기 - UOL",
-      "excerpt": "Abel escala Flaco-Roque no Palmeiras contra Cerro pela Liberta; veja times&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXBXRVQ3M002cXUzdTFUaVVWc1BXVWVUeDFzSkZOM0lveDMwUUU0SGNPOVB1bUZhRWM5eDI2Q2I4UjBTQVdFNHFfME5zSV85d2thSkhicGNvZVhFdjEzQlV0WG9mbkJwY3dyOVlLX1NwSVE1aFVYQVlHWnE2R0hFQmJqNDIwZ0ItakpZT1dDMlozVDFLWWNOMXdKMVotbVBXN2xmeWVodUJtdllCdERBMTF0MXJrQ3Q3MFU5M2h4ZUwydFozSkRyUldkcmliNlNtcm1GaHF4NVVyLWxRM0E?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:54:01.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-11-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUWxxQnk3RVNla29PWTZubkR5M1ZQMjIwSDR5UURYbm1SczdQdm55UG85aU",
-      "title": "Cerro Porteño x Palmeiras: escalações do jogo pelas oitavas da Libertadores - Rádio Itatiaia",
-      "summaryKo": "세로 포르테뇨 (Cerro Porteño) 와 팔메이라스 (Palmeiras): 리베르타도레스 (Libertadores) - 라디오 이타치아이아 (Rádio Itatiaia) 16라운드 경기 분대",
-      "excerpt": "Cerro Porteño x Palmeiras: escalações do jogo pelas oitavas da Libertadores&nbsp;&nbsp;Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUWxxQnk3RVNla29PWTZubkR5M1ZQMjIwSDR5UURYbm1SczdQdm55UG85aURwbE9JMjk3VUtZc1poc25aeTZPSUI5cWxTWGJGZ1lvZ1ZXRFRYVWJyODRibC00QTNCeGR4bTN3UWVzRVVRSUR6aWNJbWRLemt5Z1hPN184RVcwYmtXQ0ZUUmxaVV9femFCWFlnRWpwNE9ROWdxSjZlT1I4OGdfelR3T3NMdmtLVy1UVk00RXhhenV4dV9yeWJVcHcyVUk5a3EySEN3dEIxb005WGdPbC1IR3BYVHptbDBIOHoyZmRhT2NMQ2dLQQ?oc=5",
-      "source": "Rádio Itatiaia",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:50:15.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-12-https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFdLSHZIXzI2R3FrelNNSjJhelZTdUpxRzhGUjl1Ym1yeU9pMHZVU0FXZG",
-      "title": "Como assistir a Palmeiras e Cerro Porteño no Paramount+? - LANCE!",
-      "summaryKo": "Paramount + 에서 Palmeiras와 Cerro Porteño를 시청하는 방법? - 입찰!",
-      "excerpt": "Como assistir a Palmeiras e Cerro Porteño no Paramount+?&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFdLSHZIXzI2R3FrelNNSjJhelZTdUpxRzhGUjl1Ym1yeU9pMHZVU0FXZGdtTGhmVlZjcGJRN1J3ZWpQSG4yMERPZzREcFh4cC1QbXdILUhpalFoV1RwY1RuNndScXp1UXBYWktzU1F6ZmNXLW90eWc1Q2lDLUZzcEpnMm5URE14VWd5U1FWZVlmX2g1ZFprcjJB?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:49:29.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnJHM2I0X2ZuOXJzazdFN0RLcFloekRnN1NLM19IblFqSEhWVU9DdHhFdz",
-      "title": "Palmeiras x Cerro Porteño: onde assistir ao vivo e escalações do jogo da Libertadores - ESPN Brasil",
-      "summaryKo": "파우메이라스, 리베르타도레스 경기 시간과 라인업",
-      "excerpt": "Palmeiras x Cerro Porteño: onde assistir ao vivo e escalações do jogo da Libertadores&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnJHM2I0X2ZuOXJzazdFN0RLcFloekRnN1NLM19IblFqSEhWVU9DdHhFdzNLaU0xQlVFZld5NUplRHdxeGRLa1NPTGlzb1hGTmRSSnJMQ0Q4dEpPdlhiX3MyUnVQTVQxYlV2eFFkTGhYek00ZzdlN05lRTFhMXpIY0JvWE9LWWw5d3FUbm5mamZOazlIMDltbUZUdnUtQ1duYkJpMXhuR3V4aEdRTVB0ZmZ4Tk9lQjBDcXpVTTJJZjJwWjFPMmxXY1NFV0FZWGJzcVdxTjQ5ZXF4QQ?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:48:00.000Z",
-      "whyItMattersKo": "리베르타도레스 경기를 보기 위해 시간과 선발 라인업을 미리 확인해야 합니다.",
-      "fanTakeKo": "오늘 경기 꼭 챙겨 봐야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-26-https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVNMdzljRHhNeUdrb1V5RTdqQnVYVks4NkFjX2I2ck5vbU44Rmd0MXJwZn",
-      "title": "Palmeiras terá Gómez no banco e mudança no ataque para enfrentar o Cerro Porteño; veja escalações - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 공격진 변화와 고메스 벤치",
-      "excerpt": "Palmeiras terá Gómez no banco e mudança no ataque para enfrentar o Cerro Porteño; veja escalações&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVNMdzljRHhNeUdrb1V5RTdqQnVYVks4NkFjX2I2ck5vbU44Rmd0MXJwZnNkNHpudk0xT0JWUDEtaVFVTThwbFV4c2pPX09JQmlWbEdrUG8tSVpwZU5WLXZUcTdpUWdhdU1neTVHdURHQk03T01FSHpOZkhqNFA4clZFRkFpdHB5VmxZeno4a1hxR3JkY2lOUDBaUTlGYWg1LUplSjVFTWJXMW9EaWlNMdIBtgFBVV95cUxOYUUxWVlzMkdJUmhQaWNQbU1aeFR2ckpjcWRiUUNXQWIyQUlaT05nb3B3aWl5a1lSTlRtazFvTk51Nl9US0hRcHI5QmlMc3I4azVGb3ZZX2lLMUNSTFROMnpVUnJ1Y2NobGRPNVBRMFpQbTFJS0JzM1BOQk1hN3c4WTFodVBheFVqeVJ2Wk9PM05tbkJ4NzBJSzFjMkptRk1YS0swQ2xpNXk0U1BQeEFtRWszZW9RQQ?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:47:00.000Z",
-      "whyItMattersKo": "리베르타도레스 경기를 앞두고 공격 조합과 교체 자원 운용에 변화가 예고됩니다.",
-      "fanTakeKo": "오늘 라인업 어떨지 기대되네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-14-https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXM1ZkFSaDRpRmwzWkc0VnBNVkxWMHNHV2hCT1dKUzhJeHp0THM0NkdmQU",
-      "title": "Palmeiras está escalado para enfrentar o Cerro Porteño; veja os 11 iniciais - band.com.br",
-      "summaryKo": "파우메이라스, 세로 포르테뇨전 선발 명단 확정",
-      "excerpt": "Palmeiras está escalado para enfrentar o Cerro Porteño; veja os 11 iniciais&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXM1ZkFSaDRpRmwzWkc0VnBNVkxWMHNHV2hCT1dKUzhJeHp0THM0NkdmQUFyYmZDTHFPazh0Nl9HU0lrZzFqei01Y1FpQTBfWlBRVUZhNzdJQ09nRjMzQ0FyQUR5NU96Umk5MkRDSzFhekU4SDltUkhTTUpFYTNvT0ZhVWFFbGZZZ2JQZWVJSFpvazMyaWZybU4xaGhyaTZnMGt0WkxobXBFcWg0NXpramdIakVacXFfTzJKZA?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-12T20:46:48.000Z",
-      "whyItMattersKo": "오늘 경기 승패를 가를 선발 11명의 구성을 미리 파악하는 게 중요합니다.",
-      "fanTakeKo": "선발 명단 확인 필수네요!",
       "tags": [
         "뉴스",
         "AI요약"
