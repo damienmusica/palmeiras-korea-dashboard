@@ -1,17 +1,33 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-14T05:56:08.818Z",
+  "fetchedAt": "2026-08-14T07:37:18.306Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlVEY1h3TVdXeTBWSlA3YWFYUnNXaVc1RFpBakdYcEVPYU5NY0pIWVBYNGh",
+      "title": "Vai poupar? Sem gordura na Libertadores, Palmeiras não planeja priorizar competições - ge.globo.com",
+      "summaryKo": "파우메이라스, 리베르타도레스 어려워 대회 우선순위 안 정해",
+      "excerpt": "Vai poupar? Sem gordura na Libertadores, Palmeiras não planeja priorizar competições&nbsp;&nbsp;ge.globo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlVEY1h3TVdXeTBWSlA3YWFYUnNXaVc1RFpBakdYcEVPYU5NY0pIWVBYNGhScENfWjRiWXh6YXdlRDdtUlJsRGo2U3Q1TjF5d2o2QlZPV2lUeVBRa29yN0JYUDRscFpQaHJFSU1ZY3FvcXBSai14c0NPTkUwREdzRUh6SzVwTnFIbzNUcFBaMVBXOUtzcXd2UEVvVDRZZ2tnQi1Tbzl5dlQ5YnhIcW8xRWxXS3ZtZENKaFBEVThxZXhhb19MakNMVDYyZTUtZWlUQ1BFSEY0Q1BENHYxeE5kR3VaQjQyNTDSAfYBQVVfeXFMTzZrWU0wMFNKc2V3WnVJcFRMVjF3LVBULUs2RzlEM2xDZDc3MVlZWTR0X0pXYXVUZUs3emxnZFprb1UtemdYc0NwM3dQOTJIN2laNzBZb05fVW54R1ZmRERXZXU3TFNoeW9zd2xUTVEyZXVYUjVTNEZNUHlsSUpTdDJzcVMwZ3ZMbE0yQXdjOUcyeW5vRmE5V2VjR2lsUnREU2VnbkQ1RzlGekJ3cmY5a25BVEtud0dnS1RHRnJxY25nYXRESU9UZGYxYzA5Z2dsSEg0TFJWMVdrQVhGS0sxbGJuS0FYSXJxRExkRnZPX2Q4SnJFTXZB?oc=5",
+      "source": "ge.globo.com",
+      "language": "pt",
+      "publishedAt": "2026-08-14T07:00:18.000Z",
+      "whyItMattersKo": "리베르타도레스 상황이 쉽지 않아 특정 대회를 챙기기보다 계속 최강 전력을 유지하겠다는 뜻입니다.",
+      "fanTakeKo": "쉬지 말고 다 이겨라 파우메이라스!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng",
       "title": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro - ge",
       "summaryKo": "플루미넨전 실시간 경기 상황 전해드려요",
       "excerpt": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng1amxEUkM3Vml6SFFnNlc1bGxlcjctYV80dF9lRXdLV0RhbHJVOFN6VzJKZ0hLUHFMVFdhdGNnMlpZNjNrd0xTQkRQal9ZT0xEVUdlT0JWRU5OVlFfazVXeHl2ajViYWFjVVRWTi1R?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
-      "publishedAt": "2026-08-14T04:19:57.000Z",
+      "publishedAt": "2026-08-14T06:02:49.000Z",
       "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
       "fanTakeKo": "무조건 3점 가져와야죠!",
       "tags": [
@@ -105,7 +121,7 @@
       "summaryKo": "코린치안스 수비수들, 앨런 퇴장 속에서 호평",
       "excerpt": "Atuações do Corinthians: zagueiros vão bem em jogo complicado por expulsão de Allan; dê suas notas&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcmRRdzlOSEdhUHFKeDY5TDFEUVhsUXBCYk53LXN6TFdTdGR6QzQxMUF1MFNJNUhuVlcySTdoNzBlekY3TjRWRDFRWVJTSGpMMlduOTkxb1ZRVmZZdHh3WU9kbTVaSHNXak51cmZGaU5DMVdrVGI1MTExVHdJVXRYMllPT3hSRlRWZV9CdEpqMjZqSjJSblBLYWs5c0VmTUN3cXpVeFJLdUhhdUY0eHR1N0V4bnJzQ0FNMnIyVjVCX1JIeXYwMkZ2bVNweUs0Q0UyYUpmNlIwMFBpRXNhU2o0QlpDcVVBa1NOb0puWkZEQjFadjN0ZkdyNzN2NFXSAYsCQVVfeXFMTnBPZHpic2kwT1VMcDAxQzhEbEtFdUxxcGc5OVVYclpHZ09PU2R4SC03R01IYnFCODl5MjF2NG5XT0w1WHZNWlBWaHRyZEYxQVZMX1g0WUxJR0J1WXk3WWgyZ3oxTFBId0lxSVcyRDN0U0ZXczJoMkxWTjdJZGY4SHcxYkhlWHJmSHlXMUJKY3M5M1A4TjJhZTdqWmxOemxGQ1NuaDgyQmx2TnFSRzhlNGVUYW4yQ2I3QVd5cnRjeERCVjF6SFJlMExJYzlveUhHamRhV3ItYVNwNFhlYXpXazhXbHRNMzl1NXppQXR1ZXNVLTFlYWRmOWhRQjVZc2RoZjJyOXRMNDdSOFlV?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-14T02:38:43.000Z",
       "whyItMattersKo": "앨런의 퇴장으로 수비에 부담이 컸지만 수비수들이 잘 막아내어 팀의 패배를 막았습니다.",
@@ -281,7 +297,7 @@
       "summaryKo": "아벨 페헤이라, 파우메이라스 결정력 부족 아쉬워",
       "excerpt": "VÍDEO: Abel Ferreira lamenta falta de eficácia do Palmeiras&nbsp;&nbsp;Imirante.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVZ6MEtiTklEaWlzTngzNVhmRVI3cE1SdFVYZWlRUkFWRDhMdzdPVEt6VFNDSVN4NkQwTndud0JaSHJ3MlVKZEJhWW5kOUZlWTUyMy1nS1RhMXNTTllKWU9ycDhfS21KaC1SOTdHTzlIRFJfRXRVdUd3Y2poWmlKQ2lEbUtLNE1SZ0k5d3NXYjlINXUtOW1oZGxkR0N2VGQwOVd2dnJFOTfSAa4BQVVfeXFMT2hfc2p3MHB6aWc0RTNkQ1NibG1RZlZ6NlpweVF1LWNBVGJSQzlWTVQ0a2dxVi1mN0RuLUl0VVRVOERvY0VfVmdualVheTAwZlV3R0Uya1FkaElqMnVpalFmWHd3SVIycHN4bTBVNGdmeTZhY3pzT3AwVXVSV1RLTXJhdVBUenpVOW9SZUdESjhCcnJHOGgzeWE0aWNKR1h4S3dFOUZBOU5iMnY2WF9n?oc=5",
-      "source": "imirante.com",
+      "source": "Imirante.com",
       "language": "pt",
       "publishedAt": "2026-08-13T22:45:00.000Z",
       "whyItMattersKo": "공격 효율이 낮다는 점을 지적하며 팀의 득점력 개선이 시급하다고 언급했습니다.",
@@ -297,7 +313,7 @@
       "summaryKo": "3백 시스템 쓰고 팀 전력이 떨어졌나?",
       "excerpt": "Verdão desencaixou com três zagueiros? ge Palmeiras opina&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1h6NzZBSXRYMWV4b1pDLXJDZGVrSTdCTE5ubThHcVpBSmU0OTBvR2NCWEVVejR5UVBnbDctbWtuWmhzTTI5MlAzZllzMWdWemZvWlBVdFNabUVGeUZxZmR4aTBYYlJHaHNDUzJBVzNQYlJ3MTlIcXYza3FRZDlnRTdVZ0kxYnNidWtKQWJWMm1NeFpOZE5TdWs3TmQ2emo1U3Q5aTV4cWFsc0hnYXBBUFFCOFlpV3ZncGE0bFBUUdIBzgFBVV95cUxOZEhiNnQwMWR3ZDR2YUpGdnZXSGJpdXpjWFpXa2VpQnN1ZEJSYmJVY1RwenhiclkybmE3eDhIY2ZrbThlanJvUVVWVlNYam5DM3poVEZjamxWcG9QUXlBTzd4UjY4aGt0Qmg0MlY4bXJ4d1JlLTBBbGd2YVEwaXV3a0dybnJsUU1fOGgxSEE1NHBEeXRJRFRPOEZWVGY0U2dxOTRhNXFOckRwWHpQaUlTN01CN3owcmVPSmJLdjhXeDVEcWF2eW5LamtwVEo0dw?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-13T21:59:57.000Z",
       "whyItMattersKo": "수비 라인 변경이 공수 밸런스를 무너뜨려 경기력 저하의 원인이 될 수 있습니다.",
@@ -505,7 +521,7 @@
       "summaryKo": "그레미우, 다닐루 바르보사 영입 추진",
       "excerpt": "Grêmio negocia contratação de Danilo Barbosa, ex-Palmeiras e Botafogo&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3pXdjVydm9iVFF6S2Q2NkVpRGZFcm9NWk93WE80QU5rS3BSNGYzQVhPVFlUcDNhbmJVNGlUeUx3TnpHVzlhUTZsOHdfWjN2TURTV3NsQUphblZEQTkzMkJtSU1XVTNUSEVrWmRFa0xmbjFIUFVCVGI4SHhrbDlpOHBaUklYRGltT2JSWl9GTWxBUWtBSUZORFRGYy1Wc2ZwWklCVDFvTEUtTVpDRWc5U2IwWkRaZ1A4MWlQeFhTUmdhUGszRHJ5ZEZQbWZxZHJDLUJRSdIB4wFBVV95cUxPMzdCRFlfRnVPd1NxUU12ZlQyaFlhbW1tcjB5S1JUSmZYU1B5eWkyRFJTRFlkbmJ3TG9uaTBGdllyVFZfaFJFejUxTkFfNHpSOE1KRE1qcTBiWWVGVHM3VzVnaC1pUkpGUEJsM1NfaTBwelp3NG1RcjVrbkFGQlN4QlptOU51ZVYzLXA5SlJiV01YVnpZb200NWgxTVpCazZzSEs2Sk9jeEx3bTBRei02WnFqbDd2NHpiYmdvZkJoMklSbXMtbWhpcUQyZHlNRUZlRFAxTTBRTmZRaTUzRjRjazZoOA?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-13T18:43:00.000Z",
       "whyItMattersKo": "전 파우메이라스 미드필더의 이적설이 나오며 브라질 시장의 이적 동향입니다.",
@@ -585,7 +601,7 @@
       "summaryKo": "파울리뉴와 푸흐스, 팀 훈련에 합류했습니다",
       "excerpt": "Paulinho trabalha no campo, e Fuchs treina com o elenco em reapresentação do Palmeiras&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjFaUF9BZUxGMDllOXRvaWdRZFpYRS1RZkN5R0dsMlBIbkw4ZGZRZTJSdHJMR0l4bTh5QlJJUWtEQ0NlZEItSzB0VnE0cVFjQm9qTXhoOW1RczlxZ2FHeFJ4YmpRTjNUQmIxVmpuWkpfTnNrSkFxa0FVNDZSRGk1Tk5PUVZ2dmtXWmZ1YXBvZUg2dlpiMXhlNHN6aElfUWxvYWVVbHZXZXhzVm0waEQxc2dhWXEwTWphNEJKU0gzN0I1QjU2TkpKdHdVQk9KUXFjdGVkU2lhR09vUmpQUHh3ZjZNWVlIMll2ZzJF0gH6AUFVX3lxTFB0T2ZMUE5RVXQzUXY5VUxOWG9QZmVlVDl6aUlrUzNLc2s1dGpBalY1dGNXSm8zOU5hdldRTWxTM3haaXBoN2JIX3VoMUMzZ3M5ZVhBck9TOHkzYzR3NjBwN3pCaGNoeHZtR055VWhRYUdTYUV0U3JsVEVtaVB4aHY0RlNjaVlncEtUYWszbG5DWkxmV25VRjVsREVqako0S1NiUUZLMmJYWktwZnExZGtwcV9fdWJSMWlHSHpyTmR5UWhpOVkzYThTajd2QXNIbUJ2Z0JhOTRMaXFMWmwxeTdTN2lwMjVLakFyVlZnNnpaV090ZFJoRTR0QUE?oc=5",
-      "source": "ge",
+      "source": "ge.globo.com",
       "language": "pt",
       "publishedAt": "2026-08-13T17:19:19.000Z",
       "whyItMattersKo": "주전 선수들의 복귀는 팀 전력 보강과 다음 경기 라인업 구성에 긍정적 신호입니다.",
@@ -932,20 +948,6 @@
       "source": "Gazeta Esportiva",
       "language": "pt",
       "publishedAt": "2026-08-13T14:13:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRkxxdEVwUGlYZktuQ1phd19RNUs5UkhwWWE0b1NxRjN6bkRTaTFDSkpfeGZ",
-      "title": "Flaco López fala sobre postura do Palmeiras no mercado e afirma: \"O futuro é algo para daqui a pouco\" - ge",
-      "summaryKo": "Flaco López는 시장에 대한 Palmeiras의 입장에 대해 이야기하고 \"미래는 곧 무엇인가\" 라고 말합니다.",
-      "excerpt": "Flaco López fala sobre postura do Palmeiras no mercado e afirma: \"O futuro é algo para daqui a pouco\"&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRkxxdEVwUGlYZktuQ1phd19RNUs5UkhwWWE0b1NxRjN6bkRTaTFDSkpfeGZCVXdsdjFVck82TW1jZWtVN0NoTjhFUk04VVdhYlh2S1dwZXNnc1F6NkQtRENnb2J3MmVwRjhZQ1g4SEtKcXB0b0ZqQzlkd2RaaE5iOVRxYkJna3BNV0wzQi1Ydm1Yc0ljMUJXeUpZdEJaOUFlMlQ4Q09NTWg5WE1hYWIxdDMxRjB6eVV6RXhwb3VNTlp6M3VNc2pDdkxsZW9UcmJTaWd1Qy1lcGxDMVRUU19abWR1LVlWbXY2SFZUVzhDTnJfVE5OenZKM0gzRTDSAYsCQVVfeXFMT1dSckcwV0UyVGdnOExldUJmeU5WVjA1aFhnSkV1YzlONmJXeTVNYXpLMVR1N3JmYU41Y1FBRkZGaVY5Wmd5TW9xQnEwQmRnR3pyaHgtTHRMZ0cyd3VTUExXX1dNOHRPeUdhUE1QU3R4ZzBBREdvbTNmblF0OHRBanltTlJVNmFEOXpmeG9tX09kY19DdXpHakY1SkVoOWlzUzZyeXE5ZTlfU0ZXcURqelJqN2RrcW5lMy1ScU1JZ1NNX1ZES29GQ0pZb0JDLWlTZ3AtZEVCdG1VeHRwQVNkOHV1YTIwTm1ZWllDOFluWFZnaFdZbkJuRXdyNWtZZk9WbW0zTW1vcnRqMjZF?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-13T14:03:39.000Z",
       "tags": [
         "뉴스",
         "자동번역"
