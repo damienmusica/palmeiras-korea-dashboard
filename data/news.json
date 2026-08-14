@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-14T23:22:00.464Z",
+  "fetchedAt": "2026-08-14T23:48:06.993Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZG9rWVNoRXpKQVFVY21TWHhXbmRleWVmc2toMFdyNGFoZnJRSVNVY0RMS2x",
+      "title": "Brasileirão 2026: líder Palmeiras visita Fluminense; Atlético-MG x Grêmio e Vasco x Santos agitam a 23ª rodada - Jornal Grande Bahia",
+      "summaryKo": "브라질레이렁 선두 파우메이라스, 플루미넨스 원정",
+      "excerpt": "Brasileirão 2026: líder Palmeiras visita Fluminense; Atlético-MG x Grêmio e Vasco x Santos agitam a 23ª rodada&nbsp;&nbsp;Jornal Grande Bahia",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZG9rWVNoRXpKQVFVY21TWHhXbmRleWVmc2toMFdyNGFoZnJRSVNVY0RMS2x2YnB4WW1GS19EdS1KT1ZiSFJ6V2VheHRZZzZyYkl1Y3lmd2hjRXphbVpTRFZRUzA2VEF1MlNXeWdTdEQ0T1ZYUVBGaUUyZWpMaENfRDZoT18tYXdqNnlXSHBsSDU2MW8tNC16empfNDQ4ZDBmY3k1V1ZUYkl5VmVvZzQwa0pKbE1ienI3RmZHZTAxbDJJYUtuVUhoaGxrMVNJLW9VMEh3azlqZzg0ZVpPNjRSblI2Sm8?oc=5",
+      "source": "Jornal Grande Bahia",
+      "language": "pt",
+      "publishedAt": "2026-08-14T23:30:18.000Z",
+      "whyItMattersKo": "선두 파우메이라스가 원정에서 승점을 챙겨 리그 선두 자리를 공고히 할지가 주목됩니다.",
+      "fanTakeKo": "원정에서도 3점 꼭 가져와야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMirgFBVV95cUxQNk9yLXR1QUZFMVhMZEttcUpnZ2djUHlDUDlScko1TGphbFhPYkpZQ2lrVVB",
       "title": "Fluminense x Palmeiras pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações - gazetaesportiva.com",
@@ -934,22 +950,6 @@
       "publishedAt": "2026-08-14T14:38:00.000Z",
       "whyItMattersKo": "이적설과 대전략 변화, 주장 발언까지 팀의 현재 상황을 종합적으로 파악할 수 있습니다.",
       "fanTakeKo": "유럽 가는 유망주가 누굴까 궁금하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOFJmTjRfdEJrUmZ0S1BhMzV6QzhVTE1zYUloSnBkTzNUaWdPX1lSRUppaG0",
-      "title": "Palmeiras vai pedir revisão de cartão vermelho de Andreas na Libertadores? Veja como clube avalia caso - ESPN Brasil",
-      "summaryKo": "파우메이라스, 안드레아스 퇴장 항소할까?",
-      "excerpt": "Palmeiras vai pedir revisão de cartão vermelho de Andreas na Libertadores? Veja como clube avalia caso&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOFJmTjRfdEJrUmZ0S1BhMzV6QzhVTE1zYUloSnBkTzNUaWdPX1lSRUppaG03OUlzV2Z1ZGtJRGdsaWFhVTd2MXdDTk9yVjJuYk9zc1EtaTdkWUlfazgyd2JXTzRIUzJFQmxFbnJhYXczLTZ2X3hNYXVFeENnQ1prZXZFYzhuMXVpMzAzWTg4WlF6TmdVUFlEMVhNVnY2dHdhazN1WklGcVFQWVU3bXJIYnUxX2Y4aWJQRHFPNERhS2MyODZuOEJKZU1lbURRZzJlYmtESHNqQ1c3UVJ5TGFtWFR3M20tb0JvazZ0OGpoTXBLdFRGeFE?oc=5",
-      "source": "espn.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T14:24:00.000Z",
-      "whyItMattersKo": "주전 선수의 출전 정지 여부가 걸려 있어 리베르타도레스 향후 일정에 큰 영향을 줍니다.",
-      "fanTakeKo": "항소 성공해서 빨리 복귀했으면 좋겠어요.",
       "tags": [
         "뉴스",
         "AI요약"
