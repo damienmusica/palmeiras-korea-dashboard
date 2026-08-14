@@ -1,8 +1,88 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-13T23:41:47.699Z",
+  "fetchedAt": "2026-08-14T02:01:06.843Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDlza3N4cmd1Y3kyZEFaMks3M1FIalJibnIyOGgtdWtjN2c3aks0YlhrRV9",
+      "title": "Flamengo deixa escapar e atacante começa a se destacar no Palmeiras - Terra",
+      "summaryKo": "플라멩구 놓친 공격수, 파우메이라스서 맹활약",
+      "excerpt": "Flamengo deixa escapar e atacante começa a se destacar no Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDlza3N4cmd1Y3kyZEFaMks3M1FIalJibnIyOGgtdWtjN2c3aks0YlhrRV9zLXZtQ1ZzS1l0a19MMklPQWRKS19SX3BtTS1TcHFrbEhZMEFXSU9tczBKaENoTHVXWkZCZFFMTWtrX1NUd2VTaHczSUVkZFlIVER6bU1reWlxeWtIUGdpTEl5dDhFdnhMTGRfb192MW9vMkktTVlKOTdEeGZJN190aV8yaVhRdld4d2ZWT0J0M2M5WmZ4RE12ZW0tNWlqVWRYNHpHaXhnVXp0U19mU1F1SkNneTQtZXRvVWswcHFBcnFR?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T01:34:00.000Z",
+      "whyItMattersKo": "라이벌 플라멩구에서 이적한 공격수가 파우메이라스 공격력을 높이고 있습니다.",
+      "fanTakeKo": "플라멩구 팬들은 속이 쓰리겠네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng",
+      "title": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro - ge",
+      "summaryKo": "플루미넨전 실시간 경기 상황 전해드려요",
+      "excerpt": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng1amxEUkM3Vml6SFFnNlc1bGxlcjctYV80dF9lRXdLV0RhbHJVOFN6VzJKZ0hLUHFMVFdhdGNnMlpZNjNrd0xTQkRQal9ZT0xEVUdlT0JWRU5OVlFfazVXeHl2ajViYWFjVVRWTi1R?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-14T01:19:55.000Z",
+      "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
+      "fanTakeKo": "무조건 3점 가져와야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMiVkFVX3lxTE94dFZ5RnJzZGw4bGNUMW9Za0hjb09pbnJYSzJLS1JkaGJIUWdwRHpzZXpEMzJ",
+      "title": "🗣 O furuto de Flaco López! O atacante Flaco López falou pela primeira vez sobre as propostas que recebeu do exterior e a decisão do Palmeiras de mantê-lo no elenco. @dudacabreira traz tudo para você! #palmeiras #palmeirasonline - instagram.com",
+      "summaryKo": "플라코 로페즈, 해외 제안 받고도 잔류 의사",
+      "excerpt": "🗣 O furuto de Flaco López! O atacante Flaco López falou pela primeira vez sobre as propostas que recebeu do exterior e a decisão do Palmeiras de mantê-lo no elenco. @dudacabreira traz tudo para você! #palmeiras #palmeirasonline&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94dFZ5RnJzZGw4bGNUMW9Za0hjb09pbnJYSzJLS1JkaGJIUWdwRHpzZXpEMzJ6cnpEZXhSZFVHMjI4dk90UnVNLU01LURFSVpPblgyMVlR?oc=5",
+      "source": "instagram.com",
+      "language": "pt",
+      "publishedAt": "2026-08-14T00:29:40.000Z",
+      "whyItMattersKo": "해외 이적 제안이 있었던 공격수가 팀 잔류 의사를 밝혀 전력 유지에 긍정적입니다.",
+      "fanTakeKo": "로페즈는 우리 팀에 남아줘!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
+      "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
+      "summaryKo": "플루미넨전 분석과 전망, 관전 포인트는?",
+      "excerpt": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08)&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJjX1B5anRCSDdNbkdad3oxNmNxMkVCTEhlWEszUFJOOUVacWxLNm96YURsRlZERjNxeGtBWHZpcEdvWEl5LTZFRVFsMXV0a0Y0YkljLXNLVndxYk0td0Q5XzJuTzVrZU0?oc=5",
+      "source": "lance.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-14T00:27:35.000Z",
+      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
+      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNFM1SVJQLXVPN0UyWkxINEhBeVhnbVVFYTN0eV90c202dFo4a0NvTW50U1g",
+      "title": "Palmeiras pretende tomar medidas e reclama da expulsão de Andreas Pereira - Terra",
+      "summaryKo": "파우메이라스, 안드레아스 페레이라 퇴장 항의",
+      "excerpt": "Palmeiras pretende tomar medidas e reclama da expulsão de Andreas Pereira&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNFM1SVJQLXVPN0UyWkxINEhBeVhnbVVFYTN0eV90c202dFo4a0NvTW50U1g2MVpVemo0YVl2eEZ6VjR5ZHc4NDhaZDg0b3RBNVlmWHE0bmtXT0tuUjR0QUdlbzI5NjdSZ2dHNUdOYU9aaExiZDZoSmlFNGVweEIxaklycm01X1FPYU5PMWxuWU80T3c0cHdsb3JCaFRoLXFWWjlxTlJBUmNKVDVFTWVWaDdKX1Y3c0xzYmdtMnpLemVkR2xlWGVneHJ5UU9zX1BiYWQzTGJEdnBKX25LWUxUTzdlbHhyUTJpSmtEb1VOVXNmRXJkd1E?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-13T23:11:00.000Z",
+      "whyItMattersKo": "핵심 미드필더의 퇴장은 불리했으며, 구단의 항의로 징계 감면 가능성이 생겼습니다.",
+      "fanTakeKo": "억울한 퇴장, 번복되길 바라요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZvTEszMGhZYk1zclJMdllWdHpnWFdYZG5sMXVqaG56ckhwU0JVN3NxMnF",
       "title": "Palmeiras x XV de Jaú pelo Paulista Sub-20: veja prováveis escalações e onde assistir - Gazeta Esportiva",
@@ -84,22 +164,6 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng",
-      "title": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro - ge",
-      "summaryKo": "플루미넨전 실시간 경기 상황 전해드려요",
-      "excerpt": "Ao vivo: Fluminense x Palmeiras | Rodada 23 | Campeonato Brasileiro&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng1amxEUkM3Vml6SFFnNlc1bGxlcjctYV80dF9lRXdLV0RhbHJVOFN6VzJKZ0hLUHFMVFdhdGNnMlpZNjNrd0xTQkRQal9ZT0xEVUdlT0JWRU5OVlFfazVXeHl2ajViYWFjVVRWTi1R?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-13T22:13:29.000Z",
-      "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
-      "fanTakeKo": "무조건 3점 가져와야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-1-https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1h6NzZBSXRYMWV4b1pDLXJDZGVrSTdCTE5ubThHcVpBSmU0OTBvR2NCWEV",
       "title": "Verdão desencaixou com três zagueiros? ge Palmeiras opina - ge",
       "summaryKo": "3백 시스템 쓰고 팀 전력이 떨어졌나?",
@@ -121,7 +185,7 @@
       "summaryKo": "아벨 감독, 선수 실수에 \"우린 한 팀\"",
       "excerpt": "\"Estamos todos juntos\", diz Abel Ferreira sobre falha de Carlos Miguel&nbsp;&nbsp;CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE11OTJlMWpJUmxIanBIeHVZWWpOMmFFejlucTBUOHJqeGVjRmNlNTV6c1ZMaFltT1RyMmhfYVVwelF4N0tvT09DWEJGdElINURRenZDeWNubUd5M3FrUXRfd0J2a1hVN0Qwa1RCa2piSF9sSml6a0hoMmNaMkdlZFRuWmlzazNSeWFvTXFPbHFkWnowa043SmFxWmNJQzRIQUZvd2tDZkt6VVBTWC13RXpHNVRQa1l0NVZoeUFDLTAwdw?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T21:47:28.000Z",
       "whyItMattersKo": "감독의 공개적인 지지는 선수의 자신감 회복과 팀 분위기 안정에 중요합니다.",
@@ -158,22 +222,6 @@
       "publishedAt": "2026-08-13T20:52:34.000Z",
       "whyItMattersKo": "골키퍼의 잦은 실수가 팀 성적에 악영향을 미쳐 새 선수 영입 여부가 관심사입니다.",
       "fanTakeKo": "골키퍼 문제는 정말 걱정되네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
-      "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
-      "summaryKo": "플루미넨전 분석과 전망, 관전 포인트는?",
-      "excerpt": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08)&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJjX1B5anRCSDdNbkdad3oxNmNxMkVCTEhlWEszUFJOOUVacWxLNm96YURsRlZERjNxeGtBWHZpcEdvWEl5LTZFRVFsMXV0a0Y0YkljLXNLVndxYk0td0Q5XzJuTzVrZU0?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-13T20:50:52.000Z",
-      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
-      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -265,7 +313,7 @@
       "summaryKo": "나폴리, 파우메이라스 출신 영입 꿈꿔",
       "excerpt": "Sem Lukaku, Napoli define ex-Palmeiras como grande sonho&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFV4Z2FnVGpudHpOSVNHNVA5aFNWYUhDZjRGems0WTVPNVRiYWV3ZGlyclAxb0lDYUxMX3RhR3hwVjB1R1hoazNIaU9oR095UUhLSm1ESU02TW9jWEJyOURMcWt5d1QwbFRjNkFkR2xuY1d6VG5mUU5reURFc0VQT2phNDZzQklicm1PVFVXZUJZdnhaeXl0SHRJWHI0T0huYng1bk1ZVUhueEU?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T19:50:00.000Z",
       "whyItMattersKo": "유럽 명문 나폴리가 우리 팀 출신 선수를 노린다는 소식은 이적 시장의 큰 이슈입니다.",
@@ -329,7 +377,7 @@
       "summaryKo": "파우메이라스, 안드레아스 퇴장에 항의",
       "excerpt": "Palmeiras vê expulsão injusta de Andreas e acionará Conmebol&nbsp;&nbsp;LANCE!",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclBSUUR6ME9WNE9yaHA2eW4tM2lYRHV2SjRjY1VLTUUta25Zc3VmRVNyMU80X3RKYmwwY0tjLURLbmtQbmZ4LUUwc3pqcUg4ajhOeTRKRFpIY3ppT2l5SWd0ZWpjTlNGODVYRmUyejhETWpEZC1ydEpNUllKai1zZmNfekRYNzRtdmdlRDNPVVhFZnJZa3lBdGFsempuaTZxeHc?oc=5",
-      "source": "LANCE!",
+      "source": "lance.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T18:57:40.000Z",
       "whyItMattersKo": "논란의 퇴장을 번복하기 위해 항소를 진행하며 선수 출전 정지를 막으려 합니다.",
@@ -473,11 +521,27 @@
       "summaryKo": "파우메이라스, 무승부 뒤 수습과 로테이션",
       "excerpt": "Como Palmeiras 'digeriu' tropeço contra o Cerro - e quais são os planos sobre poupar nos próximos jogos&nbsp;&nbsp;ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkMwQXB5eTh4MmlGX0Z6M2V4dGhxR2JaQ3RiMkh4RTY3MjZ6NVZOcTAzSkl6azRFd1dGUWdzeTRMREJxRktPRm41QWdhbDhJWHlFSEZoX1FjU3Q3UlRMN25pRmpfb1VydGMxR0Y4LUkyWFhySTBzUW9tNlVrQlVISUtQUll3dGhFaHE5dEpwMHFzOS01MTlzMW9tRUFKT3NvM19LSUpPX0tpdG5KRWtSampUUEdkRk1MUVBxaEpIaktsdG9idThnLU94VWhDWlJobHIweWFCOTM5QQ?oc=5",
-      "source": "ESPN Brasil",
+      "source": "espn.com.br",
       "language": "pt",
       "publishedAt": "2026-08-13T17:08:00.000Z",
       "whyItMattersKo": "부상 방지와 체력 관리를 위해 다음 경기에서 선수 교체가 예상됩니다.",
       "fanTakeKo": "주전들이 쉴 수 있으면 좋겠다.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-27-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXdxdFdtaENxUHpkTUtNc0hDLTI4Zjh0dzVnNTBjMDQ0Z1pHQmt5VTRWR0",
+      "title": "Sem Zubeldía, Fluminense se reapresenta e treina sob o comando do técnico interino Marcão - ge",
+      "summaryKo": "플루미넨시, 주벨디아 없이 감독 대행 체조",
+      "excerpt": "Sem Zubeldía, Fluminense se reapresenta e treina sob o comando do técnico interino Marcão&nbsp;&nbsp;ge",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXdxdFdtaENxUHpkTUtNc0hDLTI4Zjh0dzVnNTBjMDQ0Z1pHQmt5VTRWR0NrYWltTm41amxMWmlDdmhDQ1BKdlI3OWNmZEhiRkFlRl9Ick5UZFI3NzZKLTBRM1Z0TXF2b1ZEeFBNTHp4cjl1Qm1adEFFa2FJRmZ1M3VZRkRZNF9nNzNvTHp6RjdOcHlEcHhlRl9vSDJwZ3FSQ1dEcG1Kb2xRT0U2ejJoaTZ1SWZyRnhmM1BOZ01tV00zc2xBeGlqeXFHOFc4bUItT0hSV2kxb1lENklHVjRSOWpoR0hpeHJBeXYtdUFURETSAf8BQVVfeXFMT1dGLVRXQXEtTEJkMGVxaGN3Q1RzNHFqWVJBN1h0cGpPUHQteXlRZ09Ja0FZOUF2T3cxaU1MbWhUcEl1ekFOVm1oandBUUtkLVctMW9PZFRmQjVTZEhOUDNhMWxiM2xNcndQVWR4YjN6eUNxTzRhbUNxdXBUdTk0bndZWU9YaTFOVGVkNXJhdVBPMlhmWGRfcEU5YXhsRDZSdVJGSWFqYksyUW1hcUFLSVhJNGRHeFpHV2Y3UWJnMDB1a3I5SGVWazBBNTlfU3pNWFZXTXV0dWNIOU04engzemhCa2stYnVKQ2d3Zm83Tk1Ka1B1VDdMMU10WXFFUERr?oc=5",
+      "source": "ge",
+      "language": "pt",
+      "publishedAt": "2026-08-13T17:05:38.000Z",
+      "whyItMattersKo": "상대 팀 감독 공백은 다음 경기 파우메이라스의 전략 수립에 유리하게 작용할 수 있습니다.",
+      "fanTakeKo": "상대 감독 없으면 우리가 유리하겠죠?",
       "tags": [
         "뉴스",
         "AI요약"
@@ -878,70 +942,6 @@
       "publishedAt": "2026-08-13T13:03:23.000Z",
       "whyItMattersKo": "리베르타도레스에서 같은 팀을 자주 만나는 일은 드물고 체력적으로 큰 부담입니다.",
       "fanTakeKo": "우리 팀 강하다는 증거네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-6-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTdSQ0JVV2Rxc08tckZUdjNWR0hKY3YybkR2ZndtM0dpQ0xJTjZFRU5LX25",
-      "title": "Palmeiras apoia Carlos Miguel após falha: \"Somos uma sociedade\" - Terra",
-      "summaryKo": "파우메이라스, 실수한 카를루스 미구엘 지지",
-      "excerpt": "Palmeiras apoia Carlos Miguel após falha: \"Somos uma sociedade\"&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTdSQ0JVV2Rxc08tckZUdjNWR0hKY3YybkR2ZndtM0dpQ0xJTjZFRU5LX25rXzhNVGlKWjdYMF9zbm5zMEk0ak5XS1VFNXlmNEdGQVhmSE5acjRzVU1oVnpLdUJyUFhKRE1aZUthNXU0TkhId0k0NXlhNWs1SmQ0QTBSem5JYjc4SDdVbWYxNEU1SHpGMDBmcllEczU4cDh1OUw5MkVDZUNuWV9BY29oamVIdm0teWswN0xhcHNKQnRLN0ZMdTA0RXdPZEZ3czBfZTVOY3k4T3lMeDNaS1B6YnRKSkk?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:59:00.000Z",
-      "whyItMattersKo": "선수의 실수를 함께 아우르며 팀의 결속력을 다지는 중요한 순간입니다.",
-      "fanTakeKo": "함께 이겨내자 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMihwJBVV95cUxQLXhxT0RVMEpkV1ctaGRFalk2S3FCbk9jeHRmYk5NOW8ycmk4c3RFWWZiWTJ",
-      "title": "Palmeiras oscila em momento decisivo da temporada e torcida perde a paciência com Abel - Terra",
-      "summaryKo": "시즌 결정적 시기 부진에 팬들, 아벨 향해 비난",
-      "excerpt": "Palmeiras oscila em momento decisivo da temporada e torcida perde a paciência com Abel&nbsp;&nbsp;Terra",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLXhxT0RVMEpkV1ctaGRFalk2S3FCbk9jeHRmYk5NOW8ycmk4c3RFWWZiWTJDNUNYc1AxZXZUdjliMTVVTFNjT1k3bnJYT0pMeXRsaEdUTGRQWUxXTS1WYzVXdnllVzRPWUVvUl9kbkJQQlVZMWtMcUtMVmo2RlNNWC1qNVBNdmZLTVljTmNQa3dheXhfS2NLUGZzNlpOQXNGUDVGTzZidkcwamxkME9wVms1WEZxNzBZZDN2Vl9lN25PcERlajNtU1FsN1pLX1RLb3NLVGRXZHp0NHBtX2hxeHVjYnVEN25NMDE1MjBickRvZ1NiNUh2YkQyTmdjM1pwMEYzdGlJdw?oc=5",
-      "source": "Terra",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:51:00.000Z",
-      "whyItMattersKo": "시즌 핵심 시기 성적 부진으로 팬들의 감정이 아벨 감독에게 향하고 있습니다.",
-      "fanTakeKo": "너무 답답한 상황이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVpFZm9kVkh4UVZNa293UUNaYWh1QWZvU0hYT1NYNndfMmdGSW16NGc2anh",
-      "title": "Palmeiras oscila em momento decisivo da temporada e torcida perde a paciência com Abel - Estadão",
-      "summaryKo": "파우메이라스 부진에 팬들, 아벨 감독 향해 인내심 잃어",
-      "excerpt": "Palmeiras oscila em momento decisivo da temporada e torcida perde a paciência com Abel&nbsp;&nbsp;Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVpFZm9kVkh4UVZNa293UUNaYWh1QWZvU0hYT1NYNndfMmdGSW16NGc2anhBZDR3UU4zWlR4ZFhnRjV4c0s0cTUzbEt6OEdfWC1MYnRrdmdyYVFMWDdjX0FyTV9BS0xySlhIdmVza2RZZVl4UGw1ckk0eFVBNUNUcjZNN3Eza2dCSXVwbUFTWDVUM29IdXZQal9kaFljeDByQ0pKX2FXV2FIWnAtcEp2a050eHFXYjdJc0NpMUQtOUpXU1VmbjVPX3dlWVdjTklYdC1Z0gHYAUFVX3lxTE5BM0VUdmxYWHl5ZXV1VFlRVnVHa19fM3dwcWtwZkhFaE9PcHBJaDdINnRjNHhQbkZpRm1rbm9ialhBRGxiMWVTTTNpYVVXdmVSMkcycnJ0eEhSWExteXVUenBRSlBraGlJekI5RnF6VVZHY05yOXJEblNFNEhKMXJ3M0FQeGRKa1hQV2VQSFpLcnJtLV9WdlN6blVjTEdJdWlyV21vMjhlWHY0VnI4UUJYcDNBVW9PbmJ4SDhGaWhiUlZ5RXA3NU5wazRYeURGMWxYMGVyNVlEMw?oc=5",
-      "source": "Estadão",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:40:00.000Z",
-      "whyItMattersKo": "중요한 시즌 막판 팀 성적 부진은 감독에 대한 팬들의 지지율에 직접 타격을 줍니다.",
-      "fanTakeKo": "빨리 분위기 반전시켜주세요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQldxMkZYOENlaXAyV1VmUjZULTN1bzJQR1Rxam5aR3hBTHRuVzhLZ0dOTmg",
-      "title": "Lar, doce lar? Palmeiras frustra torcida de novo e vê distância como trunfo - UOL",
-      "summaryKo": "파우메이라스, 홈 경기서 또 팬들 실망",
-      "excerpt": "Lar, doce lar? Palmeiras frustra torcida de novo e vê distância como trunfo&nbsp;&nbsp;UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQldxMkZYOENlaXAyV1VmUjZULTN1bzJQR1Rxam5aR3hBTHRuVzhLZ0dOTmg1ckJCc1dMbkdJNWhYNkhSS28ya2lFU29wTGFzM0N6SXFvdmhoSk9OS0xtOGJReTVlTUlVeUtabHFHcW5HNTNBNEtaQjdvNG1hZ3lkaGRkVThoenU5dDgyUTFvTTk1TXJFVE8yUTJwTUQycTVCTW1fMUVJd1V0VmlXVm9xMUwyeEZxYTRNWi1GSmw2bmdqNGVhcnpwWXhfQnVxY3hxQU5wcFl0eUdVeFE0SGc?oc=5",
-      "source": "UOL",
-      "language": "pt",
-      "publishedAt": "2026-08-13T12:30:00.000Z",
-      "whyItMattersKo": "홈 팬들의 기대를 저버린 결과라 팀 분위기와 원정 경기 전략이 중요해졌습니다.",
-      "fanTakeKo": "홈에서는 왜 이러는 걸까요?",
       "tags": [
         "뉴스",
         "AI요약"
