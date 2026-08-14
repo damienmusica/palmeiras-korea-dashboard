@@ -1,7 +1,7 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-14T04:22:24.932Z",
+  "fetchedAt": "2026-08-14T05:56:08.818Z",
   "items": [
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlIWXRkNEJoZkZodVNZS2VQdlhIYm9qRldYUUw0dkVnT3ZNNEZ5bHlzeng",
@@ -14,6 +14,22 @@
       "publishedAt": "2026-08-14T04:19:57.000Z",
       "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
       "fanTakeKo": "무조건 3점 가져와야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkI2Qk1YdEUzLURkOWFzSXVVNFh3ZXdhMTBCY1E1M3h0aE9ROUdmNlFsMjN",
+      "title": "Sem vitórias de brasileiros: o que rolou na ida das oitavas da Libertadores - band.com.br",
+      "summaryKo": "브라질 팀들, 리베르타도레스 1차전 승리 못 해",
+      "excerpt": "Sem vitórias de brasileiros: o que rolou na ida das oitavas da Libertadores&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkI2Qk1YdEUzLURkOWFzSXVVNFh3ZXdhMTBCY1E1M3h0aE9ROUdmNlFsMjNHQnlpR0dPSG5PYWtmQjFjaHI5ZHo5SkJBNE0yQ2pEc0dYeDRKUDdudHFmbVdkMkR5aG1NNlMxdWFBeVFFUVF1UnBsTzNiN2JSYW12RXZGX1llbkdtcTA3NGFGZV9CTk5oMnJoN0MwQ0dnZ0xDLUpSR09SeGRlY3oyeDhFZWw3dkptZnZHQmw1eA?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-14T03:59:00.000Z",
+      "whyItMattersKo": "브라질 팀들이 1차전 승리를 못 해 2차전에서 승부를 뒤집어야 합니다.",
+      "fanTakeKo": "2차전에서 꼭 분위기 바꿔야죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -105,7 +121,7 @@
       "summaryKo": "코린치안스, 로사리오전 무승부로 간신히 생존",
       "excerpt": "Corinthians sobrevive a sufoco do Rosario Central em mais um empate nas oitavas da Libertadores&nbsp;&nbsp;estadao.com.br",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFN2RzVyMlBWTUFmdGg4YnJ2cm5manZ6RjBkVm1QdW9MYjNTY0VlYVBqOGxWaC03QW1KMXlEck9fRFh2OGlTc1cyTTJDRmpZZ1hGZVUxWjNZNHJpTTAxVk40R1Fjdi1nUUJENUtrVFA4Ty1YWjNmQ1FEQXQwQVRsZ2p4NnpwVVVUSy1EN2hZUDdFaVB3aGZQbG9Ibi1jR2xieHlPOXZvSUZyay1MNkI3dm9pd1BQQdIBuwFBVV95cUxOc0tTajl0S3k5LXlHeHB5a29MdTFGN3pnY1FEXzdWNHdLaElDUGk3b2NTUm5Mcjg1MEFtWXpMYS02anZTalVWVmVscDBFb3VzdjFrWlY2bGhmOUplUWZycmNEUmgybkVCckliamtyYTFueDd3UWJ1US1Ha3BXWlVRZnZEQ1lJM0NWWlRaWDV1Zm5CQ3Q0RjRYS1ZEOV9mak56VmQtZ0sybm8zSHpyS2cwcWdxOEFWQndwZDA0?oc=5",
-      "source": "estadao.com.br",
+      "source": "Estadão",
       "language": "pt",
       "publishedAt": "2026-08-14T02:34:00.000Z",
       "whyItMattersKo": "리베르타도레스 탈락 위기 속에서 무승부를 거두어 다음 경기 승리의 발판을 마련했습니다.",
@@ -265,7 +281,7 @@
       "summaryKo": "아벨 페헤이라, 파우메이라스 결정력 부족 아쉬워",
       "excerpt": "VÍDEO: Abel Ferreira lamenta falta de eficácia do Palmeiras&nbsp;&nbsp;Imirante.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVZ6MEtiTklEaWlzTngzNVhmRVI3cE1SdFVYZWlRUkFWRDhMdzdPVEt6VFNDSVN4NkQwTndud0JaSHJ3MlVKZEJhWW5kOUZlWTUyMy1nS1RhMXNTTllKWU9ycDhfS21KaC1SOTdHTzlIRFJfRXRVdUd3Y2poWmlKQ2lEbUtLNE1SZ0k5d3NXYjlINXUtOW1oZGxkR0N2VGQwOVd2dnJFOTfSAa4BQVVfeXFMT2hfc2p3MHB6aWc0RTNkQ1NibG1RZlZ6NlpweVF1LWNBVGJSQzlWTVQ0a2dxVi1mN0RuLUl0VVRVOERvY0VfVmdualVheTAwZlV3R0Uya1FkaElqMnVpalFmWHd3SVIycHN4bTBVNGdmeTZhY3pzT3AwVXVSV1RLTXJhdVBUenpVOW9SZUdESjhCcnJHOGgzeWE0aWNKR1h4S3dFOUZBOU5iMnY2WF9n?oc=5",
-      "source": "Imirante.com",
+      "source": "imirante.com",
       "language": "pt",
       "publishedAt": "2026-08-13T22:45:00.000Z",
       "whyItMattersKo": "공격 효율이 낮다는 점을 지적하며 팀의 득점력 개선이 시급하다고 언급했습니다.",
@@ -930,20 +946,6 @@
       "source": "ge",
       "language": "pt",
       "publishedAt": "2026-08-13T14:03:39.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjNydmplU3NWTjBvQkpVZ3hHM2N5eDVLMDdPWXoxUHBhdXFwMzJZekg4VHV",
-      "title": "Abel Ferreira manda recado à torcida do Palmeiras após \"protesto\"; veja - band.com.br",
-      "summaryKo": "Abel Ferreira는 \"항의\" 후 Palmeiras 팬들에게 메시지를 보냅니다. - band.com.br을 참조하십시오.",
-      "excerpt": "Abel Ferreira manda recado à torcida do Palmeiras após \"protesto\"; veja&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjNydmplU3NWTjBvQkpVZ3hHM2N5eDVLMDdPWXoxUHBhdXFwMzJZekg4VHVmV00xMnlUNENzVW5PaExuUUgxOFM0aktiWEdtdnZnRlNCNkFjRDFyQjdrblVsVFhpdXBBZmNiMUl5ZTVOal8wMEQ3N1pkTktsSGFybERWWXRvSkJnY0Nxdm5yNFk4ZVZxbmNialU4WklsdlBxLTRMbGVHSGpzMW8tSzVlNzNRMlQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-13T13:47:15.000Z",
       "tags": [
         "뉴스",
         "자동번역"
