@@ -1,15 +1,95 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-14T18:55:10.340Z",
+  "fetchedAt": "2026-08-14T19:49:26.274Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBySFRnM1VvMFVKTWVTOWJwZnhja1Brdkk2UldKaGxtemdMSlVZVjQ3U1F",
+      "title": "Em meio à “epidemia de má gestão”, Palmeiras e Flamengo se tornam referências no futebol brasileiro - Times Brasil | CNBC",
+      "summaryKo": "파우메이라스와 플라멩구, 브라질 최고의 운영 모델",
+      "excerpt": "Em meio à “epidemia de má gestão”, Palmeiras e Flamengo se tornam referências no futebol brasileiro&nbsp;&nbsp;Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBySFRnM1VvMFVKTWVTOWJwZnhja1Brdkk2UldKaGxtemdMSlVZVjQ3U1FVeHpCbXh6OE1ORDBmbWhDZE1TZU5xMTRtZkdCQW13dy03c0hkQWY2bHd2a2tOQ0ROQWpZdTNjdTM1TTExdlplYXZlSU9oVzFVeUFuNjg5enhsZWc4SmQ5c1l3VTdxb0VkSzFpUEp4S2lsTzMxd25GT0xXeVRYbXJuNW5kMktKZ1hrcmZJMHNjOXNMY3JNWm5OTktodTJXVU15Zw?oc=5",
+      "source": "Times Brasil | CNBC",
+      "language": "pt",
+      "publishedAt": "2026-08-14T19:40:00.000Z",
+      "whyItMattersKo": "경영난 속에서도 두 팀의 안정적인 운영은 성공의 확실한 기준이 되고 있습니다.",
+      "fanTakeKo": "우리 팀 운영은 역시 최고죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMinwFBVV95cUxPakZLTmFWSXhYdFBkbVdiSWRKcE9vQTVfZ2UwQ1lxX1lNbkNkSWxJWGs1MG9",
+      "title": "Botafogo conhece datas de jogos contra Flamengo e Palmeiras - LANCE!",
+      "summaryKo": "보타포구, 플라멩구·파우메이라스전 일정 확정",
+      "excerpt": "Botafogo conhece datas de jogos contra Flamengo e Palmeiras&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakZLTmFWSXhYdFBkbVdiSWRKcE9vQTVfZ2UwQ1lxX1lNbkNkSWxJWGs1MG9zOXFndl9pdmVSaUJJSHZhQTV2aVY3Q3Y2WnMxbTR3UE1GV3FCYXNnNWc5aGlpQVJKbFRmWVJGUjYybk1EckNoUGo0bExKeFhHZWE2WnFpSnpBNndaSzEzaEhpTGtDQ3ZZOS1UV3hHSDRkWDA?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-14T19:27:39.000Z",
+      "whyItMattersKo": "상위권 팀과의 일정 확정은 남은 리그 경기에 대한 전략 수립에 중요합니다.",
+      "fanTakeKo": "빅매치 일정 나왔네, 기대된다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT25xeGpONTVRVlFqdUp5YVlQOUZlN3o1cDBMOEtHQXctdXFZVGVYc1Rsczk",
+      "title": "Vídeo: Neto crava eliminação de Flamengo e Palmeiras na Libertadores - Terra",
+      "summaryKo": "네투, 파우메이라스와 플라멩구 리버타도레스 탈락 예측",
+      "excerpt": "Vídeo: Neto crava eliminação de Flamengo e Palmeiras na Libertadores&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT25xeGpONTVRVlFqdUp5YVlQOUZlN3o1cDBMOEtHQXctdXFZVGVYc1Rsczk2azVENHRYQWRyYzFBZ19ucGFSdi1mX0F2V3hLWFVvZEl6dFFKQnVWMW1tdUNZcUdsZFJaYTBlamhPVER6S1J4bVphc2lMRmozX0pRNUlROC03NU5nRFNLaXd2VXVYR19TdFRISWNfLTVmd2V3VDJFcFFhejhXZlFRMVpXd1lQWE5LbHQ2Sm9VSVBxRVp1ZnZjeDliOHZ1S0E3RGRqcldYS3FCS3VoRE85N2pTR29rNzlSMGk1Ync2cg?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T19:27:00.000Z",
+      "whyItMattersKo": "유명 평론가의 부정적 예측은 선수들에게 자극이 되어 분발하게 만들 수 있습니다.",
+      "fanTakeKo": "네투 말은 절대 안 믿어요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-3-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVkI1Si0xbGdQZ1V6cVFaMF9RaU9LOXhESllhUUVIcjdaMXZaMkRUbVQzVHp",
+      "title": "Fluminense x Palmeiras: onde assistir, escalações e arbitragem - Terra",
+      "summaryKo": "플루미넨전 시간, 라인업, 심판 정보",
+      "excerpt": "Fluminense x Palmeiras: onde assistir, escalações e arbitragem&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVkI1Si0xbGdQZ1V6cVFaMF9RaU9LOXhESllhUUVIcjdaMXZaMkRUbVQzVHpuUlVrbXltNkg1VzdmSWtyTHY4bkxzNUZVUUxUXzZ2dFFOV2JPZnQzYkt1LVVNNjVyUHpVekxRUGl1UFpIOENMZXQtX0N1QUJVWC1vQXBvSmJBc1R3aENXVmZDZTdZVGZZaDJmQlAwaGV3VVJMd3VIQTdPTENuWG1SVEFXREFfS1NlNjZzYjNpNDRpQlVoR09vcU12eWxraFViMnQ1UjFoZ25zeFhfZ3E2YzAxZnQwNjFkdw?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T19:17:00.000Z",
+      "whyItMattersKo": "맞대결 정보는 경기를 시청하거나 팀 전력을 파악하는 데 필수적인 요소입니다.",
+      "fanTakeKo": "오늘 경기 시간 확인 완료!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHZPR2dfYWRPUGpqV3RmV3NtMmpLcE96NjduODh2dnJsbC1mWGpDcF85OEJ",
+      "title": "Fluminense x Palmeiras: Veja a provável escalação do Verdão - Tribuna de Jundiaí",
+      "summaryKo": "파우메이라스, 플루미넨스전 라인업 점쳐보기",
+      "excerpt": "Fluminense x Palmeiras: Veja a provável escalação do Verdão&nbsp;&nbsp;Tribuna de Jundiaí",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHZPR2dfYWRPUGpqV3RmV3NtMmpLcE96NjduODh2dnJsbC1mWGpDcF85OEJOVmdTX0txQ1Atd1VzU19uTVNDbEdOUF9KRTVSVDRBSll3T2RyS1JBWXVvOVRoNV9nY3JzR0dPeXpCQWIzQlR3WjZzQnJNRVpxcTkycHkwMlNKWlZ2aTAxSFhUd1dDcWRmUmdlZmdWeFZqZUNpbjJtNU5yZzg?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "language": "pt",
+      "publishedAt": "2026-08-14T18:55:41.000Z",
+      "whyItMattersKo": "다가오는 경기 예상 선발 명단을 통해 팀의 전력과 전술을 미리 파악할 수 있습니다.",
+      "fanTakeKo": "라인업이 어떻게 나올지 궁금하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMibEFVX3lxTE92bWRqc2dKYzFBSnc0N0ZrNjhhUHJuejJMaFhKYXVMOWhkTXdvdmVNZlc4RTN",
       "title": "Palmeiras fecha preparação para enfrentar o Fluminense; saiba o provável time - Portal ABC do ABC",
       "summaryKo": "파우메이라스, 플루미넨세전 예상 라인업 공개",
       "excerpt": "Palmeiras fecha preparação para enfrentar o Fluminense; saiba o provável time&nbsp;&nbsp;Portal ABC do ABC",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92bWRqc2dKYzFBSnc0N0ZrNjhhUHJuejJMaFhKYXVMOWhkTXdvdmVNZlc4RTNOcEtQZmFCcGkxdHBzUzRIaTAwajFQTG9Yc01La0RVdUJaaEdLbUp5RlBrS3pKT3RkMEMtT0sxQQ?oc=5",
-      "source": "Portal ABC do ABC",
+      "source": "abcdoabc.com.br",
       "language": "pt",
       "publishedAt": "2026-08-14T18:44:24.000Z",
       "whyItMattersKo": "예상 선발 명단을 통해 감독의 전략과 선수들의 컨디션을 미리 확인할 수 있습니다.",
@@ -30,6 +110,22 @@
       "publishedAt": "2026-08-14T18:43:38.000Z",
       "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
       "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-7-https://news.google.com/rss/articles/CBMivAJBVV95cUxOeDFPU0lxQXVidEFRc1R0R0k4S2dVQ3lqR01USWFhLVpiYThwTDZTVmpDbVB",
+      "title": "Atacante se destaca vindo de rival, jornalista da Globo faz provocação e declaração de Vegetti: as últimas notícias do Palmeiras - Terra",
+      "summaryKo": "라이벌 출신 공격수 활약과 베헤티 발언",
+      "excerpt": "Atacante se destaca vindo de rival, jornalista da Globo faz provocação e declaração de Vegetti: as últimas notícias do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOeDFPU0lxQXVidEFRc1R0R0k4S2dVQ3lqR01USWFhLVpiYThwTDZTVmpDbVBtMjdZd0VpQUlRUDNPbUllT3hqeGQ4eTZKd1FVR00yRndVSWRVVjExM3ZWbVFlZ0NtWndDMkt6N2Y0eFMyRWstRkpCYlJmRFloVHVuRkFlSkQ1blZsNE1TcUhXUXh0c0s0bVl1SlFIRWdiclVoUXBIVHBGTmxWZHE5cTR3Y19uSzFxWTNCdXJPT3o1aXB4MmJkME1DUFZTdTlHZjRIcTc3clNQN2FPaWN5UUhYUkxFSW4tS3hzVzBKY01rQjQwYTA1aWFiSkxaV3dGNTdZX2dlZ3NteGduV09ZM0NQdXY4dDlqQlpUOHRZdWJUY1R6a001cEpWdjRPWkpuWGQwQXYwRXA5R3NPMmYy?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T18:40:00.000Z",
+      "whyItMattersKo": "선수들의 활약과 발언은 팀 분위기와 팬들의 관심사에 큰 영향을 미칠 수 있습니다.",
+      "fanTakeKo": "선수들 활약에 기대가 큽니다.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -193,7 +289,7 @@
       "summaryKo": "파우메이라스, 리그 25~26라운드 세부 일정 공개",
       "excerpt": "Palmeiras conhece detalhes das rodadas 25 e 26 do Brasileirão&nbsp;&nbsp;Portal ABC do ABC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sc1otdV81bElHVEViR3BTbUxicUZiWks4S01UQkY3X0xpOFJNemxDMTBfYWxVb2l2NHdRdmNnRlo4NU5MRGFvbEdrY0dZeFhoeTRnTUs3NkZpR0Y0eElQU2ZkV2NjclBwRE0xbllWSHkwMUpSdlE?oc=5",
-      "source": "Portal ABC do ABC",
+      "source": "abcdoabc.com.br",
       "language": "pt",
       "publishedAt": "2026-08-14T18:04:19.000Z",
       "whyItMattersKo": "구체적인 경기 일정과 장소가 정해져 팀은 차기 대비 전략을 짤 수 있습니다.",
@@ -852,98 +948,6 @@
       "publishedAt": "2026-08-14T09:30:07.000Z",
       "whyItMattersKo": "파우메이라스 출신 선수가 사우디 리그에서 새로운 시즌을 준비 중입니다.",
       "fanTakeKo": "호날두랑 맞섰던 선수라니 대단하네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-15-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjNMSG9PM2s4aUp0UFp3allQV0IyaDhVMmFtSjJnLUtHRGZUWlQtMXFXR2",
-      "title": "Tudo sobre o jogo: Palmeiras, de Vitor Roque, visita o Fluminense e quer se isolar na liderança do Brasileirão - thefootball.com.br",
-      "summaryKo": "파우메이라스, 비토르 호키와 함께 플루미넨전 선두 도약",
-      "excerpt": "Tudo sobre o jogo: Palmeiras, de Vitor Roque, visita o Fluminense e quer se isolar na liderança do Brasileirão&nbsp;&nbsp;thefootball.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjNMSG9PM2s4aUp0UFp3allQV0IyaDhVMmFtSjJnLUtHRGZUWlQtMXFXR2tiZmdEdkRESFVhOUk5UzBSYUFLblcwWXpuT2xIQmdQUC1oSUZjMm51bDFVSnJUaHllTTgtaVhwWXZCWmZiR1pST2djLXk3OTRxUlNkOWtYV3U0dVc2dzVGX3JFV0dvOThidzdhWWx5OFB2U1p4X1RqSmI0WWU4NWQyLUppalhHZjNJeGRNdUxCeGtlTWdaT1hYblVxZUJqU2phMU1T?oc=5",
-      "source": "thefootball.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T09:00:32.000Z",
-      "whyItMattersKo": "비토르 호키의 활약과 함께 원정 승리를 거두면 선두 경쟁에서 유리한 고지를 점할 수 있습니다.",
-      "fanTakeKo": "선두 더 벌려놔요 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHIyZzVJVEV1X2RuS2x0YUNXYTdadEQ2Z3ZMZDkwWm5KMTVIbW1SLU9NVkE",
-      "title": "Fluminense x Palmeiras: saiba onde assistir ao jogo da 13ª rodada do Brasileirão - Gazeta Esportiva",
-      "summaryKo": "파우메이라스, 플루미넨스전 중계와 시간 안내",
-      "excerpt": "Fluminense x Palmeiras: saiba onde assistir ao jogo da 13ª rodada do Brasileirão&nbsp;&nbsp;Gazeta Esportiva",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHIyZzVJVEV1X2RuS2x0YUNXYTdadEQ2Z3ZMZDkwWm5KMTVIbW1SLU9NVkE4WFNqUXVLNmdsYWtQWkhqZFQ2VFRMVGhXQVh3M1M5TmFNR3RWdlBFakF2eU9sSm02eS1BTVFOZ3RhQ1NqQUVBSnhBNVFUQjUxNHUyYWRtR1Rvakp6V09vbzFTcElBemJYSnduWVgtTTVhNmtncGNFOFROcVhVTkdXZXZBT1VuT2RMZ2RLM2xaS01jMTQtQ29zUWo00gHMAUFVX3lxTE9SRjJGbzJoZ2ZvSzY5VjdDTTJSWXBWNE9VWXFnVUM2bDY3ajBjQ2dtYllaSkh2d0hhMjQwb2lYTkJrMGM1aEtJQWp4WFp5bzJfV2lHUGhxUWVXaUZaYllVS2E2TlRsVXFKRjFPQnhOaW5KOHlzeWpncldTZElRY3NvVi1jLU81Yk1vSDcxNDNXdkxTUWpWb1JORll3OGd3WDlEeEk4OUR4QS00NVVmVUVCaEowcnNZd19wcEhpUE1lQThRbk8taWVsQnR1Vw?oc=5",
-      "source": "Gazeta Esportiva",
-      "language": "pt",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "whyItMattersKo": "리그 13라운드 원정 경기 시청 정보를 미리 파악해 응원을 준비하세요.",
-      "fanTakeKo": "원정 경기라더라도 꼭 이기고 와야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHhLWGZ5QkFydF9sanFjMFZKQ1RocUp6YWgwaDlmanF5cFFWZVprVGdxeTh",
-      "title": "Palmeiras ganha reforços na defesa antes de semana decisiva - LANCE!",
-      "summaryKo": "파우메이라스는 결정적인 한 주 전에 방어에서 증원을 얻습니다 - 입찰!",
-      "excerpt": "Palmeiras ganha reforços na defesa antes de semana decisiva&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHhLWGZ5QkFydF9sanFjMFZKQ1RocUp6YWgwaDlmanF5cFFWZVprVGdxeThOTnd1QUlvblE1QnpmQnhRYkE4RDAzM3dJZUd0ckR4VndXMXV1RXJFVnRFQzViOW9SRUZzQ3NWOC05c3VBaDI5RktDVkJRakVHaXlid0hMUGdlS21ORTBjdHRLbUpyd2tSRGY4QlV4VTJpVnhC?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-14T08:12:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG1wd0VFQ2JXWUtyMTlTOXktdDVDaWFKU0VJV0pJWlRoZ2ZtMWRFTmhJejZ",
-      "title": "Novo reforço do Vasco, Santiago Sosa se destacou na Libertadores 2025; veja os números - NETVASCO",
-      "summaryKo": "바스코의 새로운 보강, 리베르타도레스 2025에서 산티아고 소사가 두드러졌습니다. 수치 보기 - NETVASCO",
-      "excerpt": "Novo reforço do Vasco, Santiago Sosa se destacou na Libertadores 2025; veja os números&nbsp;&nbsp;NETVASCO",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG1wd0VFQ2JXWUtyMTlTOXktdDVDaWFKU0VJV0pJWlRoZ2ZtMWRFTmhJejZmcE5RUjJIOGVMUGpLRXR5OTJBTUwydk9yNHVGVHRud0M5QzRsRzhlUk5qZnRucW1rcnUyelRHeWlxcUU1cUc2M1o5bDJsQmQ0QzIxendmUnFNTFZ2Z09MVUdRT2JvY2dKWVhJUEJ6MU9NMVhPdTJQOGVVQjE1bi1qbjM0UGVzTjFjVnc0VnozYXVn?oc=5",
-      "source": "NETVASCO",
-      "language": "pt",
-      "publishedAt": "2026-08-14T08:10:00.000Z",
-      "tags": [
-        "뉴스",
-        "자동번역"
-      ]
-    },
-    {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlVEY1h3TVdXeTBWSlA3YWFYUnNXaVc1RFpBakdYcEVPYU5NY0pIWVBYNGh",
-      "title": "Vai poupar? Sem gordura na Libertadores, Palmeiras não planeja priorizar competições - ge.globo.com",
-      "summaryKo": "파우메이라스, 리베르타도레스 어려워 대회 우선순위 안 정해",
-      "excerpt": "Vai poupar? Sem gordura na Libertadores, Palmeiras não planeja priorizar competições&nbsp;&nbsp;ge.globo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlVEY1h3TVdXeTBWSlA3YWFYUnNXaVc1RFpBakdYcEVPYU5NY0pIWVBYNGhScENfWjRiWXh6YXdlRDdtUlJsRGo2U3Q1TjF5d2o2QlZPV2lUeVBRa29yN0JYUDRscFpQaHJFSU1ZY3FvcXBSai14c0NPTkUwREdzRUh6SzVwTnFIbzNUcFBaMVBXOUtzcXd2UEVvVDRZZ2tnQi1Tbzl5dlQ5YnhIcW8xRWxXS3ZtZENKaFBEVThxZXhhb19MakNMVDYyZTUtZWlUQ1BFSEY0Q1BENHYxeE5kR3VaQjQyNTDSAfYBQVVfeXFMTzZrWU0wMFNKc2V3WnVJcFRMVjF3LVBULUs2RzlEM2xDZDc3MVlZWTR0X0pXYXVUZUs3emxnZFprb1UtemdYc0NwM3dQOTJIN2laNzBZb05fVW54R1ZmRERXZXU3TFNoeW9zd2xUTVEyZXVYUjVTNEZNUHlsSUpTdDJzcVMwZ3ZMbE0yQXdjOUcyeW5vRmE5V2VjR2lsUnREU2VnbkQ1RzlGekJ3cmY5a25BVEtud0dnS1RHRnJxY25nYXRESU9UZGYxYzA5Z2dsSEg0TFJWMVdrQVhGS0sxbGJuS0FYSXJxRExkRnZPX2Q4SnJFTXZB?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-14T07:00:18.000Z",
-      "whyItMattersKo": "리베르타도레스 상황이 쉽지 않아 특정 대회를 챙기기보다 계속 최강 전력을 유지하겠다는 뜻입니다.",
-      "fanTakeKo": "쉬지 말고 다 이겨라 파우메이라스!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkI2Qk1YdEUzLURkOWFzSXVVNFh3ZXdhMTBCY1E1M3h0aE9ROUdmNlFsMjN",
-      "title": "Sem vitórias de brasileiros: o que rolou na ida das oitavas da Libertadores - band.com.br",
-      "summaryKo": "브라질 팀들, 리베르타도레스 1차전 승리 못 해",
-      "excerpt": "Sem vitórias de brasileiros: o que rolou na ida das oitavas da Libertadores&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkI2Qk1YdEUzLURkOWFzSXVVNFh3ZXdhMTBCY1E1M3h0aE9ROUdmNlFsMjNHQnlpR0dPSG5PYWtmQjFjaHI5ZHo5SkJBNE0yQ2pEc0dYeDRKUDdudHFmbVdkMkR5aG1NNlMxdWFBeVFFUVF1UnBsTzNiN2JSYW12RXZGX1llbkdtcTA3NGFGZV9CTk5oMnJoN0MwQ0dnZ0xDLUpSR09SeGRlY3oyeDhFZWw3dkptZnZHQmw1eA?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T03:59:00.000Z",
-      "whyItMattersKo": "브라질 팀들이 1차전 승리를 못 해 2차전에서 승부를 뒤집어야 합니다.",
-      "fanTakeKo": "2차전에서 꼭 분위기 바꿔야죠!",
       "tags": [
         "뉴스",
         "AI요약"
