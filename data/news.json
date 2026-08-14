@@ -1,8 +1,104 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-14T13:07:39.820Z",
+  "fetchedAt": "2026-08-14T14:30:38.845Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpCTzJNby1CR19WTmFtVkQzMnZqcmpPMWJFMkx5VHBWNEFuWHNFaTI4a1A",
+      "title": "Neto aposta em eliminações de Flamengo e Palmeiras na Libertadores - O Dia",
+      "summaryKo": "네투, 파우메이라스-플라멩구 탈락 예상",
+      "excerpt": "Neto aposta em eliminações de Flamengo e Palmeiras na Libertadores&nbsp;&nbsp;O Dia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpCTzJNby1CR19WTmFtVkQzMnZqcmpPMWJFMkx5VHBWNEFuWHNFaTI4a1Azckw4d3oyT3NWRGdkaHQtSzZhaTZ5NF82MVFtcEQ2NUZFR2pOaWV4RkRDNUhyRG9ubmVFUEJlOFUyZHNMSGdVekloeDBZckFTT0VOSVBiRzRuWW1rV1EybWpuTEpFTWhoSDFlcjVhYl9MRXVQTTN0dV9CUEY0dDlvaXBoRFJCSGRUaGhLUk45ODd5WnR1aVczWkHSAcsBQVVfeXFMTVc0RXBleEp4d041bkswQU5OMldoM0tRdXlLMjVoc1VsQjR3V2YyZ0ZKYXpORGxCMnFDNVpFX2ZUdDF6TjVKNFVsTHhmQ0p1UWhQdmJhUjQ2cVNjcUlnbnhzV2NpZXpwX3A0T2R4dmlQMXlfU01RY2lZLWlnS01GM3NHV21CNXQtU3NQRU5DcFRBUUpqSmVLSkRUWDVHYVFjRU1IQWQ1aXJTRUh2TDhhaS1sZWlJRC1RX01EN19TN3NKQm12cDB3RHpYem8?oc=5",
+      "source": "O Dia",
+      "language": "pt",
+      "publishedAt": "2026-08-14T13:42:14.000Z",
+      "whyItMattersKo": "유명 평론가의 탈락 예상이 나와 팀의 리베르타도레스 전망에 우려가 있습니다.",
+      "fanTakeKo": "네투 말은 너무 징크스 같아요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2xNWjI4d1JHRzBzN096cDRUaUszYjdrZWllanJWbmU2YktBTm9rcE1oSk1",
+      "title": "Palmeiras na Era Abel Ferreira: Verdão tem retrospecto ruim na Libertadores após não vencer partida de ida - ABCD Jornal",
+      "summaryKo": "아벨 감독, 1차전 무승부 시 리버 성적 저조",
+      "excerpt": "Palmeiras na Era Abel Ferreira: Verdão tem retrospecto ruim na Libertadores após não vencer partida de ida&nbsp;&nbsp;ABCD Jornal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2xNWjI4d1JHRzBzN096cDRUaUszYjdrZWllanJWbmU2YktBTm9rcE1oSk1wakozN21lN2szWVY5M1MteVhRNDI3UVdfMFJBV012a1lSYmJMRnY2azFHN0FkSVkwTXFGUUJCc3NWWEdvbkxHTkczZDRLeWlhbnpmYzdvdzhiOWJXWnBHWERvamNfY3Jvd2JVakZWRTNqMHJqM1Vfd2FkOUF1NDJqWWlkMmI2SUxoM2pNMkw5X05TaHoxQjRnYlJpUEw1TjhJbWhDbGg5bHhVZTJncGs?oc=5",
+      "source": "ABCD Jornal",
+      "language": "pt",
+      "publishedAt": "2026-08-14T13:37:18.000Z",
+      "whyItMattersKo": "1차전 승리가 중요한데, 지난 기록이 좋지 않아 2차전 승부의 중요성이 커졌습니다.",
+      "fanTakeKo": "이번엔 기록 깨고 무조건 이겨야죠.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbjU0cU9yZ0xoSk1TOXF5ZDYwMXBUbEl2UHdWMGhpSkF4NzM3WHFwQmw5VnV",
+      "title": "PVC não perdoa Carlos Miguel após o gol do Cerro Porteño na Libertadores - Terra",
+      "summaryKo": "실점 후 카를루스 미구엘 비판 쏟아져",
+      "excerpt": "PVC não perdoa Carlos Miguel após o gol do Cerro Porteño na Libertadores&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbjU0cU9yZ0xoSk1TOXF5ZDYwMXBUbEl2UHdWMGhpSkF4NzM3WHFwQmw5VnVKVUVFTW4yOXdsTFhOLThocGFnV2VkOUhaUlVjcF9zaVFqbGYxam03MnQ3Y2l1Y0FuTzlfYjlWOFVUQ2lKX3hZZ19ZUzRlcWpCdWpUM1NMU3FPVjZaMk5BQnJvNXh0MDR6VDNwNW1WbmRVYjJUVHdCWHRIRmd6NkNqMl9FU3JzcnFISmdtVzFTOExQSFlsUHZENzBBc2ZhRWU1WVNJalJDbVlxUWRrZFNleUdkZHRuWDdrNEhCQnQ0Ykc5S1Z3UnRh?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T13:14:00.000Z",
+      "whyItMattersKo": "주전 골키퍼의 실점은 팀 분위기와 수비 안정성에 큰 타격을 줄 수 있습니다.",
+      "fanTakeKo": "골키퍼 실수는 정말 치명적이네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NXNW1DNkNJZnNwaklWTVV6Y1U5bDlLbHlEN0tiWGdPcDBEaVdTY2RGUnR",
+      "title": "Neymar manda recado sobre jogo contra o Palmeiras no gramado sintético - band.com.br",
+      "summaryKo": "네이마르, 인조잔디서 할 파우메이라스전 언급",
+      "excerpt": "Neymar manda recado sobre jogo contra o Palmeiras no gramado sintético&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NXNW1DNkNJZnNwaklWTVV6Y1U5bDlLbHlEN0tiWGdPcDBEaVdTY2RGUnR0OW4wdDUxRkREX0QycF9xM09VQUV2cU5ubWhVYTQ5dHI2cS1fajhsT3RMamN1dFJGeVEwcjdIQlRxUE9vM3dGUm1DelRrWnZ5SEEyN3MxNTJrR3ZRWWNNN2NWNVVIc1Eta1czeHlNWlZscnhrWVNSbXE3SkJQZEFqMGF1c2FLaFBXSzQ?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-14T13:06:24.000Z",
+      "whyItMattersKo": "네이마르의 발언은 경기장 환경에 대한 불만이나 압박감을 보여주는 신호입니다.",
+      "fanTakeKo": "네이마르 또 뭐라 하나 싶네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbEFiQUM3U1k1R1RNdGltZnYwZFhob0h6Y1I2dHZTY2pnLUFBSzZBVVRBTU9",
+      "title": "Vinicius Lima: conheça a nova joia na base do Palmeiras - Terra",
+      "summaryKo": "파우메이라스 유스, 새 보석 비니시우스 라이마",
+      "excerpt": "Vinicius Lima: conheça a nova joia na base do Palmeiras&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbEFiQUM3U1k1R1RNdGltZnYwZFhob0h6Y1I2dHZTY2pnLUFBSzZBVVRBTU91c1gyY3laalEyYVFRQjFDbTZUWm51Szg2eFZzaWx0eGRZUmlXdGNiLTFDUzJTZTBJTHJFcHFjcGc2LVVLSmxmeGdwUWZGMzFxdVN1SmdJTTNVd1RqdW9iS0dPdWktdm1TTFluNEo5OUc0VnZXaTNTSmkyZzJkV1JXbnlEZFFtSXE2VVJrZTBwSkNuLW9ZWnF5NDBEb3RLQzlHanA5VmprYXFnbjljUWhY?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-14T13:02:00.000Z",
+      "whyItMattersKo": "유망주의 등장은 팀의 미래 전력 보강과 팬들에게 새로운 희망을 줍니다.",
+      "fanTakeKo": "또 대어 나왔나? 기대되네요!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGlmX0JsMTNtc3N4NE1qZGg1eDJ6c0tvcy04aG5CM2dJVkV0TU83NUUxWjh",
+      "title": "Ex-Palmeiras revive duelos contra CR7 e projeta nova temporada na Arábia - band.com.br",
+      "summaryKo": "파우메이라스 출신, 호날두와 맞대결 회상하고 아시아행",
+      "excerpt": "Ex-Palmeiras revive duelos contra CR7 e projeta nova temporada na Arábia&nbsp;&nbsp;band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGlmX0JsMTNtc3N4NE1qZGg1eDJ6c0tvcy04aG5CM2dJVkV0TU83NUUxWjhaenBiLTQ1aldUbUJkMDZMVi1xbHljWmZkMzBRbGVsUUFTOFpGdDdJcHV0bnhuSE1wMG9WNlpYT1VzMjhOUXlhbUNzb3Z0TGg1VndjVmtGZ29Id0RsQURfa2NoVjhPcDI1Vllob0dBaFNTT2duS1RsSWdsWXY3Q082akNKUl8tOTZSbzl4Vmc?oc=5",
+      "source": "band.com.br",
+      "language": "pt",
+      "publishedAt": "2026-08-14T12:53:50.000Z",
+      "whyItMattersKo": "파우메이라스 출신 선수가 사우디 리그에서 새로운 시즌을 준비 중입니다.",
+      "fanTakeKo": "호날두랑 맞섰던 선수라니 대단하네요.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmVHakhrVURsQjFqdkwwU0hzNVkzVUhhaUcwNWZ3WGExZVF1dFRsOGhLeVE",
       "title": "Neto crava quedas de Flamengo e Palmeiras na Libertadores - LANCE!",
@@ -116,22 +212,6 @@
       ]
     },
     {
-      "id": "gnews-0-https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NXNW1DNkNJZnNwaklWTVV6Y1U5bDlLbHlEN0tiWGdPcDBEaVdTY2RGUnR",
-      "title": "Neymar manda recado sobre jogo contra o Palmeiras no gramado sintético - band.com.br",
-      "summaryKo": "네이마르, 인조잔디서 할 파우메이라스전 언급",
-      "excerpt": "Neymar manda recado sobre jogo contra o Palmeiras no gramado sintético&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NXNW1DNkNJZnNwaklWTVV6Y1U5bDlLbHlEN0tiWGdPcDBEaVdTY2RGUnR0OW4wdDUxRkREX0QycF9xM09VQUV2cU5ubWhVYTQ5dHI2cS1fajhsT3RMamN1dFJGeVEwcjdIQlRxUE9vM3dGUm1DelRrWnZ5SEEyN3MxNTJrR3ZRWWNNN2NWNVVIc1Eta1czeHlNWlZscnhrWVNSbXE3SkJQZEFqMGF1c2FLaFBXSzQ?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T11:34:32.000Z",
-      "whyItMattersKo": "네이마르의 발언은 경기장 환경에 대한 불만이나 압박감을 보여주는 신호입니다.",
-      "fanTakeKo": "네이마르 또 뭐라 하나 싶네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
       "id": "gnews-8-https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGNVcWZMTUQ5akR3bEc5Vkx1NWtGXzFYeTU5YU4wTERtQ1lxM3VkSFlpckV",
       "title": "Palmeiras x Santos: Neymar jogará no sintético? Veja o que se sabe - 365Scores",
       "summaryKo": "파우메이라스전, 네이마르 인조잔디 출전 의문",
@@ -153,7 +233,7 @@
       "summaryKo": "파우메이라스, 코파 뒤로 부진한 성적",
       "excerpt": "Sem inspiração e eficácia, Palmeiras acumula resultados ruins pós-Copa&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZkJ2RXlqR1JDbklYZ2ljUEx5Y1ZEa0p2U1FiU0hGQ1cySVE5X3YtT3kzcW5JeC1wWmZkaTJDYk5USW11bW5FMnpjUFpCbWZwQlRuN1BlRkJyWGV2anpLUmRnWVdNaHBLc1hiS3h2ODVwWUlVSUVDeWI2aWJPUlZHSWNyd3ltcFdGUmliVDBQbXFGa3VRekdtRjJMTi1JVnIxa1JiR2VidHBhTkl6c2lvVEFNRjhQRkg1b05rS3NTU2Zrd0JUQm95NTM5cEYwSG42dUJhQi1rS1Nab0dXZE9YaEV2UEVjYU5yaWdEMDd4MTU?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-14T11:05:00.000Z",
       "whyItMattersKo": "팀의 득점력과 경기력 저하는 순위 경쟁에서 뒤처질 위험이 있다는 뜻입니다.",
@@ -185,7 +265,7 @@
       "summaryKo": "플루미넨스전 생중계 어디서 볼까",
       "excerpt": "Fluminense x Palmeiras: onde assistir ao vivo ao jogo da 23ª rodada do Brasileirão&nbsp;&nbsp;Diário do Rio",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmhXWl9HSE56STRCRzdxejMzR3BRTExrWFFGb3VmcVpJUTZ1N3J1Xy1xZjRNRE5wSmtlU19PMmpwWXRGdnJYeFg3WlJWVzBVWWtpY1pWbzVtblRLaWxULWJxWUV2R1NsX1NCRDJvdlROVW9aX01WSWN5WVBYUGdMLW5nRl9TNFdaRUZBVEp3TU5jNFdTeHg2V2JJcXE4RmI4bk1IREFpTmU3Zw?oc=5",
-      "source": "Diário do Rio",
+      "source": "diariodorio.com",
       "language": "pt",
       "publishedAt": "2026-08-14T11:00:00.000Z",
       "whyItMattersKo": "브라질레이렁 일정에 맞춰 경기를 시청하면 팀의 현재 순위 흐름을 파악하기 좋습니다.",
@@ -222,22 +302,6 @@
       "publishedAt": "2026-08-14T09:42:41.000Z",
       "whyItMattersKo": "유럽 경력과 챔피언십 경력을 갖춘 선수 영입으로 그레미우 중원 전력이 크게 보강됐습니다.",
       "fanTakeKo": "리베르타도레스 우승자라니, 그레미우 꽤나 대박 영입이네요.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGlmX0JsMTNtc3N4NE1qZGg1eDJ6c0tvcy04aG5CM2dJVkV0TU83NUUxWjh",
-      "title": "Ex-Palmeiras revive duelos contra CR7 e projeta nova temporada na Arábia - band.com.br",
-      "summaryKo": "파우메이라스 출신, 호날두와 맞대결 회상하고 아시아행",
-      "excerpt": "Ex-Palmeiras revive duelos contra CR7 e projeta nova temporada na Arábia&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGlmX0JsMTNtc3N4NE1qZGg1eDJ6c0tvcy04aG5CM2dJVkV0TU83NUUxWjhaenBiLTQ1aldUbUJkMDZMVi1xbHljWmZkMzBRbGVsUUFTOFpGdDdJcHV0bnhuSE1wMG9WNlpYT1VzMjhOUXlhbUNzb3Z0TGg1VndjVmtGZ29Id0RsQURfa2NoVjhPcDI1Vllob0dBaFNTT2duS1RsSWdsWXY3Q082akNKUl8tOTZSbzl4Vmc?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T09:30:07.000Z",
-      "whyItMattersKo": "파우메이라스 출신 선수가 사우디 리그에서 새로운 시즌을 준비 중입니다.",
-      "fanTakeKo": "호날두랑 맞섰던 선수라니 대단하네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -435,7 +499,7 @@
       "summaryKo": "플라멩구 놓친 공격수, 파우메이라스서 맹활약",
       "excerpt": "Flamengo deixa escapar e atacante começa a se destacar no Palmeiras&nbsp;&nbsp;Terra",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDlza3N4cmd1Y3kyZEFaMks3M1FIalJibnIyOGgtdWtjN2c3aks0YlhrRV9zLXZtQ1ZzS1l0a19MMklPQWRKS19SX3BtTS1TcHFrbEhZMEFXSU9tczBKaENoTHVXWkZCZFFMTWtrX1NUd2VTaHczSUVkZFlIVER6bU1reWlxeWtIUGdpTEl5dDhFdnhMTGRfb192MW9vMkktTVlKOTdEeGZJN190aV8yaVhRdld4d2ZWT0J0M2M5WmZ4RE12ZW0tNWlqVWRYNHpHaXhnVXp0U19mU1F1SkNneTQtZXRvVWswcHFBcnFR?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "language": "pt",
       "publishedAt": "2026-08-14T01:34:00.000Z",
       "whyItMattersKo": "라이벌 플라멩구에서 이적한 공격수가 파우메이라스 공격력을 높이고 있습니다.",
@@ -888,70 +952,6 @@
       "publishedAt": "2026-08-13T17:13:44.000Z",
       "whyItMattersKo": "성적 부진으로 거세진 팬들의 비판에 대해 감독이 강경하게 맞서 기세를 올렸습니다.",
       "fanTakeKo": "아벨 감독, 팬들에 강경 응수!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-7-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkMwQXB5eTh4MmlGX0Z6M2V4dGhxR2JaQ3RiMkh4RTY3MjZ6NVZOcTAzSkl",
-      "title": "Como Palmeiras 'digeriu' tropeço contra o Cerro - e quais são os planos sobre poupar nos próximos jogos - ESPN Brasil",
-      "summaryKo": "파우메이라스, 무승부 뒤 수습과 로테이션",
-      "excerpt": "Como Palmeiras 'digeriu' tropeço contra o Cerro - e quais são os planos sobre poupar nos próximos jogos&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkMwQXB5eTh4MmlGX0Z6M2V4dGhxR2JaQ3RiMkh4RTY3MjZ6NVZOcTAzSkl6azRFd1dGUWdzeTRMREJxRktPRm41QWdhbDhJWHlFSEZoX1FjU3Q3UlRMN25pRmpfb1VydGMxR0Y4LUkyWFhySTBzUW9tNlVrQlVISUtQUll3dGhFaHE5dEpwMHFzOS01MTlzMW9tRUFKT3NvM19LSUpPX0tpdG5KRWtSampUUEdkRk1MUVBxaEpIaktsdG9idThnLU94VWhDWlJobHIweWFCOTM5QQ?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-13T17:08:00.000Z",
-      "whyItMattersKo": "부상 방지와 체력 관리를 위해 다음 경기에서 선수 교체가 예상됩니다.",
-      "fanTakeKo": "주전들이 쉴 수 있으면 좋겠다.",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-27-https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXdxdFdtaENxUHpkTUtNc0hDLTI4Zjh0dzVnNTBjMDQ0Z1pHQmt5VTRWR0",
-      "title": "Sem Zubeldía, Fluminense se reapresenta e treina sob o comando do técnico interino Marcão - ge",
-      "summaryKo": "플루미넨시, 주벨디아 없이 감독 대행 체조",
-      "excerpt": "Sem Zubeldía, Fluminense se reapresenta e treina sob o comando do técnico interino Marcão&nbsp;&nbsp;ge",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXdxdFdtaENxUHpkTUtNc0hDLTI4Zjh0dzVnNTBjMDQ0Z1pHQmt5VTRWR0NrYWltTm41amxMWmlDdmhDQ1BKdlI3OWNmZEhiRkFlRl9Ick5UZFI3NzZKLTBRM1Z0TXF2b1ZEeFBNTHp4cjl1Qm1adEFFa2FJRmZ1M3VZRkRZNF9nNzNvTHp6RjdOcHlEcHhlRl9vSDJwZ3FSQ1dEcG1Kb2xRT0U2ejJoaTZ1SWZyRnhmM1BOZ01tV00zc2xBeGlqeXFHOFc4bUItT0hSV2kxb1lENklHVjRSOWpoR0hpeHJBeXYtdUFURETSAf8BQVVfeXFMT1dGLVRXQXEtTEJkMGVxaGN3Q1RzNHFqWVJBN1h0cGpPUHQteXlRZ09Ja0FZOUF2T3cxaU1MbWhUcEl1ekFOVm1oandBUUtkLVctMW9PZFRmQjVTZEhOUDNhMWxiM2xNcndQVWR4YjN6eUNxTzRhbUNxdXBUdTk0bndZWU9YaTFOVGVkNXJhdVBPMlhmWGRfcEU5YXhsRDZSdVJGSWFqYksyUW1hcUFLSVhJNGRHeFpHV2Y3UWJnMDB1a3I5SGVWazBBNTlfU3pNWFZXTXV0dWNIOU04engzemhCa2stYnVKQ2d3Zm83Tk1Ka1B1VDdMMU10WXFFUERr?oc=5",
-      "source": "ge",
-      "language": "pt",
-      "publishedAt": "2026-08-13T17:05:38.000Z",
-      "whyItMattersKo": "상대 팀 감독 공백은 다음 경기 파우메이라스의 전략 수립에 유리하게 작용할 수 있습니다.",
-      "fanTakeKo": "상대 감독 없으면 우리가 유리하겠죠?",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-13-https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0FtZzlmdXJuXzV0anJQbzlQLTJudS15SU5rTjg3ZUF6U09wRlUwdmdDcD",
-      "title": "Fuchs treina em tempo integral e Palmeiras começa preparação visando Fluminense - palmeiras.com.br",
-      "summaryKo": "푸흐스 풀타임 훈련 복귀, 플루미넨세전 준비",
-      "excerpt": "Fuchs treina em tempo integral e Palmeiras começa preparação visando Fluminense&nbsp;&nbsp;palmeiras.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0FtZzlmdXJuXzV0anJQbzlQLTJudS15SU5rTjg3ZUF6U09wRlUwdmdDcDZkNjhwZlZ3U09UM3hMd0l6X3VwYUZPMTduekNHOWVuSGZ1OWlyVXRCcVExZVVfeGQ4OWtxZHVWRDZpaWtiNnhPTzVSUHBCVXBibGhldElCOG9hVmRCdk1jeEkzNFlxeWFoU0wyLV9qVGNMQjJzOW9taUcyMU9lV3hpNzlOQ0lCazJwVjJGb2c?oc=5",
-      "source": "palmeiras.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-13T17:05:18.000Z",
-      "whyItMattersKo": "선수의 완전한 훈련 복귀는 다음 경기 선발 명단에 들어 가능성을 높여줍니다.",
-      "fanTakeKo": "푸흐스 복귀하면 든든하네요",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-8-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVDJCR1VRZFd0cm9uWk1kSzFVM0hjamhZdFU4em1yUkI4RHFlMXJRWjJmWlJ",
-      "title": "Palmeiras empata com Cerro e deixa decisão aberta na Libertadores - G1",
-      "summaryKo": "파우메이라스, 리베르타도레스 탈출 미뤄짐",
-      "excerpt": "Palmeiras empata com Cerro e deixa decisão aberta na Libertadores&nbsp;&nbsp;G1",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVDJCR1VRZFd0cm9uWk1kSzFVM0hjamhZdFU4em1yUkI4RHFlMXJRWjJmWlJXTHZ0LTZkcU5FV1dsWGVLTTZzRGs0UkVzTWhrTFlfekRXbU1mRTN5cFhwVHQzMHFKX1pMRHlVWTlUUC1rRzQySWFSaTdobmltbmdTOElVb1Q2d2NkTlc5VExpWm0yaThpYUZ4UWpBajNBOHdlSDlPcXN6U1VQRVRKd05qVWdNdXdONWJZQ1FYZ2c3cFNXVEVYRDBNajB1ZURGZmZ6MXh5U2llcWtwTDg1TGl2OWFLcWxTT0xWTkJCVjdIcXDSAf8BQVVfeXFMTjRsVDB5alM1dXNrWjliTHRONXFjcWZfQk8taHBQMEFtdjQwLWM3YWhNZDREby1nLTRERExheTNPaHY4alNJQl9uQ1d1eFFfeGtSWG11ajJseXNEd1dPUVVyTVZhanh1Y2FYUXNCRjFWYno4RWVPazdFWmRBdU13ZXM0YTEyR0VFeWR0QUgwR2t5NUxTNXMxQ1ZBZnhyanNGdExVWGhnUmt2VXZpUnVkaFZMem5wOHlWcTZZOV9DaUI1Y2lXMTdKdHV0MU4yN3dDUW9jclZubTVhaktLUHlJdkc0Ql95Y3laVU5aSUxoRlVOLW1lNDd5WGNHVnVtaDZF?oc=5",
-      "source": "G1",
-      "language": "pt",
-      "publishedAt": "2026-08-13T17:00:13.000Z",
-      "whyItMattersKo": "승점을 놓쳐 조별 예선 통과가 마지막 경기 결과에 달리게 되었습니다.",
-      "fanTakeKo": "마지막 경기가 중요하겠네요.",
       "tags": [
         "뉴스",
         "AI요약"
