@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-15T04:31:57.347Z",
+  "fetchedAt": "2026-08-15T05:25:24.614Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnBUUFVNSGkxc0dna1F5djJmNVp0N1l2dHJqd01SZGpvNGpTelpWZzVyVlp",
+      "title": "Com Fluminense e Palmeiras, três jogos abrem a rodada do Brasileirão - Metrópoles",
+      "summaryKo": "브라질레이렁 새 라운드, 파우메이라스 개막전 출격",
+      "excerpt": "Com Fluminense e Palmeiras, três jogos abrem a rodada do Brasileirão&nbsp;&nbsp;Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnBUUFVNSGkxc0dna1F5djJmNVp0N1l2dHJqd01SZGpvNGpTelpWZzVyVlpxMGgzd3NJbWxwVktOVGV6ZUQ4TnQwbElzb1BqdDhac0Rkc01scGdLcDlvMlMwT2VCeGNtN3gtTElqR0dTUGszSlNkX1EzZkhldVpvckVWbXdwZ2twWm9aZjJ6UXJhMENiZjdlSG9OcmRTWExGV19zYTVR?oc=5",
+      "source": "Metrópoles",
+      "language": "pt",
+      "publishedAt": "2026-08-15T05:00:00.000Z",
+      "whyItMattersKo": "브라질레이렁 라운드 개막전 승리는 선두 경쟁에서 승점을 먼저 챙겨 기선을 제압하는 데 중요합니다.",
+      "fanTakeKo": "개막전 승리로 기분 좋게 시작하자.",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0JyYVRIdGNvb3RtVE9WczJtbm9Ic0M1OHVhc3dWMlU5REFaUUFWVUhWTFd",
+      "title": "🔥 Vamos invadir o Maraca! Em duelo fora de casa, o Palmeiras enfrenta o Fluminense pela 23ª rodada do Brasileirão, no Maracanã. Com 48 pontos, seis a mais que o Flamengo, que tem um jogo a menos, o Palmeiras busca se recuperar no Campeonato Br - facebook.com",
+      "summaryKo": "파우메이라스, 마라카낭 원정서 플루미넨전",
+      "excerpt": "🔥 Vamos invadir o Maraca! Em duelo fora de casa, o Palmeiras enfrenta o Fluminense pela 23ª rodada do Brasileirão, no Maracanã. Com 48 pontos, seis a mais que o Flamengo, que tem um jogo a menos, o Palmeiras busca se recuperar no Campeonat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0JyYVRIdGNvb3RtVE9WczJtbm9Ic0M1OHVhc3dWMlU5REFaUUFWVUhWTFdzWW95RXZKcWM3NGd6RW5ob29leHNDQjNPLTJMNXFSdFNjNXotRlRqbDd3cGJwR1U1M1EtR19qTXVTUXFMTjNrNEFOMUU3RkpnYUEtRHFxRl9sSjc1Q3A1TUc0SFU0ZkJkMXRfbnNqS3Q2aGN1R3NjT25pYlZuTGNVVDZFZDhUVnFPT0l2RG8wNFdBd25zcl85SlhCSlJRQUs1MUlsei1rWU1XZUlYMk5QMXBJ?oc=5",
+      "source": "facebook.com",
+      "language": "pt",
+      "publishedAt": "2026-08-15T04:35:04.000Z",
+      "whyItMattersKo": "플라멩구와의 점수 차를 유지하며 브라질레이렁 순위 경쟁에서 부진을 만회할 기회입니다.",
+      "fanTakeKo": "마라카낭 원정 승리 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
       "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
@@ -46,22 +78,6 @@
       "publishedAt": "2026-08-15T03:08:12.000Z",
       "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
       "fanTakeKo": "무조건 3점 가져와야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0JyYVRIdGNvb3RtVE9WczJtbm9Ic0M1OHVhc3dWMlU5REFaUUFWVUhWTFd",
-      "title": "🔥 Vamos invadir o Maraca! Em duelo fora de casa, o Palmeiras enfrenta o Fluminense pela 23ª rodada do Brasileirão, no Maracanã. Com 48 pontos, seis a mais que o Flamengo, que tem um jogo a menos, o Palmeiras busca se recuperar no Campeonato Br - facebook.com",
-      "summaryKo": "파우메이라스, 마라카낭 원정서 플루미넨전",
-      "excerpt": "🔥 Vamos invadir o Maraca! Em duelo fora de casa, o Palmeiras enfrenta o Fluminense pela 23ª rodada do Brasileirão, no Maracanã. Com 48 pontos, seis a mais que o Flamengo, que tem um jogo a menos, o Palmeiras busca se recuperar no Campeonat",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0JyYVRIdGNvb3RtVE9WczJtbm9Ic0M1OHVhc3dWMlU5REFaUUFWVUhWTFdzWW95RXZKcWM3NGd6RW5ob29leHNDQjNPLTJMNXFSdFNjNXotRlRqbDd3cGJwR1U1M1EtR19qTXVTUXFMTjNrNEFOMUU3RkpnYUEtRHFxRl9sSjc1Q3A1TUc0SFU0ZkJkMXRfbnNqS3Q2aGN1R3NjT25pYlZuTGNVVDZFZDhUVnFPT0l2RG8wNFdBd25zcl85SlhCSlJRQUs1MUlsei1rWU1XZUlYMk5QMXBJ?oc=5",
-      "source": "facebook.com",
-      "language": "pt",
-      "publishedAt": "2026-08-15T00:39:57.000Z",
-      "whyItMattersKo": "플라멩구와의 점수 차를 유지하며 브라질레이렁 순위 경쟁에서 부진을 만회할 기회입니다.",
-      "fanTakeKo": "마라카낭 원정 승리 기대합니다!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -185,7 +201,7 @@
       "summaryKo": "플루미넨전 시간과 선발 라인업 안내",
       "excerpt": "Fluminense x Palmeiras ao vivo: onde assistir, horário e escalações do jogo&nbsp;&nbsp;LeiaJá",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG05dlRMb1AySWU0MGotOXA1YXpiM0hGanZHVGdOaWkyRTdyX0xpNFVHUEd3QjJtSEsyRmpVTENUNnNtVVJmOU1vQWYxQ0hMYThkSDBoS3JtaGxfN3NMMmhKcm1wTWY0N1BKMkJiUE5hbGpnNDQyaHU4Yk9XWDlBTUFmTFZsV3RpNG9Rc3RmbXpycnBtaUwxRXVNV3prZUUtRGF1ZmR4WUY5Y2JCMWNpQ3ZCM05feURN?oc=5",
-      "source": "LeiaJá",
+      "source": "leiaja.com",
       "language": "pt",
       "publishedAt": "2026-08-14T22:30:00.000Z",
       "whyItMattersKo": "경기 시간과 선발 명단을 확인하고 브라질레이렁 일정에 맞춰 생중계를 준비할 수 있습니다.",
@@ -679,7 +695,7 @@
       "summaryKo": "세로포르테뇨 & 파우메이라스: 추측과 볼거리 - 당일",
       "excerpt": "Cerro Porteño x Palmeiras: Palpite e Onde Assistir&nbsp;&nbsp;O Dia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFI3UFVoSzl2RmhXVnJmZkVORV9Pb0lLNGxCQktXRW9fbEZwNWVyS090YzBianZ3X1o5My1QUWdVVE1FRnlnN21OUHhtT1lfSEJtc3BrRldQOGdKdXlMRzFNbXBpcE1tZkM3T3hoTy13S3k4a3Y4SGtmQmdsTU1BbzBhX042MVJQS0xSdXdTRVc?oc=5",
-      "source": "odia.ig.com.br",
+      "source": "O Dia",
       "language": "pt",
       "publishedAt": "2026-08-14T18:13:11.000Z",
       "tags": [
@@ -934,22 +950,6 @@
       "publishedAt": "2026-08-14T16:26:01.000Z",
       "whyItMattersKo": "파우메이라스를 떠난 두 선수의 새 팀 공식 행사는 이적 시장 결과를 확인하는 소식입니다.",
       "fanTakeKo": "떠난 선수들 새 출발 응원합니다!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-4-https://news.google.com/rss/articles/CBMisAFBVV95cUxOTG5xMEI3T0tPTnhvdEJlSTZsdkZaQ2RyUzAtM3NoOUgtWUxfdm5LNDd0M2J",
-      "title": "Fluminense e Palmeiras abrem a 23ª rodada do Brasileirão - band.com.br",
-      "summaryKo": "파우메이라스, 플루미넨스전으로 23라운드 개막",
-      "excerpt": "Fluminense e Palmeiras abrem a 23ª rodada do Brasileirão&nbsp;&nbsp;band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTG5xMEI3T0tPTnhvdEJlSTZsdkZaQ2RyUzAtM3NoOUgtWUxfdm5LNDd0M2JGUlpDMmE1N1FpZmdOSTg5QUphcGhjX0owbHVNWVZCOXJELVdZMjJQbHdZSjluNERRcnRBbkY4azMwb2RhN3cyOGpjMFY3Z3d4a3B3cUFCOURBMlFNNEhKSzUxbk1oV2dpeXVpeGZTT2QtWjk3emdQNEhwYVlnOVFtUVY5Qw?oc=5",
-      "source": "band.com.br",
-      "language": "pt",
-      "publishedAt": "2026-08-14T16:16:12.000Z",
-      "whyItMattersKo": "브라질레이렁 강팀 플루미넨스전이라 순위 경쟁에 중요한 변수가 됩니다.",
-      "fanTakeKo": "플루미넨스전, 기대가 큽니다!",
       "tags": [
         "뉴스",
         "AI요약"
