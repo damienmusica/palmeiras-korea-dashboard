@@ -1,8 +1,40 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-15T05:25:24.614Z",
+  "fetchedAt": "2026-08-15T05:51:32.806Z",
   "items": [
+    {
+      "id": "gnews-0-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXBaejZKRUs2MWdEQ2laQ3ZWU2RkV1EtUU5mSXZpZEJ4OXJQSC14NFJIMHY",
+      "title": "Fluminense e Palmeiras medem forças em situações distintas no Brasileirão - Agora RN",
+      "summaryKo": "파우메이라스, 플루미넨전서 상황 맞대결",
+      "excerpt": "Fluminense e Palmeiras medem forças em situações distintas no Brasileirão&nbsp;&nbsp;Agora RN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXBaejZKRUs2MWdEQ2laQ3ZWU2RkV1EtUU5mSXZpZEJ4OXJQSC14NFJIMHYyTVNFbVEzQnNIRW4yMGswRllpZlVyVWZnTlZuXzRnb2szLThlNERsV2NaMTZ4NXp0SFlrc3Ewa3FjWUFxb3J3YWs0TVNnd3RMV0xEQ0NrUUJXOC1uTzhlTjRtXzdST3IwNl9uU29vdDlNOTZaQnZGeEUtR1c?oc=5",
+      "source": "Agora RN",
+      "language": "pt",
+      "publishedAt": "2026-08-15T05:40:00.000Z",
+      "whyItMattersKo": "서로 다른 순위와 분위기를 가진 팀 간의 리그 경기라 결과에 따라 흐름이 바뀝니다.",
+      "fanTakeKo": "이번엔 무조건 이겨야 해!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-1-https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNVFGcVV4WmxDNzV2TWVJZEl6bk1DQV93UTBWWmd5al9GT3d1bDBBQmt3Uzh",
+      "title": "Idolatria à prova: Fluminense reencontra Arias em duelo com o também pressionado Palmeiras - O GLOBO",
+      "summaryKo": "압박감 속 파우메이라스, 플루미너전 시험",
+      "excerpt": "Idolatria à prova: Fluminense reencontra Arias em duelo com o também pressionado Palmeiras&nbsp;&nbsp;O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNVFGcVV4WmxDNzV2TWVJZEl6bk1DQV93UTBWWmd5al9GT3d1bDBBQmt3UzhPajR2MXRTZVZuV1hIdHhXY2ZmMjI5SXNwSWZ6N09La1ZuTnh3Vld2bnhEc19qR3Q5RlpiUGhDbDZ3TU80Snl3bTBsZUdOSTRfTWNHSEYtNzRJT1h3QnY2Nzd4MlRmUUlvdzctV1NVN3pQSGozMHV2bHVxNFFzMWVaMmpxRmN5TzRxWkFUUWFFN19uTGhuNnZFeUc2R3FaUnBTbDhmX2l3R0Y1a0ZWejdqVEViTjR4X2hteTZCOTRTa0lTcExpc1pWcWZZcEZDWdIBigJBVV95cUxObzkzMVdIbElMS1FWWF9sdlFoUEhoZy1RZUVnbE52UTV6eGxLNVJaTGsyckd4OXloTzZYdkpRSnlMX3hxOVZiWlNGNi1tMFlSUmgzU0VnM2V4MEFUal82WHMwWjQ5clBENHhpcGp6N083eGZidmxXUTVuR1NUVThUV3AyUnNxM0R6NTl2eEg2cVBIOHA0cFg5eVhHbTVmM18yRXNGRUYwdnl0cHhuTVE4MWJ0VnB1b2Fwd3MxZVEteFFaMzdWam5DTnJ6WXd2T3g3eGE0NzJxenAzN1JLd2VrTGR0dXcxSGVLVzNza2JGTlN5ekRLNFhENlNIclVZRmxkUmx5YmhmUmhBdw?oc=5",
+      "source": "O GLOBO",
+      "language": "pt",
+      "publishedAt": "2026-08-15T05:30:08.000Z",
+      "whyItMattersKo": "팬들의 압박감이 큰 상황에서 치르는 경기라 승리로 분위기를 반전시켜야 합니다.",
+      "fanTakeKo": "압박은 승리로 털어내자!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnBUUFVNSGkxc0dna1F5djJmNVp0N1l2dHJqd01SZGpvNGpTelpWZzVyVlp",
       "title": "Com Fluminense e Palmeiras, três jogos abrem a rodada do Brasileirão - Metrópoles",
@@ -30,6 +62,22 @@
       "publishedAt": "2026-08-15T04:35:04.000Z",
       "whyItMattersKo": "플라멩구와의 점수 차를 유지하며 브라질레이렁 순위 경쟁에서 부진을 만회할 기회입니다.",
       "fanTakeKo": "마라카낭 원정 승리 기대합니다!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
+    {
+      "id": "gnews-4-https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVdJVS1FNURxSzRrV1hYTEotNmZRZG5FcmdjZ0paSnZVQXRoM3REMVkzVC1",
+      "title": "Entenda como Pedro Emanuel pode encaixar Santiago Sosa no time do Vasco - Terra",
+      "summaryKo": "바스쿠, 산티아고 소사 전술 배치 분석",
+      "excerpt": "Entenda como Pedro Emanuel pode encaixar Santiago Sosa no time do Vasco&nbsp;&nbsp;Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVdJVS1FNURxSzRrV1hYTEotNmZRZG5FcmdjZ0paSnZVQXRoM3REMVkzVC15QzRmamhvcXNZUHdvTU05ckVfR1ZIeTk4WEQ0WjBvSGVFZWVaekJrRUVBU1ItRHpHTEltNUQtQV90em0ya19jd3JqMGJ0ZURFZVJnWGlsQVN4NWtHM3ZEZlg0UzRGWkpHVHVObUxmVF9TUy10dUgya012ejBCX3dyQUNNb181UnJRS2NqMVo4NVI4b1pYSUI1Sl9CRGVRQVhFcEh2Z0dSa1ZMem1iTy1fMlBfTUdET2V4N2JxOGdaVmVmZUo?oc=5",
+      "source": "Terra",
+      "language": "pt",
+      "publishedAt": "2026-08-15T04:17:00.000Z",
+      "whyItMattersKo": "바스쿠 감독이 신입 선수를 어떤 포지션에 배치할지 전력 강화의 핵심입니다.",
+      "fanTakeKo": "바스쿠 전력도 꽤 강해지겠네요.",
       "tags": [
         "뉴스",
         "AI요약"
@@ -201,7 +249,7 @@
       "summaryKo": "플루미넨전 시간과 선발 라인업 안내",
       "excerpt": "Fluminense x Palmeiras ao vivo: onde assistir, horário e escalações do jogo&nbsp;&nbsp;LeiaJá",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG05dlRMb1AySWU0MGotOXA1YXpiM0hGanZHVGdOaWkyRTdyX0xpNFVHUEd3QjJtSEsyRmpVTENUNnNtVVJmOU1vQWYxQ0hMYThkSDBoS3JtaGxfN3NMMmhKcm1wTWY0N1BKMkJiUE5hbGpnNDQyaHU4Yk9XWDlBTUFmTFZsV3RpNG9Rc3RmbXpycnBtaUwxRXVNV3prZUUtRGF1ZmR4WUY5Y2JCMWNpQ3ZCM05feURN?oc=5",
-      "source": "leiaja.com",
+      "source": "LeiaJá",
       "language": "pt",
       "publishedAt": "2026-08-14T22:30:00.000Z",
       "whyItMattersKo": "경기 시간과 선발 명단을 확인하고 브라질레이렁 일정에 맞춰 생중계를 준비할 수 있습니다.",
@@ -233,7 +281,7 @@
       "summaryKo": "플루미넨전 승부 예측과 이번 경기 관전 포인트",
       "excerpt": "Palpites e dicas para Fluminense x Palmeiras pelo Brasileirão&nbsp;&nbsp;ge",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXd1cWJhTDdTdmRnc3RGYjl3RlBieE0xWVpMVWdwWVkyYUtrdEgzM3JLb0g1WDQyZlZLRklIckNjcVBPbDNPNHlKRXUyTTJLNUlLQVFTb1gtU0doai1jNTV6Ulp4a0xjdDZhQnNEbHhnTTRIazdtU1pJd0RjN3Q4dDJ1TDJGTXk0MktzNzg1VGNYaUZvcXlQeXdWSjNWZ2Ntb2NGR2Jmb2RRZkRzZ29ITUpNSkFJbzJwUlViY0F1TnBxR2_SAdIBQVVfeXFMT3pSeXFqLWpVSm1BS3FlWFV2N0NMdFZBdldqMDB4dW52d1dIRWpTMXJWbV9rMVYyNXhnZkxHb2VENHdzSlBtaXFYTmNCTUhtLW9IMHJHZk9mUmhXX2FZalRYZC1rdEdyS0dFWXNLc0RQWFYwMjZaSmN3NEtsajFOV190S0ZMZExld1p4V25hWGd2S2djVVFVWXpfYzBGaG1ZZzVHbC1keEFjOG45MlRJX0QwUWw0RWlDeGRXekJ4OG5Id3RId1FVd2pDUFZpYTRzeEdn?oc=5",
-      "source": "ge",
+      "source": "GE",
       "language": "pt",
       "publishedAt": "2026-08-14T22:10:08.000Z",
       "whyItMattersKo": "브라질레이렁 일정 중 이번 경기 분석을 통해 팀의 승부 가능성을 미리 점쳐볼 수 있습니다.",
@@ -902,54 +950,6 @@
       "publishedAt": "2026-08-14T16:47:55.000Z",
       "whyItMattersKo": "원정 명물 마라카낭에서의 플루미넨전은 팀의 원정 전력과 멘탈을 시험할 중요한 고비입니다.",
       "fanTakeKo": "마라카낭 승리하고 기세 올리자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-1-https://news.google.com/rss/articles/CBMipgJBVV95cUxOa2loMXhiM2hONExWUDB1Sllqck9mLWEtMmJqTVZfenVRY0dJSmY3OGxJbTU",
-      "title": "Sabia dessa? Marcos alugou apartamento para trio do Palmeiras, e Love brinca que ídolo 'sofria' por barulho: 'Só sendo santo mesmo para aguentar...' - ESPN Brasil",
-      "summaryKo": "마르코스, 파우메이라스 트리오 위해 집 알선",
-      "excerpt": "Sabia dessa? Marcos alugou apartamento para trio do Palmeiras, e Love brinca que ídolo 'sofria' por barulho: 'Só sendo santo mesmo para aguentar...'&nbsp;&nbsp;ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOa2loMXhiM2hONExWUDB1Sllqck9mLWEtMmJqTVZfenVRY0dJSmY3OGxJbTU4U0kyVm9zS3Y1ZlFEQS1SRUcyTFo3MERmZEZCNlFpQkd3bmtieDdGUWxpZUlvY3pxY2Y0Y3I1ZUkzRUlzZi1FYWo3OGE4cFJOdnZGNEM4ejhCQ1l4TFZyMVUwd2s0RXVDRjVCOE9QYmlrUzhGUzJIcmphTDNydHlpSkVoWnNhZlNYN0haaW1rejMyaTNKQ2pfQ3NVUUhDVHA2M05oSl9GYkJ5MVA5bXoxTGFiQzJFc05faTdGNWxUNlFPeVVQMWN4Vl9iTHVCY0h3RFFoSjhHbkNBeW9sTHZ6QTA1bE1VTFpmZWR1THpqZzZnelpFODJkU1E?oc=5",
-      "source": "ESPN Brasil",
-      "language": "pt",
-      "publishedAt": "2026-08-14T16:47:00.000Z",
-      "whyItMattersKo": "레전드 골키퍼가 후배들을 위해 집을 알선해준 일화는 팀 내 화합과 전통을 보여줍니다.",
-      "fanTakeKo": "마르코스 정말 멋진 분이시네요!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXlEekQzdlU1eHR0R1BmUmdoV0dnb3VEMy05TnZKTUVONnR1WTg0SGdFVG5",
-      "title": "Brasileirão tem nove jogos neste fim de semana pela 23ª rodada; Palmeiras, Flamengo e Corinthians entram em campo - soudepalmas.com.br",
-      "summaryKo": "브라질레이렁, 주말 23라운드 일정 정리",
-      "excerpt": "Brasileirão tem nove jogos neste fim de semana pela 23ª rodada; Palmeiras, Flamengo e Corinthians entram em campo&nbsp;&nbsp;soudepalmas.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXlEekQzdlU1eHR0R1BmUmdoV0dnb3VEMy05TnZKTUVONnR1WTg0SGdFVG5ucExNQjktLVJWekM2Q0lYYk40Uy11b2xXanduZkVHNExrRDMwYVliWGh0WS1CNFNEQkwzZzFXa1FONUw0RFc2QXpRUkJGOW9ua05SQnR1YUF3UXl6emY5dnJQeXZuRkNTMm9SWHREMVU4Ukw5MEh0eGhWSVJWVnBmUFotUlFuQWEwNXliU2N0U2NHbkxCQmRBTFdWOTVXREhqSE5lWWRIZFl1UFNGNmJrSm0yeDh1WjlFOXg4MmxvUUdvLXF0eHliU1A2YlR3?oc=5",
-      "source": "Sou de Palmas",
-      "language": "pt",
-      "publishedAt": "2026-08-14T16:31:36.000Z",
-      "whyItMattersKo": "주요 라이벌 팀들까지 모두 뛰는 주말이라 승점 차이와 순위 변동에 큰 영향이 예상됩니다.",
-      "fanTakeKo": "우리 경기 결과에 촉각을 세우자!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-3-https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTN5eE1vcVM0UFhabi1CVmJ3Smh2REJKQjNBOU5mVUR1NF9BVVJtbE41MkY",
-      "title": "AO VIVO: assista à apresentação de Sosa e Colidio no Vasco - LANCE!",
-      "summaryKo": "소사와 콜리디오, 바스쿠서 공식 입단식",
-      "excerpt": "AO VIVO: assista à apresentação de Sosa e Colidio no Vasco&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTN5eE1vcVM0UFhabi1CVmJ3Smh2REJKQjNBOU5mVUR1NF9BVVJtbE41MkY0eTIxdzlucXdSRXpqa1g5SWN3YTlna25TeTF1NURtM1U2R1JhMWYzUUVOOWtsaFA5NlZGNnN2SU9HWXczZ01URzRQZkRxNEJsZnd4UTFkVGVRdGgwQjBzU2wwOXlzdlZHSkgyeg?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-14T16:26:01.000Z",
-      "whyItMattersKo": "파우메이라스를 떠난 두 선수의 새 팀 공식 행사는 이적 시장 결과를 확인하는 소식입니다.",
-      "fanTakeKo": "떠난 선수들 새 출발 응원합니다!",
       "tags": [
         "뉴스",
         "AI요약"
