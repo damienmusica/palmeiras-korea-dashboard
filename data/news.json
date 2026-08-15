@@ -1,8 +1,24 @@
 {
   "origin": "rss",
   "source": "Google News RSS + LLM(GLM-4.7) 요약",
-  "fetchedAt": "2026-08-15T03:39:22.425Z",
+  "fetchedAt": "2026-08-15T04:31:57.347Z",
   "items": [
+    {
+      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
+      "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
+      "summaryKo": "플루미넨전 분석과 전망, 관전 포인트는?",
+      "excerpt": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08)&nbsp;&nbsp;LANCE!",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJjX1B5anRCSDdNbkdad3oxNmNxMkVCTEhlWEszUFJOOUVacWxLNm96YURsRlZERjNxeGtBWHZpcEdvWEl5LTZFRVFsMXV0a0Y0YkljLXNLVndxYk0td0Q5XzJuTzVrZU0?oc=5",
+      "source": "LANCE!",
+      "language": "pt",
+      "publishedAt": "2026-08-15T03:46:57.000Z",
+      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
+      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
+      "tags": [
+        "뉴스",
+        "AI요약"
+      ]
+    },
     {
       "id": "gnews-0-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT1FSM3ZmdVZURWNJTmdTUlc1U2VNN0NpZWdaNWNYZThKeFQ4WEZaVDk5SnJ",
       "title": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 23ª rodada - GE",
@@ -30,22 +46,6 @@
       "publishedAt": "2026-08-15T03:08:12.000Z",
       "whyItMattersKo": "리그 순위 쟁탈이 치열한 가운데 이 경기 결과가 시즌 흐름에 큰 영향을 줍니다.",
       "fanTakeKo": "무조건 3점 가져와야죠!",
-      "tags": [
-        "뉴스",
-        "AI요약"
-      ]
-    },
-    {
-      "id": "gnews-2-https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJ",
-      "title": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08) - LANCE!",
-      "summaryKo": "플루미넨전 분석과 전망, 관전 포인트는?",
-      "excerpt": "Fluminense x Palmeiras Palpite – Análise e notícias (15/08)&nbsp;&nbsp;LANCE!",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZSMklMT3VUYTZIb1lxWGwxTUZSSjM0bG9EZy1sdkVlUzQtY3dYekJ3dnJjX1B5anRCSDdNbkdad3oxNmNxMkVCTEhlWEszUFJOOUVacWxLNm96YURsRlZERjNxeGtBWHZpcEdvWEl5LTZFRVFsMXV0a0Y0YkljLXNLVndxYk0td0Q5XzJuTzVrZU0?oc=5",
-      "source": "LANCE!",
-      "language": "pt",
-      "publishedAt": "2026-08-15T00:43:38.000Z",
-      "whyItMattersKo": "다가오는 경기 일정과 상대 전력을 파악해 승리 전략을 세울 수 있습니다.",
-      "fanTakeKo": "이번 경기는 무조건 이겨야죠!",
       "tags": [
         "뉴스",
         "AI요약"
@@ -537,7 +537,7 @@
       "summaryKo": "파우메이라스, 플루미넨스전 라인업 점쳐보기",
       "excerpt": "Fluminense x Palmeiras: Veja a provável escalação do Verdão&nbsp;&nbsp;Tribuna de Jundiaí",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHZPR2dfYWRPUGpqV3RmV3NtMmpLcE96NjduODh2dnJsbC1mWGpDcF85OEJOVmdTX0txQ1Atd1VzU19uTVNDbEdOUF9KRTVSVDRBSll3T2RyS1JBWXVvOVRoNV9nY3JzR0dPeXpCQWIzQlR3WjZzQnJNRVpxcTkycHkwMlNKWlZ2aTAxSFhUd1dDcWRmUmdlZmdWeFZqZUNpbjJtNU5yZzg?oc=5",
-      "source": "tribunadejundiai.com.br",
+      "source": "Tribuna de Jundiaí",
       "language": "pt",
       "publishedAt": "2026-08-14T18:55:41.000Z",
       "whyItMattersKo": "다가오는 경기 예상 선발 명단을 통해 팀의 전력과 전술을 미리 파악할 수 있습니다.",
